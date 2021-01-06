@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.018022,52.585340,-2.018022,52.585340",
-    "geom:latitude": 52.58534,
-    "geom:longitude": -2.018022,
+    "geom:bbox": "-2.018105,52.585320,-2.018105,52.585320",
+    "geom:latitude": 52.58532,
+    "geom:longitude": -2.018105,
     "gp:parent_id": "39052",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698875, 
       1125853123, 
       404227469, 
-      1360698605
+      1360698605, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701076,
-    "wof:geomhash": "b53fea328c9efe3b0268c9c10462a50b",
+    "wof:geomhash": "6d774baf9425e860f6a058d1a712c407",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488193089,
-    "wof:lastmodified": 1583786327,
+    "wof:lastmodified": 1609879322,
     "wof:name": "WS2 0BS",
     "wof:parent_id": 101914035,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.018022, 
-    52.58534, 
-    -2.018022, 
-    52.58534
+    -2.018105, 
+    52.58532, 
+    -2.018105, 
+    52.58532
   ],
-  "geometry": {"coordinates":[-2.018022,52.58534],"type":"Point"}
+  "geometry": {"coordinates":[-2.018105,52.58532],"type":"Point"}
 }

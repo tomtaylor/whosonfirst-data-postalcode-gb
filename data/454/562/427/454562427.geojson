@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.517411,50.727041,-3.517411,50.727041",
-    "geom:latitude": 50.727041,
-    "geom:longitude": -3.517411,
+    "geom:bbox": "-3.517485,50.727101,-3.517485,50.727101",
+    "geom:latitude": 50.727101,
+    "geom:longitude": -3.517485,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,11 +18,11 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360699081, 
       101750383, 
       404227469, 
-      1360698541, 
-      85633159, 
-      1360699081
+      1360698541
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -30,7 +30,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701639,
-    "wof:geomhash": "1eedee9543f78c8f355faf059d610886",
+    "wof:geomhash": "0fb8e811a79e8086e269bae7b29e67d1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -41,7 +41,7 @@
       }
     ],
     "wof:id": 454562427,
-    "wof:lastmodified": 1583786768,
+    "wof:lastmodified": 1609894486,
     "wof:name": "EX1 2HQ",
     "wof:parent_id": 101750383,
     "wof:placetype": "postalcode",
@@ -51,10 +51,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.517411, 
-    50.727041, 
-    -3.517411, 
-    50.727041
+    -3.517485, 
+    50.727101, 
+    -3.517485, 
+    50.727101
   ],
-  "geometry": {"coordinates":[-3.517411,50.727041],"type":"Point"}
+  "geometry": {"coordinates":[-3.517485,50.727101],"type":"Point"}
 }

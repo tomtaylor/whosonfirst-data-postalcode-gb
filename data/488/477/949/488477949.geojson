@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1985-03-01",
     "geom:area": 0,
-    "geom:bbox": "-4.154122,55.856245,-4.154122,55.856245",
-    "geom:latitude": 55.856245,
-    "geom:longitude": -4.154122,
+    "geom:bbox": "-4.154152,55.856159,-4.154152,55.856159",
+    "geom:latitude": 55.856159,
+    "geom:longitude": -4.154152,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360698797, 
       404430153, 
       1175612707, 
       404227471, 
       85790555, 
-      1360698707, 
-      85633159
+      1360698707
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701489,
-    "wof:geomhash": "a7e72eb189c477579ac716c72234514d",
+    "wof:geomhash": "97f69ec4ec4edd0cd7ee646e8586c2ed",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 488477949,
-    "wof:lastmodified": 1583786698,
+    "wof:lastmodified": 1609893546,
     "wof:name": "G32 0BH",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.154122, 
-    55.856245, 
-    -4.154122, 
-    55.856245
+    -4.154152, 
+    55.856159, 
+    -4.154152, 
+    55.856159
   ],
-  "geometry": {"coordinates":[-4.154122,55.856245],"type":"Point"}
+  "geometry": {"coordinates":[-4.154152,55.856159],"type":"Point"}
 }

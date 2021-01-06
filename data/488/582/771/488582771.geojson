@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1993-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.261918,51.393282,-3.261918,51.393282",
-    "geom:latitude": 51.393282,
-    "geom:longitude": -3.261918,
+    "geom:bbox": "-3.261521,51.393151,-3.261521,51.393151",
+    "geom:latitude": 51.393151,
+    "geom:longitude": -3.261521,
     "gp:parent_id": "12696121",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227475, 
-      1360698627, 
-      85633159, 
       1360698899, 
       404433843, 
-      1243583119
+      1243583119, 
+      404227475, 
+      1360698627, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701602,
-    "wof:geomhash": "cc8aca6eefae36788b7ba80fb106d040",
+    "wof:geomhash": "af163f6cbae3eac4379135252ea3627e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488582771,
-    "wof:lastmodified": 1583786792,
+    "wof:lastmodified": 1609897725,
     "wof:name": "CF62 5QS",
     "wof:parent_id": 101750395,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.261918, 
-    51.393282, 
-    -3.261918, 
-    51.393282
+    -3.261521, 
+    51.393151, 
+    -3.261521, 
+    51.393151
   ],
-  "geometry": {"coordinates":[-3.261918,51.393282],"type":"Point"}
+  "geometry": {"coordinates":[-3.261521,51.393151],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-05-01",
     "geom:area": 0,
-    "geom:bbox": "-0.953320,51.405776,-0.953320,51.405776",
-    "geom:latitude": 51.405776,
-    "geom:longitude": -0.95332,
+    "geom:bbox": "-0.953633,51.405923,-0.953633,51.405923",
+    "geom:latitude": 51.405923,
+    "geom:longitude": -0.953633,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1126031037, 
-      404227469, 
       1360698529, 
       85633159, 
       1360698967, 
-      404431865
+      404431865, 
+      1126031037, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583793068,
-    "wof:geomhash": "5e9cc5c02d6ac5cfa4494c102b8dd397",
+    "wof:geomhash": "5217b006b254bb4f52b66cb079f22f52",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 38681262,
-    "wof:lastmodified": 1595710960,
+    "wof:lastmodified": 1609868537,
     "wof:name": "RG2 9RB",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.95332, 
-    51.405776, 
-    -0.95332, 
-    51.405776
+    -0.953633, 
+    51.405923, 
+    -0.953633, 
+    51.405923
   ],
-  "geometry": {"coordinates":[-0.95332,51.405776],"type":"Point"}
+  "geometry": {"coordinates":[-0.953633,51.405923],"type":"Point"}
 }

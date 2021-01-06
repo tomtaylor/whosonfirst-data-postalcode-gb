@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.750172,54.713153,-1.750172,54.713153",
+    "geom:bbox": "-1.750188,54.713153,-1.750188,54.713153",
     "geom:latitude": 54.713153,
-    "geom:longitude": -1.750172,
+    "geom:longitude": -1.750188,
     "gp:parent_id": "17392",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      1125881531, 
       404227469, 
       1360698621, 
       85633159, 
       1360699055, 
-      1360817113
+      1360817113, 
+      1125881531
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701540,
-    "wof:geomhash": "d58fddcd9e98b6e50c4ffe4f0407dd7f",
+    "wof:geomhash": "567e52e2ce7bdb630972caa6ab7ad063",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454396389,
-    "wof:lastmodified": 1583786667,
+    "wof:lastmodified": 1609887361,
     "wof:name": "DL15 9PY",
     "wof:parent_id": 404440671,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.750172, 
+    -1.750188, 
     54.713153, 
-    -1.750172, 
+    -1.750188, 
     54.713153
   ],
-  "geometry": {"coordinates":[-1.750172,54.713153],"type":"Point"}
+  "geometry": {"coordinates":[-1.750188,54.713153],"type":"Point"}
 }

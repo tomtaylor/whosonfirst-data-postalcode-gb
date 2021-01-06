@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1994-05-01",
     "geom:area": 0,
-    "geom:bbox": "-2.234085,53.438593,-2.234085,53.438593",
-    "geom:latitude": 53.438593,
-    "geom:longitude": -2.234085,
+    "geom:bbox": "-2.234040,53.438629,-2.234040,53.438629",
+    "geom:latitude": 53.438629,
+    "geom:longitude": -2.23404,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      85787341, 
+      1360698555, 
       85633159, 
       1360698893, 
       101750525, 
-      404227469, 
-      85787341, 
-      1360698555
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701179,
-    "wof:geomhash": "9c78947432eb487cbe899972a7d4307a",
+    "wof:geomhash": "4bf731af4657ec133780d09a547baae6",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 470872083,
-    "wof:lastmodified": 1583786308,
+    "wof:lastmodified": 1609870642,
     "wof:name": "M20 1GQ",
     "wof:parent_id": 101750525,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.234085, 
-    53.438593, 
-    -2.234085, 
-    53.438593
+    -2.23404, 
+    53.438629, 
+    -2.23404, 
+    53.438629
   ],
-  "geometry": {"coordinates":[-2.234085,53.438593],"type":"Point"}
+  "geometry": {"coordinates":[-2.23404,53.438629],"type":"Point"}
 }

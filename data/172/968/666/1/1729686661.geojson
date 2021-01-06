@@ -1,0 +1,59 @@
+{
+  "id": 1729686661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-06-01",
+    "geom:area": 0,
+    "geom:bbox": "-4.923146,51.728041,-4.923146,51.728041",
+    "geom:latitude": 51.728041,
+    "geom:longitude": -4.923146,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "W92000004",
+    "os:county_code": "W99999999",
+    "os:district_code": "W06000009",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "W99999999",
+    "src:geom": "os",
+    "wof:belongsto": [
+      1360698843, 
+      404434619, 
+      1360711739, 
+      404227475, 
+      1360698639, 
+      85633159
+    ],
+    "wof:breaches": [],
+    "wof:country": "GB",
+    "wof:created": 1609906287,
+    "wof:geomhash": "761c97fa5b78f88682c3420d6d43dcaf",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698843,
+        "localadmin_id": 404434619,
+        "locality_id": 1360711739,
+        "macroregion_id": 404227475,
+        "region_id": 1360698639
+      }
+    ],
+    "wof:id": 1729686661,
+    "wof:lastmodified": 1609906287,
+    "wof:name": "SA73 1PQ",
+    "wof:parent_id": -1,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -4.923146, 
+    51.728041, 
+    -4.923146, 
+    51.728041
+  ],
+  "geometry": {"coordinates":[-4.923146,51.728041],"type":"Point"}
+}

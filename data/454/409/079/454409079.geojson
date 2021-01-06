@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.634063,54.280308,-1.634063,54.280308",
-    "geom:latitude": 54.280308,
-    "geom:longitude": -1.634063,
+    "geom:bbox": "-1.633303,54.280218,-1.633303,54.280218",
+    "geom:latitude": 54.280218,
+    "geom:longitude": -1.633303,
     "gp:parent_id": "14640",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698619, 
-      85633159, 
       1360698753, 
       404453593, 
-      1360759345
+      1360759345, 
+      404227469, 
+      1360698619, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701548,
-    "wof:geomhash": "22c89a57efdf786ecd8d3179354ac252",
+    "wof:geomhash": "7d8bf1f3722346349a7d604207c48dd5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454409079,
-    "wof:lastmodified": 1583786673,
+    "wof:lastmodified": 1609888266,
     "wof:name": "DL8 1RQ",
     "wof:parent_id": 404453593,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.634063, 
-    54.280308, 
-    -1.634063, 
-    54.280308
+    -1.633303, 
+    54.280218, 
+    -1.633303, 
+    54.280218
   ],
-  "geometry": {"coordinates":[-1.634063,54.280308],"type":"Point"}
+  "geometry": {"coordinates":[-1.633303,54.280218],"type":"Point"}
 }

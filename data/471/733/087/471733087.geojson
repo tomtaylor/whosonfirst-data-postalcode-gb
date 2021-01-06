@@ -19,12 +19,11 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      85786345, 
-      1360698645, 
-      1158857299, 
       85633159, 
       101750367, 
-      404227469
+      404227469, 
+      85786345, 
+      1360698645
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -35,7 +34,6 @@
     "wof:geomhash": "1678de6b1a54bcc01db589087ff5b896",
     "wof:hierarchy": [
       {
-        "borough_id": 1158857299,
         "country_id": 85633159,
         "locality_id": 101750367,
         "macroregion_id": 404227469,
@@ -44,7 +42,7 @@
       }
     ],
     "wof:id": 471733087,
-    "wof:lastmodified": 1583786892,
+    "wof:lastmodified": 1609901796,
     "wof:name": "SE6 4BJ",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",

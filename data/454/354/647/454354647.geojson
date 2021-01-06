@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1992-08-01",
     "geom:area": 0,
-    "geom:bbox": "-1.449944,53.052313,-1.449944,53.052313",
-    "geom:latitude": 53.052313,
-    "geom:longitude": -1.449944,
+    "geom:bbox": "-1.449971,53.052386,-1.449971,53.052386",
+    "geom:latitude": 53.052386,
+    "geom:longitude": -1.449971,
     "gp:parent_id": "22826",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698765, 
+      404438739, 
       1243291125, 
       404227469, 
       1360698539, 
-      85633159, 
-      1360698765, 
-      404438739
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701512,
-    "wof:geomhash": "23a83f303657d2632415f2b5bdfc68e8",
+    "wof:geomhash": "e3030d283f35372495eb8d4ddc8127af",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454354647,
-    "wof:lastmodified": 1583786640,
+    "wof:lastmodified": 1609885197,
     "wof:name": "DE56 2BG",
     "wof:parent_id": 404438739,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.449944, 
-    53.052313, 
-    -1.449944, 
-    53.052313
+    -1.449971, 
+    53.052386, 
+    -1.449971, 
+    53.052386
   ],
-  "geometry": {"coordinates":[-1.449944,53.052313],"type":"Point"}
+  "geometry": {"coordinates":[-1.449971,53.052386],"type":"Point"}
 }

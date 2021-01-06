@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1993-08-01",
     "geom:area": 0,
-    "geom:bbox": "-1.723526,54.382336,-1.723526,54.382336",
-    "geom:latitude": 54.382336,
-    "geom:longitude": -1.723526,
+    "geom:bbox": "-1.718638,54.383367,-1.718638,54.383367",
+    "geom:latitude": 54.383367,
+    "geom:longitude": -1.718638,
     "gp:parent_id": "15440",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404430767, 
-      1360754929, 
       404227469, 
       1360698619, 
       85633159, 
-      1360698753
+      1360698753, 
+      404430767, 
+      1360754929
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701552,
-    "wof:geomhash": "f039fd2e506f88dbabca98669b06cf35",
+    "wof:geomhash": "e1d06accc78e22aae8cacfab2b10c08b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454411475,
-    "wof:lastmodified": 1583786679,
+    "wof:lastmodified": 1609888414,
     "wof:name": "DL9 4AU",
     "wof:parent_id": 101872307,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.723526, 
-    54.382336, 
-    -1.723526, 
-    54.382336
+    -1.718638, 
+    54.383367, 
+    -1.718638, 
+    54.383367
   ],
-  "geometry": {"coordinates":[-1.723526,54.382336],"type":"Point"}
+  "geometry": {"coordinates":[-1.718638,54.383367],"type":"Point"}
 }

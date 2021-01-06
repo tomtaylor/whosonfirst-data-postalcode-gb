@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.401695,52.163076,-0.401695,52.163076",
-    "geom:latitude": 52.163076,
-    "geom:longitude": -0.401695,
+    "geom:bbox": "-0.401354,52.163021,-0.401354,52.163021",
+    "geom:latitude": 52.163021,
+    "geom:longitude": -0.401354,
     "gp:parent_id": "33117",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699073, 
       404451933, 
       1125971897, 
       404227469, 
-      1360698527
+      1360698527, 
+      85633159, 
+      1360699073
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701356,
-    "wof:geomhash": "deaa3811efc65783bb604bb0e5956374",
+    "wof:geomhash": "c089c64e71b23b46147b15544fe89972",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470976709,
-    "wof:lastmodified": 1583786492,
+    "wof:lastmodified": 1609878147,
     "wof:name": "MK41 0LR",
     "wof:parent_id": 404451933,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.401695, 
-    52.163076, 
-    -0.401695, 
-    52.163076
+    -0.401354, 
+    52.163021, 
+    -0.401354, 
+    52.163021
   ],
-  "geometry": {"coordinates":[-0.401695,52.163076],"type":"Point"}
+  "geometry": {"coordinates":[-0.401354,52.163021],"type":"Point"}
 }

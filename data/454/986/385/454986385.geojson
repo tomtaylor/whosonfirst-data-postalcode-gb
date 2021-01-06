@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.257615,54.106727,-3.257615,54.106727",
-    "geom:latitude": 54.106727,
-    "geom:longitude": -3.257615,
+    "geom:bbox": "-3.258514,54.107122,-3.258514,54.107122",
+    "geom:latitude": 54.107122,
+    "geom:longitude": -3.258514,
     "gp:parent_id": "39042",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698721, 
-      85633159, 
       1360698877, 
       101872343, 
-      404227469
+      404227469, 
+      1360698721, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701765,
-    "wof:geomhash": "f6550dab339267b945b538a2d61ac7e0",
+    "wof:geomhash": "c5d02aae37d410f31f07108b3e2c3d98",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454986385,
-    "wof:lastmodified": 1583786901,
+    "wof:lastmodified": 1609905605,
     "wof:name": "LA14 3LW",
     "wof:parent_id": 404450105,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.257615, 
-    54.106727, 
-    -3.257615, 
-    54.106727
+    -3.258514, 
+    54.107122, 
+    -3.258514, 
+    54.107122
   ],
-  "geometry": {"coordinates":[-3.257615,54.106727],"type":"Point"}
+  "geometry": {"coordinates":[-3.258514,54.107122],"type":"Point"}
 }

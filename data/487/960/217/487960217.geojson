@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.198695,54.572243,-1.198695,54.572243",
-    "geom:latitude": 54.572243,
-    "geom:longitude": -1.198695,
+    "geom:bbox": "-1.197753,54.572920,-1.197753,54.572920",
+    "geom:latitude": 54.57292,
+    "geom:longitude": -1.197753,
     "gp:parent_id": "28869",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698619, 
       85633159, 
       1360698853, 
-      101750599
+      101750599, 
+      404227469, 
+      1360698619
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701288,
-    "wof:geomhash": "a5b7704ef02f36f037042efcd2bc6403",
+    "wof:geomhash": "9312475722d98f4a2eeae2c2da002e53",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 487960217,
-    "wof:lastmodified": 1583786353,
+    "wof:lastmodified": 1609888864,
     "wof:name": "TS3 8TD",
     "wof:parent_id": 101750599,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.198695, 
-    54.572243, 
-    -1.198695, 
-    54.572243
+    -1.197753, 
+    54.57292, 
+    -1.197753, 
+    54.57292
   ],
-  "geometry": {"coordinates":[-1.198695,54.572243],"type":"Point"}
+  "geometry": {"coordinates":[-1.197753,54.57292],"type":"Point"}
 }

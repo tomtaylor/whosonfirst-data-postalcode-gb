@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-07-01",
     "geom:area": 0,
-    "geom:bbox": "-2.482185,52.670973,-2.482185,52.670973",
-    "geom:latitude": 52.670973,
-    "geom:longitude": -2.482185,
+    "geom:bbox": "-2.482201,52.671081,-2.482201,52.671081",
+    "geom:latitude": 52.671081,
+    "geom:longitude": -2.482201,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698911, 
-      404430827, 
       1360754985, 
       404227469, 
       1360698587, 
-      85633159
+      85633159, 
+      1360698911, 
+      404430827
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583803147,
-    "wof:geomhash": "32b63af1e19be8ec5f9ca400125e69c0",
+    "wof:geomhash": "d61f84921e0f54bbe965ed2e49402c13",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1161083468,
-    "wof:lastmodified": 1583803147,
+    "wof:lastmodified": 1609875753,
     "wof:name": "TF4 2SW",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.482185, 
-    52.670973, 
-    -2.482185, 
-    52.670973
+    -2.482201, 
+    52.671081, 
+    -2.482201, 
+    52.671081
   ],
-  "geometry": {"coordinates":[-2.482185,52.670973],"type":"Point"}
+  "geometry": {"coordinates":[-2.482201,52.671081],"type":"Point"}
 }

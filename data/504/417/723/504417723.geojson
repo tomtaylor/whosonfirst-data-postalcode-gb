@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.105521,55.784476,-4.105521,55.784476",
-    "geom:latitude": 55.784476,
-    "geom:longitude": -4.105521,
+    "geom:bbox": "-4.105587,55.784520,-4.105587,55.784520",
+    "geom:latitude": 55.78452,
+    "geom:longitude": -4.105587,
     "gp:parent_id": "12696210",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698703, 
+      85633159, 
       1360698969, 
       404453929, 
-      404227471, 
-      1360698703, 
-      85633159
+      404227471
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701302,
-    "wof:geomhash": "e39bfddb366105f95dd6f390bcf65735",
+    "wof:geomhash": "cabca785a2c0e5cd4805ff6dc4dcad45",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504417723,
-    "wof:lastmodified": 1583786307,
+    "wof:lastmodified": 1609870264,
     "wof:name": "G72 0DW",
     "wof:parent_id": 404453929,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.105521, 
-    55.784476, 
-    -4.105521, 
-    55.784476
+    -4.105587, 
+    55.78452, 
+    -4.105587, 
+    55.78452
   ],
-  "geometry": {"coordinates":[-4.105521,55.784476],"type":"Point"}
+  "geometry": {"coordinates":[-4.105587,55.78452],"type":"Point"}
 }

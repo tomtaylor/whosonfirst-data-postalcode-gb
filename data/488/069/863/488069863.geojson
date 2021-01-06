@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.297878,53.282886,-2.297878,53.282886",
-    "geom:latitude": 53.282886,
-    "geom:longitude": -2.297878,
+    "geom:bbox": "-2.297877,53.282885,-2.297877,53.282885",
+    "geom:latitude": 53.282885,
+    "geom:longitude": -2.297877,
     "gp:parent_id": "28451",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698537, 
-      85633159, 
-      1360698929, 
       404443659, 
       1327269301, 
-      404227469
+      404227469, 
+      1360698537, 
+      85633159, 
+      1360698929
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701228,
-    "wof:geomhash": "59cacbdcbf51ffa15d15c7df39182636",
+    "wof:geomhash": "a590048e914776a28d4c39a971fa0bf2",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488069863,
-    "wof:lastmodified": 1583786395,
+    "wof:lastmodified": 1609871054,
     "wof:name": "WA16 7SH",
     "wof:parent_id": 404443659,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.297878, 
-    53.282886, 
-    -2.297878, 
-    53.282886
+    -2.297877, 
+    53.282885, 
+    -2.297877, 
+    53.282885
   ],
-  "geometry": {"coordinates":[-2.297878,53.282886],"type":"Point"}
+  "geometry": {"coordinates":[-2.297877,53.282885],"type":"Point"}
 }

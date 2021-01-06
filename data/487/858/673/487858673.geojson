@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1994-05-01",
     "geom:area": 0,
-    "geom:bbox": "0.875274,51.220549,0.875274,51.220549",
-    "geom:latitude": 51.220549,
-    "geom:longitude": 0.875274,
+    "geom:bbox": "0.875333,51.220575,0.875333,51.220575",
+    "geom:latitude": 51.220575,
+    "geom:longitude": 0.875333,
     "gp:parent_id": "15592",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698811, 
+      404435417, 
       1125856875, 
       404227469, 
       1360698565, 
-      85633159, 
-      1360698811, 
-      404435417
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701214,
-    "wof:geomhash": "883338660eabc7fb96a7f6c43f432264",
+    "wof:geomhash": "ddc19d004e64a21c42a3ff58e7cbaf96",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487858673,
-    "wof:lastmodified": 1583786307,
+    "wof:lastmodified": 1609883671,
     "wof:name": "TN25 4AD",
     "wof:parent_id": 404435417,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.875274, 
-    51.220549, 
-    0.875274, 
-    51.220549
+    0.875333, 
+    51.220575, 
+    0.875333, 
+    51.220575
   ],
-  "geometry": {"coordinates":[0.875274,51.220549],"type":"Point"}
+  "geometry": {"coordinates":[0.875333,51.220575],"type":"Point"}
 }

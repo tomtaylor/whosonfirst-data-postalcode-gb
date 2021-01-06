@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1995-07-01",
     "geom:area": 0,
-    "geom:bbox": "-0.830307,51.411644,-0.830307,51.411644",
-    "geom:latitude": 51.411644,
-    "geom:longitude": -0.830307,
+    "geom:bbox": "-0.830197,51.411427,-0.830197,51.411427",
+    "geom:latitude": 51.411427,
+    "geom:longitude": -0.830197,
     "gp:parent_id": "40831",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698529, 
-      85633159, 
       1360698967, 
       404435875, 
       101852547, 
-      404227469
+      404227469, 
+      1360698529, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701669,
-    "wof:geomhash": "d69d212e71f2e77ed6ee59cf5c17948e",
+    "wof:geomhash": "7ebf0597003413f97fc970b82fd14f02",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471552211,
-    "wof:lastmodified": 1583786799,
+    "wof:lastmodified": 1609896514,
     "wof:name": "RG40 1XH",
     "wof:parent_id": 404435875,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.830307, 
-    51.411644, 
-    -0.830307, 
-    51.411644
+    -0.830197, 
+    51.411427, 
+    -0.830197, 
+    51.411427
   ],
-  "geometry": {"coordinates":[-0.830307,51.411644],"type":"Point"}
+  "geometry": {"coordinates":[-0.830197,51.411427],"type":"Point"}
 }

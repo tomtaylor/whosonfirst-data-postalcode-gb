@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-08-01",
     "geom:area": 0,
-    "geom:bbox": "-0.244272,52.328802,-0.244272,52.328802",
-    "geom:latitude": 52.328802,
-    "geom:longitude": -0.244272,
+    "geom:bbox": "-0.244709,52.328889,-0.244709,52.328889",
+    "geom:latitude": 52.328889,
+    "geom:longitude": -0.244709,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1193172443, 
-      404227469, 
-      1360698535, 
       85633159, 
       1360698845, 
-      404434787
+      404434787, 
+      1193172443, 
+      404227469, 
+      1360698535
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583791553,
-    "wof:geomhash": "fc24da4ee4d28bd0c54b3ee7b544dfb6",
+    "wof:geomhash": "505a7baeb54ff3c7449aab3aff8672d9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712517067,
-    "wof:lastmodified": 1583791553,
+    "wof:lastmodified": 1609869902,
     "wof:name": "PE28 4GE",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.244272, 
-    52.328802, 
-    -0.244272, 
-    52.328802
+    -0.244709, 
+    52.328889, 
+    -0.244709, 
+    52.328889
   ],
-  "geometry": {"coordinates":[-0.244272,52.328802],"type":"Point"}
+  "geometry": {"coordinates":[-0.244709,52.328889],"type":"Point"}
 }

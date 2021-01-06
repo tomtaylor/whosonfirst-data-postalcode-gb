@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.725929,51.995842,-0.725929,51.995842",
-    "geom:latitude": 51.995842,
-    "geom:longitude": -0.725929,
+    "geom:bbox": "-0.725870,51.995859,-0.725870,51.995859",
+    "geom:latitude": 51.995859,
+    "geom:longitude": -0.72587,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404436695, 
       1360758809, 
       404227469, 
       1360698533, 
       85633159, 
-      1360698913
+      1360698913, 
+      404436695
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701352,
-    "wof:geomhash": "b8c7456c8aea1c218558aa92b7e731a2",
+    "wof:geomhash": "e26aaae7569472fc5ca2c5a0c76a6b03",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 470971591,
-    "wof:lastmodified": 1583786488,
+    "wof:lastmodified": 1609877715,
     "wof:name": "MK2 2ED",
     "wof:parent_id": 101760461,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.725929, 
-    51.995842, 
-    -0.725929, 
-    51.995842
+    -0.72587, 
+    51.995859, 
+    -0.72587, 
+    51.995859
   ],
-  "geometry": {"coordinates":[-0.725929,51.995842],"type":"Point"}
+  "geometry": {"coordinates":[-0.72587,51.995859],"type":"Point"}
 }

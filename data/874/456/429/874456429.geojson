@@ -2,7 +2,7 @@
   "id": 874456429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-05-01",
     "edtf:inception": "2017-05-01",
     "geom:area": 0,
     "geom:bbox": "-3.794825,56.112599,-3.794825,56.112599",
@@ -10,7 +10,7 @@
     "geom:longitude": -3.794825,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "S92000003",
     "os:county_code": "S99999999",
     "os:district_code": "S12000005",
@@ -18,11 +18,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404443383, 
       404227471, 
       1360698657, 
       85633159, 
-      1360699079
+      1360699079, 
+      404443383
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 874456429,
-    "wof:lastmodified": 1583786264,
+    "wof:lastmodified": 1609869907,
     "wof:name": "FK10 9DG",
     "wof:parent_id": 101874193,
     "wof:placetype": "postalcode",

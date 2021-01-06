@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.338287,50.825266,-2.338287,50.825266",
-    "geom:latitude": 50.825266,
-    "geom:longitude": -2.338287,
+    "geom:bbox": "-2.338229,50.825113,-2.338229,50.825113",
+    "geom:latitude": 50.825113,
+    "geom:longitude": -2.338229,
     "gp:parent_id": "28644",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1276687825, 
-      404227469, 
-      1360698545, 
       85633159, 
       1360698745, 
-      404445611
+      404445611, 
+      1276687825, 
+      404227469, 
+      1360698545
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701589,
-    "wof:geomhash": "7d68f0d1952dc2e906cbcc092dbf0e9b",
+    "wof:geomhash": "47f04443cbd7a4b7bad59010f63b039e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454464707,
-    "wof:lastmodified": 1583786718,
+    "wof:lastmodified": 1609890592,
     "wof:name": "DT2 7PH",
     "wof:parent_id": 404445611,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.338287, 
-    50.825266, 
-    -2.338287, 
-    50.825266
+    -2.338229, 
+    50.825113, 
+    -2.338229, 
+    50.825113
   ],
-  "geometry": {"coordinates":[-2.338287,50.825266],"type":"Point"}
+  "geometry": {"coordinates":[-2.338229,50.825113],"type":"Point"}
 }

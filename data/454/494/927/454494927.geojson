@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.261505,52.528602,-2.261505,52.528602",
-    "geom:latitude": 52.528602,
-    "geom:longitude": -2.261505,
+    "geom:bbox": "-2.261475,52.528548,-2.261475,52.528548",
+    "geom:latitude": 52.528548,
+    "geom:longitude": -2.261475,
     "gp:parent_id": "13112",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698947, 
-      404438887, 
       1226072417, 
       404227469, 
       1360698593, 
-      85633159
+      85633159, 
+      1360698947, 
+      404438887
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701605,
-    "wof:geomhash": "5e7c965ae8fb4e4fbe5932584fa07770",
+    "wof:geomhash": "9025f7478205d87399f7d5e175424594",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454494927,
-    "wof:lastmodified": 1583786734,
+    "wof:lastmodified": 1609892017,
     "wof:name": "DY7 5ES",
     "wof:parent_id": 404438887,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.261505, 
-    52.528602, 
-    -2.261505, 
-    52.528602
+    -2.261475, 
+    52.528548, 
+    -2.261475, 
+    52.528548
   ],
-  "geometry": {"coordinates":[-2.261505,52.528602],"type":"Point"}
+  "geometry": {"coordinates":[-2.261475,52.528548],"type":"Point"}
 }

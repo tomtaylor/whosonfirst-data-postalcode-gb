@@ -6,9 +6,9 @@
     "edtf:inception": "1992-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.173011,51.413780,-0.173011,51.413780",
-    "geom:latitude": 51.41378,
-    "geom:longitude": -0.173011,
+    "geom:bbox": "-0.173073,51.413754,-0.173073,51.413754",
+    "geom:latitude": 51.413754,
+    "geom:longitude": -0.173073,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698645, 
       1158857305, 
       85633159, 
       101750367, 
       404227469, 
-      85860669
+      85860669, 
+      1360698645
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701376,
-    "wof:geomhash": "98d21be3eb49331f24e064fcb87a7b95",
+    "wof:geomhash": "b3f9e6fad349ea1fc9fdfffc34a333e1",
     "wof:hierarchy": [
       {
         "borough_id": 1158857305,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454207429,
-    "wof:lastmodified": 1583786506,
+    "wof:lastmodified": 1609878123,
     "wof:name": "CR4 3RZ",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.173011, 
-    51.41378, 
-    -0.173011, 
-    51.41378
+    -0.173073, 
+    51.413754, 
+    -0.173073, 
+    51.413754
   ],
-  "geometry": {"coordinates":[-0.173011,51.41378],"type":"Point"}
+  "geometry": {"coordinates":[-0.173073,51.413754],"type":"Point"}
 }

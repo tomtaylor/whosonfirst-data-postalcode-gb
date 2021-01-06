@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.338354,53.497300,-1.338354,53.497300",
-    "geom:latitude": 53.4973,
-    "geom:longitude": -1.338354,
+    "geom:bbox": "-1.338398,53.497381,-1.338398,53.497381",
+    "geom:latitude": 53.497381,
+    "geom:longitude": -1.338398,
     "gp:parent_id": "39325",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698851, 
       1360817063, 
       1126000247, 
       404227469, 
-      1360698591, 
-      85633159, 
-      1360698851
+      1360698591
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701696,
-    "wof:geomhash": "92b315cdd65d2c553280e536e7fa7337",
+    "wof:geomhash": "f1717ce9c8bf71efca0dfb16d2143cdb",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471667911,
-    "wof:lastmodified": 1595724272,
+    "wof:lastmodified": 1609900564,
     "wof:name": "S63 7BL",
     "wof:parent_id": 404450929,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.338354, 
-    53.4973, 
-    -1.338354, 
-    53.4973
+    -1.338398, 
+    53.497381, 
+    -1.338398, 
+    53.497381
   ],
-  "geometry": {"coordinates":[-1.338354,53.4973],"type":"Point"}
+  "geometry": {"coordinates":[-1.338398,53.497381],"type":"Point"}
 }

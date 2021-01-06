@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1996-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.099600,57.143399,-2.099600,57.143399",
-    "geom:latitude": 57.143399,
-    "geom:longitude": -2.0996,
+    "geom:bbox": "-2.099979,57.142662,-2.099979,57.142662",
+    "geom:latitude": 57.142662,
+    "geom:longitude": -2.099979,
     "gp:parent_id": "12696182",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698709, 
       85633159, 
       1360698989, 
       404429183, 
       101750639, 
-      404227471
+      404227471, 
+      1360698709
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701548,
-    "wof:geomhash": "f78bd335f176f9f973058aea57a58eb6",
+    "wof:geomhash": "dd99e0ba9630d5bb5853a9207f7db12c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488534125,
-    "wof:lastmodified": 1595734627,
+    "wof:lastmodified": 1609895685,
     "wof:name": "AB11 6FD",
     "wof:parent_id": 101750639,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.0996, 
-    57.143399, 
-    -2.0996, 
-    57.143399
+    -2.099979, 
+    57.142662, 
+    -2.099979, 
+    57.142662
   ],
-  "geometry": {"coordinates":[-2.0996,57.143399],"type":"Point"}
+  "geometry": {"coordinates":[-2.099979,57.142662],"type":"Point"}
 }

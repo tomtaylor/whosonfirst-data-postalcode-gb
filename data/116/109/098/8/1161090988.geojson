@@ -5,30 +5,30 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-12-01",
     "geom:area": 0,
-    "geom:bbox": "-0.657929,51.807668,-0.657929,51.807668",
-    "geom:latitude": 51.807668,
-    "geom:longitude": -0.657929,
+    "geom:bbox": "-0.673710,51.790862,-0.673710,51.790862",
+    "geom:latitude": 51.790862,
+    "geom:longitude": -0.67371,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000015",
     "os:district_code": "E07000096",
-    "os:positional_quality_indicator": "5",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698559, 
       85633159, 
       1360698763, 
       404438867, 
-      101853537
+      101853537, 
+      404227469, 
+      1360698559
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583803465,
-    "wof:geomhash": "7ea4e754eb4ba5dcd0d36b64dab8427e",
+    "wof:geomhash": "6b9fa9a7ec81fdea9a28ac863d84f3d9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1161090988,
-    "wof:lastmodified": 1583803465,
+    "wof:lastmodified": 1609875528,
     "wof:name": "HP23 4FG",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.657929, 
-    51.807668, 
-    -0.657929, 
-    51.807668
+    -0.67371, 
+    51.790862, 
+    -0.67371, 
+    51.790862
   ],
-  "geometry": {"coordinates":[-0.657929,51.807668],"type":"Point"}
+  "geometry": {"coordinates":[-0.67371,51.790862],"type":"Point"}
 }

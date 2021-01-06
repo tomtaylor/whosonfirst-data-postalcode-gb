@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.969725,51.303590,0.969725,51.303590",
-    "geom:latitude": 51.30359,
-    "geom:longitude": 0.969725,
+    "geom:bbox": "0.969404,51.306156,0.969404,51.306156",
+    "geom:latitude": 51.306156,
+    "geom:longitude": 0.969404,
     "gp:parent_id": "23079",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360758831, 
-      404227469, 
-      1360698565, 
       85633159, 
       1360698811, 
-      404453123
+      404453123, 
+      1360758831, 
+      404227469, 
+      1360698565
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701314,
-    "wof:geomhash": "8587b32002533f53350303c7aa010bde",
+    "wof:geomhash": "6337b59a3b499cee9cc02375b09c0e40",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470934409,
-    "wof:lastmodified": 1583786447,
+    "wof:lastmodified": 1609874797,
     "wof:name": "ME13 9LB",
     "wof:parent_id": 404453123,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.969725, 
-    51.30359, 
-    0.969725, 
-    51.30359
+    0.969404, 
+    51.306156, 
+    0.969404, 
+    51.306156
   ],
-  "geometry": {"coordinates":[0.969725,51.30359],"type":"Point"}
+  "geometry": {"coordinates":[0.969404,51.306156],"type":"Point"}
 }

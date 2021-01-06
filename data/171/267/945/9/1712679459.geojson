@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-08-01",
     "geom:area": 0,
-    "geom:bbox": "0.470905,51.775171,0.470905,51.775171",
-    "geom:latitude": 51.775171,
-    "geom:longitude": 0.470905,
+    "geom:bbox": "0.471295,51.775135,0.471295,51.775135",
+    "geom:latitude": 51.775135,
+    "geom:longitude": 0.471295,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404454169, 
-      1125799885, 
       404227469, 
       1360698551, 
       85633159, 
-      1360698979
+      1360698979, 
+      404454169, 
+      1125799885
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583798777,
-    "wof:geomhash": "08248bf340c6b1befbeeacf47e16e11e",
+    "wof:geomhash": "7c2e134bc82aac83ea28473b25f5d11e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712679459,
-    "wof:lastmodified": 1583798777,
+    "wof:lastmodified": 1609872681,
     "wof:name": "CM1 7FP",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.470905, 
-    51.775171, 
-    0.470905, 
-    51.775171
+    0.471295, 
+    51.775135, 
+    0.471295, 
+    51.775135
   ],
-  "geometry": {"coordinates":[0.470905,51.775171],"type":"Point"}
+  "geometry": {"coordinates":[0.471295,51.775135],"type":"Point"}
 }

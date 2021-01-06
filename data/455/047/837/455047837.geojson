@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2004-09-01",
     "geom:area": 0,
-    "geom:bbox": "-1.227400,52.622289,-1.227400,52.622289",
-    "geom:latitude": 52.622289,
-    "geom:longitude": -1.2274,
+    "geom:bbox": "-1.227408,52.622290,-1.227408,52.622290",
+    "geom:latitude": 52.62229,
+    "geom:longitude": -1.227408,
     "gp:parent_id": "25331",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698569, 
       85633159, 
       1360698871, 
       404441463, 
-      1126010989
+      1126010989, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701136,
-    "wof:geomhash": "21dbe00a65f80e2a21586b3a0d04baec",
+    "wof:geomhash": "53ac7d2bed20e7fb8baa1757e1ab4b1a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 455047837,
-    "wof:lastmodified": 1583786258,
+    "wof:lastmodified": 1609869942,
     "wof:name": "LE9 2JN",
     "wof:parent_id": 101914009,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.2274, 
-    52.622289, 
-    -1.2274, 
-    52.622289
+    -1.227408, 
+    52.62229, 
+    -1.227408, 
+    52.62229
   ],
-  "geometry": {"coordinates":[-1.2274,52.622289],"type":"Point"}
+  "geometry": {"coordinates":[-1.227408,52.62229],"type":"Point"}
 }

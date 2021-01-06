@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.094363,51.499228,-0.094363,51.499228",
-    "geom:latitude": 51.499228,
-    "geom:longitude": -0.094363,
+    "geom:bbox": "-0.094498,51.499086,-0.094498,51.499086",
+    "geom:latitude": 51.499086,
+    "geom:longitude": -0.094498,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      101750367, 
       404227469, 
       85792079, 
       1360698645, 
-      1158857247
+      1158857247, 
+      85633159, 
+      101750367
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701711,
-    "wof:geomhash": "edbbf07f27251a4433459810bd10a16f",
+    "wof:geomhash": "d0639774883fa0b7e9bad98d28346e73",
     "wof:hierarchy": [
       {
         "borough_id": 1158857247,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471695889,
-    "wof:lastmodified": 1583786886,
+    "wof:lastmodified": 1609901073,
     "wof:name": "SE1 1DF",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.094363, 
-    51.499228, 
-    -0.094363, 
-    51.499228
+    -0.094498, 
+    51.499086, 
+    -0.094498, 
+    51.499086
   ],
-  "geometry": {"coordinates":[-0.094363,51.499228],"type":"Point"}
+  "geometry": {"coordinates":[-0.094498,51.499086],"type":"Point"}
 }

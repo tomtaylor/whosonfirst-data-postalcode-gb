@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-5.087146,50.142380,-5.087146,50.142380",
-    "geom:latitude": 50.14238,
-    "geom:longitude": -5.087146,
+    "geom:bbox": "-5.087413,50.142514,-5.087413,50.142514",
+    "geom:latitude": 50.142514,
+    "geom:longitude": -5.087413,
     "gp:parent_id": "21314",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698623, 
-      85633159, 
       1360699085, 
       404438245, 
-      101852391
+      101852391, 
+      404227469, 
+      1360698623, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701255,
-    "wof:geomhash": "321d3c1e81dc4e6d2aa76f831e18380e",
+    "wof:geomhash": "9be7dba9563e48e7cfa57fad517145b2",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487909787,
-    "wof:lastmodified": 1583786332,
+    "wof:lastmodified": 1609885988,
     "wof:name": "TR11 5BN",
     "wof:parent_id": 101852391,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -5.087146, 
-    50.14238, 
-    -5.087146, 
-    50.14238
+    -5.087413, 
+    50.142514, 
+    -5.087413, 
+    50.142514
   ],
-  "geometry": {"coordinates":[-5.087146,50.14238],"type":"Point"}
+  "geometry": {"coordinates":[-5.087413,50.142514],"type":"Point"}
 }

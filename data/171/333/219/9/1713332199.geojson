@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-02-01",
     "geom:area": 0,
-    "geom:bbox": "-3.413428,56.403653,-3.413428,56.403653",
-    "geom:latitude": 56.403653,
-    "geom:longitude": -3.413428,
+    "geom:bbox": "-3.413062,56.403846,-3.413062,56.403846",
+    "geom:latitude": 56.403846,
+    "geom:longitude": -3.413062,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698829, 
       404451983, 
       404227471, 
-      1360698691
+      1360698691, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735690,
-    "wof:geomhash": "8cd52853a12cce7f49bc8e6a56ca3b53",
+    "wof:geomhash": "dac5623426fc5b4d570e8e39cea1c5a0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1713332199,
-    "wof:lastmodified": 1595753535,
+    "wof:lastmodified": 1609875556,
     "wof:name": "PH2 7FH",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.413428, 
-    56.403653, 
-    -3.413428, 
-    56.403653
+    -3.413062, 
+    56.403846, 
+    -3.413062, 
+    56.403846
   ],
-  "geometry": {"coordinates":[-3.413428,56.403653],"type":"Point"}
+  "geometry": {"coordinates":[-3.413062,56.403846],"type":"Point"}
 }

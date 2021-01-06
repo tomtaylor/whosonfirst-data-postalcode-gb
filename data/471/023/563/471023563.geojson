@@ -6,9 +6,9 @@
     "edtf:inception": "1996-12-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.137657,51.577589,-0.137657,51.577589",
-    "geom:latitude": 51.577589,
-    "geom:longitude": -0.137657,
+    "geom:bbox": "-0.137632,51.577583,-0.137632,51.577583",
+    "geom:latitude": 51.577583,
+    "geom:longitude": -0.137632,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      1158857279, 
-      85633159, 
       101750367, 
       404227469, 
       85861685, 
-      1360698645
+      1360698645, 
+      1158857279, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701112,
-    "wof:geomhash": "ced70129e99f99b5781173c0262e5894",
+    "wof:geomhash": "32b0121c18f4a2596fa0e5fef77baaed",
     "wof:hierarchy": [
       {
         "borough_id": 1158857279,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471023563,
-    "wof:lastmodified": 1583786232,
+    "wof:lastmodified": 1609869144,
     "wof:name": "N6 5WB",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.137657, 
-    51.577589, 
-    -0.137657, 
-    51.577589
+    -0.137632, 
+    51.577583, 
+    -0.137632, 
+    51.577583
   ],
-  "geometry": {"coordinates":[-0.137657,51.577589],"type":"Point"}
+  "geometry": {"coordinates":[-0.137632,51.577583],"type":"Point"}
 }

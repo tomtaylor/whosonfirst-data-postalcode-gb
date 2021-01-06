@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.482071,51.348993,-0.482071,51.348993",
-    "geom:latitude": 51.348993,
-    "geom:longitude": -0.482071,
+    "geom:bbox": "-0.482099,51.349020,-0.482099,51.349020",
+    "geom:latitude": 51.34902,
+    "geom:longitude": -0.482099,
     "gp:parent_id": "14788",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      101751589, 
       404227469, 
       1360698599, 
       85633159, 
-      1360698887, 
-      101751589
+      1360698887
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701752,
-    "wof:geomhash": "4087f207c808c955dcc9a15105fefcea",
+    "wof:geomhash": "775bdef3f7fc0cc210a465e999b718d4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454910395,
-    "wof:lastmodified": 1595717672,
+    "wof:lastmodified": 1609904833,
     "wof:name": "KT14 7JJ",
     "wof:parent_id": 404435057,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.482071, 
-    51.348993, 
-    -0.482071, 
-    51.348993
+    -0.482099, 
+    51.34902, 
+    -0.482099, 
+    51.34902
   ],
-  "geometry": {"coordinates":[-0.482071,51.348993],"type":"Point"}
+  "geometry": {"coordinates":[-0.482099,51.34902],"type":"Point"}
 }

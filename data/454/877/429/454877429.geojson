@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.107282,52.364214,1.107282,52.364214",
-    "geom:latitude": 52.364214,
-    "geom:longitude": 1.107282,
+    "geom:bbox": "1.107294,52.364216,1.107294,52.364216",
+    "geom:latitude": 52.364216,
+    "geom:longitude": 1.107294,
     "gp:parent_id": "31348",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699041, 
-      404450315, 
       1125847879, 
       404227469, 
       1360698595, 
-      85633159
+      85633159, 
+      1360699041, 
+      404450315
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701745,
-    "wof:geomhash": "028e17c6d0d5de65f8d230b014df511c",
+    "wof:geomhash": "1dab6ed7b7570d16c62f77f7c99c9af5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454877429,
-    "wof:lastmodified": 1583786875,
+    "wof:lastmodified": 1609904035,
     "wof:name": "IP22 1AQ",
     "wof:parent_id": 101854955,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.107282, 
-    52.364214, 
-    1.107282, 
-    52.364214
+    1.107294, 
+    52.364216, 
+    1.107294, 
+    52.364216
   ],
-  "geometry": {"coordinates":[1.107282,52.364214],"type":"Point"}
+  "geometry": {"coordinates":[1.107294,52.364216],"type":"Point"}
 }

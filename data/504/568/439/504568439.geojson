@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.478091,56.399180,-3.478091,56.399180",
-    "geom:latitude": 56.39918,
-    "geom:longitude": -3.478091,
+    "geom:bbox": "-3.478149,56.398631,-3.478149,56.398631",
+    "geom:latitude": 56.398631,
+    "geom:longitude": -3.478149,
     "gp:parent_id": "12696206",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698829, 
       404451983, 
       404227471, 
-      1360698691, 
-      85633159, 
-      1360698829
+      1360698691
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701436,
-    "wof:geomhash": "36786f42e8029394987d3a90a6799851",
+    "wof:geomhash": "e61261b61b638c31d8b633052a2e6b18",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504568439,
-    "wof:lastmodified": 1583786576,
+    "wof:lastmodified": 1609879907,
     "wof:name": "PH1 2AG",
     "wof:parent_id": 404451983,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.478091, 
-    56.39918, 
-    -3.478091, 
-    56.39918
+    -3.478149, 
+    56.398631, 
+    -3.478149, 
+    56.398631
   ],
-  "geometry": {"coordinates":[-3.478091,56.39918],"type":"Point"}
+  "geometry": {"coordinates":[-3.478149,56.398631],"type":"Point"}
 }

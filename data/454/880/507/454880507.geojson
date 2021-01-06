@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.752315,52.413390,0.752315,52.413390",
-    "geom:latitude": 52.41339,
-    "geom:longitude": 0.752315,
+    "geom:bbox": "0.752388,52.413380,0.752388,52.413380",
+    "geom:latitude": 52.41338,
+    "geom:longitude": 0.752388,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698575, 
-      85633159, 
-      1360698955, 
       404433933, 
       101854951, 
-      404227469
+      404227469, 
+      1360698575, 
+      85633159, 
+      1360698955
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701745,
-    "wof:geomhash": "208edc209834874fcd0d97435d7901ec",
+    "wof:geomhash": "b9a2740604029e8f5d06c7d52dfc81bb",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454880507,
-    "wof:lastmodified": 1583786875,
+    "wof:lastmodified": 1609904097,
     "wof:name": "IP24 2DL",
     "wof:parent_id": 101854951,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.752315, 
-    52.41339, 
-    0.752315, 
-    52.41339
+    0.752388, 
+    52.41338, 
+    0.752388, 
+    52.41338
   ],
-  "geometry": {"coordinates":[0.752315,52.41339],"type":"Point"}
+  "geometry": {"coordinates":[0.752388,52.41338],"type":"Point"}
 }

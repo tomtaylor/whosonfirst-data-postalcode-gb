@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.628494,53.758877,-1.628494,53.758877",
-    "geom:latitude": 53.758877,
-    "geom:longitude": -1.628494,
+    "geom:bbox": "-1.629920,53.758899,-1.629920,53.758899",
+    "geom:latitude": 53.758899,
+    "geom:longitude": -1.62992,
     "gp:parent_id": "21032",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1125784235, 
-      404227469, 
-      85788917, 
       1360698609, 
       85633159, 
       1360698749, 
-      404447123
+      404447123, 
+      1125784235, 
+      404227469, 
+      85788917
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701070,
-    "wof:geomhash": "3d2187eb5e3f491f9a332a77b1362fbd",
+    "wof:geomhash": "7c296b284d1ad014e184dad29429fb8d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 470829293,
-    "wof:lastmodified": 1583786185,
+    "wof:lastmodified": 1609868999,
     "wof:name": "LS27 7HD",
     "wof:parent_id": 404447123,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.628494, 
-    53.758877, 
-    -1.628494, 
-    53.758877
+    -1.62992, 
+    53.758899, 
+    -1.62992, 
+    53.758899
   ],
-  "geometry": {"coordinates":[-1.628494,53.758877],"type":"Point"}
+  "geometry": {"coordinates":[-1.62992,53.758899],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.830374,55.051454,-1.830374,55.051454",
-    "geom:latitude": 55.051454,
-    "geom:longitude": -1.830374,
+    "geom:bbox": "-1.829810,55.051543,-1.829810,55.051543",
+    "geom:latitude": 55.051543,
+    "geom:longitude": -1.82981,
     "gp:parent_id": "17883",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698769, 
-      404442695, 
       1125882541, 
       404227469, 
       1360698727, 
-      85633159
+      85633159, 
+      1360698769, 
+      404442695
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701151,
-    "wof:geomhash": "4ee0991ce50e05dbe3a435b08e5ebcb6",
+    "wof:geomhash": "57f8bafad5d97be2a062e7931b45c6ae",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471039485,
-    "wof:lastmodified": 1583786280,
+    "wof:lastmodified": 1609869686,
     "wof:name": "NE18 0AG",
     "wof:parent_id": 404442695,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.830374, 
-    55.051454, 
-    -1.830374, 
-    55.051454
+    -1.82981, 
+    55.051543, 
+    -1.82981, 
+    55.051543
   ],
-  "geometry": {"coordinates":[-1.830374,55.051454],"type":"Point"}
+  "geometry": {"coordinates":[-1.82981,55.051543],"type":"Point"}
 }

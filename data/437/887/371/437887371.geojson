@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.342811,52.017196,-0.342811,52.017196",
-    "geom:latitude": 52.017196,
-    "geom:longitude": -0.342811,
+    "geom:bbox": "-0.342696,52.017131,-0.342696,52.017131",
+    "geom:latitude": 52.017131,
+    "geom:longitude": -0.342696,
     "gp:parent_id": "34506",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404441269, 
-      1125861787, 
-      404227469, 
       1360698527, 
       85633159, 
-      1360698767
+      1360698767, 
+      404441269, 
+      1125861787, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701616,
-    "wof:geomhash": "6dc830888fef6af85b290c25c2895f4c",
+    "wof:geomhash": "a7a4b939176230304f74e1d4ec2be135",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 437887371,
-    "wof:lastmodified": 1583786773,
+    "wof:lastmodified": 1609894514,
     "wof:name": "SG17 5AW",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.342811, 
-    52.017196, 
-    -0.342811, 
-    52.017196
+    -0.342696, 
+    52.017131, 
+    -0.342696, 
+    52.017131
   ],
-  "geometry": {"coordinates":[-0.342811,52.017196],"type":"Point"}
+  "geometry": {"coordinates":[-0.342696,52.017131],"type":"Point"}
 }

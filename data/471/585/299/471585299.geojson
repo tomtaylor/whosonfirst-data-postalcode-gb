@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.131661,50.956398,-0.131661,50.956398",
-    "geom:latitude": 50.956398,
+    "geom:bbox": "-0.131661,50.956407,-0.131661,50.956407",
+    "geom:latitude": 50.956407,
     "geom:longitude": -0.131661,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698607, 
+      85633159, 
       1360698757, 
       404453717, 
       101854597, 
-      404227469, 
-      1360698607, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701677,
-    "wof:geomhash": "4756ef2c8e03eca19bfc3cd2f1312209",
+    "wof:geomhash": "cc21f21682ebfb7831543af708bde155",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471585299,
-    "wof:lastmodified": 1583786823,
+    "wof:lastmodified": 1609897707,
     "wof:name": "RH15 9AS",
     "wof:parent_id": 101854597,
     "wof:placetype": "postalcode",
@@ -54,9 +54,9 @@
   },
   "bbox": [
     -0.131661, 
-    50.956398, 
+    50.956407, 
     -0.131661, 
-    50.956398
+    50.956407
   ],
-  "geometry": {"coordinates":[-0.131661,50.956398],"type":"Point"}
+  "geometry": {"coordinates":[-0.131661,50.956407],"type":"Point"}
 }

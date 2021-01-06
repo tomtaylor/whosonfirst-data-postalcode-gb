@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.726553,51.526892,-0.726553,51.526892",
-    "geom:latitude": 51.526892,
-    "geom:longitude": -0.726553,
+    "geom:bbox": "-0.726420,51.526849,-0.726420,51.526849",
+    "geom:latitude": 51.526849,
+    "geom:longitude": -0.72642,
     "gp:parent_id": "28159",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698943, 
       101750385, 
       404227469, 
-      1360698529
+      1360698529, 
+      85633159, 
+      1360698943
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701750,
-    "wof:geomhash": "d67e094a2be2fd7efee8b7b94a581b67",
+    "wof:geomhash": "138bba1abd6d5f12bba90f91185f47bb",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 471816615,
-    "wof:lastmodified": 1583786915,
+    "wof:lastmodified": 1609903793,
     "wof:name": "SL6 7AZ",
     "wof:parent_id": 101750385,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.726553, 
-    51.526892, 
-    -0.726553, 
-    51.526892
+    -0.72642, 
+    51.526849, 
+    -0.72642, 
+    51.526849
   ],
-  "geometry": {"coordinates":[-0.726553,51.526892],"type":"Point"}
+  "geometry": {"coordinates":[-0.72642,51.526849],"type":"Point"}
 }

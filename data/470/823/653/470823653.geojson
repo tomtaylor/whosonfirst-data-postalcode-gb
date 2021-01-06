@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1981-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.327892,53.920418,-1.327892,53.920418",
-    "geom:latitude": 53.920418,
-    "geom:longitude": -1.327892,
+    "geom:bbox": "-1.328463,53.920276,-1.328463,53.920276",
+    "geom:latitude": 53.920276,
+    "geom:longitude": -1.328463,
     "gp:parent_id": "37390",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698609, 
       85633159, 
       1360698749, 
       404453249, 
-      1126042151, 
-      404227469, 
-      1360698609
+      1126042151
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701246,
-    "wof:geomhash": "3e075c6ffd400a3565372424910128f0",
+    "wof:geomhash": "48bf7b28c33292568d6250b04ac9a9bf",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470823653,
-    "wof:lastmodified": 1583786414,
+    "wof:lastmodified": 1609868867,
     "wof:name": "LS23 7EJ",
     "wof:parent_id": 404453249,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.327892, 
-    53.920418, 
-    -1.327892, 
-    53.920418
+    -1.328463, 
+    53.920276, 
+    -1.328463, 
+    53.920276
   ],
-  "geometry": {"coordinates":[-1.327892,53.920418],"type":"Point"}
+  "geometry": {"coordinates":[-1.328463,53.920276],"type":"Point"}
 }

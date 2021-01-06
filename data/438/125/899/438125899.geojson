@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.913242,53.867130,-1.913242,53.867130",
-    "geom:latitude": 53.86713,
-    "geom:longitude": -1.913242,
+    "geom:bbox": "-1.913607,53.867041,-1.913607,53.867041",
+    "geom:latitude": 53.867041,
+    "geom:longitude": -1.913607,
     "gp:parent_id": "24688",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      101872255, 
-      404227469, 
-      1360698609, 
       85633159, 
       1360698963, 
-      404443145
+      404443145, 
+      101872255, 
+      404227469, 
+      1360698609
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701320,
-    "wof:geomhash": "55b48b9b378bd97ffa7e8f4ba93fc358",
+    "wof:geomhash": "ef5a30a1ab7e49f3ca2ce11a0d90a631",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438125899,
-    "wof:lastmodified": 1583786451,
+    "wof:lastmodified": 1609874731,
     "wof:name": "BD21 2LA",
     "wof:parent_id": 101872255,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.913242, 
-    53.86713, 
-    -1.913242, 
-    53.86713
+    -1.913607, 
+    53.867041, 
+    -1.913607, 
+    53.867041
   ],
-  "geometry": {"coordinates":[-1.913242,53.86713],"type":"Point"}
+  "geometry": {"coordinates":[-1.913607,53.867041],"type":"Point"}
 }

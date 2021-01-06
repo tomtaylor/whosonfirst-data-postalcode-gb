@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.279298,54.210177,-3.279298,54.210177",
-    "geom:latitude": 54.210177,
-    "geom:longitude": -3.279298,
+    "geom:bbox": "-3.279173,54.210125,-3.279173,54.210125",
+    "geom:latitude": 54.210125,
+    "geom:longitude": -3.279173,
     "gp:parent_id": "29005",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      404441273, 
       1126001183, 
       404227469, 
       1360698721, 
       85633159, 
-      1360698877, 
-      404441273
+      1360698877
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701765,
-    "wof:geomhash": "66653e01a7d7c7ba654505696dcc8c7d",
+    "wof:geomhash": "8ba60fdc3b8c79a41f62af213b000c16",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454989197,
-    "wof:lastmodified": 1583786901,
+    "wof:lastmodified": 1609905733,
     "wof:name": "LA18 5DY",
     "wof:parent_id": 404441273,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.279298, 
-    54.210177, 
-    -3.279298, 
-    54.210177
+    -3.279173, 
+    54.210125, 
+    -3.279173, 
+    54.210125
   ],
-  "geometry": {"coordinates":[-3.279298,54.210177],"type":"Point"}
+  "geometry": {"coordinates":[-3.279173,54.210125],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.185851,53.482713,-2.185851,53.482713",
-    "geom:latitude": 53.482713,
-    "geom:longitude": -2.185851,
+    "geom:bbox": "-2.186438,53.482604,-2.186438,53.482604",
+    "geom:latitude": 53.482604,
+    "geom:longitude": -2.186438,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85786689, 
-      1360698555, 
       85633159, 
       1360698893, 
       101750525, 
-      404227469
+      404227469, 
+      85786689, 
+      1360698555
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701150,
-    "wof:geomhash": "d3513ea3d3e675704541e7097c77a892",
+    "wof:geomhash": "ebc5e615f6b67802954eeb34c2e13f88",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 470860177,
-    "wof:lastmodified": 1583786276,
+    "wof:lastmodified": 1609870087,
     "wof:name": "M11 4RQ",
     "wof:parent_id": 101750525,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.185851, 
-    53.482713, 
-    -2.185851, 
-    53.482713
+    -2.186438, 
+    53.482604, 
+    -2.186438, 
+    53.482604
   ],
-  "geometry": {"coordinates":[-2.185851,53.482713],"type":"Point"}
+  "geometry": {"coordinates":[-2.186438,53.482604],"type":"Point"}
 }

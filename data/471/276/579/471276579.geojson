@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.112729,53.548411,-2.112729,53.548411",
-    "geom:latitude": 53.548411,
+    "geom:bbox": "-2.112729,53.548366,-2.112729,53.548366",
+    "geom:latitude": 53.548366,
     "geom:longitude": -2.112729,
     "gp:parent_id": "31017",
     "iso:country": "GB",
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698953, 
       1126030435, 
       404227469, 
-      1360698555
+      1360698555, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701455,
-    "wof:geomhash": "aecfaa3ea66168326143ce83b286b09b",
+    "wof:geomhash": "9d2cbdf413a305ba17c50fd624bb9145",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 471276579,
-    "wof:lastmodified": 1595721281,
+    "wof:lastmodified": 1609883983,
     "wof:name": "OL1 3EQ",
     "wof:parent_id": 101913965,
     "wof:placetype": "postalcode",
@@ -53,9 +53,9 @@
   },
   "bbox": [
     -2.112729, 
-    53.548411, 
+    53.548366, 
     -2.112729, 
-    53.548411
+    53.548366
   ],
-  "geometry": {"coordinates":[-2.112729,53.548411],"type":"Point"}
+  "geometry": {"coordinates":[-2.112729,53.548366],"type":"Point"}
 }

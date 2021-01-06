@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2017-08-01",
     "geom:area": 0,
-    "geom:bbox": "-2.675930,57.085240,-2.675930,57.085240",
-    "geom:latitude": 57.08524,
-    "geom:longitude": -2.67593,
+    "geom:bbox": "-2.677087,57.085377,-2.677087,57.085377",
+    "geom:latitude": 57.085377,
+    "geom:longitude": -2.677087,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404448747, 
-      404227471, 
       1360698713, 
       85633159, 
-      1360699031
+      1360699031, 
+      404448747, 
+      404227471
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583796138,
-    "wof:geomhash": "e166c449f6d26fb517a878dfa30aaf8f",
+    "wof:geomhash": "664e8cca2d65cb204a873de1c7273c69",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1712620231,
-    "wof:lastmodified": 1583796138,
+    "wof:lastmodified": 1609871406,
     "wof:name": "AB34 5DG",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.67593, 
-    57.08524, 
-    -2.67593, 
-    57.08524
+    -2.677087, 
+    57.085377, 
+    -2.677087, 
+    57.085377
   ],
-  "geometry": {"coordinates":[-2.67593,57.08524],"type":"Point"}
+  "geometry": {"coordinates":[-2.677087,57.085377],"type":"Point"}
 }

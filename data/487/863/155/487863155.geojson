@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.954054,51.009821,0.954054,51.009821",
-    "geom:latitude": 51.009821,
-    "geom:longitude": 0.954054,
+    "geom:bbox": "0.951872,51.010038,0.951872,51.010038",
+    "geom:latitude": 51.010038,
+    "geom:longitude": 0.951872,
     "gp:parent_id": "35721",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698811, 
-      404431019, 
-      1360014775, 
       404227469, 
       1360698565, 
-      85633159
+      85633159, 
+      1360698811, 
+      404431019, 
+      1360014775
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701215,
-    "wof:geomhash": "fa18d844e25486dcf28ff9fdcfd6e5c4",
+    "wof:geomhash": "7d6bdbee3775c42c61aaf38a9f7c1c3c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487863155,
-    "wof:lastmodified": 1595724634,
+    "wof:lastmodified": 1609884061,
     "wof:name": "TN29 0BP",
     "wof:parent_id": 404431019,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.954054, 
-    51.009821, 
-    0.954054, 
-    51.009821
+    0.951872, 
+    51.010038, 
+    0.951872, 
+    51.010038
   ],
-  "geometry": {"coordinates":[0.954054,51.009821],"type":"Point"}
+  "geometry": {"coordinates":[0.951872,51.010038],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1997-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.225276,51.609780,-1.225276,51.609780",
-    "geom:latitude": 51.60978,
-    "geom:longitude": -1.225276,
+    "geom:bbox": "-1.225307,51.609663,-1.225307,51.609663",
+    "geom:latitude": 51.609663,
+    "geom:longitude": -1.225307,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698839, 
-      404441231, 
       101852915, 
       404227469, 
       1360698585, 
-      85633159
+      85633159, 
+      1360698839, 
+      404441231
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701491,
-    "wof:geomhash": "ecff3f3b4ee1bbacd9faaa365f148c46",
+    "wof:geomhash": "bb8f4b384571a4a168f1ac6b202aae95",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471310381,
-    "wof:lastmodified": 1595721525,
+    "wof:lastmodified": 1609885822,
     "wof:name": "OX11 9DZ",
     "wof:parent_id": 404441231,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.225276, 
-    51.60978, 
-    -1.225276, 
-    51.60978
+    -1.225307, 
+    51.609663, 
+    -1.225307, 
+    51.609663
   ],
-  "geometry": {"coordinates":[-1.225276,51.60978],"type":"Point"}
+  "geometry": {"coordinates":[-1.225307,51.609663],"type":"Point"}
 }

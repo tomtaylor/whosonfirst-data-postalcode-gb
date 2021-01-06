@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.130484,53.255259,-2.130484,53.255259",
-    "geom:latitude": 53.255259,
-    "geom:longitude": -2.130484,
+    "geom:bbox": "-2.130466,53.255250,-2.130466,53.255250",
+    "geom:latitude": 53.25525,
+    "geom:longitude": -2.130466,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      101750519, 
+      404227469, 
       1360698537, 
       85633159, 
       1360698929, 
-      404442911, 
-      101750519, 
-      404227469
+      404442911
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701734,
-    "wof:geomhash": "0362f58d4fcf2aee1b3b6d67f6edc834",
+    "wof:geomhash": "13d729456cf184c0a38d76dd77963677",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471767729,
-    "wof:lastmodified": 1583786909,
+    "wof:lastmodified": 1609902617,
     "wof:name": "SK11 6RR",
     "wof:parent_id": 101750519,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.130484, 
-    53.255259, 
-    -2.130484, 
-    53.255259
+    -2.130466, 
+    53.25525, 
+    -2.130466, 
+    53.25525
   ],
-  "geometry": {"coordinates":[-2.130484,53.255259],"type":"Point"}
+  "geometry": {"coordinates":[-2.130466,53.25525],"type":"Point"}
 }

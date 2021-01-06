@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.407671,53.350599,-1.407671,53.350599",
-    "geom:latitude": 53.350599,
-    "geom:longitude": -1.407671,
+    "geom:bbox": "-1.407656,53.350582,-1.407656,53.350582",
+    "geom:latitude": 53.350582,
+    "geom:longitude": -1.407656,
     "gp:parent_id": "34503",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698591, 
-      85633159, 
       1360699075, 
       101750529, 
       404227469, 
-      85787511
+      85787511, 
+      1360698591, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701685,
-    "wof:geomhash": "2270e7f06a9b61dc5a6b5dc059630a2d",
+    "wof:geomhash": "2ffb3a748121c283bd7f7a5fd6340fd6",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471629809,
-    "wof:lastmodified": 1583786854,
+    "wof:lastmodified": 1609899909,
     "wof:name": "S12 4WP",
     "wof:parent_id": 101750529,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.407671, 
-    53.350599, 
-    -1.407671, 
-    53.350599
+    -1.407656, 
+    53.350582, 
+    -1.407656, 
+    53.350582
   ],
-  "geometry": {"coordinates":[-1.407671,53.350599],"type":"Point"}
+  "geometry": {"coordinates":[-1.407656,53.350582],"type":"Point"}
 }

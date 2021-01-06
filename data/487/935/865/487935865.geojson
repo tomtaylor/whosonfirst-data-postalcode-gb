@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.964389,54.575354,-0.964389,54.575354",
-    "geom:latitude": 54.575354,
-    "geom:longitude": -0.964389,
+    "geom:bbox": "-0.962384,54.575733,-0.962384,54.575733",
+    "geom:latitude": 54.575733,
+    "geom:longitude": -0.962384,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360698859, 
       404434645, 
       1360756123, 
       404227469, 
-      1360698619, 
-      85633159
+      1360698619
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701273,
-    "wof:geomhash": "22d2b0e980d1f83e924e4df5f84bd5bb",
+    "wof:geomhash": "8dcdc6b5439083ebc2c9468daea859fa",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 487935865,
-    "wof:lastmodified": 1583786346,
+    "wof:lastmodified": 1609887402,
     "wof:name": "TS12 1HB",
     "wof:parent_id": 404434645,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.964389, 
-    54.575354, 
-    -0.964389, 
-    54.575354
+    -0.962384, 
+    54.575733, 
+    -0.962384, 
+    54.575733
   ],
-  "geometry": {"coordinates":[-0.964389,54.575354],"type":"Point"}
+  "geometry": {"coordinates":[-0.962384,54.575733],"type":"Point"}
 }

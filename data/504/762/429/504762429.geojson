@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.246452,55.855488,-4.246452,55.855488",
-    "geom:latitude": 55.855488,
-    "geom:longitude": -4.246452,
+    "geom:bbox": "-4.246559,55.855396,-4.246559,55.855396",
+    "geom:latitude": 55.855396,
+    "geom:longitude": -4.246559,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227471, 
-      85792625, 
       1360698707, 
       85633159, 
       1360698797, 
       404430153, 
-      1175612707
+      1175612707, 
+      404227471, 
+      85792625
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701555,
-    "wof:geomhash": "23a44e15ebc59c47674d61efb4e60cb2",
+    "wof:geomhash": "66a7950a3af0c1633a436bc049b8d236",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 504762429,
-    "wof:lastmodified": 1595733278,
+    "wof:lastmodified": 1609889666,
     "wof:name": "G1 5RB",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.246452, 
-    55.855488, 
-    -4.246452, 
-    55.855488
+    -4.246559, 
+    55.855396, 
+    -4.246559, 
+    55.855396
   ],
-  "geometry": {"coordinates":[-4.246452,55.855488],"type":"Point"}
+  "geometry": {"coordinates":[-4.246559,55.855396],"type":"Point"}
 }

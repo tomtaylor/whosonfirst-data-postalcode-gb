@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2002-12-01",
     "geom:area": 0,
-    "geom:bbox": "-2.132102,57.426720,-2.132102,57.426720",
-    "geom:latitude": 57.42672,
-    "geom:longitude": -2.132102,
+    "geom:bbox": "-2.132224,57.426687,-2.132224,57.426687",
+    "geom:latitude": 57.426687,
+    "geom:longitude": -2.132224,
     "gp:parent_id": "41444",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404448747, 
-      404227471, 
       1360698713, 
       85633159, 
-      1360699031
+      1360699031, 
+      404448747, 
+      404227471
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701566,
-    "wof:geomhash": "73f601981519f7193da3f4287766221d",
+    "wof:geomhash": "3cf456a263d287f21810ecb8079d0d17",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488546815,
-    "wof:lastmodified": 1583786761,
+    "wof:lastmodified": 1609896205,
     "wof:name": "AB41 7TX",
     "wof:parent_id": 404448747,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.132102, 
-    57.42672, 
-    -2.132102, 
-    57.42672
+    -2.132224, 
+    57.426687, 
+    -2.132224, 
+    57.426687
   ],
-  "geometry": {"coordinates":[-2.132102,57.42672],"type":"Point"}
+  "geometry": {"coordinates":[-2.132224,57.426687],"type":"Point"}
 }

@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.222464,51.408651,-0.222464,51.408651",
-    "geom:latitude": 51.408651,
-    "geom:longitude": -0.222464,
+    "geom:bbox": "-0.222399,51.408586,-0.222399,51.408586",
+    "geom:latitude": 51.408586,
+    "geom:longitude": -0.222399,
     "gp:parent_id": "32991",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -20,12 +20,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       85860869, 
       1360698645, 
       1158857305, 
       85633159, 
-      101750367
+      101750367, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701152,
-    "wof:geomhash": "4f0f85bfefd56468247945a42f12506a",
+    "wof:geomhash": "6224b5d6569df9ed111193261fbe7d5d",
     "wof:hierarchy": [
       {
         "borough_id": 1158857305,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 487758397,
-    "wof:lastmodified": 1583786256,
+    "wof:lastmodified": 1609878110,
     "wof:name": "SW20 8EL",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -55,10 +55,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.222464, 
-    51.408651, 
-    -0.222464, 
-    51.408651
+    -0.222399, 
+    51.408586, 
+    -0.222399, 
+    51.408586
   ],
-  "geometry": {"coordinates":[-0.222464,51.408651],"type":"Point"}
+  "geometry": {"coordinates":[-0.222399,51.408586],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.643543,51.318154,-0.643543,51.318154",
-    "geom:latitude": 51.318154,
-    "geom:longitude": -0.643543,
+    "geom:bbox": "-0.643699,51.318100,-0.643699,51.318100",
+    "geom:latitude": 51.3181,
+    "geom:longitude": -0.643699,
     "gp:parent_id": "12801",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698887, 
+      404440261, 
       1125781915, 
       404227469, 
       1360698599, 
-      85633159, 
-      1360698887, 
-      404440261
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701699,
-    "wof:geomhash": "c46d29644d1724a8fe10090b6c7cbeb4",
+    "wof:geomhash": "5cfa214bc8b187d2f7b9a1b6535fb621",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454691479,
-    "wof:lastmodified": 1583786834,
+    "wof:lastmodified": 1609899642,
     "wof:name": "GU24 9AT",
     "wof:parent_id": 404440261,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.643543, 
-    51.318154, 
-    -0.643543, 
-    51.318154
+    -0.643699, 
+    51.3181, 
+    -0.643699, 
+    51.3181
   ],
-  "geometry": {"coordinates":[-0.643543,51.318154],"type":"Point"}
+  "geometry": {"coordinates":[-0.643699,51.3181],"type":"Point"}
 }

@@ -6,9 +6,9 @@
     "edtf:inception": "2000-12-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.303453,51.407477,-0.303453,51.407477",
-    "geom:latitude": 51.407477,
-    "geom:longitude": -0.303453,
+    "geom:bbox": "-0.302769,51.408079,-0.302769,51.408079",
+    "geom:latitude": 51.408079,
+    "geom:longitude": -0.302769,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      85861819, 
-      1360698645, 
-      1158857309, 
       85633159, 
       101750367, 
-      404227469
+      404227469, 
+      85861819, 
+      1360698645, 
+      1158857311
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,10 +32,10 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701751,
-    "wof:geomhash": "76d31f54e966181816494c218563f3bb",
+    "wof:geomhash": "d0ce853375ac1fb0b80445bcc5f391d6",
     "wof:hierarchy": [
       {
-        "borough_id": 1158857309,
+        "borough_id": 1158857311,
         "country_id": 85633159,
         "locality_id": 101750367,
         "macroregion_id": 404227469,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454902397,
-    "wof:lastmodified": 1583786878,
+    "wof:lastmodified": 1609904437,
     "wof:name": "KT1 2TU",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.303453, 
-    51.407477, 
-    -0.303453, 
-    51.407477
+    -0.302769, 
+    51.408079, 
+    -0.302769, 
+    51.408079
   ],
-  "geometry": {"coordinates":[-0.303453,51.407477],"type":"Point"}
+  "geometry": {"coordinates":[-0.302769,51.408079],"type":"Point"}
 }

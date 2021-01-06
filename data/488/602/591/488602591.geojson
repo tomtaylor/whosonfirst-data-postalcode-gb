@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1994-02-01",
     "geom:area": 0,
-    "geom:bbox": "-2.960436,56.471320,-2.960436,56.471320",
-    "geom:latitude": 56.47132,
-    "geom:longitude": -2.960436,
+    "geom:bbox": "-2.960334,56.471159,-2.960334,56.471159",
+    "geom:latitude": 56.471159,
+    "geom:longitude": -2.960334,
     "gp:parent_id": "12696190",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698883, 
-      404430743, 
       101750641, 
       404227471, 
-      1360698693
+      1360698693, 
+      85633159, 
+      1360698883, 
+      404430743
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701613,
-    "wof:geomhash": "6513fc8da1db8349c062835be3abd07c",
+    "wof:geomhash": "bbb86d0b7d1f640c0b237124ea8c912d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488602591,
-    "wof:lastmodified": 1583786805,
+    "wof:lastmodified": 1609898468,
     "wof:name": "DD4 6SL",
     "wof:parent_id": 101750641,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.960436, 
-    56.47132, 
-    -2.960436, 
-    56.47132
+    -2.960334, 
+    56.471159, 
+    -2.960334, 
+    56.471159
   ],
-  "geometry": {"coordinates":[-2.960436,56.47132],"type":"Point"}
+  "geometry": {"coordinates":[-2.960334,56.471159],"type":"Point"}
 }

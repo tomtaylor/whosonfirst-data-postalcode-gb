@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1996-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.191015,53.041249,-2.191015,53.041249",
-    "geom:latitude": 53.041249,
-    "geom:longitude": -2.191015,
+    "geom:bbox": "-2.190896,53.041303,-2.190896,53.041303",
+    "geom:latitude": 53.041303,
+    "geom:longitude": -2.190896,
     "gp:parent_id": "44044",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698593, 
-      85633159, 
       1360698805, 
       1175612703, 
-      404227469
+      404227469, 
+      1360698593, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701136,
-    "wof:geomhash": "81fec0071bee6e94cbcd3b485cdc1db3",
+    "wof:geomhash": "3c9e71fc7acec3997d43f46dfbcad192",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 487719285,
-    "wof:lastmodified": 1583786233,
+    "wof:lastmodified": 1609875471,
     "wof:name": "ST6 2AH",
     "wof:parent_id": 101750495,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.191015, 
-    53.041249, 
-    -2.191015, 
-    53.041249
+    -2.190896, 
+    53.041303, 
+    -2.190896, 
+    53.041303
   ],
-  "geometry": {"coordinates":[-2.191015,53.041249],"type":"Point"}
+  "geometry": {"coordinates":[-2.190896,53.041303],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.293392,53.328443,-3.293392,53.328443",
-    "geom:latitude": 53.328443,
-    "geom:longitude": -3.293392,
+    "geom:bbox": "-3.293452,53.328451,-3.293452,53.328451",
+    "geom:latitude": 53.328451,
+    "geom:longitude": -3.293452,
     "gp:parent_id": "20139",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1126013713, 
-      404227475, 
       1360698637, 
       85633159, 
       1360698799, 
-      404441017
+      404441017, 
+      1126013713, 
+      404227475
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701611,
-    "wof:geomhash": "4cec4d82790a3219dcaf1ac0d15965cd",
+    "wof:geomhash": "a1f7496bfdeaf341291d22cb1c629a9e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488595887,
-    "wof:lastmodified": 1595735159,
+    "wof:lastmodified": 1609898223,
     "wof:name": "CH8 9SJ",
     "wof:parent_id": 404441017,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.293392, 
-    53.328443, 
-    -3.293392, 
-    53.328443
+    -3.293452, 
+    53.328451, 
+    -3.293452, 
+    53.328451
   ],
-  "geometry": {"coordinates":[-3.293392,53.328443],"type":"Point"}
+  "geometry": {"coordinates":[-3.293452,53.328451],"type":"Point"}
 }

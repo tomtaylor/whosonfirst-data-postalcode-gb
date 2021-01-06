@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.783003,55.379044,-2.783003,55.379044",
-    "geom:latitude": 55.379044,
-    "geom:longitude": -2.783003,
+    "geom:bbox": "-2.788059,55.367215,-2.788059,55.367215",
+    "geom:latitude": 55.367215,
+    "geom:longitude": -2.788059,
     "gp:parent_id": "12696186",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699015, 
-      404442083, 
       404227471, 
       1360698725, 
-      85633159
+      85633159, 
+      1360699015, 
+      404442083
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701500,
-    "wof:geomhash": "95425989edaaaa128264d1c1083c19a1",
+    "wof:geomhash": "607ff04949d0bd410a1c6d1b195e320d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504629223,
-    "wof:lastmodified": 1583786650,
+    "wof:lastmodified": 1609883189,
     "wof:name": "TD9 9SG",
     "wof:parent_id": 404442083,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.783003, 
-    55.379044, 
-    -2.783003, 
-    55.379044
+    -2.788059, 
+    55.367215, 
+    -2.788059, 
+    55.367215
   ],
-  "geometry": {"coordinates":[-2.783003,55.379044],"type":"Point"}
+  "geometry": {"coordinates":[-2.788059,55.367215],"type":"Point"}
 }

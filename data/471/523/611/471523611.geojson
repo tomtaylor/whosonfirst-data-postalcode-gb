@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.724939,51.417379,-0.724939,51.417379",
-    "geom:latitude": 51.417379,
-    "geom:longitude": -0.724939,
+    "geom:bbox": "-0.724936,51.417389,-0.724936,51.417389",
+    "geom:latitude": 51.417389,
+    "geom:longitude": -0.724936,
     "gp:parent_id": "13505",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404432267, 
-      101750375, 
       404227469, 
       1360698529, 
       85633159, 
-      1360699013
+      1360699013, 
+      404432267, 
+      101750375
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701657,
-    "wof:geomhash": "2c0b1dd7b66a5960af13fbfe2d3830fb",
+    "wof:geomhash": "8dc28c767b174d5b2058e8751890701a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471523611,
-    "wof:lastmodified": 1583786788,
+    "wof:lastmodified": 1609895330,
     "wof:name": "RG12 2RX",
     "wof:parent_id": 101750375,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.724939, 
-    51.417379, 
-    -0.724939, 
-    51.417379
+    -0.724936, 
+    51.417389, 
+    -0.724936, 
+    51.417389
   ],
-  "geometry": {"coordinates":[-0.724939,51.417379],"type":"Point"}
+  "geometry": {"coordinates":[-0.724936,51.417389],"type":"Point"}
 }

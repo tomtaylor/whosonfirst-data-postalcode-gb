@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1993-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.025221,52.919360,-3.025221,52.919360",
-    "geom:latitude": 52.91936,
-    "geom:longitude": -3.025221,
+    "geom:bbox": "-3.025442,52.918666,-3.025442,52.918666",
+    "geom:latitude": 52.918666,
+    "geom:longitude": -3.025442,
     "gp:parent_id": "12696064",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1125991993, 
       404227469, 
       1360698587, 
       85633159, 
       1360698821, 
-      404433581
+      404433581, 
+      1125991993
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701160,
-    "wof:geomhash": "bb491b56bd78e573028d3d777e62e877",
+    "wof:geomhash": "38415b5368219b90d334c81354495b84",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487775229,
-    "wof:lastmodified": 1583786264,
+    "wof:lastmodified": 1609879195,
     "wof:name": "SY10 7HB",
     "wof:parent_id": 404433581,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.025221, 
-    52.91936, 
-    -3.025221, 
-    52.91936
+    -3.025442, 
+    52.918666, 
+    -3.025442, 
+    52.918666
   ],
-  "geometry": {"coordinates":[-3.025221,52.91936],"type":"Point"}
+  "geometry": {"coordinates":[-3.025442,52.918666],"type":"Point"}
 }

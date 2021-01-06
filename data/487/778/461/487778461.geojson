@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1995-12-01",
     "geom:area": 0,
-    "geom:bbox": "-2.895511,52.907105,-2.895511,52.907105",
-    "geom:latitude": 52.907105,
-    "geom:longitude": -2.895511,
+    "geom:bbox": "-2.895453,52.907177,-2.895453,52.907177",
+    "geom:latitude": 52.907177,
+    "geom:longitude": -2.895453,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698821, 
       404453621, 
       1360759369, 
       404227469, 
-      1360698587
+      1360698587, 
+      85633159, 
+      1360698821
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701163,
-    "wof:geomhash": "7bbe84a6b06751cf42b661897e8c51b5",
+    "wof:geomhash": "9afe734b363b3f7727dd309b34363764",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 487778461,
-    "wof:lastmodified": 1583786265,
+    "wof:lastmodified": 1609879488,
     "wof:name": "SY12 0DD",
     "wof:parent_id": 101871875,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.895511, 
-    52.907105, 
-    -2.895511, 
-    52.907105
+    -2.895453, 
+    52.907177, 
+    -2.895453, 
+    52.907177
   ],
-  "geometry": {"coordinates":[-2.895511,52.907105],"type":"Point"}
+  "geometry": {"coordinates":[-2.895453,52.907177],"type":"Point"}
 }

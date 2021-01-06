@@ -2,16 +2,16 @@
   "id": 438011437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2010-08-01",
-    "edtf:inception": "1983-07-01",
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.950417,52.499775,-1.950417,52.499775",
-    "geom:latitude": 52.499775,
-    "geom:longitude": -1.950417,
+    "geom:bbox": "-1.950647,52.499673,-1.950647,52.499673",
+    "geom:latitude": 52.499673,
+    "geom:longitude": -1.950647,
     "gp:parent_id": "35041",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E08000028",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1125938951, 
       404227469, 
       1360698605, 
       85633159, 
       1360699035, 
-      1360817335
+      1360817335, 
+      1125938951
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701158,
-    "wof:geomhash": "72de1852ffff80017dd9e50c87ab329b",
+    "wof:geomhash": "d568036b15a9a9d6d6ae260cc2ca5211",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438011437,
-    "wof:lastmodified": 1583786394,
+    "wof:lastmodified": 1609868779,
     "wof:name": "B66 2PD",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.950417, 
-    52.499775, 
-    -1.950417, 
-    52.499775
+    -1.950647, 
+    52.499673, 
+    -1.950647, 
+    52.499673
   ],
-  "geometry": {"coordinates":[-1.950417,52.499775],"type":"Point"}
+  "geometry": {"coordinates":[-1.950647,52.499673],"type":"Point"}
 }

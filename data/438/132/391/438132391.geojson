@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.858675,53.981889,-1.858675,53.981889",
-    "geom:latitude": 53.981889,
-    "geom:longitude": -1.858675,
+    "geom:bbox": "-1.858445,53.982257,-1.858445,53.982257",
+    "geom:latitude": 53.982257,
+    "geom:longitude": -1.858445,
     "gp:parent_id": "22808",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404454991, 
       1360754489, 
       404227469, 
       1360698619, 
       85633159, 
-      1360698753
+      1360698753, 
+      404454991
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701327,
-    "wof:geomhash": "67532a7606ac5f33f279d8d79b78a674",
+    "wof:geomhash": "bd5a4542dca20a2029374a225b004ec2",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438132391,
-    "wof:lastmodified": 1595713168,
+    "wof:lastmodified": 1609875285,
     "wof:name": "BD23 6JQ",
     "wof:parent_id": 404454991,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.858675, 
-    53.981889, 
-    -1.858675, 
-    53.981889
+    -1.858445, 
+    53.982257, 
+    -1.858445, 
+    53.982257
   ],
-  "geometry": {"coordinates":[-1.858675,53.981889],"type":"Point"}
+  "geometry": {"coordinates":[-1.858445,53.982257],"type":"Point"}
 }

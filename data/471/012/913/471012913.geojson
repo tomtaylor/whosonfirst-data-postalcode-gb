@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.138001,51.561400,-0.138001,51.561400",
-    "geom:latitude": 51.5614,
-    "geom:longitude": -0.138001,
+    "geom:bbox": "-0.137973,51.561114,-0.137973,51.561114",
+    "geom:latitude": 51.561114,
+    "geom:longitude": -0.137973,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      101750367, 
-      404227469, 
-      1158860951, 
       1360698645, 
       1158857275, 
-      85633159
+      85633159, 
+      101750367, 
+      404227469, 
+      1158860951
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701087,
-    "wof:geomhash": "85c556790034d06f10b4c10d6c14a7fb",
+    "wof:geomhash": "b6844501e6fc53a188f873c5b55b909e",
     "wof:hierarchy": [
       {
         "borough_id": 1158857275,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471012913,
-    "wof:lastmodified": 1583786202,
+    "wof:lastmodified": 1609868876,
     "wof:name": "N19 5LE",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.138001, 
-    51.5614, 
-    -0.138001, 
-    51.5614
+    -0.137973, 
+    51.561114, 
+    -0.137973, 
+    51.561114
   ],
-  "geometry": {"coordinates":[-0.138001,51.5614],"type":"Point"}
+  "geometry": {"coordinates":[-0.137973,51.561114],"type":"Point"}
 }

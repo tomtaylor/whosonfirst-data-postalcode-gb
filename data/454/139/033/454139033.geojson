@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.238796,51.626380,0.238796,51.626380",
-    "geom:latitude": 51.62638,
-    "geom:longitude": 0.238796,
+    "geom:bbox": "0.238547,51.624877,0.238547,51.624877",
+    "geom:latitude": 51.624877,
+    "geom:longitude": 0.238547,
     "gp:parent_id": "35337",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698979, 
-      101854697, 
       404227469, 
       85787951, 
-      1360698551
+      1360698551, 
+      85633159, 
+      1360698979, 
+      101854697
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701302,
-    "wof:geomhash": "dd816d571c872066bb9cf0f3fda0dae5",
+    "wof:geomhash": "64b4eea9bd6f53919a7542679dc407df",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454139033,
-    "wof:lastmodified": 1583786434,
+    "wof:lastmodified": 1609873254,
     "wof:name": "CM14 5RD",
     "wof:parent_id": 404450913,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.238796, 
-    51.62638, 
-    0.238796, 
-    51.62638
+    0.238547, 
+    51.624877, 
+    0.238547, 
+    51.624877
   ],
-  "geometry": {"coordinates":[0.238796,51.62638],"type":"Point"}
+  "geometry": {"coordinates":[0.238547,51.624877],"type":"Point"}
 }

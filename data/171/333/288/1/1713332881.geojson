@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "-1.393364,53.512827,-1.393364,53.512827",
-    "geom:latitude": 53.512827,
-    "geom:longitude": -1.393364,
+    "geom:bbox": "-1.392884,53.512690,-1.392884,53.512690",
+    "geom:latitude": 53.51269,
+    "geom:longitude": -1.392884,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,27 +18,27 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698591, 
       85633159, 
       1360699091, 
-      101750543, 
-      404227469, 
-      1360698591
+      1125860113
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735724,
-    "wof:geomhash": "8ece6824e6869d3ded41818160ec4698",
+    "wof:geomhash": "521d374518345ac16fab97d331233139",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360699091,
-        "locality_id": 101750543,
+        "locality_id": 1125860113,
         "macroregion_id": 404227469,
         "region_id": 1360698591
       }
     ],
     "wof:id": 1713332881,
-    "wof:lastmodified": 1595753526,
+    "wof:lastmodified": 1609875618,
     "wof:name": "S73 0WJ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.393364, 
-    53.512827, 
-    -1.393364, 
-    53.512827
+    -1.392884, 
+    53.51269, 
+    -1.392884, 
+    53.51269
   ],
-  "geometry": {"coordinates":[-1.393364,53.512827],"type":"Point"}
+  "geometry": {"coordinates":[-1.392884,53.51269],"type":"Point"}
 }

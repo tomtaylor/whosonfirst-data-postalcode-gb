@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2017-04-01",
     "geom:area": 0,
-    "geom:bbox": "-5.043885,50.413385,-5.043885,50.413385",
-    "geom:latitude": 50.413385,
-    "geom:longitude": -5.043885,
+    "geom:bbox": "-5.043758,50.413163,-5.043758,50.413163",
+    "geom:latitude": 50.413163,
+    "geom:longitude": -5.043758,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699085, 
-      404437897, 
-      101852409, 
       404227469, 
       1360698623, 
-      85633159
+      85633159, 
+      1360699085, 
+      404437897, 
+      101852409
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583788930,
-    "wof:geomhash": "7323f5ecc9e35f0a38f687ee767013a3",
+    "wof:geomhash": "59928dd3d4a3c915bb8955e64f3401ed",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712457823,
-    "wof:lastmodified": 1583788930,
+    "wof:lastmodified": 1609869007,
     "wof:name": "TR8 4GN",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -5.043885, 
-    50.413385, 
-    -5.043885, 
-    50.413385
+    -5.043758, 
+    50.413163, 
+    -5.043758, 
+    50.413163
   ],
-  "geometry": {"coordinates":[-5.043885,50.413385],"type":"Point"}
+  "geometry": {"coordinates":[-5.043758,50.413163],"type":"Point"}
 }

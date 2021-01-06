@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.319389,50.817605,0.319389,50.817605",
-    "geom:latitude": 50.817605,
+    "geom:bbox": "0.319389,50.817610,0.319389,50.817610",
+    "geom:latitude": 50.81761,
     "geom:longitude": 0.319389,
     "gp:parent_id": "39933",
     "iso:country": "GB",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698549, 
       85633159, 
       1360698815, 
       404439535, 
-      101854577
+      101854577, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701414,
-    "wof:geomhash": "9ae67f8b11b7b92523f7dfe8f740e266",
+    "wof:geomhash": "d5f1e9fb43b4b9744b64aebafb2baf1c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438228571,
-    "wof:lastmodified": 1583786549,
+    "wof:lastmodified": 1609880608,
     "wof:name": "BN24 5DQ",
     "wof:parent_id": 404439535,
     "wof:placetype": "postalcode",
@@ -55,9 +55,9 @@
   },
   "bbox": [
     0.319389, 
-    50.817605, 
+    50.81761, 
     0.319389, 
-    50.817605
+    50.81761
   ],
-  "geometry": {"coordinates":[0.319389,50.817605],"type":"Point"}
+  "geometry": {"coordinates":[0.319389,50.81761],"type":"Point"}
 }

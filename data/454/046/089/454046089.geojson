@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.620293,51.454059,-2.620293,51.454059",
-    "geom:latitude": 51.454059,
-    "geom:longitude": -2.620293,
+    "geom:bbox": "-2.620210,51.454084,-2.620210,51.454084",
+    "geom:latitude": 51.454084,
+    "geom:longitude": -2.62021,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,13 +18,13 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      85788341, 
+      1360698531, 
       85633159, 
       1360698747, 
       404431949, 
-      1175612699, 
-      404227469, 
-      85788341, 
-      1360698531
+      1175612699
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701070,
-    "wof:geomhash": "504c2eb87a6a4d990ac18465aa8d12ff",
+    "wof:geomhash": "6c8a029470d5bf110cd5d19f1fb890c9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 454046089,
-    "wof:lastmodified": 1583786205,
+    "wof:lastmodified": 1609868835,
     "wof:name": "BS8 4JU",
     "wof:parent_id": 101750389,
     "wof:placetype": "postalcode",
@@ -55,10 +55,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.620293, 
-    51.454059, 
-    -2.620293, 
-    51.454059
+    -2.62021, 
+    51.454084, 
+    -2.62021, 
+    51.454084
   ],
-  "geometry": {"coordinates":[-2.620293,51.454059],"type":"Point"}
+  "geometry": {"coordinates":[-2.62021,51.454084],"type":"Point"}
 }

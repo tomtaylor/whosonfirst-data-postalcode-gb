@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.690974,53.735130,-1.690974,53.735130",
-    "geom:latitude": 53.73513,
-    "geom:longitude": -1.690974,
+    "geom:bbox": "-1.690430,53.735270,-1.690430,53.735270",
+    "geom:latitude": 53.73527,
+    "geom:longitude": -1.69043,
     "gp:parent_id": "16253",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      101750569, 
-      404227469, 
       1360698609, 
       85633159, 
-      1360698917
+      1360698917, 
+      101750569, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701316,
-    "wof:geomhash": "d5ce9ced30f7c2ffc98695a4f358211b",
+    "wof:geomhash": "79754950bfa32e0158bc770b6923b43b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 438119827,
-    "wof:lastmodified": 1583786441,
+    "wof:lastmodified": 1609874235,
     "wof:name": "BD19 4AL",
     "wof:parent_id": 404439289,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.690974, 
-    53.73513, 
-    -1.690974, 
-    53.73513
+    -1.69043, 
+    53.73527, 
+    -1.69043, 
+    53.73527
   ],
-  "geometry": {"coordinates":[-1.690974,53.73513],"type":"Point"}
+  "geometry": {"coordinates":[-1.69043,53.73527],"type":"Point"}
 }

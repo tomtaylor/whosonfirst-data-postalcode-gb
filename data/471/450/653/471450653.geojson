@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1990-07-01",
     "geom:area": 0,
-    "geom:bbox": "-1.243565,50.875760,-1.243565,50.875760",
-    "geom:latitude": 50.87576,
-    "geom:longitude": -1.243565,
+    "geom:bbox": "-1.243667,50.875706,-1.243667,50.875706",
+    "geom:latitude": 50.875706,
+    "geom:longitude": -1.243667,
     "gp:parent_id": "40263",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698557, 
       85633159, 
       1360698827, 
       404452151, 
       1125994031, 
-      404227469, 
-      1360698557
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701615,
-    "wof:geomhash": "46674d2ff4c4ad2930653c1ef2c42cb5",
+    "wof:geomhash": "9393b916c323ceb02f634fa0499875fc",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471450653,
-    "wof:lastmodified": 1583786750,
+    "wof:lastmodified": 1609892456,
     "wof:name": "PO15 7AF",
     "wof:parent_id": 404452151,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.243565, 
-    50.87576, 
-    -1.243565, 
-    50.87576
+    -1.243667, 
+    50.875706, 
+    -1.243667, 
+    50.875706
   ],
-  "geometry": {"coordinates":[-1.243565,50.87576],"type":"Point"}
+  "geometry": {"coordinates":[-1.243667,50.875706],"type":"Point"}
 }

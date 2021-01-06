@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2009-06-01",
     "geom:area": 0,
-    "geom:bbox": "0.488489,52.937674,0.488489,52.937674",
-    "geom:latitude": 52.937674,
-    "geom:longitude": 0.488489,
+    "geom:bbox": "0.488445,52.937684,0.488445,52.937684",
+    "geom:latitude": 52.937684,
+    "geom:longitude": 0.488445,
     "gp:parent_id": "12696026",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698955, 
       404435725, 
       101874061, 
       404227469, 
-      1360698575, 
-      85633159, 
-      1360698955
+      1360698575
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701354,
-    "wof:geomhash": "14c77af69bd7b37f55152f3de7279e6c",
+    "wof:geomhash": "f44bf25005d94017cd1ec49f9f1a1f1d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488341877,
-    "wof:lastmodified": 1583786551,
+    "wof:lastmodified": 1609887463,
     "wof:name": "PE36 5AU",
     "wof:parent_id": 101874061,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.488489, 
-    52.937674, 
-    0.488489, 
-    52.937674
+    0.488445, 
+    52.937684, 
+    0.488445, 
+    52.937684
   ],
-  "geometry": {"coordinates":[0.488489,52.937674],"type":"Point"}
+  "geometry": {"coordinates":[0.488445,52.937684],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.123284,50.388982,-4.123284,50.388982",
-    "geom:latitude": 50.388982,
-    "geom:longitude": -4.123284,
+    "geom:bbox": "-4.123169,50.388912,-4.123169,50.388912",
+    "geom:latitude": 50.388912,
+    "geom:longitude": -4.123169,
     "gp:parent_id": "32185",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698541, 
       85633159, 
       1360698841, 
-      101750297
+      101750297, 
+      404227469, 
+      1360698541
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701593,
-    "wof:geomhash": "f60b29a0e6508e5ba059bdaa37c92de1",
+    "wof:geomhash": "f1a892d1d8abbe6565dcb8ae50e30653",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 471425267,
-    "wof:lastmodified": 1583786737,
+    "wof:lastmodified": 1609891845,
     "wof:name": "PL3 5ED",
     "wof:parent_id": 101750297,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.123284, 
-    50.388982, 
-    -4.123284, 
-    50.388982
+    -4.123169, 
+    50.388912, 
+    -4.123169, 
+    50.388912
   ],
-  "geometry": {"coordinates":[-4.123284,50.388982],"type":"Point"}
+  "geometry": {"coordinates":[-4.123169,50.388912],"type":"Point"}
 }

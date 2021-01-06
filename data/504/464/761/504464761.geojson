@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.371031,58.279135,-3.371031,58.279135",
-    "geom:latitude": 58.279135,
-    "geom:longitude": -3.371031,
+    "geom:bbox": "-3.371167,58.279133,-3.371167,58.279133",
+    "geom:latitude": 58.279133,
+    "geom:longitude": -3.371167,
     "gp:parent_id": "12696199",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698663, 
       85633159, 
       1360699045, 
       404436073, 
-      404227471
+      404227471, 
+      1360698663
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701350,
-    "wof:geomhash": "ebc8e4c5809e9bd40377277cac61c98c",
+    "wof:geomhash": "c9ca086580c5b889ccfc28512fa5b3c5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504464761,
-    "wof:lastmodified": 1583786461,
+    "wof:lastmodified": 1609872995,
     "wof:name": "KW5 6DL",
     "wof:parent_id": 404436073,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.371031, 
-    58.279135, 
-    -3.371031, 
-    58.279135
+    -3.371167, 
+    58.279133, 
+    -3.371167, 
+    58.279133
   ],
-  "geometry": {"coordinates":[-3.371031,58.279135],"type":"Point"}
+  "geometry": {"coordinates":[-3.371167,58.279133],"type":"Point"}
 }

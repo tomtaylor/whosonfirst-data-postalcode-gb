@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.189081,51.400154,-0.189081,51.400154",
-    "geom:latitude": 51.400154,
-    "geom:longitude": -0.189081,
+    "geom:bbox": "-0.188985,51.400116,-0.188985,51.400116",
+    "geom:latitude": 51.400116,
+    "geom:longitude": -0.188985,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698645, 
-      1158857305, 
-      85633159, 
       101750367, 
       404227469, 
-      85789175
+      85789175, 
+      1360698645, 
+      1158857305, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701750,
-    "wof:geomhash": "b1a010c2bd1e70a85372154f04c5ff1b",
+    "wof:geomhash": "b97447a8ae04aaf25e90d4ba9e5134a3",
     "wof:hierarchy": [
       {
         "borough_id": 1158857305,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471827257,
-    "wof:lastmodified": 1583786915,
+    "wof:lastmodified": 1609904019,
     "wof:name": "SM4 5JG",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.189081, 
-    51.400154, 
-    -0.189081, 
-    51.400154
+    -0.188985, 
+    51.400116, 
+    -0.188985, 
+    51.400116
   ],
-  "geometry": {"coordinates":[-0.189081,51.400154],"type":"Point"}
+  "geometry": {"coordinates":[-0.188985,51.400116],"type":"Point"}
 }

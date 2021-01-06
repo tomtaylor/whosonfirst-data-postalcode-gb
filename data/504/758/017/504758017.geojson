@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2009-12-01",
     "geom:area": 0,
-    "geom:bbox": "-3.404096,51.531089,-3.404096,51.531089",
-    "geom:latitude": 51.531089,
-    "geom:longitude": -3.404096,
+    "geom:bbox": "-3.403382,51.530864,-3.403382,51.530864",
+    "geom:latitude": 51.530864,
+    "geom:longitude": -3.403382,
     "gp:parent_id": "32311",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404440141, 
       1360711477, 
       404227475, 
       1360698631, 
       85633159, 
-      1360699025
+      1360699025, 
+      404440141
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701550,
-    "wof:geomhash": "517c69aad217437170c768e7931210d5",
+    "wof:geomhash": "78dd6d24b0da98537f13a2236a56c6e2",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504758017,
-    "wof:lastmodified": 1583786707,
+    "wof:lastmodified": 1609889396,
     "wof:name": "CF72 9FQ",
     "wof:parent_id": 404440141,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.404096, 
-    51.531089, 
-    -3.404096, 
-    51.531089
+    -3.403382, 
+    51.530864, 
+    -3.403382, 
+    51.530864
   ],
-  "geometry": {"coordinates":[-3.404096,51.531089],"type":"Point"}
+  "geometry": {"coordinates":[-3.403382,51.530864],"type":"Point"}
 }

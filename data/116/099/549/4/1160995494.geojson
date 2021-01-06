@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.454287,52.946728,-1.454287,52.946728",
-    "geom:latitude": 52.946728,
-    "geom:longitude": -1.454287,
+    "geom:bbox": "-1.454253,52.947042,-1.454253,52.947042",
+    "geom:latitude": 52.947042,
+    "geom:longitude": -1.454253,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699093, 
       101750489, 
       404227469, 
       1360698539, 
-      85633159
+      85633159, 
+      1360699093
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583799229,
-    "wof:geomhash": "a8640ada31260e653bea80df6cac73f5",
+    "wof:geomhash": "2b725717765a6e42f4d72c7921e8270d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1160995494,
-    "wof:lastmodified": 1595711030,
+    "wof:lastmodified": 1609873984,
     "wof:name": "DE21 4UB",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.454287, 
-    52.946728, 
-    -1.454287, 
-    52.946728
+    -1.454253, 
+    52.947042, 
+    -1.454253, 
+    52.947042
   ],
-  "geometry": {"coordinates":[-1.454287,52.946728],"type":"Point"}
+  "geometry": {"coordinates":[-1.454253,52.947042],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.509050,51.507795,-0.509050,51.507795",
-    "geom:latitude": 51.507795,
-    "geom:longitude": -0.50905,
+    "geom:bbox": "-0.509251,51.507798,-0.509251,51.507798",
+    "geom:latitude": 51.507798,
+    "geom:longitude": -0.509251,
     "gp:parent_id": "24595",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698533, 
       85633159, 
       1360698997, 
       404448513, 
-      1126014857, 
-      404227469, 
-      1360698533
+      1126014857
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701741,
-    "wof:geomhash": "3480fc575ab51a7d0d5aaf4328174650",
+    "wof:geomhash": "b1fc1105bf9a8eaf2ce31348b6524956",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471799561,
-    "wof:lastmodified": 1595725297,
+    "wof:lastmodified": 1609903083,
     "wof:name": "SL0 9EE",
     "wof:parent_id": 404448513,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.50905, 
-    51.507795, 
-    -0.50905, 
-    51.507795
+    -0.509251, 
+    51.507798, 
+    -0.509251, 
+    51.507798
   ],
-  "geometry": {"coordinates":[-0.50905,51.507795],"type":"Point"}
+  "geometry": {"coordinates":[-0.509251,51.507798],"type":"Point"}
 }

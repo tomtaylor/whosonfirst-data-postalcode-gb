@@ -2,7 +2,7 @@
   "id": 1712470877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-08-01",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
     "geom:bbox": "-2.359440,53.312504,-2.359440,53.312504",
@@ -10,7 +10,7 @@
     "geom:longitude": -2.35944,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000049",
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      404452127, 
       101871983, 
       404227469, 
       1360698537, 
       85633159, 
-      1360698929
+      1360698929, 
+      404452127
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712470877,
-    "wof:lastmodified": 1595710826,
+    "wof:lastmodified": 1609868948,
     "wof:name": "WA16 1FN",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

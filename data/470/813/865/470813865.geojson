@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.603598,53.930287,-1.603598,53.930287",
+    "geom:bbox": "-1.603796,53.930287,-1.603796,53.930287",
     "geom:latitude": 53.930287,
-    "geom:longitude": -1.603598,
+    "geom:longitude": -1.603796,
     "gp:parent_id": "24073",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698619, 
       85633159, 
       1360698753, 
       404440087, 
-      1125970323
+      1125970323, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701067,
-    "wof:geomhash": "ba8b0bf2cae306d9015d8282a73b1862",
+    "wof:geomhash": "9553fb4e98e0537e65ff49cac97f5a16",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470813865,
-    "wof:lastmodified": 1583786208,
+    "wof:lastmodified": 1609868680,
     "wof:name": "LS17 0ET",
     "wof:parent_id": 404440087,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.603598, 
+    -1.603796, 
     53.930287, 
-    -1.603598, 
+    -1.603796, 
     53.930287
   ],
-  "geometry": {"coordinates":[-1.603598,53.930287],"type":"Point"}
+  "geometry": {"coordinates":[-1.603796,53.930287],"type":"Point"}
 }

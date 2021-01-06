@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.466789,53.395992,-1.466789,53.395992",
-    "geom:latitude": 53.395992,
-    "geom:longitude": -1.466789,
+    "geom:bbox": "-1.466730,53.395929,-1.466730,53.395929",
+    "geom:latitude": 53.395929,
+    "geom:longitude": -1.46673,
     "gp:parent_id": "34503",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      1360699075, 
+      101750529, 
       404227469, 
       85789265, 
       1360698591, 
-      85633159, 
-      1360699075, 
-      101750529
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701688,
-    "wof:geomhash": "36b141f62a78837997f898e9de10c54c",
+    "wof:geomhash": "86b8fb1579aa451482f5dffbb52c430a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471640963,
-    "wof:lastmodified": 1583786855,
+    "wof:lastmodified": 1609900138,
     "wof:name": "S3 9HJ",
     "wof:parent_id": 101750529,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.466789, 
-    53.395992, 
-    -1.466789, 
-    53.395992
+    -1.46673, 
+    53.395929, 
+    -1.46673, 
+    53.395929
   ],
-  "geometry": {"coordinates":[-1.466789,53.395992],"type":"Point"}
+  "geometry": {"coordinates":[-1.46673,53.395929],"type":"Point"}
 }

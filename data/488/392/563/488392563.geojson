@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.519417,55.613741,-4.519417,55.613741",
-    "geom:latitude": 55.613741,
-    "geom:longitude": -4.519417,
+    "geom:bbox": "-4.520386,55.613549,-4.520386,55.613549",
+    "geom:latitude": 55.613549,
+    "geom:longitude": -4.520386,
     "gp:parent_id": "12696191",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698697, 
-      85633159, 
       1360698779, 
       404451413, 
-      404227471
+      404227471, 
+      1360698697, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701403,
-    "wof:geomhash": "2359eff464ee90d694d998a488ec8879",
+    "wof:geomhash": "e71bfe26f02f3b8490c19ff7e28c6561",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488392563,
-    "wof:lastmodified": 1583786603,
+    "wof:lastmodified": 1609889583,
     "wof:name": "KA1 2LG",
     "wof:parent_id": 404451413,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.519417, 
-    55.613741, 
-    -4.519417, 
-    55.613741
+    -4.520386, 
+    55.613549, 
+    -4.520386, 
+    55.613549
   ],
-  "geometry": {"coordinates":[-4.519417,55.613741],"type":"Point"}
+  "geometry": {"coordinates":[-4.520386,55.613549],"type":"Point"}
 }

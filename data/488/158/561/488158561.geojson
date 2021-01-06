@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1994-05-01",
     "geom:area": 0,
-    "geom:bbox": "-2.517909,53.508181,-2.517909,53.508181",
-    "geom:latitude": 53.508181,
-    "geom:longitude": -2.517909,
+    "geom:bbox": "-2.517862,53.508188,-2.517862,53.508188",
+    "geom:latitude": 53.508188,
+    "geom:longitude": -2.517862,
     "gp:parent_id": "26070",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698555, 
+      85633159, 
       1360699023, 
       1360817301, 
       101872183, 
-      404227469, 
-      1360698555, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701284,
-    "wof:geomhash": "8fd3004102507dd08167efb6555a7a79",
+    "wof:geomhash": "6e706dc163a56a55caba2d3756a08694",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488158561,
-    "wof:lastmodified": 1583786232,
+    "wof:lastmodified": 1609877585,
     "wof:name": "WN7 1SP",
     "wof:parent_id": 404450053,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.517909, 
-    53.508181, 
-    -2.517909, 
-    53.508181
+    -2.517862, 
+    53.508188, 
+    -2.517862, 
+    53.508188
   ],
-  "geometry": {"coordinates":[-2.517909,53.508181],"type":"Point"}
+  "geometry": {"coordinates":[-2.517862,53.508188],"type":"Point"}
 }

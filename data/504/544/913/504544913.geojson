@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1999-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.717036,51.810174,-2.717036,51.810174",
-    "geom:latitude": 51.810174,
-    "geom:longitude": -2.717036,
+    "geom:bbox": "-2.717122,51.810102,-2.717122,51.810102",
+    "geom:latitude": 51.810102,
+    "geom:longitude": -2.717122,
     "gp:parent_id": "12696133",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      101852903, 
-      404227475, 
-      1360698641, 
       85633159, 
       1360699109, 
-      404446985
+      404446985, 
+      101852903, 
+      404227475, 
+      1360698641
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701414,
-    "wof:geomhash": "f00835ac276faa053a67eb5cdb494c23",
+    "wof:geomhash": "a8675093b3f9bf7330462b3815311033",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504544913,
-    "wof:lastmodified": 1583786550,
+    "wof:lastmodified": 1609878531,
     "wof:name": "NP25 3EJ",
     "wof:parent_id": 101852903,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.717036, 
-    51.810174, 
-    -2.717036, 
-    51.810174
+    -2.717122, 
+    51.810102, 
+    -2.717122, 
+    51.810102
   ],
-  "geometry": {"coordinates":[-2.717036,51.810174],"type":"Point"}
+  "geometry": {"coordinates":[-2.717122,51.810102],"type":"Point"}
 }

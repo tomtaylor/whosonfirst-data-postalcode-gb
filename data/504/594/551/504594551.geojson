@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1998-12-01",
     "geom:area": 0,
-    "geom:bbox": "-4.184094,51.819860,-4.184094,51.819860",
-    "geom:latitude": 51.81986,
-    "geom:longitude": -4.184094,
+    "geom:bbox": "-4.184595,51.823025,-4.184595,51.823025",
+    "geom:latitude": 51.823025,
+    "geom:longitude": -4.184595,
     "gp:parent_id": "12696118",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698785, 
-      404446601, 
       1125911327, 
       404227475, 
-      1360698639
+      1360698639, 
+      85633159, 
+      1360698785, 
+      404446601
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701464,
-    "wof:geomhash": "4970f5ba47a324837a3d4573d3fd8436",
+    "wof:geomhash": "f1287083d4315d94a13ea7ded5099cd0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504594551,
-    "wof:lastmodified": 1583786616,
+    "wof:lastmodified": 1609881471,
     "wof:name": "SA32 8PH",
     "wof:parent_id": 404446601,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.184094, 
-    51.81986, 
-    -4.184094, 
-    51.81986
+    -4.184595, 
+    51.823025, 
+    -4.184595, 
+    51.823025
   ],
-  "geometry": {"coordinates":[-4.184094,51.81986],"type":"Point"}
+  "geometry": {"coordinates":[-4.184595,51.823025],"type":"Point"}
 }

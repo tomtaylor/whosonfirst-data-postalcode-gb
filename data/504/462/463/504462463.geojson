@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1994-02-01",
     "geom:area": 0,
-    "geom:bbox": "-3.131672,58.388679,-3.131672,58.388679",
-    "geom:latitude": 58.388679,
-    "geom:longitude": -3.131672,
+    "geom:bbox": "-3.131449,58.388681,-3.131449,58.388681",
+    "geom:latitude": 58.388681,
+    "geom:longitude": -3.131449,
     "gp:parent_id": "12696199",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698663, 
+      85633159, 
       1360699045, 
       404436073, 
-      404227471, 
-      1360698663, 
-      85633159
+      404227471
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701342,
-    "wof:geomhash": "468bd247d56788667c9a0fcc0f41b57b",
+    "wof:geomhash": "dbf1f3439ce27f822840fd01d9bea3c6",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504462463,
-    "wof:lastmodified": 1583786457,
+    "wof:lastmodified": 1609872832,
     "wof:name": "KW1 5TZ",
     "wof:parent_id": 404436073,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.131672, 
-    58.388679, 
-    -3.131672, 
-    58.388679
+    -3.131449, 
+    58.388681, 
+    -3.131449, 
+    58.388681
   ],
-  "geometry": {"coordinates":[-3.131672,58.388679],"type":"Point"}
+  "geometry": {"coordinates":[-3.131449,58.388681],"type":"Point"}
 }

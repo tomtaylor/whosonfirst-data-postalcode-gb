@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.300756,51.399908,-2.300756,51.399908",
-    "geom:latitude": 51.399908,
-    "geom:longitude": -2.300756,
+    "geom:bbox": "-2.300220,51.399592,-2.300220,51.399592",
+    "geom:latitude": 51.399592,
+    "geom:longitude": -2.30022,
     "gp:parent_id": "12063",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698775, 
       404439069, 
       1126047557, 
       404227469, 
-      1360698589
+      1360698589, 
+      85633159, 
+      1360698775
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701146,
-    "wof:geomhash": "3ff880c4b098dee269976484b3d30ca6",
+    "wof:geomhash": "a10fbac5f25f37b125bcb0ac508bc97e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438048951,
-    "wof:lastmodified": 1583786276,
+    "wof:lastmodified": 1609869939,
     "wof:name": "BA1 7SU",
     "wof:parent_id": 404439069,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.300756, 
-    51.399908, 
-    -2.300756, 
-    51.399908
+    -2.30022, 
+    51.399592, 
+    -2.30022, 
+    51.399592
   ],
-  "geometry": {"coordinates":[-2.300756,51.399908],"type":"Point"}
+  "geometry": {"coordinates":[-2.30022,51.399592],"type":"Point"}
 }

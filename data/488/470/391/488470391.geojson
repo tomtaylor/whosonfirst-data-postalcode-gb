@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1996-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.158549,57.140940,-2.158549,57.140940",
-    "geom:latitude": 57.14094,
-    "geom:longitude": -2.158549,
+    "geom:bbox": "-2.158466,57.140860,-2.158466,57.140860",
+    "geom:latitude": 57.14086,
+    "geom:longitude": -2.158466,
     "gp:parent_id": "10243",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227471, 
-      1360698709, 
       85633159, 
       1360698989, 
       404429183, 
-      101750639
+      101750639, 
+      404227471, 
+      1360698709
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701485,
-    "wof:geomhash": "d51cecc157e0588f4e240f2ded71a9ac",
+    "wof:geomhash": "4c3b5ab3211d20990a3227cee2d39ccf",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488470391,
-    "wof:lastmodified": 1583786690,
+    "wof:lastmodified": 1609893095,
     "wof:name": "AB15 8JP",
     "wof:parent_id": 101750639,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.158549, 
-    57.14094, 
-    -2.158549, 
-    57.14094
+    -2.158466, 
+    57.14086, 
+    -2.158466, 
+    57.14086
   ],
-  "geometry": {"coordinates":[-2.158549,57.14094],"type":"Point"}
+  "geometry": {"coordinates":[-2.158466,57.14086],"type":"Point"}
 }

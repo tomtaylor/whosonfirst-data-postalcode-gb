@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.880436,52.239393,-0.880436,52.239393",
-    "geom:latitude": 52.239393,
-    "geom:longitude": -0.880436,
+    "geom:bbox": "-0.880890,52.239412,-0.880890,52.239412",
+    "geom:latitude": 52.239412,
+    "geom:longitude": -0.88089,
     "gp:parent_id": "30599",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698577, 
       85633159, 
       1360698755, 
-      101750459
+      101750459, 
+      404227469, 
+      1360698577
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701359,
-    "wof:geomhash": "c6451abd006d53989d6869801189b242",
+    "wof:geomhash": "0a0c3b15ba5e8f7093d4830a2c8382c4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 471164021,
-    "wof:lastmodified": 1583786506,
+    "wof:lastmodified": 1609877838,
     "wof:name": "NN1 5EY",
     "wof:parent_id": 101750459,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.880436, 
-    52.239393, 
-    -0.880436, 
-    52.239393
+    -0.88089, 
+    52.239412, 
+    -0.88089, 
+    52.239412
   ],
-  "geometry": {"coordinates":[-0.880436,52.239393],"type":"Point"}
+  "geometry": {"coordinates":[-0.88089,52.239412],"type":"Point"}
 }

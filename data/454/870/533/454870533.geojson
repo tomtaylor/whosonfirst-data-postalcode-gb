@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.618443,52.203034,1.618443,52.203034",
-    "geom:latitude": 52.203034,
-    "geom:longitude": 1.618443,
+    "geom:bbox": "1.619950,52.203023,1.619950,52.203023",
+    "geom:latitude": 52.203023,
+    "geom:longitude": 1.61995,
     "gp:parent_id": "34876",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698595, 
       85633159, 
       1360699041, 
       404451547, 
-      1360756897, 
-      404227469, 
-      1360698595
+      1360756897
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701743,
-    "wof:geomhash": "21f925c71b631985c42dc8aa1dad1392",
+    "wof:geomhash": "24a27f1b04a6f2b56c067acfa0f4cc5a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454870533,
-    "wof:lastmodified": 1583786874,
+    "wof:lastmodified": 1609903915,
     "wof:name": "IP16 4TU",
     "wof:parent_id": 404451547,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.618443, 
-    52.203034, 
-    1.618443, 
-    52.203034
+    1.61995, 
+    52.203023, 
+    1.61995, 
+    52.203023
   ],
-  "geometry": {"coordinates":[1.618443,52.203034],"type":"Point"}
+  "geometry": {"coordinates":[1.61995,52.203023],"type":"Point"}
 }

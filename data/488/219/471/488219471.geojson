@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.149883,52.594245,-2.149883,52.594245",
-    "geom:latitude": 52.594245,
-    "geom:longitude": -2.149883,
+    "geom:bbox": "-2.149981,52.594179,-2.149981,52.594179",
+    "geom:latitude": 52.594179,
+    "geom:longitude": -2.149981,
     "gp:parent_id": "40859",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698737, 
+      1126027181, 
       404227469, 
       1360698605, 
-      85633159, 
-      1360698737, 
-      1126027181
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701142,
-    "wof:geomhash": "eea45d091a4ec924f4d399a10d52b311",
+    "wof:geomhash": "8e1cb4d28ce26da8802f0a9eeb63abc0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488219471,
-    "wof:lastmodified": 1583786395,
+    "wof:lastmodified": 1609880851,
     "wof:name": "WV6 0DN",
     "wof:parent_id": 101914031,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.149883, 
-    52.594245, 
-    -2.149883, 
-    52.594245
+    -2.149981, 
+    52.594179, 
+    -2.149981, 
+    52.594179
   ],
-  "geometry": {"coordinates":[-2.149883,52.594245],"type":"Point"}
+  "geometry": {"coordinates":[-2.149981,52.594179],"type":"Point"}
 }

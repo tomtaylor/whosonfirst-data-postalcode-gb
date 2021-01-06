@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.648263,53.816568,-1.648263,53.816568",
-    "geom:latitude": 53.816568,
+    "geom:bbox": "-1.648263,53.816514,-1.648263,53.816514",
+    "geom:latitude": 53.816514,
     "geom:longitude": -1.648263,
     "gp:parent_id": "26042",
     "iso:country": "GB",
@@ -19,11 +19,11 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698609, 
       85633159, 
       1360698749, 
       101750579, 
-      404227469, 
-      1360698609
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701203,
-    "wof:geomhash": "6b78f0a65da3ecfd2eb48423c3f41119",
+    "wof:geomhash": "c34803c5c619b34e4fb47a06893397cf",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 455077121,
-    "wof:lastmodified": 1583786333,
+    "wof:lastmodified": 1609871386,
     "wof:name": "LS13 1AF",
     "wof:parent_id": 101750579,
     "wof:placetype": "postalcode",
@@ -53,9 +53,9 @@
   },
   "bbox": [
     -1.648263, 
-    53.816568, 
+    53.816514, 
     -1.648263, 
-    53.816568
+    53.816514
   ],
-  "geometry": {"coordinates":[-1.648263,53.816568],"type":"Point"}
+  "geometry": {"coordinates":[-1.648263,53.816514],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2009-09-01",
     "geom:area": 0,
-    "geom:bbox": "-0.247672,52.551557,-0.247672,52.551557",
-    "geom:latitude": 52.551557,
-    "geom:longitude": -0.247672,
+    "geom:bbox": "-0.247524,52.551564,-0.247524,52.551564",
+    "geom:latitude": 52.551564,
+    "geom:longitude": -0.247524,
     "gp:parent_id": "31931",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      101750461, 
-      404227469, 
       1360698535, 
       85633159, 
-      1360698773
+      1360698773, 
+      101750461, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701355,
-    "wof:geomhash": "bdb97fe5c9072aa5793037e8845da53c",
+    "wof:geomhash": "5564a81b7335502b0e0ff18953218197",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488342105,
-    "wof:lastmodified": 1583786552,
+    "wof:lastmodified": 1609887349,
     "wof:name": "PE7 0LP",
     "wof:parent_id": 101750461,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.247672, 
-    52.551557, 
-    -0.247672, 
-    52.551557
+    -0.247524, 
+    52.551564, 
+    -0.247524, 
+    52.551564
   ],
-  "geometry": {"coordinates":[-0.247672,52.551557],"type":"Point"}
+  "geometry": {"coordinates":[-0.247524,52.551564],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.760436,50.386567,-4.760436,50.386567",
-    "geom:latitude": 50.386567,
-    "geom:longitude": -4.760436,
+    "geom:bbox": "-4.760413,50.386898,-4.760413,50.386898",
+    "geom:latitude": 50.386898,
+    "geom:longitude": -4.760413,
     "gp:parent_id": "38135",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699085, 
-      404448431, 
-      1360756851, 
       404227469, 
       1360698623, 
-      85633159
+      85633159, 
+      1360699085, 
+      404448431, 
+      1360756851
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701593,
-    "wof:geomhash": "f7fc6fffe7411318f5edf2a621a42d4f",
+    "wof:geomhash": "b48696faf99e570fd53870e9b72c3860",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471427161,
-    "wof:lastmodified": 1583786734,
+    "wof:lastmodified": 1609891950,
     "wof:name": "PL30 5EL",
     "wof:parent_id": 404448431,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.760436, 
-    50.386567, 
-    -4.760436, 
-    50.386567
+    -4.760413, 
+    50.386898, 
+    -4.760413, 
+    50.386898
   ],
-  "geometry": {"coordinates":[-4.760436,50.386567],"type":"Point"}
+  "geometry": {"coordinates":[-4.760413,50.386898],"type":"Point"}
 }

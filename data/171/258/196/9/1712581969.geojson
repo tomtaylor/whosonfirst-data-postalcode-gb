@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-11-01",
     "geom:area": 0,
-    "geom:bbox": "-2.323049,53.102295,-2.323049,53.102295",
-    "geom:latitude": 53.102295,
-    "geom:longitude": -2.323049,
+    "geom:bbox": "-2.323050,53.102412,-2.323050,53.102412",
+    "geom:latitude": 53.102412,
+    "geom:longitude": -2.32305,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      101871989, 
       404227469, 
       1360698537, 
       85633159, 
       1360698929, 
-      404436731, 
-      101871989
+      404436731
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583794440,
-    "wof:geomhash": "932e7de6f87e47073228df2b522f7938",
+    "wof:geomhash": "eff52cb07b72f8a1ca81f28c501c0291",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712581969,
-    "wof:lastmodified": 1583794440,
+    "wof:lastmodified": 1609870951,
     "wof:name": "ST7 2BF",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.323049, 
-    53.102295, 
-    -2.323049, 
-    53.102295
+    -2.32305, 
+    53.102412, 
+    -2.32305, 
+    53.102412
   ],
-  "geometry": {"coordinates":[-2.323049,53.102295],"type":"Point"}
+  "geometry": {"coordinates":[-2.32305,53.102412],"type":"Point"}
 }

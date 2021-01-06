@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.955746,52.869232,-2.955746,52.869232",
-    "geom:latitude": 52.869232,
-    "geom:longitude": -2.955746,
+    "geom:bbox": "-2.955804,52.869237,-2.955804,52.869237",
+    "geom:latitude": 52.869237,
+    "geom:longitude": -2.955804,
     "gp:parent_id": "40343",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698821, 
       404443733, 
       1126060265, 
       404227469, 
       1360698587, 
-      85633159
+      85633159, 
+      1360698821
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701163,
-    "wof:geomhash": "0a4fa72496559974478434cb2a34faee",
+    "wof:geomhash": "6db346eacbe301d4116dec6ca7fc7616",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487778307,
-    "wof:lastmodified": 1583786265,
+    "wof:lastmodified": 1609879471,
     "wof:name": "SY11 4PD",
     "wof:parent_id": 404443733,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.955746, 
-    52.869232, 
-    -2.955746, 
-    52.869232
+    -2.955804, 
+    52.869237, 
+    -2.955804, 
+    52.869237
   ],
-  "geometry": {"coordinates":[-2.955746,52.869232],"type":"Point"}
+  "geometry": {"coordinates":[-2.955804,52.869237],"type":"Point"}
 }

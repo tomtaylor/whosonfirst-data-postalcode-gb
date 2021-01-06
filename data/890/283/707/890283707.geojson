@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2010-08-01",
     "geom:area": 0,
-    "geom:bbox": "-2.574311,53.536819,-2.574311,53.536819",
-    "geom:latitude": 53.536819,
-    "geom:longitude": -2.574311,
+    "geom:bbox": "-2.574326,53.536827,-2.574326,53.536827",
+    "geom:latitude": 53.536827,
+    "geom:longitude": -2.574326,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699023, 
-      1360817301, 
-      101872175, 
       404227469, 
       1360698555, 
-      85633159
+      85633159, 
+      1360699023, 
+      1360817301, 
+      101872175
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468903966,
-    "wof:geomhash": "a11b5d91acdd46e32ad16462ee196bb3",
+    "wof:geomhash": "fd4be5b10cbb182a925f2e38ac5f1ede",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 890283707,
-    "wof:lastmodified": 1583786287,
+    "wof:lastmodified": 1609869839,
     "wof:name": "WN2 3LS",
     "wof:parent_id": 404450053,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.574311, 
-    53.536819, 
-    -2.574311, 
-    53.536819
+    -2.574326, 
+    53.536827, 
+    -2.574326, 
+    53.536827
   ],
-  "geometry": {"coordinates":[-2.574311,53.536819],"type":"Point"}
+  "geometry": {"coordinates":[-2.574326,53.536827],"type":"Point"}
 }

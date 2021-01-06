@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1997-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.340637,53.326454,-1.340637,53.326454",
-    "geom:latitude": 53.326454,
+    "geom:bbox": "-1.340637,53.326509,-1.340637,53.326509",
+    "geom:latitude": 53.326509,
     "geom:longitude": -1.340637,
     "gp:parent_id": "34503",
     "iso:country": "GB",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698591, 
       85633159, 
       1360699075, 
       101750529, 
       404227469, 
-      85787845
+      85787845, 
+      1360698591
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701684,
-    "wof:geomhash": "46c4044dfe706d5811a79b1237d0902d",
+    "wof:geomhash": "925625bb4abb344d08a6247ff6e35ec8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471636217,
-    "wof:lastmodified": 1583786855,
+    "wof:lastmodified": 1609899913,
     "wof:name": "S20 3GZ",
     "wof:parent_id": 404430843,
     "wof:placetype": "postalcode",
@@ -55,9 +55,9 @@
   },
   "bbox": [
     -1.340637, 
-    53.326454, 
+    53.326509, 
     -1.340637, 
-    53.326454
+    53.326509
   ],
-  "geometry": {"coordinates":[-1.340637,53.326454],"type":"Point"}
+  "geometry": {"coordinates":[-1.340637,53.326509],"type":"Point"}
 }

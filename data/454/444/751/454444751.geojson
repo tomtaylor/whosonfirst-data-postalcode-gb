@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.065171,53.505153,-0.065171,53.505153",
-    "geom:latitude": 53.505153,
-    "geom:longitude": -0.065171,
+    "geom:bbox": "-0.064871,53.505130,-0.064871,53.505130",
+    "geom:latitude": 53.50513,
+    "geom:longitude": -0.064871,
     "gp:parent_id": "23756",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699067, 
-      404445797, 
-      1125848579, 
       404227469, 
       1360698571, 
-      85633159
+      85633159, 
+      1360699067, 
+      404445797, 
+      1125848579
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701571,
-    "wof:geomhash": "aa6d0fb7910095448e45946878862726",
+    "wof:geomhash": "96c56a350f2a3438ad2e4d6ffab56aea",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454444751,
-    "wof:lastmodified": 1583786703,
+    "wof:lastmodified": 1609889815,
     "wof:name": "DN36 5EL",
     "wof:parent_id": 404445797,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.065171, 
-    53.505153, 
-    -0.065171, 
-    53.505153
+    -0.064871, 
+    53.50513, 
+    -0.064871, 
+    53.50513
   ],
-  "geometry": {"coordinates":[-0.065171,53.505153],"type":"Point"}
+  "geometry": {"coordinates":[-0.064871,53.50513],"type":"Point"}
 }

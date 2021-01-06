@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.054308,56.598325,-4.054308,56.598325",
-    "geom:latitude": 56.598325,
-    "geom:longitude": -4.054308,
+    "geom:bbox": "-4.053506,56.598258,-4.053506,56.598258",
+    "geom:latitude": 56.598258,
+    "geom:longitude": -4.053506,
     "gp:parent_id": "20470",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698829, 
       404451983, 
       404227471, 
-      1360698691
+      1360698691, 
+      85633159, 
+      1360698829
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701441,
-    "wof:geomhash": "17d368cfe8b085ac9815b5a5dd4049a4",
+    "wof:geomhash": "44df335d5c2efe510f363843b69efe32",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504571971,
-    "wof:lastmodified": 1583786582,
+    "wof:lastmodified": 1609880077,
     "wof:name": "PH15 2LL",
     "wof:parent_id": 404451983,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.054308, 
-    56.598325, 
-    -4.054308, 
-    56.598325
+    -4.053506, 
+    56.598258, 
+    -4.053506, 
+    56.598258
   ],
-  "geometry": {"coordinates":[-4.054308,56.598325],"type":"Point"}
+  "geometry": {"coordinates":[-4.053506,56.598258],"type":"Point"}
 }

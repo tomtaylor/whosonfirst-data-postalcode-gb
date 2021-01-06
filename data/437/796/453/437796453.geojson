@@ -2,16 +2,16 @@
   "id": 437796453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2003-06-01",
-    "edtf:inception": "1990-12-01",
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-10-01",
     "geom:area": 0,
-    "geom:bbox": "-4.335349,55.772265,-4.335349,55.772265",
-    "geom:latitude": 55.772265,
-    "geom:longitude": -4.335349,
+    "geom:bbox": "-4.352770,55.767632,-4.352770,55.767632",
+    "geom:latitude": 55.767632,
+    "geom:longitude": -4.35277,
     "gp:parent_id": "30244",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "S92000003",
     "os:county_code": "S99999999",
     "os:district_code": "S12000011",
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701560,
-    "wof:geomhash": "b20281ae3bf5b2fd3cbfc4a0f2f104a0",
+    "wof:geomhash": "2f2f101e1da068cf670ecab0df7d7e36",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 437796453,
-    "wof:lastmodified": 1583786710,
+    "wof:lastmodified": 1609890879,
     "wof:name": "G77 6XA",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.335349, 
-    55.772265, 
-    -4.335349, 
-    55.772265
+    -4.35277, 
+    55.767632, 
+    -4.35277, 
+    55.767632
   ],
-  "geometry": {"coordinates":[-4.335349,55.772265],"type":"Point"}
+  "geometry": {"coordinates":[-4.35277,55.767632],"type":"Point"}
 }

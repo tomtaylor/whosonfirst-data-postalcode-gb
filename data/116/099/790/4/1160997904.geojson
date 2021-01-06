@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-12-01",
     "geom:area": 0,
-    "geom:bbox": "-2.350289,53.144287,-2.350289,53.144287",
-    "geom:latitude": 53.144287,
-    "geom:longitude": -2.350289,
+    "geom:bbox": "-2.350605,53.144466,-2.350605,53.144466",
+    "geom:latitude": 53.144466,
+    "geom:longitude": -2.350605,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      404432155, 
       101871987, 
       404227469, 
       1360698537, 
       85633159, 
-      1360698929
+      1360698929, 
+      404432155
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583799326,
-    "wof:geomhash": "5a7104847b8d0b96df5b59c3e2e817df",
+    "wof:geomhash": "89f22ba5e897c69aaa81a2aa64993622",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160997904,
-    "wof:lastmodified": 1595711064,
+    "wof:lastmodified": 1609874179,
     "wof:name": "CW11 4LE",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.350289, 
-    53.144287, 
-    -2.350289, 
-    53.144287
+    -2.350605, 
+    53.144466, 
+    -2.350605, 
+    53.144466
   ],
-  "geometry": {"coordinates":[-2.350289,53.144287],"type":"Point"}
+  "geometry": {"coordinates":[-2.350605,53.144466],"type":"Point"}
 }

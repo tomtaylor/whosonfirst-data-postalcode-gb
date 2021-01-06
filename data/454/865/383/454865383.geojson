@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.286091,52.259100,1.286091,52.259100",
-    "geom:latitude": 52.2591,
-    "geom:longitude": 1.286091,
+    "geom:bbox": "1.286095,52.259146,1.286095,52.259146",
+    "geom:latitude": 52.259146,
+    "geom:longitude": 1.286095,
     "gp:parent_id": "36956",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698595, 
       85633159, 
       1360699041, 
       404434979, 
       1243582711, 
-      404227469
+      404227469, 
+      1360698595
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701743,
-    "wof:geomhash": "8b21a2cc59e7988f82223833566df8ac",
+    "wof:geomhash": "fba477858df8cb5b99f0198abab0e30a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454865383,
-    "wof:lastmodified": 1583786875,
+    "wof:lastmodified": 1609903685,
     "wof:name": "IP13 7LY",
     "wof:parent_id": 404434979,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.286091, 
-    52.2591, 
-    1.286091, 
-    52.2591
+    1.286095, 
+    52.259146, 
+    1.286095, 
+    52.259146
   ],
-  "geometry": {"coordinates":[1.286091,52.2591],"type":"Point"}
+  "geometry": {"coordinates":[1.286095,52.259146],"type":"Point"}
 }

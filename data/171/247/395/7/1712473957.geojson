@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-12-01",
     "geom:area": 0,
-    "geom:bbox": "-0.117698,52.449597,-0.117698,52.449597",
-    "geom:latitude": 52.449597,
-    "geom:longitude": -0.117698,
+    "geom:bbox": "-0.118008,52.449575,-0.118008,52.449575",
+    "geom:latitude": 52.449575,
+    "geom:longitude": -0.118008,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1326759729, 
-      404227469, 
       1360698535, 
       85633159, 
       1360698845, 
-      404443131
+      404443131, 
+      1326759729, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583789645,
-    "wof:geomhash": "6817a0de14816f4b69072b5d59212d15",
+    "wof:geomhash": "f986835a61bc679a8a25cb4c875dff13",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712473957,
-    "wof:lastmodified": 1583789645,
+    "wof:lastmodified": 1609869024,
     "wof:name": "PE26 1LH",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.117698, 
-    52.449597, 
-    -0.117698, 
-    52.449597
+    -0.118008, 
+    52.449575, 
+    -0.118008, 
+    52.449575
   ],
-  "geometry": {"coordinates":[-0.117698,52.449597],"type":"Point"}
+  "geometry": {"coordinates":[-0.118008,52.449575],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.185401,52.634097,0.185401,52.634097",
-    "geom:latitude": 52.634097,
-    "geom:longitude": 0.185401,
+    "geom:bbox": "0.185342,52.634099,0.185342,52.634099",
+    "geom:latitude": 52.634099,
+    "geom:longitude": 0.185342,
     "gp:parent_id": "19504",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698535, 
       85633159, 
       1360698845, 
       404439009, 
-      1125911373
+      1125911373, 
+      404227469, 
+      1360698535
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701532,
-    "wof:geomhash": "7451999f59ec129403decddb4ae7306b",
+    "wof:geomhash": "87cd5d67652ad437d02c96b12b69fcfa",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471357985,
-    "wof:lastmodified": 1583786676,
+    "wof:lastmodified": 1609888071,
     "wof:name": "PE14 0EG",
     "wof:parent_id": 404439009,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.185401, 
-    52.634097, 
-    0.185401, 
-    52.634097
+    0.185342, 
+    52.634099, 
+    0.185342, 
+    52.634099
   ],
-  "geometry": {"coordinates":[0.185401,52.634097],"type":"Point"}
+  "geometry": {"coordinates":[0.185342,52.634099],"type":"Point"}
 }

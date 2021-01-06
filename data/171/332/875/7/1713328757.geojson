@@ -5,30 +5,30 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-02-01",
     "geom:area": 0,
-    "geom:bbox": "-3.083567,55.912567,-3.083567,55.912567",
-    "geom:latitude": 55.912567,
-    "geom:longitude": -3.083567,
+    "geom:bbox": "-3.100324,55.912841,-3.100324,55.912841",
+    "geom:latitude": 55.912841,
+    "geom:longitude": -3.100324,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "os:country_code": "S92000003",
     "os:county_code": "S99999999",
     "os:district_code": "S12000019",
-    "os:positional_quality_indicator": "5",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698791, 
       404436513, 
       404227471, 
       85787605, 
-      1360698677
+      1360698677, 
+      85633159, 
+      1360698791
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735537,
-    "wof:geomhash": "5173c681a4a27f33c250893aa8e62c41",
+    "wof:geomhash": "df08e7f9b1c4652309f4161d92e710b0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1713328757,
-    "wof:lastmodified": 1595753378,
+    "wof:lastmodified": 1609875335,
     "wof:name": "EH22 1FW",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.083567, 
-    55.912567, 
-    -3.083567, 
-    55.912567
+    -3.100324, 
+    55.912841, 
+    -3.100324, 
+    55.912841
   ],
-  "geometry": {"coordinates":[-3.083567,55.912567],"type":"Point"}
+  "geometry": {"coordinates":[-3.100324,55.912841],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-04-01",
     "geom:area": 0,
-    "geom:bbox": "-4.338356,55.797404,-4.338356,55.797404",
-    "geom:latitude": 55.797404,
-    "geom:longitude": -4.338356,
+    "geom:bbox": "-4.338487,55.797195,-4.338487,55.797195",
+    "geom:latitude": 55.797195,
+    "geom:longitude": -4.338487,
     "gp:parent_id": "21125",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404430153, 
-      1175612707, 
       404227471, 
       85792511, 
       1360698707, 
       85633159, 
-      1360698797
+      1360698797, 
+      404430153, 
+      1175612707
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701540,
-    "wof:geomhash": "8353735275ca7eea6fae896a440faa65",
+    "wof:geomhash": "1d856a3d436a706c8d9a0cc6d88607c1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 504742897,
-    "wof:lastmodified": 1595732949,
+    "wof:lastmodified": 1609888564,
     "wof:name": "G53 7YZ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.338356, 
-    55.797404, 
-    -4.338356, 
-    55.797404
+    -4.338487, 
+    55.797195, 
+    -4.338487, 
+    55.797195
   ],
-  "geometry": {"coordinates":[-4.338356,55.797404],"type":"Point"}
+  "geometry": {"coordinates":[-4.338487,55.797195],"type":"Point"}
 }

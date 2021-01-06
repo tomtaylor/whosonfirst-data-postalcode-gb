@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2000-06-01",
     "geom:area": 0,
-    "geom:bbox": "-0.699458,51.183795,-0.699458,51.183795",
-    "geom:latitude": 51.183795,
-    "geom:longitude": -0.699458,
+    "geom:bbox": "-0.699409,51.183854,-0.699409,51.183854",
+    "geom:latitude": 51.183854,
+    "geom:longitude": -0.699409,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698887, 
-      404432625, 
       101854681, 
       404227469, 
-      1360698599
+      1360698599, 
+      85633159, 
+      1360698887, 
+      404432625
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701702,
-    "wof:geomhash": "01719b07ccf1c9a92efeaa9d9e4677f2",
+    "wof:geomhash": "cb431a4f0f9f680366d667739ee84f46",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454714639,
-    "wof:lastmodified": 1583786843,
+    "wof:lastmodified": 1609900187,
     "wof:name": "GU8 6EF",
     "wof:parent_id": 101854681,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.699458, 
-    51.183795, 
-    -0.699458, 
-    51.183795
+    -0.699409, 
+    51.183854, 
+    -0.699409, 
+    51.183854
   ],
-  "geometry": {"coordinates":[-0.699458,51.183795],"type":"Point"}
+  "geometry": {"coordinates":[-0.699409,51.183854],"type":"Point"}
 }

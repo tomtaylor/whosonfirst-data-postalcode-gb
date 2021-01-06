@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.151258,51.644986,-0.151258,51.644986",
-    "geom:latitude": 51.644986,
-    "geom:longitude": -0.151258,
+    "geom:bbox": "-0.151304,51.644999,-0.151304,51.644999",
+    "geom:latitude": 51.644999,
+    "geom:longitude": -0.151304,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      1158857285, 
-      85633159, 
       101750367, 
       404227469, 
       85786729, 
-      1360698645
+      1360698645, 
+      1158857285, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701635,
-    "wof:geomhash": "c72f5b808ee6e898ddb939b6131d0adc",
+    "wof:geomhash": "a313edf690d06562ec69fefbe7482694",
     "wof:hierarchy": [
       {
         "borough_id": 1158857285,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454552187,
-    "wof:lastmodified": 1583786766,
+    "wof:lastmodified": 1609894013,
     "wof:name": "EN4 8HU",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.151258, 
-    51.644986, 
-    -0.151258, 
-    51.644986
+    -0.151304, 
+    51.644999, 
+    -0.151304, 
+    51.644999
   ],
-  "geometry": {"coordinates":[-0.151258,51.644986],"type":"Point"}
+  "geometry": {"coordinates":[-0.151304,51.644999],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.869807,51.501341,-0.869807,51.501341",
-    "geom:latitude": 51.501341,
-    "geom:longitude": -0.869807,
+    "geom:bbox": "-0.869777,51.501377,-0.869777,51.501377",
+    "geom:latitude": 51.501377,
+    "geom:longitude": -0.869777,
     "gp:parent_id": "39174",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      101852549, 
-      404227469, 
-      1360698529, 
       85633159, 
       1360698967, 
-      404433173
+      404433173, 
+      101852549, 
+      404227469, 
+      1360698529
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701655,
-    "wof:geomhash": "8c91d15409cd7c3be9994de1242b1026",
+    "wof:geomhash": "20dfb55187a731c4d1ee504820d11a3e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471522019,
-    "wof:lastmodified": 1583786786,
+    "wof:lastmodified": 1609895260,
     "wof:name": "RG10 8BY",
     "wof:parent_id": 101852549,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.869807, 
-    51.501341, 
-    -0.869807, 
-    51.501341
+    -0.869777, 
+    51.501377, 
+    -0.869777, 
+    51.501377
   ],
-  "geometry": {"coordinates":[-0.869807,51.501341],"type":"Point"}
+  "geometry": {"coordinates":[-0.869777,51.501377],"type":"Point"}
 }

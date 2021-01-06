@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.694805,51.076910,0.694805,51.076910",
-    "geom:latitude": 51.07691,
-    "geom:longitude": 0.694805,
+    "geom:bbox": "0.694809,51.076917,0.694809,51.076917",
+    "geom:latitude": 51.076917,
+    "geom:longitude": 0.694809,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      101854661, 
-      404227469, 
       1360698565, 
       85633159, 
       1360698811, 
-      404450133
+      404450133, 
+      101854661, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701219,
-    "wof:geomhash": "06fdb22adc4e18b653c0b73263ce71a1",
+    "wof:geomhash": "86f1c18d2b6d5cc350513030003908be",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 487865795,
-    "wof:lastmodified": 1583786310,
+    "wof:lastmodified": 1609884078,
     "wof:name": "TN30 6NB",
     "wof:parent_id": 101854661,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.694805, 
-    51.07691, 
-    0.694805, 
-    51.07691
+    0.694809, 
+    51.076917, 
+    0.694809, 
+    51.076917
   ],
-  "geometry": {"coordinates":[0.694805,51.07691],"type":"Point"}
+  "geometry": {"coordinates":[0.694809,51.076917],"type":"Point"}
 }

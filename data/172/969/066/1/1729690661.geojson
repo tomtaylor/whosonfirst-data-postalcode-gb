@@ -1,0 +1,59 @@
+{
+  "id": 1729690661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-07-01",
+    "geom:area": 0,
+    "geom:bbox": "-0.252004,52.288617,-0.252004,52.288617",
+    "geom:latitude": 52.288617,
+    "geom:longitude": -0.252004,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E10000003",
+    "os:district_code": "E07000011",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000006",
+    "src:geom": "os",
+    "wof:belongsto": [
+      1360698535, 
+      85633159, 
+      1360698845, 
+      404454133, 
+      1360753061, 
+      404227469
+    ],
+    "wof:breaches": [],
+    "wof:country": "GB",
+    "wof:created": 1609906464,
+    "wof:geomhash": "0d363cd75261fab1be724641c31661b0",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698845,
+        "localadmin_id": 404454133,
+        "locality_id": 1360753061,
+        "macroregion_id": 404227469,
+        "region_id": 1360698535
+      }
+    ],
+    "wof:id": 1729690661,
+    "wof:lastmodified": 1609906464,
+    "wof:name": "PE19 5WD",
+    "wof:parent_id": -1,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -0.252004, 
+    52.288617, 
+    -0.252004, 
+    52.288617
+  ],
+  "geometry": {"coordinates":[-0.252004,52.288617],"type":"Point"}
+}

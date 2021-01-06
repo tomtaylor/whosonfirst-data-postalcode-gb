@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.151808,50.380133,-4.151808,50.380133",
-    "geom:latitude": 50.380133,
-    "geom:longitude": -4.151808,
+    "geom:bbox": "-4.151880,50.380154,-4.151880,50.380154",
+    "geom:latitude": 50.380154,
+    "geom:longitude": -4.15188,
     "gp:parent_id": "32185",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      101750297, 
+      404227469, 
       1360698541, 
       85633159, 
-      1360698841, 
-      101750297, 
-      404227469
+      1360698841
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701592,
-    "wof:geomhash": "d69104208428311ac47d6a8439eaa5f8",
+    "wof:geomhash": "5f357d2011721b5b2b7897df7bee528c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 471424809,
-    "wof:lastmodified": 1583786736,
+    "wof:lastmodified": 1609891771,
     "wof:name": "PL3 4HF",
     "wof:parent_id": 101750297,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.151808, 
-    50.380133, 
-    -4.151808, 
-    50.380133
+    -4.15188, 
+    50.380154, 
+    -4.15188, 
+    50.380154
   ],
-  "geometry": {"coordinates":[-4.151808,50.380133],"type":"Point"}
+  "geometry": {"coordinates":[-4.15188,50.380154],"type":"Point"}
 }

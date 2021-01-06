@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.158154,53.409892,-2.158154,53.409892",
-    "geom:latitude": 53.409892,
-    "geom:longitude": -2.158154,
+    "geom:bbox": "-2.158064,53.409982,-2.158064,53.409982",
+    "geom:latitude": 53.409982,
+    "geom:longitude": -2.158064,
     "gp:parent_id": "36177",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360698879, 
       101750527, 
       404227469, 
-      1360698555, 
-      85633159
+      1360698555
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701734,
-    "wof:geomhash": "a975e45e83217079e80e87faa9b50549",
+    "wof:geomhash": "3e6b1875fb6e09bd3e7990d8ee31380b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 471763315,
-    "wof:lastmodified": 1583786907,
+    "wof:lastmodified": 1609902338,
     "wof:name": "SK1 1EB",
     "wof:parent_id": 101750527,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.158154, 
-    53.409892, 
-    -2.158154, 
-    53.409892
+    -2.158064, 
+    53.409982, 
+    -2.158064, 
+    53.409982
   ],
-  "geometry": {"coordinates":[-2.158154,53.409892],"type":"Point"}
+  "geometry": {"coordinates":[-2.158064,53.409982],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.400540,55.311424,-4.400540,55.311424",
-    "geom:latitude": 55.311424,
-    "geom:longitude": -4.40054,
+    "geom:bbox": "-4.400581,55.311319,-4.400581,55.311319",
+    "geom:latitude": 55.311319,
+    "geom:longitude": -4.400581,
     "gp:parent_id": "17862",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698697, 
       85633159, 
       1360698779, 
       404451413, 
-      404227471
+      404227471, 
+      1360698697
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701336,
-    "wof:geomhash": "49e25ab458c20b49696fc83fffb98813",
+    "wof:geomhash": "88b5df705f902ba7e704397295f81e27",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504459827,
-    "wof:lastmodified": 1583786449,
+    "wof:lastmodified": 1609872648,
     "wof:name": "KA6 7UA",
     "wof:parent_id": 404451413,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.40054, 
-    55.311424, 
-    -4.40054, 
-    55.311424
+    -4.400581, 
+    55.311319, 
+    -4.400581, 
+    55.311319
   ],
-  "geometry": {"coordinates":[-4.40054,55.311424],"type":"Point"}
+  "geometry": {"coordinates":[-4.400581,55.311319],"type":"Point"}
 }

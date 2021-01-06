@@ -6,9 +6,9 @@
     "edtf:inception": "2008-11-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.094207,51.538173,-0.094207,51.538173",
-    "geom:latitude": 51.538173,
-    "geom:longitude": -0.094207,
+    "geom:bbox": "-0.093980,51.538070,-0.093980,51.538070",
+    "geom:latitude": 51.53807,
+    "geom:longitude": -0.09398,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      101750367, 
       404227469, 
       1158864405, 
       1360698645, 
       1158857275, 
-      85633159, 
-      101750367
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701341,
-    "wof:geomhash": "0c1e9482543840b153a02d015fc164d1",
+    "wof:geomhash": "b875d6dc41af9ab7ae5358a6ef89d6f6",
     "wof:hierarchy": [
       {
         "borough_id": 1158857275,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488325311,
-    "wof:lastmodified": 1583786535,
+    "wof:lastmodified": 1609886588,
     "wof:name": "N1 7BY",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.094207, 
-    51.538173, 
-    -0.094207, 
-    51.538173
+    -0.09398, 
+    51.53807, 
+    -0.09398, 
+    51.53807
   ],
-  "geometry": {"coordinates":[-0.094207,51.538173],"type":"Point"}
+  "geometry": {"coordinates":[-0.09398,51.53807],"type":"Point"}
 }

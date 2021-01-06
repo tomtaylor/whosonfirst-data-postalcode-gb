@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.774752,55.694761,-2.774752,55.694761",
-    "geom:latitude": 55.694761,
-    "geom:longitude": -2.774752,
+    "geom:bbox": "-2.778909,55.699830,-2.778909,55.699830",
+    "geom:latitude": 55.69983,
+    "geom:longitude": -2.778909,
     "gp:parent_id": "12696186",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404442083, 
-      404227471, 
       1360698725, 
       85633159, 
-      1360699015
+      1360699015, 
+      404442083, 
+      404227471
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701495,
-    "wof:geomhash": "2af9a6516d56ed315d24a6359dcc3da7",
+    "wof:geomhash": "5d6e8dae721df0a5b7988d084a5f322d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504625145,
-    "wof:lastmodified": 1583786645,
+    "wof:lastmodified": 1609883117,
     "wof:name": "TD2 6RG",
     "wof:parent_id": 404442083,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.774752, 
-    55.694761, 
-    -2.774752, 
-    55.694761
+    -2.778909, 
+    55.69983, 
+    -2.778909, 
+    55.69983
   ],
-  "geometry": {"coordinates":[-2.774752,55.694761],"type":"Point"}
+  "geometry": {"coordinates":[-2.778909,55.69983],"type":"Point"}
 }

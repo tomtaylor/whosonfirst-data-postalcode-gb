@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.782198,50.721755,-2.782198,50.721755",
-    "geom:latitude": 50.721755,
-    "geom:longitude": -2.782198,
+    "geom:bbox": "-2.782411,50.721789,-2.782411,50.721789",
+    "geom:latitude": 50.721789,
+    "geom:longitude": -2.782411,
     "gp:parent_id": "19821",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698545, 
       85633159, 
       1360698745, 
       404446207, 
-      1126060133
+      1126060133, 
+      404227469, 
+      1360698545
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701591,
-    "wof:geomhash": "feab4bec8481b671e35133362aee996e",
+    "wof:geomhash": "80edccec6230de2c58df30455b74845a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454472315,
-    "wof:lastmodified": 1583786725,
+    "wof:lastmodified": 1609890984,
     "wof:name": "DT6 6AN",
     "wof:parent_id": 404446207,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.782198, 
-    50.721755, 
-    -2.782198, 
-    50.721755
+    -2.782411, 
+    50.721789, 
+    -2.782411, 
+    50.721789
   ],
-  "geometry": {"coordinates":[-2.782198,50.721755],"type":"Point"}
+  "geometry": {"coordinates":[-2.782411,50.721789],"type":"Point"}
 }

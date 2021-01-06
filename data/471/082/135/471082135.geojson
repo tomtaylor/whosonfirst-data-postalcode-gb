@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.671519,55.002093,-1.671519,55.002093",
-    "geom:latitude": 55.002093,
-    "geom:longitude": -1.671519,
+    "geom:bbox": "-1.671581,55.002075,-1.671581,55.002075",
+    "geom:latitude": 55.002075,
+    "geom:longitude": -1.671581,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698601, 
-      85633159, 
       1360698961, 
       404443099, 
       1360758191, 
-      404227469
+      404227469, 
+      1360698601, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701252,
-    "wof:geomhash": "113bb859fa4a700ce52394df6c65c263",
+    "wof:geomhash": "7587721d14748c361f1f0f1d09eaf652",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471082135,
-    "wof:lastmodified": 1583786395,
+    "wof:lastmodified": 1609871808,
     "wof:name": "NE5 3XW",
     "wof:parent_id": 101750617,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.671519, 
-    55.002093, 
-    -1.671519, 
-    55.002093
+    -1.671581, 
+    55.002075, 
+    -1.671581, 
+    55.002075
   ],
-  "geometry": {"coordinates":[-1.671519,55.002093],"type":"Point"}
+  "geometry": {"coordinates":[-1.671581,55.002075],"type":"Point"}
 }

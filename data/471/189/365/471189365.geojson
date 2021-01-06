@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2007-04-01",
     "geom:area": 0,
-    "geom:bbox": "-1.142253,52.354297,-1.142253,52.354297",
-    "geom:latitude": 52.354297,
-    "geom:longitude": -1.142253,
+    "geom:bbox": "-1.140620,52.352191,-1.140620,52.352191",
+    "geom:latitude": 52.352191,
+    "geom:longitude": -1.14062,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698755, 
-      404429539, 
       101853043, 
       404227469, 
-      1360698577
+      1360698577, 
+      85633159, 
+      1360698755, 
+      404429539
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701386,
-    "wof:geomhash": "8861925ff6a14ef6d5ef80d129c2bccb",
+    "wof:geomhash": "c8c5da4e1fbbaa625c044bf9daa7ec0e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471189365,
-    "wof:lastmodified": 1583786535,
+    "wof:lastmodified": 1609879090,
     "wof:name": "NN6 7TZ",
     "wof:parent_id": 101853043,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.142253, 
-    52.354297, 
-    -1.142253, 
-    52.354297
+    -1.14062, 
+    52.352191, 
+    -1.14062, 
+    52.352191
   ],
-  "geometry": {"coordinates":[-1.142253,52.354297],"type":"Point"}
+  "geometry": {"coordinates":[-1.14062,52.352191],"type":"Point"}
 }

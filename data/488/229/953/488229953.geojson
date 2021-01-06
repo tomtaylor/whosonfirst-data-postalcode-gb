@@ -5,26 +5,26 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.604902,54.233085,-0.604902,54.233085",
-    "geom:latitude": 54.233085,
-    "geom:longitude": -0.604902,
+    "geom:bbox": "-0.599759,54.231353,-0.599759,54.231353",
+    "geom:latitude": 54.231353,
+    "geom:longitude": -0.599759,
     "gp:parent_id": "35053",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000023",
-    "os:district_code": "E07000167",
+    "os:district_code": "E07000168",
     "os:positional_quality_indicator": "1",
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      1125977695, 
+      404227469, 
       1360698619, 
       85633159, 
       1360698753, 
-      404454467, 
-      1360753639, 
-      404227469
+      404450593
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,19 +32,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701169,
-    "wof:geomhash": "e20428a5bae0935001788ae7277ce7ed",
+    "wof:geomhash": "5d87accb97dd9498857e77cd9a49a175",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360698753,
-        "localadmin_id": 404454467,
-        "locality_id": 1360753639,
+        "localadmin_id": 404450593,
+        "locality_id": 1125977695,
         "macroregion_id": 404227469,
         "region_id": 1360698619
       }
     ],
     "wof:id": 488229953,
-    "wof:lastmodified": 1583786421,
+    "wof:lastmodified": 1609881411,
     "wof:name": "YO13 9PN",
     "wof:parent_id": 404450593,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.604902, 
-    54.233085, 
-    -0.604902, 
-    54.233085
+    -0.599759, 
+    54.231353, 
+    -0.599759, 
+    54.231353
   ],
-  "geometry": {"coordinates":[-0.604902,54.233085],"type":"Point"}
+  "geometry": {"coordinates":[-0.599759,54.231353],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.111871,52.562173,-2.111871,52.562173",
-    "geom:latitude": 52.562173,
-    "geom:longitude": -2.111871,
+    "geom:bbox": "-2.111797,52.562200,-2.111797,52.562200",
+    "geom:latitude": 52.5622,
+    "geom:longitude": -2.111797,
     "gp:parent_id": "40859",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698605, 
+      85633159, 
       1360698737, 
       1126027181, 
-      404227469, 
-      1360698605, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701138,
-    "wof:geomhash": "ad5cb742d0a69801d79703c4391fd71c",
+    "wof:geomhash": "f8306b7262f2a719e1bb6ad6f257f146",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488217981,
-    "wof:lastmodified": 1583786392,
+    "wof:lastmodified": 1609880955,
     "wof:name": "WV4 6DU",
     "wof:parent_id": 101914031,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.111871, 
-    52.562173, 
-    -2.111871, 
-    52.562173
+    -2.111797, 
+    52.5622, 
+    -2.111797, 
+    52.5622
   ],
-  "geometry": {"coordinates":[-2.111871,52.562173],"type":"Point"}
+  "geometry": {"coordinates":[-2.111797,52.5622],"type":"Point"}
 }

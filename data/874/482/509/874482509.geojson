@@ -2,7 +2,7 @@
   "id": 874482509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-06-01",
     "edtf:inception": "2015-03-01",
     "geom:area": 0,
     "geom:bbox": "-0.422926,51.879977,-0.422926,51.879977",
@@ -10,7 +10,7 @@
     "geom:longitude": -0.422926,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000032",
@@ -18,11 +18,11 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698783, 
       101750401, 
       404227469, 
-      1360698527
+      1360698527, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 874482509,
-    "wof:lastmodified": 1583786337,
+    "wof:lastmodified": 1609871164,
     "wof:name": "LU1 9PS",
     "wof:parent_id": 101750401,
     "wof:placetype": "postalcode",

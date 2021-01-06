@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.683787,50.430802,-3.683787,50.430802",
+    "geom:bbox": "-3.683843,50.430802,-3.683843,50.430802",
     "geom:latitude": 50.430802,
-    "geom:longitude": -3.683787,
+    "geom:longitude": -3.683843,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698541, 
       85633159, 
       1360699081, 
       404447179, 
-      101852571, 
-      404227469, 
-      1360698541
+      101852571
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701244,
-    "wof:geomhash": "5b21f31d97e7285121e71bc105bbc1e0",
+    "wof:geomhash": "36cc0bf75c53fe89f4dfc5e2cb491821",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 487903821,
-    "wof:lastmodified": 1583786328,
+    "wof:lastmodified": 1609885644,
     "wof:name": "TQ9 5DX",
     "wof:parent_id": 101852571,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.683787, 
+    -3.683843, 
     50.430802, 
-    -3.683787, 
+    -3.683843, 
     50.430802
   ],
-  "geometry": {"coordinates":[-3.683787,50.430802],"type":"Point"}
+  "geometry": {"coordinates":[-3.683843,50.430802],"type":"Point"}
 }

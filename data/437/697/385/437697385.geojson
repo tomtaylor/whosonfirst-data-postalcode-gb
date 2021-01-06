@@ -2,8 +2,8 @@
   "id": 437697385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2019-06-01",
-    "edtf:inception": "2017-04-01",
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-09-01",
     "geom:area": 0,
     "geom:bbox": "-1.781545,53.648438,-1.781545,53.648438",
     "geom:latitude": 53.648438,
@@ -11,7 +11,7 @@
     "gp:parent_id": "24083",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E08000034",
@@ -19,11 +19,11 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698609, 
       85633159, 
       1360698917, 
-      101750573, 
-      404227469, 
-      1360698609
+      101750573
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 437697385,
-    "wof:lastmodified": 1583786630,
+    "wof:lastmodified": 1609885404,
     "wof:name": "HD1 9AP",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.791640,53.444270,-2.791640,53.444270",
-    "geom:latitude": 53.44427,
-    "geom:longitude": -2.79164,
+    "geom:bbox": "-2.791625,53.444306,-2.791625,53.444306",
+    "geom:latitude": 53.444306,
+    "geom:longitude": -2.791625,
     "gp:parent_id": "19291",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698573, 
-      85633159, 
-      1360698793, 
       404452663, 
       1360758397, 
-      404227469
+      404227469, 
+      1360698573, 
+      85633159, 
+      1360698793
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701762,
-    "wof:geomhash": "47c0aa8b8edea2ee0299c86bd70034a3",
+    "wof:geomhash": "1993d2aba8b04dea3b4f31b4467ccc5a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454961047,
-    "wof:lastmodified": 1583786897,
+    "wof:lastmodified": 1609905318,
     "wof:name": "L34 6JR",
     "wof:parent_id": 404452663,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.79164, 
-    53.44427, 
-    -2.79164, 
-    53.44427
+    -2.791625, 
+    53.444306, 
+    -2.791625, 
+    53.444306
   ],
-  "geometry": {"coordinates":[-2.79164,53.44427],"type":"Point"}
+  "geometry": {"coordinates":[-2.791625,53.444306],"type":"Point"}
 }

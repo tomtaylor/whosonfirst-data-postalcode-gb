@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.834613,51.746162,-0.834613,51.746162",
-    "geom:latitude": 51.746162,
-    "geom:longitude": -0.834613,
+    "geom:bbox": "-0.834398,51.746319,-0.834398,51.746319",
+    "geom:latitude": 51.746319,
+    "geom:longitude": -0.834398,
     "gp:parent_id": "28586",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360753283, 
-      404227469, 
-      1360698533, 
       85633159, 
       1360698997, 
-      404432801
+      404432801, 
+      1360753283, 
+      404227469, 
+      1360698533
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701715,
-    "wof:geomhash": "429944dd02a81beafccaec9f9aeb6f6a",
+    "wof:geomhash": "fc94fdb028516402be84818dc873eced",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454775335,
-    "wof:lastmodified": 1595717105,
+    "wof:lastmodified": 1609901631,
     "wof:name": "HP17 9UD",
     "wof:parent_id": 404432801,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.834613, 
-    51.746162, 
-    -0.834613, 
-    51.746162
+    -0.834398, 
+    51.746319, 
+    -0.834398, 
+    51.746319
   ],
-  "geometry": {"coordinates":[-0.834613,51.746162],"type":"Point"}
+  "geometry": {"coordinates":[-0.834398,51.746319],"type":"Point"}
 }

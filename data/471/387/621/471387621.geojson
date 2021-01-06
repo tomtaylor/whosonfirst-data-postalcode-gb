@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.711528,52.820419,0.711528,52.820419",
-    "geom:latitude": 52.820419,
-    "geom:longitude": 0.711528,
+    "geom:bbox": "0.711532,52.820480,0.711532,52.820480",
+    "geom:latitude": 52.82048,
+    "geom:longitude": 0.711532,
     "gp:parent_id": "19078",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698575, 
-      85633159, 
       1360698955, 
       404446673, 
-      1125972671
+      1125972671, 
+      404227469, 
+      1360698575, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701546,
-    "wof:geomhash": "2fbda87db1f44cb8d5e66b67373dcb63",
+    "wof:geomhash": "1f650d2b453b4c06cb232c567f0f7085",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471387621,
-    "wof:lastmodified": 1583786701,
+    "wof:lastmodified": 1609889990,
     "wof:name": "PE31 8RB",
     "wof:parent_id": 404446673,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.711528, 
-    52.820419, 
-    0.711528, 
-    52.820419
+    0.711532, 
+    52.82048, 
+    0.711532, 
+    52.82048
   ],
-  "geometry": {"coordinates":[0.711528,52.820419],"type":"Point"}
+  "geometry": {"coordinates":[0.711532,52.82048],"type":"Point"}
 }

@@ -19,12 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698929, 
-      404441471, 
-      1360757031, 
       404227469, 
       1360698537, 
-      85633159
+      85633159, 
+      404441471, 
+      1360757031
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -36,7 +35,6 @@
     "wof:hierarchy": [
       {
         "country_id": 85633159,
-        "county_id": 1360698929,
         "localadmin_id": 404441471,
         "locality_id": 1360757031,
         "macroregion_id": 404227469,
@@ -44,7 +42,7 @@
       }
     ],
     "wof:id": 488064449,
-    "wof:lastmodified": 1583786392,
+    "wof:lastmodified": 1609870775,
     "wof:name": "WA14 3RN",
     "wof:parent_id": 404441471,
     "wof:placetype": "postalcode",

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.886408,54.817883,-3.886408,54.817883",
-    "geom:latitude": 54.817883,
-    "geom:longitude": -3.886408,
+    "geom:bbox": "-3.887498,54.816230,-3.887498,54.816230",
+    "geom:latitude": 54.81623,
+    "geom:longitude": -3.887498,
     "gp:parent_id": "12696189",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699039, 
       404444245, 
       404227471, 
-      1360698647
+      1360698647, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701622,
-    "wof:geomhash": "51f64c593900336a627dbe551abeffd4",
+    "wof:geomhash": "cef2703f9fa50f2117e9b90485475706",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488616731,
-    "wof:lastmodified": 1595735322,
+    "wof:lastmodified": 1609898857,
     "wof:name": "DG7 1RD",
     "wof:parent_id": 404444245,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.886408, 
-    54.817883, 
-    -3.886408, 
-    54.817883
+    -3.887498, 
+    54.81623, 
+    -3.887498, 
+    54.81623
   ],
-  "geometry": {"coordinates":[-3.886408,54.817883],"type":"Point"}
+  "geometry": {"coordinates":[-3.887498,54.81623],"type":"Point"}
 }

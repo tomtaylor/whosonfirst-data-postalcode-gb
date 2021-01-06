@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.303374,50.707515,-3.303374,50.707515",
-    "geom:latitude": 50.707515,
-    "geom:longitude": -3.303374,
+    "geom:bbox": "-3.301423,50.707627,-3.301423,50.707627",
+    "geom:latitude": 50.707627,
+    "geom:longitude": -3.301423,
     "gp:parent_id": "35380",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698541, 
       85633159, 
       1360699081, 
       404432041, 
       1360756891, 
-      404227469
+      404227469, 
+      1360698541
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701639,
-    "wof:geomhash": "069cfff9e947408b3f3408732e7d3281",
+    "wof:geomhash": "dcf9c9a3b3a6e8853f07043238f28cb6",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454565847,
-    "wof:lastmodified": 1583786770,
+    "wof:lastmodified": 1609894728,
     "wof:name": "EX11 1SB",
     "wof:parent_id": 404432041,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.303374, 
-    50.707515, 
-    -3.303374, 
-    50.707515
+    -3.301423, 
+    50.707627, 
+    -3.301423, 
+    50.707627
   ],
-  "geometry": {"coordinates":[-3.303374,50.707515],"type":"Point"}
+  "geometry": {"coordinates":[-3.301423,50.707627],"type":"Point"}
 }

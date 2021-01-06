@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.256494,52.572367,-0.256494,52.572367",
-    "geom:latitude": 52.572367,
-    "geom:longitude": -0.256494,
+    "geom:bbox": "-0.256332,52.572355,-0.256332,52.572355",
+    "geom:latitude": 52.572355,
+    "geom:longitude": -0.256332,
     "gp:parent_id": "31931",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698535, 
       85633159, 
       1360698773, 
-      101750461
+      101750461, 
+      404227469, 
+      1360698535
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701543,
-    "wof:geomhash": "dadf31e6129bd0fdfaac3b65e4f13a5c",
+    "wof:geomhash": "71f4c32aa5aa98e64b2b4d42ebac1eb9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 471382081,
-    "wof:lastmodified": 1583786695,
+    "wof:lastmodified": 1609889648,
     "wof:name": "PE3 6AW",
     "wof:parent_id": 101750461,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.256494, 
-    52.572367, 
-    -0.256494, 
-    52.572367
+    -0.256332, 
+    52.572355, 
+    -0.256332, 
+    52.572355
   ],
-  "geometry": {"coordinates":[-0.256494,52.572367],"type":"Point"}
+  "geometry": {"coordinates":[-0.256332,52.572355],"type":"Point"}
 }

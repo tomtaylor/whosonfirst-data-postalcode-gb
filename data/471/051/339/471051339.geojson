@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.471653,55.084872,-1.471653,55.084872",
-    "geom:latitude": 55.084872,
-    "geom:longitude": -1.471653,
+    "geom:bbox": "-1.471747,55.084854,-1.471747,55.084854",
+    "geom:latitude": 55.084854,
+    "geom:longitude": -1.471747,
     "gp:parent_id": "34306",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698769, 
-      404431359, 
       1360755805, 
       404227469, 
-      1360698727
+      1360698727, 
+      85633159, 
+      1360698769, 
+      404431359
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701178,
-    "wof:geomhash": "930b24db2e32f73d228683f62c19c567",
+    "wof:geomhash": "6491b3aa77b51862deecb37653d6d404",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471051339,
-    "wof:lastmodified": 1583786312,
+    "wof:lastmodified": 1609870189,
     "wof:name": "NE26 4RT",
     "wof:parent_id": 404431359,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.471653, 
-    55.084872, 
-    -1.471653, 
-    55.084872
+    -1.471747, 
+    55.084854, 
+    -1.471747, 
+    55.084854
   ],
-  "geometry": {"coordinates":[-1.471653,55.084872],"type":"Point"}
+  "geometry": {"coordinates":[-1.471747,55.084854],"type":"Point"}
 }

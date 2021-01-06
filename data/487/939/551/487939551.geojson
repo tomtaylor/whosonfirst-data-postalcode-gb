@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.306016,54.496514,-1.306016,54.496514",
-    "geom:latitude": 54.496514,
-    "geom:longitude": -1.306016,
+    "geom:bbox": "-1.306352,54.495788,-1.306352,54.495788",
+    "geom:latitude": 54.495788,
+    "geom:longitude": -1.306352,
     "gp:parent_id": "23245",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699087, 
-      404446835, 
-      1360754375, 
       404227469, 
       1360698619, 
-      85633159
+      85633159, 
+      1360699087, 
+      404446835, 
+      1360754375
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701275,
-    "wof:geomhash": "bb0f6b375f5f41a425754d06149b1da9",
+    "wof:geomhash": "37eea551dabb210032cafd48f26ae464",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487939551,
-    "wof:lastmodified": 1583786347,
+    "wof:lastmodified": 1609887548,
     "wof:name": "TS15 9JP",
     "wof:parent_id": 404446835,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.306016, 
-    54.496514, 
-    -1.306016, 
-    54.496514
+    -1.306352, 
+    54.495788, 
+    -1.306352, 
+    54.495788
   ],
-  "geometry": {"coordinates":[-1.306016,54.496514],"type":"Point"}
+  "geometry": {"coordinates":[-1.306352,54.495788],"type":"Point"}
 }

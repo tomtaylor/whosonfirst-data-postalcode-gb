@@ -6,9 +6,9 @@
     "edtf:inception": "1997-06-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.234272,51.573826,-0.234272,51.573826",
-    "geom:latitude": 51.573826,
-    "geom:longitude": -0.234272,
+    "geom:bbox": "-0.234380,51.573279,-0.234380,51.573279",
+    "geom:latitude": 51.573279,
+    "geom:longitude": -0.23438,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      101750367, 
       404227469, 
-      85792217, 
+      85861833, 
       1360698645, 
-      1158857285
+      1158857285, 
+      85633159, 
+      101750367
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,19 +32,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701456,
-    "wof:geomhash": "af3343c3091d0dca5333ccdbaae91f8e",
+    "wof:geomhash": "bcb12ee3360ccdc514fb3715bda4f92c",
     "wof:hierarchy": [
       {
         "borough_id": 1158857285,
         "country_id": 85633159,
         "locality_id": 101750367,
         "macroregion_id": 404227469,
-        "neighbourhood_id": 85792217,
+        "neighbourhood_id": 85861833,
         "region_id": 1360698645
       }
     ],
     "wof:id": 471274547,
-    "wof:lastmodified": 1595721327,
+    "wof:lastmodified": 1609883896,
     "wof:name": "NW9 7AJ",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.234272, 
-    51.573826, 
-    -0.234272, 
-    51.573826
+    -0.23438, 
+    51.573279, 
+    -0.23438, 
+    51.573279
   ],
-  "geometry": {"coordinates":[-0.234272,51.573826],"type":"Point"}
+  "geometry": {"coordinates":[-0.23438,51.573279],"type":"Point"}
 }

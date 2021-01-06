@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-02-01",
     "geom:area": 0,
-    "geom:bbox": "0.145746,51.788813,0.145746,51.788813",
-    "geom:latitude": 51.788813,
-    "geom:longitude": 0.145746,
+    "geom:bbox": "0.146100,51.788321,0.146100,51.788321",
+    "geom:latitude": 51.788321,
+    "geom:longitude": 0.1461,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698551, 
       85633159, 
       1360698979, 
       101750413, 
-      404227469, 
-      1360698551
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735742,
-    "wof:geomhash": "66d7da4b18fd6952ea291cd5fb1c20a2",
+    "wof:geomhash": "355980ad9406af0b7e328f9d3d9333c0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1713333409,
-    "wof:lastmodified": 1595753539,
+    "wof:lastmodified": 1609875666,
     "wof:name": "CM17 0GU",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.145746, 
-    51.788813, 
-    0.145746, 
-    51.788813
+    0.1461, 
+    51.788321, 
+    0.1461, 
+    51.788321
   ],
-  "geometry": {"coordinates":[0.145746,51.788813],"type":"Point"}
+  "geometry": {"coordinates":[0.1461,51.788321],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.265980,55.961693,-3.265980,55.961693",
-    "geom:latitude": 55.961693,
-    "geom:longitude": -3.26598,
+    "geom:bbox": "-3.266120,55.961557,-3.266120,55.961557",
+    "geom:latitude": 55.961557,
+    "geom:longitude": -3.26612,
     "gp:parent_id": "12696195",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698761, 
-      404437279, 
       101750629, 
       404227471, 
       85786975, 
-      1360698673
+      1360698673, 
+      85633159, 
+      1360698761, 
+      404437279
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701068,
-    "wof:geomhash": "6e8e6d1fe7143944157ec87adb369259",
+    "wof:geomhash": "f3b21d26caf57d070d044f76e800dc0c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 504366943,
-    "wof:lastmodified": 1583786317,
+    "wof:lastmodified": 1609868676,
     "wof:name": "EH4 7AE",
     "wof:parent_id": 101750629,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.26598, 
-    55.961693, 
-    -3.26598, 
-    55.961693
+    -3.26612, 
+    55.961557, 
+    -3.26612, 
+    55.961557
   ],
-  "geometry": {"coordinates":[-3.26598,55.961693],"type":"Point"}
+  "geometry": {"coordinates":[-3.26612,55.961557],"type":"Point"}
 }

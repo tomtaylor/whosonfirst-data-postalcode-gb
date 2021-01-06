@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1997-12-01",
     "geom:area": 0,
-    "geom:bbox": "-2.391242,51.537750,-2.391242,51.537750",
-    "geom:latitude": 51.53775,
-    "geom:longitude": -2.391242,
+    "geom:bbox": "-2.391200,51.537867,-2.391200,51.537867",
+    "geom:latitude": 51.537867,
+    "geom:longitude": -2.3912,
     "gp:parent_id": "15960",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698553, 
       85633159, 
       1360698895, 
       404447113, 
-      1360754827
+      1360754827, 
+      404227469, 
+      1360698553
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701489,
-    "wof:geomhash": "bca9f3345658bc8163f571353901856f",
+    "wof:geomhash": "c13363d2677ebc47a7d47d32ec00746a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438300599,
-    "wof:lastmodified": 1595714395,
+    "wof:lastmodified": 1609884399,
     "wof:name": "BS37 6DA",
     "wof:parent_id": 101852755,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.391242, 
-    51.53775, 
-    -2.391242, 
-    51.53775
+    -2.3912, 
+    51.537867, 
+    -2.3912, 
+    51.537867
   ],
-  "geometry": {"coordinates":[-2.391242,51.53775],"type":"Point"}
+  "geometry": {"coordinates":[-2.3912,51.537867],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.365725,55.916847,-4.365725,55.916847",
-    "geom:latitude": 55.916847,
-    "geom:longitude": -4.365725,
+    "geom:bbox": "-4.365701,55.916452,-4.365701,55.916452",
+    "geom:latitude": 55.916452,
+    "geom:longitude": -4.365701,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698797, 
       404430153, 
       1175612707, 
       404227471, 
-      1360698707
+      1360698707, 
+      85633159, 
+      1360698797
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701400,
-    "wof:geomhash": "0c8859732e155fb2cdacbaebc074053c",
+    "wof:geomhash": "f017e3fdb4bc78c063c14d19869a4f2b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488389965,
-    "wof:lastmodified": 1583786605,
+    "wof:lastmodified": 1609889448,
     "wof:name": "G15 7XN",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.365725, 
-    55.916847, 
-    -4.365725, 
-    55.916847
+    -4.365701, 
+    55.916452, 
+    -4.365701, 
+    55.916452
   ],
-  "geometry": {"coordinates":[-4.365725,55.916847],"type":"Point"}
+  "geometry": {"coordinates":[-4.365701,55.916452],"type":"Point"}
 }

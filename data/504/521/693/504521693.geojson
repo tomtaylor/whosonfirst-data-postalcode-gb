@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.774239,55.496085,-3.774239,55.496085",
-    "geom:latitude": 55.496085,
-    "geom:longitude": -3.774239,
+    "geom:bbox": "-3.774643,55.496268,-3.774643,55.496268",
+    "geom:latitude": 55.496268,
+    "geom:longitude": -3.774643,
     "gp:parent_id": "17230",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698703, 
       85633159, 
       1360698969, 
       404453929, 
-      404227471
+      404227471, 
+      1360698703
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701399,
-    "wof:geomhash": "0df0182c13bb50e96f08bb4c37b781ee",
+    "wof:geomhash": "efaae3152bcfdc09b50b6ea2046c6c88",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504521693,
-    "wof:lastmodified": 1595729731,
+    "wof:lastmodified": 1609877512,
     "wof:name": "ML12 6SN",
     "wof:parent_id": 404453929,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.774239, 
-    55.496085, 
-    -3.774239, 
-    55.496085
+    -3.774643, 
+    55.496268, 
+    -3.774643, 
+    55.496268
   ],
-  "geometry": {"coordinates":[-3.774239,55.496085],"type":"Point"}
+  "geometry": {"coordinates":[-3.774643,55.496268],"type":"Point"}
 }

@@ -2,7 +2,7 @@
   "id": 504609955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-10-01",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:bbox": "-4.914191,51.677823,-4.914191,51.677823",
@@ -10,7 +10,7 @@
     "geom:longitude": -4.914191,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "W92000004",
     "os:county_code": "W99999999",
     "os:district_code": "W06000009",
@@ -18,12 +18,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      404227475, 
       1360698639, 
       85633159, 
       1360698843, 
       404449329, 
-      101853001, 
-      404227475
+      101853001
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 504609955,
-    "wof:lastmodified": 1583786632,
+    "wof:lastmodified": 1609882323,
     "wof:name": "SA71 4PH",
     "wof:parent_id": 101853001,
     "wof:placetype": "postalcode",

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.477057,53.561561,-2.477057,53.561561",
-    "geom:latitude": 53.561561,
-    "geom:longitude": -2.477057,
+    "geom:bbox": "-2.478975,53.561625,-2.478975,53.561625",
+    "geom:latitude": 53.561625,
+    "geom:longitude": -2.478975,
     "gp:parent_id": "13189",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698555, 
       85633159, 
       1360699099, 
-      101750551
+      101750551, 
+      404227469, 
+      1360698555
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701382,
-    "wof:geomhash": "5f08fdc56d6f1de7f4d5938cec500368",
+    "wof:geomhash": "6547c251c73bb50c27ce4e08214fa08d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 438186831,
-    "wof:lastmodified": 1583786517,
+    "wof:lastmodified": 1609878900,
     "wof:name": "BL3 4RD",
     "wof:parent_id": 404432511,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.477057, 
-    53.561561, 
-    -2.477057, 
-    53.561561
+    -2.478975, 
+    53.561625, 
+    -2.478975, 
+    53.561625
   ],
-  "geometry": {"coordinates":[-2.477057,53.561561],"type":"Point"}
+  "geometry": {"coordinates":[-2.478975,53.561625],"type":"Point"}
 }

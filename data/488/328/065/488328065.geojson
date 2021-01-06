@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2007-08-01",
     "geom:area": 0,
-    "geom:bbox": "-1.505867,54.953790,-1.505867,54.953790",
-    "geom:latitude": 54.95379,
-    "geom:longitude": -1.505867,
+    "geom:bbox": "-1.505427,54.953986,-1.505427,54.953986",
+    "geom:latitude": 54.953986,
+    "geom:longitude": -1.505427,
     "gp:parent_id": "22894",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698861, 
       101750613, 
       404227469, 
-      1360698601
+      1360698601, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701342,
-    "wof:geomhash": "96e931a74ccb72c433471fc09347cb63",
+    "wof:geomhash": "73a6b69ceef408355d4818b668b77e5d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488328065,
-    "wof:lastmodified": 1583786538,
+    "wof:lastmodified": 1609886777,
     "wof:name": "NE31 2EX",
     "wof:parent_id": 404435809,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.505867, 
-    54.95379, 
-    -1.505867, 
-    54.95379
+    -1.505427, 
+    54.953986, 
+    -1.505427, 
+    54.953986
   ],
-  "geometry": {"coordinates":[-1.505867,54.95379],"type":"Point"}
+  "geometry": {"coordinates":[-1.505427,54.953986],"type":"Point"}
 }

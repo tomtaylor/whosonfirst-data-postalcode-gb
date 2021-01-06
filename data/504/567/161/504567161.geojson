@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-5.773939,56.026148,-5.773939,56.026148",
-    "geom:latitude": 56.026148,
-    "geom:longitude": -5.773939,
+    "geom:bbox": "-5.775290,56.025352,-5.775290,56.025352",
+    "geom:latitude": 56.025352,
+    "geom:longitude": -5.77529,
     "gp:parent_id": "12696185",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      404227471, 
       1360698695, 
       85633159, 
       1360698863, 
-      404439789, 
-      404227471
+      404439789
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701436,
-    "wof:geomhash": "64614fdb3aceaaa775d8f7d827fba9cc",
+    "wof:geomhash": "b69cbc97d2830ce5af32ad065a1e3c11",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504567161,
-    "wof:lastmodified": 1583786574,
+    "wof:lastmodified": 1609879827,
     "wof:name": "PA60 7XL",
     "wof:parent_id": 404439789,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -5.773939, 
-    56.026148, 
-    -5.773939, 
-    56.026148
+    -5.77529, 
+    56.025352, 
+    -5.77529, 
+    56.025352
   ],
-  "geometry": {"coordinates":[-5.773939,56.026148],"type":"Point"}
+  "geometry": {"coordinates":[-5.77529,56.025352],"type":"Point"}
 }

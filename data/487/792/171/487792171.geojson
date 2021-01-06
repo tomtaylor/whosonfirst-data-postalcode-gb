@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2000-12-01",
     "geom:area": 0,
-    "geom:bbox": "-2.698408,52.372696,-2.698408,52.372696",
-    "geom:latitude": 52.372696,
-    "geom:longitude": -2.698408,
+    "geom:bbox": "-2.698800,52.372545,-2.698800,52.372545",
+    "geom:latitude": 52.372545,
+    "geom:longitude": -2.6988,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698821, 
       404440547, 
       101853137, 
       404227469, 
-      1360698587
+      1360698587, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701167,
-    "wof:geomhash": "2e37d4b779546af138ca31aae9a99f9a",
+    "wof:geomhash": "ea358456353788e257c31f86e694d694",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 487792171,
-    "wof:lastmodified": 1583786271,
+    "wof:lastmodified": 1609880088,
     "wof:name": "SY8 1XP",
     "wof:parent_id": 404440547,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.698408, 
-    52.372696, 
-    -2.698408, 
-    52.372696
+    -2.6988, 
+    52.372545, 
+    -2.6988, 
+    52.372545
   ],
-  "geometry": {"coordinates":[-2.698408,52.372696],"type":"Point"}
+  "geometry": {"coordinates":[-2.6988,52.372545],"type":"Point"}
 }

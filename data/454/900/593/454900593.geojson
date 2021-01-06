@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.014537,52.110330,1.014537,52.110330",
-    "geom:latitude": 52.11033,
-    "geom:longitude": 1.014537,
+    "geom:bbox": "1.014535,52.110312,1.014535,52.110312",
+    "geom:latitude": 52.110312,
+    "geom:longitude": 1.014535,
     "gp:parent_id": "30864",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1125872731, 
-      404227469, 
-      1360698595, 
       85633159, 
       1360699041, 
-      404444681
+      404444681, 
+      1125872731, 
+      404227469, 
+      1360698595
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701747,
-    "wof:geomhash": "9d94b1a8e123f4680fd564cd5194f75f",
+    "wof:geomhash": "da16c74cb19aa8cc47d1dff4a910960a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454900593,
-    "wof:lastmodified": 1583786880,
+    "wof:lastmodified": 1609904573,
     "wof:name": "IP8 4SD",
     "wof:parent_id": 404444681,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.014537, 
-    52.11033, 
-    1.014537, 
-    52.11033
+    1.014535, 
+    52.110312, 
+    1.014535, 
+    52.110312
   ],
-  "geometry": {"coordinates":[1.014537,52.11033],"type":"Point"}
+  "geometry": {"coordinates":[1.014535,52.110312],"type":"Point"}
 }

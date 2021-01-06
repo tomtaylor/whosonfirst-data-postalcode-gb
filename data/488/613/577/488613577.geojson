@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.776036,55.139944,-3.776036,55.139944",
-    "geom:latitude": 55.139944,
-    "geom:longitude": -3.776036,
+    "geom:bbox": "-3.775092,55.139185,-3.775092,55.139185",
+    "geom:latitude": 55.139185,
+    "geom:longitude": -3.775092,
     "gp:parent_id": "12696189",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699039, 
       404444245, 
       404227471, 
-      1360698719
+      1360698719, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701618,
-    "wof:geomhash": "c7c1e51f4b6afad47acd1d7e68f8e539",
+    "wof:geomhash": "fdf2ebc88003b9ae1f8d7d0519baab38",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488613577,
-    "wof:lastmodified": 1583786812,
+    "wof:lastmodified": 1609898836,
     "wof:name": "DG2 0SY",
     "wof:parent_id": 404444245,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.776036, 
-    55.139944, 
-    -3.776036, 
-    55.139944
+    -3.775092, 
+    55.139185, 
+    -3.775092, 
+    55.139185
   ],
-  "geometry": {"coordinates":[-3.776036,55.139944],"type":"Point"}
+  "geometry": {"coordinates":[-3.775092,55.139185],"type":"Point"}
 }

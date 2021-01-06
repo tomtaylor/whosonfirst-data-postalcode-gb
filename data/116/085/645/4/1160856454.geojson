@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-09-01",
     "geom:area": 0,
-    "geom:bbox": "0.838640,51.127901,0.838640,51.127901",
-    "geom:latitude": 51.127901,
-    "geom:longitude": 0.83864,
+    "geom:bbox": "0.838594,51.127858,0.838594,51.127858",
+    "geom:latitude": 51.127858,
+    "geom:longitude": 0.838594,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698565, 
       85633159, 
       1360698811, 
       404432309, 
-      1360757329
+      1360757329, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583793031,
-    "wof:geomhash": "6a77a20c524b754cacac84810b807b90",
+    "wof:geomhash": "03f10f8aefdbdec1f75dd1a0fb14a915",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160856454,
-    "wof:lastmodified": 1583793031,
+    "wof:lastmodified": 1609870907,
     "wof:name": "TN23 3TP",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.83864, 
-    51.127901, 
-    0.83864, 
-    51.127901
+    0.838594, 
+    51.127858, 
+    0.838594, 
+    51.127858
   ],
-  "geometry": {"coordinates":[0.83864,51.127901],"type":"Point"}
+  "geometry": {"coordinates":[0.838594,51.127858],"type":"Point"}
 }

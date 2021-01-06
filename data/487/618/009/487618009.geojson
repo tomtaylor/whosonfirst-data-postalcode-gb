@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1994-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.490373,50.916296,-1.490373,50.916296",
-    "geom:latitude": 50.916296,
-    "geom:longitude": -1.490373,
+    "geom:bbox": "-1.490448,50.916459,-1.490448,50.916459",
+    "geom:latitude": 50.916459,
+    "geom:longitude": -1.490448,
     "gp:parent_id": "37866",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      404445417, 
+      1360759363, 
       404227469, 
       1360698557, 
       85633159, 
-      1360698827, 
-      404445417, 
-      1360759363
+      1360698827
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701087,
-    "wof:geomhash": "01fc0e3e7ed5bdb673d3589af2bab26e",
+    "wof:geomhash": "c748509f592e121cdf9daeb118430ab4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487618009,
-    "wof:lastmodified": 1583786184,
+    "wof:lastmodified": 1609869344,
     "wof:name": "SO40 9DX",
     "wof:parent_id": 404445417,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.490373, 
-    50.916296, 
-    -1.490373, 
-    50.916296
+    -1.490448, 
+    50.916459, 
+    -1.490448, 
+    50.916459
   ],
-  "geometry": {"coordinates":[-1.490373,50.916296],"type":"Point"}
+  "geometry": {"coordinates":[-1.490448,50.916459],"type":"Point"}
 }

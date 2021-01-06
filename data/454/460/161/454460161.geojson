@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1991-09-01",
     "geom:area": 0,
-    "geom:bbox": "-2.443160,50.702973,-2.443160,50.702973",
-    "geom:latitude": 50.702973,
-    "geom:longitude": -2.44316,
+    "geom:bbox": "-2.444025,50.703311,-2.444025,50.703311",
+    "geom:latitude": 50.703311,
+    "geom:longitude": -2.444025,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      101852345, 
-      404227469, 
       1360698545, 
       85633159, 
       1360698745, 
-      404435465
+      404435465, 
+      101852345, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701576,
-    "wof:geomhash": "fffb36d759054c7d60981c5e5fc5712b",
+    "wof:geomhash": "98b7b0ce0de5d64e249fbd36d329b46c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454460161,
-    "wof:lastmodified": 1583786713,
+    "wof:lastmodified": 1609890271,
     "wof:name": "DT1 2RZ",
     "wof:parent_id": 101852345,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.44316, 
-    50.702973, 
-    -2.44316, 
-    50.702973
+    -2.444025, 
+    50.703311, 
+    -2.444025, 
+    50.703311
   ],
-  "geometry": {"coordinates":[-2.44316,50.702973],"type":"Point"}
+  "geometry": {"coordinates":[-2.444025,50.703311],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.177769,53.260307,0.177769,53.260307",
-    "geom:latitude": 53.260307,
-    "geom:longitude": 0.177769,
+    "geom:bbox": "0.177526,53.260545,0.177526,53.260545",
+    "geom:latitude": 53.260545,
+    "geom:longitude": 0.177526,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      404436235, 
       101874109, 
       404227469, 
       1360698571, 
       85633159, 
-      1360699067
+      1360699067, 
+      404436235
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701155,
-    "wof:geomhash": "2e1d27490a91354778af69dc6218ec14",
+    "wof:geomhash": "27a4084b398eb832b63be2a440035939",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 455056157,
-    "wof:lastmodified": 1595718503,
+    "wof:lastmodified": 1609870317,
     "wof:name": "LN13 9ES",
     "wof:parent_id": 101874109,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.177769, 
-    53.260307, 
-    0.177769, 
-    53.260307
+    0.177526, 
+    53.260545, 
+    0.177526, 
+    53.260545
   ],
-  "geometry": {"coordinates":[0.177769,53.260307],"type":"Point"}
+  "geometry": {"coordinates":[0.177526,53.260545],"type":"Point"}
 }

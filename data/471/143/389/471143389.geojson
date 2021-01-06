@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.400194,52.871948,-0.400194,52.871948",
-    "geom:latitude": 52.871948,
-    "geom:longitude": -0.400194,
+    "geom:bbox": "-0.403862,52.869183,-0.403862,52.869183",
+    "geom:latitude": 52.869183,
+    "geom:longitude": -0.403862,
     "gp:parent_id": "12602145",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      1360758485, 
+      404227469, 
       1360698571, 
       85633159, 
       1360699067, 
-      404452759, 
-      1360758485, 
-      404227469
+      404452759
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701335,
-    "wof:geomhash": "6c263ab8cf50e9d73b2c1676e6bfa85f",
+    "wof:geomhash": "67b5efb0bdcbaca7424d6decb9c232b1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471143389,
-    "wof:lastmodified": 1583786485,
+    "wof:lastmodified": 1609876615,
     "wof:name": "NG34 0HD",
     "wof:parent_id": 404452759,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.400194, 
-    52.871948, 
-    -0.400194, 
-    52.871948
+    -0.403862, 
+    52.869183, 
+    -0.403862, 
+    52.869183
   ],
-  "geometry": {"coordinates":[-0.400194,52.871948],"type":"Point"}
+  "geometry": {"coordinates":[-0.403862,52.869183],"type":"Point"}
 }

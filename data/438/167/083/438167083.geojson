@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.781456,50.848105,-1.781456,50.848105",
-    "geom:latitude": 50.848105,
-    "geom:longitude": -1.781456,
+    "geom:bbox": "-1.780356,50.847995,-1.780356,50.847995",
+    "geom:latitude": 50.847995,
+    "geom:longitude": -1.780356,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698827, 
-      404449977, 
       101852431, 
       404227469, 
       1360698557, 
-      85633159
+      85633159, 
+      1360698827, 
+      404449977
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701357,
-    "wof:geomhash": "0a39f90f3edacefd57307abd2bf549d2",
+    "wof:geomhash": "9d612375d4516d85caf61725f73cff7d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 438167083,
-    "wof:lastmodified": 1583786496,
+    "wof:lastmodified": 1609877697,
     "wof:name": "BH24 1RE",
     "wof:parent_id": 101852431,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.781456, 
-    50.848105, 
-    -1.781456, 
-    50.848105
+    -1.780356, 
+    50.847995, 
+    -1.780356, 
+    50.847995
   ],
-  "geometry": {"coordinates":[-1.781456,50.848105],"type":"Point"}
+  "geometry": {"coordinates":[-1.780356,50.847995],"type":"Point"}
 }

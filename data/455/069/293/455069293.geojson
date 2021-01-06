@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.099319,53.179255,-0.099319,53.179255",
-    "geom:latitude": 53.179255,
-    "geom:longitude": -0.099319,
+    "geom:bbox": "-0.099437,53.179264,-0.099437,53.179264",
+    "geom:latitude": 53.179264,
+    "geom:longitude": -0.099437,
     "gp:parent_id": "34249",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699067, 
       404440097, 
       1360320667, 
       404227469, 
-      1360698571
+      1360698571, 
+      85633159, 
+      1360699067
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701183,
-    "wof:geomhash": "8fe2f47ec9a7e9aa227f232a3a1ef66a",
+    "wof:geomhash": "b4cf7c02c3f3e4e514368c8ecb5dda6a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 455069293,
-    "wof:lastmodified": 1583786310,
+    "wof:lastmodified": 1609870957,
     "wof:name": "LN9 6JA",
     "wof:parent_id": 404440097,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.099319, 
-    53.179255, 
-    -0.099319, 
-    53.179255
+    -0.099437, 
+    53.179264, 
+    -0.099437, 
+    53.179264
   ],
-  "geometry": {"coordinates":[-0.099319,53.179255],"type":"Point"}
+  "geometry": {"coordinates":[-0.099437,53.179264],"type":"Point"}
 }

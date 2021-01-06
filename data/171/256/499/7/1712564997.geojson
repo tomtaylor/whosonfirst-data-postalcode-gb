@@ -2,7 +2,7 @@
   "id": 1712564997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-05-01",
     "edtf:inception": "2019-04-01",
     "geom:area": 0,
     "geom:bbox": "-0.860522,51.118692,-0.860522,51.118692",
@@ -10,7 +10,7 @@
     "geom:longitude": -0.860522,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000014",
     "os:district_code": "E07000085",
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      404444733, 
       1126043187, 
       404227469, 
       1360698557, 
       85633159, 
-      1360698827, 
-      404444733
+      1360698827
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712564997,
-    "wof:lastmodified": 1583793686,
+    "wof:lastmodified": 1609870601,
     "wof:name": "GU35 5EB",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

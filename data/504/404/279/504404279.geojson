@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1996-12-01",
     "geom:area": 0,
-    "geom:bbox": "-4.321713,55.856328,-4.321713,55.856328",
-    "geom:latitude": 55.856328,
-    "geom:longitude": -4.321713,
+    "geom:bbox": "-4.321568,55.856303,-4.321568,55.856303",
+    "geom:latitude": 55.856303,
+    "geom:longitude": -4.321568,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85861561, 
-      1360698707, 
-      85633159, 
       1360698797, 
       404430153, 
       1175612707, 
-      404227471
+      404227471, 
+      85861561, 
+      1360698707, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701165,
-    "wof:geomhash": "d0ed20716be7dd1dd04ad03155c1f7ee",
+    "wof:geomhash": "99a7b195f76f70e3ca6dd0b09f852222",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 504404279,
-    "wof:lastmodified": 1595727594,
+    "wof:lastmodified": 1609869690,
     "wof:name": "G51 3RG",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.321713, 
-    55.856328, 
-    -4.321713, 
-    55.856328
+    -4.321568, 
+    55.856303, 
+    -4.321568, 
+    55.856303
   ],
-  "geometry": {"coordinates":[-4.321713,55.856328],"type":"Point"}
+  "geometry": {"coordinates":[-4.321568,55.856303],"type":"Point"}
 }

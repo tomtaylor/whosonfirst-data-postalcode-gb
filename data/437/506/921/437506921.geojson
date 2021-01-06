@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "uuuu",
-    "edtf:inception": "2019-05-01",
+    "edtf:inception": "2020-08-01",
     "geom:area": 0,
     "geom:bbox": "0.500628,51.742499,0.500628,51.742499",
     "geom:latitude": 51.742499,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698979, 
       404454947, 
       1226177803, 
       404227469, 
-      1360698551
+      1360698551, 
+      85633159, 
+      1360698979
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 437506921,
-    "wof:lastmodified": 1583786443,
+    "wof:lastmodified": 1609875695,
     "wof:name": "CM1 9AJ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

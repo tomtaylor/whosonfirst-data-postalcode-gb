@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.222469,53.586376,-2.222469,53.586376",
-    "geom:latitude": 53.586376,
-    "geom:longitude": -2.222469,
+    "geom:bbox": "-2.224750,53.586471,-2.224750,53.586471",
+    "geom:latitude": 53.586471,
+    "geom:longitude": -2.22475,
     "gp:parent_id": "23161",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698555, 
       85633159, 
       1360699063, 
       101750565, 
-      404227469
+      404227469, 
+      1360698555
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701459,
-    "wof:geomhash": "701fe794b4a13cb813bf9e6abd42e5ec",
+    "wof:geomhash": "35ce19cc84e4c5e902f1678373ccef1a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 471277833,
-    "wof:lastmodified": 1583786613,
+    "wof:lastmodified": 1609884145,
     "wof:name": "OL10 2AA",
     "wof:parent_id": 101872211,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.222469, 
-    53.586376, 
-    -2.222469, 
-    53.586376
+    -2.22475, 
+    53.586471, 
+    -2.22475, 
+    53.586471
   ],
-  "geometry": {"coordinates":[-2.222469,53.586376],"type":"Point"}
+  "geometry": {"coordinates":[-2.22475,53.586471],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1983-07-01",
     "geom:area": 0,
-    "geom:bbox": "-0.882418,51.943905,-0.882418,51.943905",
-    "geom:latitude": 51.943905,
-    "geom:longitude": -0.882418,
+    "geom:bbox": "-0.882500,51.944113,-0.882500,51.944113",
+    "geom:latitude": 51.944113,
+    "geom:longitude": -0.8825,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698997, 
       404434537, 
       101852799, 
       404227469, 
       1360698533, 
-      85633159
+      85633159, 
+      1360698997
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701347,
-    "wof:geomhash": "56742dd93a530c4983d10567ace4da26",
+    "wof:geomhash": "291c5e2cfae1fc8045dd1c40d7405f52",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 470969605,
-    "wof:lastmodified": 1595719177,
+    "wof:lastmodified": 1609877590,
     "wof:name": "MK18 3DS",
     "wof:parent_id": 101852799,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.882418, 
-    51.943905, 
-    -0.882418, 
-    51.943905
+    -0.8825, 
+    51.944113, 
+    -0.8825, 
+    51.944113
   ],
-  "geometry": {"coordinates":[-0.882418,51.943905],"type":"Point"}
+  "geometry": {"coordinates":[-0.8825,51.944113],"type":"Point"}
 }

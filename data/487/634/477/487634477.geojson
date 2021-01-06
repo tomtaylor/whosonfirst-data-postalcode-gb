@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.391277,51.246156,-1.391277,51.246156",
-    "geom:latitude": 51.246156,
-    "geom:longitude": -1.391277,
+    "geom:bbox": "-1.391291,51.246183,-1.391291,51.246183",
+    "geom:latitude": 51.246183,
+    "geom:longitude": -1.391291,
     "gp:parent_id": "35717",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1343496575, 
-      404227469, 
       1360698557, 
       85633159, 
       1360698827, 
-      404445579
+      404445579, 
+      1343496575, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701097,
-    "wof:geomhash": "fda16177b696b373ea0d29af668cd104",
+    "wof:geomhash": "90e5e5472e8819bde6c59862c1cad004",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487634477,
-    "wof:lastmodified": 1583786191,
+    "wof:lastmodified": 1609869971,
     "wof:name": "SP11 6BU",
     "wof:parent_id": 404445579,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.391277, 
-    51.246156, 
-    -1.391277, 
-    51.246156
+    -1.391291, 
+    51.246183, 
+    -1.391291, 
+    51.246183
   ],
-  "geometry": {"coordinates":[-1.391277,51.246156],"type":"Point"}
+  "geometry": {"coordinates":[-1.391291,51.246183],"type":"Point"}
 }

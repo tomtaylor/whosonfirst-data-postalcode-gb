@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-08-01",
     "geom:area": 0,
-    "geom:bbox": "-0.758638,53.408038,-0.758638,53.408038",
-    "geom:latitude": 53.408038,
-    "geom:longitude": -0.758638,
+    "geom:bbox": "-0.758518,53.408028,-0.758518,53.408028",
+    "geom:latitude": 53.408028,
+    "geom:longitude": -0.758518,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      404443021, 
-      101871997, 
       404227469, 
       1360698571, 
       85633159, 
-      1360699067
+      1360699067, 
+      404443021, 
+      101871997
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583790726,
-    "wof:geomhash": "23245930c74ca009aa73637d6fb6c46a",
+    "wof:geomhash": "301d742ac714b75db504d678ce1f2464",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712497657,
-    "wof:lastmodified": 1595710905,
+    "wof:lastmodified": 1609869642,
     "wof:name": "DN21 1ZP",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.758638, 
-    53.408038, 
-    -0.758638, 
-    53.408038
+    -0.758518, 
+    53.408028, 
+    -0.758518, 
+    53.408028
   ],
-  "geometry": {"coordinates":[-0.758638,53.408038],"type":"Point"}
+  "geometry": {"coordinates":[-0.758518,53.408028],"type":"Point"}
 }

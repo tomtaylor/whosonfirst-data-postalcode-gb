@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.879787,52.227224,-1.879787,52.227224",
-    "geom:latitude": 52.227224,
-    "geom:longitude": -1.879787,
+    "geom:bbox": "-1.879853,52.227049,-1.879853,52.227049",
+    "geom:latitude": 52.227049,
+    "geom:longitude": -1.879853,
     "gp:parent_id": "25113",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
       1360698603, 
       85633159, 
       1360698891, 
       404437683, 
-      1125954851, 
-      404227469
+      1125954851
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701672,
-    "wof:geomhash": "757b795fd946c1dd11aeeee923c34741",
+    "wof:geomhash": "490c2fc1af35779aba7a059376b771df",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 437999845,
-    "wof:lastmodified": 1583786841,
+    "wof:lastmodified": 1609899420,
     "wof:name": "B49 5QD",
     "wof:parent_id": 404437683,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.879787, 
-    52.227224, 
-    -1.879787, 
-    52.227224
+    -1.879853, 
+    52.227049, 
+    -1.879853, 
+    52.227049
   ],
-  "geometry": {"coordinates":[-1.879787,52.227224],"type":"Point"}
+  "geometry": {"coordinates":[-1.879853,52.227049],"type":"Point"}
 }

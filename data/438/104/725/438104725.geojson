@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.240625,53.824362,-2.240625,53.824362",
-    "geom:latitude": 53.824362,
-    "geom:longitude": -2.240625,
+    "geom:bbox": "-2.240839,53.824452,-2.240839,53.824452",
+    "geom:latitude": 53.824452,
+    "geom:longitude": -2.240839,
     "gp:parent_id": "13888",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698817, 
       404449945, 
       1125869683, 
       404227469, 
-      1360698567, 
-      85633159, 
-      1360698817
+      1360698567
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701285,
-    "wof:geomhash": "a1213bcfd58de97d09d1f2027716cdb2",
+    "wof:geomhash": "f2408c2ec41dcd404a8a8478853494d6",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438104725,
-    "wof:lastmodified": 1595712920,
+    "wof:lastmodified": 1609873085,
     "wof:name": "BB9 5PX",
     "wof:parent_id": 404449945,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.240625, 
-    53.824362, 
-    -2.240625, 
-    53.824362
+    -2.240839, 
+    53.824452, 
+    -2.240839, 
+    53.824452
   ],
-  "geometry": {"coordinates":[-2.240625,53.824362],"type":"Point"}
+  "geometry": {"coordinates":[-2.240839,53.824452],"type":"Point"}
 }

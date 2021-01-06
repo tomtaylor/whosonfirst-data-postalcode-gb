@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.877582,53.693824,-1.877582,53.693824",
-    "geom:latitude": 53.693824,
-    "geom:longitude": -1.877582,
+    "geom:bbox": "-1.878120,53.691511,-1.878120,53.691511",
+    "geom:latitude": 53.691511,
+    "geom:longitude": -1.87812,
     "gp:parent_id": "21847",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      1360817303, 
+      101872229, 
       404227469, 
       1360698609, 
       85633159, 
-      1360698833, 
-      1360817303, 
-      101872229
+      1360698833
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701730,
-    "wof:geomhash": "ca3ac412c9a9bebfa6b5be779f95dfd5",
+    "wof:geomhash": "d5e250cf169f23d661a3e70678d5fcd0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454839529,
-    "wof:lastmodified": 1583786866,
+    "wof:lastmodified": 1609903397,
     "wof:name": "HX4 8PZ",
     "wof:parent_id": 404450663,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.877582, 
-    53.693824, 
-    -1.877582, 
-    53.693824
+    -1.87812, 
+    53.691511, 
+    -1.87812, 
+    53.691511
   ],
-  "geometry": {"coordinates":[-1.877582,53.693824],"type":"Point"}
+  "geometry": {"coordinates":[-1.87812,53.691511],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2017-07-01",
     "geom:area": 0,
-    "geom:bbox": "-2.285432,53.602439,-2.285432,53.602439",
-    "geom:latitude": 53.602439,
-    "geom:longitude": -2.285432,
+    "geom:bbox": "-2.285403,53.602601,-2.285403,53.602601",
+    "geom:latitude": 53.602601,
+    "geom:longitude": -2.285403,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698847, 
-      101750567, 
       404227469, 
       1360698555, 
-      85633159
+      85633159, 
+      1360698847, 
+      101750567
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583793464,
-    "wof:geomhash": "7a182305ea7728191b1a3d3a2fcb9541",
+    "wof:geomhash": "9d85c4a311b251a66cd6f7d990768842",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1160865516,
-    "wof:lastmodified": 1583793464,
+    "wof:lastmodified": 1609870904,
     "wof:name": "BL9 6GE",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.285432, 
-    53.602439, 
-    -2.285432, 
-    53.602439
+    -2.285403, 
+    53.602601, 
+    -2.285403, 
+    53.602601
   ],
-  "geometry": {"coordinates":[-2.285432,53.602439],"type":"Point"}
+  "geometry": {"coordinates":[-2.285403,53.602601],"type":"Point"}
 }

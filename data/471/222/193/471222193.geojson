@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.390195,52.837028,1.390195,52.837028",
-    "geom:latitude": 52.837028,
-    "geom:longitude": 1.390195,
+    "geom:bbox": "1.390143,52.837067,1.390143,52.837067",
+    "geom:latitude": 52.837067,
+    "geom:longitude": 1.390143,
     "gp:parent_id": "36725",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698955, 
-      404449149, 
       1327065379, 
       404227469, 
-      1360698575
+      1360698575, 
+      85633159, 
+      1360698955, 
+      404449149
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701409,
-    "wof:geomhash": "2e18eef71c1d7ee31ffe747fef594382",
+    "wof:geomhash": "f895ac0befbefd5574f489a9562d3106",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471222193,
-    "wof:lastmodified": 1583786562,
+    "wof:lastmodified": 1609880936,
     "wof:name": "NR28 0RG",
     "wof:parent_id": 404449149,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.390195, 
-    52.837028, 
-    1.390195, 
-    52.837028
+    1.390143, 
+    52.837067, 
+    1.390143, 
+    52.837067
   ],
-  "geometry": {"coordinates":[1.390195,52.837028],"type":"Point"}
+  "geometry": {"coordinates":[1.390143,52.837067],"type":"Point"}
 }

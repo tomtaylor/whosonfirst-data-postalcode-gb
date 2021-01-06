@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-11-01",
     "geom:area": 0,
-    "geom:bbox": "-1.414467,51.615703,-1.414467,51.615703",
-    "geom:latitude": 51.615703,
-    "geom:longitude": -1.414467,
+    "geom:bbox": "-1.414799,51.615668,-1.414799,51.615668",
+    "geom:latitude": 51.615668,
+    "geom:longitude": -1.414799,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698839, 
       404455037, 
       1125920903, 
       404227469, 
-      1360698585
+      1360698585, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583799176,
-    "wof:geomhash": "858e3eb4f08f74062a36564f634781b6",
+    "wof:geomhash": "4a0dc3a4842fcc4025e2ed3b129b1b2d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 39233610,
-    "wof:lastmodified": 1583799176,
+    "wof:lastmodified": 1609868466,
     "wof:name": "OX12 7FR",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.414467, 
-    51.615703, 
-    -1.414467, 
-    51.615703
+    -1.414799, 
+    51.615668, 
+    -1.414799, 
+    51.615668
   ],
-  "geometry": {"coordinates":[-1.414467,51.615703],"type":"Point"}
+  "geometry": {"coordinates":[-1.414799,51.615668],"type":"Point"}
 }

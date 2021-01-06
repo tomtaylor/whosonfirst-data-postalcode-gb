@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "1984-12-01",
+    "edtf:deprecated": "2021-01-05",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:bbox": "-2.933840,51.588033,-2.933840,51.588033",
@@ -18,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      404227475, 
+      1360698641, 
       85633159, 
       1360698735, 
       404435301, 
-      1126022561, 
-      404227475, 
-      1360698641
+      1126022561
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +41,7 @@
       }
     ],
     "wof:id": 1161067684,
-    "wof:lastmodified": 1583802496,
+    "wof:lastmodified": 1609876033,
     "wof:name": "NPT 9LR",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

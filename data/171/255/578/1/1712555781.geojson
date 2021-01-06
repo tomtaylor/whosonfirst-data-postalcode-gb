@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.061906,50.904037,-1.061906,50.904037",
-    "geom:latitude": 50.904037,
-    "geom:longitude": -1.061906,
+    "geom:bbox": "-1.061713,50.904440,-1.061713,50.904440",
+    "geom:latitude": 50.90444,
+    "geom:longitude": -1.061713,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698827, 
       404442327, 
       1125963703, 
       404227469, 
-      1360698557, 
-      85633159, 
-      1360698827
+      1360698557
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583793271,
-    "wof:geomhash": "471d738f8f4c99cf057024ef6ed56a56",
+    "wof:geomhash": "3762680ea8999656f7db6472b70c0169",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712555781,
-    "wof:lastmodified": 1595711087,
+    "wof:lastmodified": 1609870425,
     "wof:name": "PO7 6GH",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.061906, 
-    50.904037, 
-    -1.061906, 
-    50.904037
+    -1.061713, 
+    50.90444, 
+    -1.061713, 
+    50.90444
   ],
-  "geometry": {"coordinates":[-1.061906,50.904037],"type":"Point"}
+  "geometry": {"coordinates":[-1.061713,50.90444],"type":"Point"}
 }

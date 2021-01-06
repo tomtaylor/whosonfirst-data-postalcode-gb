@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.166931,53.296104,-2.166931,53.296104",
-    "geom:latitude": 53.296104,
-    "geom:longitude": -2.166931,
+    "geom:bbox": "-2.166766,53.296543,-2.166766,53.296543",
+    "geom:latitude": 53.296543,
+    "geom:longitude": -2.166766,
     "gp:parent_id": "29446",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      404443695, 
-      1125993977, 
-      404227469, 
       1360698537, 
       85633159, 
-      1360698929
+      1360698929, 
+      404443695, 
+      1125993977, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701735,
-    "wof:geomhash": "59167e93010c2311e71f8507a045282d",
+    "wof:geomhash": "e57e0de300a7214592d2932db0bb0733",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471765799,
-    "wof:lastmodified": 1583786908,
+    "wof:lastmodified": 1609902331,
     "wof:name": "SK10 4AY",
     "wof:parent_id": 404443695,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.166931, 
-    53.296104, 
-    -2.166931, 
-    53.296104
+    -2.166766, 
+    53.296543, 
+    -2.166766, 
+    53.296543
   ],
-  "geometry": {"coordinates":[-2.166931,53.296104],"type":"Point"}
+  "geometry": {"coordinates":[-2.166766,53.296543],"type":"Point"}
 }

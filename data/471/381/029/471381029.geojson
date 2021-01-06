@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2000-06-01",
     "geom:area": 0,
-    "geom:bbox": "-0.185718,52.330690,-0.185718,52.330690",
-    "geom:latitude": 52.33069,
-    "geom:longitude": -0.185718,
+    "geom:bbox": "-0.185401,52.330754,-0.185401,52.330754",
+    "geom:latitude": 52.330754,
+    "geom:longitude": -0.185401,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698535, 
-      85633159, 
       1360698845, 
       404434281, 
       101875497, 
-      404227469
+      404227469, 
+      1360698535, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701543,
-    "wof:geomhash": "6b55126b0d2f798566a44b7c3927f0bd",
+    "wof:geomhash": "ad41cf8e578870201ff217663720907c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471381029,
-    "wof:lastmodified": 1583786696,
+    "wof:lastmodified": 1609889532,
     "wof:name": "PE29 3AD",
     "wof:parent_id": 101875497,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.185718, 
-    52.33069, 
-    -0.185718, 
-    52.33069
+    -0.185401, 
+    52.330754, 
+    -0.185401, 
+    52.330754
   ],
-  "geometry": {"coordinates":[-0.185718,52.33069],"type":"Point"}
+  "geometry": {"coordinates":[-0.185401,52.330754],"type":"Point"}
 }

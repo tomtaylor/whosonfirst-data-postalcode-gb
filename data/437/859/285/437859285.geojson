@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-02-01",
     "geom:area": 0,
-    "geom:bbox": "-1.451189,51.589930,-1.451189,51.589930",
-    "geom:latitude": 51.58993,
-    "geom:longitude": -1.451189,
+    "geom:bbox": "-1.450959,51.589875,-1.450959,51.589875",
+    "geom:latitude": 51.589875,
+    "geom:longitude": -1.450959,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -21,8 +21,8 @@
       1360698585, 
       85633159, 
       1360698839, 
-      404452783, 
-      101852917, 
+      404448743, 
+      1126016157, 
       404227469
     ],
     "wof:breaches": [],
@@ -31,19 +31,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701596,
-    "wof:geomhash": "87c30f417dff175ae73207010af08e6c",
+    "wof:geomhash": "fa755fb7a6e37db98577d5d37cec2cdc",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360698839,
-        "localadmin_id": 404452783,
-        "locality_id": 101852917,
+        "localadmin_id": 404448743,
+        "locality_id": 1126016157,
         "macroregion_id": 404227469,
         "region_id": 1360698585
       }
     ],
     "wof:id": 437859285,
-    "wof:lastmodified": 1595715330,
+    "wof:lastmodified": 1609893005,
     "wof:name": "OX12 9BF",
     "wof:parent_id": "101875463",
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.451189, 
-    51.58993, 
-    -1.451189, 
-    51.58993
+    -1.450959, 
+    51.589875, 
+    -1.450959, 
+    51.589875
   ],
-  "geometry": {"coordinates":[-1.451189,51.58993],"type":"Point"}
+  "geometry": {"coordinates":[-1.450959,51.589875],"type":"Point"}
 }

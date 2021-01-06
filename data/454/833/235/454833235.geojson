@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.877590,53.722790,-1.877590,53.722790",
-    "geom:latitude": 53.72279,
-    "geom:longitude": -1.87759,
+    "geom:bbox": "-1.879440,53.722630,-1.879440,53.722630",
+    "geom:latitude": 53.72263,
+    "geom:longitude": -1.87944,
     "gp:parent_id": "22179",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360817303, 
-      101750577, 
       404227469, 
       1360698609, 
       85633159, 
-      1360698833
+      1360698833, 
+      1360817303, 
+      101750577
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701730,
-    "wof:geomhash": "b3835ee5a04a692788f82e291caa9c3e",
+    "wof:geomhash": "91ab97c2e9e6060241e9bcf0a1fc298b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454833235,
-    "wof:lastmodified": 1583786864,
+    "wof:lastmodified": 1609903216,
     "wof:name": "HX1 5JE",
     "wof:parent_id": 101750577,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.87759, 
-    53.72279, 
-    -1.87759, 
-    53.72279
+    -1.87944, 
+    53.72263, 
+    -1.87944, 
+    53.72263
   ],
-  "geometry": {"coordinates":[-1.87759,53.72279],"type":"Point"}
+  "geometry": {"coordinates":[-1.87944,53.72263],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2007-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.812622,51.806705,-0.812622,51.806705",
-    "geom:latitude": 51.806705,
-    "geom:longitude": -0.812622,
+    "geom:bbox": "-0.812577,51.806767,-0.812577,51.806767",
+    "geom:latitude": 51.806767,
+    "geom:longitude": -0.812577,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698997, 
-      404442821, 
       101750423, 
       404227469, 
       1360698533, 
-      85633159
+      85633159, 
+      1360698997, 
+      404442821
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701323,
-    "wof:geomhash": "e5ee47bc875798346dbe2aecc31c5ca5",
+    "wof:geomhash": "aaf87f00a924506f63a9fe51cd299c4f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 488305581,
-    "wof:lastmodified": 1595732126,
+    "wof:lastmodified": 1609885410,
     "wof:name": "HP21 8GT",
     "wof:parent_id": 101750423,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.812622, 
-    51.806705, 
-    -0.812622, 
-    51.806705
+    -0.812577, 
+    51.806767, 
+    -0.812577, 
+    51.806767
   ],
-  "geometry": {"coordinates":[-0.812622,51.806705],"type":"Point"}
+  "geometry": {"coordinates":[-0.812577,51.806767],"type":"Point"}
 }

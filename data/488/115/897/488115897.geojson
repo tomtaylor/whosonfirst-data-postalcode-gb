@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.316422,51.682783,-0.316422,51.682783",
-    "geom:latitude": 51.682783,
-    "geom:longitude": -0.316422,
+    "geom:bbox": "-0.316424,51.682842,-0.316424,51.682842",
+    "geom:latitude": 51.682842,
+    "geom:longitude": -0.316424,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      1125977863, 
+      404227469, 
       1360698559, 
       85633159, 
       1360698763, 
-      404448125, 
-      1125977863, 
-      404227469
+      404448125
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701254,
-    "wof:geomhash": "b08715f4603e3011f4db8c001709a859",
+    "wof:geomhash": "888c20a51f86b6afa41b40a86105602f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 488115897,
-    "wof:lastmodified": 1583786412,
+    "wof:lastmodified": 1609874111,
     "wof:name": "WD7 7LB",
     "wof:parent_id": 101854793,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.316422, 
-    51.682783, 
-    -0.316422, 
-    51.682783
+    -0.316424, 
+    51.682842, 
+    -0.316424, 
+    51.682842
   ],
-  "geometry": {"coordinates":[-0.316422,51.682783],"type":"Point"}
+  "geometry": {"coordinates":[-0.316424,51.682842],"type":"Point"}
 }

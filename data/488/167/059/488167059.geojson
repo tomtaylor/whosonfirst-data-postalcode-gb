@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2001-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.922354,52.116671,-1.922354,52.116671",
-    "geom:latitude": 52.116671,
-    "geom:longitude": -1.922354,
+    "geom:bbox": "-1.922033,52.116617,-1.922033,52.116617",
+    "geom:latitude": 52.116617,
+    "geom:longitude": -1.922033,
     "gp:parent_id": "30859",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      1360699043, 
+      404445203, 
       1125844163, 
       404227469, 
       1360698613, 
-      85633159, 
-      1360699043, 
-      404445203
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701287,
-    "wof:geomhash": "f89031fd6b4caf35ad573699897ab1fe",
+    "wof:geomhash": "2a0cdc62be6672e9464e56af3358ca6d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488167059,
-    "wof:lastmodified": 1595729901,
+    "wof:lastmodified": 1609878051,
     "wof:name": "WR11 8RR",
     "wof:parent_id": 404445203,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.922354, 
-    52.116671, 
-    -1.922354, 
-    52.116671
+    -1.922033, 
+    52.116617, 
+    -1.922033, 
+    52.116617
   ],
-  "geometry": {"coordinates":[-1.922354,52.116671],"type":"Point"}
+  "geometry": {"coordinates":[-1.922033,52.116617],"type":"Point"}
 }

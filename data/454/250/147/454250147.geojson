@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.461655,52.504189,-1.461655,52.504189",
-    "geom:latitude": 52.504189,
-    "geom:longitude": -1.461655,
+    "geom:bbox": "-1.461646,52.504207,-1.461646,52.504207",
+    "geom:latitude": 52.504207,
+    "geom:longitude": -1.461646,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,13 +18,13 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698891, 
       1360817293, 
       101750471, 
       404227469, 
       85785407, 
-      1360698603
+      1360698603, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701415,
-    "wof:geomhash": "3493933ba7ff24851b1e5bcba55906c0",
+    "wof:geomhash": "c88dfa0276d0b90d34c3f1ec68b11cbb",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 454250147,
-    "wof:lastmodified": 1583786545,
+    "wof:lastmodified": 1609880087,
     "wof:name": "CV11 4QT",
     "wof:parent_id": 101750471,
     "wof:placetype": "postalcode",
@@ -55,10 +55,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.461655, 
-    52.504189, 
-    -1.461655, 
-    52.504189
+    -1.461646, 
+    52.504207, 
+    -1.461646, 
+    52.504207
   ],
-  "geometry": {"coordinates":[-1.461655,52.504189],"type":"Point"}
+  "geometry": {"coordinates":[-1.461646,52.504207],"type":"Point"}
 }

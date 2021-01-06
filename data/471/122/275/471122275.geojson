@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.211609,53.151599,-1.211609,53.151599",
-    "geom:latitude": 53.151599,
-    "geom:longitude": -1.211609,
+    "geom:bbox": "-1.211549,53.151572,-1.211549,53.151572",
+    "geom:latitude": 53.151572,
+    "geom:longitude": -1.211549,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,11 +18,11 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      101750507, 
       404227469, 
       1360698583, 
       85633159, 
-      1360698809, 
-      101750507
+      1360698809
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -30,7 +30,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701319,
-    "wof:geomhash": "35a69f9566306a1fc3eb7d051fc8c2a8",
+    "wof:geomhash": "b9c9fca469e408b21af32327283176a2",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -41,7 +41,7 @@
       }
     ],
     "wof:id": 471122275,
-    "wof:lastmodified": 1583786458,
+    "wof:lastmodified": 1609874715,
     "wof:name": "NG19 6AS",
     "wof:parent_id": 101750507,
     "wof:placetype": "postalcode",
@@ -51,10 +51,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.211609, 
-    53.151599, 
-    -1.211609, 
-    53.151599
+    -1.211549, 
+    53.151572, 
+    -1.211549, 
+    53.151572
   ],
-  "geometry": {"coordinates":[-1.211609,53.151599],"type":"Point"}
+  "geometry": {"coordinates":[-1.211549,53.151572],"type":"Point"}
 }

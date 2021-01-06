@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.506269,51.320763,0.506269,51.320763",
-    "geom:latitude": 51.320763,
-    "geom:longitude": 0.506269,
+    "geom:bbox": "0.506047,51.320120,0.506047,51.320120",
+    "geom:latitude": 51.32012,
+    "geom:longitude": 0.506047,
     "gp:parent_id": "28835379",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698811, 
-      404445965, 
       1125871997, 
       404227469, 
       1360698565, 
-      85633159
+      85633159, 
+      1360698811, 
+      404445965
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701329,
-    "wof:geomhash": "ab283de0f2237ee8245c4a32381fdce5",
+    "wof:geomhash": "175fe7602f6148693c94c206a7f687c7",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470948169,
-    "wof:lastmodified": 1583786460,
+    "wof:lastmodified": 1609876019,
     "wof:name": "ME20 7EZ",
     "wof:parent_id": 404445965,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.506269, 
-    51.320763, 
-    0.506269, 
-    51.320763
+    0.506047, 
+    51.32012, 
+    0.506047, 
+    51.32012
   ],
-  "geometry": {"coordinates":[0.506269,51.320763],"type":"Point"}
+  "geometry": {"coordinates":[0.506047,51.32012],"type":"Point"}
 }

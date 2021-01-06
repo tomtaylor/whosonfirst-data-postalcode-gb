@@ -3,11 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "uuuu",
-    "edtf:inception": "2020-04-01",
+    "edtf:inception": "2020-09-01",
     "geom:area": 0,
-    "geom:bbox": "-3.440659,55.901547,-3.440659,55.901547",
-    "geom:latitude": 55.901547,
-    "geom:longitude": -3.440659,
+    "geom:bbox": "-3.440921,55.901293,-3.440921,55.901293",
+    "geom:latitude": 55.901293,
+    "geom:longitude": -3.440921,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699027, 
       404447005, 
       404227471, 
-      1360698679
+      1360698679, 
+      85633159, 
+      1360699027
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735556,
-    "wof:geomhash": "1d945f8a99a8342b3cf01fc1c07c538e",
+    "wof:geomhash": "afdf4fef91b67bba4e51968124bfb890",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1713329215,
-    "wof:lastmodified": 1595753397,
+    "wof:lastmodified": 1609875376,
     "wof:name": "EH53 0PX",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.440659, 
-    55.901547, 
-    -3.440659, 
-    55.901547
+    -3.440921, 
+    55.901293, 
+    -3.440921, 
+    55.901293
   ],
-  "geometry": {"coordinates":[-3.440659,55.901547],"type":"Point"}
+  "geometry": {"coordinates":[-3.440921,55.901293],"type":"Point"}
 }

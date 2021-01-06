@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.554893,51.112508,-3.554893,51.112508",
-    "geom:latitude": 51.112508,
-    "geom:longitude": -3.554893,
+    "geom:bbox": "-3.549841,51.115668,-3.549841,51.115668",
+    "geom:latitude": 51.115668,
+    "geom:longitude": -3.549841,
     "gp:parent_id": "40679",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699059, 
-      404454197, 
       1360753187, 
       404227469, 
       1360698589, 
-      85633159
+      85633159, 
+      1360699059, 
+      404454197
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701178,
-    "wof:geomhash": "276984e30ff7f379295fa373bf217fa1",
+    "wof:geomhash": "01b12c6a1bf651f5c65899b7ea90f2b8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487807627,
-    "wof:lastmodified": 1595723454,
+    "wof:lastmodified": 1609880999,
     "wof:name": "TA24 7HW",
     "wof:parent_id": 404454197,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.554893, 
-    51.112508, 
-    -3.554893, 
-    51.112508
+    -3.549841, 
+    51.115668, 
+    -3.549841, 
+    51.115668
   ],
-  "geometry": {"coordinates":[-3.554893,51.112508],"type":"Point"}
+  "geometry": {"coordinates":[-3.549841,51.115668],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.742724,53.303891,-3.742724,53.303891",
-    "geom:latitude": 53.303891,
-    "geom:longitude": -3.742724,
+    "geom:bbox": "-3.743487,53.303752,-3.743487,53.303752",
+    "geom:latitude": 53.303752,
+    "geom:longitude": -3.743487,
     "gp:parent_id": "12696128",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1125774065, 
-      404227475, 
       1360698637, 
       85633159, 
       1360698739, 
-      404433449
+      404433449, 
+      1125774065, 
+      404227475
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701488,
-    "wof:geomhash": "4272544ee971d7206016cc5ba80538a3",
+    "wof:geomhash": "ac1924c7b70c10010c24004d116ab401",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488477561,
-    "wof:lastmodified": 1583786696,
+    "wof:lastmodified": 1609893511,
     "wof:name": "LL28 4HW",
     "wof:parent_id": 404433449,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.742724, 
-    53.303891, 
-    -3.742724, 
-    53.303891
+    -3.743487, 
+    53.303752, 
+    -3.743487, 
+    53.303752
   ],
-  "geometry": {"coordinates":[-3.742724,53.303891],"type":"Point"}
+  "geometry": {"coordinates":[-3.743487,53.303752],"type":"Point"}
 }

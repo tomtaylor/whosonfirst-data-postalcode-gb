@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.105310,52.758999,1.105310,52.758999",
-    "geom:latitude": 52.758999,
-    "geom:longitude": 1.10531,
+    "geom:bbox": "1.106001,52.758845,1.106001,52.758845",
+    "geom:latitude": 52.758845,
+    "geom:longitude": 1.106001,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      101854975, 
-      404227469, 
-      1360698575, 
       85633159, 
       1360698955, 
-      404438885
+      404438885, 
+      101854975, 
+      404227469, 
+      1360698575
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701390,
-    "wof:geomhash": "e67633b84a9779b50f0035dbe094b9b2",
+    "wof:geomhash": "d1beca463df6e941938206c4deb3b505",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471199223,
-    "wof:lastmodified": 1583786546,
+    "wof:lastmodified": 1609879682,
     "wof:name": "NR10 4QY",
     "wof:parent_id": 404438885,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.10531, 
-    52.758999, 
-    1.10531, 
-    52.758999
+    1.106001, 
+    52.758845, 
+    1.106001, 
+    52.758845
   ],
-  "geometry": {"coordinates":[1.10531,52.758999],"type":"Point"}
+  "geometry": {"coordinates":[1.106001,52.758845],"type":"Point"}
 }

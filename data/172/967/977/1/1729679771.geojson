@@ -1,0 +1,59 @@
+{
+  "id": 1729679771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-09-01",
+    "geom:area": 0,
+    "geom:bbox": "-4.165873,55.936928,-4.165873,55.936928",
+    "geom:latitude": 55.936928,
+    "geom:longitude": -4.165873,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "S92000003",
+    "os:county_code": "S99999999",
+    "os:district_code": "S12000045",
+    "os:positional_quality_indicator": "5",
+    "os:region_code": "S99999999",
+    "src:geom": "os",
+    "wof:belongsto": [
+      85633159, 
+      1360698835, 
+      404451795, 
+      404227471, 
+      85786143, 
+      1360698701
+    ],
+    "wof:breaches": [],
+    "wof:country": "GB",
+    "wof:created": 1609905972,
+    "wof:geomhash": "e59be692c3b8ab934161ec2b6b63fa75",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698835,
+        "localadmin_id": 404451795,
+        "macroregion_id": 404227471,
+        "neighbourhood_id": 85786143,
+        "region_id": 1360698701
+      }
+    ],
+    "wof:id": 1729679771,
+    "wof:lastmodified": 1609905972,
+    "wof:name": "G66 1AU",
+    "wof:parent_id": -1,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -4.165873, 
+    55.936928, 
+    -4.165873, 
+    55.936928
+  ],
+  "geometry": {"coordinates":[-4.165873,55.936928],"type":"Point"}
+}

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.008441,50.764633,-2.008441,50.764633",
-    "geom:latitude": 50.764633,
-    "geom:longitude": -2.008441,
+    "geom:bbox": "-2.008251,50.764660,-2.008251,50.764660",
+    "geom:latitude": 50.76466,
+    "geom:longitude": -2.008251,
     "gp:parent_id": "14032",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698545, 
       85633159, 
       1360698905, 
       101750309, 
-      404227469, 
-      1360698545
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701346,
-    "wof:geomhash": "e780345969cb65248b109e470851235a",
+    "wof:geomhash": "76eb876bb5ddfd76406b6be1d9b861df",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 438154927,
-    "wof:lastmodified": 1583786484,
+    "wof:lastmodified": 1609877177,
     "wof:name": "BH18 9DD",
     "wof:parent_id": 101750309,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.008441, 
-    50.764633, 
-    -2.008441, 
-    50.764633
+    -2.008251, 
+    50.76466, 
+    -2.008251, 
+    50.76466
   ],
-  "geometry": {"coordinates":[-2.008441,50.764633],"type":"Point"}
+  "geometry": {"coordinates":[-2.008251,50.76466],"type":"Point"}
 }

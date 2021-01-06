@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.954792,56.196610,-3.954792,56.196610",
-    "geom:latitude": 56.19661,
-    "geom:longitude": -3.954792,
+    "geom:bbox": "-3.954618,56.196666,-3.954618,56.196666",
+    "geom:latitude": 56.196666,
+    "geom:longitude": -3.954618,
     "gp:parent_id": "12696211",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      404227471, 
+      1360698655, 
       85633159, 
       1360699003, 
-      404433721, 
-      404227471, 
-      1360698655
+      404433721
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701105,
-    "wof:geomhash": "58d9afa1acab404f58b9dca719ebf8b9",
+    "wof:geomhash": "23f41ae71af775c0e5c4339fa423aebf",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504382565,
-    "wof:lastmodified": 1583786197,
+    "wof:lastmodified": 1609868994,
     "wof:name": "FK15 0DD",
     "wof:parent_id": 404433721,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.954792, 
-    56.19661, 
-    -3.954792, 
-    56.19661
+    -3.954618, 
+    56.196666, 
+    -3.954618, 
+    56.196666
   ],
-  "geometry": {"coordinates":[-3.954792,56.19661],"type":"Point"}
+  "geometry": {"coordinates":[-3.954618,56.196666],"type":"Point"}
 }

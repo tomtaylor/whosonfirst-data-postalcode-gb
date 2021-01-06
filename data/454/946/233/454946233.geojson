@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.986537,53.465669,-2.986537,53.465669",
-    "geom:latitude": 53.465669,
-    "geom:longitude": -2.986537,
+    "geom:bbox": "-2.986139,53.465376,-2.986139,53.465376",
+    "geom:latitude": 53.465376,
+    "geom:longitude": -2.986139,
     "gp:parent_id": "13250",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1126041051, 
       404227469, 
       85788803, 
       1360698573, 
       85633159, 
       1360698771, 
-      1360817501
+      1360817501, 
+      1126041051
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701760,
-    "wof:geomhash": "6a6aeb28e772fbc6d09939a611cbe4b2",
+    "wof:geomhash": "07a7cb044ee760418fe05f9f536ba7bf",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 454946233,
-    "wof:lastmodified": 1583786895,
+    "wof:lastmodified": 1609905170,
     "wof:name": "L20 6LU",
     "wof:parent_id": 101913935,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.986537, 
-    53.465669, 
-    -2.986537, 
-    53.465669
+    -2.986139, 
+    53.465376, 
+    -2.986139, 
+    53.465376
   ],
-  "geometry": {"coordinates":[-2.986537,53.465669],"type":"Point"}
+  "geometry": {"coordinates":[-2.986139,53.465376],"type":"Point"}
 }

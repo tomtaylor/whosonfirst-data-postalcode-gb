@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.199325,52.548609,0.199325,52.548609",
-    "geom:latitude": 52.548609,
-    "geom:longitude": 0.199325,
+    "geom:bbox": "0.199254,52.548646,0.199254,52.548646",
+    "geom:latitude": 52.548646,
+    "geom:longitude": 0.199254,
     "gp:parent_id": "16019",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698845, 
-      404430143, 
       1126052265, 
       404227469, 
-      1360698535
+      1360698535, 
+      85633159, 
+      1360698845, 
+      404430143
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701530,
-    "wof:geomhash": "c3ea06acda414d66a4ecb1cc55e60135",
+    "wof:geomhash": "bbea811998ab96c5fed42943bc8c2852",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471359195,
-    "wof:lastmodified": 1583786678,
+    "wof:lastmodified": 1609888135,
     "wof:name": "PE14 9ND",
     "wof:parent_id": 404430143,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.199325, 
-    52.548609, 
-    0.199325, 
-    52.548609
+    0.199254, 
+    52.548646, 
+    0.199254, 
+    52.548646
   ],
-  "geometry": {"coordinates":[0.199325,52.548609],"type":"Point"}
+  "geometry": {"coordinates":[0.199254,52.548646],"type":"Point"}
 }

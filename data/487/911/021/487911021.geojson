@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-5.252773,50.015460,-5.252773,50.015460",
-    "geom:latitude": 50.01546,
-    "geom:longitude": -5.252773,
+    "geom:bbox": "-5.252256,50.015689,-5.252256,50.015689",
+    "geom:latitude": 50.015689,
+    "geom:longitude": -5.252256,
     "gp:parent_id": "29549",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699085, 
-      404452455, 
       1125886719, 
       404227469, 
-      1360698623
+      1360698623, 
+      85633159, 
+      1360699085, 
+      404452455
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701253,
-    "wof:geomhash": "1607a05b3781cc84a0050c44389c9293",
+    "wof:geomhash": "f785b706d40988e4e89569f246906ec9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487911021,
-    "wof:lastmodified": 1583786331,
+    "wof:lastmodified": 1609886070,
     "wof:name": "TR12 7EU",
     "wof:parent_id": 404452455,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -5.252773, 
-    50.01546, 
-    -5.252773, 
-    50.01546
+    -5.252256, 
+    50.015689, 
+    -5.252256, 
+    50.015689
   ],
-  "geometry": {"coordinates":[-5.252773,50.01546],"type":"Point"}
+  "geometry": {"coordinates":[-5.252256,50.015689],"type":"Point"}
 }

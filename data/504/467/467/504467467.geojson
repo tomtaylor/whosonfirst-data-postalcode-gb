@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1995-12-01",
     "geom:area": 0,
-    "geom:bbox": "-3.490666,56.053360,-3.490666,56.053360",
-    "geom:latitude": 56.05336,
-    "geom:longitude": -3.490666,
+    "geom:bbox": "-3.489136,56.052831,-3.489136,56.052831",
+    "geom:latitude": 56.052831,
+    "geom:longitude": -3.489136,
     "gp:parent_id": "12696197",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699123, 
       404444217, 
       404227471, 
-      1360698659
+      1360698659, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701351,
-    "wof:geomhash": "aa0564d194828418807ca3ece54aceb0",
+    "wof:geomhash": "c0315d96f18a8c85582976302d1c642d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504467467,
-    "wof:lastmodified": 1583786460,
+    "wof:lastmodified": 1609873191,
     "wof:name": "KY11 3HQ",
     "wof:parent_id": 404444217,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.490666, 
-    56.05336, 
-    -3.490666, 
-    56.05336
+    -3.489136, 
+    56.052831, 
+    -3.489136, 
+    56.052831
   ],
-  "geometry": {"coordinates":[-3.490666,56.05336],"type":"Point"}
+  "geometry": {"coordinates":[-3.489136,56.052831],"type":"Point"}
 }

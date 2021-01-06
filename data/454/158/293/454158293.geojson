@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.340766,51.735333,0.340766,51.735333",
-    "geom:latitude": 51.735333,
-    "geom:longitude": 0.340766,
+    "geom:bbox": "0.340983,51.735329,0.340983,51.735329",
+    "geom:latitude": 51.735329,
+    "geom:longitude": 0.340983,
     "gp:parent_id": "40529",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698979, 
       404435379, 
       1360757269, 
       404227469, 
-      1360698551
+      1360698551, 
+      85633159, 
+      1360698979
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701324,
-    "wof:geomhash": "09f0c3acddd73cfc6dcb3ea662d67508",
+    "wof:geomhash": "a6f3fcc946a3ed4bf56314d2bc734650",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454158293,
-    "wof:lastmodified": 1583786458,
+    "wof:lastmodified": 1609874761,
     "wof:name": "CM5 0QN",
     "wof:parent_id": 404435379,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.340766, 
-    51.735333, 
-    0.340766, 
-    51.735333
+    0.340983, 
+    51.735329, 
+    0.340983, 
+    51.735329
   ],
-  "geometry": {"coordinates":[0.340766,51.735333],"type":"Point"}
+  "geometry": {"coordinates":[0.340983,51.735329],"type":"Point"}
 }

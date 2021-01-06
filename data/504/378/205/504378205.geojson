@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.152804,55.962693,-3.152804,55.962693",
-    "geom:latitude": 55.962693,
-    "geom:longitude": -3.152804,
+    "geom:bbox": "-3.152930,55.962524,-3.152930,55.962524",
+    "geom:latitude": 55.962524,
+    "geom:longitude": -3.15293,
     "gp:parent_id": "12696195",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      404437279, 
       101750629, 
       404227471, 
       85790037, 
       1360698673, 
       85633159, 
-      1360698761, 
-      404437279
+      1360698761
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701094,
-    "wof:geomhash": "787aa38e713304f01b5066f63da83f61",
+    "wof:geomhash": "77813e7ff7aed132b43cf1944fc87742",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 504378205,
-    "wof:lastmodified": 1583786185,
+    "wof:lastmodified": 1609868892,
     "wof:name": "EH7 6EA",
     "wof:parent_id": 101750629,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.152804, 
-    55.962693, 
-    -3.152804, 
-    55.962693
+    -3.15293, 
+    55.962524, 
+    -3.15293, 
+    55.962524
   ],
-  "geometry": {"coordinates":[-3.152804,55.962693],"type":"Point"}
+  "geometry": {"coordinates":[-3.15293,55.962524],"type":"Point"}
 }

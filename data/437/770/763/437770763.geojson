@@ -19,11 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698811, 
-      1126008977, 
       404227469, 
       1360698565, 
-      85633159
+      1158857255, 
+      85633159, 
+      1360698811, 
+      1126008977
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -34,6 +35,7 @@
     "wof:geomhash": "8bd77e41e53b249f8516d402e7fe2eea",
     "wof:hierarchy": [
       {
+        "borough_id": 1158857255,
         "country_id": 85633159,
         "county_id": 1360698811,
         "locality_id": 1126008977,
@@ -42,7 +44,7 @@
       }
     ],
     "wof:id": 437770763,
-    "wof:lastmodified": 1583786690,
+    "wof:lastmodified": 1609889286,
     "wof:name": "DA1 2SZ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.992898,56.195513,-2.992898,56.195513",
-    "geom:latitude": 56.195513,
-    "geom:longitude": -2.992898,
+    "geom:bbox": "-2.992840,56.195623,-2.992840,56.195623",
+    "geom:latitude": 56.195623,
+    "geom:longitude": -2.99284,
     "gp:parent_id": "12696197",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404444217, 
       404227471, 
       1360698659, 
       85633159, 
-      1360699123
+      1360699123, 
+      404444217
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701360,
-    "wof:geomhash": "6eed387d00c72c56e10f0200540c66bd",
+    "wof:geomhash": "d52e4ded1ef977e23451fd88cd9c0def",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504478549,
-    "wof:lastmodified": 1583786474,
+    "wof:lastmodified": 1609874030,
     "wof:name": "KY8 4HP",
     "wof:parent_id": 404444217,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.992898, 
-    56.195513, 
-    -2.992898, 
-    56.195513
+    -2.99284, 
+    56.195623, 
+    -2.99284, 
+    56.195623
   ],
-  "geometry": {"coordinates":[-2.992898,56.195513],"type":"Point"}
+  "geometry": {"coordinates":[-2.99284,56.195623],"type":"Point"}
 }

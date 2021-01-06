@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1995-12-01",
     "geom:area": 0,
-    "geom:bbox": "-2.394626,53.140338,-2.394626,53.140338",
-    "geom:latitude": 53.140338,
-    "geom:longitude": -2.394626,
+    "geom:bbox": "-2.394611,53.140328,-2.394611,53.140328",
+    "geom:latitude": 53.140328,
+    "geom:longitude": -2.394611,
     "gp:parent_id": "19725",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698929, 
+      404432155, 
       101871987, 
       404227469, 
       1360698537, 
-      85633159, 
-      1360698929, 
-      404432155
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701451,
-    "wof:geomhash": "b3b4fac237c70e8073bca1bb57d43331",
+    "wof:geomhash": "768b51615623f53f06f9ef329eb0a557",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454293003,
-    "wof:lastmodified": 1583786583,
+    "wof:lastmodified": 1609881745,
     "wof:name": "CW11 3ZD",
     "wof:parent_id": 101871987,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.394626, 
-    53.140338, 
-    -2.394626, 
-    53.140338
+    -2.394611, 
+    53.140328, 
+    -2.394611, 
+    53.140328
   ],
-  "geometry": {"coordinates":[-2.394626,53.140338],"type":"Point"}
+  "geometry": {"coordinates":[-2.394611,53.140328],"type":"Point"}
 }

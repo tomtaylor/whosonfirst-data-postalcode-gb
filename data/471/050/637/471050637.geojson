@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.442921,55.040031,-1.442921,55.040031",
-    "geom:latitude": 55.040031,
-    "geom:longitude": -1.442921,
+    "geom:bbox": "-1.443012,55.040056,-1.443012,55.040056",
+    "geom:latitude": 55.040056,
+    "geom:longitude": -1.443012,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      1360817045, 
-      101751655, 
-      404227469, 
       1360698601, 
       85633159, 
-      1360699037
+      1360699037, 
+      1360817045, 
+      101751655, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701176,
-    "wof:geomhash": "96b67b6d617a22a26cc728fdbf0c7ba5",
+    "wof:geomhash": "bc8a48e76d19b6417a01dfd55e3e3fe6",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471050637,
-    "wof:lastmodified": 1583786310,
+    "wof:lastmodified": 1609870157,
     "wof:name": "NE26 2QT",
     "wof:parent_id": 101751655,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.442921, 
-    55.040031, 
-    -1.442921, 
-    55.040031
+    -1.443012, 
+    55.040056, 
+    -1.443012, 
+    55.040056
   ],
-  "geometry": {"coordinates":[-1.442921,55.040031],"type":"Point"}
+  "geometry": {"coordinates":[-1.443012,55.040056],"type":"Point"}
 }

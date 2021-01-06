@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-12-01",
     "geom:area": 0,
-    "geom:bbox": "-4.257843,55.845847,-4.257843,55.845847",
-    "geom:latitude": 55.845847,
-    "geom:longitude": -4.257843,
+    "geom:bbox": "-4.257635,55.845810,-4.257635,55.845810",
+    "geom:latitude": 55.84581,
+    "geom:longitude": -4.257635,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      404227471, 
+      85861543, 
+      1360698707, 
       85633159, 
       1360698797, 
       404430153, 
-      1175612707, 
-      404227471, 
-      85861543, 
-      1360698707
+      1175612707
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701407,
-    "wof:geomhash": "6f2d3c430882b3294b0c14c450e085e2",
+    "wof:geomhash": "70e3f922f48908a6e16e4cb3023bf860",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 488396811,
-    "wof:lastmodified": 1583786612,
+    "wof:lastmodified": 1609889904,
     "wof:name": "G41 1RD",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.257843, 
-    55.845847, 
-    -4.257843, 
-    55.845847
+    -4.257635, 
+    55.84581, 
+    -4.257635, 
+    55.84581
   ],
-  "geometry": {"coordinates":[-4.257843,55.845847],"type":"Point"}
+  "geometry": {"coordinates":[-4.257635,55.84581],"type":"Point"}
 }

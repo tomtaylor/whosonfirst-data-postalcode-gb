@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.328154,53.650289,-1.328154,53.650289",
-    "geom:latitude": 53.650289,
-    "geom:longitude": -1.328154,
+    "geom:bbox": "-1.327989,53.650342,-1.327989,53.650342",
+    "geom:latitude": 53.650342,
+    "geom:longitude": -1.327989,
     "gp:parent_id": "20091887",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360755575, 
       404227469, 
       1360698609, 
       85633159, 
       1360698945, 
-      404439627
+      404439627, 
+      1360755575
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701273,
-    "wof:geomhash": "e78d4514d9fa6e0c85a29b2dc5912c48",
+    "wof:geomhash": "0a94a8ee0c790231dc028b1c204b328e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488142601,
-    "wof:lastmodified": 1583786186,
+    "wof:lastmodified": 1609876434,
     "wof:name": "WF7 7LU",
     "wof:parent_id": 404439627,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.328154, 
-    53.650289, 
-    -1.328154, 
-    53.650289
+    -1.327989, 
+    53.650342, 
+    -1.327989, 
+    53.650342
   ],
-  "geometry": {"coordinates":[-1.328154,53.650289],"type":"Point"}
+  "geometry": {"coordinates":[-1.327989,53.650342],"type":"Point"}
 }

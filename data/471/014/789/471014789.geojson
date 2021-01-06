@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.156769,51.624571,-0.156769,51.624571",
-    "geom:latitude": 51.624571,
-    "geom:longitude": -0.156769,
+    "geom:bbox": "-0.156871,51.624638,-0.156871,51.624638",
+    "geom:latitude": 51.624638,
+    "geom:longitude": -0.156871,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       101750367, 
       404227469, 
       85787527, 
       1360698645, 
-      1158857285
+      1158857285, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701091,
-    "wof:geomhash": "a560bd0b9034201afd5c527588ba9669",
+    "wof:geomhash": "50cf1eadf69110dff74d15859510e6e4",
     "wof:hierarchy": [
       {
         "borough_id": 1158857285,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471014789,
-    "wof:lastmodified": 1583786208,
+    "wof:lastmodified": 1609868918,
     "wof:name": "N20 0RH",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.156769, 
-    51.624571, 
-    -0.156769, 
-    51.624571
+    -0.156871, 
+    51.624638, 
+    -0.156871, 
+    51.624638
   ],
-  "geometry": {"coordinates":[-0.156769,51.624571],"type":"Point"}
+  "geometry": {"coordinates":[-0.156871,51.624638],"type":"Point"}
 }

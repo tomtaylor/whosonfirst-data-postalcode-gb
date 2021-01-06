@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.373023,51.849858,-0.373023,51.849858",
-    "geom:latitude": 51.849858,
-    "geom:longitude": -0.373023,
+    "geom:bbox": "-0.373504,51.850206,-0.373504,51.850206",
+    "geom:latitude": 51.850206,
+    "geom:longitude": -0.373504,
     "gp:parent_id": "27997",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698527, 
-      85633159, 
-      1360698767, 
       404430085, 
       1360753887, 
-      404227469
+      404227469, 
+      1360698527, 
+      85633159, 
+      1360698767
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701114,
-    "wof:geomhash": "24f72cce89788125932d8b7c3e89c71c",
+    "wof:geomhash": "6e92f745eafbffec852f40b65e76301b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470845351,
-    "wof:lastmodified": 1583786234,
+    "wof:lastmodified": 1609869491,
     "wof:name": "LU1 3TS",
     "wof:parent_id": 404430085,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.373023, 
-    51.849858, 
-    -0.373023, 
-    51.849858
+    -0.373504, 
+    51.850206, 
+    -0.373504, 
+    51.850206
   ],
-  "geometry": {"coordinates":[-0.373023,51.849858],"type":"Point"}
+  "geometry": {"coordinates":[-0.373504,51.850206],"type":"Point"}
 }

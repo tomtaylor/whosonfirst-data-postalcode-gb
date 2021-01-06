@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.864877,50.730114,-1.864877,50.730114",
-    "geom:latitude": 50.730114,
-    "geom:longitude": -1.864877,
+    "geom:bbox": "-1.864628,50.730039,-1.864628,50.730039",
+    "geom:latitude": 50.730039,
+    "geom:longitude": -1.864628,
     "gp:parent_id": "13383",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      101750305, 
-      404227469, 
       1360698545, 
       85633159, 
-      1360698873
+      1360698873, 
+      101750305, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701367,
-    "wof:geomhash": "5599c374c1b74e4b871c8dc80ea360e4",
+    "wof:geomhash": "8073bbe0fad725b008c40db839b18585",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 438174535,
-    "wof:lastmodified": 1583786503,
+    "wof:lastmodified": 1609878160,
     "wof:name": "BH8 8JT",
     "wof:parent_id": 101750305,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.864877, 
-    50.730114, 
-    -1.864877, 
-    50.730114
+    -1.864628, 
+    50.730039, 
+    -1.864628, 
+    50.730039
   ],
-  "geometry": {"coordinates":[-1.864877,50.730114],"type":"Point"}
+  "geometry": {"coordinates":[-1.864628,50.730039],"type":"Point"}
 }

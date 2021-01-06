@@ -2,7 +2,7 @@
   "id": 874426813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-09-01",
     "edtf:inception": "2016-11-01",
     "geom:area": 0,
     "geom:bbox": "-2.570713,51.533462,-2.570713,51.533462",
@@ -10,7 +10,7 @@
     "geom:longitude": -2.570713,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000025",
@@ -18,13 +18,13 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      404451605, 
       1126031203, 
       404227469, 
       85788815, 
       1360698553, 
       85633159, 
-      1360698895, 
-      404451605
+      1360698895
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 874426813,
-    "wof:lastmodified": 1583786179,
+    "wof:lastmodified": 1609868931,
     "wof:name": "BS34 9BP",
     "wof:parent_id": 404451605,
     "wof:placetype": "postalcode",

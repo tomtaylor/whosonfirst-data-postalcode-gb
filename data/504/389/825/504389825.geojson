@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.300113,55.870472,-4.300113,55.870472",
-    "geom:latitude": 55.870472,
-    "geom:longitude": -4.300113,
+    "geom:bbox": "-4.300019,55.870477,-4.300019,55.870477",
+    "geom:latitude": 55.870477,
+    "geom:longitude": -4.300019,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698707, 
       85633159, 
       1360698797, 
       404430153, 
       1175612707, 
       404227471, 
-      85792659
+      85792659, 
+      1360698707
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701122,
-    "wof:geomhash": "3de4c74e6223d60b727bd2f56db995e3",
+    "wof:geomhash": "65e12945719d09c4f52017d4bff9ea9b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 504389825,
-    "wof:lastmodified": 1583786217,
+    "wof:lastmodified": 1609869190,
     "wof:name": "G11 6PT",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.300113, 
-    55.870472, 
-    -4.300113, 
-    55.870472
+    -4.300019, 
+    55.870477, 
+    -4.300019, 
+    55.870477
   ],
-  "geometry": {"coordinates":[-4.300113,55.870472],"type":"Point"}
+  "geometry": {"coordinates":[-4.300019,55.870477],"type":"Point"}
 }

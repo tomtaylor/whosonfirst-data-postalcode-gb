@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.083232,55.909353,-4.083232,55.909353",
-    "geom:latitude": 55.909353,
-    "geom:longitude": -4.083232,
+    "geom:bbox": "-4.083197,55.909308,-4.083197,55.909308",
+    "geom:latitude": 55.909308,
+    "geom:longitude": -4.083197,
     "gp:parent_id": "29260",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698703, 
-      85633159, 
-      1360698949, 
       404435713, 
       404227471, 
-      85790731
+      85790731, 
+      1360698703, 
+      85633159, 
+      1360698949
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701191,
-    "wof:geomhash": "dcced8e543ab253cff82c2876a465123",
+    "wof:geomhash": "80e2efafbcf048601c1dc3f624399514",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504414947,
-    "wof:lastmodified": 1583786298,
+    "wof:lastmodified": 1609870136,
     "wof:name": "G69 0BA",
     "wof:parent_id": 404435713,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.083232, 
-    55.909353, 
-    -4.083232, 
-    55.909353
+    -4.083197, 
+    55.909308, 
+    -4.083197, 
+    55.909308
   ],
-  "geometry": {"coordinates":[-4.083232,55.909353],"type":"Point"}
+  "geometry": {"coordinates":[-4.083197,55.909308],"type":"Point"}
 }

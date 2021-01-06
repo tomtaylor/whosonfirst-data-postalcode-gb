@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.212262,51.527190,-0.212262,51.527190",
-    "geom:latitude": 51.52719,
-    "geom:longitude": -0.212262,
+    "geom:bbox": "-0.212850,51.527270,-0.212850,51.527270",
+    "geom:latitude": 51.52727,
+    "geom:longitude": -0.21285,
     "gp:parent_id": "12695819",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -20,12 +20,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      1158857245, 
+      85633159, 
       101750367, 
       404227469, 
       85792207, 
-      1360698645, 
-      1158857245, 
-      85633159
+      1360698645
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701186,
-    "wof:geomhash": "8097d70e13ac8a2a0e9197a775a9fcf8",
+    "wof:geomhash": "7e0eaf6a31fbc789e284fd2dea6673da",
     "wof:hierarchy": [
       {
         "borough_id": 1158857245,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 488009527,
-    "wof:lastmodified": 1583786374,
+    "wof:lastmodified": 1609868794,
     "wof:name": "W10 4DZ",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -55,10 +55,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.212262, 
-    51.52719, 
-    -0.212262, 
-    51.52719
+    -0.21285, 
+    51.52727, 
+    -0.21285, 
+    51.52727
   ],
-  "geometry": {"coordinates":[-0.212262,51.52719],"type":"Point"}
+  "geometry": {"coordinates":[-0.21285,51.52727],"type":"Point"}
 }

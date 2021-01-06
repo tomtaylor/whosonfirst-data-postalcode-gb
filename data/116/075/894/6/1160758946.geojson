@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.374879,53.791188,-1.374879,53.791188",
-    "geom:latitude": 53.791188,
-    "geom:longitude": -1.374879,
+    "geom:bbox": "-1.374502,53.790971,-1.374502,53.790971",
+    "geom:latitude": 53.790971,
+    "geom:longitude": -1.374502,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      85860949, 
-      1360698609, 
       85633159, 
       1360698749, 
       101872241, 
-      404227469
+      404227469, 
+      85860949, 
+      1360698609
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583788731,
-    "wof:geomhash": "65f1f9e6ce128123abc8c0ebc43aacac",
+    "wof:geomhash": "1644aa967c6a1d6e9ee32b8f1fa3fe43",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160758946,
-    "wof:lastmodified": 1583788731,
+    "wof:lastmodified": 1609869520,
     "wof:name": "LS25 2QE",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.374879, 
-    53.791188, 
-    -1.374879, 
-    53.791188
+    -1.374502, 
+    53.790971, 
+    -1.374502, 
+    53.790971
   ],
-  "geometry": {"coordinates":[-1.374879,53.791188],"type":"Point"}
+  "geometry": {"coordinates":[-1.374502,53.790971],"type":"Point"}
 }

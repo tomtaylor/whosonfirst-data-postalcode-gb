@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1999-06-01",
     "geom:area": 0,
-    "geom:bbox": "-3.183805,53.393952,-3.183805,53.393952",
-    "geom:latitude": 53.393952,
-    "geom:longitude": -3.183805,
+    "geom:bbox": "-3.183642,53.394035,-3.183642,53.394035",
+    "geom:latitude": 53.394035,
+    "geom:longitude": -3.183642,
     "gp:parent_id": "24067",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699049, 
       101750549, 
       404227469, 
-      1360698573
+      1360698573, 
+      85633159, 
+      1360699049
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701249,
-    "wof:geomhash": "769947cc1b862b9b0d2ce2c27075d0e6",
+    "wof:geomhash": "e5feac1b4a649df8c7f4e692fdddbbfb",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454115935,
-    "wof:lastmodified": 1583786402,
+    "wof:lastmodified": 1609871717,
     "wof:name": "CH47 2BB",
     "wof:parent_id": 404452723,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.183805, 
-    53.393952, 
-    -3.183805, 
-    53.393952
+    -3.183642, 
+    53.394035, 
+    -3.183642, 
+    53.394035
   ],
-  "geometry": {"coordinates":[-3.183805,53.393952],"type":"Point"}
+  "geometry": {"coordinates":[-3.183642,53.394035],"type":"Point"}
 }

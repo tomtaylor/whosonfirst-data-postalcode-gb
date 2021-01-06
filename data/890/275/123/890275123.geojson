@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2015-11-01",
     "geom:area": 0,
-    "geom:bbox": "-5.071509,50.230647,-5.071509,50.230647",
-    "geom:latitude": 50.230647,
-    "geom:longitude": -5.071509,
+    "geom:bbox": "-5.071425,50.230649,-5.071425,50.230649",
+    "geom:latitude": 50.230649,
+    "geom:longitude": -5.071425,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699085, 
       404441371, 
       1209550903, 
       404227469, 
-      1360698623
+      1360698623, 
+      85633159, 
+      1360699085
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468902997,
-    "wof:geomhash": "c631b40c275fc88e539a5c04cff32c60",
+    "wof:geomhash": "02b3bfa3f40346ded5eb3bbf904fbce6",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 890275123,
-    "wof:lastmodified": 1583786264,
+    "wof:lastmodified": 1609869508,
     "wof:name": "TR3 6FR",
     "wof:parent_id": 404444995,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -5.071509, 
-    50.230647, 
-    -5.071509, 
-    50.230647
+    -5.071425, 
+    50.230649, 
+    -5.071425, 
+    50.230649
   ],
-  "geometry": {"coordinates":[-5.071509,50.230647],"type":"Point"}
+  "geometry": {"coordinates":[-5.071425,50.230649],"type":"Point"}
 }

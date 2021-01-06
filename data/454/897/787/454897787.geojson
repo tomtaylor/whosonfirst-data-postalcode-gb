@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.184059,52.097281,1.184059,52.097281",
-    "geom:latitude": 52.097281,
-    "geom:longitude": 1.184059,
+    "geom:bbox": "1.184225,52.097367,1.184225,52.097367",
+    "geom:latitude": 52.097367,
+    "geom:longitude": 1.184225,
     "gp:parent_id": "40807",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1125792545, 
-      404227469, 
       1360698595, 
       85633159, 
       1360699041, 
-      404435283
+      404435283, 
+      1125792545, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701740,
-    "wof:geomhash": "48a9f197d90d38f02096a32f72b796c5",
+    "wof:geomhash": "a15e50c8ec79c20e8158c1ecd9548a3e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454897787,
-    "wof:lastmodified": 1583786877,
+    "wof:lastmodified": 1609904594,
     "wof:name": "IP6 9JA",
     "wof:parent_id": 404435283,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.184059, 
-    52.097281, 
-    1.184059, 
-    52.097281
+    1.184225, 
+    52.097367, 
+    1.184225, 
+    52.097367
   ],
-  "geometry": {"coordinates":[1.184059,52.097281],"type":"Point"}
+  "geometry": {"coordinates":[1.184225,52.097367],"type":"Point"}
 }

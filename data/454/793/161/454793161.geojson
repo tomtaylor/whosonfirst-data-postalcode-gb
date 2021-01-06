@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.575059,51.630320,-0.575059,51.630320",
-    "geom:latitude": 51.63032,
-    "geom:longitude": -0.575059,
+    "geom:bbox": "-0.574806,51.630356,-0.574806,51.630356",
+    "geom:latitude": 51.630356,
+    "geom:longitude": -0.574806,
     "gp:parent_id": "15580",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698533, 
-      85633159, 
       1360698997, 
       404434599, 
       1125771479, 
-      404227469
+      404227469, 
+      1360698533, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701715,
-    "wof:geomhash": "43ef4fd203e563ff2d461ed1f73afaf1",
+    "wof:geomhash": "aa2796260bf3c716cbb2bea6ac558f71",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454793161,
-    "wof:lastmodified": 1595717146,
+    "wof:lastmodified": 1609902358,
     "wof:name": "HP8 4JL",
     "wof:parent_id": 404434599,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.575059, 
-    51.63032, 
-    -0.575059, 
-    51.63032
+    -0.574806, 
+    51.630356, 
+    -0.574806, 
+    51.630356
   ],
-  "geometry": {"coordinates":[-0.575059,51.63032],"type":"Point"}
+  "geometry": {"coordinates":[-0.574806,51.630356],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.747351,51.975244,0.747351,51.975244",
-    "geom:latitude": 51.975244,
-    "geom:longitude": 0.747351,
+    "geom:bbox": "0.746768,51.975708,0.746768,51.975708",
+    "geom:latitude": 51.975708,
+    "geom:longitude": 0.746768,
     "gp:parent_id": "25672",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698551, 
       85633159, 
       1360698979, 
-      404442425, 
-      1276149993, 
-      404227469, 
-      1360698551
+      404431261, 
+      1360755661
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,19 +32,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701361,
-    "wof:geomhash": "bc307ef8f6290d1734cdee050b12461b",
+    "wof:geomhash": "6fa82dc2b2e5e6c6dae985aada593416",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360698979,
-        "localadmin_id": 404442425,
-        "locality_id": 1276149993,
+        "localadmin_id": 404431261,
+        "locality_id": 1360755661,
         "macroregion_id": 404227469,
         "region_id": 1360698551
       }
     ],
     "wof:id": 454194409,
-    "wof:lastmodified": 1583786486,
+    "wof:lastmodified": 1609877490,
     "wof:name": "CO8 5DY",
     "wof:parent_id": 404442425,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.747351, 
-    51.975244, 
-    0.747351, 
-    51.975244
+    0.746768, 
+    51.975708, 
+    0.746768, 
+    51.975708
   ],
-  "geometry": {"coordinates":[0.747351,51.975244],"type":"Point"}
+  "geometry": {"coordinates":[0.746768,51.975708],"type":"Point"}
 }

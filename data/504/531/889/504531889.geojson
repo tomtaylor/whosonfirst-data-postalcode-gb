@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1999-06-01",
     "geom:area": 0,
-    "geom:bbox": "-3.161383,51.687160,-3.161383,51.687160",
-    "geom:latitude": 51.68716,
-    "geom:longitude": -3.161383,
+    "geom:bbox": "-3.161366,51.687062,-3.161366,51.687062",
+    "geom:latitude": 51.687062,
+    "geom:longitude": -3.161366,
     "gp:parent_id": "17349",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698641, 
+      85633159, 
       1360698925, 
       404440883, 
       1243000075, 
-      404227475, 
-      1360698641, 
-      85633159
+      404227475
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701407,
-    "wof:geomhash": "d895f98d86d691589b11f52ec58f3d94",
+    "wof:geomhash": "f19a0b2c749a49511126b2e6e70a171e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504531889,
-    "wof:lastmodified": 1583786538,
+    "wof:lastmodified": 1609878028,
     "wof:name": "NP11 3EH",
     "wof:parent_id": 404440883,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.161383, 
-    51.68716, 
-    -3.161383, 
-    51.68716
+    -3.161366, 
+    51.687062, 
+    -3.161366, 
+    51.687062
   ],
-  "geometry": {"coordinates":[-3.161383,51.68716],"type":"Point"}
+  "geometry": {"coordinates":[-3.161366,51.687062],"type":"Point"}
 }

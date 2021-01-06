@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1999-06-01",
     "geom:area": 0,
-    "geom:bbox": "-3.041239,53.430850,-3.041239,53.430850",
-    "geom:latitude": 53.43085,
-    "geom:longitude": -3.041239,
+    "geom:bbox": "-3.041208,53.430805,-3.041208,53.430805",
+    "geom:latitude": 53.430805,
+    "geom:longitude": -3.041208,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,11 +18,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360699049, 
       101750549, 
       404227469, 
-      1360698573, 
-      85633159
+      1360698573
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -30,7 +30,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701242,
-    "wof:geomhash": "f48572d70f0e56503edf18d65f6d050e",
+    "wof:geomhash": "ee271eb158c43814328a7b01961b5a22",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -41,7 +41,7 @@
       }
     ],
     "wof:id": 454112873,
-    "wof:lastmodified": 1583786394,
+    "wof:lastmodified": 1609871537,
     "wof:name": "CH45 1JN",
     "wof:parent_id": 101751631,
     "wof:placetype": "postalcode",
@@ -51,10 +51,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.041239, 
-    53.43085, 
-    -3.041239, 
-    53.43085
+    -3.041208, 
+    53.430805, 
+    -3.041208, 
+    53.430805
   ],
-  "geometry": {"coordinates":[-3.041239,53.43085],"type":"Point"}
+  "geometry": {"coordinates":[-3.041208,53.430805],"type":"Point"}
 }

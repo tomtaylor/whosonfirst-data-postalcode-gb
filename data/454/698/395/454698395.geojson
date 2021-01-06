@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.881635,50.970715,-0.881635,50.970715",
-    "geom:latitude": 50.970715,
-    "geom:longitude": -0.881635,
+    "geom:bbox": "-0.881806,50.970726,-0.881806,50.970726",
+    "geom:latitude": 50.970726,
+    "geom:longitude": -0.881806,
     "gp:parent_id": "35242",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698757, 
       404441459, 
       1360757023, 
       404227469, 
-      1360698607
+      1360698607, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701699,
-    "wof:geomhash": "584480b380dae32139f637c62878dbdc",
+    "wof:geomhash": "cd2267d45a3e3f9d94abc775d46a4b10",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454698395,
-    "wof:lastmodified": 1583786838,
+    "wof:lastmodified": 1609899781,
     "wof:name": "GU31 5PY",
     "wof:parent_id": 404441459,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.881635, 
-    50.970715, 
-    -0.881635, 
-    50.970715
+    -0.881806, 
+    50.970726, 
+    -0.881806, 
+    50.970726
   ],
-  "geometry": {"coordinates":[-0.881635,50.970715],"type":"Point"}
+  "geometry": {"coordinates":[-0.881806,50.970726],"type":"Point"}
 }

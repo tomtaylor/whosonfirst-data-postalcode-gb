@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.695780,56.299726,-3.695780,56.299726",
-    "geom:latitude": 56.299726,
-    "geom:longitude": -3.69578,
+    "geom:bbox": "-3.695275,56.299652,-3.695275,56.299652",
+    "geom:latitude": 56.299652,
+    "geom:longitude": -3.695275,
     "gp:parent_id": "12696206",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404451983, 
       404227471, 
       1360698691, 
       85633159, 
-      1360698829
+      1360698829, 
+      404451983
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701539,
-    "wof:geomhash": "3dfa975bf116293230b961d8f1c6ba6c",
+    "wof:geomhash": "3c74e8fcedba6ff0e8ae5196a0ee958c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488524303,
-    "wof:lastmodified": 1583786733,
+    "wof:lastmodified": 1609895289,
     "wof:name": "PH3 1EP",
     "wof:parent_id": 404451983,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.69578, 
-    56.299726, 
-    -3.69578, 
-    56.299726
+    -3.695275, 
+    56.299652, 
+    -3.695275, 
+    56.299652
   ],
-  "geometry": {"coordinates":[-3.69578,56.299726],"type":"Point"}
+  "geometry": {"coordinates":[-3.695275,56.299652],"type":"Point"}
 }

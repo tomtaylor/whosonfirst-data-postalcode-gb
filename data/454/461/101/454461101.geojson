@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.306241,50.920378,-2.306241,50.920378",
-    "geom:latitude": 50.920378,
-    "geom:longitude": -2.306241,
+    "geom:bbox": "-2.306226,50.920315,-2.306226,50.920315",
+    "geom:latitude": 50.920315,
+    "geom:longitude": -2.306226,
     "gp:parent_id": "13816",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698545, 
       85633159, 
       1360698745, 
       404431435, 
-      101852351
+      101852351, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701577,
-    "wof:geomhash": "92df9fd2d575e46d4c051d05d269fffb",
+    "wof:geomhash": "94ef916a6247d4a970d8292aab03b48e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454461101,
-    "wof:lastmodified": 1595715645,
+    "wof:lastmodified": 1609890490,
     "wof:name": "DT10 2BT",
     "wof:parent_id": 101852351,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.306241, 
-    50.920378, 
-    -2.306241, 
-    50.920378
+    -2.306226, 
+    50.920315, 
+    -2.306226, 
+    50.920315
   ],
-  "geometry": {"coordinates":[-2.306241,50.920378],"type":"Point"}
+  "geometry": {"coordinates":[-2.306226,50.920315],"type":"Point"}
 }

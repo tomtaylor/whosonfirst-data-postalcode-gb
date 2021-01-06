@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.100872,51.591436,-0.100872,51.591436",
-    "geom:latitude": 51.591436,
-    "geom:longitude": -0.100872,
+    "geom:bbox": "-0.100845,51.591408,-0.100845,51.591408",
+    "geom:latitude": 51.591408,
+    "geom:longitude": -0.100845,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698645, 
       1158857279, 
       85633159, 
       101750367, 
       404227469, 
-      85787927, 
-      1360698645
+      85787927
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701098,
-    "wof:geomhash": "056b5cac12e3d61cc7ef40144b698572",
+    "wof:geomhash": "29ddc0a2bcf38252917604b08f5a57cb",
     "wof:hierarchy": [
       {
         "borough_id": 1158857279,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471017395,
-    "wof:lastmodified": 1583786214,
+    "wof:lastmodified": 1609868981,
     "wof:name": "N22 6BP",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.100872, 
-    51.591436, 
-    -0.100872, 
-    51.591436
+    -0.100845, 
+    51.591408, 
+    -0.100845, 
+    51.591408
   ],
-  "geometry": {"coordinates":[-0.100872,51.591436],"type":"Point"}
+  "geometry": {"coordinates":[-0.100845,51.591408],"type":"Point"}
 }

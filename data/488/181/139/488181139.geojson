@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1997-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.979967,52.585257,-1.979967,52.585257",
-    "geom:latitude": 52.585257,
-    "geom:longitude": -1.979967,
+    "geom:bbox": "-1.980351,52.585625,-1.980351,52.585625",
+    "geom:latitude": 52.585625,
+    "geom:longitude": -1.980351,
     "gp:parent_id": "39052",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698875, 
       1125853123, 
       404227469, 
       1360698605, 
-      85633159
+      85633159, 
+      1360698875
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701296,
-    "wof:geomhash": "fb1a7afb07f98239a610414dfa6c28e9",
+    "wof:geomhash": "eb30580b930db88649bef1168459df87",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488181139,
-    "wof:lastmodified": 1583786295,
+    "wof:lastmodified": 1609878768,
     "wof:name": "WS1 1SX",
     "wof:parent_id": 101914035,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.979967, 
-    52.585257, 
-    -1.979967, 
-    52.585257
+    -1.980351, 
+    52.585625, 
+    -1.980351, 
+    52.585625
   ],
-  "geometry": {"coordinates":[-1.979967,52.585257],"type":"Point"}
+  "geometry": {"coordinates":[-1.980351,52.585625],"type":"Point"}
 }

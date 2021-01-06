@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1999-06-01",
     "geom:area": 0,
-    "geom:bbox": "-3.046155,53.276574,-3.046155,53.276574",
-    "geom:latitude": 53.276574,
-    "geom:longitude": -3.046155,
+    "geom:bbox": "-3.046314,53.276363,-3.046314,53.276363",
+    "geom:latitude": 53.276363,
+    "geom:longitude": -3.046314,
     "gp:parent_id": "29775",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698537, 
+      85633159, 
       1360698923, 
       404452779, 
       101871965, 
-      404227469, 
-      1360698537, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701271,
-    "wof:geomhash": "3f3ccdf3ff0241728271e9b7f88940df",
+    "wof:geomhash": "3ef227508aefa3898b36f4cd6065d437",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454125431,
-    "wof:lastmodified": 1583786421,
+    "wof:lastmodified": 1609872311,
     "wof:name": "CH64 4BE",
     "wof:parent_id": 404452779,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.046155, 
-    53.276574, 
-    -3.046155, 
-    53.276574
+    -3.046314, 
+    53.276363, 
+    -3.046314, 
+    53.276363
   ],
-  "geometry": {"coordinates":[-3.046155,53.276574],"type":"Point"}
+  "geometry": {"coordinates":[-3.046314,53.276363],"type":"Point"}
 }

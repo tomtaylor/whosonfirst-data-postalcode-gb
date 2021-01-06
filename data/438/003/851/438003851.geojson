@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.074778,52.298110,-2.074778,52.298110",
-    "geom:latitude": 52.29811,
-    "geom:longitude": -2.074778,
+    "geom:bbox": "-2.074528,52.297921,-2.074528,52.297921",
+    "geom:latitude": 52.297921,
+    "geom:longitude": -2.074528,
     "gp:parent_id": "36246",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360754499, 
       404227469, 
       1360698613, 
       85633159, 
       1360699043, 
-      404449991
+      404449991, 
+      1360754499
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701065,
-    "wof:geomhash": "c8fd3b08fb70a31b2953a9ba19a66b75",
+    "wof:geomhash": "f2b4ec98c2f2b207104abac057af7e22",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438003851,
-    "wof:lastmodified": 1583786240,
+    "wof:lastmodified": 1609868648,
     "wof:name": "B60 4AD",
     "wof:parent_id": 404449991,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.074778, 
-    52.29811, 
-    -2.074778, 
-    52.29811
+    -2.074528, 
+    52.297921, 
+    -2.074528, 
+    52.297921
   ],
-  "geometry": {"coordinates":[-2.074778,52.29811],"type":"Point"}
+  "geometry": {"coordinates":[-2.074528,52.297921],"type":"Point"}
 }

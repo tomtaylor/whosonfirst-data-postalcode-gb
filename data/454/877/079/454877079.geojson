@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.282395,52.318338,1.282395,52.318338",
-    "geom:latitude": 52.318338,
-    "geom:longitude": 1.282395,
+    "geom:bbox": "1.282452,52.318330,1.282452,52.318330",
+    "geom:latitude": 52.31833,
+    "geom:longitude": 1.282452,
     "gp:parent_id": "36405",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698595, 
-      85633159, 
       1360699041, 
       404432979, 
       1125844277, 
-      404227469
+      404227469, 
+      1360698595, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701744,
-    "wof:geomhash": "82dd78fbc0b6b0cfce18de6628bfb50b",
+    "wof:geomhash": "5ea7bb3a3bcb02d7ddcaed68d4aec401",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454877079,
-    "wof:lastmodified": 1583786874,
+    "wof:lastmodified": 1609904053,
     "wof:name": "IP21 5HY",
     "wof:parent_id": 404432979,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.282395, 
-    52.318338, 
-    1.282395, 
-    52.318338
+    1.282452, 
+    52.31833, 
+    1.282452, 
+    52.31833
   ],
-  "geometry": {"coordinates":[1.282395,52.318338],"type":"Point"}
+  "geometry": {"coordinates":[1.282452,52.31833],"type":"Point"}
 }

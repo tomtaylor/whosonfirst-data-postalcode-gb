@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.553919,54.622502,-3.553919,54.622502",
-    "geom:latitude": 54.622502,
-    "geom:longitude": -3.553919,
+    "geom:bbox": "-3.553715,54.623260,-3.553715,54.623260",
+    "geom:latitude": 54.62326,
+    "geom:longitude": -3.553715,
     "gp:parent_id": "33912",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698877, 
       404433473, 
       101872353, 
       404227469, 
       1360698721, 
-      85633159
+      85633159, 
+      1360698877
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701106,
-    "wof:geomhash": "545dc2a36328d4b61e4948f78dad376f",
+    "wof:geomhash": "b781203cc38baee158c397d11c4cd48d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454058637,
-    "wof:lastmodified": 1583786245,
+    "wof:lastmodified": 1609869143,
     "wof:name": "CA14 5DX",
     "wof:parent_id": 404433473,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.553919, 
-    54.622502, 
-    -3.553919, 
-    54.622502
+    -3.553715, 
+    54.62326, 
+    -3.553715, 
+    54.62326
   ],
-  "geometry": {"coordinates":[-3.553919,54.622502],"type":"Point"}
+  "geometry": {"coordinates":[-3.553715,54.62326],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-06-01",
     "geom:area": 0,
-    "geom:bbox": "0.525215,51.349766,0.525215,51.349766",
-    "geom:latitude": 51.349766,
-    "geom:longitude": 0.525215,
+    "geom:bbox": "0.524992,51.349636,0.524992,51.349636",
+    "geom:latitude": 51.349636,
+    "geom:longitude": 0.524992,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      101750327, 
-      404227469, 
       1360698565, 
       85633159, 
       1360699105, 
-      1360817083
+      1360817083, 
+      101750327, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583796486,
-    "wof:geomhash": "9edef26e592f25ca87befa33efc0186d",
+    "wof:geomhash": "6e054947139276883073fef262277ea1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712627961,
-    "wof:lastmodified": 1595711660,
+    "wof:lastmodified": 1609871865,
     "wof:name": "ME5 0FB",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.525215, 
-    51.349766, 
-    0.525215, 
-    51.349766
+    0.524992, 
+    51.349636, 
+    0.524992, 
+    51.349636
   ],
-  "geometry": {"coordinates":[0.525215,51.349766],"type":"Point"}
+  "geometry": {"coordinates":[0.524992,51.349636],"type":"Point"}
 }

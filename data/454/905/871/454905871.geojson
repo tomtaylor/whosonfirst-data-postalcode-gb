@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2001-06-01",
     "geom:area": 0,
-    "geom:bbox": "-0.416261,51.383921,-0.416261,51.383921",
-    "geom:latitude": 51.383921,
+    "geom:bbox": "-0.416261,51.383912,-0.416261,51.383912",
+    "geom:latitude": 51.383912,
     "geom:longitude": -0.416261,
     "gp:parent_id": "39106",
     "iso:country": "GB",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698887, 
       1360817207, 
       1126060415, 
       404227469, 
-      1360698599
+      1360698599, 
+      85633159, 
+      1360698887
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701748,
-    "wof:geomhash": "cfdad18c78f4a420ff6b8f892f694072",
+    "wof:geomhash": "c0face3ebfa9313304d8772a511c5ac1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454905871,
-    "wof:lastmodified": 1583786882,
+    "wof:lastmodified": 1609904773,
     "wof:name": "KT12 1DZ",
     "wof:parent_id": 404438911,
     "wof:placetype": "postalcode",
@@ -55,9 +55,9 @@
   },
   "bbox": [
     -0.416261, 
-    51.383921, 
+    51.383912, 
     -0.416261, 
-    51.383921
+    51.383912
   ],
-  "geometry": {"coordinates":[-0.416261,51.383921],"type":"Point"}
+  "geometry": {"coordinates":[-0.416261,51.383912],"type":"Point"}
 }

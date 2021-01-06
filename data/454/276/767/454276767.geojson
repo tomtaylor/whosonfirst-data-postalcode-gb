@@ -2,16 +2,16 @@
   "id": 454276767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2017-06-01",
-    "edtf:inception": "1980-01-01",
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-10-01",
     "geom:area": 0,
-    "geom:bbox": "-1.559280,52.392694,-1.559280,52.392694",
-    "geom:latitude": 52.392694,
-    "geom:longitude": -1.55928,
+    "geom:bbox": "-1.565904,52.393624,-1.565904,52.393624",
+    "geom:latitude": 52.393624,
+    "geom:longitude": -1.565904,
     "gp:parent_id": "17044",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E08000026",
@@ -19,11 +19,11 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      1360699115, 
       101750449, 
       404227469, 
       1360698605, 
-      85633159, 
-      1360699115
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701433,
-    "wof:geomhash": "7f6b5b810f04efd60236b6d83473c01d",
+    "wof:geomhash": "d11612bef0aa8ad17901977e4a670403",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454276767,
-    "wof:lastmodified": 1583786567,
+    "wof:lastmodified": 1609881258,
     "wof:name": "CV4 8HG",
     "wof:parent_id": 101750449,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.55928, 
-    52.392694, 
-    -1.55928, 
-    52.392694
+    -1.565904, 
+    52.393624, 
+    -1.565904, 
+    52.393624
   ],
-  "geometry": {"coordinates":[-1.55928,52.392694],"type":"Point"}
+  "geometry": {"coordinates":[-1.565904,52.393624],"type":"Point"}
 }

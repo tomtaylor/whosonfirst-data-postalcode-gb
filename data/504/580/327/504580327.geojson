@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.750585,51.730290,-3.750585,51.730290",
-    "geom:latitude": 51.73029,
-    "geom:longitude": -3.750585,
+    "geom:bbox": "-3.750543,51.730314,-3.750543,51.730314",
+    "geom:latitude": 51.730314,
+    "geom:longitude": -3.750543,
     "gp:parent_id": "17574",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698629, 
-      85633159, 
       1360698825, 
       404449415, 
       1125863047, 
-      404227475
+      404227475, 
+      1360698629, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701451,
-    "wof:geomhash": "9f13b2766217ddfd91bbe21ead2fe4b9",
+    "wof:geomhash": "9fd06aa35e146f078c723e91c77e4862",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504580327,
-    "wof:lastmodified": 1583786595,
+    "wof:lastmodified": 1609880503,
     "wof:name": "SA10 8RL",
     "wof:parent_id": 404449415,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.750585, 
-    51.73029, 
-    -3.750585, 
-    51.73029
+    -3.750543, 
+    51.730314, 
+    -3.750543, 
+    51.730314
   ],
-  "geometry": {"coordinates":[-3.750585,51.73029],"type":"Point"}
+  "geometry": {"coordinates":[-3.750543,51.730314],"type":"Point"}
 }

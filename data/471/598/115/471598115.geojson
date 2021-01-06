@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.304192,51.185631,-0.304192,51.185631",
-    "geom:latitude": 51.185631,
-    "geom:longitude": -0.304192,
+    "geom:bbox": "-0.305466,51.186482,-0.305466,51.186482",
+    "geom:latitude": 51.186482,
+    "geom:longitude": -0.305466,
     "gp:parent_id": "12157",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698887, 
-      404444777, 
-      1125800007, 
       404227469, 
       1360698599, 
-      85633159
+      85633159, 
+      1360698887, 
+      404444777, 
+      1125800007
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701678,
-    "wof:geomhash": "5e4392ef63f5ceaecc2249b11e2f33c3",
+    "wof:geomhash": "791a83ee46dd173e57dd78970eac6d46",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471598115,
-    "wof:lastmodified": 1583786831,
+    "wof:lastmodified": 1609897993,
     "wof:name": "RH5 4RP",
     "wof:parent_id": 404444777,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.304192, 
-    51.185631, 
-    -0.304192, 
-    51.185631
+    -0.305466, 
+    51.186482, 
+    -0.305466, 
+    51.186482
   ],
-  "geometry": {"coordinates":[-0.304192,51.185631],"type":"Point"}
+  "geometry": {"coordinates":[-0.305466,51.186482],"type":"Point"}
 }

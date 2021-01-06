@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1992-08-01",
     "geom:area": 0,
-    "geom:bbox": "-2.135392,52.578896,-2.135392,52.578896",
-    "geom:latitude": 52.578896,
+    "geom:bbox": "-2.135392,52.578869,-2.135392,52.578869",
+    "geom:latitude": 52.578869,
     "geom:longitude": -2.135392,
     "gp:parent_id": "40859",
     "iso:country": "GB",
@@ -19,11 +19,11 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698605, 
       85633159, 
       1360698737, 
-      1126027181
+      1126027181, 
+      404227469, 
+      1360698605
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701133,
-    "wof:geomhash": "9caa0c6b0097ccc4ffd95186eda81ac3",
+    "wof:geomhash": "24b60ca978dd87dadfaca1b94afcb4b3",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488215461,
-    "wof:lastmodified": 1583786385,
+    "wof:lastmodified": 1609880707,
     "wof:name": "WV3 0JF",
     "wof:parent_id": 101914031,
     "wof:placetype": "postalcode",
@@ -53,9 +53,9 @@
   },
   "bbox": [
     -2.135392, 
-    52.578896, 
+    52.578869, 
     -2.135392, 
-    52.578896
+    52.578869
   ],
-  "geometry": {"coordinates":[-2.135392,52.578896],"type":"Point"}
+  "geometry": {"coordinates":[-2.135392,52.578869],"type":"Point"}
 }

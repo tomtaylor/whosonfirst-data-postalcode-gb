@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.098078,51.587062,-0.098078,51.587062",
-    "geom:latitude": 51.587062,
-    "geom:longitude": -0.098078,
+    "geom:bbox": "-0.098022,51.587091,-0.098022,51.587091",
+    "geom:latitude": 51.587091,
+    "geom:longitude": -0.098022,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      1158857279, 
       85633159, 
       101750367, 
       404227469, 
       85860347, 
-      1360698645
+      1360698645, 
+      1158857279
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701067,
-    "wof:geomhash": "e7c3439c6f3c503ba45ebce3e7cd57c6",
+    "wof:geomhash": "326775bd62dee969e47e6aa693f29c19",
     "wof:hierarchy": [
       {
         "borough_id": 1158857279,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471004345,
-    "wof:lastmodified": 1583786181,
+    "wof:lastmodified": 1609868709,
     "wof:name": "N15 3PL",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.098078, 
-    51.587062, 
-    -0.098078, 
-    51.587062
+    -0.098022, 
+    51.587091, 
+    -0.098022, 
+    51.587091
   ],
-  "geometry": {"coordinates":[-0.098078,51.587062],"type":"Point"}
+  "geometry": {"coordinates":[-0.098022,51.587091],"type":"Point"}
 }

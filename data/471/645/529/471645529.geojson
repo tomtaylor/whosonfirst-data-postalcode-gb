@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.460843,53.395237,-1.460843,53.395237",
-    "geom:latitude": 53.395237,
+    "geom:bbox": "-1.460843,53.395273,-1.460843,53.395273",
+    "geom:latitude": 53.395273,
     "geom:longitude": -1.460843,
     "gp:parent_id": "34503",
     "iso:country": "GB",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699075, 
-      101750529, 
-      404227469, 
       85785403, 
       1360698591, 
-      85633159
+      85633159, 
+      1360699075, 
+      101750529, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701689,
-    "wof:geomhash": "938edcabf19d134054eb7d671dc55f5a",
+    "wof:geomhash": "8d1fedbd0d3c219e9c31f3132b9c7638",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471645529,
-    "wof:lastmodified": 1583786859,
+    "wof:lastmodified": 1609900209,
     "wof:name": "S4 7HL",
     "wof:parent_id": 101750529,
     "wof:placetype": "postalcode",
@@ -55,9 +55,9 @@
   },
   "bbox": [
     -1.460843, 
-    53.395237, 
+    53.395273, 
     -1.460843, 
-    53.395237
+    53.395273
   ],
-  "geometry": {"coordinates":[-1.460843,53.395237],"type":"Point"}
+  "geometry": {"coordinates":[-1.460843,53.395273],"type":"Point"}
 }

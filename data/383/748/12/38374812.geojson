@@ -18,11 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698991, 
-      101751623, 
+      1729579503, 
       404227469, 
       1360698537, 
-      85633159
+      85633159, 
+      1360698991, 
+      1729579505
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -32,13 +33,14 @@
       {
         "country_id": 85633159,
         "county_id": 1360698991,
-        "locality_id": 101751623,
+        "localadmin_id": 1729579505,
+        "locality_id": 1729579503,
         "macroregion_id": 404227469,
         "region_id": 1360698537
       }
     ],
     "wof:id": 38374812,
-    "wof:lastmodified": 1583789651,
+    "wof:lastmodified": 1609868495,
     "wof:name": "WA7 9DJ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

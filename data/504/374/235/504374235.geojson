@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.432039,55.930654,-3.432039,55.930654",
-    "geom:latitude": 55.930654,
-    "geom:longitude": -3.432039,
+    "geom:bbox": "-3.444090,55.928887,-3.444090,55.928887",
+    "geom:latitude": 55.928887,
+    "geom:longitude": -3.44409,
     "gp:parent_id": "12696212",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698679, 
       85633159, 
       1360699027, 
       404447005, 
-      404227471
+      404227471, 
+      1360698679
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701085,
-    "wof:geomhash": "161215a78c434c083a82112a5f6ffe6b",
+    "wof:geomhash": "bb537e1476629edb8de66f91c69fe55d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504374235,
-    "wof:lastmodified": 1583786175,
+    "wof:lastmodified": 1609868807,
     "wof:name": "EH52 5PB",
     "wof:parent_id": 404447005,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.432039, 
-    55.930654, 
-    -3.432039, 
-    55.930654
+    -3.44409, 
+    55.928887, 
+    -3.44409, 
+    55.928887
   ],
-  "geometry": {"coordinates":[-3.432039,55.930654],"type":"Point"}
+  "geometry": {"coordinates":[-3.44409,55.928887],"type":"Point"}
 }

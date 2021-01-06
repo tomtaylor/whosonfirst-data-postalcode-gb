@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "0.248033,50.827965,0.248033,50.827965",
-    "geom:latitude": 50.827965,
-    "geom:longitude": 0.248033,
+    "geom:bbox": "0.248073,50.827910,0.248073,50.827910",
+    "geom:latitude": 50.82791,
+    "geom:longitude": 0.248073,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698815, 
       404447727, 
       1125959435, 
       404227469, 
-      1360698549
+      1360698549, 
+      85633159, 
+      1360698815
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735742,
-    "wof:geomhash": "d316e073e470695559b98ea2568cc8ee",
+    "wof:geomhash": "a891d24f28f313415e4f60091b92d62b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1713333269,
-    "wof:lastmodified": 1595753615,
+    "wof:lastmodified": 1609875653,
     "wof:name": "BN26 6GL",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.248033, 
-    50.827965, 
-    0.248033, 
-    50.827965
+    0.248073, 
+    50.82791, 
+    0.248073, 
+    50.82791
   ],
-  "geometry": {"coordinates":[0.248033,50.827965],"type":"Point"}
+  "geometry": {"coordinates":[0.248073,50.82791],"type":"Point"}
 }

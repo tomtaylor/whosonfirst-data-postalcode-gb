@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1992-08-01",
     "geom:area": 0,
-    "geom:bbox": "-1.398935,52.915078,-1.398935,52.915078",
-    "geom:latitude": 52.915078,
-    "geom:longitude": -1.398935,
+    "geom:bbox": "-1.398931,52.915088,-1.398931,52.915088",
+    "geom:latitude": 52.915088,
+    "geom:longitude": -1.398931,
     "gp:parent_id": "35512",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698539, 
-      85633159, 
       1360699093, 
       101750489, 
-      404227469
+      404227469, 
+      1360698539, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701500,
-    "wof:geomhash": "2722cfb8f6e92c1a93d130c24e97eb08",
+    "wof:geomhash": "4233b97c0ce00687a2339049a79f73e2",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454339311,
-    "wof:lastmodified": 1583786627,
+    "wof:lastmodified": 1609884156,
     "wof:name": "DE21 7PS",
     "wof:parent_id": 404435553,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.398935, 
-    52.915078, 
-    -1.398935, 
-    52.915078
+    -1.398931, 
+    52.915088, 
+    -1.398931, 
+    52.915088
   ],
-  "geometry": {"coordinates":[-1.398935,52.915078],"type":"Point"}
+  "geometry": {"coordinates":[-1.398931,52.915088],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-11-01",
     "geom:area": 0,
-    "geom:bbox": "-3.174491,53.365333,-3.174491,53.365333",
-    "geom:latitude": 53.365333,
-    "geom:longitude": -3.174491,
+    "geom:bbox": "-3.174598,53.365422,-3.174598,53.365422",
+    "geom:latitude": 53.365422,
+    "geom:longitude": -3.174598,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699049, 
-      101750549, 
       404227469, 
       1360698573, 
-      85633159
+      85633159, 
+      1360699049, 
+      101750549
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583793271,
-    "wof:geomhash": "d250b70637027b902667ae1c36b887c9",
+    "wof:geomhash": "15e2d5fb27f02751cc1a04808fc6d1d4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 38695491,
-    "wof:lastmodified": 1583793271,
+    "wof:lastmodified": 1609868579,
     "wof:name": "CH48 2AA",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.174491, 
-    53.365333, 
-    -3.174491, 
-    53.365333
+    -3.174598, 
+    53.365422, 
+    -3.174598, 
+    53.365422
   ],
-  "geometry": {"coordinates":[-3.174491,53.365333],"type":"Point"}
+  "geometry": {"coordinates":[-3.174598,53.365422],"type":"Point"}
 }

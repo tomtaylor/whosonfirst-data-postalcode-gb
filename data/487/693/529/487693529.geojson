@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.189797,52.944202,-2.189797,52.944202",
-    "geom:latitude": 52.944202,
-    "geom:longitude": -2.189797,
+    "geom:bbox": "-2.189782,52.944149,-2.189782,52.944149",
+    "geom:latitude": 52.944149,
+    "geom:longitude": -2.189782,
     "gp:parent_id": "37675",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1126013901, 
-      404227469, 
       1360698593, 
       85633159, 
       1360698947, 
-      404437303
+      404437303, 
+      1126013901, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701125,
-    "wof:geomhash": "ce36ae125fda3479b696c8897f123237",
+    "wof:geomhash": "2cc9fc55671dc4beefe71025f0b356c1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487693529,
-    "wof:lastmodified": 1583786219,
+    "wof:lastmodified": 1609873378,
     "wof:name": "ST12 9JJ",
     "wof:parent_id": 404437303,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.189797, 
-    52.944202, 
-    -2.189797, 
-    52.944202
+    -2.189782, 
+    52.944149, 
+    -2.189782, 
+    52.944149
   ],
-  "geometry": {"coordinates":[-2.189797,52.944202],"type":"Point"}
+  "geometry": {"coordinates":[-2.189782,52.944149],"type":"Point"}
 }

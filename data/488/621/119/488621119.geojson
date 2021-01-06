@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.208104,55.949857,-3.208104,55.949857",
-    "geom:latitude": 55.949857,
-    "geom:longitude": -3.208104,
+    "geom:bbox": "-3.207786,55.949914,-3.207786,55.949914",
+    "geom:latitude": 55.949914,
+    "geom:longitude": -3.207786,
     "gp:parent_id": "12696195",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404437279, 
       101750629, 
       404227471, 
       85861509, 
       1360698673, 
       85633159, 
-      1360698761
+      1360698761, 
+      404437279
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701622,
-    "wof:geomhash": "3166e53d70dd9db3f7be5ceed88ac83a",
+    "wof:geomhash": "698b9ff603d95ac423398296eb524928",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 488621119,
-    "wof:lastmodified": 1595735296,
+    "wof:lastmodified": 1609898929,
     "wof:name": "EH1 2AD",
     "wof:parent_id": 101750629,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.208104, 
-    55.949857, 
-    -3.208104, 
-    55.949857
+    -3.207786, 
+    55.949914, 
+    -3.207786, 
+    55.949914
   ],
-  "geometry": {"coordinates":[-3.208104,55.949857],"type":"Point"}
+  "geometry": {"coordinates":[-3.207786,55.949914],"type":"Point"}
 }

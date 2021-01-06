@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1994-05-01",
     "geom:area": 0,
-    "geom:bbox": "-0.675666,52.223612,-0.675666,52.223612",
-    "geom:latitude": 52.223612,
-    "geom:longitude": -0.675666,
+    "geom:bbox": "-0.675621,52.223180,-0.675621,52.223180",
+    "geom:latitude": 52.22318,
+    "geom:longitude": -0.675621,
     "gp:parent_id": "13480",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      404437341, 
       1125956839, 
       404227469, 
       1360698577, 
       85633159, 
-      1360698755, 
-      404437341
+      1360698755
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701379,
-    "wof:geomhash": "ca9ff2940186699f9fb45c847fe70df8",
+    "wof:geomhash": "8beeb6d9150cce71edd71bfb07ef9a71",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471181569,
-    "wof:lastmodified": 1583786528,
+    "wof:lastmodified": 1609878774,
     "wof:name": "NN29 7NY",
     "wof:parent_id": 404437341,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.675666, 
-    52.223612, 
-    -0.675666, 
-    52.223612
+    -0.675621, 
+    52.22318, 
+    -0.675621, 
+    52.22318
   ],
-  "geometry": {"coordinates":[-0.675666,52.223612],"type":"Point"}
+  "geometry": {"coordinates":[-0.675621,52.22318],"type":"Point"}
 }

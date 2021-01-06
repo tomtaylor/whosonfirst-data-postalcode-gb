@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1992-08-01",
     "geom:area": 0,
-    "geom:bbox": "-1.495809,52.944070,-1.495809,52.944070",
-    "geom:latitude": 52.94407,
-    "geom:longitude": -1.495809,
+    "geom:bbox": "-1.495883,52.944151,-1.495883,52.944151",
+    "geom:latitude": 52.944151,
+    "geom:longitude": -1.495883,
     "gp:parent_id": "18114",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360699093, 
       101750489, 
       404227469, 
-      1360698539, 
-      85633159
+      1360698539
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701498,
-    "wof:geomhash": "b0396fe8ac8fa10dbb4bef6b37ca1acb",
+    "wof:geomhash": "17cb456436d9b517b71e2410c5175d81",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454340323,
-    "wof:lastmodified": 1583786629,
+    "wof:lastmodified": 1609884285,
     "wof:name": "DE22 2QN",
     "wof:parent_id": 101750489,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.495809, 
-    52.94407, 
-    -1.495809, 
-    52.94407
+    -1.495883, 
+    52.944151, 
+    -1.495883, 
+    52.944151
   ],
-  "geometry": {"coordinates":[-1.495809,52.94407],"type":"Point"}
+  "geometry": {"coordinates":[-1.495883,52.944151],"type":"Point"}
 }

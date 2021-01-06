@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.986143,52.008929,0.986143,52.008929",
-    "geom:latitude": 52.008929,
-    "geom:longitude": 0.986143,
+    "geom:bbox": "0.986053,52.008887,0.986053,52.008887",
+    "geom:latitude": 52.008887,
+    "geom:longitude": 0.986053,
     "gp:parent_id": "32988",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699041, 
-      404445139, 
-      1243096147, 
       404227469, 
       1360698595, 
-      85633159
+      85633159, 
+      1360699041, 
+      404445139, 
+      1243096147
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701742,
-    "wof:geomhash": "5550f038cc114d38171d6f4380302a3f",
+    "wof:geomhash": "66237f9d00b616c9b14df8674e0e0951",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454898395,
-    "wof:lastmodified": 1595717619,
+    "wof:lastmodified": 1609904606,
     "wof:name": "IP7 5LL",
     "wof:parent_id": 404445139,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.986143, 
-    52.008929, 
-    0.986143, 
-    52.008929
+    0.986053, 
+    52.008887, 
+    0.986053, 
+    52.008887
   ],
-  "geometry": {"coordinates":[0.986143,52.008929],"type":"Point"}
+  "geometry": {"coordinates":[0.986053,52.008887],"type":"Point"}
 }

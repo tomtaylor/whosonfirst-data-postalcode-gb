@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.659731,51.200251,-1.659731,51.200251",
+    "geom:bbox": "-1.659616,51.200251,-1.659616,51.200251",
     "geom:latitude": 51.200251,
-    "geom:longitude": -1.659731,
+    "geom:longitude": -1.659616,
     "gp:parent_id": "37572",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698557, 
+      85633159, 
       1360698827, 
       404451529, 
       1125788857, 
-      404227469, 
-      1360698557, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701104,
-    "wof:geomhash": "36683c9f6c3c875f6ed70ee81494b62a",
+    "wof:geomhash": "f0a9633aa9c73a28fb4b8f86ffd58738",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487648249,
-    "wof:lastmodified": 1583786198,
+    "wof:lastmodified": 1609870605,
     "wof:name": "SP9 7YA",
     "wof:parent_id": 404451529,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.659731, 
+    -1.659616, 
     51.200251, 
-    -1.659731, 
+    -1.659616, 
     51.200251
   ],
-  "geometry": {"coordinates":[-1.659731,51.200251],"type":"Point"}
+  "geometry": {"coordinates":[-1.659616,51.200251],"type":"Point"}
 }

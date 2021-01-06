@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1992-08-01",
     "geom:area": 0,
-    "geom:bbox": "-1.459444,53.416714,-1.459444,53.416714",
-    "geom:latitude": 53.416714,
-    "geom:longitude": -1.459444,
+    "geom:bbox": "-1.459413,53.416731,-1.459413,53.416731",
+    "geom:latitude": 53.416731,
+    "geom:longitude": -1.459413,
     "gp:parent_id": "34503",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      85793127, 
       1360698591, 
       85633159, 
       1360699075, 
-      101750529
+      101750529, 
+      404227469, 
+      85793127
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701680,
-    "wof:geomhash": "d68588ceca36fb88ba34a116dffae924",
+    "wof:geomhash": "ef1d5727b9201cc6a94b23e359a59912",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471657559,
-    "wof:lastmodified": 1583786870,
+    "wof:lastmodified": 1609900335,
     "wof:name": "S5 7JS",
     "wof:parent_id": 101750529,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.459444, 
-    53.416714, 
-    -1.459444, 
-    53.416714
+    -1.459413, 
+    53.416731, 
+    -1.459413, 
+    53.416731
   ],
-  "geometry": {"coordinates":[-1.459444,53.416714],"type":"Point"}
+  "geometry": {"coordinates":[-1.459413,53.416731],"type":"Point"}
 }

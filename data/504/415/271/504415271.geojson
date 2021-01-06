@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.111470,55.854006,-4.111470,55.854006",
-    "geom:latitude": 55.854006,
-    "geom:longitude": -4.11147,
+    "geom:bbox": "-4.111259,55.853938,-4.111259,55.853938",
+    "geom:latitude": 55.853938,
+    "geom:longitude": -4.111259,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,13 +18,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1175612707, 
+      404227471, 
+      85792557, 
       1360698707, 
       85633159, 
       1360698797, 
-      404430153, 
-      1175612707, 
-      404227471, 
-      85792557
+      404430153
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701191,
-    "wof:geomhash": "2f481aa073c1fda1a9673e832314cd85",
+    "wof:geomhash": "c3babba4e957906093cb899305bbf786",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 504415271,
-    "wof:lastmodified": 1583786299,
+    "wof:lastmodified": 1609870150,
     "wof:name": "G69 6DJ",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -55,10 +55,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.11147, 
-    55.854006, 
-    -4.11147, 
-    55.854006
+    -4.111259, 
+    55.853938, 
+    -4.111259, 
+    55.853938
   ],
-  "geometry": {"coordinates":[-4.11147,55.854006],"type":"Point"}
+  "geometry": {"coordinates":[-4.111259,55.853938],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.334977,51.910842,-2.334977,51.910842",
-    "geom:latitude": 51.910842,
-    "geom:longitude": -2.334977,
+    "geom:bbox": "-2.334963,51.910860,-2.334963,51.910860",
+    "geom:latitude": 51.91086,
+    "geom:longitude": -2.334963,
     "gp:parent_id": "23410",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698927, 
+      404452313, 
       1360757999, 
       404227469, 
       1360698553, 
-      85633159, 
-      1360698927, 
-      404452313
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701674,
-    "wof:geomhash": "dc8c61b86daa4fbcc93930173fb01f9a",
+    "wof:geomhash": "c01c70785abde56679295f940f98a33a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454636219,
-    "wof:lastmodified": 1583786808,
+    "wof:lastmodified": 1609897807,
     "wof:name": "GL18 1HH",
     "wof:parent_id": 404452313,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.334977, 
-    51.910842, 
-    -2.334977, 
-    51.910842
+    -2.334963, 
+    51.91086, 
+    -2.334963, 
+    51.91086
   ],
-  "geometry": {"coordinates":[-2.334977,51.910842],"type":"Point"}
+  "geometry": {"coordinates":[-2.334963,51.91086],"type":"Point"}
 }

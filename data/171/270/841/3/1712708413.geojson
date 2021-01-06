@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.807402,53.420407,-2.807402,53.420407",
-    "geom:latitude": 53.420407,
-    "geom:longitude": -2.807402,
+    "geom:bbox": "-2.807298,53.420462,-2.807298,53.420462",
+    "geom:latitude": 53.420462,
+    "geom:longitude": -2.807298,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,18 +18,18 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1125825899, 
-      404227469, 
       85788399, 
       1360698573, 
       85633159, 
       1360698941, 
-      404442249
+      404442249, 
+      1125825899, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583800058,
-    "wof:geomhash": "8bb882612fafa8fed87ae30d9226031b",
+    "wof:geomhash": "eeda7a8c2a4f6b84df5a112fba840d18",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 1712708413,
-    "wof:lastmodified": 1595711429,
+    "wof:lastmodified": 1609872925,
     "wof:name": "L34 1AP",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.807402, 
-    53.420407, 
-    -2.807402, 
-    53.420407
+    -2.807298, 
+    53.420462, 
+    -2.807298, 
+    53.420462
   ],
-  "geometry": {"coordinates":[-2.807402,53.420407],"type":"Point"}
+  "geometry": {"coordinates":[-2.807298,53.420462],"type":"Point"}
 }

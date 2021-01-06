@@ -5,30 +5,30 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "-0.083247,51.633557,-0.083247,51.633557",
-    "geom:latitude": 51.633557,
-    "geom:longitude": -0.083247,
+    "geom:bbox": "-0.107135,51.630726,-0.107135,51.630726",
+    "geom:latitude": 51.630726,
+    "geom:longitude": -0.107135,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E09000010",
-    "os:positional_quality_indicator": "5",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      1158857281, 
-      85633159, 
       101750367, 
       404227469, 
       85791685, 
-      1360698645
+      1360698645, 
+      1158857281, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735556,
-    "wof:geomhash": "84218ddecb49f90188dfcd79fcccd295",
+    "wof:geomhash": "cbd94b4273bdde6194d637748a9e8ec4",
     "wof:hierarchy": [
       {
         "borough_id": 1158857281,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1713329155,
-    "wof:lastmodified": 1595753394,
+    "wof:lastmodified": 1609875370,
     "wof:name": "N21 3EQ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.083247, 
-    51.633557, 
-    -0.083247, 
-    51.633557
+    -0.107135, 
+    51.630726, 
+    -0.107135, 
+    51.630726
   ],
-  "geometry": {"coordinates":[-0.083247,51.633557],"type":"Point"}
+  "geometry": {"coordinates":[-0.107135,51.630726],"type":"Point"}
 }

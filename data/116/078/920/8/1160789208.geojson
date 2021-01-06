@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-11-01",
     "geom:area": 0,
-    "geom:bbox": "-2.603597,52.755612,-2.603597,52.755612",
-    "geom:latitude": 52.755612,
-    "geom:longitude": -2.603597,
+    "geom:bbox": "-2.603523,52.755604,-2.603523,52.755604",
+    "geom:latitude": 52.755604,
+    "geom:longitude": -2.603523,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698587, 
       85633159, 
       1360698911, 
       404448131, 
-      1360756389
+      1360756389, 
+      404227469, 
+      1360698587
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583790042,
-    "wof:geomhash": "cf8dd3c86d5c65d4cdf49dfd8261448a",
+    "wof:geomhash": "01ff859e158829c22adcc45e1d26a2d3",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160789208,
-    "wof:lastmodified": 1595710873,
+    "wof:lastmodified": 1609869923,
     "wof:name": "TF6 6FA",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.603597, 
-    52.755612, 
-    -2.603597, 
-    52.755612
+    -2.603523, 
+    52.755604, 
+    -2.603523, 
+    52.755604
   ],
-  "geometry": {"coordinates":[-2.603597,52.755612],"type":"Point"}
+  "geometry": {"coordinates":[-2.603523,52.755604],"type":"Point"}
 }

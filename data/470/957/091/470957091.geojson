@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1983-07-01",
     "geom:area": 0,
-    "geom:bbox": "0.577984,51.364391,0.577984,51.364391",
-    "geom:latitude": 51.364391,
-    "geom:longitude": 0.577984,
+    "geom:bbox": "0.577957,51.364931,0.577957,51.364931",
+    "geom:latitude": 51.364931,
+    "geom:longitude": 0.577957,
     "gp:parent_id": "13755",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      101750327, 
+      404227469, 
       1360698565, 
       85633159, 
       1360699105, 
-      1360817083, 
-      101750327, 
-      404227469
+      1360817083
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701335,
-    "wof:geomhash": "2eecb1c3942ab190c6a5741ca2aac36f",
+    "wof:geomhash": "4ac36a10cb26e199e6645f2c8b900f00",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470957091,
-    "wof:lastmodified": 1583786471,
+    "wof:lastmodified": 1609876858,
     "wof:name": "ME8 0PY",
     "wof:parent_id": 101750329,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.577984, 
-    51.364391, 
-    0.577984, 
-    51.364391
+    0.577957, 
+    51.364931, 
+    0.577957, 
+    51.364931
   ],
-  "geometry": {"coordinates":[0.577984,51.364391],"type":"Point"}
+  "geometry": {"coordinates":[0.577957,51.364931],"type":"Point"}
 }

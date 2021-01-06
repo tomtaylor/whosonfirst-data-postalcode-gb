@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1997-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.301333,53.359365,-1.301333,53.359365",
-    "geom:latitude": 53.359365,
-    "geom:longitude": -1.301333,
+    "geom:bbox": "-1.301425,53.359276,-1.301425,53.359276",
+    "geom:latitude": 53.359276,
+    "geom:longitude": -1.301425,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,13 +18,13 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      85791779, 
       1360698591, 
       85633159, 
       1360698851, 
       404448701, 
       1360757287, 
-      404227469
+      404227469, 
+      85791779
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701686,
-    "wof:geomhash": "11fff220f7f21111374f8084d9f31622",
+    "wof:geomhash": "1c6568627905eba549f454381d8eb4e5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 471639169,
-    "wof:lastmodified": 1583786855,
+    "wof:lastmodified": 1609899769,
     "wof:name": "S26 2AX",
     "wof:parent_id": 404448701,
     "wof:placetype": "postalcode",
@@ -55,10 +55,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.301333, 
-    53.359365, 
-    -1.301333, 
-    53.359365
+    -1.301425, 
+    53.359276, 
+    -1.301425, 
+    53.359276
   ],
-  "geometry": {"coordinates":[-1.301333,53.359365],"type":"Point"}
+  "geometry": {"coordinates":[-1.301425,53.359276],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.252872,54.981118,-3.252872,54.981118",
-    "geom:latitude": 54.981118,
-    "geom:longitude": -3.252872,
+    "geom:bbox": "-3.252588,54.981031,-3.252588,54.981031",
+    "geom:latitude": 54.981031,
+    "geom:longitude": -3.252588,
     "gp:parent_id": "12696189",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699039, 
-      404444245, 
       404227471, 
       1360698719, 
-      85633159
+      85633159, 
+      1360699039, 
+      404444245
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701423,
-    "wof:geomhash": "28e68d689b63d275cc36d51da60894d2",
+    "wof:geomhash": "7b19da5d8e91661bd8ae48da6119cde7",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488411155,
-    "wof:lastmodified": 1583786631,
+    "wof:lastmodified": 1609890625,
     "wof:name": "DG12 6HF",
     "wof:parent_id": 404444245,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.252872, 
-    54.981118, 
-    -3.252872, 
-    54.981118
+    -3.252588, 
+    54.981031, 
+    -3.252588, 
+    54.981031
   ],
-  "geometry": {"coordinates":[-3.252872,54.981118],"type":"Point"}
+  "geometry": {"coordinates":[-3.252588,54.981031],"type":"Point"}
 }

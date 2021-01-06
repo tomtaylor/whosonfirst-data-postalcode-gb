@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.224779,51.703353,-2.224779,51.703353",
-    "geom:latitude": 51.703353,
-    "geom:longitude": -2.224779,
+    "geom:bbox": "-2.224634,51.703309,-2.224634,51.703309",
+    "geom:latitude": 51.703309,
+    "geom:longitude": -2.224634,
     "gp:parent_id": "10762",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698927, 
-      404436253, 
-      101852885, 
       404227469, 
       1360698553, 
-      85633159
+      85633159, 
+      1360698927, 
+      404436253, 
+      101852885
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701686,
-    "wof:geomhash": "a21ce8e6e4e8cf0b86882c4825e2ccef",
+    "wof:geomhash": "cc99ef7e047f71cb5a4423b1d9030f66",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454648729,
-    "wof:lastmodified": 1583786817,
+    "wof:lastmodified": 1609898420,
     "wof:name": "GL5 5AX",
     "wof:parent_id": 404436253,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.224779, 
-    51.703353, 
-    -2.224779, 
-    51.703353
+    -2.224634, 
+    51.703309, 
+    -2.224634, 
+    51.703309
   ],
-  "geometry": {"coordinates":[-2.224779,51.703353],"type":"Point"}
+  "geometry": {"coordinates":[-2.224634,51.703309],"type":"Point"}
 }

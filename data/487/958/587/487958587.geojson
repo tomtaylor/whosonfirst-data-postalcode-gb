@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1981-09-01",
     "geom:area": 0,
-    "geom:bbox": "-1.431421,54.716321,-1.431421,54.716321",
-    "geom:latitude": 54.716321,
-    "geom:longitude": -1.431421,
+    "geom:bbox": "-1.431649,54.716610,-1.431649,54.716610",
+    "geom:latitude": 54.71661,
+    "geom:longitude": -1.431649,
     "gp:parent_id": "38228",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698621, 
       85633159, 
       1360699055, 
       404454107, 
       101872333, 
-      404227469
+      404227469, 
+      1360698621
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701288,
-    "wof:geomhash": "5bd3fafab3931870cf45574c91f2f819",
+    "wof:geomhash": "d0cf3c7f3cb7dbcc1473c740e391c636",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487958587,
-    "wof:lastmodified": 1583786354,
+    "wof:lastmodified": 1609888740,
     "wof:name": "TS29 6PA",
     "wof:parent_id": 404454107,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.431421, 
-    54.716321, 
-    -1.431421, 
-    54.716321
+    -1.431649, 
+    54.71661, 
+    -1.431649, 
+    54.71661
   ],
-  "geometry": {"coordinates":[-1.431421,54.716321],"type":"Point"}
+  "geometry": {"coordinates":[-1.431649,54.71661],"type":"Point"}
 }

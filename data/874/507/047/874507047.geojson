@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2015-09-01",
     "geom:area": 0,
-    "geom:bbox": "-5.483548,55.796877,-5.483548,55.796877",
-    "geom:latitude": 55.796877,
-    "geom:longitude": -5.483548,
+    "geom:bbox": "-5.484248,55.797198,-5.484248,55.797198",
+    "geom:latitude": 55.797198,
+    "geom:longitude": -5.484248,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698863, 
-      404439789, 
       404227471, 
       1360698695, 
-      85633159
+      85633159, 
+      1360698863, 
+      404439789
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468893076,
-    "wof:geomhash": "ccb99db5d84190fd9f2d95a5ca6fc823",
+    "wof:geomhash": "2ef79bbff1ef2ae84fd85e35f78a31bd",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 874507047,
-    "wof:lastmodified": 1595728827,
+    "wof:lastmodified": 1609872681,
     "wof:name": "PA29 6WX",
     "wof:parent_id": 404439789,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -5.483548, 
-    55.796877, 
-    -5.483548, 
-    55.796877
+    -5.484248, 
+    55.797198, 
+    -5.484248, 
+    55.797198
   ],
-  "geometry": {"coordinates":[-5.483548,55.796877],"type":"Point"}
+  "geometry": {"coordinates":[-5.484248,55.797198],"type":"Point"}
 }

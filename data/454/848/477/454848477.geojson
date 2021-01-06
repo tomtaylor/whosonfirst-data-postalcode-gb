@@ -6,9 +6,9 @@
     "edtf:inception": "1999-06-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "0.076410,51.540959,0.076410,51.540959",
-    "geom:latitude": 51.540959,
-    "geom:longitude": 0.07641,
+    "geom:bbox": "0.076164,51.540927,0.076164,51.540927",
+    "geom:latitude": 51.540927,
+    "geom:longitude": 0.076164,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698645, 
+      1158857319, 
       85633159, 
       101750367, 
       404227469, 
-      85860275, 
-      1360698645, 
-      1158857319
+      85860275
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701733,
-    "wof:geomhash": "3c6cf677d3ce141a44ccc331478b645a",
+    "wof:geomhash": "088736dccd309a3168288316c25ad61e",
     "wof:hierarchy": [
       {
         "borough_id": 1158857319,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454848477,
-    "wof:lastmodified": 1595717412,
+    "wof:lastmodified": 1609903639,
     "wof:name": "IG11 8GD",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.07641, 
-    51.540959, 
-    0.07641, 
-    51.540959
+    0.076164, 
+    51.540927, 
+    0.076164, 
+    51.540927
   ],
-  "geometry": {"coordinates":[0.07641,51.540959],"type":"Point"}
+  "geometry": {"coordinates":[0.076164,51.540927],"type":"Point"}
 }

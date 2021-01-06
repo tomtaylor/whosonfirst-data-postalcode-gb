@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.783760,56.018581,-4.783760,56.018581",
-    "geom:latitude": 56.018581,
-    "geom:longitude": -4.78376,
+    "geom:bbox": "-4.783373,56.017664,-4.783373,56.017664",
+    "geom:latitude": 56.017664,
+    "geom:longitude": -4.783373,
     "gp:parent_id": "12696185",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227471, 
-      1360698701, 
       85633159, 
       1360698863, 
-      404439789
+      404439789, 
+      404227471, 
+      1360698701
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701238,
-    "wof:geomhash": "1540507060e40b058b55780e6dd0788e",
+    "wof:geomhash": "75e0d0a9a56fce393682a2a66b3e4e9f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504430987,
-    "wof:lastmodified": 1583786356,
+    "wof:lastmodified": 1609870904,
     "wof:name": "G84 8NG",
     "wof:parent_id": 404439789,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.78376, 
-    56.018581, 
-    -4.78376, 
-    56.018581
+    -4.783373, 
+    56.017664, 
+    -4.783373, 
+    56.017664
   ],
-  "geometry": {"coordinates":[-4.78376,56.018581],"type":"Point"}
+  "geometry": {"coordinates":[-4.783373,56.017664],"type":"Point"}
 }

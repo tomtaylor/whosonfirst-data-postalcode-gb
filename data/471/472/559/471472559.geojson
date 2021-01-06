@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.162556,50.730091,-1.162556,50.730091",
-    "geom:latitude": 50.730091,
-    "geom:longitude": -1.162556,
+    "geom:bbox": "-1.162998,50.730137,-1.162998,50.730137",
+    "geom:latitude": 50.730137,
+    "geom:longitude": -1.162998,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699089, 
-      404442139, 
       101852319, 
       404227469, 
       1360698563, 
-      85633159
+      85633159, 
+      1360699089, 
+      404442139
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701632,
-    "wof:geomhash": "25c0b981cdd2a4791d6eb49700bcde03",
+    "wof:geomhash": "f7208d323d3928880cae528314ae4d65",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471472559,
-    "wof:lastmodified": 1583786755,
+    "wof:lastmodified": 1609893303,
     "wof:name": "PO33 2AB",
     "wof:parent_id": 101852319,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.162556, 
-    50.730091, 
-    -1.162556, 
-    50.730091
+    -1.162998, 
+    50.730137, 
+    -1.162998, 
+    50.730137
   ],
-  "geometry": {"coordinates":[-1.162556,50.730091],"type":"Point"}
+  "geometry": {"coordinates":[-1.162998,50.730137],"type":"Point"}
 }

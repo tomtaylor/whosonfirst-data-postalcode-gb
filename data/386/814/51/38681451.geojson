@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-12-01",
     "geom:area": 0,
-    "geom:bbox": "-0.960437,51.398745,-0.960437,51.398745",
-    "geom:latitude": 51.398745,
-    "geom:longitude": -0.960437,
+    "geom:bbox": "-0.960906,51.399010,-0.960906,51.399010",
+    "geom:latitude": 51.39901,
+    "geom:longitude": -0.960906,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1126031037, 
-      404227469, 
-      1360698529, 
       85633159, 
       1360698967, 
-      404431865
+      404431865, 
+      1126031037, 
+      404227469, 
+      1360698529
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583793068,
-    "wof:geomhash": "48a0d1cae98d60ff0aca8359290f1b3a",
+    "wof:geomhash": "c49c8873615467278acbe4a3eaa76aca",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 38681451,
-    "wof:lastmodified": 1595710960,
+    "wof:lastmodified": 1609868537,
     "wof:name": "RG7 1TL",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.960437, 
-    51.398745, 
-    -0.960437, 
-    51.398745
+    -0.960906, 
+    51.39901, 
+    -0.960906, 
+    51.39901
   ],
-  "geometry": {"coordinates":[-0.960437,51.398745],"type":"Point"}
+  "geometry": {"coordinates":[-0.960906,51.39901],"type":"Point"}
 }

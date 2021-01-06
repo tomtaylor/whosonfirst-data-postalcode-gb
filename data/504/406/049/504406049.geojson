@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.359885,55.835469,-4.359885,55.835469",
-    "geom:latitude": 55.835469,
-    "geom:longitude": -4.359885,
+    "geom:bbox": "-4.359943,55.835369,-4.359943,55.835369",
+    "geom:latitude": 55.835369,
+    "geom:longitude": -4.359943,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698797, 
       404430153, 
       1175612707, 
       404227471, 
       85789877, 
-      1360698707
+      1360698707, 
+      85633159, 
+      1360698797
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701169,
-    "wof:geomhash": "93d6911c2b518e3f2772b5f2609ec197",
+    "wof:geomhash": "0d699ee74b26e8fb4ca0ae83a247e75c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 504406049,
-    "wof:lastmodified": 1595727634,
+    "wof:lastmodified": 1609869759,
     "wof:name": "G53 5RA",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.359885, 
-    55.835469, 
-    -4.359885, 
-    55.835469
+    -4.359943, 
+    55.835369, 
+    -4.359943, 
+    55.835369
   ],
-  "geometry": {"coordinates":[-4.359885,55.835469],"type":"Point"}
+  "geometry": {"coordinates":[-4.359943,55.835369],"type":"Point"}
 }

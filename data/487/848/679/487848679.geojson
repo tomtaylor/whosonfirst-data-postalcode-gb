@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2005-03-01",
     "geom:area": 0,
-    "geom:bbox": "0.507989,51.063242,0.507989,51.063242",
-    "geom:latitude": 51.063242,
-    "geom:longitude": 0.507989,
+    "geom:bbox": "0.507800,51.063974,0.507800,51.063974",
+    "geom:latitude": 51.063974,
+    "geom:longitude": 0.5078,
     "gp:parent_id": "21056",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698565, 
       85633159, 
       1360698811, 
       404441941, 
       101875395, 
-      404227469, 
-      1360698565
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701208,
-    "wof:geomhash": "697f9899550bc425cdafb55133473843",
+    "wof:geomhash": "25fde963002882acc848bfc8d444a59a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487848679,
-    "wof:lastmodified": 1583786302,
+    "wof:lastmodified": 1609883137,
     "wof:name": "TN18 5EW",
     "wof:parent_id": 404441941,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.507989, 
-    51.063242, 
-    0.507989, 
-    51.063242
+    0.5078, 
+    51.063974, 
+    0.5078, 
+    51.063974
   ],
-  "geometry": {"coordinates":[0.507989,51.063242],"type":"Point"}
+  "geometry": {"coordinates":[0.5078,51.063974],"type":"Point"}
 }

@@ -2,7 +2,7 @@
   "id": 471628673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-10-01",
     "edtf:inception": "1998-06-01",
     "geom:area": 0,
     "geom:bbox": "-1.427305,53.346093,-1.427305,53.346093",
@@ -11,7 +11,7 @@
     "gp:parent_id": "34503",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E08000019",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      85787511, 
+      1360698591, 
       85633159, 
       1360699075, 
       101750529, 
-      404227469, 
-      85787511, 
-      1360698591
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471628673,
-    "wof:lastmodified": 1583786852,
+    "wof:lastmodified": 1609899889,
     "wof:name": "S12 2HA",
     "wof:parent_id": 101750529,
     "wof:placetype": "postalcode",

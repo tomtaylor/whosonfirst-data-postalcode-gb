@@ -18,11 +18,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698961, 
-      101750617, 
+      404445871, 
+      1360759777, 
       404227469, 
-      1360698601
+      1360698727, 
+      85633159, 
+      1360698769
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -34,14 +35,15 @@
     "wof:hierarchy": [
       {
         "country_id": 85633159,
-        "county_id": 1360698961,
-        "locality_id": 101750617,
+        "county_id": 1360698769,
+        "localadmin_id": 404445871,
+        "locality_id": 1360759777,
         "macroregion_id": 404227469,
-        "region_id": 1360698601
+        "region_id": 1360698727
       }
     ],
     "wof:id": 471037359,
-    "wof:lastmodified": 1595719665,
+    "wof:lastmodified": 1609869605,
     "wof:name": "NE15 9QT",
     "wof:parent_id": 404445871,
     "wof:placetype": "postalcode",

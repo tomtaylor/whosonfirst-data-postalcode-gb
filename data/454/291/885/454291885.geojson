@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1995-12-01",
     "geom:area": 0,
-    "geom:bbox": "-2.361492,53.143004,-2.361492,53.143004",
-    "geom:latitude": 53.143004,
-    "geom:longitude": -2.361492,
+    "geom:bbox": "-2.361656,53.142967,-2.361656,53.142967",
+    "geom:latitude": 53.142967,
+    "geom:longitude": -2.361656,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      101871987, 
       404227469, 
       1360698537, 
       85633159, 
       1360698929, 
-      404432155, 
-      101871987
+      404432155
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701451,
-    "wof:geomhash": "895fd09fcac5b681deb1aaa85f1d4d15",
+    "wof:geomhash": "185f4eadc923aa9b1f8e9f3e9b42e922",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454291885,
-    "wof:lastmodified": 1583786581,
+    "wof:lastmodified": 1609881733,
     "wof:name": "CW11 1AL",
     "wof:parent_id": 404432155,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.361492, 
-    53.143004, 
-    -2.361492, 
-    53.143004
+    -2.361656, 
+    53.142967, 
+    -2.361656, 
+    53.142967
   ],
-  "geometry": {"coordinates":[-2.361492,53.143004],"type":"Point"}
+  "geometry": {"coordinates":[-2.361656,53.142967],"type":"Point"}
 }

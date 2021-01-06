@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2000-06-01",
     "geom:area": 0,
-    "geom:bbox": "-3.222695,55.943316,-3.222695,55.943316",
-    "geom:latitude": 55.943316,
-    "geom:longitude": -3.222695,
+    "geom:bbox": "-3.222201,55.943411,-3.222201,55.943411",
+    "geom:latitude": 55.943411,
+    "geom:longitude": -3.222201,
     "gp:parent_id": "12696195",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85861493, 
       1360698673, 
       85633159, 
       1360698761, 
       404437279, 
       101750629, 
-      404227471
+      404227471, 
+      85861493
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701625,
-    "wof:geomhash": "7b6789fde80def89b65cef993c3ce3f0",
+    "wof:geomhash": "ae7525559c76af8fa3e16a613752d5aa",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 488622463,
-    "wof:lastmodified": 1583786819,
+    "wof:lastmodified": 1609899038,
     "wof:name": "EH11 2TG",
     "wof:parent_id": 101750629,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.222695, 
-    55.943316, 
-    -3.222695, 
-    55.943316
+    -3.222201, 
+    55.943411, 
+    -3.222201, 
+    55.943411
   ],
-  "geometry": {"coordinates":[-3.222695,55.943316],"type":"Point"}
+  "geometry": {"coordinates":[-3.222201,55.943411],"type":"Point"}
 }

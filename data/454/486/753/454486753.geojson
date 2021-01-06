@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.086382,52.495507,-2.086382,52.495507",
-    "geom:latitude": 52.495507,
+    "geom:bbox": "-2.086382,52.495462,-2.086382,52.495462",
+    "geom:latitude": 52.495462,
     "geom:longitude": -2.086382,
     "gp:parent_id": "18581",
     "iso:country": "GB",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698933, 
       1360817295, 
       1125917795, 
       404227469, 
-      1360698605
+      1360698605, 
+      85633159, 
+      1360698933
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701599,
-    "wof:geomhash": "a4457f74dff9d11510daef5435720e81",
+    "wof:geomhash": "7317efc406c204d424b42860c6eb764f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454486753,
-    "wof:lastmodified": 1583786728,
+    "wof:lastmodified": 1609891627,
     "wof:name": "DY2 9BH",
     "wof:parent_id": 101914027,
     "wof:placetype": "postalcode",
@@ -55,9 +55,9 @@
   },
   "bbox": [
     -2.086382, 
-    52.495507, 
+    52.495462, 
     -2.086382, 
-    52.495507
+    52.495462
   ],
-  "geometry": {"coordinates":[-2.086382,52.495507],"type":"Point"}
+  "geometry": {"coordinates":[-2.086382,52.495462],"type":"Point"}
 }

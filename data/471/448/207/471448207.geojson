@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.217621,50.825238,-1.217621,50.825238",
-    "geom:latitude": 50.825238,
-    "geom:longitude": -1.217621,
+    "geom:bbox": "-1.215951,50.824930,-1.215951,50.824930",
+    "geom:latitude": 50.82493,
+    "geom:longitude": -1.215951,
     "gp:parent_id": "36534",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      101750353, 
-      404227469, 
       1360698557, 
       85633159, 
-      1360698827
+      1360698827, 
+      101750353, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701611,
-    "wof:geomhash": "cc685d30c0f08cf6e7349e850aa45065",
+    "wof:geomhash": "998ed52d1c81ebc1160481d96c4620e5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 471448207,
-    "wof:lastmodified": 1583786749,
+    "wof:lastmodified": 1609892398,
     "wof:name": "PO14 2JL",
     "wof:parent_id": 404437055,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.217621, 
-    50.825238, 
-    -1.217621, 
-    50.825238
+    -1.215951, 
+    50.82493, 
+    -1.215951, 
+    50.82493
   ],
-  "geometry": {"coordinates":[-1.217621,50.825238],"type":"Point"}
+  "geometry": {"coordinates":[-1.215951,50.82493],"type":"Point"}
 }

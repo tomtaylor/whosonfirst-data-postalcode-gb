@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.309983,53.009910,-1.309983,53.009910",
-    "geom:latitude": 53.00991,
-    "geom:longitude": -1.309983,
+    "geom:bbox": "-1.310158,53.009966,-1.310158,53.009966",
+    "geom:latitude": 53.009966,
+    "geom:longitude": -1.310158,
     "gp:parent_id": "19233",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698809, 
       404455287, 
       101871915, 
       404227469, 
-      1360698583, 
-      85633159, 
-      1360698809
+      1360698583
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701310,
-    "wof:geomhash": "304e45404f58eb7d07faa932889c4f65",
+    "wof:geomhash": "4159d118a3a3b36e2bc2db5e535ef43f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471114213,
-    "wof:lastmodified": 1583786452,
+    "wof:lastmodified": 1609874061,
     "wof:name": "NG16 3HZ",
     "wof:parent_id": 404455287,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.309983, 
-    53.00991, 
-    -1.309983, 
-    53.00991
+    -1.310158, 
+    53.009966, 
+    -1.310158, 
+    53.009966
   ],
-  "geometry": {"coordinates":[-1.309983,53.00991],"type":"Point"}
+  "geometry": {"coordinates":[-1.310158,53.009966],"type":"Point"}
 }

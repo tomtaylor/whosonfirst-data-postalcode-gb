@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.257868,55.887274,-4.257868,55.887274",
-    "geom:latitude": 55.887274,
-    "geom:longitude": -4.257868,
+    "geom:bbox": "-4.257781,55.887140,-4.257781,55.887140",
+    "geom:latitude": 55.88714,
+    "geom:longitude": -4.257781,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698797, 
       404430153, 
       1175612707, 
       404227471, 
       85792655, 
       1360698707, 
-      85633159
+      85633159, 
+      1360698797
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701138,
-    "wof:geomhash": "03810eeafcc375ad372114cc814eba4a",
+    "wof:geomhash": "494f25ab3eeeb9d64c1c679485fcd311",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 504395155,
-    "wof:lastmodified": 1583786235,
+    "wof:lastmodified": 1609869359,
     "wof:name": "G22 6NF",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.257868, 
-    55.887274, 
-    -4.257868, 
-    55.887274
+    -4.257781, 
+    55.88714, 
+    -4.257781, 
+    55.88714
   ],
-  "geometry": {"coordinates":[-4.257868,55.887274],"type":"Point"}
+  "geometry": {"coordinates":[-4.257781,55.88714],"type":"Point"}
 }

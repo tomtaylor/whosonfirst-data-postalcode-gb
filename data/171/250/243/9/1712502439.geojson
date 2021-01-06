@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2017-04-01",
     "geom:area": 0,
-    "geom:bbox": "-3.143398,55.852201,-3.143398,55.852201",
-    "geom:latitude": 55.852201,
-    "geom:longitude": -3.143398,
+    "geom:bbox": "-3.143369,55.851743,-3.143369,55.851743",
+    "geom:latitude": 55.851743,
+    "geom:longitude": -3.143369,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698791, 
-      404436513, 
       404227471, 
       1360698677, 
-      85633159
+      85633159, 
+      1360698791, 
+      404436513
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583790903,
-    "wof:geomhash": "612449ee1fe2cc652fc736fe1363919c",
+    "wof:geomhash": "46ce69c4d8caf8636c9f0d41ab85f3d3",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1712502439,
-    "wof:lastmodified": 1583790903,
+    "wof:lastmodified": 1609869613,
     "wof:name": "EH24 9DA",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.143398, 
-    55.852201, 
-    -3.143398, 
-    55.852201
+    -3.143369, 
+    55.851743, 
+    -3.143369, 
+    55.851743
   ],
-  "geometry": {"coordinates":[-3.143398,55.852201],"type":"Point"}
+  "geometry": {"coordinates":[-3.143369,55.851743],"type":"Point"}
 }

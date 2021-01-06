@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.456615,51.859689,-0.456615,51.859689",
-    "geom:latitude": 51.859689,
-    "geom:longitude": -0.456615,
+    "geom:bbox": "-0.456620,51.859698,-0.456620,51.859698",
+    "geom:latitude": 51.859698,
+    "geom:longitude": -0.45662,
     "gp:parent_id": "14813",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698767, 
       404449813, 
       1125860109, 
       404227469, 
       1360698527, 
-      85633159
+      85633159, 
+      1360698767
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701115,
-    "wof:geomhash": "57b81a7897cfeeaf520cfbece4d7a87c",
+    "wof:geomhash": "083b31bbc24b2fb919a62c258a18e82c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470845635,
-    "wof:lastmodified": 1583786234,
+    "wof:lastmodified": 1609869501,
     "wof:name": "LU1 4HJ",
     "wof:parent_id": 404449813,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.456615, 
-    51.859689, 
-    -0.456615, 
-    51.859689
+    -0.45662, 
+    51.859698, 
+    -0.45662, 
+    51.859698
   ],
-  "geometry": {"coordinates":[-0.456615,51.859689],"type":"Point"}
+  "geometry": {"coordinates":[-0.45662,51.859698],"type":"Point"}
 }

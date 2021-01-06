@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.108871,51.567771,-0.108871,51.567771",
-    "geom:latitude": 51.567771,
-    "geom:longitude": -0.108871,
+    "geom:bbox": "-0.108799,51.567752,-0.108799,51.567752",
+    "geom:latitude": 51.567752,
+    "geom:longitude": -0.108799,
     "gp:parent_id": "12695810",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -20,12 +20,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      101750367, 
-      404227469, 
       85860383, 
       1360698645, 
       1158857279, 
-      85633159
+      85633159, 
+      101750367, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701106,
-    "wof:geomhash": "14b5c218d96e77fa53df63f7ea31157f",
+    "wof:geomhash": "aba1cc19630bae8bd6463bfd99f72ce4",
     "wof:hierarchy": [
       {
         "borough_id": 1158857279,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 471021121,
-    "wof:lastmodified": 1595719558,
+    "wof:lastmodified": 1609869077,
     "wof:name": "N4 3ER",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -55,10 +55,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.108871, 
-    51.567771, 
-    -0.108871, 
-    51.567771
+    -0.108799, 
+    51.567752, 
+    -0.108799, 
+    51.567752
   ],
-  "geometry": {"coordinates":[-0.108871,51.567771],"type":"Point"}
+  "geometry": {"coordinates":[-0.108799,51.567752],"type":"Point"}
 }

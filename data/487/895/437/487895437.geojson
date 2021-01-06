@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2006-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.545185,50.479535,-3.545185,50.479535",
-    "geom:latitude": 50.479535,
-    "geom:longitude": -3.545185,
+    "geom:bbox": "-3.545301,50.479574,-3.545301,50.479574",
+    "geom:latitude": 50.479574,
+    "geom:longitude": -3.545301,
     "gp:parent_id": "37818",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698541, 
       85633159, 
       1360699071, 
       1360817197, 
-      101751577
+      101751577, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701239,
-    "wof:geomhash": "d5624f9135a024247d4c013328f79be9",
+    "wof:geomhash": "07452d33efd84cf704e222234027dbab",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487895437,
-    "wof:lastmodified": 1583786323,
+    "wof:lastmodified": 1609885220,
     "wof:name": "TQ2 7NN",
     "wof:parent_id": 101751577,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.545185, 
-    50.479535, 
-    -3.545185, 
-    50.479535
+    -3.545301, 
+    50.479574, 
+    -3.545301, 
+    50.479574
   ],
-  "geometry": {"coordinates":[-3.545185,50.479535],"type":"Point"}
+  "geometry": {"coordinates":[-3.545301,50.479574],"type":"Point"}
 }

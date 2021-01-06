@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1998-12-01",
     "geom:area": 0,
-    "geom:bbox": "-4.370846,55.888021,-4.370846,55.888021",
-    "geom:latitude": 55.888021,
-    "geom:longitude": -4.370846,
+    "geom:bbox": "-4.370906,55.887942,-4.370906,55.887942",
+    "geom:latitude": 55.887942,
+    "geom:longitude": -4.370906,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85790197, 
-      1360698707, 
-      85633159, 
       1360698797, 
       404430153, 
       1175612707, 
-      404227471
+      404227471, 
+      85790197, 
+      1360698707, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701128,
-    "wof:geomhash": "9209d2f5cd3b1a0e5eb9d3a1753c2858",
+    "wof:geomhash": "4c2a06b37f4e0b0987f253a9ce2168e2",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 504392017,
-    "wof:lastmodified": 1583786225,
+    "wof:lastmodified": 1609869255,
     "wof:name": "G14 0LY",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.370846, 
-    55.888021, 
-    -4.370846, 
-    55.888021
+    -4.370906, 
+    55.887942, 
+    -4.370906, 
+    55.887942
   ],
-  "geometry": {"coordinates":[-4.370846,55.888021],"type":"Point"}
+  "geometry": {"coordinates":[-4.370906,55.887942],"type":"Point"}
 }

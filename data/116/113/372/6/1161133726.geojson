@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "uuuu",
-    "edtf:inception": "2019-05-01",
+    "edtf:inception": "2020-08-01",
     "geom:area": 0,
     "geom:bbox": "0.134756,51.463202,0.134756,51.463202",
     "geom:latitude": 51.463202,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      101750367, 
-      404227469, 
-      85785671, 
       1360698645, 
       1158857255, 
-      85633159
+      85633159, 
+      101750367, 
+      404227469, 
+      85785671
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1161133726,
-    "wof:lastmodified": 1583805375,
+    "wof:lastmodified": 1609876291,
     "wof:name": "DA7 9LU",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

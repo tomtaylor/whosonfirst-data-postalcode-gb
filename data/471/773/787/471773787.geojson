@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.028432,53.448096,-2.028432,53.448096",
-    "geom:latitude": 53.448096,
+    "geom:bbox": "-2.028432,53.448006,-2.028432,53.448006",
+    "geom:latitude": 53.448006,
     "geom:longitude": -2.028432,
     "gp:parent_id": "24257",
     "iso:country": "GB",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1125768209, 
-      404227469, 
       1360698555, 
       85633159, 
       1360698931, 
-      1360817329
+      1360817329, 
+      1125768209, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701738,
-    "wof:geomhash": "5b7c9acf7d55410300c369b7641bd7b0",
+    "wof:geomhash": "32e165197998dda4cd60fe3fed40caf4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471773787,
-    "wof:lastmodified": 1583786909,
+    "wof:lastmodified": 1609902742,
     "wof:name": "SK14 3NW",
     "wof:parent_id": 101750541,
     "wof:placetype": "postalcode",
@@ -55,9 +55,9 @@
   },
   "bbox": [
     -2.028432, 
-    53.448096, 
+    53.448006, 
     -2.028432, 
-    53.448096
+    53.448006
   ],
-  "geometry": {"coordinates":[-2.028432,53.448096],"type":"Point"}
+  "geometry": {"coordinates":[-2.028432,53.448006],"type":"Point"}
 }

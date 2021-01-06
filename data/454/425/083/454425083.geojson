@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.679042,53.548122,-0.679042,53.548122",
-    "geom:latitude": 53.548122,
-    "geom:longitude": -0.679042,
+    "geom:bbox": "-0.678800,53.547268,-0.678800,53.547268",
+    "geom:latitude": 53.547268,
+    "geom:longitude": -0.6788,
     "gp:parent_id": "13343",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698901, 
       404446871, 
       1125882545, 
       404227469, 
-      1360698571
+      1360698571, 
+      85633159, 
+      1360698901
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701558,
-    "wof:geomhash": "8f6837d4836a5b9cba33dc2acd88cae5",
+    "wof:geomhash": "3e029e12bfb6459a7b31908f5a41f15a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454425083,
-    "wof:lastmodified": 1583786688,
+    "wof:lastmodified": 1609889033,
     "wof:name": "DN17 2BU",
     "wof:parent_id": 404446871,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.679042, 
-    53.548122, 
-    -0.679042, 
-    53.548122
+    -0.6788, 
+    53.547268, 
+    -0.6788, 
+    53.547268
   ],
-  "geometry": {"coordinates":[-0.679042,53.548122],"type":"Point"}
+  "geometry": {"coordinates":[-0.6788,53.547268],"type":"Point"}
 }

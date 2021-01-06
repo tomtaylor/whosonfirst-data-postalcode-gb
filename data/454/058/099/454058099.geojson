@@ -2,7 +2,7 @@
   "id": 454058099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-09-01",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:bbox": "-3.541239,54.641495,-3.541239,54.641495",
@@ -10,7 +10,7 @@
     "geom:longitude": -3.541239,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000006",
     "os:district_code": "E07000026",
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698877, 
       404433473, 
       101872353, 
       404227469, 
-      1360698721, 
-      85633159, 
-      1360698877
+      1360698721
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454058099,
-    "wof:lastmodified": 1583786244,
+    "wof:lastmodified": 1609869128,
     "wof:name": "CA14 4DA",
     "wof:parent_id": 101872353,
     "wof:placetype": "postalcode",

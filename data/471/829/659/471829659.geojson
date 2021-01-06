@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.151959,51.363100,-0.151959,51.363100",
-    "geom:latitude": 51.3631,
-    "geom:longitude": -0.151959,
+    "geom:bbox": "-0.151946,51.363154,-0.151946,51.363154",
+    "geom:latitude": 51.363154,
+    "geom:longitude": -0.151946,
     "gp:parent_id": "12695837",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -20,12 +20,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698645, 
-      1158857303, 
-      85633159, 
       101750367, 
       404227469, 
-      85791297
+      85791297, 
+      1360698645, 
+      1158857303, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701749,
-    "wof:geomhash": "347a292569e78807bc568d6cd7b9b881",
+    "wof:geomhash": "99511e6a30d4bb8fc7d6753a2fc54a70",
     "wof:hierarchy": [
       {
         "borough_id": 1158857303,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 471829659,
-    "wof:lastmodified": 1583786917,
+    "wof:lastmodified": 1609904048,
     "wof:name": "SM6 0AN",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -55,10 +55,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.151959, 
-    51.3631, 
-    -0.151959, 
-    51.3631
+    -0.151946, 
+    51.363154, 
+    -0.151946, 
+    51.363154
   ],
-  "geometry": {"coordinates":[-0.151959,51.3631],"type":"Point"}
+  "geometry": {"coordinates":[-0.151946,51.363154],"type":"Point"}
 }

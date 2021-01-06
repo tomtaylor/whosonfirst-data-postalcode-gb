@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.379941,51.695248,-2.379941,51.695248",
-    "geom:latitude": 51.695248,
-    "geom:longitude": -2.379941,
+    "geom:bbox": "-2.379856,51.695446,-2.379856,51.695446",
+    "geom:latitude": 51.695446,
+    "geom:longitude": -2.379856,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698553, 
       85633159, 
       1360698927, 
       404430483, 
-      1360754479, 
-      404227469, 
-      1360698553
+      1360754479
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701669,
-    "wof:geomhash": "9ec204f1b9bdc23937d1fcbac0bd7904",
+    "wof:geomhash": "294c1132589537c88609ffe3bc445d93",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454629405,
-    "wof:lastmodified": 1583786807,
+    "wof:lastmodified": 1609897390,
     "wof:name": "GL11 6JA",
     "wof:parent_id": 404430483,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.379941, 
-    51.695248, 
-    -2.379941, 
-    51.695248
+    -2.379856, 
+    51.695446, 
+    -2.379856, 
+    51.695446
   ],
-  "geometry": {"coordinates":[-2.379941,51.695248],"type":"Point"}
+  "geometry": {"coordinates":[-2.379856,51.695446],"type":"Point"}
 }

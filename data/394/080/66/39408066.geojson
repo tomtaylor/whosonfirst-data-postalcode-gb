@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "1984-12-01",
+    "edtf:deprecated": "2021-01-05",
     "edtf:inception": "1981-06-01",
     "geom:area": 0,
     "geom:bbox": "-2.995739,51.580331,-2.995739,51.580331",
@@ -18,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698735, 
-      404454095, 
       1360711915, 
       404227475, 
-      1360698641
+      1360698641, 
+      85633159, 
+      1360698735, 
+      404454095
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +41,7 @@
       }
     ],
     "wof:id": 39408066,
-    "wof:lastmodified": 1583801116,
+    "wof:lastmodified": 1609868448,
     "wof:name": "NPT 2XY",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

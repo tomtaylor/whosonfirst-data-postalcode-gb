@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-07-01",
     "geom:area": 0,
-    "geom:bbox": "-1.060585,53.425805,-1.060585,53.425805",
-    "geom:latitude": 53.425805,
-    "geom:longitude": -1.060585,
+    "geom:bbox": "-1.060275,53.425542,-1.060275,53.425542",
+    "geom:latitude": 53.425542,
+    "geom:longitude": -1.060275,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      404430195, 
-      1360754061, 
       404227469, 
       1360698583, 
       85633159, 
-      1360698809
+      1360698809, 
+      404430195, 
+      1360754061
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583793284,
-    "wof:geomhash": "4b679871990cb523e80654297d2cd867",
+    "wof:geomhash": "a65530d9f7433c357a589bed65d02c31",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 38697390,
-    "wof:lastmodified": 1595711003,
+    "wof:lastmodified": 1609868585,
     "wof:name": "DN11 8FD",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.060585, 
-    53.425805, 
-    -1.060585, 
-    53.425805
+    -1.060275, 
+    53.425542, 
+    -1.060275, 
+    53.425542
   ],
-  "geometry": {"coordinates":[-1.060585,53.425805],"type":"Point"}
+  "geometry": {"coordinates":[-1.060275,53.425542],"type":"Point"}
 }

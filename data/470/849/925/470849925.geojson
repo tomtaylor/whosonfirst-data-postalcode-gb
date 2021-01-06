@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.453908,51.917119,-0.453908,51.917119",
-    "geom:latitude": 51.917119,
-    "geom:longitude": -0.453908,
+    "geom:bbox": "-0.454070,51.917049,-0.454070,51.917049",
+    "geom:latitude": 51.917049,
+    "geom:longitude": -0.45407,
     "gp:parent_id": "27997",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698527, 
       85633159, 
       1360698783, 
       101750401, 
-      404227469, 
-      1360698527
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701124,
-    "wof:geomhash": "171809dd55a422570f1238fd2d4e055a",
+    "wof:geomhash": "8a18722f26f2371052b78bdca56de2e4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 470849925,
-    "wof:lastmodified": 1583786246,
+    "wof:lastmodified": 1609869661,
     "wof:name": "LU3 3SR",
     "wof:parent_id": 101750401,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.453908, 
-    51.917119, 
-    -0.453908, 
-    51.917119
+    -0.45407, 
+    51.917049, 
+    -0.45407, 
+    51.917049
   ],
-  "geometry": {"coordinates":[-0.453908,51.917119],"type":"Point"}
+  "geometry": {"coordinates":[-0.45407,51.917049],"type":"Point"}
 }

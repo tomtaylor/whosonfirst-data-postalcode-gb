@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "1984-12-01",
+    "edtf:deprecated": "2021-01-05",
     "edtf:inception": "1981-06-01",
     "geom:area": 0,
     "geom:bbox": "-2.991313,51.575873,-2.991313,51.575873",
@@ -18,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360711957, 
-      404227475, 
       1360698641, 
       85633159, 
       1360698735, 
-      404439933
+      404439933, 
+      1360711957, 
+      404227475
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +41,7 @@
       }
     ],
     "wof:id": 1161051632,
-    "wof:lastmodified": 1583801754,
+    "wof:lastmodified": 1609875190,
     "wof:name": "NPT 2JZ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

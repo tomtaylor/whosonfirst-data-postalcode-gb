@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.738636,51.071006,-3.738636,51.071006",
-    "geom:latitude": 51.071006,
-    "geom:longitude": -3.738636,
+    "geom:bbox": "-3.738745,51.070878,-3.738745,51.070878",
+    "geom:latitude": 51.070878,
+    "geom:longitude": -3.738745,
     "gp:parent_id": "34044",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1125979115, 
       404227469, 
       1360698541, 
       85633159, 
       1360699081, 
-      404434373
+      404434373, 
+      1125979115
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701655,
-    "wof:geomhash": "b7651f80a833f25fbba01ea282b45c97",
+    "wof:geomhash": "e6e2e2e029b06f268c48892cb160c1a0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454593903,
-    "wof:lastmodified": 1583786789,
+    "wof:lastmodified": 1609896231,
     "wof:name": "EX36 3LX",
     "wof:parent_id": 404434373,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.738636, 
-    51.071006, 
-    -3.738636, 
-    51.071006
+    -3.738745, 
+    51.070878, 
+    -3.738745, 
+    51.070878
   ],
-  "geometry": {"coordinates":[-3.738636,51.071006],"type":"Point"}
+  "geometry": {"coordinates":[-3.738745,51.070878],"type":"Point"}
 }

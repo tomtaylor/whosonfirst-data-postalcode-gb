@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.882206,54.727031,-1.882206,54.727031",
-    "geom:latitude": 54.727031,
-    "geom:longitude": -1.882206,
+    "geom:bbox": "-1.882299,54.727013,-1.882299,54.727013",
+    "geom:latitude": 54.727013,
+    "geom:longitude": -1.882299,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698621, 
-      85633159, 
       1360699055, 
       404431365, 
       101873341, 
-      404227469
+      404227469, 
+      1360698621, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701539,
-    "wof:geomhash": "760dfe6299bcba8c4e409e786f3e3ed3",
+    "wof:geomhash": "9f2f044ff47ac39f0214c985a7c244ae",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454391431,
-    "wof:lastmodified": 1583786667,
+    "wof:lastmodified": 1609887032,
     "wof:name": "DL13 3BL",
     "wof:parent_id": 101873341,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.882206, 
-    54.727031, 
-    -1.882206, 
-    54.727031
+    -1.882299, 
+    54.727013, 
+    -1.882299, 
+    54.727013
   ],
-  "geometry": {"coordinates":[-1.882206,54.727031],"type":"Point"}
+  "geometry": {"coordinates":[-1.882299,54.727013],"type":"Point"}
 }

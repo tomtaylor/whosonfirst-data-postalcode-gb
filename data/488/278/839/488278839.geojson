@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-03-01",
     "geom:area": 0,
-    "geom:bbox": "0.338144,52.332432,0.338144,52.332432",
-    "geom:latitude": 52.332432,
-    "geom:longitude": 0.338144,
+    "geom:bbox": "0.398777,52.311469,0.398777,52.311469",
+    "geom:latitude": 52.311469,
+    "geom:longitude": 0.398777,
     "gp:parent_id": "12695883",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -15,16 +15,16 @@
     "os:country_code": "E92000001",
     "os:county_code": "E10000003",
     "os:district_code": "E07000009",
-    "os:positional_quality_indicator": "5",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698535, 
       85633159, 
       1360698845, 
-      404437895, 
-      1125916815, 
-      404227469, 
-      1360698535
+      404450467, 
+      1276694929, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,19 +32,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701286,
-    "wof:geomhash": "7fdd676aa1f793da9f9bee8c2d4cea11",
+    "wof:geomhash": "485e63f2a94d11f764b625c348518937",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360698845,
-        "localadmin_id": 404437895,
-        "locality_id": 1125916815,
+        "localadmin_id": 404450467,
+        "locality_id": 1276694929,
         "macroregion_id": 404227469,
         "region_id": 1360698535
       }
     ],
     "wof:id": 488278839,
-    "wof:lastmodified": 1583786488,
+    "wof:lastmodified": 1609884106,
     "wof:name": "CB7 5HG",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.338144, 
-    52.332432, 
-    0.338144, 
-    52.332432
+    0.398777, 
+    52.311469, 
+    0.398777, 
+    52.311469
   ],
-  "geometry": {"coordinates":[0.338144,52.332432],"type":"Point"}
+  "geometry": {"coordinates":[0.398777,52.311469],"type":"Point"}
 }

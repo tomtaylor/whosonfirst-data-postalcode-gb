@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.544902,54.977342,-1.544902,54.977342",
-    "geom:latitude": 54.977342,
-    "geom:longitude": -1.544902,
+    "geom:bbox": "-1.544856,54.977234,-1.544856,54.977234",
+    "geom:latitude": 54.977234,
+    "geom:longitude": -1.544856,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,11 +18,11 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698601, 
       85633159, 
       1360698961, 
-      101750617, 
-      404227469, 
-      1360698601
+      101750617
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -30,7 +30,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701257,
-    "wof:geomhash": "a624821cb9e1ab6407f7fe86e1cb9e4b",
+    "wof:geomhash": "721be6e62534b15ee53394a8742bd146",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -41,7 +41,7 @@
       }
     ],
     "wof:id": 471084249,
-    "wof:lastmodified": 1583786401,
+    "wof:lastmodified": 1609871938,
     "wof:name": "NE6 4DS",
     "wof:parent_id": 101750617,
     "wof:placetype": "postalcode",
@@ -51,10 +51,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.544902, 
-    54.977342, 
-    -1.544902, 
-    54.977342
+    -1.544856, 
+    54.977234, 
+    -1.544856, 
+    54.977234
   ],
-  "geometry": {"coordinates":[-1.544902,54.977342],"type":"Point"}
+  "geometry": {"coordinates":[-1.544856,54.977234],"type":"Point"}
 }

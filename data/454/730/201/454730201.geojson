@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.368287,51.612558,-0.368287,51.612558",
-    "geom:latitude": 51.612558,
-    "geom:longitude": -0.368287,
+    "geom:bbox": "-0.367986,51.612656,-0.367986,51.612656",
+    "geom:latitude": 51.612656,
+    "geom:longitude": -0.367986,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      85788007, 
+      1360698645, 
       1158857263, 
       85633159, 
       101750367, 
-      404227469, 
-      85788007, 
-      1360698645
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701704,
-    "wof:geomhash": "ecca3d8d1f2bc9379959ccfc92c91963",
+    "wof:geomhash": "96387253ad8081f90b063d441f5a5e81",
     "wof:hierarchy": [
       {
         "borough_id": 1158857263,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454730201,
-    "wof:lastmodified": 1583786844,
+    "wof:lastmodified": 1609900619,
     "wof:name": "HA5 4HE",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.368287, 
-    51.612558, 
-    -0.368287, 
-    51.612558
+    -0.367986, 
+    51.612656, 
+    -0.367986, 
+    51.612656
   ],
-  "geometry": {"coordinates":[-0.368287,51.612558],"type":"Point"}
+  "geometry": {"coordinates":[-0.367986,51.612656],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.638565,54.487681,-0.638565,54.487681",
-    "geom:latitude": 54.487681,
-    "geom:longitude": -0.638565,
+    "geom:bbox": "-0.638721,54.487638,-0.638721,54.487638",
+    "geom:latitude": 54.487638,
+    "geom:longitude": -0.638721,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      101874191, 
-      404227469, 
       1360698619, 
       85633159, 
       1360698753, 
-      404439221
+      404439221, 
+      101874191, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701187,
-    "wof:geomhash": "0a12604fb14d52f4b696a23f2b162097",
+    "wof:geomhash": "b9388cc61a2cac36311653be0737017c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 488238085,
-    "wof:lastmodified": 1583786431,
+    "wof:lastmodified": 1609881661,
     "wof:name": "YO21 3LW",
     "wof:parent_id": 404439221,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.638565, 
-    54.487681, 
-    -0.638565, 
-    54.487681
+    -0.638721, 
+    54.487638, 
+    -0.638721, 
+    54.487638
   ],
-  "geometry": {"coordinates":[-0.638565,54.487681],"type":"Point"}
+  "geometry": {"coordinates":[-0.638721,54.487638],"type":"Point"}
 }

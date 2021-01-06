@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "-3.083599,55.934366,-3.083599,55.934366",
-    "geom:latitude": 55.934366,
-    "geom:longitude": -3.083599,
+    "geom:bbox": "-3.083869,55.934282,-3.083869,55.934282",
+    "geom:latitude": 55.934282,
+    "geom:longitude": -3.083869,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,18 +18,18 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698761, 
       404437279, 
       101750629, 
       404227471, 
       85788489, 
-      1360698673
+      1360698673, 
+      85633159, 
+      1360698761
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735470,
-    "wof:geomhash": "7af17667f6854c6221eab0615f5e55c3",
+    "wof:geomhash": "d09ec7a2d57f6a18c891a6586ebc97ab",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 1713327139,
-    "wof:lastmodified": 1595753317,
+    "wof:lastmodified": 1609875193,
     "wof:name": "EH21 8SU",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.083599, 
-    55.934366, 
-    -3.083599, 
-    55.934366
+    -3.083869, 
+    55.934282, 
+    -3.083869, 
+    55.934282
   ],
-  "geometry": {"coordinates":[-3.083599,55.934366],"type":"Point"}
+  "geometry": {"coordinates":[-3.083869,55.934282],"type":"Point"}
 }

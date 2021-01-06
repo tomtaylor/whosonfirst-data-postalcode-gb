@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.008367,51.705739,-3.008367,51.705739",
-    "geom:latitude": 51.705739,
-    "geom:longitude": -3.008367,
+    "geom:bbox": "-3.008624,51.705557,-3.008624,51.705557",
+    "geom:latitude": 51.705557,
+    "geom:longitude": -3.008624,
     "gp:parent_id": "29943",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698641, 
+      85633159, 
       1360698919, 
       404430265, 
       1126023805, 
-      404227475, 
-      1360698641, 
-      85633159
+      404227475
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701416,
-    "wof:geomhash": "d5af9c9c7c0d4c2a744d10db59fbcdd5",
+    "wof:geomhash": "3a63a9f5d1678c898cd63fe5a6afcd6c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504546927,
-    "wof:lastmodified": 1595729997,
+    "wof:lastmodified": 1609878610,
     "wof:name": "NP4 0JB",
     "wof:parent_id": 101852769,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.008367, 
-    51.705739, 
-    -3.008367, 
-    51.705739
+    -3.008624, 
+    51.705557, 
+    -3.008624, 
+    51.705557
   ],
-  "geometry": {"coordinates":[-3.008367,51.705739],"type":"Point"}
+  "geometry": {"coordinates":[-3.008624,51.705557],"type":"Point"}
 }

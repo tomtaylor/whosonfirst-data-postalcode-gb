@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-5.004352,55.100622,-5.004352,55.100622",
-    "geom:latitude": 55.100622,
-    "geom:longitude": -5.004352,
+    "geom:bbox": "-5.004218,55.100416,-5.004218,55.100416",
+    "geom:latitude": 55.100416,
+    "geom:longitude": -5.004218,
     "gp:parent_id": "11676",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699021, 
       404430343, 
       404227471, 
-      1360698697
+      1360698697, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701325,
-    "wof:geomhash": "31f24f4ce44832d09bccdf009eb84f56",
+    "wof:geomhash": "6978cc09e3954d89e071d9723b4a31fa",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504454517,
-    "wof:lastmodified": 1583786443,
+    "wof:lastmodified": 1609872291,
     "wof:name": "KA26 0NA",
     "wof:parent_id": 404430343,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -5.004352, 
-    55.100622, 
-    -5.004352, 
-    55.100622
+    -5.004218, 
+    55.100416, 
+    -5.004218, 
+    55.100416
   ],
-  "geometry": {"coordinates":[-5.004352,55.100622],"type":"Point"}
+  "geometry": {"coordinates":[-5.004218,55.100416],"type":"Point"}
 }

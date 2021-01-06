@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.566034,51.392209,0.566034,51.392209",
-    "geom:latitude": 51.392209,
-    "geom:longitude": 0.566034,
+    "geom:bbox": "0.566120,51.392189,0.566120,51.392189",
+    "geom:latitude": 51.392189,
+    "geom:longitude": 0.56612,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      101750327, 
-      404227469, 
-      1360698565, 
       85633159, 
       1360699105, 
-      1360817083
+      1360817083, 
+      101750327, 
+      404227469, 
+      1360698565
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701335,
-    "wof:geomhash": "e7e5032bee2686b046bcc84dfd9f7b9c",
+    "wof:geomhash": "7820e3bf461e89901933507c8ff6e7b8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 470955365,
-    "wof:lastmodified": 1583786469,
+    "wof:lastmodified": 1609876692,
     "wof:name": "ME7 2QY",
     "wof:parent_id": 101750329,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.566034, 
-    51.392209, 
-    0.566034, 
-    51.392209
+    0.56612, 
+    51.392189, 
+    0.56612, 
+    51.392189
   ],
-  "geometry": {"coordinates":[0.566034,51.392209],"type":"Point"}
+  "geometry": {"coordinates":[0.56612,51.392189],"type":"Point"}
 }

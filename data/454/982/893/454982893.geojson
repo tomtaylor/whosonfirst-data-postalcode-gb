@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.101762,54.192186,-3.101762,54.192186",
-    "geom:latitude": 54.192186,
-    "geom:longitude": -3.101762,
+    "geom:bbox": "-3.101504,54.192251,-3.101504,54.192251",
+    "geom:latitude": 54.192251,
+    "geom:longitude": -3.101504,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360698877, 
       404432323, 
       101873381, 
       404227469, 
-      1360698721, 
-      85633159
+      1360698721
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701766,
-    "wof:geomhash": "eab80b8c4e9af072a93592ab1e4a2716",
+    "wof:geomhash": "30b30947a5f7d9122594f1dd556beb99",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454982893,
-    "wof:lastmodified": 1583786902,
+    "wof:lastmodified": 1609905702,
     "wof:name": "LA12 7NG",
     "wof:parent_id": 101873381,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.101762, 
-    54.192186, 
-    -3.101762, 
-    54.192186
+    -3.101504, 
+    54.192251, 
+    -3.101504, 
+    54.192251
   ],
-  "geometry": {"coordinates":[-3.101762,54.192186],"type":"Point"}
+  "geometry": {"coordinates":[-3.101504,54.192251],"type":"Point"}
 }

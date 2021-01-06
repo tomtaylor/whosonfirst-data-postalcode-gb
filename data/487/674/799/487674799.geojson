@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.474833,51.528353,0.474833,51.528353",
-    "geom:latitude": 51.528353,
-    "geom:longitude": 0.474833,
+    "geom:bbox": "0.474940,51.528704,0.474940,51.528704",
+    "geom:latitude": 51.528704,
+    "geom:longitude": 0.47494,
     "gp:parent_id": "20346",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698551, 
+      85633159, 
       1360698915, 
       1360817299, 
       1125769795, 
-      404227469, 
-      1360698551, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701116,
-    "wof:geomhash": "ffcacaaa33379eddc28b12592fc7d959",
+    "wof:geomhash": "13c437829698937010ee6dc67ffb142e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487674799,
-    "wof:lastmodified": 1583786211,
+    "wof:lastmodified": 1609872090,
     "wof:name": "SS17 9JJ",
     "wof:parent_id": 404451305,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.474833, 
-    51.528353, 
-    0.474833, 
-    51.528353
+    0.47494, 
+    51.528704, 
+    0.47494, 
+    51.528704
   ],
-  "geometry": {"coordinates":[0.474833,51.528353],"type":"Point"}
+  "geometry": {"coordinates":[0.47494,51.528704],"type":"Point"}
 }

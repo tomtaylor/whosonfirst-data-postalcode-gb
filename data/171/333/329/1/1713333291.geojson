@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "-0.321833,52.686451,-0.321833,52.686451",
-    "geom:latitude": 52.686451,
-    "geom:longitude": -0.321833,
+    "geom:bbox": "-0.321860,52.686118,-0.321860,52.686118",
+    "geom:latitude": 52.686118,
+    "geom:longitude": -0.32186,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699067, 
       404429647, 
       101854887, 
       404227469, 
-      1360698571
+      1360698571, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735742,
-    "wof:geomhash": "5e87f1416189acded8276e06112f5871",
+    "wof:geomhash": "230821e39bae620d5d9a1dce55dc5201",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1713333291,
-    "wof:lastmodified": 1595753536,
+    "wof:lastmodified": 1609875655,
     "wof:name": "PE6 8UP",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.321833, 
-    52.686451, 
-    -0.321833, 
-    52.686451
+    -0.32186, 
+    52.686118, 
+    -0.32186, 
+    52.686118
   ],
-  "geometry": {"coordinates":[-0.321833,52.686451],"type":"Point"}
+  "geometry": {"coordinates":[-0.32186,52.686118],"type":"Point"}
 }

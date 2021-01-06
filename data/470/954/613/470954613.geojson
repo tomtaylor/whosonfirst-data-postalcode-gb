@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.548917,51.387358,0.548917,51.387358",
-    "geom:latitude": 51.387358,
-    "geom:longitude": 0.548917,
+    "geom:bbox": "0.548889,51.387367,0.548889,51.387367",
+    "geom:latitude": 51.387367,
+    "geom:longitude": 0.548889,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      101750327, 
-      404227469, 
-      1360698565, 
       85633159, 
       1360699105, 
-      1360817083
+      1360817083, 
+      101750327, 
+      404227469, 
+      1360698565
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701332,
-    "wof:geomhash": "906a36ba4e8360ac25344faba4c1863e",
+    "wof:geomhash": "fe430142064b2da58cdbf528afe401c0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 470954613,
-    "wof:lastmodified": 1583786468,
+    "wof:lastmodified": 1609876620,
     "wof:name": "ME7 1DA",
     "wof:parent_id": 101750329,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.548917, 
-    51.387358, 
-    0.548917, 
-    51.387358
+    0.548889, 
+    51.387367, 
+    0.548889, 
+    51.387367
   ],
-  "geometry": {"coordinates":[0.548917,51.387358],"type":"Point"}
+  "geometry": {"coordinates":[0.548889,51.387367],"type":"Point"}
 }

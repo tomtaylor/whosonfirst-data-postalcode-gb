@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.158676,53.440544,-2.158676,53.440544",
-    "geom:latitude": 53.440544,
-    "geom:longitude": -2.158676,
+    "geom:bbox": "-2.158689,53.440560,-2.158689,53.440560",
+    "geom:latitude": 53.44056,
+    "geom:longitude": -2.158689,
     "gp:parent_id": "36177",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698555, 
       85633159, 
       1360698879, 
-      101750527
+      101750527, 
+      404227469, 
+      1360698555
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701739,
-    "wof:geomhash": "5a040aa97a000b88ce388edad205d9fe",
+    "wof:geomhash": "344d482af40fe5329b4b925c52896cdf",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 471787493,
-    "wof:lastmodified": 1583786911,
+    "wof:lastmodified": 1609902896,
     "wof:name": "SK5 6UE",
     "wof:parent_id": 101913967,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.158676, 
-    53.440544, 
-    -2.158676, 
-    53.440544
+    -2.158689, 
+    53.44056, 
+    -2.158689, 
+    53.44056
   ],
-  "geometry": {"coordinates":[-2.158676,53.440544],"type":"Point"}
+  "geometry": {"coordinates":[-2.158689,53.44056],"type":"Point"}
 }

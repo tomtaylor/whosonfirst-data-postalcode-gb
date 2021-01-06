@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.208877,52.771264,-1.208877,52.771264",
-    "geom:latitude": 52.771264,
-    "geom:longitude": -1.208877,
+    "geom:bbox": "-1.208993,52.771024,-1.208993,52.771024",
+    "geom:latitude": 52.771024,
+    "geom:longitude": -1.208993,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,11 +18,11 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698569, 
       85633159, 
-      1360698871, 
+      1360698765, 
       101750487, 
-      404227469
+      404227469, 
+      1360698569
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -30,18 +30,18 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701069,
-    "wof:geomhash": "23be0166ccc7ae6bc3dfda94faf79bf4",
+    "wof:geomhash": "55b8f099329edd19a43829e21a0498ec",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
-        "county_id": 1360698871,
+        "county_id": 1360698765,
         "locality_id": 101750487,
         "macroregion_id": 404227469,
         "region_id": 1360698569
       }
     ],
     "wof:id": 455008665,
-    "wof:lastmodified": 1583786247,
+    "wof:lastmodified": 1609868750,
     "wof:name": "LE11 3EZ",
     "wof:parent_id": 101750487,
     "wof:placetype": "postalcode",
@@ -51,10 +51,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.208877, 
-    52.771264, 
-    -1.208877, 
-    52.771264
+    -1.208993, 
+    52.771024, 
+    -1.208993, 
+    52.771024
   ],
-  "geometry": {"coordinates":[-1.208877,52.771264],"type":"Point"}
+  "geometry": {"coordinates":[-1.208993,52.771024],"type":"Point"}
 }

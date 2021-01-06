@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.104611,51.390608,-0.104611,51.390608",
-    "geom:latitude": 51.390608,
-    "geom:longitude": -0.104611,
+    "geom:bbox": "-0.104602,51.390554,-0.104602,51.390554",
+    "geom:latitude": 51.390554,
+    "geom:longitude": -0.104602,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      85791023, 
+      1360698645, 
       1158857301, 
       85633159, 
       101750367, 
-      404227469, 
-      85791023, 
-      1360698645
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701366,
-    "wof:geomhash": "e03a0bd6c893f7edabd9f938177a3099",
+    "wof:geomhash": "ea52b6597f03c4eae4dcdb2dfc3081ee",
     "wof:hierarchy": [
       {
         "borough_id": 1158857301,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454197929,
-    "wof:lastmodified": 1583786492,
+    "wof:lastmodified": 1609877713,
     "wof:name": "CR0 2PY",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.104611, 
-    51.390608, 
-    -0.104611, 
-    51.390608
+    -0.104602, 
+    51.390554, 
+    -0.104602, 
+    51.390554
   ],
-  "geometry": {"coordinates":[-0.104611,51.390608],"type":"Point"}
+  "geometry": {"coordinates":[-0.104602,51.390554],"type":"Point"}
 }

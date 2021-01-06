@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1999-12-01",
     "geom:area": 0,
-    "geom:bbox": "-2.159374,53.410124,-2.159374,53.410124",
-    "geom:latitude": 53.410124,
-    "geom:longitude": -2.159374,
+    "geom:bbox": "-2.159178,53.410017,-2.159178,53.410017",
+    "geom:latitude": 53.410017,
+    "geom:longitude": -2.159178,
     "gp:parent_id": "36177",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698879, 
       101750527, 
       404227469, 
       1360698555, 
-      85633159
+      85633159, 
+      1360698879
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701739,
-    "wof:geomhash": "782be5501348d7d9840fddf74f72a821",
+    "wof:geomhash": "bde2321a2478a87ff7c1df87a11fba32",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 471763351,
-    "wof:lastmodified": 1583786907,
+    "wof:lastmodified": 1609902341,
     "wof:name": "SK1 1HG",
     "wof:parent_id": 101750527,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.159374, 
-    53.410124, 
-    -2.159374, 
-    53.410124
+    -2.159178, 
+    53.410017, 
+    -2.159178, 
+    53.410017
   ],
-  "geometry": {"coordinates":[-2.159374,53.410124],"type":"Point"}
+  "geometry": {"coordinates":[-2.159178,53.410017],"type":"Point"}
 }

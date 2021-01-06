@@ -1,0 +1,59 @@
+{
+  "id": 1729689379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-07-01",
+    "geom:area": 0,
+    "geom:bbox": "1.387957,52.620683,1.387957,52.620683",
+    "geom:latitude": 52.620683,
+    "geom:longitude": 1.387957,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E10000020",
+    "os:district_code": "E07000144",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000006",
+    "src:geom": "os",
+    "wof:belongsto": [
+      404227469, 
+      1360698575, 
+      85633159, 
+      1360698955, 
+      404436363, 
+      1360758503
+    ],
+    "wof:breaches": [],
+    "wof:country": "GB",
+    "wof:created": 1609906403,
+    "wof:geomhash": "347e493d017b78bda0da25cf17fe7a69",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698955,
+        "localadmin_id": 404436363,
+        "locality_id": 1360758503,
+        "macroregion_id": 404227469,
+        "region_id": 1360698575
+      }
+    ],
+    "wof:id": 1729689379,
+    "wof:lastmodified": 1609906403,
+    "wof:name": "NR13 5FZ",
+    "wof:parent_id": -1,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    1.387957, 
+    52.620683, 
+    1.387957, 
+    52.620683
+  ],
+  "geometry": {"coordinates":[1.387957,52.620683],"type":"Point"}
+}

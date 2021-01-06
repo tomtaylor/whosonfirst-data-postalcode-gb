@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1993-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.368733,51.403232,-3.368733,51.403232",
-    "geom:latitude": 51.403232,
-    "geom:longitude": -3.368733,
+    "geom:bbox": "-3.368619,51.403261,-3.368619,51.403261",
+    "geom:latitude": 51.403261,
+    "geom:longitude": -3.368619,
     "gp:parent_id": "20369",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698899, 
-      404452255, 
       1125896727, 
       404227475, 
       1360698627, 
-      85633159
+      85633159, 
+      1360698899, 
+      404452255
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701601,
-    "wof:geomhash": "6458eda176d6b29bc1cead674a51263b",
+    "wof:geomhash": "0cd403446f8b0f081d7c1a96b3bffe0a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488582411,
-    "wof:lastmodified": 1583786792,
+    "wof:lastmodified": 1609897674,
     "wof:name": "CF62 3BL",
     "wof:parent_id": 404452255,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.368733, 
-    51.403232, 
-    -3.368733, 
-    51.403232
+    -3.368619, 
+    51.403261, 
+    -3.368619, 
+    51.403261
   ],
-  "geometry": {"coordinates":[-3.368733,51.403232],"type":"Point"}
+  "geometry": {"coordinates":[-3.368619,51.403261],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.422164,53.693751,-1.422164,53.693751",
-    "geom:latitude": 53.693751,
-    "geom:longitude": -1.422164,
+    "geom:bbox": "-1.422209,53.693761,-1.422209,53.693761",
+    "geom:latitude": 53.693761,
+    "geom:longitude": -1.422209,
     "gp:parent_id": "30385",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698945, 
-      404450881, 
-      1125858895, 
       404227469, 
       1360698609, 
-      85633159
+      85633159, 
+      1360698945, 
+      404450881, 
+      1125858895
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701272,
-    "wof:geomhash": "c0531a509343fbb61d9fe4c0e5bb0716",
+    "wof:geomhash": "fa2da18ae5d12d60293a96877c0e2b02",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488140469,
-    "wof:lastmodified": 1583786419,
+    "wof:lastmodified": 1609876235,
     "wof:name": "WF6 1BE",
     "wof:parent_id": 404450881,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.422164, 
-    53.693751, 
-    -1.422164, 
-    53.693751
+    -1.422209, 
+    53.693761, 
+    -1.422209, 
+    53.693761
   ],
-  "geometry": {"coordinates":[-1.422164,53.693751],"type":"Point"}
+  "geometry": {"coordinates":[-1.422209,53.693761],"type":"Point"}
 }

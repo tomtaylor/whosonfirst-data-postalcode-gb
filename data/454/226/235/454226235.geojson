@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1991-09-01",
     "geom:area": 0,
-    "geom:bbox": "1.302927,51.153578,1.302927,51.153578",
-    "geom:latitude": 51.153578,
-    "geom:longitude": 1.302927,
+    "geom:bbox": "1.303479,51.153499,1.303479,51.153499",
+    "geom:latitude": 51.153499,
+    "geom:longitude": 1.303479,
     "gp:parent_id": "40293",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698565, 
-      85633159, 
-      1360698811, 
       404444363, 
       1125944881, 
-      404227469
+      404227469, 
+      1360698565, 
+      85633159, 
+      1360698811
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701395,
-    "wof:geomhash": "a8f671f0ab291f6d4f10992afd413ef8",
+    "wof:geomhash": "bfa95a521bcff881705203369826c48c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454226235,
-    "wof:lastmodified": 1583786522,
+    "wof:lastmodified": 1609879247,
     "wof:name": "CT16 3PT",
     "wof:parent_id": 404444363,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.302927, 
-    51.153578, 
-    1.302927, 
-    51.153578
+    1.303479, 
+    51.153499, 
+    1.303479, 
+    51.153499
   ],
-  "geometry": {"coordinates":[1.302927,51.153578],"type":"Point"}
+  "geometry": {"coordinates":[1.303479,51.153499],"type":"Point"}
 }

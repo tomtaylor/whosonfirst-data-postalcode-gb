@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.043441,51.252216,0.043441,51.252216",
-    "geom:latitude": 51.252216,
-    "geom:longitude": 0.043441,
+    "geom:bbox": "0.042795,51.252839,0.042795,51.252839",
+    "geom:latitude": 51.252839,
+    "geom:longitude": 0.042795,
     "gp:parent_id": "31290",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698599, 
       85633159, 
       1360698887, 
       404450277, 
-      1360754931
+      1360754931, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701680,
-    "wof:geomhash": "217770fe2f6b132af21e3c2af3fdee7e",
+    "wof:geomhash": "61ddaba387e9029c039beeb10d1d6732",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471601873,
-    "wof:lastmodified": 1595723706,
+    "wof:lastmodified": 1609898522,
     "wof:name": "RH8 0SR",
     "wof:parent_id": 404450277,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.043441, 
-    51.252216, 
-    0.043441, 
-    51.252216
+    0.042795, 
+    51.252839, 
+    0.042795, 
+    51.252839
   ],
-  "geometry": {"coordinates":[0.043441,51.252216],"type":"Point"}
+  "geometry": {"coordinates":[0.042795,51.252839],"type":"Point"}
 }

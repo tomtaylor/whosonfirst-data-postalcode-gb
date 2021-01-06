@@ -2,33 +2,33 @@
   "id": 1160871226,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2020-04-01",
-    "edtf:inception": "2020-01-01",
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-05-01",
     "geom:area": 0,
-    "geom:bbox": "-5.100306,50.166324,-5.100306,50.166324",
-    "geom:latitude": 50.166324,
-    "geom:longitude": -5.100306,
+    "geom:bbox": "-5.119530,50.174202,-5.119530,50.174202",
+    "geom:latitude": 50.174202,
+    "geom:longitude": -5.11953,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000052",
-    "os:positional_quality_indicator": "5",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      101852419, 
       404227469, 
       1360698623, 
       85633159, 
       1360699085, 
-      404453519
+      404453519, 
+      101852419
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583793741,
-    "wof:geomhash": "56b0f9fee3e49ca527dd49f7ac8f1d86",
+    "wof:geomhash": "6c36ede9f9517e68e303cc18c3020e32",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160871226,
-    "wof:lastmodified": 1595711104,
+    "wof:lastmodified": 1609871053,
     "wof:name": "TR10 8FF",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -5.100306, 
-    50.166324, 
-    -5.100306, 
-    50.166324
+    -5.11953, 
+    50.174202, 
+    -5.11953, 
+    50.174202
   ],
-  "geometry": {"coordinates":[-5.100306,50.166324],"type":"Point"}
+  "geometry": {"coordinates":[-5.11953,50.174202],"type":"Point"}
 }

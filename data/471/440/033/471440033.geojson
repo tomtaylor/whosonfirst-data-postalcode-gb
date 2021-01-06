@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1995-07-01",
     "geom:area": 0,
-    "geom:bbox": "-1.105628,50.790989,-1.105628,50.790989",
-    "geom:latitude": 50.790989,
-    "geom:longitude": -1.105628,
+    "geom:bbox": "-1.105643,50.790944,-1.105643,50.790944",
+    "geom:latitude": 50.790944,
+    "geom:longitude": -1.105643,
     "gp:parent_id": "32452",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699069, 
       101750307, 
       404227469, 
-      1360698557
+      1360698557, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701609,
-    "wof:geomhash": "989a4a1da042e8ae3251d114f871be84",
+    "wof:geomhash": "e568bc86a3bb63591de965020fe786d5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 471440033,
-    "wof:lastmodified": 1583786746,
+    "wof:lastmodified": 1609892222,
     "wof:name": "PO1 2TP",
     "wof:parent_id": 101750307,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.105628, 
-    50.790989, 
-    -1.105628, 
-    50.790989
+    -1.105643, 
+    50.790944, 
+    -1.105643, 
+    50.790944
   ],
-  "geometry": {"coordinates":[-1.105628,50.790989],"type":"Point"}
+  "geometry": {"coordinates":[-1.105643,50.790944],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1993-08-01",
     "geom:area": 0,
-    "geom:bbox": "-1.008774,52.392299,-1.008774,52.392299",
-    "geom:latitude": 52.392299,
-    "geom:longitude": -1.008774,
+    "geom:bbox": "-1.007793,52.388200,-1.007793,52.388200",
+    "geom:latitude": 52.3882,
+    "geom:longitude": -1.007793,
     "gp:parent_id": "29697",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1125910605, 
-      404227469, 
-      1360698577, 
       85633159, 
       1360698755, 
-      404431269
+      404431269, 
+      1125910605, 
+      404227469, 
+      1360698577
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701384,
-    "wof:geomhash": "c6c8c40e275b4e2fb62373a6b6396a61",
+    "wof:geomhash": "d5072897bd1b67f6301a0d2ba848cab1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471188777,
-    "wof:lastmodified": 1583786532,
+    "wof:lastmodified": 1609879048,
     "wof:name": "NN6 6DN",
     "wof:parent_id": 404431269,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.008774, 
-    52.392299, 
-    -1.008774, 
-    52.392299
+    -1.007793, 
+    52.3882, 
+    -1.007793, 
+    52.3882
   ],
-  "geometry": {"coordinates":[-1.008774,52.392299],"type":"Point"}
+  "geometry": {"coordinates":[-1.007793,52.3882],"type":"Point"}
 }

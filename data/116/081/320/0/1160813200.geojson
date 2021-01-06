@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2017-07-01",
     "geom:area": 0,
-    "geom:bbox": "-1.486679,51.001574,-1.486679,51.001574",
-    "geom:latitude": 51.001574,
-    "geom:longitude": -1.486679,
+    "geom:bbox": "-1.487020,51.001657,-1.487020,51.001657",
+    "geom:latitude": 51.001657,
+    "geom:longitude": -1.48702,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360757111, 
-      404227469, 
-      1360698557, 
       85633159, 
       1360698827, 
-      404441573
+      404441573, 
+      1360757111, 
+      404227469, 
+      1360698557
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583791091,
-    "wof:geomhash": "2bc03815c7dabd9ef9504464700debde",
+    "wof:geomhash": "05ddd2cbf35c45721d1aa1156d98f384",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160813200,
-    "wof:lastmodified": 1583791091,
+    "wof:lastmodified": 1609870266,
     "wof:name": "SO51 7AB",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.486679, 
-    51.001574, 
-    -1.486679, 
-    51.001574
+    -1.48702, 
+    51.001657, 
+    -1.48702, 
+    51.001657
   ],
-  "geometry": {"coordinates":[-1.486679,51.001574],"type":"Point"}
+  "geometry": {"coordinates":[-1.48702,51.001657],"type":"Point"}
 }

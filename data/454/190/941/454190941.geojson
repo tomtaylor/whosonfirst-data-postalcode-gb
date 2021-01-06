@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.786473,51.889272,0.786473,51.889272",
-    "geom:latitude": 51.889272,
-    "geom:longitude": 0.786473,
+    "geom:bbox": "0.786440,51.889941,0.786440,51.889941",
+    "geom:latitude": 51.889941,
+    "geom:longitude": 0.78644,
     "gp:parent_id": "10568",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698551, 
       85633159, 
       1360698979, 
       404449489, 
-      1360753709, 
-      404227469, 
-      1360698551
+      1360753709
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701357,
-    "wof:geomhash": "6b953688ed9d61086359cd4eeacb26b2",
+    "wof:geomhash": "119a3d9cf23ccd51d19be93f11393073",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454190941,
-    "wof:lastmodified": 1583786487,
+    "wof:lastmodified": 1609877243,
     "wof:name": "CO6 3RW",
     "wof:parent_id": 404449489,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.786473, 
-    51.889272, 
-    0.786473, 
-    51.889272
+    0.78644, 
+    51.889941, 
+    0.78644, 
+    51.889941
   ],
-  "geometry": {"coordinates":[0.786473,51.889272],"type":"Point"}
+  "geometry": {"coordinates":[0.78644,51.889941],"type":"Point"}
 }

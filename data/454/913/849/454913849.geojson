@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.254122,51.351745,-0.254122,51.351745",
-    "geom:latitude": 51.351745,
-    "geom:longitude": -0.254122,
+    "geom:bbox": "-0.254631,51.351671,-0.254631,51.351671",
+    "geom:latitude": 51.351671,
+    "geom:longitude": -0.254631,
     "gp:parent_id": "19649",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698599, 
       85633159, 
       1360698887, 
-      1126029899
+      1126029899, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701753,
-    "wof:geomhash": "5a55f35a9051516315306dfa448f9c17",
+    "wof:geomhash": "2b07f0db1efba8cca2073ac30fb3f73c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454913849,
-    "wof:lastmodified": 1583786882,
+    "wof:lastmodified": 1609904822,
     "wof:name": "KT17 1TJ",
     "wof:parent_id": 101914077,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.254122, 
-    51.351745, 
-    -0.254122, 
-    51.351745
+    -0.254631, 
+    51.351671, 
+    -0.254631, 
+    51.351671
   ],
-  "geometry": {"coordinates":[-0.254122,51.351745],"type":"Point"}
+  "geometry": {"coordinates":[-0.254631,51.351671],"type":"Point"}
 }

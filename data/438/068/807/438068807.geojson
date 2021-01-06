@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.718879,50.916271,-2.718879,50.916271",
-    "geom:latitude": 50.916271,
-    "geom:longitude": -2.718879,
+    "geom:bbox": "-2.718612,50.916337,-2.718612,50.916337",
+    "geom:latitude": 50.916337,
+    "geom:longitude": -2.718612,
     "gp:parent_id": "18930",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360699059, 
       404432479, 
       1125867147, 
       404227469, 
-      1360698589, 
-      85633159, 
-      1360699059
+      1360698589
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701195,
-    "wof:geomhash": "f2a0ee950e6a444d6a17bd264152c3b5",
+    "wof:geomhash": "a1264bae116be8294e3181015af6b371",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438068807,
-    "wof:lastmodified": 1583786331,
+    "wof:lastmodified": 1609870868,
     "wof:name": "BA22 9DY",
     "wof:parent_id": 404432479,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.718879, 
-    50.916271, 
-    -2.718879, 
-    50.916271
+    -2.718612, 
+    50.916337, 
+    -2.718612, 
+    50.916337
   ],
-  "geometry": {"coordinates":[-2.718879,50.916271],"type":"Point"}
+  "geometry": {"coordinates":[-2.718612,50.916337],"type":"Point"}
 }

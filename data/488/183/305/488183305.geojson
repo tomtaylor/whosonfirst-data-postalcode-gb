@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.030669,52.569109,-2.030669,52.569109",
+    "geom:bbox": "-2.030743,52.569109,-2.030743,52.569109",
     "geom:latitude": 52.569109,
-    "geom:longitude": -2.030669,
+    "geom:longitude": -2.030743,
     "gp:parent_id": "39388",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698605, 
       85633159, 
       1360698875, 
-      1125853123, 
-      404227469, 
-      1360698605
+      1125853123
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701297,
-    "wof:geomhash": "5eae404a781cebb143c75cf76dbbfd35",
+    "wof:geomhash": "f959375a3c86d1cc26024a0f53abcae9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488183305,
-    "wof:lastmodified": 1583786300,
+    "wof:lastmodified": 1609878932,
     "wof:name": "WS10 8AT",
     "wof:parent_id": 101914035,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.030669, 
+    -2.030743, 
     52.569109, 
-    -2.030669, 
+    -2.030743, 
     52.569109
   ],
-  "geometry": {"coordinates":[-2.030669,52.569109],"type":"Point"}
+  "geometry": {"coordinates":[-2.030743,52.569109],"type":"Point"}
 }

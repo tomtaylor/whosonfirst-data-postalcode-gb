@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-03-01",
     "geom:area": 0,
-    "geom:bbox": "-1.430211,52.531246,-1.430211,52.531246",
-    "geom:latitude": 52.531246,
-    "geom:longitude": -1.430211,
+    "geom:bbox": "-1.429677,52.531495,-1.429677,52.531495",
+    "geom:latitude": 52.531495,
+    "geom:longitude": -1.429677,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,18 +18,18 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698891, 
-      1360817293, 
-      101750471, 
       404227469, 
       85785407, 
       1360698603, 
-      85633159
+      85633159, 
+      1360698891, 
+      1360817293, 
+      101750471
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583787335,
-    "wof:geomhash": "63f6632c215d37c1d92c649fb3fc70ac",
+    "wof:geomhash": "c9e440c0dcbf5ea57ccd1091a6865fcb",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 1712422155,
-    "wof:lastmodified": 1595710803,
+    "wof:lastmodified": 1609868682,
     "wof:name": "CV11 6PA",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.430211, 
-    52.531246, 
-    -1.430211, 
-    52.531246
+    -1.429677, 
+    52.531495, 
+    -1.429677, 
+    52.531495
   ],
-  "geometry": {"coordinates":[-1.430211,52.531246],"type":"Point"}
+  "geometry": {"coordinates":[-1.429677,52.531495],"type":"Point"}
 }

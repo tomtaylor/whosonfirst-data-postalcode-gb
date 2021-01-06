@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.787313,50.775471,-0.787313,50.775471",
-    "geom:latitude": 50.775471,
-    "geom:longitude": -0.787313,
+    "geom:bbox": "-0.787275,50.775290,-0.787275,50.775290",
+    "geom:latitude": 50.77529,
+    "geom:longitude": -0.787275,
     "gp:parent_id": "34807",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1125995995, 
-      404227469, 
       1360698607, 
       85633159, 
       1360698757, 
-      404438099
+      404438099, 
+      1125995995, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701625,
-    "wof:geomhash": "a875b8b8bd182fee2e009e61aca85113",
+    "wof:geomhash": "15baabf1d13ba191f811a3fb6909515d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471461415,
-    "wof:lastmodified": 1583786753,
+    "wof:lastmodified": 1609893047,
     "wof:name": "PO20 7QZ",
     "wof:parent_id": 404438099,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.787313, 
-    50.775471, 
-    -0.787313, 
-    50.775471
+    -0.787275, 
+    50.77529, 
+    -0.787275, 
+    50.77529
   ],
-  "geometry": {"coordinates":[-0.787313,50.775471],"type":"Point"}
+  "geometry": {"coordinates":[-0.787275,50.77529],"type":"Point"}
 }

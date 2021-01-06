@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1997-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.615511,53.525575,-1.615511,53.525575",
-    "geom:latitude": 53.525575,
-    "geom:longitude": -1.615511,
+    "geom:bbox": "-1.609884,53.522384,-1.609884,53.522384",
+    "geom:latitude": 53.522384,
+    "geom:longitude": -1.609884,
     "gp:parent_id": "31684",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404449231, 
-      101872137, 
       404227469, 
       1360698591, 
       85633159, 
-      1360699091
+      1360699091, 
+      404440337, 
+      1126022645
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,19 +32,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701689,
-    "wof:geomhash": "f58579a30d2e9eaaaa8930cd8e8f34a3",
+    "wof:geomhash": "1150b327a4ab90faa8125f431b748327",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360699091,
-        "localadmin_id": 404449231,
-        "locality_id": 101872137,
+        "localadmin_id": 404440337,
+        "locality_id": 1126022645,
         "macroregion_id": 404227469,
         "region_id": 1360698591
       }
     ],
     "wof:id": 471644767,
-    "wof:lastmodified": 1583786860,
+    "wof:lastmodified": 1609900119,
     "wof:name": "S36 6HQ",
     "wof:parent_id": 404449231,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.615511, 
-    53.525575, 
-    -1.615511, 
-    53.525575
+    -1.609884, 
+    53.522384, 
+    -1.609884, 
+    53.522384
   ],
-  "geometry": {"coordinates":[-1.615511,53.525575],"type":"Point"}
+  "geometry": {"coordinates":[-1.609884,53.522384],"type":"Point"}
 }

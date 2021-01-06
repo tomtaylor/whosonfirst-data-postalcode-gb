@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.947903,52.093541,-1.947903,52.093541",
-    "geom:latitude": 52.093541,
-    "geom:longitude": -1.947903,
+    "geom:bbox": "-1.947836,52.093606,-1.947836,52.093606",
+    "geom:latitude": 52.093606,
+    "geom:longitude": -1.947836,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699043, 
-      404436323, 
       101853029, 
       404227469, 
-      1360698613
+      1360698613, 
+      85633159, 
+      1360699043, 
+      404436323
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701288,
-    "wof:geomhash": "1a54d925535037bee8c5efabe9de7885",
+    "wof:geomhash": "00753cb6d72e1e83508e9b825e64a32e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 488165793,
-    "wof:lastmodified": 1583786252,
+    "wof:lastmodified": 1609877961,
     "wof:name": "WR11 4AA",
     "wof:parent_id": 101853029,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.947903, 
-    52.093541, 
-    -1.947903, 
-    52.093541
+    -1.947836, 
+    52.093606, 
+    -1.947836, 
+    52.093606
   ],
-  "geometry": {"coordinates":[-1.947903,52.093541],"type":"Point"}
+  "geometry": {"coordinates":[-1.947836,52.093606],"type":"Point"}
 }

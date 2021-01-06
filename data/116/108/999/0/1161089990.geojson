@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "uuuu",
-    "edtf:inception": "2019-05-01",
+    "edtf:inception": "2020-09-01",
     "geom:area": 0,
     "geom:bbox": "-1.533689,53.851330,-1.533689,53.851330",
     "geom:latitude": 53.85133,
@@ -18,13 +18,13 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698609, 
       85633159, 
       1360698749, 
       404437915, 
       1360753405, 
       404227469, 
-      85792877
+      85792877, 
+      1360698609
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 1161089990,
-    "wof:lastmodified": 1583803443,
+    "wof:lastmodified": 1609876358,
     "wof:name": "LS17 1LX",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

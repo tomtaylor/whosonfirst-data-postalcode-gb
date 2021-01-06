@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.116600,51.369237,-0.116600,51.369237",
-    "geom:latitude": 51.369237,
-    "geom:longitude": -0.1166,
+    "geom:bbox": "-0.116502,51.369253,-0.116502,51.369253",
+    "geom:latitude": 51.369253,
+    "geom:longitude": -0.116502,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       101750367, 
       404227469, 
       1360698645, 
-      1158857301
+      1158857301, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701367,
-    "wof:geomhash": "14016c29cbfe3d60d8a9010765f0a6da",
+    "wof:geomhash": "de7a2a96292b616c1d6c4f55374da2b9",
     "wof:hierarchy": [
       {
         "borough_id": 1158857301,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454199039,
-    "wof:lastmodified": 1583786492,
+    "wof:lastmodified": 1609877926,
     "wof:name": "CR0 4LZ",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.1166, 
-    51.369237, 
-    -0.1166, 
-    51.369237
+    -0.116502, 
+    51.369253, 
+    -0.116502, 
+    51.369253
   ],
-  "geometry": {"coordinates":[-0.1166,51.369237],"type":"Point"}
+  "geometry": {"coordinates":[-0.116502,51.369253],"type":"Point"}
 }

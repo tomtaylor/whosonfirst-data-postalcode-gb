@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-11-01",
     "geom:area": 0,
-    "geom:bbox": "-0.663874,53.275411,-0.663874,53.275411",
-    "geom:latitude": 53.275411,
-    "geom:longitude": -0.663874,
+    "geom:bbox": "-0.663985,53.275709,-0.663985,53.275709",
+    "geom:latitude": 53.275709,
+    "geom:longitude": -0.663985,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -17,16 +17,30 @@
     "os:positional_quality_indicator": "1",
     "os:region_code": "E12000004",
     "src:geom": "os",
-    "wof:belongsto": [],
+    "wof:belongsto": [
+      1360698571, 
+      85633159, 
+      1360699067, 
+      404450821, 
+      1360755739, 
+      404227469
+    ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583800739,
-    "wof:geomhash": "bcf4b2cff026c597c9d1a84b4e01b3f1",
+    "wof:geomhash": "25840600f898c5b50c5f2f2eb4373c9c",
     "wof:hierarchy": [
-      {}
+      {
+        "country_id": 85633159,
+        "county_id": 1360699067,
+        "localadmin_id": 404450821,
+        "locality_id": 1360755739,
+        "macroregion_id": 404227469,
+        "region_id": 1360698571
+      }
     ],
     "wof:id": 1161029424,
-    "wof:lastmodified": 1595711735,
+    "wof:lastmodified": 1609875316,
     "wof:name": "LN1 4AA",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -36,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.663874, 
-    53.275411, 
-    -0.663874, 
-    53.275411
+    -0.663985, 
+    53.275709, 
+    -0.663985, 
+    53.275709
   ],
-  "geometry": {"coordinates":[-0.663874,53.275411],"type":"Point"}
+  "geometry": {"coordinates":[-0.663985,53.275709],"type":"Point"}
 }

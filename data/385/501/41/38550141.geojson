@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2017-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.859366,52.042080,-1.859366,52.042080",
-    "geom:latitude": 52.04208,
-    "geom:longitude": -1.859366,
+    "geom:bbox": "-1.858273,52.041917,-1.858273,52.041917",
+    "geom:latitude": 52.041917,
+    "geom:longitude": -1.858273,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699043, 
       404434357, 
       101853031, 
       404227469, 
-      1360698613
+      1360698613, 
+      85633159, 
+      1360699043
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583791594,
-    "wof:geomhash": "f47efa3984b0349141daea1a61d0fc03",
+    "wof:geomhash": "7dcdd3680481b0885b487433fa7f3f05",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 38550141,
-    "wof:lastmodified": 1583791594,
+    "wof:lastmodified": 1609868483,
     "wof:name": "WR12 7EE",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.859366, 
-    52.04208, 
-    -1.859366, 
-    52.04208
+    -1.858273, 
+    52.041917, 
+    -1.858273, 
+    52.041917
   ],
-  "geometry": {"coordinates":[-1.859366,52.04208],"type":"Point"}
+  "geometry": {"coordinates":[-1.858273,52.041917],"type":"Point"}
 }

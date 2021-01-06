@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.587342,54.836616,-1.587342,54.836616",
-    "geom:latitude": 54.836616,
-    "geom:longitude": -1.587342,
+    "geom:bbox": "-1.587182,54.836705,-1.587182,54.836705",
+    "geom:latitude": 54.836705,
+    "geom:longitude": -1.587182,
     "gp:parent_id": "15831",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360699055, 
       101873347, 
       404227469, 
-      1360698621, 
-      85633159, 
-      1360699055
+      1360698621
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701518,
-    "wof:geomhash": "ae8cf7e99b199f8d521851746838512a",
+    "wof:geomhash": "faf2b89db72099432f96b4ee7a5d7c61",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454367953,
-    "wof:lastmodified": 1583786651,
+    "wof:lastmodified": 1609886018,
     "wof:name": "DH2 3RL",
     "wof:parent_id": 404454551,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.587342, 
-    54.836616, 
-    -1.587342, 
-    54.836616
+    -1.587182, 
+    54.836705, 
+    -1.587182, 
+    54.836705
   ],
-  "geometry": {"coordinates":[-1.587342,54.836616],"type":"Point"}
+  "geometry": {"coordinates":[-1.587182,54.836705],"type":"Point"}
 }

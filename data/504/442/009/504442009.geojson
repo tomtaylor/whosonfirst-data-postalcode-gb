@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.059671,57.656623,-3.059671,57.656623",
-    "geom:latitude": 57.656623,
-    "geom:longitude": -3.059671,
+    "geom:bbox": "-3.060780,57.661312,-3.060780,57.661312",
+    "geom:latitude": 57.661312,
+    "geom:longitude": -3.06078,
     "gp:parent_id": "12696202",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698717, 
-      85633159, 
       1360698869, 
       404446793, 
-      404227471
+      404227471, 
+      1360698717, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701290,
-    "wof:geomhash": "9578fd65a6d735377ff6b951a7c8e7bd",
+    "wof:geomhash": "8880f97054999ec15ed1def1ff51b071",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504442009,
-    "wof:lastmodified": 1583786405,
+    "wof:lastmodified": 1609871516,
     "wof:name": "IV32 7PL",
     "wof:parent_id": 404446793,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.059671, 
-    57.656623, 
-    -3.059671, 
-    57.656623
+    -3.06078, 
+    57.661312, 
+    -3.06078, 
+    57.661312
   ],
-  "geometry": {"coordinates":[-3.059671,57.656623],"type":"Point"}
+  "geometry": {"coordinates":[-3.06078,57.661312],"type":"Point"}
 }

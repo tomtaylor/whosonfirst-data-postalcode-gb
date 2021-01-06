@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1992-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.342084,51.382253,1.342084,51.382253",
+    "geom:bbox": "1.342098,51.382253,1.342098,51.382253",
     "geom:latitude": 51.382253,
-    "geom:longitude": 1.342084,
+    "geom:longitude": 1.342098,
     "gp:parent_id": "39931",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360698811, 
       101750335, 
       404227469, 
-      1360698565, 
-      85633159
+      1360698565
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701410,
-    "wof:geomhash": "46dcf60cd3e01886952101ec1aa66f7a",
+    "wof:geomhash": "e8da15a590d217c0fb388a91aa76a25c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454243557,
-    "wof:lastmodified": 1583786534,
+    "wof:lastmodified": 1609879763,
     "wof:name": "CT8 8RZ",
     "wof:parent_id": 101750335,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.342084, 
+    1.342098, 
     51.382253, 
-    1.342084, 
+    1.342098, 
     51.382253
   ],
-  "geometry": {"coordinates":[1.342084,51.382253],"type":"Point"}
+  "geometry": {"coordinates":[1.342098,51.382253],"type":"Point"}
 }

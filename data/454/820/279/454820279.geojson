@@ -2,16 +2,16 @@
   "id": 454820279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2020-02-01",
-    "edtf:inception": "1980-01-01",
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-09-01",
     "geom:area": 0,
-    "geom:bbox": "-0.356634,53.742834,-0.356634,53.742834",
-    "geom:latitude": 53.742834,
-    "geom:longitude": -0.356634,
+    "geom:bbox": "-0.356640,53.742855,-0.356640,53.742855",
+    "geom:latitude": 53.742855,
+    "geom:longitude": -0.35664,
     "gp:parent_id": "25211",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000010",
@@ -19,11 +19,11 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698951, 
+      101750561, 
       404227469, 
       1360698547, 
-      85633159, 
-      1360698951, 
-      101750561
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701727,
-    "wof:geomhash": "d8f44f71353bfec4dda87d3c6808d8db",
+    "wof:geomhash": "7e6e629d85aaeed4d881302683c04862",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454820279,
-    "wof:lastmodified": 1595717283,
+    "wof:lastmodified": 1609902858,
     "wof:name": "HU3 2PA",
     "wof:parent_id": 101750561,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.356634, 
-    53.742834, 
-    -0.356634, 
-    53.742834
+    -0.35664, 
+    53.742855, 
+    -0.35664, 
+    53.742855
   ],
-  "geometry": {"coordinates":[-0.356634,53.742834],"type":"Point"}
+  "geometry": {"coordinates":[-0.35664,53.742855],"type":"Point"}
 }

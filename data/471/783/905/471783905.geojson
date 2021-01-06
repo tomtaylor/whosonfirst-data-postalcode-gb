@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.174897,53.406175,-2.174897,53.406175",
-    "geom:latitude": 53.406175,
-    "geom:longitude": -2.174897,
+    "geom:bbox": "-2.174088,53.407003,-2.174088,53.407003",
+    "geom:latitude": 53.407003,
+    "geom:longitude": -2.174088,
     "gp:parent_id": "36177",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698879, 
       101750527, 
       404227469, 
-      1360698555
+      1360698555, 
+      85633159, 
+      1360698879
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701739,
-    "wof:geomhash": "faeffb2291e763784ddadc8a609104a3",
+    "wof:geomhash": "67e9c559c26a6e844ec8c9364a4228ad",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 471783905,
-    "wof:lastmodified": 1583786911,
+    "wof:lastmodified": 1609902632,
     "wof:name": "SK3 0BY",
     "wof:parent_id": 101750527,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.174897, 
-    53.406175, 
-    -2.174897, 
-    53.406175
+    -2.174088, 
+    53.407003, 
+    -2.174088, 
+    53.407003
   ],
-  "geometry": {"coordinates":[-2.174897,53.406175],"type":"Point"}
+  "geometry": {"coordinates":[-2.174088,53.407003],"type":"Point"}
 }

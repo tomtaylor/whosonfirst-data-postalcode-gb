@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1995-07-01",
     "geom:area": 0,
-    "geom:bbox": "-2.280753,51.401358,-2.280753,51.401358",
-    "geom:latitude": 51.401358,
-    "geom:longitude": -2.280753,
+    "geom:bbox": "-2.280810,51.401340,-2.280810,51.401340",
+    "geom:latitude": 51.40134,
+    "geom:longitude": -2.28081,
     "gp:parent_id": "25148",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698937, 
-      404442399, 
       1125908603, 
       404227469, 
-      1360698611
+      1360698611, 
+      85633159, 
+      1360698937, 
+      404442399
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701753,
-    "wof:geomhash": "e3ae17a126ca22cabeb14068921342ff",
+    "wof:geomhash": "507300f7f3da7b1c0a56e1e14d73100f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471840035,
-    "wof:lastmodified": 1583786917,
+    "wof:lastmodified": 1609904155,
     "wof:name": "SN13 8BQ",
     "wof:parent_id": 404442399,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.280753, 
-    51.401358, 
-    -2.280753, 
-    51.401358
+    -2.28081, 
+    51.40134, 
+    -2.28081, 
+    51.40134
   ],
-  "geometry": {"coordinates":[-2.280753,51.401358],"type":"Point"}
+  "geometry": {"coordinates":[-2.28081,51.40134],"type":"Point"}
 }

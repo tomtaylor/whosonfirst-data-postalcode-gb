@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.575792,51.666166,-0.575792,51.666166",
-    "geom:latitude": 51.666166,
-    "geom:longitude": -0.575792,
+    "geom:bbox": "-0.574022,51.665893,-0.574022,51.665893",
+    "geom:latitude": 51.665893,
+    "geom:longitude": -0.574022,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698997, 
       404430087, 
       1126000195, 
       404227469, 
-      1360698533
+      1360698533, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701716,
-    "wof:geomhash": "35d2116da76b23de887d318e9fc38611",
+    "wof:geomhash": "bd70867fed51a35a681a6b9ffe242a9a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454792825,
-    "wof:lastmodified": 1595717192,
+    "wof:lastmodified": 1609902283,
     "wof:name": "HP7 9NB",
     "wof:parent_id": 404430087,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.575792, 
-    51.666166, 
-    -0.575792, 
-    51.666166
+    -0.574022, 
+    51.665893, 
+    -0.574022, 
+    51.665893
   ],
-  "geometry": {"coordinates":[-0.575792,51.666166],"type":"Point"}
+  "geometry": {"coordinates":[-0.574022,51.665893],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.433675,54.511774,-1.433675,54.511774",
-    "geom:latitude": 54.511774,
-    "geom:longitude": -1.433675,
+    "geom:bbox": "-1.433595,54.511944,-1.433595,54.511944",
+    "geom:latitude": 54.511944,
+    "geom:longitude": -1.433595,
     "gp:parent_id": "28902",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698621, 
       85633159, 
       1360698889, 
       404451893, 
-      1309747447, 
-      404227469, 
-      1360698621
+      1309747447
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701540,
-    "wof:geomhash": "938e7772d112eb3480cd2bbac7c82371",
+    "wof:geomhash": "2a39008cd59ec7725e3ffc2152cf9cf8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454399201,
-    "wof:lastmodified": 1595715012,
+    "wof:lastmodified": 1609887583,
     "wof:name": "DL2 1NB",
     "wof:parent_id": 404451893,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.433675, 
-    54.511774, 
-    -1.433675, 
-    54.511774
+    -1.433595, 
+    54.511944, 
+    -1.433595, 
+    54.511944
   ],
-  "geometry": {"coordinates":[-1.433675,54.511774],"type":"Point"}
+  "geometry": {"coordinates":[-1.433595,54.511944],"type":"Point"}
 }

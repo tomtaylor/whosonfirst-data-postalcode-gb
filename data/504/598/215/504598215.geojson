@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.685203,52.033649,-4.685203,52.033649",
-    "geom:latitude": 52.033649,
-    "geom:longitude": -4.685203,
+    "geom:bbox": "-4.684894,52.029231,-4.684894,52.029231",
+    "geom:latitude": 52.029231,
+    "geom:longitude": -4.684894,
     "gp:parent_id": "12696129",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1126052977, 
-      404227475, 
       1360698639, 
       85633159, 
       1360698843, 
-      404431143
+      404431143, 
+      1126052977, 
+      404227475
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701468,
-    "wof:geomhash": "4638196ad7dd17a3c3b128c24c948754",
+    "wof:geomhash": "cf8009d54fd9551bf8e776d7494a1af5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504598215,
-    "wof:lastmodified": 1583786620,
+    "wof:lastmodified": 1609881675,
     "wof:name": "SA41 3PW",
     "wof:parent_id": 404431143,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.685203, 
-    52.033649, 
-    -4.685203, 
-    52.033649
+    -4.684894, 
+    52.029231, 
+    -4.684894, 
+    52.029231
   ],
-  "geometry": {"coordinates":[-4.685203,52.033649],"type":"Point"}
+  "geometry": {"coordinates":[-4.684894,52.029231],"type":"Point"}
 }

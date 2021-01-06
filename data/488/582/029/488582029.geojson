@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1995-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.487637,51.411369,-3.487637,51.411369",
-    "geom:latitude": 51.411369,
-    "geom:longitude": -3.487637,
+    "geom:bbox": "-3.487586,51.411603,-3.487586,51.411603",
+    "geom:latitude": 51.411603,
+    "geom:longitude": -3.487586,
     "gp:parent_id": "12696121",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698899, 
-      404432297, 
       1125880499, 
       404227475, 
       1360698627, 
-      85633159
+      85633159, 
+      1360698899, 
+      404432297
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701601,
-    "wof:geomhash": "238de38baff5a47ba10db96a4f6e65fd",
+    "wof:geomhash": "8b4a657300fc7572997bdbc8e0579797",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488582029,
-    "wof:lastmodified": 1583786792,
+    "wof:lastmodified": 1609897620,
     "wof:name": "CF61 1AP",
     "wof:parent_id": 404432297,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.487637, 
-    51.411369, 
-    -3.487637, 
-    51.411369
+    -3.487586, 
+    51.411603, 
+    -3.487586, 
+    51.411603
   ],
-  "geometry": {"coordinates":[-3.487637,51.411369],"type":"Point"}
+  "geometry": {"coordinates":[-3.487586,51.411603],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1999-12-01",
     "geom:area": 0,
-    "geom:bbox": "-3.281351,50.788959,-3.281351,50.788959",
-    "geom:latitude": 50.788959,
-    "geom:longitude": -3.281351,
+    "geom:bbox": "-3.281323,50.788986,-3.281323,50.788986",
+    "geom:latitude": 50.788986,
+    "geom:longitude": -3.281323,
     "gp:parent_id": "20065",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360699081, 
       404433041, 
       1125908539, 
       404227469, 
-      1360698541, 
-      85633159, 
-      1360699081
+      1360698541
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701641,
-    "wof:geomhash": "da81a1149312bbdd2750914de904d1b7",
+    "wof:geomhash": "67fc9371a450d05b8b992a09295f16fb",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454569675,
-    "wof:lastmodified": 1595716327,
+    "wof:lastmodified": 1609894869,
     "wof:name": "EX14 3WB",
     "wof:parent_id": 404433041,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.281351, 
-    50.788959, 
-    -3.281351, 
-    50.788959
+    -3.281323, 
+    50.788986, 
+    -3.281323, 
+    50.788986
   ],
-  "geometry": {"coordinates":[-3.281351,50.788959],"type":"Point"}
+  "geometry": {"coordinates":[-3.281323,50.788986],"type":"Point"}
 }

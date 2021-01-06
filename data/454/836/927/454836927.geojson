@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.849190,53.730984,-1.849190,53.730984",
-    "geom:latitude": 53.730984,
-    "geom:longitude": -1.84919,
+    "geom:bbox": "-1.849192,53.730999,-1.849192,53.730999",
+    "geom:latitude": 53.730999,
+    "geom:longitude": -1.849192,
     "gp:parent_id": "22179",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698833, 
       1360817303, 
       101750577, 
       404227469, 
-      1360698609
+      1360698609, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701731,
-    "wof:geomhash": "a2958ef62013b8b6ca7c40fbb7cab6f7",
+    "wof:geomhash": "862ca1df21c4f1a08e5e38b9ac44edf9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454836927,
-    "wof:lastmodified": 1583786867,
+    "wof:lastmodified": 1609903364,
     "wof:name": "HX3 6AX",
     "wof:parent_id": 101750577,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.84919, 
-    53.730984, 
-    -1.84919, 
-    53.730984
+    -1.849192, 
+    53.730999, 
+    -1.849192, 
+    53.730999
   ],
-  "geometry": {"coordinates":[-1.84919,53.730984],"type":"Point"}
+  "geometry": {"coordinates":[-1.849192,53.730999],"type":"Point"}
 }

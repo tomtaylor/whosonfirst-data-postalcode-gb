@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.445323,55.334742,-3.445323,55.334742",
-    "geom:latitude": 55.334742,
-    "geom:longitude": -3.445323,
+    "geom:bbox": "-3.445321,55.334790,-3.445321,55.334790",
+    "geom:latitude": 55.33479,
+    "geom:longitude": -3.445321,
     "gp:parent_id": "12696189",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404444245, 
-      404227471, 
       1360698719, 
       85633159, 
-      1360699039
+      1360699039, 
+      404444245, 
+      404227471
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701614,
-    "wof:geomhash": "8c06c34b8c3559cf30d550d41a91ba80",
+    "wof:geomhash": "cb45a19906066bfa9e5de4cfed1162b8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488610175,
-    "wof:lastmodified": 1583786811,
+    "wof:lastmodified": 1609898675,
     "wof:name": "DG10 9HR",
     "wof:parent_id": 101872365,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.445323, 
-    55.334742, 
-    -3.445323, 
-    55.334742
+    -3.445321, 
+    55.33479, 
+    -3.445321, 
+    55.33479
   ],
-  "geometry": {"coordinates":[-3.445323,55.334742],"type":"Point"}
+  "geometry": {"coordinates":[-3.445321,55.33479],"type":"Point"}
 }

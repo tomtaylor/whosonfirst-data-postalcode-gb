@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1986-07-01",
     "geom:area": 0,
-    "geom:bbox": "-2.321826,52.108847,-2.321826,52.108847",
-    "geom:latitude": 52.108847,
-    "geom:longitude": -2.321826,
+    "geom:bbox": "-2.321609,52.109108,-2.321609,52.109108",
+    "geom:latitude": 52.109108,
+    "geom:longitude": -2.321609,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698613, 
       85633159, 
       1360699043, 
       404429181, 
-      1310240267
+      1310240267, 
+      404227469, 
+      1360698613
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701291,
-    "wof:geomhash": "b1d10d861bf6924cb72c4972a2194eb5",
+    "wof:geomhash": "e638b58ec626cd4eb662df1f64dffa42",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 488169877,
-    "wof:lastmodified": 1583786266,
+    "wof:lastmodified": 1609878235,
     "wof:name": "WR14 3EN",
     "wof:parent_id": 101853021,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.321826, 
-    52.108847, 
-    -2.321826, 
-    52.108847
+    -2.321609, 
+    52.109108, 
+    -2.321609, 
+    52.109108
   ],
-  "geometry": {"coordinates":[-2.321826,52.108847],"type":"Point"}
+  "geometry": {"coordinates":[-2.321609,52.109108],"type":"Point"}
 }

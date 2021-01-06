@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.192842,53.112530,0.192842,53.112530",
-    "geom:latitude": 53.11253,
-    "geom:longitude": 0.192842,
+    "geom:bbox": "0.194130,53.111113,0.194130,53.111113",
+    "geom:latitude": 53.111113,
+    "geom:longitude": 0.19413,
     "gp:parent_id": "38945",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
       1360698571, 
       85633159, 
       1360699067, 
       404445351, 
-      1125934161, 
-      404227469
+      1125934161
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701535,
-    "wof:geomhash": "c0ccf0c4ba0e2a7b6f282ebdac688678",
+    "wof:geomhash": "ad8fc8027121fd831d488d590953f542",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471372667,
-    "wof:lastmodified": 1583786689,
+    "wof:lastmodified": 1609888889,
     "wof:name": "PE24 4NE",
     "wof:parent_id": 404445351,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.192842, 
-    53.11253, 
-    0.192842, 
-    53.11253
+    0.19413, 
+    53.111113, 
+    0.19413, 
+    53.111113
   ],
-  "geometry": {"coordinates":[0.192842,53.11253],"type":"Point"}
+  "geometry": {"coordinates":[0.19413,53.111113],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.409072,53.779096,-0.409072,53.779096",
-    "geom:latitude": 53.779096,
-    "geom:longitude": -0.409072,
+    "geom:bbox": "-0.408805,53.778922,-0.408805,53.778922",
+    "geom:latitude": 53.778922,
+    "geom:longitude": -0.408805,
     "gp:parent_id": "16980",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698547, 
+      85633159, 
       1360699001, 
       404444827, 
       1125949063, 
-      404227469, 
-      1360698547, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701725,
-    "wof:geomhash": "4f016b4a7971b6b30294d9ab22e0cb80",
+    "wof:geomhash": "2da48c090e6af2e099ece56e14d71622",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454815067,
-    "wof:lastmodified": 1583786861,
+    "wof:lastmodified": 1609902523,
     "wof:name": "HU16 4DZ",
     "wof:parent_id": 101914017,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.409072, 
-    53.779096, 
-    -0.409072, 
-    53.779096
+    -0.408805, 
+    53.778922, 
+    -0.408805, 
+    53.778922
   ],
-  "geometry": {"coordinates":[-0.409072,53.779096],"type":"Point"}
+  "geometry": {"coordinates":[-0.408805,53.778922],"type":"Point"}
 }

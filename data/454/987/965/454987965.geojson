@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1984-02-01",
     "geom:area": 0,
-    "geom:bbox": "-3.175197,54.157786,-3.175197,54.157786",
-    "geom:latitude": 54.157786,
-    "geom:longitude": -3.175197,
+    "geom:bbox": "-3.175133,54.157679,-3.175133,54.157679",
+    "geom:latitude": 54.157679,
+    "geom:longitude": -3.175133,
     "gp:parent_id": "17890",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698877, 
-      404454421, 
       1360753577, 
       404227469, 
-      1360698721
+      1360698721, 
+      85633159, 
+      1360698877, 
+      404454421
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701767,
-    "wof:geomhash": "dd3c70ddbc621bee662af58a48e2814a",
+    "wof:geomhash": "9cf1d594061acb7fba6b9e145fd86e3e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454987965,
-    "wof:lastmodified": 1583786903,
+    "wof:lastmodified": 1609905818,
     "wof:name": "LA15 8JA",
     "wof:parent_id": 404454421,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.175197, 
-    54.157786, 
-    -3.175197, 
-    54.157786
+    -3.175133, 
+    54.157679, 
+    -3.175133, 
+    54.157679
   ],
-  "geometry": {"coordinates":[-3.175197,54.157786],"type":"Point"}
+  "geometry": {"coordinates":[-3.175133,54.157679],"type":"Point"}
 }

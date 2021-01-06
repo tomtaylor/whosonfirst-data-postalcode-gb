@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2002-06-01",
     "geom:area": 0,
-    "geom:bbox": "-0.344069,51.021089,-0.344069,51.021089",
-    "geom:latitude": 51.021089,
-    "geom:longitude": -0.344069,
+    "geom:bbox": "-0.344350,51.021209,-0.344350,51.021209",
+    "geom:latitude": 51.021209,
+    "geom:longitude": -0.34435,
     "gp:parent_id": "35411",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698607, 
       85633159, 
       1360698757, 
       404429591, 
-      1125998251
+      1125998251, 
+      404227469, 
+      1360698607
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701676,
-    "wof:geomhash": "f8806a6da715cdcb6f9aea4bdeb2f05c",
+    "wof:geomhash": "0d2c4d9a001aafca857877b9fe1fb6f0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471582695,
-    "wof:lastmodified": 1583786823,
+    "wof:lastmodified": 1609897728,
     "wof:name": "RH13 9JP",
     "wof:parent_id": 404429591,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.344069, 
-    51.021089, 
-    -0.344069, 
-    51.021089
+    -0.34435, 
+    51.021209, 
+    -0.34435, 
+    51.021209
   ],
-  "geometry": {"coordinates":[-0.344069,51.021089],"type":"Point"}
+  "geometry": {"coordinates":[-0.34435,51.021209],"type":"Point"}
 }

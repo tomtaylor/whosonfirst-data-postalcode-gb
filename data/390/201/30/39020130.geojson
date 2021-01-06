@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.185477,52.824758,-1.185477,52.824758",
-    "geom:latitude": 52.824758,
-    "geom:longitude": -1.185477,
+    "geom:bbox": "-1.185039,52.824342,-1.185039,52.824342",
+    "geom:latitude": 52.824342,
+    "geom:longitude": -1.185039,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      1125840273, 
+      404227469, 
       1360698583, 
       85633159, 
       1360698809, 
-      404429197, 
-      1125840273, 
-      404227469
+      404429197
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583796810,
-    "wof:geomhash": "14687c55f061ed7690dc2f86aecb7854",
+    "wof:geomhash": "e8fc1a17013ff847dc8e12afe400d939",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 39020130,
-    "wof:lastmodified": 1583796810,
+    "wof:lastmodified": 1609868459,
     "wof:name": "LE12 6XX",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.185477, 
-    52.824758, 
-    -1.185477, 
-    52.824758
+    -1.185039, 
+    52.824342, 
+    -1.185039, 
+    52.824342
   ],
-  "geometry": {"coordinates":[-1.185477,52.824758],"type":"Point"}
+  "geometry": {"coordinates":[-1.185039,52.824342],"type":"Point"}
 }

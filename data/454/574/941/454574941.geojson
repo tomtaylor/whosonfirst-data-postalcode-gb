@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.624817,51.001742,-3.624817,51.001742",
-    "geom:latitude": 51.001742,
-    "geom:longitude": -3.624817,
+    "geom:bbox": "-3.624732,51.001752,-3.624732,51.001752",
+    "geom:latitude": 51.001752,
+    "geom:longitude": -3.624732,
     "gp:parent_id": "18888",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1125911715, 
-      404227469, 
-      1360698541, 
       85633159, 
       1360699081, 
-      404438923
+      404438923, 
+      1125911715, 
+      404227469, 
+      1360698541
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701644,
-    "wof:geomhash": "b488f15eff4e0d022b7838ce08b7867a",
+    "wof:geomhash": "71cb6df53439a61854a875ba89da67b4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454574941,
-    "wof:lastmodified": 1583786774,
+    "wof:lastmodified": 1609895079,
     "wof:name": "EX16 9JU",
     "wof:parent_id": 404438923,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.624817, 
-    51.001742, 
-    -3.624817, 
-    51.001742
+    -3.624732, 
+    51.001752, 
+    -3.624732, 
+    51.001752
   ],
-  "geometry": {"coordinates":[-3.624817,51.001742],"type":"Point"}
+  "geometry": {"coordinates":[-3.624732,51.001752],"type":"Point"}
 }

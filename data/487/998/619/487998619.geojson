@@ -6,9 +6,9 @@
     "edtf:inception": "2005-03-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.425605,51.518753,-0.425605,51.518753",
-    "geom:latitude": 51.518753,
-    "geom:longitude": -0.425605,
+    "geom:bbox": "-0.425570,51.518763,-0.425570,51.518763",
+    "geom:latitude": 51.518763,
+    "geom:longitude": -0.42557,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      85860755, 
       1360698645, 
       1158857261, 
       85633159, 
       101750367, 
-      404227469
+      404227469, 
+      85860755
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701120,
-    "wof:geomhash": "07665b7351f085b2587d18a6fa9e7998",
+    "wof:geomhash": "0cb45845a18cf6066189b17f317d51fe",
     "wof:hierarchy": [
       {
         "borough_id": 1158857261,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487998619,
-    "wof:lastmodified": 1583786369,
+    "wof:lastmodified": 1609890665,
     "wof:name": "UB3 2DD",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.425605, 
-    51.518753, 
-    -0.425605, 
-    51.518753
+    -0.42557, 
+    51.518763, 
+    -0.42557, 
+    51.518763
   ],
-  "geometry": {"coordinates":[-0.425605,51.518753],"type":"Point"}
+  "geometry": {"coordinates":[-0.42557,51.518763],"type":"Point"}
 }

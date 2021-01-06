@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.449353,55.917943,-4.449353,55.917943",
-    "geom:latitude": 55.917943,
-    "geom:longitude": -4.449353,
+    "geom:bbox": "-4.449032,55.917932,-4.449032,55.917932",
+    "geom:latitude": 55.917932,
+    "geom:longitude": -4.449032,
     "gp:parent_id": "12696188",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698819, 
-      404444819, 
       404227471, 
       1360698701, 
-      85633159
+      85633159, 
+      1360698819, 
+      404444819
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701172,
-    "wof:geomhash": "07788ed151c58f6c13ec3ebe4cd7b876",
+    "wof:geomhash": "8db7637d7af2444f8bf046980e54626f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504406937,
-    "wof:lastmodified": 1583786277,
+    "wof:lastmodified": 1609869795,
     "wof:name": "G60 5DX",
     "wof:parent_id": 101913913,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.449353, 
-    55.917943, 
-    -4.449353, 
-    55.917943
+    -4.449032, 
+    55.917932, 
+    -4.449032, 
+    55.917932
   ],
-  "geometry": {"coordinates":[-4.449353,55.917943],"type":"Point"}
+  "geometry": {"coordinates":[-4.449032,55.917932],"type":"Point"}
 }

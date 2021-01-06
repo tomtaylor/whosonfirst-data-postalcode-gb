@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.501995,53.568616,-1.501995,53.568616",
-    "geom:latitude": 53.568616,
-    "geom:longitude": -1.501995,
+    "geom:bbox": "-1.501724,53.568615,-1.501724,53.568615",
+    "geom:latitude": 53.568615,
+    "geom:longitude": -1.501724,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,27 +18,27 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699091, 
-      101750543, 
+      1125860113, 
       404227469, 
-      1360698591
+      1360698591, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583788913,
-    "wof:geomhash": "d84c41c9da4a15d62004b90983ab1f14",
+    "wof:geomhash": "2f6fecda06e0ff8418accc6219b7911d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360699091,
-        "locality_id": 101750543,
+        "locality_id": 1125860113,
         "macroregion_id": 404227469,
         "region_id": 1360698591
       }
     ],
     "wof:id": 1712457659,
-    "wof:lastmodified": 1595710839,
+    "wof:lastmodified": 1609869003,
     "wof:name": "S75 1FF",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.501995, 
-    53.568616, 
-    -1.501995, 
-    53.568616
+    -1.501724, 
+    53.568615, 
+    -1.501724, 
+    53.568615
   ],
-  "geometry": {"coordinates":[-1.501995,53.568616],"type":"Point"}
+  "geometry": {"coordinates":[-1.501724,53.568615],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.341399,52.013445,-2.341399,52.013445",
-    "geom:latitude": 52.013445,
-    "geom:longitude": -2.341399,
+    "geom:bbox": "-2.341378,52.013130,-2.341378,52.013130",
+    "geom:latitude": 52.01313,
+    "geom:longitude": -2.341378,
     "gp:parent_id": "14125",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698613, 
       85633159, 
       1360699043, 
       404442969, 
-      1360758099, 
-      404227469, 
-      1360698613
+      1360758099
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701718,
-    "wof:geomhash": "3bc30bfe9db634ffb70f6a63ce41acb8",
+    "wof:geomhash": "dbdaa1c7d1e0cf8c12ab6c3042bd0008",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454805565,
-    "wof:lastmodified": 1583786871,
+    "wof:lastmodified": 1609902491,
     "wof:name": "HR8 1SD",
     "wof:parent_id": 404442969,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.341399, 
-    52.013445, 
-    -2.341399, 
-    52.013445
+    -2.341378, 
+    52.01313, 
+    -2.341378, 
+    52.01313
   ],
-  "geometry": {"coordinates":[-2.341399,52.013445],"type":"Point"}
+  "geometry": {"coordinates":[-2.341378,52.01313],"type":"Point"}
 }

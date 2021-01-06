@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2002-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.415325,53.717106,-1.415325,53.717106",
-    "geom:latitude": 53.717106,
-    "geom:longitude": -1.415325,
+    "geom:bbox": "-1.413363,53.716818,-1.413363,53.716818",
+    "geom:latitude": 53.716818,
+    "geom:longitude": -1.413363,
     "gp:parent_id": "30385",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698609, 
+      85633159, 
       1360698945, 
       404450881, 
       1125858895, 
-      404227469, 
-      1360698609, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701272,
-    "wof:geomhash": "4fc439d22829e57a2f807e99d791b0a6",
+    "wof:geomhash": "39851cf1ccee69abc3d351f817cf481b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488141591,
-    "wof:lastmodified": 1583786182,
+    "wof:lastmodified": 1609876339,
     "wof:name": "WF6 2UA",
     "wof:parent_id": 404450881,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.415325, 
-    53.717106, 
-    -1.415325, 
-    53.717106
+    -1.413363, 
+    53.716818, 
+    -1.413363, 
+    53.716818
   ],
-  "geometry": {"coordinates":[-1.415325,53.717106],"type":"Point"}
+  "geometry": {"coordinates":[-1.413363,53.716818],"type":"Point"}
 }

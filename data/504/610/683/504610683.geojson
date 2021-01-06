@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.947240,51.687865,-4.947240,51.687865",
-    "geom:latitude": 51.687865,
-    "geom:longitude": -4.94724,
+    "geom:bbox": "-4.947220,51.687785,-4.947220,51.687785",
+    "geom:latitude": 51.687785,
+    "geom:longitude": -4.94722,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      101875485, 
+      404227475, 
       1360698639, 
       85633159, 
       1360698843, 
-      404436399, 
-      101875485, 
-      404227475
+      404436399
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701480,
-    "wof:geomhash": "ba955e70db4297f39bf836fb610c49bb",
+    "wof:geomhash": "ab447848d45cdae7feff82be0b74b514",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 504610683,
-    "wof:lastmodified": 1583786632,
+    "wof:lastmodified": 1609882253,
     "wof:name": "SA72 6QR",
     "wof:parent_id": 101875485,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.94724, 
-    51.687865, 
-    -4.94724, 
-    51.687865
+    -4.94722, 
+    51.687785, 
+    -4.94722, 
+    51.687785
   ],
-  "geometry": {"coordinates":[-4.94724,51.687865],"type":"Point"}
+  "geometry": {"coordinates":[-4.94722,51.687785],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.976316,59.324751,-2.976316,59.324751",
-    "geom:latitude": 59.324751,
-    "geom:longitude": -2.976316,
+    "geom:bbox": "-2.976557,59.324870,-2.976557,59.324870",
+    "geom:latitude": 59.32487,
+    "geom:longitude": -2.976557,
     "gp:parent_id": "12696205",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698823, 
-      404432629, 
       404227471, 
       1360698683, 
-      85633159
+      85633159, 
+      1360698823, 
+      404432629
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701348,
-    "wof:geomhash": "b5ce670cc31b3ed01b37e51771010f01",
+    "wof:geomhash": "349ee404e48c9a2fcb6fb52a9a0aaa15",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504464291,
-    "wof:lastmodified": 1583786460,
+    "wof:lastmodified": 1609872961,
     "wof:name": "KW17 2DL",
     "wof:parent_id": 404432629,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.976316, 
-    59.324751, 
-    -2.976316, 
-    59.324751
+    -2.976557, 
+    59.32487, 
+    -2.976557, 
+    59.32487
   ],
-  "geometry": {"coordinates":[-2.976316,59.324751],"type":"Point"}
+  "geometry": {"coordinates":[-2.976557,59.32487],"type":"Point"}
 }

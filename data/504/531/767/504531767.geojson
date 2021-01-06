@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1999-06-01",
     "geom:area": 0,
-    "geom:bbox": "-3.147730,51.676727,-3.147730,51.676727",
-    "geom:latitude": 51.676727,
-    "geom:longitude": -3.14773,
+    "geom:bbox": "-3.147709,51.676684,-3.147709,51.676684",
+    "geom:latitude": 51.676684,
+    "geom:longitude": -3.147709,
     "gp:parent_id": "17349",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698925, 
       404440883, 
       1243000075, 
       404227475, 
       1360698641, 
-      85633159
+      85633159, 
+      1360698925
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701407,
-    "wof:geomhash": "56c08e5c2b57f9088414ad7fdf3c193d",
+    "wof:geomhash": "1ddb79fb13e53dbc5df9762980410c0d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504531767,
-    "wof:lastmodified": 1583786537,
+    "wof:lastmodified": 1609878019,
     "wof:name": "NP11 3AL",
     "wof:parent_id": 404440883,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.14773, 
-    51.676727, 
-    -3.14773, 
-    51.676727
+    -3.147709, 
+    51.676684, 
+    -3.147709, 
+    51.676684
   ],
-  "geometry": {"coordinates":[-3.14773,51.676727],"type":"Point"}
+  "geometry": {"coordinates":[-3.147709,51.676684],"type":"Point"}
 }

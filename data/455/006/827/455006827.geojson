@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.378283,52.532854,-1.378283,52.532854",
-    "geom:latitude": 52.532854,
-    "geom:longitude": -1.378283,
+    "geom:bbox": "-1.378209,52.532845,-1.378209,52.532845",
+    "geom:latitude": 52.532845,
+    "geom:longitude": -1.378209,
     "gp:parent_id": "14509",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698569, 
       85633159, 
       1360698871, 
       404446465, 
       1126001939, 
-      404227469
+      404227469, 
+      1360698569
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701067,
-    "wof:geomhash": "5423579ec6f0ebeabc34888ff3a0bb4c",
+    "wof:geomhash": "4194294405199c48e355e4d5dff7e790",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 455006827,
-    "wof:lastmodified": 1595718193,
+    "wof:lastmodified": 1609868717,
     "wof:name": "LE10 2LL",
     "wof:parent_id": 101853605,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.378283, 
-    52.532854, 
-    -1.378283, 
-    52.532854
+    -1.378209, 
+    52.532845, 
+    -1.378209, 
+    52.532845
   ],
-  "geometry": {"coordinates":[-1.378283,52.532854],"type":"Point"}
+  "geometry": {"coordinates":[-1.378209,52.532845],"type":"Point"}
 }

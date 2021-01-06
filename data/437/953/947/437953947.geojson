@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.210724,51.817745,-0.210724,51.817745",
-    "geom:latitude": 51.817745,
-    "geom:longitude": -0.210724,
+    "geom:bbox": "-0.210583,51.817653,-0.210583,51.817653",
+    "geom:latitude": 51.817653,
+    "geom:longitude": -0.210583,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,11 +18,11 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698559, 
       85633159, 
       1360698763, 
       101853555, 
-      404227469, 
-      1360698559
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -30,7 +30,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701645,
-    "wof:geomhash": "8056e998c3233f8841b94e6acdf60b80",
+    "wof:geomhash": "f5e7673b6128f8deea33b3828887c3a0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -41,7 +41,7 @@
       }
     ],
     "wof:id": 437953947,
-    "wof:lastmodified": 1583786811,
+    "wof:lastmodified": 1609897264,
     "wof:name": "AL8 7EB",
     "wof:parent_id": 404434199,
     "wof:placetype": "postalcode",
@@ -51,10 +51,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.210724, 
-    51.817745, 
-    -0.210724, 
-    51.817745
+    -0.210583, 
+    51.817653, 
+    -0.210583, 
+    51.817653
   ],
-  "geometry": {"coordinates":[-0.210724,51.817745],"type":"Point"}
+  "geometry": {"coordinates":[-0.210583,51.817653],"type":"Point"}
 }

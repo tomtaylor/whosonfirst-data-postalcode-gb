@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2017-11-01",
     "geom:area": 0,
-    "geom:bbox": "-3.922478,55.797317,-3.922478,55.797317",
-    "geom:latitude": 55.797317,
-    "geom:longitude": -3.922478,
+    "geom:bbox": "-3.922830,55.797329,-3.922830,55.797329",
+    "geom:latitude": 55.797329,
+    "geom:longitude": -3.92283,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698949, 
       404435713, 
       404227471, 
       1360698703, 
-      85633159
+      85633159, 
+      1360698949
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583801313,
-    "wof:geomhash": "7db74fe4ade4a9e4d6191166c09f032f",
+    "wof:geomhash": "22776f33e4497350edf5d6960c808a20",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 39427749,
-    "wof:lastmodified": 1583801313,
+    "wof:lastmodified": 1609868466,
     "wof:name": "ML1 5FX",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.922478, 
-    55.797317, 
-    -3.922478, 
-    55.797317
+    -3.92283, 
+    55.797329, 
+    -3.92283, 
+    55.797329
   ],
-  "geometry": {"coordinates":[-3.922478,55.797317],"type":"Point"}
+  "geometry": {"coordinates":[-3.92283,55.797329],"type":"Point"}
 }

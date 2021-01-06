@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.548519,51.452617,-2.548519,51.452617",
-    "geom:latitude": 51.452617,
-    "geom:longitude": -2.548519,
+    "geom:bbox": "-2.547685,51.452710,-2.547685,51.452710",
+    "geom:latitude": 51.45271,
+    "geom:longitude": -2.547685,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,13 +18,13 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404431949, 
-      1175612699, 
       404227469, 
       85861373, 
       1360698531, 
       85633159, 
-      1360698747
+      1360698747, 
+      404431949, 
+      1175612699
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701491,
-    "wof:geomhash": "898790ac13f0fa12a333544748788f2e",
+    "wof:geomhash": "01f17dc8e8a51dda65658ca96c7204a1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 438304493,
-    "wof:lastmodified": 1583786627,
+    "wof:lastmodified": 1609884577,
     "wof:name": "BS4 4AB",
     "wof:parent_id": 101750389,
     "wof:placetype": "postalcode",
@@ -55,10 +55,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.548519, 
-    51.452617, 
-    -2.548519, 
-    51.452617
+    -2.547685, 
+    51.45271, 
+    -2.547685, 
+    51.45271
   ],
-  "geometry": {"coordinates":[-2.548519,51.452617],"type":"Point"}
+  "geometry": {"coordinates":[-2.547685,51.45271],"type":"Point"}
 }

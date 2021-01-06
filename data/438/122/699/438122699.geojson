@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.926986,53.912888,-1.926986,53.912888",
-    "geom:latitude": 53.912888,
-    "geom:longitude": -1.926986,
+    "geom:bbox": "-1.926849,53.912789,-1.926849,53.912789",
+    "geom:latitude": 53.912789,
+    "geom:longitude": -1.926849,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      404443803, 
+      101872259, 
       404227469, 
       1360698609, 
       85633159, 
-      1360698963, 
-      404443803, 
-      101872259
+      1360698963
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701318,
-    "wof:geomhash": "0c23249e7ebf7775f96a4453940317ef",
+    "wof:geomhash": "0db079c18734ffde13013ef2bb874494",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 438122699,
-    "wof:lastmodified": 1583786447,
+    "wof:lastmodified": 1609874468,
     "wof:name": "BD20 0LR",
     "wof:parent_id": 404443803,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.926986, 
-    53.912888, 
-    -1.926986, 
-    53.912888
+    -1.926849, 
+    53.912789, 
+    -1.926849, 
+    53.912789
   ],
-  "geometry": {"coordinates":[-1.926986,53.912888],"type":"Point"}
+  "geometry": {"coordinates":[-1.926849,53.912789],"type":"Point"}
 }

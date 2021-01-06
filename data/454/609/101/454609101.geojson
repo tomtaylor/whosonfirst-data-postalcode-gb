@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.308109,50.663368,-3.308109,50.663368",
-    "geom:latitude": 50.663368,
-    "geom:longitude": -3.308109,
+    "geom:bbox": "-3.308730,50.663316,-3.308730,50.663316",
+    "geom:latitude": 50.663316,
+    "geom:longitude": -3.30873,
     "gp:parent_id": "12555",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      1125774277, 
       404227469, 
       1360698541, 
       85633159, 
       1360699081, 
-      404432933, 
-      1125774277
+      404432933
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701663,
-    "wof:geomhash": "a5b5228e1c93a4562d4d5fc5d5a4ade7",
+    "wof:geomhash": "95274f6088c1c06846707641f7564e66",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454609101,
-    "wof:lastmodified": 1583786792,
+    "wof:lastmodified": 1609896526,
     "wof:name": "EX9 7BG",
     "wof:parent_id": 404432933,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.308109, 
-    50.663368, 
-    -3.308109, 
-    50.663368
+    -3.30873, 
+    50.663316, 
+    -3.30873, 
+    50.663316
   ],
-  "geometry": {"coordinates":[-3.308109,50.663368],"type":"Point"}
+  "geometry": {"coordinates":[-3.30873,50.663316],"type":"Point"}
 }

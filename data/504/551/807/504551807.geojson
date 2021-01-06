@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.132436,51.804748,-3.132436,51.804748",
-    "geom:latitude": 51.804748,
-    "geom:longitude": -3.132436,
+    "geom:bbox": "-3.132364,51.804767,-3.132364,51.804767",
+    "geom:latitude": 51.804767,
+    "geom:longitude": -3.132364,
     "gp:parent_id": "12696133",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698641, 
+      85633159, 
       1360699109, 
       404431395, 
       1360711819, 
-      404227475, 
-      1360698641, 
-      85633159
+      404227475
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701418,
-    "wof:geomhash": "49a23c6972939c946e041ad6bfe14220",
+    "wof:geomhash": "7c47faa6770556e2d92a5386910da336",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504551807,
-    "wof:lastmodified": 1595730078,
+    "wof:lastmodified": 1609878981,
     "wof:name": "NP7 0RE",
     "wof:parent_id": 404431395,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.132436, 
-    51.804748, 
-    -3.132436, 
-    51.804748
+    -3.132364, 
+    51.804767, 
+    -3.132364, 
+    51.804767
   ],
-  "geometry": {"coordinates":[-3.132436,51.804748],"type":"Point"}
+  "geometry": {"coordinates":[-3.132364,51.804767],"type":"Point"}
 }

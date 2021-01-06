@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.136160,55.854168,-4.136160,55.854168",
-    "geom:latitude": 55.854168,
-    "geom:longitude": -4.13616,
+    "geom:bbox": "-4.136173,55.854343,-4.136173,55.854343",
+    "geom:latitude": 55.854343,
+    "geom:longitude": -4.136173,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698797, 
       404430153, 
       1175612707, 
       404227471, 
       85792567, 
       1360698707, 
-      85633159, 
-      1360698797
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701148,
-    "wof:geomhash": "02b5719b8d036e56e514696493a6cd28",
+    "wof:geomhash": "b26ddc4f62551455dff10bb7ecfeba74",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 504398903,
-    "wof:lastmodified": 1583786249,
+    "wof:lastmodified": 1609869490,
     "wof:name": "G33 4TL",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.13616, 
-    55.854168, 
-    -4.13616, 
-    55.854168
+    -4.136173, 
+    55.854343, 
+    -4.136173, 
+    55.854343
   ],
-  "geometry": {"coordinates":[-4.13616,55.854168],"type":"Point"}
+  "geometry": {"coordinates":[-4.136173,55.854343],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-08-01",
     "geom:area": 0,
-    "geom:bbox": "-3.526127,50.481608,-3.526127,50.481608",
-    "geom:latitude": 50.481608,
-    "geom:longitude": -3.526127,
+    "geom:bbox": "-3.525970,50.481574,-3.525970,50.481574",
+    "geom:latitude": 50.481574,
+    "geom:longitude": -3.52597,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699071, 
-      1360817197, 
-      101751577, 
       404227469, 
       1360698541, 
-      85633159
+      85633159, 
+      1360699071, 
+      1360817197, 
+      101751577
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583792717,
-    "wof:geomhash": "b76e16707a837d3e15e7d52aae3bf64a",
+    "wof:geomhash": "9edbff85e150563c44b64aa057e8b7c0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 38651769,
-    "wof:lastmodified": 1583792717,
+    "wof:lastmodified": 1609868477,
     "wof:name": "TQ1 4FZ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.526127, 
-    50.481608, 
-    -3.526127, 
-    50.481608
+    -3.52597, 
+    50.481574, 
+    -3.52597, 
+    50.481574
   ],
-  "geometry": {"coordinates":[-3.526127,50.481608],"type":"Point"}
+  "geometry": {"coordinates":[-3.52597,50.481574],"type":"Point"}
 }

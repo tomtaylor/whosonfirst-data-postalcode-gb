@@ -2,32 +2,32 @@
   "id": 1161043878,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "1994-12-01",
-    "edtf:inception": "1980-01-01",
+    "edtf:cessation": "2020-09-01",
+    "edtf:inception": "2020-06-01",
     "geom:area": 0,
-    "geom:bbox": "0.900487,51.887774,0.900487,51.887774",
-    "geom:latitude": 51.887774,
-    "geom:longitude": 0.900487,
+    "geom:bbox": "0.894717,51.898387,0.894717,51.898387",
+    "geom:latitude": 51.898387,
+    "geom:longitude": 0.894717,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000012",
     "os:district_code": "E07000071",
-    "os:positional_quality_indicator": "8",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      101750405, 
       404227469, 
       1360698551, 
       85633159, 
-      1360698979, 
-      101750405
+      1360698979
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583801371,
-    "wof:geomhash": "149bae108b1807e394d79bf9d1c2c3dd",
+    "wof:geomhash": "e44fbfeb75798666256189b2df79a1fa",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1161043878,
-    "wof:lastmodified": 1583801371,
+    "wof:lastmodified": 1609875290,
     "wof:name": "CO1 1LU",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.900487, 
-    51.887774, 
-    0.900487, 
-    51.887774
+    0.894717, 
+    51.898387, 
+    0.894717, 
+    51.898387
   ],
-  "geometry": {"coordinates":[0.900487,51.887774],"type":"Point"}
+  "geometry": {"coordinates":[0.894717,51.898387],"type":"Point"}
 }

@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.496746,52.899338,-2.496746,52.899338",
-    "geom:latitude": 52.899338,
+    "geom:bbox": "-2.496746,52.899401,-2.496746,52.899401",
+    "geom:latitude": 52.899401,
     "geom:longitude": -2.496746,
     "gp:parent_id": "28345",
     "iso:country": "GB",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698587, 
-      85633159, 
       1360698821, 
       404444687, 
-      1226681525
+      1226681525, 
+      404227469, 
+      1360698587, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701196,
-    "wof:geomhash": "f35339b9a2c82102ec58b8ca0f7b67a2",
+    "wof:geomhash": "bbf12ca406cea13957054c10f473cda8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487832379,
-    "wof:lastmodified": 1595724030,
+    "wof:lastmodified": 1609882132,
     "wof:name": "TF9 1DE",
     "wof:parent_id": 101871877,
     "wof:placetype": "postalcode",
@@ -55,9 +55,9 @@
   },
   "bbox": [
     -2.496746, 
-    52.899338, 
+    52.899401, 
     -2.496746, 
-    52.899338
+    52.899401
   ],
-  "geometry": {"coordinates":[-2.496746,52.899338],"type":"Point"}
+  "geometry": {"coordinates":[-2.496746,52.899401],"type":"Point"}
 }

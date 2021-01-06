@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.099470,51.582741,-0.099470,51.582741",
-    "geom:latitude": 51.582741,
-    "geom:longitude": -0.09947,
+    "geom:bbox": "-0.099477,51.583023,-0.099477,51.583023",
+    "geom:latitude": 51.583023,
+    "geom:longitude": -0.099477,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      101750367, 
-      404227469, 
       85787927, 
       1360698645, 
       1158857279, 
-      85633159
+      85633159, 
+      101750367, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701117,
-    "wof:geomhash": "0c0c0011a4010155b10d835a41245bb1",
+    "wof:geomhash": "b20857f995e1b697a185800a80de3cea",
     "wof:hierarchy": [
       {
         "borough_id": 1158857279,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471026013,
-    "wof:lastmodified": 1583786239,
+    "wof:lastmodified": 1609869214,
     "wof:name": "N8 0RX",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.09947, 
-    51.582741, 
-    -0.09947, 
-    51.582741
+    -0.099477, 
+    51.583023, 
+    -0.099477, 
+    51.583023
   ],
-  "geometry": {"coordinates":[-0.09947,51.582741],"type":"Point"}
+  "geometry": {"coordinates":[-0.099477,51.583023],"type":"Point"}
 }

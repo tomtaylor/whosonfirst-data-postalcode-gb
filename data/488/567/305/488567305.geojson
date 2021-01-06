@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.610112,51.450387,-3.610112,51.450387",
-    "geom:latitude": 51.450387,
-    "geom:longitude": -3.610112,
+    "geom:bbox": "-3.609900,51.451244,-3.609900,51.451244",
+    "geom:latitude": 51.451244,
+    "geom:longitude": -3.6099,
     "gp:parent_id": "35378",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698627, 
+      85633159, 
       1360698899, 
       404453987, 
       1125797023, 
-      404227475, 
-      1360698627, 
-      85633159
+      404227475
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701593,
-    "wof:geomhash": "f20e3c12be220f9408b0081d9b7e5f1d",
+    "wof:geomhash": "e0240d44dae2c22dd48cd1a1ce06f23e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488567305,
-    "wof:lastmodified": 1583786781,
+    "wof:lastmodified": 1609897061,
     "wof:name": "CF32 0RP",
     "wof:parent_id": 404453987,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.610112, 
-    51.450387, 
-    -3.610112, 
-    51.450387
+    -3.6099, 
+    51.451244, 
+    -3.6099, 
+    51.451244
   ],
-  "geometry": {"coordinates":[-3.610112,51.450387],"type":"Point"}
+  "geometry": {"coordinates":[-3.6099,51.451244],"type":"Point"}
 }

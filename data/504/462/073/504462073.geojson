@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.088051,58.442930,-3.088051,58.442930",
-    "geom:latitude": 58.44293,
-    "geom:longitude": -3.088051,
+    "geom:bbox": "-3.088543,58.442773,-3.088543,58.442773",
+    "geom:latitude": 58.442773,
+    "geom:longitude": -3.088543,
     "gp:parent_id": "12696199",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227471, 
-      1360698663, 
       85633159, 
       1360699045, 
-      404436073
+      404436073, 
+      404227471, 
+      1360698663
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701341,
-    "wof:geomhash": "15c0bb9667f549f03a946215429e006e",
+    "wof:geomhash": "8402ad733b261b447533e2862ec67c1c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504462073,
-    "wof:lastmodified": 1583786455,
+    "wof:lastmodified": 1609872804,
     "wof:name": "KW1 4LU",
     "wof:parent_id": 101873675,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.088051, 
-    58.44293, 
-    -3.088051, 
-    58.44293
+    -3.088543, 
+    58.442773, 
+    -3.088543, 
+    58.442773
   ],
-  "geometry": {"coordinates":[-3.088051,58.44293],"type":"Point"}
+  "geometry": {"coordinates":[-3.088543,58.442773],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-5.538897,50.120067,-5.538897,50.120067",
-    "geom:latitude": 50.120067,
-    "geom:longitude": -5.538897,
+    "geom:bbox": "-5.538893,50.120023,-5.538893,50.120023",
+    "geom:latitude": 50.120023,
+    "geom:longitude": -5.538893,
     "gp:parent_id": "31889",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404449797, 
       1141906973, 
       404227469, 
       1360698623, 
       85633159, 
-      1360699085
+      1360699085, 
+      404449797
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701259,
-    "wof:geomhash": "d663d68894a0be827356829bdaa70b3f",
+    "wof:geomhash": "f6d77983dd8950dcb90916eb8f526e75",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487918099,
-    "wof:lastmodified": 1583786334,
+    "wof:lastmodified": 1609886491,
     "wof:name": "TR18 2SP",
     "wof:parent_id": 404449797,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -5.538897, 
-    50.120067, 
-    -5.538897, 
-    50.120067
+    -5.538893, 
+    50.120023, 
+    -5.538893, 
+    50.120023
   ],
-  "geometry": {"coordinates":[-5.538897,50.120067],"type":"Point"}
+  "geometry": {"coordinates":[-5.538893,50.120023],"type":"Point"}
 }

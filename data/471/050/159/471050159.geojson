@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.443192,55.045152,-1.443192,55.045152",
-    "geom:latitude": 55.045152,
-    "geom:longitude": -1.443192,
+    "geom:bbox": "-1.442834,55.044980,-1.442834,55.044980",
+    "geom:latitude": 55.04498,
+    "geom:longitude": -1.442834,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
+      1360699037, 
       1360817045, 
       101751655, 
       404227469, 
       1360698601, 
-      85633159, 
-      1360699037
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701176,
-    "wof:geomhash": "cbdc4f363aa5d231fa80063e3aaf51a0",
+    "wof:geomhash": "d7fa666153bea2d7a497d6124373c4d1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471050159,
-    "wof:lastmodified": 1583786310,
+    "wof:lastmodified": 1609870135,
     "wof:name": "NE26 1AW",
     "wof:parent_id": 101751655,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.443192, 
-    55.045152, 
-    -1.443192, 
-    55.045152
+    -1.442834, 
+    55.04498, 
+    -1.442834, 
+    55.04498
   ],
-  "geometry": {"coordinates":[-1.443192,55.045152],"type":"Point"}
+  "geometry": {"coordinates":[-1.442834,55.04498],"type":"Point"}
 }

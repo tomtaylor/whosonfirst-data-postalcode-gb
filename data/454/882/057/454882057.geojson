@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.884629,52.598143,0.884629,52.598143",
-    "geom:latitude": 52.598143,
-    "geom:longitude": 0.884629,
+    "geom:bbox": "0.884562,52.598019,0.884562,52.598019",
+    "geom:latitude": 52.598019,
+    "geom:longitude": 0.884562,
     "gp:parent_id": "15119",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698575, 
-      85633159, 
       1360698955, 
       404432911, 
-      1125902827
+      1125902827, 
+      404227469, 
+      1360698575, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701745,
-    "wof:geomhash": "a8d438d2c7b8871d946485d396136c65",
+    "wof:geomhash": "c0d98db5e52365bd44d0be5d8520981b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454882057,
-    "wof:lastmodified": 1583786875,
+    "wof:lastmodified": 1609904151,
     "wof:name": "IP25 6SX",
     "wof:parent_id": 404432911,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.884629, 
-    52.598143, 
-    0.884629, 
-    52.598143
+    0.884562, 
+    52.598019, 
+    0.884562, 
+    52.598019
   ],
-  "geometry": {"coordinates":[0.884629,52.598143],"type":"Point"}
+  "geometry": {"coordinates":[0.884562,52.598019],"type":"Point"}
 }

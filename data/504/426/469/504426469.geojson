@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1991-03-01",
     "geom:area": 0,
-    "geom:bbox": "-4.381064,55.895305,-4.381064,55.895305",
-    "geom:latitude": 55.895305,
-    "geom:longitude": -4.381064,
+    "geom:bbox": "-4.381142,55.895267,-4.381142,55.895267",
+    "geom:latitude": 55.895267,
+    "geom:longitude": -4.381142,
     "gp:parent_id": "16407",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404444819, 
-      404227471, 
       1360698701, 
       85633159, 
-      1360698797
+      1360698797, 
+      404444819, 
+      404227471
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701219,
-    "wof:geomhash": "5d272184abfb3e575bd79246f4826443",
+    "wof:geomhash": "82ad94998b8e473817df826bc9a6c8a0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504426469,
-    "wof:lastmodified": 1595728088,
+    "wof:lastmodified": 1609870675,
     "wof:name": "G81 1HX",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.381064, 
-    55.895305, 
-    -4.381064, 
-    55.895305
+    -4.381142, 
+    55.895267, 
+    -4.381142, 
+    55.895267
   ],
-  "geometry": {"coordinates":[-4.381064,55.895305],"type":"Point"}
+  "geometry": {"coordinates":[-4.381142,55.895267],"type":"Point"}
 }

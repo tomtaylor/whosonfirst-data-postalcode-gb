@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1993-08-01",
     "geom:area": 0,
-    "geom:bbox": "-3.439842,52.178830,-3.439842,52.178830",
-    "geom:latitude": 52.17883,
-    "geom:longitude": -3.439842,
+    "geom:bbox": "-3.439812,52.179020,-3.439812,52.179020",
+    "geom:latitude": 52.17902,
+    "geom:longitude": -3.439812,
     "gp:parent_id": "12696134",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698985, 
-      404440999, 
       1360711351, 
       404227475, 
-      1360698625
+      1360698625, 
+      85633159, 
+      1360698985, 
+      404440999
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701364,
-    "wof:geomhash": "f9b31b75c7c303f290cc37168a6eca87",
+    "wof:geomhash": "c3c8299cca555b24ddd163221fd96fe4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504480955,
-    "wof:lastmodified": 1583786475,
+    "wof:lastmodified": 1609874223,
     "wof:name": "LD2 3YF",
     "wof:parent_id": 404440999,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.439842, 
-    52.17883, 
-    -3.439842, 
-    52.17883
+    -3.439812, 
+    52.17902, 
+    -3.439812, 
+    52.17902
   ],
-  "geometry": {"coordinates":[-3.439842,52.17883],"type":"Point"}
+  "geometry": {"coordinates":[-3.439812,52.17902],"type":"Point"}
 }

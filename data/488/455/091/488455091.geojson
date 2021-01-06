@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1991-07-01",
     "geom:area": 0,
-    "geom:bbox": "-3.442659,56.400136,-3.442659,56.400136",
-    "geom:latitude": 56.400136,
-    "geom:longitude": -3.442659,
+    "geom:bbox": "-3.442644,56.399768,-3.442644,56.399768",
+    "geom:latitude": 56.399768,
+    "geom:longitude": -3.442644,
     "gp:parent_id": "12696206",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227471, 
-      1360698691, 
       85633159, 
       1360698829, 
-      404451983
+      404451983, 
+      404227471, 
+      1360698691
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701471,
-    "wof:geomhash": "a585079591694d17755bc8edf26d236d",
+    "wof:geomhash": "78eee150e891ce9436df8bee35c72d42",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488455091,
-    "wof:lastmodified": 1583786678,
+    "wof:lastmodified": 1609892563,
     "wof:name": "PH1 5XA",
     "wof:parent_id": 101872645,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.442659, 
-    56.400136, 
-    -3.442659, 
-    56.400136
+    -3.442644, 
+    56.399768, 
+    -3.442644, 
+    56.399768
   ],
-  "geometry": {"coordinates":[-3.442659,56.400136],"type":"Point"}
+  "geometry": {"coordinates":[-3.442644,56.399768],"type":"Point"}
 }

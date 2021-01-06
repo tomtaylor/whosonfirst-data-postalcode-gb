@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.678149,53.444189,-2.678149,53.444189",
-    "geom:latitude": 53.444189,
-    "geom:longitude": -2.678149,
+    "geom:bbox": "-2.678148,53.444214,-2.678148,53.444214",
+    "geom:latitude": 53.444214,
+    "geom:longitude": -2.678148,
     "gp:parent_id": "16638",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698537, 
+      85633159, 
       1360698965, 
       404430231, 
       1360754119, 
-      404227469, 
-      1360698537, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701234,
-    "wof:geomhash": "f7ed70a9ea0d2a2a1f2e62cea5890f0c",
+    "wof:geomhash": "6b3869f49eee6d44bbff482c0f086d1c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488081311,
-    "wof:lastmodified": 1583786399,
+    "wof:lastmodified": 1609871705,
     "wof:name": "WA5 4AB",
     "wof:parent_id": 404430231,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.678149, 
-    53.444189, 
-    -2.678149, 
-    53.444189
+    -2.678148, 
+    53.444214, 
+    -2.678148, 
+    53.444214
   ],
-  "geometry": {"coordinates":[-2.678149,53.444189],"type":"Point"}
+  "geometry": {"coordinates":[-2.678148,53.444214],"type":"Point"}
 }

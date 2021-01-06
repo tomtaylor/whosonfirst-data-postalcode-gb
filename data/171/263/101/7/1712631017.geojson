@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-08-01",
     "geom:area": 0,
-    "geom:bbox": "-1.620691,54.746240,-1.620691,54.746240",
-    "geom:latitude": 54.74624,
-    "geom:longitude": -1.620691,
+    "geom:bbox": "-1.620553,54.746096,-1.620553,54.746096",
+    "geom:latitude": 54.746096,
+    "geom:longitude": -1.620553,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      1360753835, 
       404227469, 
       1360698621, 
       85633159, 
       1360699055, 
-      404454579
+      404454579, 
+      1360753835
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583796615,
-    "wof:geomhash": "b59d956f79e4edc87bccc01235ef4ecb",
+    "wof:geomhash": "92ede6ce75d5f3aa1410fb0cd6f84568",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712631017,
-    "wof:lastmodified": 1583796615,
+    "wof:lastmodified": 1609871607,
     "wof:name": "DH7 8LP",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.620691, 
-    54.74624, 
-    -1.620691, 
-    54.74624
+    -1.620553, 
+    54.746096, 
+    -1.620553, 
+    54.746096
   ],
-  "geometry": {"coordinates":[-1.620691,54.74624],"type":"Point"}
+  "geometry": {"coordinates":[-1.620553,54.746096],"type":"Point"}
 }

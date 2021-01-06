@@ -2,7 +2,7 @@
   "id": 39535605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-06-01",
     "edtf:inception": "2018-11-01",
     "geom:area": 0,
     "geom:bbox": "-3.965516,56.180327,-3.965516,56.180327",
@@ -10,7 +10,7 @@
     "geom:longitude": -3.965516,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "S92000003",
     "os:county_code": "S99999999",
     "os:district_code": "S12000030",
@@ -18,11 +18,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360699003, 
       404433721, 
       404227471, 
-      1360698655, 
-      85633159, 
-      1360699003
+      1360698655
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 39535605,
-    "wof:lastmodified": 1583802535,
+    "wof:lastmodified": 1609868471,
     "wof:name": "FK15 5BB",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

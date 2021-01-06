@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.349926,51.185145,1.349926,51.185145",
-    "geom:latitude": 51.185145,
-    "geom:longitude": 1.349926,
+    "geom:bbox": "1.347120,51.187106,1.347120,51.187106",
+    "geom:latitude": 51.187106,
+    "geom:longitude": 1.34712,
     "gp:parent_id": "36665",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698811, 
-      404441943, 
       1360757401, 
       404227469, 
-      1360698565
+      1360698565, 
+      85633159, 
+      1360698811, 
+      404441943
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701389,
-    "wof:geomhash": "eed307e2b939731507e0f552f31384a6",
+    "wof:geomhash": "3f534ca969babe9d408a1e0f5da3825e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454224167,
-    "wof:lastmodified": 1595713380,
+    "wof:lastmodified": 1609878973,
     "wof:name": "CT15 5HW",
     "wof:parent_id": 404441943,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.349926, 
-    51.185145, 
-    1.349926, 
-    51.185145
+    1.34712, 
+    51.187106, 
+    1.34712, 
+    51.187106
   ],
-  "geometry": {"coordinates":[1.349926,51.185145],"type":"Point"}
+  "geometry": {"coordinates":[1.34712,51.187106],"type":"Point"}
 }

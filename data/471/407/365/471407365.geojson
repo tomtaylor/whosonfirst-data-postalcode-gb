@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.565648,50.369349,-4.565648,50.369349",
-    "geom:latitude": 50.369349,
-    "geom:longitude": -4.565648,
+    "geom:bbox": "-4.567520,50.369901,-4.567520,50.369901",
+    "geom:latitude": 50.369901,
+    "geom:longitude": -4.56752,
     "gp:parent_id": "25830",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698623, 
       85633159, 
       1360699085, 
       404451055, 
       1126046453, 
-      404227469
+      404227469, 
+      1360698623
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701567,
-    "wof:geomhash": "b26db2c80dbf579ebe4ecb3a40411427",
+    "wof:geomhash": "bf9068645b9a50fe235594ace9526413",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471407365,
-    "wof:lastmodified": 1583786715,
+    "wof:lastmodified": 1609891000,
     "wof:name": "PL13 2PA",
     "wof:parent_id": 404451055,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.565648, 
-    50.369349, 
-    -4.565648, 
-    50.369349
+    -4.56752, 
+    50.369901, 
+    -4.56752, 
+    50.369901
   ],
-  "geometry": {"coordinates":[-4.565648,50.369349],"type":"Point"}
+  "geometry": {"coordinates":[-4.56752,50.369901],"type":"Point"}
 }

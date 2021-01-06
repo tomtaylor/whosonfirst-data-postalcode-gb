@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.443259,51.223495,-2.443259,51.223495",
-    "geom:latitude": 51.223495,
-    "geom:longitude": -2.443259,
+    "geom:bbox": "-2.443558,51.223425,-2.443558,51.223425",
+    "geom:latitude": 51.223425,
+    "geom:longitude": -2.443558,
     "gp:parent_id": "26077",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698589, 
-      85633159, 
-      1360699059, 
       404441085, 
       1360756715, 
-      404227469
+      404227469, 
+      1360698589, 
+      85633159, 
+      1360699059
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701201,
-    "wof:geomhash": "e8edf373f17c94b47b6fa8d9a3b780b8",
+    "wof:geomhash": "ae1aadf7c74fd14684cb138695ef10ec",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438071619,
-    "wof:lastmodified": 1583786338,
+    "wof:lastmodified": 1609871014,
     "wof:name": "BA3 5QQ",
     "wof:parent_id": 404441085,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.443259, 
-    51.223495, 
-    -2.443259, 
-    51.223495
+    -2.443558, 
+    51.223425, 
+    -2.443558, 
+    51.223425
   ],
-  "geometry": {"coordinates":[-2.443259,51.223495],"type":"Point"}
+  "geometry": {"coordinates":[-2.443558,51.223425],"type":"Point"}
 }

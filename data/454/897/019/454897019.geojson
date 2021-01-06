@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.051641,52.155459,1.051641,52.155459",
-    "geom:latitude": 52.155459,
-    "geom:longitude": 1.051641,
+    "geom:bbox": "1.051609,52.155424,1.051609,52.155424",
+    "geom:latitude": 52.155424,
+    "geom:longitude": 1.051609,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699041, 
-      404433605, 
-      101854855, 
       404227469, 
       1360698595, 
-      85633159
+      85633159, 
+      1360699041, 
+      404433605, 
+      101854855
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701747,
-    "wof:geomhash": "d1c46ef1cccfe4d2afbb0a8dce360812",
+    "wof:geomhash": "7bd02be3b7d3a42958396ee0636e45f3",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454897019,
-    "wof:lastmodified": 1583786876,
+    "wof:lastmodified": 1609904491,
     "wof:name": "IP6 8AG",
     "wof:parent_id": 101854855,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.051641, 
-    52.155459, 
-    1.051641, 
-    52.155459
+    1.051609, 
+    52.155424, 
+    1.051609, 
+    52.155424
   ],
-  "geometry": {"coordinates":[1.051641,52.155459],"type":"Point"}
+  "geometry": {"coordinates":[1.051609,52.155424],"type":"Point"}
 }

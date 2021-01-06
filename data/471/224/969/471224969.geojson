@@ -2,7 +2,7 @@
   "id": 471224969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-09-01",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:bbox": "1.263213,52.650288,1.263213,52.650288",
@@ -11,7 +11,7 @@
     "gp:parent_id": "22945",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000020",
     "os:district_code": "E07000148",
@@ -19,11 +19,11 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698575, 
       85633159, 
       1360698955, 
-      101750483
+      101750483, 
+      404227469, 
+      1360698575
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 471224969,
-    "wof:lastmodified": 1583786569,
+    "wof:lastmodified": 1609881082,
     "wof:name": "NR3 2AJ",
     "wof:parent_id": 404432969,
     "wof:placetype": "postalcode",

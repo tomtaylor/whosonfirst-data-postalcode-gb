@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.611090,51.733971,0.611090,51.733971",
-    "geom:latitude": 51.733971,
-    "geom:longitude": 0.61109,
+    "geom:bbox": "0.611018,51.734234,0.611018,51.734234",
+    "geom:latitude": 51.734234,
+    "geom:longitude": 0.611018,
     "gp:parent_id": "40958",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1125920875, 
-      404227469, 
       1360698551, 
       85633159, 
       1360698979, 
-      404429185
+      404429185, 
+      1125920875, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701330,
-    "wof:geomhash": "ddef8dd8c8127a750a4b865606e5c7cc",
+    "wof:geomhash": "67a3d12e8b3ec22d709070e6fe073013",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454167301,
-    "wof:lastmodified": 1583786468,
+    "wof:lastmodified": 1609875537,
     "wof:name": "CM9 6RR",
     "wof:parent_id": 404429185,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.61109, 
-    51.733971, 
-    0.61109, 
-    51.733971
+    0.611018, 
+    51.734234, 
+    0.611018, 
+    51.734234
   ],
-  "geometry": {"coordinates":[0.61109,51.733971],"type":"Point"}
+  "geometry": {"coordinates":[0.611018,51.734234],"type":"Point"}
 }

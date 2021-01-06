@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.405752,53.572739,-0.405752,53.572739",
-    "geom:latitude": 53.572739,
-    "geom:longitude": -0.405752,
+    "geom:bbox": "-0.405811,53.572482,-0.405811,53.572482",
+    "geom:latitude": 53.572482,
+    "geom:longitude": -0.405811,
     "gp:parent_id": "11901",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      1125992641, 
       404227469, 
       1360698571, 
       85633159, 
       1360698901, 
-      404438181, 
-      1125992641
+      404438181
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701569,
-    "wof:geomhash": "94fa90b4b877bb9fba2f8ebd2e90a53c",
+    "wof:geomhash": "cf467c74e6e545a3c03ddcbb09cf380a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454446795,
-    "wof:lastmodified": 1583786707,
+    "wof:lastmodified": 1609889839,
     "wof:name": "DN38 6HX",
     "wof:parent_id": 404438181,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.405752, 
-    53.572739, 
-    -0.405752, 
-    53.572739
+    -0.405811, 
+    53.572482, 
+    -0.405811, 
+    53.572482
   ],
-  "geometry": {"coordinates":[-0.405752,53.572739],"type":"Point"}
+  "geometry": {"coordinates":[-0.405811,53.572482],"type":"Point"}
 }

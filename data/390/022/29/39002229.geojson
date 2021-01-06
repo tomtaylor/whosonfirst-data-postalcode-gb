@@ -5,30 +5,30 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.536090,52.761459,-1.536090,52.761459",
-    "geom:latitude": 52.761459,
-    "geom:longitude": -1.53609,
+    "geom:bbox": "-1.540379,52.760856,-1.540379,52.760856",
+    "geom:latitude": 52.760856,
+    "geom:longitude": -1.540379,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000007",
     "os:district_code": "E07000039",
-    "os:positional_quality_indicator": "5",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
       1360698539, 
       85633159, 
       1360698765, 
       404431585, 
-      1126030813, 
-      404227469
+      1126030813
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583796667,
-    "wof:geomhash": "4b28b9325557e0433444cb21c17a2e50",
+    "wof:geomhash": "8690aa80530f0cf7d39171777ba5fa3d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 39002229,
-    "wof:lastmodified": 1583796667,
+    "wof:lastmodified": 1609868444,
     "wof:name": "DE11 8FU",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.53609, 
-    52.761459, 
-    -1.53609, 
-    52.761459
+    -1.540379, 
+    52.760856, 
+    -1.540379, 
+    52.760856
   ],
-  "geometry": {"coordinates":[-1.53609,52.761459],"type":"Point"}
+  "geometry": {"coordinates":[-1.540379,52.760856],"type":"Point"}
 }

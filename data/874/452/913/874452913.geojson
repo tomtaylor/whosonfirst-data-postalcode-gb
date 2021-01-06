@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2011-12-01",
     "geom:area": 0,
-    "geom:bbox": "-3.168747,55.642851,-3.168747,55.642851",
-    "geom:latitude": 55.642851,
-    "geom:longitude": -3.168747,
+    "geom:bbox": "-3.168714,55.642788,-3.168714,55.642788",
+    "geom:latitude": 55.642788,
+    "geom:longitude": -3.168714,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698653, 
       85633159, 
       1360699015, 
       404442083, 
-      404227471
+      404227471, 
+      1360698653
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468879035,
-    "wof:geomhash": "93e5442859d8b81ece0d3b60cc46441b",
+    "wof:geomhash": "16519fa2a957e983dd174f04bc9a6310",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 874452913,
-    "wof:lastmodified": 1583786251,
+    "wof:lastmodified": 1609869763,
     "wof:name": "EH45 9NL",
     "wof:parent_id": 404442083,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.168747, 
-    55.642851, 
-    -3.168747, 
-    55.642851
+    -3.168714, 
+    55.642788, 
+    -3.168714, 
+    55.642788
   ],
-  "geometry": {"coordinates":[-3.168747,55.642851],"type":"Point"}
+  "geometry": {"coordinates":[-3.168714,55.642788],"type":"Point"}
 }

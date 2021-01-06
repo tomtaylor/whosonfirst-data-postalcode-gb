@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-5.470530,56.398882,-5.470530,56.398882",
-    "geom:latitude": 56.398882,
-    "geom:longitude": -5.47053,
+    "geom:bbox": "-5.470436,56.398921,-5.470436,56.398921",
+    "geom:latitude": 56.398921,
+    "geom:longitude": -5.470436,
     "gp:parent_id": "12696185",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698863, 
       404439789, 
       404227471, 
-      1360698695
+      1360698695, 
+      85633159, 
+      1360698863
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701430,
-    "wof:geomhash": "4467fc268c71f6243c9ac6a6cbcb0236",
+    "wof:geomhash": "c65b69aea34952eddd238d38450aec6c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504564209,
-    "wof:lastmodified": 1583786574,
+    "wof:lastmodified": 1609879592,
     "wof:name": "PA34 4SB",
     "wof:parent_id": 404439789,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -5.47053, 
-    56.398882, 
-    -5.47053, 
-    56.398882
+    -5.470436, 
+    56.398921, 
+    -5.470436, 
+    56.398921
   ],
-  "geometry": {"coordinates":[-5.47053,56.398882],"type":"Point"}
+  "geometry": {"coordinates":[-5.470436,56.398921],"type":"Point"}
 }

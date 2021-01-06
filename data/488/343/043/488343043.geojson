@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2009-11-01",
     "geom:area": 0,
-    "geom:bbox": "-4.182043,50.480423,-4.182043,50.480423",
-    "geom:latitude": 50.480423,
-    "geom:longitude": -4.182043,
+    "geom:bbox": "-4.182072,50.480411,-4.182072,50.480411",
+    "geom:latitude": 50.480411,
+    "geom:longitude": -4.182072,
     "gp:parent_id": "12695921",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1125798665, 
       404227469, 
       1360698541, 
       85633159, 
       1360699081, 
-      404435103
+      404435103, 
+      1125798665
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701355,
-    "wof:geomhash": "5bf9b1c91c2fbe8a42690cf8206339b0",
+    "wof:geomhash": "cb6436e80a83ab49673f18580dd5f4b1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488343043,
-    "wof:lastmodified": 1583786553,
+    "wof:lastmodified": 1609887431,
     "wof:name": "PL20 7FJ",
     "wof:parent_id": 404435103,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.182043, 
-    50.480423, 
-    -4.182043, 
-    50.480423
+    -4.182072, 
+    50.480411, 
+    -4.182072, 
+    50.480411
   ],
-  "geometry": {"coordinates":[-4.182043,50.480423],"type":"Point"}
+  "geometry": {"coordinates":[-4.182072,50.480411],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1994-05-01",
     "geom:area": 0,
-    "geom:bbox": "-1.039147,52.531613,-1.039147,52.531613",
-    "geom:latitude": 52.531613,
-    "geom:longitude": -1.039147,
+    "geom:bbox": "-1.038456,52.531095,-1.038456,52.531095",
+    "geom:latitude": 52.531095,
+    "geom:longitude": -1.038456,
     "gp:parent_id": "20290",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698871, 
       404444823, 
       1242807083, 
       404227469, 
       1360698569, 
-      85633159, 
-      1360698871
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701134,
-    "wof:geomhash": "28ebea00abb2668f692b1b4199298efa",
+    "wof:geomhash": "0ac792f1c715de55f995134e3f89d959",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 455047151,
-    "wof:lastmodified": 1583786257,
+    "wof:lastmodified": 1609869913,
     "wof:name": "LE8 8UD",
     "wof:parent_id": 404444823,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.039147, 
-    52.531613, 
-    -1.039147, 
-    52.531613
+    -1.038456, 
+    52.531095, 
+    -1.038456, 
+    52.531095
   ],
-  "geometry": {"coordinates":[-1.039147,52.531613],"type":"Point"}
+  "geometry": {"coordinates":[-1.038456,52.531095],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.684951,50.757224,-2.684951,50.757224",
-    "geom:latitude": 50.757224,
-    "geom:longitude": -2.684951,
+    "geom:bbox": "-2.684867,50.757288,-2.684867,50.757288",
+    "geom:latitude": 50.757288,
+    "geom:longitude": -2.684867,
     "gp:parent_id": "29854",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698745, 
       404445413, 
       1125990029, 
       404227469, 
-      1360698545, 
-      85633159, 
-      1360698745
+      1360698545
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701592,
-    "wof:geomhash": "eec20787ce8b5a4b91321f8ad66bad6b",
+    "wof:geomhash": "3a706bd04655cd8ffcc451311eae65f0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454471129,
-    "wof:lastmodified": 1583786722,
+    "wof:lastmodified": 1609891052,
     "wof:name": "DT6 3SR",
     "wof:parent_id": 404445413,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.684951, 
-    50.757224, 
-    -2.684951, 
-    50.757224
+    -2.684867, 
+    50.757288, 
+    -2.684867, 
+    50.757288
   ],
-  "geometry": {"coordinates":[-2.684951,50.757224],"type":"Point"}
+  "geometry": {"coordinates":[-2.684867,50.757288],"type":"Point"}
 }

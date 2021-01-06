@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1995-07-01",
     "geom:area": 0,
-    "geom:bbox": "-0.711048,51.431040,-0.711048,51.431040",
-    "geom:latitude": 51.43104,
-    "geom:longitude": -0.711048,
+    "geom:bbox": "-0.710945,51.431146,-0.710945,51.431146",
+    "geom:latitude": 51.431146,
+    "geom:longitude": -0.710945,
     "gp:parent_id": "40660",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698529, 
       85633159, 
       1360699013, 
       404445943, 
-      1125928999, 
-      404227469, 
-      1360698529
+      1125928999
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701672,
-    "wof:geomhash": "a520f3f87971cda234726467eafbfc99",
+    "wof:geomhash": "47d8c60f88f2742a8082c7433e442bfd",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471556963,
-    "wof:lastmodified": 1583786805,
+    "wof:lastmodified": 1609896907,
     "wof:name": "RG42 7PH",
     "wof:parent_id": 404445943,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.711048, 
-    51.43104, 
-    -0.711048, 
-    51.43104
+    -0.710945, 
+    51.431146, 
+    -0.710945, 
+    51.431146
   ],
-  "geometry": {"coordinates":[-0.711048,51.43104],"type":"Point"}
+  "geometry": {"coordinates":[-0.710945,51.431146],"type":"Point"}
 }

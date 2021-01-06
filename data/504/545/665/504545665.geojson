@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1999-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.786290,51.838045,-2.786290,51.838045",
-    "geom:latitude": 51.838045,
-    "geom:longitude": -2.78629,
+    "geom:bbox": "-2.786231,51.837982,-2.786231,51.837982",
+    "geom:latitude": 51.837982,
+    "geom:longitude": -2.786231,
     "gp:parent_id": "12696133",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360711911, 
       404227475, 
       1360698641, 
       85633159, 
       1360699109, 
-      404449095
+      404449095, 
+      1360711911
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701415,
-    "wof:geomhash": "b398b9273e544a770f4e505be42b8fb7",
+    "wof:geomhash": "21c88bb3e41c572c2bda98cc39936ee1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504545665,
-    "wof:lastmodified": 1583786551,
+    "wof:lastmodified": 1609878637,
     "wof:name": "NP25 5NJ",
     "wof:parent_id": 404449095,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.78629, 
-    51.838045, 
-    -2.78629, 
-    51.838045
+    -2.786231, 
+    51.837982, 
+    -2.786231, 
+    51.837982
   ],
-  "geometry": {"coordinates":[-2.78629,51.838045],"type":"Point"}
+  "geometry": {"coordinates":[-2.786231,51.837982],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-5.489943,50.210870,-5.489943,50.210870",
-    "geom:latitude": 50.21087,
-    "geom:longitude": -5.489943,
+    "geom:bbox": "-5.490082,50.210848,-5.490082,50.210848",
+    "geom:latitude": 50.210848,
+    "geom:longitude": -5.490082,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698623, 
-      85633159, 
       1360699085, 
       404436217, 
       1209250139, 
-      404227469
+      404227469, 
+      1360698623, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701263,
-    "wof:geomhash": "688b7902832c30dc9bddfc31401bfd86",
+    "wof:geomhash": "e4fd2ae767e797c4411fe793534d74d4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 487923321,
-    "wof:lastmodified": 1595725950,
+    "wof:lastmodified": 1609886672,
     "wof:name": "TR26 1EY",
     "wof:parent_id": 404436217,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -5.489943, 
-    50.21087, 
-    -5.489943, 
-    50.21087
+    -5.490082, 
+    50.210848, 
+    -5.490082, 
+    50.210848
   ],
-  "geometry": {"coordinates":[-5.489943,50.21087],"type":"Point"}
+  "geometry": {"coordinates":[-5.490082,50.210848],"type":"Point"}
 }

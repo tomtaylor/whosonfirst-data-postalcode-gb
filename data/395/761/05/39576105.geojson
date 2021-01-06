@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.167801,51.885807,0.167801,51.885807",
-    "geom:latitude": 51.885807,
-    "geom:longitude": 0.167801,
+    "geom:bbox": "0.167722,51.885971,0.167722,51.885971",
+    "geom:latitude": 51.885971,
+    "geom:longitude": 0.167722,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698763, 
       404455267, 
       101750415, 
       404227469, 
-      1360698559
+      1360698559, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583803009,
-    "wof:geomhash": "28e528110b6bb395de56fa5b4765c4e9",
+    "wof:geomhash": "43452d02a893c4e2e9070be941f14b0f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 39576105,
-    "wof:lastmodified": 1583803009,
+    "wof:lastmodified": 1609868556,
     "wof:name": "CM23 1ER",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.167801, 
-    51.885807, 
-    0.167801, 
-    51.885807
+    0.167722, 
+    51.885971, 
+    0.167722, 
+    51.885971
   ],
-  "geometry": {"coordinates":[0.167801,51.885807],"type":"Point"}
+  "geometry": {"coordinates":[0.167722,51.885971],"type":"Point"}
 }

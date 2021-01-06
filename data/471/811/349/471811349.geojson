@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.623558,51.385102,-0.623558,51.385102",
-    "geom:latitude": 51.385102,
-    "geom:longitude": -0.623558,
+    "geom:bbox": "-0.623414,51.384992,-0.623414,51.384992",
+    "geom:latitude": 51.384992,
+    "geom:longitude": -0.623414,
     "gp:parent_id": "11090",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698943, 
+      404445395, 
       1126060109, 
       404227469, 
       1360698529, 
-      85633159, 
-      1360698943, 
-      404445395
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701742,
-    "wof:geomhash": "2f018f28fe7ea35e3adbeedae3edec1e",
+    "wof:geomhash": "8e49fd779c60d92a820d68f026b1a5b8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471811349,
-    "wof:lastmodified": 1583786913,
+    "wof:lastmodified": 1609903463,
     "wof:name": "SL5 0JB",
     "wof:parent_id": 404445395,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.623558, 
-    51.385102, 
-    -0.623558, 
-    51.385102
+    -0.623414, 
+    51.384992, 
+    -0.623414, 
+    51.384992
   ],
-  "geometry": {"coordinates":[-0.623558,51.385102],"type":"Point"}
+  "geometry": {"coordinates":[-0.623414,51.384992],"type":"Point"}
 }

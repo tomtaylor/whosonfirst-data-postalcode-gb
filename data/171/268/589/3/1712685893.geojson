@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-04-01",
     "geom:area": 0,
-    "geom:bbox": "-3.086975,55.912043,-3.086975,55.912043",
-    "geom:latitude": 55.912043,
-    "geom:longitude": -3.086975,
+    "geom:bbox": "-3.087453,55.911949,-3.087453,55.911949",
+    "geom:latitude": 55.911949,
+    "geom:longitude": -3.087453,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698791, 
-      404436513, 
       404227471, 
       85787605, 
       1360698677, 
-      85633159
+      85633159, 
+      1360698791, 
+      404436513
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583799062,
-    "wof:geomhash": "6292cbd61dc37e1d1f69ff6ea1f1448d",
+    "wof:geomhash": "5722ec55bc0078d576f596cf6d1cbd0f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712685893,
-    "wof:lastmodified": 1583799062,
+    "wof:lastmodified": 1609872685,
     "wof:name": "EH22 1FA",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.086975, 
-    55.912043, 
-    -3.086975, 
-    55.912043
+    -3.087453, 
+    55.911949, 
+    -3.087453, 
+    55.911949
   ],
-  "geometry": {"coordinates":[-3.086975,55.912043],"type":"Point"}
+  "geometry": {"coordinates":[-3.087453,55.911949],"type":"Point"}
 }

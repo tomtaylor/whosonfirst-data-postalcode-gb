@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.558853,52.426684,-1.558853,52.426684",
-    "geom:latitude": 52.426684,
-    "geom:longitude": -1.558853,
+    "geom:bbox": "-1.558754,52.426772,-1.558754,52.426772",
+    "geom:latitude": 52.426772,
+    "geom:longitude": -1.558754,
     "gp:parent_id": "17044",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698605, 
-      85633159, 
       1360699115, 
       101750449, 
-      404227469
+      404227469, 
+      1360698605, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701440,
-    "wof:geomhash": "6e9a8183d76dc48bf75ed4e7f3d26b3c",
+    "wof:geomhash": "282e363d52cfb0cf6327c1fbf46c8acc",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454280387,
-    "wof:lastmodified": 1583786572,
+    "wof:lastmodified": 1609881411,
     "wof:name": "CV5 9DP",
     "wof:parent_id": 404433241,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.558853, 
-    52.426684, 
-    -1.558853, 
-    52.426684
+    -1.558754, 
+    52.426772, 
+    -1.558754, 
+    52.426772
   ],
-  "geometry": {"coordinates":[-1.558853,52.426684],"type":"Point"}
+  "geometry": {"coordinates":[-1.558754,52.426772],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1993-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.029525,51.683672,0.029525,51.683672",
-    "geom:latitude": 51.683672,
-    "geom:longitude": 0.029525,
+    "geom:bbox": "0.029667,51.683646,0.029667,51.683646",
+    "geom:latitude": 51.683646,
+    "geom:longitude": 0.029667,
     "gp:parent_id": "39070",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698551, 
       85633159, 
       1360698979, 
       404451137, 
       1360756245, 
-      404227469
+      404227469, 
+      1360698551
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701638,
-    "wof:geomhash": "84a8a94323fdf5dfaddbea512c74c86c",
+    "wof:geomhash": "50280760fa3d8448aace6bb28f9d3362",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454561347,
-    "wof:lastmodified": 1583786768,
+    "wof:lastmodified": 1609894397,
     "wof:name": "EN9 3AG",
     "wof:parent_id": 404451137,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.029525, 
-    51.683672, 
-    0.029525, 
-    51.683672
+    0.029667, 
+    51.683646, 
+    0.029667, 
+    51.683646
   ],
-  "geometry": {"coordinates":[0.029525,51.683672],"type":"Point"}
+  "geometry": {"coordinates":[0.029667,51.683646],"type":"Point"}
 }

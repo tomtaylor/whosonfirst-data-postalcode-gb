@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.537092,51.518094,-0.537092,51.518094",
-    "geom:latitude": 51.518094,
-    "geom:longitude": -0.537092,
+    "geom:bbox": "-0.537104,51.518184,-0.537104,51.518184",
+    "geom:latitude": 51.518184,
+    "geom:longitude": -0.537104,
     "gp:parent_id": "35009",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698533, 
       85633159, 
       1360698997, 
       404448513, 
-      1126014857, 
-      404227469, 
-      1360698533
+      1126014857
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701740,
-    "wof:geomhash": "93f4a6173b7352a86776a0fce4f6c0de",
+    "wof:geomhash": "42b5896015914baa33794d415b865a0d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471806237,
-    "wof:lastmodified": 1595725360,
+    "wof:lastmodified": 1609903243,
     "wof:name": "SL3 6DQ",
     "wof:parent_id": 404448513,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.537092, 
-    51.518094, 
-    -0.537092, 
-    51.518094
+    -0.537104, 
+    51.518184, 
+    -0.537104, 
+    51.518184
   ],
-  "geometry": {"coordinates":[-0.537092,51.518094],"type":"Point"}
+  "geometry": {"coordinates":[-0.537104,51.518184],"type":"Point"}
 }

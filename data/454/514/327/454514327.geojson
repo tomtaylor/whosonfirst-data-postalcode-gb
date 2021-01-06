@@ -6,9 +6,9 @@
     "edtf:inception": "1994-05-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "0.023444,51.513054,0.023444,51.513054",
-    "geom:latitude": 51.513054,
-    "geom:longitude": 0.023444,
+    "geom:bbox": "0.023862,51.513056,0.023862,51.513056",
+    "geom:latitude": 51.513056,
+    "geom:longitude": 0.023862,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      85860145, 
-      1360698645, 
       1158857293, 
       85633159, 
-      101750367
+      101750367, 
+      404227469, 
+      85860145, 
+      1360698645
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701616,
-    "wof:geomhash": "1a23f1941e62437059958a257a6ec3da",
+    "wof:geomhash": "6c000be52c64e491de36542309a435cd",
     "wof:hierarchy": [
       {
         "borough_id": 1158857293,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454514327,
-    "wof:lastmodified": 1595716095,
+    "wof:lastmodified": 1609892949,
     "wof:name": "E16 3EJ",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.023444, 
-    51.513054, 
-    0.023444, 
-    51.513054
+    0.023862, 
+    51.513056, 
+    0.023862, 
+    51.513056
   ],
-  "geometry": {"coordinates":[0.023444,51.513054],"type":"Point"}
+  "geometry": {"coordinates":[0.023862,51.513056],"type":"Point"}
 }

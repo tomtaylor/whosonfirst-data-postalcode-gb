@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.834276,56.374392,-3.834276,56.374392",
-    "geom:latitude": 56.374392,
-    "geom:longitude": -3.834276,
+    "geom:bbox": "-3.833800,56.374579,-3.833800,56.374579",
+    "geom:latitude": 56.374579,
+    "geom:longitude": -3.8338,
     "gp:parent_id": "12696206",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698829, 
       404451983, 
       404227471, 
       1360698691, 
-      85633159, 
-      1360698829
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701450,
-    "wof:geomhash": "1971c8b6e6e1cfae29b8916350451df4",
+    "wof:geomhash": "d5a1c66816dc508110017aae0581d91c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504577283,
-    "wof:lastmodified": 1595730473,
+    "wof:lastmodified": 1609880361,
     "wof:name": "PH7 3EA",
     "wof:parent_id": 101872657,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.834276, 
-    56.374392, 
-    -3.834276, 
-    56.374392
+    -3.8338, 
+    56.374579, 
+    -3.8338, 
+    56.374579
   ],
-  "geometry": {"coordinates":[-3.834276,56.374392],"type":"Point"}
+  "geometry": {"coordinates":[-3.8338,56.374579],"type":"Point"}
 }

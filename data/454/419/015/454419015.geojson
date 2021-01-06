@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1987-04-01",
     "geom:area": 0,
-    "geom:bbox": "-0.900446,53.704545,-0.900446,53.704545",
-    "geom:latitude": 53.704545,
-    "geom:longitude": -0.900446,
+    "geom:bbox": "-0.900009,53.704624,-0.900009,53.704624",
+    "geom:latitude": 53.704624,
+    "geom:longitude": -0.900009,
     "gp:parent_id": "21352",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699001, 
       404448285, 
       1125908093, 
       404227469, 
       1360698547, 
-      85633159
+      85633159, 
+      1360699001
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701555,
-    "wof:geomhash": "e3b20a02f4e77dc63b01b695abaceada",
+    "wof:geomhash": "c9ad93a7f7689c41fdc2a12e37acbaf6",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454419015,
-    "wof:lastmodified": 1583786683,
+    "wof:lastmodified": 1609888711,
     "wof:name": "DN14 6XL",
     "wof:parent_id": 404448285,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.900446, 
-    53.704545, 
-    -0.900446, 
-    53.704545
+    -0.900009, 
+    53.704624, 
+    -0.900009, 
+    53.704624
   ],
-  "geometry": {"coordinates":[-0.900446,53.704545],"type":"Point"}
+  "geometry": {"coordinates":[-0.900009,53.704624],"type":"Point"}
 }

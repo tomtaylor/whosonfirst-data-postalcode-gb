@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2017-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.728845,51.536330,-1.728845,51.536330",
-    "geom:latitude": 51.53633,
-    "geom:longitude": -1.728845,
+    "geom:bbox": "-1.728385,51.536113,-1.728385,51.536113",
+    "geom:latitude": 51.536113,
+    "geom:longitude": -1.728385,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      101852683, 
       404227469, 
       1360698611, 
       85633159, 
       1360699033, 
-      404448923, 
-      101852683
+      404448923
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583797440,
-    "wof:geomhash": "0e5504e75768c310b1cc5ded51fcd1ae",
+    "wof:geomhash": "56dacfe09bed60e02bb632bd4ebabf6e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 39073536,
-    "wof:lastmodified": 1595711207,
+    "wof:lastmodified": 1609868557,
     "wof:name": "SN3 6EP",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.728845, 
-    51.53633, 
-    -1.728845, 
-    51.53633
+    -1.728385, 
+    51.536113, 
+    -1.728385, 
+    51.536113
   ],
-  "geometry": {"coordinates":[-1.728845,51.53633],"type":"Point"}
+  "geometry": {"coordinates":[-1.728385,51.536113],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.829303,55.853925,-3.829303,55.853925",
-    "geom:latitude": 55.853925,
-    "geom:longitude": -3.829303,
+    "geom:bbox": "-3.829382,55.853906,-3.829382,55.853906",
+    "geom:latitude": 55.853906,
+    "geom:longitude": -3.829382,
     "gp:parent_id": "12696204",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698949, 
       404435713, 
       404227471, 
-      1360698703
+      1360698703, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701404,
-    "wof:geomhash": "c918643adb92caca59973c3862aea99b",
+    "wof:geomhash": "3809533c94b7663c9d5c7ad544b198a7",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504528959,
-    "wof:lastmodified": 1583786540,
+    "wof:lastmodified": 1609877889,
     "wof:name": "ML7 4PA",
     "wof:parent_id": 404435713,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.829303, 
-    55.853925, 
-    -3.829303, 
-    55.853925
+    -3.829382, 
+    55.853906, 
+    -3.829382, 
+    55.853906
   ],
-  "geometry": {"coordinates":[-3.829303,55.853925],"type":"Point"}
+  "geometry": {"coordinates":[-3.829382,55.853906],"type":"Point"}
 }

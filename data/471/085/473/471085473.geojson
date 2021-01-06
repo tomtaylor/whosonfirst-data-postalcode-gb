@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.682648,55.168228,-1.682648,55.168228",
-    "geom:latitude": 55.168228,
-    "geom:longitude": -1.682648,
+    "geom:bbox": "-1.682632,55.168300,-1.682632,55.168300",
+    "geom:latitude": 55.1683,
+    "geom:longitude": -1.682632,
     "gp:parent_id": "29362",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698769, 
-      404449843, 
-      101873459, 
       404227469, 
       1360698727, 
-      85633159
+      85633159, 
+      1360698769, 
+      404449843, 
+      101873459
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701260,
-    "wof:geomhash": "ac446237e1a003df868aa184e11844bc",
+    "wof:geomhash": "d1e80c7378f3e1bbd35a458a4738addc",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471085473,
-    "wof:lastmodified": 1583786404,
+    "wof:lastmodified": 1609872014,
     "wof:name": "NE61 1SP",
     "wof:parent_id": 101873459,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.682648, 
-    55.168228, 
-    -1.682648, 
-    55.168228
+    -1.682632, 
+    55.1683, 
+    -1.682632, 
+    55.1683
   ],
-  "geometry": {"coordinates":[-1.682648,55.168228],"type":"Point"}
+  "geometry": {"coordinates":[-1.682632,55.1683],"type":"Point"}
 }

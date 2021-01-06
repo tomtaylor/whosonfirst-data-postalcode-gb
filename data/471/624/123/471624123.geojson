@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.467301,53.381495,-1.467301,53.381495",
-    "geom:latitude": 53.381495,
-    "geom:longitude": -1.467301,
+    "geom:bbox": "-1.467256,53.381486,-1.467256,53.381486",
+    "geom:latitude": 53.381486,
+    "geom:longitude": -1.467256,
     "gp:parent_id": "34503",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699075, 
       101750529, 
       404227469, 
       85793113, 
-      1360698591
+      1360698591, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701682,
-    "wof:geomhash": "bd87d33fcf7ee910f181d95127ef1d5c",
+    "wof:geomhash": "81b9a37241675f0a42daa2378084e439",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471624123,
-    "wof:lastmodified": 1583786841,
+    "wof:lastmodified": 1609899559,
     "wof:name": "S1 2JB",
     "wof:parent_id": 101750529,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.467301, 
-    53.381495, 
-    -1.467301, 
-    53.381495
+    -1.467256, 
+    53.381486, 
+    -1.467256, 
+    53.381486
   ],
-  "geometry": {"coordinates":[-1.467301,53.381495],"type":"Point"}
+  "geometry": {"coordinates":[-1.467256,53.381486],"type":"Point"}
 }

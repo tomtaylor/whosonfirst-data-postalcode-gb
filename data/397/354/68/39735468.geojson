@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-08-01",
     "geom:area": 0,
-    "geom:bbox": "-0.335370,53.739667,-0.335370,53.739667",
-    "geom:latitude": 53.739667,
-    "geom:longitude": -0.33537,
+    "geom:bbox": "-0.335156,53.739727,-0.335156,53.739727",
+    "geom:latitude": 53.739727,
+    "geom:longitude": -0.335156,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698547, 
       85633159, 
       1360698951, 
-      101750561
+      101750561, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583804713,
-    "wof:geomhash": "a8a281309d32ba40957e14503e9510cc",
+    "wof:geomhash": "9240f0181c79d8e08e41e73471ef0b2a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 39735468,
-    "wof:lastmodified": 1595711554,
+    "wof:lastmodified": 1609868682,
     "wof:name": "HU1 1AU",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.33537, 
-    53.739667, 
-    -0.33537, 
-    53.739667
+    -0.335156, 
+    53.739727, 
+    -0.335156, 
+    53.739727
   ],
-  "geometry": {"coordinates":[-0.33537,53.739667],"type":"Point"}
+  "geometry": {"coordinates":[-0.335156,53.739727],"type":"Point"}
 }

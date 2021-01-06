@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.288728,51.346075,-2.288728,51.346075",
-    "geom:latitude": 51.346075,
-    "geom:longitude": -2.288728,
+    "geom:bbox": "-2.289000,51.345975,-2.289000,51.345975",
+    "geom:latitude": 51.345975,
+    "geom:longitude": -2.289,
     "gp:parent_id": "40685",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404444121, 
-      1125912319, 
-      404227469, 
       1360698611, 
       85633159, 
-      1360698937
+      1360698937, 
+      404444121, 
+      1125912319, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701171,
-    "wof:geomhash": "3205f92c30220d13f914b11d05971a81",
+    "wof:geomhash": "257e734e94ad0f65173d7740f8ace7f7",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438059315,
-    "wof:lastmodified": 1583786302,
+    "wof:lastmodified": 1609870407,
     "wof:name": "BA15 2LU",
     "wof:parent_id": 404444121,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.288728, 
-    51.346075, 
-    -2.288728, 
-    51.346075
+    -2.289, 
+    51.345975, 
+    -2.289, 
+    51.345975
   ],
-  "geometry": {"coordinates":[-2.288728,51.346075],"type":"Point"}
+  "geometry": {"coordinates":[-2.289,51.345975],"type":"Point"}
 }

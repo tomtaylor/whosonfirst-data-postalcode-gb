@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.973462,51.978532,-1.973462,51.978532",
-    "geom:latitude": 51.978532,
-    "geom:longitude": -1.973462,
+    "geom:bbox": "-1.973666,51.978676,-1.973666,51.978676",
+    "geom:latitude": 51.978676,
+    "geom:longitude": -1.973666,
     "gp:parent_id": "21842",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698927, 
-      404440773, 
       1125917539, 
       404227469, 
-      1360698553
+      1360698553, 
+      85633159, 
+      1360698927, 
+      404440773
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701688,
-    "wof:geomhash": "7001c0d483c7af477a23ece08179a724",
+    "wof:geomhash": "d3e22ffa1e5c7c0013dcafb69ea17ea1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454660017,
-    "wof:lastmodified": 1583786823,
+    "wof:lastmodified": 1609898755,
     "wof:name": "GL54 5BX",
     "wof:parent_id": 404440773,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.973462, 
-    51.978532, 
-    -1.973462, 
-    51.978532
+    -1.973666, 
+    51.978676, 
+    -1.973666, 
+    51.978676
   ],
-  "geometry": {"coordinates":[-1.973462,51.978532],"type":"Point"}
+  "geometry": {"coordinates":[-1.973666,51.978676],"type":"Point"}
 }

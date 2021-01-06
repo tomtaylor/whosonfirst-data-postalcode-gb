@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2003-02-01",
     "geom:area": 0,
-    "geom:bbox": "-2.072328,53.540227,-2.072328,53.540227",
-    "geom:latitude": 53.540227,
-    "geom:longitude": -2.072328,
+    "geom:bbox": "-2.072207,53.540200,-2.072207,53.540200",
+    "geom:latitude": 53.5402,
+    "geom:longitude": -2.072207,
     "gp:parent_id": "26053",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698555, 
       85633159, 
       1360698953, 
       1126030435, 
-      404227469
+      404227469, 
+      1360698555
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701478,
-    "wof:geomhash": "72b16db4520f2272e626753e9c014371",
+    "wof:geomhash": "c7e12465e9b15f7add6df056ffc51f6e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 471295653,
-    "wof:lastmodified": 1583786634,
+    "wof:lastmodified": 1609885251,
     "wof:name": "OL4 3DE",
     "wof:parent_id": 101913965,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.072328, 
-    53.540227, 
-    -2.072328, 
-    53.540227
+    -2.072207, 
+    53.5402, 
+    -2.072207, 
+    53.5402
   ],
-  "geometry": {"coordinates":[-2.072328,53.540227],"type":"Point"}
+  "geometry": {"coordinates":[-2.072207,53.5402],"type":"Point"}
 }

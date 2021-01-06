@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-12-01",
     "geom:area": 0,
-    "geom:bbox": "-3.125565,55.928714,-3.125565,55.928714",
-    "geom:latitude": 55.928714,
-    "geom:longitude": -3.125565,
+    "geom:bbox": "-3.116270,55.925528,-3.116270,55.925528",
+    "geom:latitude": 55.925528,
+    "geom:longitude": -3.11627,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,18 +18,18 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227471, 
       85789419, 
       1360698673, 
       85633159, 
       1360698761, 
       404437279, 
-      101750629
+      101750629, 
+      404227471
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583793556,
-    "wof:geomhash": "31a2d712df8d6d9bf7dc803e2ac28fb7",
+    "wof:geomhash": "2e864fe535b5da3b5760a9fc7db7677d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 1712562031,
-    "wof:lastmodified": 1583793556,
+    "wof:lastmodified": 1609870459,
     "wof:name": "EH16 4ZA",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.125565, 
-    55.928714, 
-    -3.125565, 
-    55.928714
+    -3.11627, 
+    55.925528, 
+    -3.11627, 
+    55.925528
   ],
-  "geometry": {"coordinates":[-3.125565,55.928714],"type":"Point"}
+  "geometry": {"coordinates":[-3.11627,55.925528],"type":"Point"}
 }

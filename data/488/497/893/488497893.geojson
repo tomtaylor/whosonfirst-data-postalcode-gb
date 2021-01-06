@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.785852,55.961355,-4.785852,55.961355",
-    "geom:latitude": 55.961355,
-    "geom:longitude": -4.785852,
+    "geom:bbox": "-4.786285,55.961410,-4.786285,55.961410",
+    "geom:latitude": 55.96141,
+    "geom:longitude": -4.786285,
     "gp:parent_id": "12696200",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360699121, 
       404455299, 
       101750635, 
       404227471, 
-      1360698699, 
-      85633159, 
-      1360699121
+      1360698699
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701513,
-    "wof:geomhash": "d50ccf68dd5dad4a0a00a558574ba7e8",
+    "wof:geomhash": "909f6c2b294822b38d07c00a656fb439",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488497893,
-    "wof:lastmodified": 1583786713,
+    "wof:lastmodified": 1609894487,
     "wof:name": "PA16 7PS",
     "wof:parent_id": 101750635,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.785852, 
-    55.961355, 
-    -4.785852, 
-    55.961355
+    -4.786285, 
+    55.96141, 
+    -4.786285, 
+    55.96141
   ],
-  "geometry": {"coordinates":[-4.785852,55.961355],"type":"Point"}
+  "geometry": {"coordinates":[-4.786285,55.96141],"type":"Point"}
 }

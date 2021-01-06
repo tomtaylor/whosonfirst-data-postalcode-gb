@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.819671,52.590785,-1.819671,52.590785",
-    "geom:latitude": 52.590785,
-    "geom:longitude": -1.819671,
+    "geom:bbox": "-1.819775,52.590758,-1.819775,52.590758",
+    "geom:latitude": 52.590758,
+    "geom:longitude": -1.819775,
     "gp:parent_id": "36679",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698605, 
       85633159, 
       1360699077, 
-      101750467
+      101750467, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701078,
-    "wof:geomhash": "f2aa5657397dc3d49ae217e2d5ea29ab",
+    "wof:geomhash": "8e7d9af88cefd008baaac24c7cb79625",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 438023735,
-    "wof:lastmodified": 1583786199,
+    "wof:lastmodified": 1609869061,
     "wof:name": "B75 5LE",
     "wof:parent_id": 101750467,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.819671, 
-    52.590785, 
-    -1.819671, 
-    52.590785
+    -1.819775, 
+    52.590758, 
+    -1.819775, 
+    52.590758
   ],
-  "geometry": {"coordinates":[-1.819671,52.590785],"type":"Point"}
+  "geometry": {"coordinates":[-1.819775,52.590758],"type":"Point"}
 }

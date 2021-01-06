@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.737248,52.092565,-0.737248,52.092565",
-    "geom:latitude": 52.092565,
-    "geom:longitude": -0.737248,
+    "geom:bbox": "-0.740736,52.095192,-0.740736,52.095192",
+    "geom:latitude": 52.095192,
+    "geom:longitude": -0.740736,
     "gp:parent_id": "30169",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698533, 
-      85633159, 
       1360698913, 
       404440247, 
-      1126059817
+      1126059817, 
+      404227469, 
+      1360698533, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701344,
-    "wof:geomhash": "eb9eacb17e5be670729d3f5d0ee32798",
+    "wof:geomhash": "1e8110ccdc4a86dbd8946dd16e692ff4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470966095,
-    "wof:lastmodified": 1583786477,
+    "wof:lastmodified": 1609877401,
     "wof:name": "MK16 8EF",
     "wof:parent_id": 404440247,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.737248, 
-    52.092565, 
-    -0.737248, 
-    52.092565
+    -0.740736, 
+    52.095192, 
+    -0.740736, 
+    52.095192
   ],
-  "geometry": {"coordinates":[-0.737248,52.092565],"type":"Point"}
+  "geometry": {"coordinates":[-0.740736,52.095192],"type":"Point"}
 }

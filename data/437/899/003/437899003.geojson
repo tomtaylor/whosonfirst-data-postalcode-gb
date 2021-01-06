@@ -2,16 +2,16 @@
   "id": 437899003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2002-05-01",
-    "edtf:inception": "1988-03-01",
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-10-01",
     "geom:area": 0,
-    "geom:bbox": "0.712370,51.543523,0.712370,51.543523",
-    "geom:latitude": 51.543523,
-    "geom:longitude": 0.71237,
+    "geom:bbox": "0.706048,51.556311,0.706048,51.556311",
+    "geom:latitude": 51.556311,
+    "geom:longitude": 0.706048,
     "gp:parent_id": "35375",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000033",
@@ -19,11 +19,11 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698551, 
       85633159, 
       1360698751, 
-      101750371
+      101750371, 
+      404227469, 
+      1360698551
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701620,
-    "wof:geomhash": "af8617cfd137861a8c7caa834b32d943",
+    "wof:geomhash": "6c826c2641f73e2e1cf74fb262d21bc8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 437899003,
-    "wof:lastmodified": 1583786777,
+    "wof:lastmodified": 1609894962,
     "wof:name": "SS2 6AH",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.71237, 
-    51.543523, 
-    0.71237, 
-    51.543523
+    0.706048, 
+    51.556311, 
+    0.706048, 
+    51.556311
   ],
-  "geometry": {"coordinates":[0.71237,51.543523],"type":"Point"}
+  "geometry": {"coordinates":[0.706048,51.556311],"type":"Point"}
 }

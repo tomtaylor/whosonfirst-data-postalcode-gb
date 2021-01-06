@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.878457,54.682428,-4.878457,54.682428",
-    "geom:latitude": 54.682428,
-    "geom:longitude": -4.878457,
+    "geom:bbox": "-4.878388,54.682331,-4.878388,54.682331",
+    "geom:latitude": 54.682331,
+    "geom:longitude": -4.878388,
     "gp:parent_id": "12696189",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698649, 
-      85633159, 
       1360699039, 
       404444245, 
-      404227471
+      404227471, 
+      1360698649, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701622,
-    "wof:geomhash": "df409e9bbd92c0c3589cdfb0eae67deb",
+    "wof:geomhash": "a84297271bf08f1b5755f1a7e833efcd",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488620975,
-    "wof:lastmodified": 1583786817,
+    "wof:lastmodified": 1609899061,
     "wof:name": "DG9 9QZ",
     "wof:parent_id": 404444245,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.878457, 
-    54.682428, 
-    -4.878457, 
-    54.682428
+    -4.878388, 
+    54.682331, 
+    -4.878388, 
+    54.682331
   ],
-  "geometry": {"coordinates":[-4.878457,54.682428],"type":"Point"}
+  "geometry": {"coordinates":[-4.878388,54.682331],"type":"Point"}
 }

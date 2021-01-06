@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1996-12-01",
     "geom:area": 0,
-    "geom:bbox": "0.163263,51.394125,0.163263,51.394125",
-    "geom:latitude": 51.394125,
-    "geom:longitude": 0.163263,
+    "geom:bbox": "0.162498,51.394661,0.162498,51.394661",
+    "geom:latitude": 51.394661,
+    "geom:longitude": 0.162498,
     "gp:parent_id": "36749",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      85789637, 
+      1360698565, 
+      85633159, 
       1360698811, 
       404446853, 
       1125883257, 
-      404227469, 
-      85789637, 
-      1360698565, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701448,
-    "wof:geomhash": "e0527a3e75a7ddaed0f6edb6040a7ca0",
+    "wof:geomhash": "e6b311d4cc1cbf44a3cd78741cd24e57",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 438261465,
-    "wof:lastmodified": 1583786582,
+    "wof:lastmodified": 1609882464,
     "wof:name": "BR8 7BA",
     "wof:parent_id": 404446853,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.163263, 
-    51.394125, 
-    0.163263, 
-    51.394125
+    0.162498, 
+    51.394661, 
+    0.162498, 
+    51.394661
   ],
-  "geometry": {"coordinates":[0.163263,51.394125],"type":"Point"}
+  "geometry": {"coordinates":[0.162498,51.394661],"type":"Point"}
 }

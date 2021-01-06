@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2005-08-01",
     "geom:area": 0,
-    "geom:bbox": "-4.223874,55.983409,-4.223874,55.983409",
-    "geom:latitude": 55.983409,
-    "geom:longitude": -4.223874,
+    "geom:bbox": "-4.223865,55.983247,-4.223865,55.983247",
+    "geom:latitude": 55.983247,
+    "geom:longitude": -4.223865,
     "gp:parent_id": "12696192",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698835, 
       404451795, 
       404227471, 
-      1360698701, 
-      85633159, 
-      1360698835
+      1360698701
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701186,
-    "wof:geomhash": "deda65c03d9c5ed2ccf0b1fc1accfacb",
+    "wof:geomhash": "c9547c6f4e2b0b56c9b589fa9c9702bd",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504412949,
-    "wof:lastmodified": 1583786293,
+    "wof:lastmodified": 1609870047,
     "wof:name": "G66 7AS",
     "wof:parent_id": 404451795,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.223874, 
-    55.983409, 
-    -4.223874, 
-    55.983409
+    -4.223865, 
+    55.983247, 
+    -4.223865, 
+    55.983247
   ],
-  "geometry": {"coordinates":[-4.223874,55.983409],"type":"Point"}
+  "geometry": {"coordinates":[-4.223865,55.983247],"type":"Point"}
 }

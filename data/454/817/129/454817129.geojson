@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2004-06-01",
     "geom:area": 0,
-    "geom:bbox": "-0.489561,53.870590,-0.489561,53.870590",
-    "geom:latitude": 53.87059,
-    "geom:longitude": -0.489561,
+    "geom:bbox": "-0.488649,53.870588,-0.488649,53.870588",
+    "geom:latitude": 53.870588,
+    "geom:longitude": -0.488649,
     "gp:parent_id": "15814",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699001, 
-      404435017, 
       1125804435, 
       404227469, 
-      1360698547
+      1360698547, 
+      85633159, 
+      1360699001, 
+      404435017
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701725,
-    "wof:geomhash": "1a8ffbef85408747c96a70f1fa36a150",
+    "wof:geomhash": "c47b38ff02b651453650503d5d08ff35",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454817129,
-    "wof:lastmodified": 1583786861,
+    "wof:lastmodified": 1609902844,
     "wof:name": "HU17 7SR",
     "wof:parent_id": 404435017,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.489561, 
-    53.87059, 
-    -0.489561, 
-    53.87059
+    -0.488649, 
+    53.870588, 
+    -0.488649, 
+    53.870588
   ],
-  "geometry": {"coordinates":[-0.489561,53.87059],"type":"Point"}
+  "geometry": {"coordinates":[-0.488649,53.870588],"type":"Point"}
 }

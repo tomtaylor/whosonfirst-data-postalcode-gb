@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1999-06-01",
     "geom:area": 0,
-    "geom:bbox": "-0.185143,53.551211,-0.185143,53.551211",
-    "geom:latitude": 53.551211,
-    "geom:longitude": -0.185143,
+    "geom:bbox": "-0.185857,53.551605,-0.185857,53.551605",
+    "geom:latitude": 53.551605,
+    "geom:longitude": -0.185857,
     "gp:parent_id": "11491",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360698837, 
       404432535, 
       1344085391, 
       404227469, 
-      1360698571, 
-      85633159
+      1360698571
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701568,
-    "wof:geomhash": "69de1129c98565da8df303dc223cc715",
+    "wof:geomhash": "a6d15626719c63a38ed58296892564ff",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454446023,
-    "wof:lastmodified": 1583786705,
+    "wof:lastmodified": 1609889782,
     "wof:name": "DN37 7TT",
     "wof:parent_id": 404432535,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.185143, 
-    53.551211, 
-    -0.185143, 
-    53.551211
+    -0.185857, 
+    53.551605, 
+    -0.185857, 
+    53.551605
   ],
-  "geometry": {"coordinates":[-0.185143,53.551211],"type":"Point"}
+  "geometry": {"coordinates":[-0.185857,53.551605],"type":"Point"}
 }

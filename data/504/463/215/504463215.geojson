@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.509645,58.592116,-3.509645,58.592116",
-    "geom:latitude": 58.592116,
-    "geom:longitude": -3.509645,
+    "geom:bbox": "-3.509420,58.592083,-3.509420,58.592083",
+    "geom:latitude": 58.592083,
+    "geom:longitude": -3.50942,
     "gp:parent_id": "12696199",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404436073, 
       404227471, 
       1360698663, 
       85633159, 
-      1360699045
+      1360699045, 
+      404436073
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701345,
-    "wof:geomhash": "40f8f248c375592238288b3b722d58bd",
+    "wof:geomhash": "d58b986e621db940c334a00a337fb43e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504463215,
-    "wof:lastmodified": 1583786454,
+    "wof:lastmodified": 1609872884,
     "wof:name": "KW14 8JX",
     "wof:parent_id": 404436073,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.509645, 
-    58.592116, 
-    -3.509645, 
-    58.592116
+    -3.50942, 
+    58.592083, 
+    -3.50942, 
+    58.592083
   ],
-  "geometry": {"coordinates":[-3.509645,58.592116],"type":"Point"}
+  "geometry": {"coordinates":[-3.50942,58.592083],"type":"Point"}
 }

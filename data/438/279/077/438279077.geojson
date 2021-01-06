@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2002-09-01",
     "geom:area": 0,
-    "geom:bbox": "-2.758597,51.481486,-2.758597,51.481486",
-    "geom:latitude": 51.481486,
-    "geom:longitude": -2.758597,
+    "geom:bbox": "-2.758744,51.481629,-2.758744,51.481629",
+    "geom:latitude": 51.481629,
+    "geom:longitude": -2.758744,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,13 +18,13 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      85785419, 
       1360698589, 
       85633159, 
       1360699111, 
       404451607, 
-      101852675
+      101852675, 
+      404227469, 
+      85785419
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701467,
-    "wof:geomhash": "d208d5653d3321f64f9b03f0cef630b6",
+    "wof:geomhash": "60c85c15845062c44697934a1e237ab4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 438279077,
-    "wof:lastmodified": 1583786602,
+    "wof:lastmodified": 1609883362,
     "wof:name": "BS20 7LZ",
     "wof:parent_id": 101852675,
     "wof:placetype": "postalcode",
@@ -55,10 +55,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.758597, 
-    51.481486, 
-    -2.758597, 
-    51.481486
+    -2.758744, 
+    51.481629, 
+    -2.758744, 
+    51.481629
   ],
-  "geometry": {"coordinates":[-2.758597,51.481486],"type":"Point"}
+  "geometry": {"coordinates":[-2.758744,51.481629],"type":"Point"}
 }

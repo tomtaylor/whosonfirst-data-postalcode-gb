@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-02-01",
     "geom:area": 0,
-    "geom:bbox": "-1.417247,54.947835,-1.417247,54.947835",
-    "geom:latitude": 54.947835,
-    "geom:longitude": -1.417247,
+    "geom:bbox": "-1.417406,54.947612,-1.417406,54.947612",
+    "geom:latitude": 54.947612,
+    "geom:longitude": -1.417406,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      101750613, 
-      404227469, 
       1360698601, 
       85633159, 
-      1360698861
+      1360698861, 
+      101750613, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583804201,
-    "wof:geomhash": "b7f2479ba20f961212dfb06c537e30fb",
+    "wof:geomhash": "0c18500e7e295fad910229d79b481d96",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 39689019,
-    "wof:lastmodified": 1595711807,
+    "wof:lastmodified": 1609868608,
     "wof:name": "NE36 0AR",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.417247, 
-    54.947835, 
-    -1.417247, 
-    54.947835
+    -1.417406, 
+    54.947612, 
+    -1.417406, 
+    54.947612
   ],
-  "geometry": {"coordinates":[-1.417247,54.947835],"type":"Point"}
+  "geometry": {"coordinates":[-1.417406,54.947612],"type":"Point"}
 }

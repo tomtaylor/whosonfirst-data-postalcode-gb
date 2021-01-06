@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.449735,55.009760,-1.449735,55.009760",
-    "geom:latitude": 55.00976,
-    "geom:longitude": -1.449735,
+    "geom:bbox": "-1.449656,55.009713,-1.449656,55.009713",
+    "geom:latitude": 55.009713,
+    "geom:longitude": -1.449656,
     "gp:parent_id": "30554",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698601, 
-      85633159, 
       1360699037, 
       1360817045, 
       1126021593, 
-      404227469
+      404227469, 
+      1360698601, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701185,
-    "wof:geomhash": "ebd27589377b8584c7aed90113b00685",
+    "wof:geomhash": "92b4770311b6b1a0962aaba3deb8287b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471054079,
-    "wof:lastmodified": 1583786319,
+    "wof:lastmodified": 1609870317,
     "wof:name": "NE29 0BB",
     "wof:parent_id": 101751649,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.449735, 
-    55.00976, 
-    -1.449735, 
-    55.00976
+    -1.449656, 
+    55.009713, 
+    -1.449656, 
+    55.009713
   ],
-  "geometry": {"coordinates":[-1.449735,55.00976],"type":"Point"}
+  "geometry": {"coordinates":[-1.449656,55.009713],"type":"Point"}
 }

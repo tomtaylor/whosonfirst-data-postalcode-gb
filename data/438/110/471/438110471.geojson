@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.745935,53.746716,-1.745935,53.746716",
-    "geom:latitude": 53.746716,
+    "geom:bbox": "-1.745935,53.746770,-1.745935,53.746770",
+    "geom:latitude": 53.74677,
     "geom:longitude": -1.745935,
     "gp:parent_id": "12695872",
     "iso:country": "GB",
@@ -19,11 +19,11 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698609, 
       85633159, 
       1360698917, 
-      101750569, 
-      404227469, 
-      1360698609
+      101750569
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701300,
-    "wof:geomhash": "5809e92fd3d56b5a0e619ae89dc00e3e",
+    "wof:geomhash": "ea951a6fa35f60d66422a64886a94084",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 438110471,
-    "wof:lastmodified": 1583786432,
+    "wof:lastmodified": 1609873506,
     "wof:name": "BD12 7HR",
     "wof:parent_id": 404439289,
     "wof:placetype": "postalcode",
@@ -53,9 +53,9 @@
   },
   "bbox": [
     -1.745935, 
-    53.746716, 
+    53.74677, 
     -1.745935, 
-    53.746716
+    53.74677
   ],
-  "geometry": {"coordinates":[-1.745935,53.746716],"type":"Point"}
+  "geometry": {"coordinates":[-1.745935,53.74677],"type":"Point"}
 }

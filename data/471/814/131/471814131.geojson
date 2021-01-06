@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.685637,51.502399,-0.685637,51.502399",
-    "geom:latitude": 51.502399,
-    "geom:longitude": -0.685637,
+    "geom:bbox": "-0.686332,51.502784,-0.686332,51.502784",
+    "geom:latitude": 51.502784,
+    "geom:longitude": -0.686332,
     "gp:parent_id": "13717",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1126059501, 
-      404227469, 
       1360698529, 
       85633159, 
       1360698943, 
-      404445923
+      404445923, 
+      1126059501, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701751,
-    "wof:geomhash": "47b77ef094db61b9d29db3cb1127473e",
+    "wof:geomhash": "fd3d0cebfd14be88b42a3ce8382beb11",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471814131,
-    "wof:lastmodified": 1583786914,
+    "wof:lastmodified": 1609903583,
     "wof:name": "SL6 2ED",
     "wof:parent_id": 404445923,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.685637, 
-    51.502399, 
-    -0.685637, 
-    51.502399
+    -0.686332, 
+    51.502784, 
+    -0.686332, 
+    51.502784
   ],
-  "geometry": {"coordinates":[-0.685637,51.502399],"type":"Point"}
+  "geometry": {"coordinates":[-0.686332,51.502784],"type":"Point"}
 }

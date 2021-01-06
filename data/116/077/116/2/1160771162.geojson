@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "uuuu",
-    "edtf:inception": "2019-02-01",
+    "edtf:inception": "2020-10-01",
     "geom:area": 0,
     "geom:bbox": "-0.714776,51.518548,-0.714776,51.518548",
     "geom:latitude": 51.518548,
@@ -14,15 +14,15 @@
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000040",
-    "os:positional_quality_indicator": "5",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360698943, 
       101750385, 
       404227469, 
-      1360698529, 
-      85633159
+      1360698529
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1160771162,
-    "wof:lastmodified": 1583789218,
+    "wof:lastmodified": 1609869404,
     "wof:name": "SL60 1ND",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

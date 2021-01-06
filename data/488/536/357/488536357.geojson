@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1996-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.158374,57.130942,-2.158374,57.130942",
-    "geom:latitude": 57.130942,
-    "geom:longitude": -2.158374,
+    "geom:bbox": "-2.158258,57.130808,-2.158258,57.130808",
+    "geom:latitude": 57.130808,
+    "geom:longitude": -2.158258,
     "gp:parent_id": "10243",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698989, 
       404429183, 
       101750639, 
       404227471, 
-      1360698709
+      1360698709, 
+      85633159, 
+      1360698989
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701547,
-    "wof:geomhash": "0ff5ea5638e4d7ea418f94a0035126fb",
+    "wof:geomhash": "2d3e9b6be8b840e06026bc0afd493074",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488536357,
-    "wof:lastmodified": 1583786751,
+    "wof:lastmodified": 1609895775,
     "wof:name": "AB15 8AQ",
     "wof:parent_id": 101750639,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.158374, 
-    57.130942, 
-    -2.158374, 
-    57.130942
+    -2.158258, 
+    57.130808, 
+    -2.158258, 
+    57.130808
   ],
-  "geometry": {"coordinates":[-2.158374,57.130942],"type":"Point"}
+  "geometry": {"coordinates":[-2.158258,57.130808],"type":"Point"}
 }

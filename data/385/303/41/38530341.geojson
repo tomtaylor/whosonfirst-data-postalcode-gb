@@ -2,7 +2,7 @@
   "id": 38530341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-10-01",
     "edtf:inception": "2019-08-01",
     "geom:area": 0,
     "geom:bbox": "-1.156472,52.258165,-1.156472,52.258165",
@@ -10,7 +10,7 @@
     "geom:longitude": -1.156472,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000021",
     "os:district_code": "E07000151",
@@ -18,12 +18,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      101853049, 
+      404227469, 
       1360698577, 
       85633159, 
       1360698755, 
-      404447869, 
-      101853049, 
-      404227469
+      404447869
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 38530341,
-    "wof:lastmodified": 1583791428,
+    "wof:lastmodified": 1609868460,
     "wof:name": "NN11 1GU",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

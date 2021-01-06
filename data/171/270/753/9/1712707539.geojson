@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-05-01",
     "geom:area": 0,
-    "geom:bbox": "-4.145903,55.913713,-4.145903,55.913713",
-    "geom:latitude": 55.913713,
-    "geom:longitude": -4.145903,
+    "geom:bbox": "-4.145887,55.913714,-4.145887,55.913714",
+    "geom:latitude": 55.913714,
+    "geom:longitude": -4.145887,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698701, 
-      85633159, 
       1360698835, 
       404451795, 
-      404227471
+      404227471, 
+      1360698701, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583800044,
-    "wof:geomhash": "7d0119a9f1bf42e26ef0e0bc17fc09e4",
+    "wof:geomhash": "1ebba8b331e2a99a2fabf3f4b5ec3f4a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1712707539,
-    "wof:lastmodified": 1583800044,
+    "wof:lastmodified": 1609872863,
     "wof:name": "G66 5BP",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.145903, 
-    55.913713, 
-    -4.145903, 
-    55.913713
+    -4.145887, 
+    55.913714, 
+    -4.145887, 
+    55.913714
   ],
-  "geometry": {"coordinates":[-4.145903,55.913713],"type":"Point"}
+  "geometry": {"coordinates":[-4.145887,55.913714],"type":"Point"}
 }

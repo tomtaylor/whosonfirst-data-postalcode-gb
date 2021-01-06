@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1990-02-01",
     "geom:area": 0,
-    "geom:bbox": "-2.203044,51.266182,-2.203044,51.266182",
-    "geom:latitude": 51.266182,
-    "geom:longitude": -2.203044,
+    "geom:bbox": "-2.203534,51.266730,-2.203534,51.266730",
+    "geom:latitude": 51.26673,
+    "geom:longitude": -2.203534,
     "gp:parent_id": "39871",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1126060249, 
-      404227469, 
-      1360698611, 
       85633159, 
       1360698937, 
-      404440955
+      404440955, 
+      1126060249, 
+      404227469, 
+      1360698611
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701162,
-    "wof:geomhash": "59e243a2660be1d5e691aff44cc0f24c",
+    "wof:geomhash": "55abd1ab3a68540c7b3a2574cf95a0ae",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438055289,
-    "wof:lastmodified": 1583786293,
+    "wof:lastmodified": 1609870221,
     "wof:name": "BA13 4EP",
     "wof:parent_id": 404440955,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.203044, 
-    51.266182, 
-    -2.203044, 
-    51.266182
+    -2.203534, 
+    51.26673, 
+    -2.203534, 
+    51.26673
   ],
-  "geometry": {"coordinates":[-2.203044,51.266182],"type":"Point"}
+  "geometry": {"coordinates":[-2.203534,51.26673],"type":"Point"}
 }

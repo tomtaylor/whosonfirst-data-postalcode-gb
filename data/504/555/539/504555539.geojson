@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.719417,55.903401,-4.719417,55.903401",
-    "geom:latitude": 55.903401,
-    "geom:longitude": -4.719417,
+    "geom:bbox": "-4.719386,55.903186,-4.719386,55.903186",
+    "geom:latitude": 55.903186,
+    "geom:longitude": -4.719386,
     "gp:parent_id": "12696200",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698699, 
-      85633159, 
       1360699121, 
       404455299, 
-      404227471
+      404227471, 
+      1360698699, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701424,
-    "wof:geomhash": "ea6c67490572c3a6b69ac739d5b6d298",
+    "wof:geomhash": "db7c7746af53d5137dd23c6600c50457",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504555539,
-    "wof:lastmodified": 1583786566,
+    "wof:lastmodified": 1609879177,
     "wof:name": "PA13 4TJ",
     "wof:parent_id": 404455299,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.719417, 
-    55.903401, 
-    -4.719417, 
-    55.903401
+    -4.719386, 
+    55.903186, 
+    -4.719386, 
+    55.903186
   ],
-  "geometry": {"coordinates":[-4.719417,55.903401],"type":"Point"}
+  "geometry": {"coordinates":[-4.719386,55.903186],"type":"Point"}
 }

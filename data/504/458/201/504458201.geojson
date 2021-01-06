@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.350626,55.490355,-4.350626,55.490355",
-    "geom:latitude": 55.490355,
-    "geom:longitude": -4.350626,
+    "geom:bbox": "-4.350195,55.490552,-4.350195,55.490552",
+    "geom:latitude": 55.490552,
+    "geom:longitude": -4.350195,
     "gp:parent_id": "12696191",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698779, 
       404451413, 
       404227471, 
-      1360698697
+      1360698697, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701331,
-    "wof:geomhash": "da99303ccd924accd3e86e658147b397",
+    "wof:geomhash": "2b7f8d7f456595f4c16429ec7c5834ca",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504458201,
-    "wof:lastmodified": 1595728670,
+    "wof:lastmodified": 1609872537,
     "wof:name": "KA5 5JX",
     "wof:parent_id": 404451413,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.350626, 
-    55.490355, 
-    -4.350626, 
-    55.490355
+    -4.350195, 
+    55.490552, 
+    -4.350195, 
+    55.490552
   ],
-  "geometry": {"coordinates":[-4.350626,55.490355],"type":"Point"}
+  "geometry": {"coordinates":[-4.350195,55.490552],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.468554,53.377447,-1.468554,53.377447",
-    "geom:latitude": 53.377447,
-    "geom:longitude": -1.468554,
+    "geom:bbox": "-1.469371,53.376965,-1.469371,53.376965",
+    "geom:latitude": 53.376965,
+    "geom:longitude": -1.469371,
     "gp:parent_id": "34503",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698591, 
-      85633159, 
       1360699075, 
       101750529, 
       404227469, 
-      85793113
+      85793113, 
+      1360698591, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701682,
-    "wof:geomhash": "2861e706ad3aef2877cc36f5f7df73e7",
+    "wof:geomhash": "762c4ca4fd8a3c2247c311cc7fe81f61",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471624595,
-    "wof:lastmodified": 1583786842,
+    "wof:lastmodified": 1609899600,
     "wof:name": "S1 4RB",
     "wof:parent_id": 101750529,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.468554, 
-    53.377447, 
-    -1.468554, 
-    53.377447
+    -1.469371, 
+    53.376965, 
+    -1.469371, 
+    53.376965
   ],
-  "geometry": {"coordinates":[-1.468554,53.377447],"type":"Point"}
+  "geometry": {"coordinates":[-1.469371,53.376965],"type":"Point"}
 }

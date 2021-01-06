@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.462839,51.892671,-0.462839,51.892671",
-    "geom:latitude": 51.892671,
-    "geom:longitude": -0.462839,
+    "geom:bbox": "-0.462377,51.892710,-0.462377,51.892710",
+    "geom:latitude": 51.89271,
+    "geom:longitude": -0.462377,
     "gp:parent_id": "27997",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698783, 
-      101750401, 
       404227469, 
       1360698527, 
-      85633159
+      85633159, 
+      1360698783, 
+      101750401
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701127,
-    "wof:geomhash": "423d6bfaec7f3ced7f2a560b554f543f",
+    "wof:geomhash": "ede57c0dc2f3c3987d41615d07d641ba",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 470851187,
-    "wof:lastmodified": 1583786249,
+    "wof:lastmodified": 1609869710,
     "wof:name": "LU4 8SE",
     "wof:parent_id": 101750401,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.462839, 
-    51.892671, 
-    -0.462839, 
-    51.892671
+    -0.462377, 
+    51.89271, 
+    -0.462377, 
+    51.89271
   ],
-  "geometry": {"coordinates":[-0.462839,51.892671],"type":"Point"}
+  "geometry": {"coordinates":[-0.462377,51.89271],"type":"Point"}
 }

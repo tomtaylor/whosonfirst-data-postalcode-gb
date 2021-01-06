@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1998-12-01",
     "geom:area": 0,
-    "geom:bbox": "-3.620066,57.608121,-3.620066,57.608121",
-    "geom:latitude": 57.608121,
-    "geom:longitude": -3.620066,
+    "geom:bbox": "-3.620046,57.608050,-3.620046,57.608050",
+    "geom:latitude": 57.60805,
+    "geom:longitude": -3.620046,
     "gp:parent_id": "20455",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698717, 
+      85633159, 
       1360698869, 
       404446793, 
-      404227471, 
-      1360698717, 
-      85633159
+      404227471
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701290,
-    "wof:geomhash": "01106edfe257e7ef8d38ccdc49ee9228",
+    "wof:geomhash": "bf6fe3f2b32fdb26aded4b2e42b0c160",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504442201,
-    "wof:lastmodified": 1583786405,
+    "wof:lastmodified": 1609871527,
     "wof:name": "IV36 1ER",
     "wof:parent_id": 101873643,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.620066, 
-    57.608121, 
-    -3.620066, 
-    57.608121
+    -3.620046, 
+    57.60805, 
+    -3.620046, 
+    57.60805
   ],
-  "geometry": {"coordinates":[-3.620066,57.608121],"type":"Point"}
+  "geometry": {"coordinates":[-3.620046,57.60805],"type":"Point"}
 }

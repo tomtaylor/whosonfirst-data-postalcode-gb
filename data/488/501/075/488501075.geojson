@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698627, 
-      1360887613, 
       85633159, 
       1360699107, 
       101750397, 
-      404227475
+      404227475, 
+      1360698627, 
+      1360887601
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -35,7 +35,7 @@
     "wof:geomhash": "632684d422415c05d53a38a56b29b9d1",
     "wof:hierarchy": [
       {
-        "borough_id": 1360887613,
+        "borough_id": 1360887601,
         "country_id": 85633159,
         "county_id": 1360699107,
         "locality_id": 101750397,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488501075,
-    "wof:lastmodified": 1583786716,
+    "wof:lastmodified": 1609894401,
     "wof:name": "CF15 8AH",
     "wof:parent_id": 404446785,
     "wof:placetype": "postalcode",

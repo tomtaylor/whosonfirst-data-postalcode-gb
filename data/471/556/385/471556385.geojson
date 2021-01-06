@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1995-07-01",
     "geom:area": 0,
-    "geom:bbox": "-0.747268,51.431666,-0.747268,51.431666",
-    "geom:latitude": 51.431666,
-    "geom:longitude": -0.747268,
+    "geom:bbox": "-0.747124,51.431656,-0.747124,51.431656",
+    "geom:latitude": 51.431656,
+    "geom:longitude": -0.747124,
     "gp:parent_id": "39171",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1360699013, 
       404441763, 
       1344186043, 
       404227469, 
       1360698529, 
-      85633159, 
-      1360699013
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701671,
-    "wof:geomhash": "ab9e196b2e44be565b2aeeb8592e7bb3",
+    "wof:geomhash": "e01147b3d2248dd1be2c7a66fa7e1257",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471556385,
-    "wof:lastmodified": 1583786804,
+    "wof:lastmodified": 1609896868,
     "wof:name": "RG42 4SR",
     "wof:parent_id": 404441763,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.747268, 
-    51.431666, 
-    -0.747268, 
-    51.431666
+    -0.747124, 
+    51.431656, 
+    -0.747124, 
+    51.431656
   ],
-  "geometry": {"coordinates":[-0.747268,51.431666],"type":"Point"}
+  "geometry": {"coordinates":[-0.747124,51.431656],"type":"Point"}
 }

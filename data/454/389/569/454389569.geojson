@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.923678,54.543799,-1.923678,54.543799",
-    "geom:latitude": 54.543799,
-    "geom:longitude": -1.923678,
+    "geom:bbox": "-1.923740,54.543862,-1.923740,54.543862",
+    "geom:latitude": 54.543862,
+    "geom:longitude": -1.92374,
     "gp:parent_id": "11888",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360699055, 
       404430213, 
       1125822783, 
       404227469, 
-      1360698621, 
-      85633159
+      1360698621
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701534,
-    "wof:geomhash": "9191553bc2097894f54a1db3c48ffec2",
+    "wof:geomhash": "260cfe58ec21a813e81cb28e92df0346",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454389569,
-    "wof:lastmodified": 1583786668,
+    "wof:lastmodified": 1609887004,
     "wof:name": "DL12 8LY",
     "wof:parent_id": 101873359,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.923678, 
-    54.543799, 
-    -1.923678, 
-    54.543799
+    -1.92374, 
+    54.543862, 
+    -1.92374, 
+    54.543862
   ],
-  "geometry": {"coordinates":[-1.923678,54.543799],"type":"Point"}
+  "geometry": {"coordinates":[-1.92374,54.543862],"type":"Point"}
 }

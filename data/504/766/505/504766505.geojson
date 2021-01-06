@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2008-07-01",
     "geom:area": 0,
-    "geom:bbox": "-4.312800,55.811989,-4.312800,55.811989",
-    "geom:latitude": 55.811989,
-    "geom:longitude": -4.3128,
+    "geom:bbox": "-4.312521,55.811590,-4.312521,55.811590",
+    "geom:latitude": 55.81159,
+    "geom:longitude": -4.312521,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698707, 
-      85633159, 
-      1360698797, 
       404430153, 
       1175612707, 
       404227471, 
-      85788971
+      85788971, 
+      1360698707, 
+      85633159, 
+      1360698797
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701559,
-    "wof:geomhash": "f324e3c7e76378461da8520fe7ce68c6",
+    "wof:geomhash": "5757428c3cb5efd3bf31cc7205b11825",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 504766505,
-    "wof:lastmodified": 1595733306,
+    "wof:lastmodified": 1609889923,
     "wof:name": "G46 8QZ",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.3128, 
-    55.811989, 
-    -4.3128, 
-    55.811989
+    -4.312521, 
+    55.81159, 
+    -4.312521, 
+    55.81159
   ],
-  "geometry": {"coordinates":[-4.3128,55.811989],"type":"Point"}
+  "geometry": {"coordinates":[-4.312521,55.81159],"type":"Point"}
 }

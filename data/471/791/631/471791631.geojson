@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.174404,53.362600,-2.174404,53.362600",
-    "geom:latitude": 53.3626,
-    "geom:longitude": -2.174404,
+    "geom:bbox": "-2.174720,53.362841,-2.174720,53.362841",
+    "geom:latitude": 53.362841,
+    "geom:longitude": -2.17472,
     "gp:parent_id": "36177",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698555, 
       85633159, 
       1360698879, 
-      101750527, 
-      404227469, 
-      1360698555
+      101750527
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701734,
-    "wof:geomhash": "20bf1eca626dcde30aad09c781086c18",
+    "wof:geomhash": "758b129869a4c089a2ff27fe48c3cc00",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 471791631,
-    "wof:lastmodified": 1583786911,
+    "wof:lastmodified": 1609902974,
     "wof:name": "SK7 2AA",
     "wof:parent_id": 101750527,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.174404, 
-    53.3626, 
-    -2.174404, 
-    53.3626
+    -2.17472, 
+    53.362841, 
+    -2.17472, 
+    53.362841
   ],
-  "geometry": {"coordinates":[-2.174404,53.3626],"type":"Point"}
+  "geometry": {"coordinates":[-2.17472,53.362841],"type":"Point"}
 }

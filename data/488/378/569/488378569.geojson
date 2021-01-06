@@ -2,16 +2,16 @@
   "id": 488378569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2020-04-01",
-    "edtf:inception": "2015-05-01",
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-05-01",
     "geom:area": 0,
-    "geom:bbox": "-2.359441,53.312487,-2.359441,53.312487",
-    "geom:latitude": 53.312487,
-    "geom:longitude": -2.359441,
+    "geom:bbox": "-2.359440,53.312504,-2.359440,53.312504",
+    "geom:latitude": 53.312504,
+    "geom:longitude": -2.35944,
     "gp:parent_id": "12695891",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000049",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      404452127, 
       101871983, 
       404227469, 
       1360698537, 
       85633159, 
-      1360698929, 
-      404452127
+      1360698929
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701388,
-    "wof:geomhash": "1a6eb54f565ae1f3b80bdc4e2b8c034a",
+    "wof:geomhash": "32b94ed6d567eff3b1c836dc4ccf569e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488378569,
-    "wof:lastmodified": 1595733216,
+    "wof:lastmodified": 1609889052,
     "wof:name": "WA16 6UZ",
     "wof:parent_id": 101871983,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.359441, 
-    53.312487, 
-    -2.359441, 
-    53.312487
+    -2.35944, 
+    53.312504, 
+    -2.35944, 
+    53.312504
   ],
-  "geometry": {"coordinates":[-2.359441,53.312487],"type":"Point"}
+  "geometry": {"coordinates":[-2.35944,53.312504],"type":"Point"}
 }

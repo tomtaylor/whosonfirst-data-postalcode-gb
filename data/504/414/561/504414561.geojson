@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1991-07-01",
     "geom:area": 0,
-    "geom:bbox": "-4.006579,55.960736,-4.006579,55.960736",
-    "geom:latitude": 55.960736,
-    "geom:longitude": -4.006579,
+    "geom:bbox": "-3.976612,55.966540,-3.976612,55.966540",
+    "geom:latitude": 55.96654,
+    "geom:longitude": -3.976612,
     "gp:parent_id": "12696204",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      101750633, 
-      404227471, 
-      1360698701, 
       85633159, 
       1360698949, 
-      404435713
+      404435713, 
+      101750633, 
+      404227471, 
+      1360698701
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701190,
-    "wof:geomhash": "455710ceed3b8d003bafb66edffe49cb",
+    "wof:geomhash": "14667ccd40e2df8efd322df701eb7800",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504414561,
-    "wof:lastmodified": 1583786297,
+    "wof:lastmodified": 1609870118,
     "wof:name": "G68 0EB",
     "wof:parent_id": 101750633,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.006579, 
-    55.960736, 
-    -4.006579, 
-    55.960736
+    -3.976612, 
+    55.96654, 
+    -3.976612, 
+    55.96654
   ],
-  "geometry": {"coordinates":[-4.006579,55.960736],"type":"Point"}
+  "geometry": {"coordinates":[-3.976612,55.96654],"type":"Point"}
 }

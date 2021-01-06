@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.876397,53.721530,-1.876397,53.721530",
-    "geom:latitude": 53.72153,
+    "geom:bbox": "-1.876397,53.721404,-1.876397,53.721404",
+    "geom:latitude": 53.721404,
     "geom:longitude": -1.876397,
     "gp:parent_id": "22179",
     "iso:country": "GB",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      101750577, 
+      404227469, 
       1360698609, 
       85633159, 
       1360698833, 
-      1360817303, 
-      101750577, 
-      404227469
+      1360817303
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701730,
-    "wof:geomhash": "ab6064bb7d8066735939eed63ee830cf",
+    "wof:geomhash": "587369929c61ccd2944af5177071c12f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454833277,
-    "wof:lastmodified": 1583786864,
+    "wof:lastmodified": 1609903218,
     "wof:name": "HX1 5LY",
     "wof:parent_id": 101750577,
     "wof:placetype": "postalcode",
@@ -55,9 +55,9 @@
   },
   "bbox": [
     -1.876397, 
-    53.72153, 
+    53.721404, 
     -1.876397, 
-    53.72153
+    53.721404
   ],
-  "geometry": {"coordinates":[-1.876397,53.72153],"type":"Point"}
+  "geometry": {"coordinates":[-1.876397,53.721404],"type":"Point"}
 }

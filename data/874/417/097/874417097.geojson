@@ -3,11 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "uuuu",
-    "edtf:inception": "2013-05-01",
+    "edtf:inception": "2020-09-01",
     "geom:area": 0,
-    "geom:bbox": "-1.920263,52.500037,-1.920263,52.500037",
-    "geom:latitude": 52.500037,
-    "geom:longitude": -1.920263,
+    "geom:bbox": "-1.920257,52.500052,-1.920257,52.500052",
+    "geom:latitude": 52.500052,
+    "geom:longitude": -1.920257,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699077, 
       101750467, 
       404227469, 
       85791967, 
-      1360698605
+      1360698605, 
+      85633159, 
+      1360699077
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468874206,
-    "wof:geomhash": "beb7b9f1b5fb450c7978a5b9c90bb903",
+    "wof:geomhash": "c6ccc9bd2c537dd0596001da3999ad5b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 874417097,
-    "wof:lastmodified": 1583786354,
+    "wof:lastmodified": 1609868730,
     "wof:name": "B21 1HQ",
     "wof:parent_id": 101750467,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.920263, 
-    52.500037, 
-    -1.920263, 
-    52.500037
+    -1.920257, 
+    52.500052, 
+    -1.920257, 
+    52.500052
   ],
-  "geometry": {"coordinates":[-1.920263,52.500037],"type":"Point"}
+  "geometry": {"coordinates":[-1.920257,52.500052],"type":"Point"}
 }

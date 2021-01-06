@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1981-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.119105,53.545501,-2.119105,53.545501",
-    "geom:latitude": 53.545501,
-    "geom:longitude": -2.119105,
+    "geom:bbox": "-2.119029,53.545510,-2.119029,53.545510",
+    "geom:latitude": 53.54551,
+    "geom:longitude": -2.119029,
     "gp:parent_id": "31017",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698953, 
+      1126030435, 
       404227469, 
       1360698555, 
-      85633159, 
-      1360698953, 
-      1126030435
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701454,
-    "wof:geomhash": "8000d99ed83cc7b886d82d8e53355d5b",
+    "wof:geomhash": "7f3fb1ae78b00fc88d5b5ffd4ef5f82e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 471275963,
-    "wof:lastmodified": 1595721328,
+    "wof:lastmodified": 1609884066,
     "wof:name": "OL1 1TU",
     "wof:parent_id": 101913965,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.119105, 
-    53.545501, 
-    -2.119105, 
-    53.545501
+    -2.119029, 
+    53.54551, 
+    -2.119029, 
+    53.54551
   ],
-  "geometry": {"coordinates":[-2.119105,53.545501],"type":"Point"}
+  "geometry": {"coordinates":[-2.119029,53.54551],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.755300,51.994762,-0.755300,51.994762",
-    "geom:latitude": 51.994762,
-    "geom:longitude": -0.7553,
+    "geom:bbox": "-0.755208,51.994716,-0.755208,51.994716",
+    "geom:latitude": 51.994716,
+    "geom:longitude": -0.755208,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360759349, 
-      404227469, 
-      1360698533, 
       85633159, 
       1360698913, 
-      404445363
+      404445363, 
+      1360759349, 
+      404227469, 
+      1360698533
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701353,
-    "wof:geomhash": "a783ce44f6542793b0caf7467f10fb26",
+    "wof:geomhash": "31698b752e0853c95430ccfec2bee28f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 470972607,
-    "wof:lastmodified": 1583786488,
+    "wof:lastmodified": 1609877784,
     "wof:name": "MK3 6AN",
     "wof:parent_id": 101760461,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.7553, 
-    51.994762, 
-    -0.7553, 
-    51.994762
+    -0.755208, 
+    51.994716, 
+    -0.755208, 
+    51.994716
   ],
-  "geometry": {"coordinates":[-0.7553,51.994762],"type":"Point"}
+  "geometry": {"coordinates":[-0.755208,51.994716],"type":"Point"}
 }

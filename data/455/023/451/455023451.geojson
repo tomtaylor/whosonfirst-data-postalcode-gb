@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2002-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.219760,52.573424,-1.219760,52.573424",
-    "geom:latitude": 52.573424,
-    "geom:longitude": -1.21976,
+    "geom:bbox": "-1.219736,52.573442,-1.219736,52.573442",
+    "geom:latitude": 52.573442,
+    "geom:longitude": -1.219736,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      101853607, 
       404227469, 
       1360698569, 
       85633159, 
       1360698871, 
-      404445371, 
-      101853607
+      404445371
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701075,
-    "wof:geomhash": "be23c1d996f4f35ebffdba6ca058e509",
+    "wof:geomhash": "6390a3782836a30ad1c30bf168013c4b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 455023451,
-    "wof:lastmodified": 1583786187,
+    "wof:lastmodified": 1609869085,
     "wof:name": "LE19 3YS",
     "wof:parent_id": 404445371,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.21976, 
-    52.573424, 
-    -1.21976, 
-    52.573424
+    -1.219736, 
+    52.573442, 
+    -1.219736, 
+    52.573442
   ],
-  "geometry": {"coordinates":[-1.21976,52.573424],"type":"Point"}
+  "geometry": {"coordinates":[-1.219736,52.573442],"type":"Point"}
 }

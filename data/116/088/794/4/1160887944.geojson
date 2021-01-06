@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-11-01",
     "geom:area": 0,
-    "geom:bbox": "-4.101571,55.878683,-4.101571,55.878683",
-    "geom:latitude": 55.878683,
-    "geom:longitude": -4.101571,
+    "geom:bbox": "-4.101261,55.878859,-4.101261,55.878859",
+    "geom:latitude": 55.878859,
+    "geom:longitude": -4.101261,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,18 +18,18 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227471, 
-      85792561, 
       1360698707, 
       85633159, 
       1360698797, 
       404430153, 
-      1175612707
+      1175612707, 
+      404227471, 
+      85792561
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583794458,
-    "wof:geomhash": "0133c980cfbfe1b286d34fc249c99c5a",
+    "wof:geomhash": "f41aac581e2fd522371d2ffb19102f09",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 1160887944,
-    "wof:lastmodified": 1595711300,
+    "wof:lastmodified": 1609871593,
     "wof:name": "G69 8GF",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.101571, 
-    55.878683, 
-    -4.101571, 
-    55.878683
+    -4.101261, 
+    55.878859, 
+    -4.101261, 
+    55.878859
   ],
-  "geometry": {"coordinates":[-4.101571,55.878683],"type":"Point"}
+  "geometry": {"coordinates":[-4.101261,55.878859],"type":"Point"}
 }

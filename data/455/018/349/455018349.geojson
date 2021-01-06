@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.916883,52.545176,-0.916883,52.545176",
-    "geom:latitude": 52.545176,
-    "geom:longitude": -0.916883,
+    "geom:bbox": "-0.911306,52.537105,-0.911306,52.537105",
+    "geom:latitude": 52.537105,
+    "geom:longitude": -0.911306,
     "gp:parent_id": "36335",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698871, 
-      404447527, 
-      1125886193, 
       404227469, 
       1360698569, 
-      85633159
+      85633159, 
+      1360698871, 
+      404447527, 
+      1125886193
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701062,
-    "wof:geomhash": "07402478a7f8eee5469c82847e6c9a67",
+    "wof:geomhash": "ef05b29ae2e8b3c38c997708c2f4a4bb",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 455018349,
-    "wof:lastmodified": 1583786173,
+    "wof:lastmodified": 1609868955,
     "wof:name": "LE16 7UQ",
     "wof:parent_id": 404447527,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.916883, 
-    52.545176, 
-    -0.916883, 
-    52.545176
+    -0.911306, 
+    52.537105, 
+    -0.911306, 
+    52.537105
   ],
-  "geometry": {"coordinates":[-0.916883,52.545176],"type":"Point"}
+  "geometry": {"coordinates":[-0.911306,52.537105],"type":"Point"}
 }

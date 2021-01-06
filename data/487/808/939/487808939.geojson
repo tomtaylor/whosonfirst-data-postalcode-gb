@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.991797,50.978211,-2.991797,50.978211",
-    "geom:latitude": 50.978211,
-    "geom:longitude": -2.991797,
+    "geom:bbox": "-2.991464,50.977972,-2.991464,50.977972",
+    "geom:latitude": 50.977972,
+    "geom:longitude": -2.991464,
     "gp:parent_id": "22626",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404445525, 
       1125928565, 
       404227469, 
       1360698589, 
       85633159, 
-      1360699059
+      1360699059, 
+      404445525
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701179,
-    "wof:geomhash": "0bca227b68e4e080ff1816760cc9b5b9",
+    "wof:geomhash": "97e1a0830ef9945f212c1e62e1cf6251",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487808939,
-    "wof:lastmodified": 1583786283,
+    "wof:lastmodified": 1609880975,
     "wof:name": "TA3 6AB",
     "wof:parent_id": 404445525,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.991797, 
-    50.978211, 
-    -2.991797, 
-    50.978211
+    -2.991464, 
+    50.977972, 
+    -2.991464, 
+    50.977972
   ],
-  "geometry": {"coordinates":[-2.991797,50.978211],"type":"Point"}
+  "geometry": {"coordinates":[-2.991464,50.977972],"type":"Point"}
 }

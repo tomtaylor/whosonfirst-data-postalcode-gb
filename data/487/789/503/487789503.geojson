@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.958633,52.678018,-2.958633,52.678018",
-    "geom:latitude": 52.678018,
-    "geom:longitude": -2.958633,
+    "geom:bbox": "-2.958603,52.677983,-2.958603,52.677983",
+    "geom:latitude": 52.677983,
+    "geom:longitude": -2.958603,
     "gp:parent_id": "39868",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698587, 
       85633159, 
       1360698821, 
       404433165, 
       1326457725, 
-      404227469
+      404227469, 
+      1360698587
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701168,
-    "wof:geomhash": "0889c434d9e9e4f5c8951b080e09fc34",
+    "wof:geomhash": "44fd194ed5a8da591a4ca87a9ac117e1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487789503,
-    "wof:lastmodified": 1595722972,
+    "wof:lastmodified": 1609879887,
     "wof:name": "SY5 9RA",
     "wof:parent_id": 101853647,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.958633, 
-    52.678018, 
-    -2.958633, 
-    52.678018
+    -2.958603, 
+    52.677983, 
+    -2.958603, 
+    52.677983
   ],
-  "geometry": {"coordinates":[-2.958633,52.678018],"type":"Point"}
+  "geometry": {"coordinates":[-2.958603,52.677983],"type":"Point"}
 }

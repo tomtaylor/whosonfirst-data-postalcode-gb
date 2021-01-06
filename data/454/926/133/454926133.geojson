@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.271284,51.400164,-0.271284,51.400164",
-    "geom:latitude": 51.400164,
-    "geom:longitude": -0.271284,
+    "geom:bbox": "-0.271015,51.400204,-0.271015,51.400204",
+    "geom:latitude": 51.400204,
+    "geom:longitude": -0.271015,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      1158857309, 
-      85633159, 
       101750367, 
       404227469, 
       85789337, 
-      1360698645
+      1360698645, 
+      1158857309, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701756,
-    "wof:geomhash": "54908079779c9b3f32f3ce582a9397f3",
+    "wof:geomhash": "56bc987fdfc65a7f4c9fdfca5ba203a1",
     "wof:hierarchy": [
       {
         "borough_id": 1158857309,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454926133,
-    "wof:lastmodified": 1583786887,
+    "wof:lastmodified": 1609904885,
     "wof:name": "KT3 5DF",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.271284, 
-    51.400164, 
-    -0.271284, 
-    51.400164
+    -0.271015, 
+    51.400204, 
+    -0.271015, 
+    51.400204
   ],
-  "geometry": {"coordinates":[-0.271284,51.400164],"type":"Point"}
+  "geometry": {"coordinates":[-0.271015,51.400204],"type":"Point"}
 }

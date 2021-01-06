@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.543820,51.755273,-2.543820,51.755273",
-    "geom:latitude": 51.755273,
-    "geom:longitude": -2.54382,
+    "geom:bbox": "-2.543792,51.755313,-2.543792,51.755313",
+    "geom:latitude": 51.755313,
+    "geom:longitude": -2.543792,
     "gp:parent_id": "32027",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698927, 
       404437749, 
       1360753113, 
       404227469, 
       1360698553, 
-      85633159
+      85633159, 
+      1360698927
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701669,
-    "wof:geomhash": "59205d5d8a0b97b62f892cf21f68f465",
+    "wof:geomhash": "35fa120370781bd5c7f30ad0fed5f063",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454632701,
-    "wof:lastmodified": 1583786806,
+    "wof:lastmodified": 1609897588,
     "wof:name": "GL15 4QT",
     "wof:parent_id": 404437749,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.54382, 
-    51.755273, 
-    -2.54382, 
-    51.755273
+    -2.543792, 
+    51.755313, 
+    -2.543792, 
+    51.755313
   ],
-  "geometry": {"coordinates":[-2.54382,51.755273],"type":"Point"}
+  "geometry": {"coordinates":[-2.543792,51.755313],"type":"Point"}
 }

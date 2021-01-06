@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.807825,55.617005,-2.807825,55.617005",
-    "geom:latitude": 55.617005,
-    "geom:longitude": -2.807825,
+    "geom:bbox": "-2.807891,55.616914,-2.807891,55.616914",
+    "geom:latitude": 55.616914,
+    "geom:longitude": -2.807891,
     "gp:parent_id": "12696186",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698725, 
-      85633159, 
       1360699015, 
       404442083, 
-      404227471
+      404227471, 
+      1360698725, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701493,
-    "wof:geomhash": "251d83536c8c01e77910f4a488a84026",
+    "wof:geomhash": "36b6e7934f3d135e830f268181c1ed48",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488481731,
-    "wof:lastmodified": 1583786701,
+    "wof:lastmodified": 1609893750,
     "wof:name": "TD1 1BJ",
     "wof:parent_id": 101873471,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.807825, 
-    55.617005, 
-    -2.807825, 
-    55.617005
+    -2.807891, 
+    55.616914, 
+    -2.807891, 
+    55.616914
   ],
-  "geometry": {"coordinates":[-2.807825,55.617005],"type":"Point"}
+  "geometry": {"coordinates":[-2.807891,55.616914],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.105018,53.233278,-0.105018,53.233278",
-    "geom:latitude": 53.233278,
-    "geom:longitude": -0.105018,
+    "geom:bbox": "-0.105045,53.232989,-0.105045,53.232989",
+    "geom:latitude": 53.232989,
+    "geom:longitude": -0.105045,
     "gp:parent_id": "39548",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      404444301, 
-      1293321427, 
       404227469, 
       1360698571, 
       85633159, 
-      1360699067
+      1360699067, 
+      404444301, 
+      1293321427
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701182,
-    "wof:geomhash": "6f963fce3ea3c460091771f12e624b67",
+    "wof:geomhash": "b3d317b239df9029396a502284576ec6",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 455069015,
-    "wof:lastmodified": 1583786309,
+    "wof:lastmodified": 1609870942,
     "wof:name": "LN9 5PT",
     "wof:parent_id": 404444301,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.105018, 
-    53.233278, 
-    -0.105018, 
-    53.233278
+    -0.105045, 
+    53.232989, 
+    -0.105045, 
+    53.232989
   ],
-  "geometry": {"coordinates":[-0.105018,53.233278],"type":"Point"}
+  "geometry": {"coordinates":[-0.105045,53.232989],"type":"Point"}
 }

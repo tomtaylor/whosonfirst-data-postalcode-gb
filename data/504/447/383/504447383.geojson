@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.588521,55.615310,-4.588521,55.615310",
-    "geom:latitude": 55.61531,
-    "geom:longitude": -4.588521,
+    "geom:bbox": "-4.588371,55.615457,-4.588371,55.615457",
+    "geom:latitude": 55.615457,
+    "geom:longitude": -4.588371,
     "gp:parent_id": "35540",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698855, 
       404441385, 
       404227471, 
       1360698697, 
-      85633159
+      85633159, 
+      1360698855
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701306,
-    "wof:geomhash": "f544c0470a21b8e4a46aca470581ef58",
+    "wof:geomhash": "98d1d296ee75710ac5b73cc17781e0a0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504447383,
-    "wof:lastmodified": 1595728549,
+    "wof:lastmodified": 1609871837,
     "wof:name": "KA11 3BH",
     "wof:parent_id": 404441385,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.588521, 
-    55.61531, 
-    -4.588521, 
-    55.61531
+    -4.588371, 
+    55.615457, 
+    -4.588371, 
+    55.615457
   ],
-  "geometry": {"coordinates":[-4.588521,55.61531],"type":"Point"}
+  "geometry": {"coordinates":[-4.588371,55.615457],"type":"Point"}
 }

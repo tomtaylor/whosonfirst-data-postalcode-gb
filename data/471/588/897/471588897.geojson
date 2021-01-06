@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.139460,51.063354,-0.139460,51.063354",
-    "geom:latitude": 51.063354,
-    "geom:longitude": -0.13946,
+    "geom:bbox": "-0.139089,51.063015,-0.139089,51.063015",
+    "geom:latitude": 51.063015,
+    "geom:longitude": -0.139089,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      404439891, 
+      101854613, 
       404227469, 
       1360698607, 
       85633159, 
-      1360698757, 
-      404439891, 
-      101854613
+      1360698757
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701678,
-    "wof:geomhash": "42b0287049bdc5000f2c3d990f11b5b5",
+    "wof:geomhash": "f206bb3ac777ef18383ce26630eebddb",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471588897,
-    "wof:lastmodified": 1583786828,
+    "wof:lastmodified": 1609897966,
     "wof:name": "RH17 6PN",
     "wof:parent_id": 101854613,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.13946, 
-    51.063354, 
-    -0.13946, 
-    51.063354
+    -0.139089, 
+    51.063015, 
+    -0.139089, 
+    51.063015
   ],
-  "geometry": {"coordinates":[-0.13946,51.063354],"type":"Point"}
+  "geometry": {"coordinates":[-0.139089,51.063015],"type":"Point"}
 }

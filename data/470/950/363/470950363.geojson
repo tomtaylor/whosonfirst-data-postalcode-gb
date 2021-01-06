@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1995-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.533383,51.397587,0.533383,51.397587",
-    "geom:latitude": 51.397587,
-    "geom:longitude": 0.533383,
+    "geom:bbox": "0.532689,51.396721,0.532689,51.396721",
+    "geom:latitude": 51.396721,
+    "geom:longitude": 0.532689,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699105, 
       1360817083, 
       101750327, 
       404227469, 
-      1360698565
+      1360698565, 
+      85633159, 
+      1360699105
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701330,
-    "wof:geomhash": "b587e669d7ebd9892bec9c5cb5ee4693",
+    "wof:geomhash": "5f63ae5352771bbd3f8e57420d2c3352",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 470950363,
-    "wof:lastmodified": 1583786461,
+    "wof:lastmodified": 1609876221,
     "wof:name": "ME4 4AF",
     "wof:parent_id": 101750329,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.533383, 
-    51.397587, 
-    0.533383, 
-    51.397587
+    0.532689, 
+    51.396721, 
+    0.532689, 
+    51.396721
   ],
-  "geometry": {"coordinates":[0.533383,51.397587],"type":"Point"}
+  "geometry": {"coordinates":[0.532689,51.396721],"type":"Point"}
 }

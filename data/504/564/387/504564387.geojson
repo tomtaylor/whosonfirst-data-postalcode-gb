@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-5.469714,56.413775,-5.469714,56.413775",
-    "geom:latitude": 56.413775,
-    "geom:longitude": -5.469714,
+    "geom:bbox": "-5.469656,56.413669,-5.469656,56.413669",
+    "geom:latitude": 56.413669,
+    "geom:longitude": -5.469656,
     "gp:parent_id": "12696185",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698863, 
       404439789, 
       404227471, 
-      1360698695
+      1360698695, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701431,
-    "wof:geomhash": "e0f647931d6da30be5ce8b429ea74932",
+    "wof:geomhash": "45a9b440c263147d96bf7b56a75b8fc2",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504564387,
-    "wof:lastmodified": 1583786574,
+    "wof:lastmodified": 1609879641,
     "wof:name": "PA34 5DF",
     "wof:parent_id": 101872625,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -5.469714, 
-    56.413775, 
-    -5.469714, 
-    56.413775
+    -5.469656, 
+    56.413669, 
+    -5.469656, 
+    56.413669
   ],
-  "geometry": {"coordinates":[-5.469714,56.413775],"type":"Point"}
+  "geometry": {"coordinates":[-5.469656,56.413669],"type":"Point"}
 }

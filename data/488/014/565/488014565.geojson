@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.325976,51.516096,-0.325976,51.516096",
-    "geom:latitude": 51.516096,
-    "geom:longitude": -0.325976,
+    "geom:bbox": "-0.325956,51.516025,-0.325956,51.516025",
+    "geom:latitude": 51.516025,
+    "geom:longitude": -0.325956,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      101750367, 
       404227469, 
       85860759, 
       1360698645, 
       1158857265, 
-      85633159
+      85633159, 
+      101750367
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701190,
-    "wof:geomhash": "28d07566d53e84508b0cdecc9be285bd",
+    "wof:geomhash": "b3b341d4ef60098ddb7366043c4c86b3",
     "wof:hierarchy": [
       {
         "borough_id": 1158857265,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488014565,
-    "wof:lastmodified": 1583786375,
+    "wof:lastmodified": 1609868900,
     "wof:name": "W13 0JF",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.325976, 
-    51.516096, 
-    -0.325976, 
-    51.516096
+    -0.325956, 
+    51.516025, 
+    -0.325956, 
+    51.516025
   ],
-  "geometry": {"coordinates":[-0.325976,51.516096],"type":"Point"}
+  "geometry": {"coordinates":[-0.325956,51.516025],"type":"Point"}
 }

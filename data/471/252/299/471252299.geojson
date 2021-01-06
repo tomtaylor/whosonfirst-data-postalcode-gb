@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.245774,51.534853,-0.245774,51.534853",
-    "geom:latitude": 51.534853,
-    "geom:longitude": -0.245774,
+    "geom:bbox": "-0.245830,51.534890,-0.245830,51.534890",
+    "geom:latitude": 51.53489,
+    "geom:longitude": -0.24583,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      1158857267, 
       85633159, 
       101750367, 
       404227469, 
       85787935, 
-      1360698645
+      1360698645, 
+      1158857267
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701440,
-    "wof:geomhash": "2c1053c4b066bd09356cdbd8903aaf28",
+    "wof:geomhash": "45a516610cbc9c8fa7fd9c9ecf0a0c3a",
     "wof:hierarchy": [
       {
         "borough_id": 1158857267,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471252299,
-    "wof:lastmodified": 1583786592,
+    "wof:lastmodified": 1609882591,
     "wof:name": "NW10 4RT",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.245774, 
-    51.534853, 
-    -0.245774, 
-    51.534853
+    -0.24583, 
+    51.53489, 
+    -0.24583, 
+    51.53489
   ],
-  "geometry": {"coordinates":[-0.245774,51.534853],"type":"Point"}
+  "geometry": {"coordinates":[-0.24583,51.53489],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1987-04-01",
     "geom:area": 0,
-    "geom:bbox": "-3.503270,54.708964,-3.503270,54.708964",
-    "geom:latitude": 54.708964,
-    "geom:longitude": -3.50327,
+    "geom:bbox": "-3.503030,54.709183,-3.503030,54.709183",
+    "geom:latitude": 54.709183,
+    "geom:longitude": -3.50303,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698721, 
       85633159, 
       1360698877, 
       404447873, 
-      101873391, 
-      404227469, 
-      1360698721
+      101873391
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701110,
-    "wof:geomhash": "3c5481d7ad0b1d8862a6139857399eed",
+    "wof:geomhash": "72798074368afe599be6c34aeb71b15f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454060057,
-    "wof:lastmodified": 1583786249,
+    "wof:lastmodified": 1609869183,
     "wof:name": "CA15 8DY",
     "wof:parent_id": 404447873,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.50327, 
-    54.708964, 
-    -3.50327, 
-    54.708964
+    -3.50303, 
+    54.709183, 
+    -3.50303, 
+    54.709183
   ],
-  "geometry": {"coordinates":[-3.50327,54.708964],"type":"Point"}
+  "geometry": {"coordinates":[-3.50303,54.709183],"type":"Point"}
 }

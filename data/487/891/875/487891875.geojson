@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.674058,50.594399,-3.674058,50.594399",
-    "geom:latitude": 50.594399,
-    "geom:longitude": -3.674058,
+    "geom:bbox": "-3.674154,50.594299,-3.674154,50.594299",
+    "geom:latitude": 50.594299,
+    "geom:longitude": -3.674154,
     "gp:parent_id": "13406",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360699081, 
       404441427, 
       1126029751, 
       404227469, 
-      1360698541, 
-      85633159
+      1360698541
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701237,
-    "wof:geomhash": "41e9c715e192acec58f992bff93bd9c3",
+    "wof:geomhash": "562f2881391157937690c14dad324587",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487891875,
-    "wof:lastmodified": 1583786324,
+    "wof:lastmodified": 1609885228,
     "wof:name": "TQ13 9AE",
     "wof:parent_id": 404441427,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.674058, 
-    50.594399, 
-    -3.674058, 
-    50.594399
+    -3.674154, 
+    50.594299, 
+    -3.674154, 
+    50.594299
   ],
-  "geometry": {"coordinates":[-3.674058,50.594399],"type":"Point"}
+  "geometry": {"coordinates":[-3.674154,50.594299],"type":"Point"}
 }

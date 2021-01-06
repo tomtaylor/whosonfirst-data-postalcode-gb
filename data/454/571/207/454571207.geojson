@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.331653,50.864603,-3.331653,50.864603",
-    "geom:latitude": 50.864603,
-    "geom:longitude": -3.331653,
+    "geom:bbox": "-3.331411,50.864606,-3.331411,50.864606",
+    "geom:latitude": 50.864606,
+    "geom:longitude": -3.331411,
     "gp:parent_id": "24804",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698541, 
-      85633159, 
-      1360699081, 
       404448455, 
       1125973099, 
-      404227469
+      404227469, 
+      1360698541, 
+      85633159, 
+      1360699081
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701640,
-    "wof:geomhash": "00e0d0211c027399d4532fa006732366",
+    "wof:geomhash": "d8e7947fad0ba80fc2814299c554bc0c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454571207,
-    "wof:lastmodified": 1583786773,
+    "wof:lastmodified": 1609894909,
     "wof:name": "EX15 2BW",
     "wof:parent_id": 404448455,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.331653, 
-    50.864603, 
-    -3.331653, 
-    50.864603
+    -3.331411, 
+    50.864606, 
+    -3.331411, 
+    50.864606
   ],
-  "geometry": {"coordinates":[-3.331653,50.864603],"type":"Point"}
+  "geometry": {"coordinates":[-3.331411,50.864606],"type":"Point"}
 }

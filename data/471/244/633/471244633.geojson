@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.161341,52.611240,1.161341,52.611240",
-    "geom:latitude": 52.61124,
-    "geom:longitude": 1.161341,
+    "geom:bbox": "1.160061,52.612138,1.160061,52.612138",
+    "geom:latitude": 52.612138,
+    "geom:longitude": 1.160061,
     "gp:parent_id": "21683",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404437873, 
-      1360753333, 
       404227469, 
       1360698575, 
       85633159, 
-      1360698955
+      1360698955, 
+      404437873, 
+      1360753333
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701433,
-    "wof:geomhash": "d57b9ade277e4a55ae89260e4dd267c1",
+    "wof:geomhash": "ff17c96cba1135d1e5832a55610c1d3d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471244633,
-    "wof:lastmodified": 1583786586,
+    "wof:lastmodified": 1609882308,
     "wof:name": "NR9 3BH",
     "wof:parent_id": 404437873,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.161341, 
-    52.61124, 
-    1.161341, 
-    52.61124
+    1.160061, 
+    52.612138, 
+    1.160061, 
+    52.612138
   ],
-  "geometry": {"coordinates":[1.161341,52.61124],"type":"Point"}
+  "geometry": {"coordinates":[1.160061,52.612138],"type":"Point"}
 }

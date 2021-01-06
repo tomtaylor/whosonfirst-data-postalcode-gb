@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.213043,53.044089,-2.213043,53.044089",
-    "geom:latitude": 53.044089,
-    "geom:longitude": -2.213043,
+    "geom:bbox": "-2.212775,53.043989,-2.212775,53.043989",
+    "geom:latitude": 53.043989,
+    "geom:longitude": -2.212775,
     "gp:parent_id": "36240",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698593, 
       85633159, 
       1360698805, 
-      1175612703
+      1175612703, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701138,
-    "wof:geomhash": "abf5debbd453bccce6a1732006bd2391",
+    "wof:geomhash": "f8607e5a904429bfc20434d5159d93d2",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 487719913,
-    "wof:lastmodified": 1583786234,
+    "wof:lastmodified": 1609875527,
     "wof:name": "ST6 3RR",
     "wof:parent_id": 101750495,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.213043, 
-    53.044089, 
-    -2.213043, 
-    53.044089
+    -2.212775, 
+    53.043989, 
+    -2.212775, 
+    53.043989
   ],
-  "geometry": {"coordinates":[-2.213043,53.044089],"type":"Point"}
+  "geometry": {"coordinates":[-2.212775,53.043989],"type":"Point"}
 }

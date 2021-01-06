@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "-1.329381,52.085013,-1.329381,52.085013",
-    "geom:latitude": 52.085013,
-    "geom:longitude": -1.329381,
+    "geom:bbox": "-1.328104,52.084503,-1.328104,52.084503",
+    "geom:latitude": 52.084503,
+    "geom:longitude": -1.328104,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698839, 
       404436741, 
       101875471, 
       404227469, 
-      1360698585
+      1360698585, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735556,
-    "wof:geomhash": "7321f326e5021a3a2ba0dbfebba134b4",
+    "wof:geomhash": "346943b78e52c67c9b527d8deb9633bd",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1713329225,
-    "wof:lastmodified": 1595753442,
+    "wof:lastmodified": 1609875376,
     "wof:name": "OX16 2DQ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.329381, 
-    52.085013, 
-    -1.329381, 
-    52.085013
+    -1.328104, 
+    52.084503, 
+    -1.328104, 
+    52.084503
   ],
-  "geometry": {"coordinates":[-1.329381,52.085013],"type":"Point"}
+  "geometry": {"coordinates":[-1.328104,52.084503],"type":"Point"}
 }

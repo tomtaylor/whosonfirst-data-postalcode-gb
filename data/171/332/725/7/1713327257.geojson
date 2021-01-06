@@ -2,7 +2,7 @@
   "id": 1713327257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-09-01",
     "edtf:inception": "2020-02-01",
     "geom:area": 0,
     "geom:bbox": "-3.193643,51.465736,-3.193643,51.465736",
@@ -10,7 +10,7 @@
     "geom:longitude": -3.193643,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "W92000004",
     "os:county_code": "W99999999",
     "os:district_code": "W06000015",
@@ -18,12 +18,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698627, 
       1360887585, 
       85633159, 
       1360699107, 
       101750397, 
-      404227475, 
-      1360698627
+      404227475
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1713327257,
-    "wof:lastmodified": 1595753364,
+    "wof:lastmodified": 1609875203,
     "wof:name": "CF11 1WY",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

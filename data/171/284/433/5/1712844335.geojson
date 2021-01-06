@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-09-01",
     "geom:area": 0,
-    "geom:bbox": "-1.858429,52.380876,-1.858429,52.380876",
-    "geom:latitude": 52.380876,
-    "geom:longitude": -1.858429,
+    "geom:bbox": "-1.858443,52.381119,-1.858443,52.381119",
+    "geom:latitude": 52.381119,
+    "geom:longitude": -1.858443,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698605, 
-      85633159, 
-      1360699057, 
       404445845, 
       1126017967, 
-      404227469
+      404227469, 
+      1360698605, 
+      85633159, 
+      1360699057
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583806118,
-    "wof:geomhash": "e27179a4618cee56b04cd3df7dc5f07f",
+    "wof:geomhash": "e59fe5e040c140eadb92ad0028cc0461",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712844335,
-    "wof:lastmodified": 1595713495,
+    "wof:lastmodified": 1609874971,
     "wof:name": "B90 1US",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.858429, 
-    52.380876, 
-    -1.858429, 
-    52.380876
+    -1.858443, 
+    52.381119, 
+    -1.858443, 
+    52.381119
   ],
-  "geometry": {"coordinates":[-1.858429,52.380876],"type":"Point"}
+  "geometry": {"coordinates":[-1.858443,52.381119],"type":"Point"}
 }

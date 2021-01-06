@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-06-01",
     "geom:area": 0,
-    "geom:bbox": "-4.157361,51.066929,-4.157361,51.066929",
-    "geom:latitude": 51.066929,
-    "geom:longitude": -4.157361,
+    "geom:bbox": "-4.157495,51.067062,-4.157495,51.067062",
+    "geom:latitude": 51.067062,
+    "geom:longitude": -4.157495,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698541, 
-      85633159, 
       1360699081, 
       404438263, 
-      1125910797
+      1125910797, 
+      404227469, 
+      1360698541, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583796057,
-    "wof:geomhash": "f531a07d5bb8b63eea4cd74ee22aa78c",
+    "wof:geomhash": "e9b8a905d39996f5967167b73d6244b9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 38946771,
-    "wof:lastmodified": 1595711021,
+    "wof:lastmodified": 1609868493,
     "wof:name": "EX31 3TW",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.157361, 
-    51.066929, 
-    -4.157361, 
-    51.066929
+    -4.157495, 
+    51.067062, 
+    -4.157495, 
+    51.067062
   ],
-  "geometry": {"coordinates":[-4.157361,51.066929],"type":"Point"}
+  "geometry": {"coordinates":[-4.157495,51.067062],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.078282,51.136812,0.078282,51.136812",
+    "geom:bbox": "0.078296,51.136812,0.078296,51.136812",
     "geom:latitude": 51.136812,
-    "geom:longitude": 0.078282,
+    "geom:longitude": 0.078296,
     "gp:parent_id": "17063",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698549, 
+      85633159, 
       1360698815, 
       404433785, 
       1125902113, 
-      404227469, 
-      1360698549, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701230,
-    "wof:geomhash": "cb624e60bb3017cab534f70c41f6c567",
+    "wof:geomhash": "28a5f860e39ea3cd9dcb994009a0357e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487882663,
-    "wof:lastmodified": 1583786318,
+    "wof:lastmodified": 1609884932,
     "wof:name": "TN8 7EJ",
     "wof:parent_id": 404433785,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.078282, 
+    0.078296, 
     51.136812, 
-    0.078282, 
+    0.078296, 
     51.136812
   ],
-  "geometry": {"coordinates":[0.078282,51.136812],"type":"Point"}
+  "geometry": {"coordinates":[0.078296,51.136812],"type":"Point"}
 }

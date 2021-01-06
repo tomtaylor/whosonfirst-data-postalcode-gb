@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.298494,53.583570,-2.298494,53.583570",
-    "geom:latitude": 53.58357,
-    "geom:longitude": -2.298494,
+    "geom:bbox": "-2.298432,53.583586,-2.298432,53.583586",
+    "geom:latitude": 53.583586,
+    "geom:longitude": -2.298432,
     "gp:parent_id": "14711",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698847, 
       101750567, 
       404227469, 
-      1360698555
+      1360698555, 
+      85633159, 
+      1360698847
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701395,
-    "wof:geomhash": "9d2a0861d1405b9d910371c59c17b1f6",
+    "wof:geomhash": "40bfb5f35dd7b0bb01833fcf5dd16c8f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 438199001,
-    "wof:lastmodified": 1583786533,
+    "wof:lastmodified": 1609879367,
     "wof:name": "BL9 9AZ",
     "wof:parent_id": 101750567,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.298494, 
-    53.58357, 
-    -2.298494, 
-    53.58357
+    -2.298432, 
+    53.583586, 
+    -2.298432, 
+    53.583586
   ],
-  "geometry": {"coordinates":[-2.298494,53.58357],"type":"Point"}
+  "geometry": {"coordinates":[-2.298432,53.583586],"type":"Point"}
 }

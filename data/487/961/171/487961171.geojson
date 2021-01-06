@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.228286,54.554218,-1.228286,54.554218",
-    "geom:latitude": 54.554218,
-    "geom:longitude": -1.228286,
+    "geom:bbox": "-1.227605,54.553441,-1.227605,54.553441",
+    "geom:latitude": 54.553441,
+    "geom:longitude": -1.227605,
     "gp:parent_id": "28869",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698619, 
       85633159, 
       1360698853, 
-      101750599, 
-      404227469, 
-      1360698619
+      101750599
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701288,
-    "wof:geomhash": "cd52b230c636a3f98d2f63b62f1be4b4",
+    "wof:geomhash": "f36dde17b81b6c4470f66c9226e7bd9e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 487961171,
-    "wof:lastmodified": 1583786354,
+    "wof:lastmodified": 1609888997,
     "wof:name": "TS4 3BQ",
     "wof:parent_id": 101750599,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.228286, 
-    54.554218, 
-    -1.228286, 
-    54.554218
+    -1.227605, 
+    54.553441, 
+    -1.227605, 
+    54.553441
   ],
-  "geometry": {"coordinates":[-1.228286,54.554218],"type":"Point"}
+  "geometry": {"coordinates":[-1.227605,54.553441],"type":"Point"}
 }

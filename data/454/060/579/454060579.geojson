@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.518884,54.608833,-2.518884,54.608833",
-    "geom:latitude": 54.608833,
-    "geom:longitude": -2.518884,
+    "geom:bbox": "-2.518021,54.607965,-2.518021,54.607965",
+    "geom:latitude": 54.607965,
+    "geom:longitude": -2.518021,
     "gp:parent_id": "27348",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698721, 
-      85633159, 
       1360698877, 
       404449235, 
-      1125953945
+      1125953945, 
+      404227469, 
+      1360698721, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701112,
-    "wof:geomhash": "0653d2f6c122044a8f83a24bc26fef61",
+    "wof:geomhash": "957238fb54c67c11f44e5a8c7c2bb4f0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454060579,
-    "wof:lastmodified": 1583786251,
+    "wof:lastmodified": 1609869198,
     "wof:name": "CA16 6JP",
     "wof:parent_id": 404449235,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.518884, 
-    54.608833, 
-    -2.518884, 
-    54.608833
+    -2.518021, 
+    54.607965, 
+    -2.518021, 
+    54.607965
   ],
-  "geometry": {"coordinates":[-2.518884,54.608833],"type":"Point"}
+  "geometry": {"coordinates":[-2.518021,54.607965],"type":"Point"}
 }

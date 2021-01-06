@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-02-01",
     "geom:area": 0,
-    "geom:bbox": "-1.651644,52.308428,-1.651644,52.308428",
-    "geom:latitude": 52.308428,
-    "geom:longitude": -1.651644,
+    "geom:bbox": "-1.651363,52.308670,-1.651363,52.308670",
+    "geom:latitude": 52.30867,
+    "geom:longitude": -1.651363,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698603, 
       85633159, 
       1360698891, 
       404429637, 
       1360753143, 
-      404227469
+      404227469, 
+      1360698603
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583804878,
-    "wof:geomhash": "81fd8a5bdf11a7aee07e5654f92bb5f2",
+    "wof:geomhash": "c6781006353bf092600301ba8e645278",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 39745116,
-    "wof:lastmodified": 1583804878,
+    "wof:lastmodified": 1609868723,
     "wof:name": "CV35 7LX",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.651644, 
-    52.308428, 
-    -1.651644, 
-    52.308428
+    -1.651363, 
+    52.30867, 
+    -1.651363, 
+    52.30867
   ],
-  "geometry": {"coordinates":[-1.651644,52.308428],"type":"Point"}
+  "geometry": {"coordinates":[-1.651363,52.30867],"type":"Point"}
 }

@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.303621,51.510471,-0.303621,51.510471",
-    "geom:latitude": 51.510471,
-    "geom:longitude": -0.303621,
+    "geom:bbox": "-0.303592,51.510470,-0.303592,51.510470",
+    "geom:latitude": 51.51047,
+    "geom:longitude": -0.303592,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698645, 
       1158857265, 
       85633159, 
-      101750367
+      101750367, 
+      404227469, 
+      1360698645
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701214,
-    "wof:geomhash": "86b27d1cbff15b1ed88b828693bdfa14",
+    "wof:geomhash": "5f4c4db1406b27a1696ffb560b15079c",
     "wof:hierarchy": [
       {
         "borough_id": 1158857265,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488047877,
-    "wof:lastmodified": 1583786387,
+    "wof:lastmodified": 1609870000,
     "wof:name": "W5 5LH",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.303621, 
-    51.510471, 
-    -0.303621, 
-    51.510471
+    -0.303592, 
+    51.51047, 
+    -0.303592, 
+    51.51047
   ],
-  "geometry": {"coordinates":[-0.303621,51.510471],"type":"Point"}
+  "geometry": {"coordinates":[-0.303592,51.51047],"type":"Point"}
 }

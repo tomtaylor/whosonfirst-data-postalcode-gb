@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1987-02-01",
     "geom:area": 0,
-    "geom:bbox": "-4.640927,55.559920,-4.640927,55.559920",
-    "geom:latitude": 55.55992,
-    "geom:longitude": -4.640927,
+    "geom:bbox": "-4.640894,55.559956,-4.640894,55.559956",
+    "geom:latitude": 55.559956,
+    "geom:longitude": -4.640894,
     "gp:parent_id": "12696209",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      404227471, 
+      1360698697, 
       85633159, 
       1360699021, 
-      404430343, 
-      404227471, 
-      1360698697
+      404430343
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701439,
-    "wof:geomhash": "d084374bdaa7b3f4d8e40a13586c38e6",
+    "wof:geomhash": "5a54ce395966d0a4a00ad86a5f7d0fc5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488428465,
-    "wof:lastmodified": 1583786652,
+    "wof:lastmodified": 1609891570,
     "wof:name": "KA10 7JZ",
     "wof:parent_id": 404430343,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.640927, 
-    55.55992, 
-    -4.640927, 
-    55.55992
+    -4.640894, 
+    55.559956, 
+    -4.640894, 
+    55.559956
   ],
-  "geometry": {"coordinates":[-4.640927,55.55992],"type":"Point"}
+  "geometry": {"coordinates":[-4.640894,55.559956],"type":"Point"}
 }

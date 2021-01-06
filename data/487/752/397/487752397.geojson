@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.145371,51.487402,-0.145371,51.487402",
-    "geom:latitude": 51.487402,
-    "geom:longitude": -0.145371,
+    "geom:bbox": "-0.145370,51.487438,-0.145370,51.487438",
+    "geom:latitude": 51.487438,
+    "geom:longitude": -0.14537,
     "gp:parent_id": "43247",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -20,12 +20,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      420781625, 
       1360698645, 
       1158857245, 
       85633159, 
-      101750367
+      101750367, 
+      404227469, 
+      420781625
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701150,
-    "wof:geomhash": "4a0a4bff9c0765be932bb141b8230d17",
+    "wof:geomhash": "df23df785cbb2c8249302b17cc0b63ff",
     "wof:hierarchy": [
       {
         "borough_id": 1158857245,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 487752397,
-    "wof:lastmodified": 1595721945,
+    "wof:lastmodified": 1609877761,
     "wof:name": "SW1V 3HL",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -55,10 +55,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.145371, 
-    51.487402, 
-    -0.145371, 
-    51.487402
+    -0.14537, 
+    51.487438, 
+    -0.14537, 
+    51.487438
   ],
-  "geometry": {"coordinates":[-0.145371,51.487402],"type":"Point"}
+  "geometry": {"coordinates":[-0.14537,51.487438],"type":"Point"}
 }

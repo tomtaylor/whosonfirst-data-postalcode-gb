@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.179844,52.233212,-2.179844,52.233212",
-    "geom:latitude": 52.233212,
-    "geom:longitude": -2.179844,
+    "geom:bbox": "-2.179830,52.233302,-2.179830,52.233302",
+    "geom:latitude": 52.233302,
+    "geom:longitude": -2.17983,
     "gp:parent_id": "28459",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      1360699043, 
+      404451319, 
       1360756499, 
       404227469, 
       1360698613, 
-      85633159, 
-      1360699043, 
-      404451319
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701292,
-    "wof:geomhash": "4c11e2cb76a7691df5708c6e9d7cb102",
+    "wof:geomhash": "15b681b7f42ef1ec47bbb52663c63eaa",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488173901,
-    "wof:lastmodified": 1595730031,
+    "wof:lastmodified": 1609878305,
     "wof:name": "WR3 8TG",
     "wof:parent_id": 404451319,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.179844, 
-    52.233212, 
-    -2.179844, 
-    52.233212
+    -2.17983, 
+    52.233302, 
+    -2.17983, 
+    52.233302
   ],
-  "geometry": {"coordinates":[-2.179844,52.233212],"type":"Point"}
+  "geometry": {"coordinates":[-2.17983,52.233302],"type":"Point"}
 }

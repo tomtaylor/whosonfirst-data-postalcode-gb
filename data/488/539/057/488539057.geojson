@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1996-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.206875,57.190591,-2.206875,57.190591",
-    "geom:latitude": 57.190591,
-    "geom:longitude": -2.206875,
+    "geom:bbox": "-2.250561,57.176399,-2.250561,57.176399",
+    "geom:latitude": 57.176399,
+    "geom:longitude": -2.250561,
     "gp:parent_id": "14425",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227471, 
-      1360698709, 
       85633159, 
       1360698989, 
-      404429183
+      404429183, 
+      404227471, 
+      1360698709
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701552,
-    "wof:geomhash": "f96433ad61fd9b503d32b0c4593c3d22",
+    "wof:geomhash": "70abb1a00926e27ca73cdb0b96645fa6",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488539057,
-    "wof:lastmodified": 1583786752,
+    "wof:lastmodified": 1609895890,
     "wof:name": "AB21 9TB",
     "wof:parent_id": 404429183,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.206875, 
-    57.190591, 
-    -2.206875, 
-    57.190591
+    -2.250561, 
+    57.176399, 
+    -2.250561, 
+    57.176399
   ],
-  "geometry": {"coordinates":[-2.206875,57.190591],"type":"Point"}
+  "geometry": {"coordinates":[-2.250561,57.176399],"type":"Point"}
 }

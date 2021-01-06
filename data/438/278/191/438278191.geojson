@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.700255,51.474566,-2.700255,51.474566",
-    "geom:latitude": 51.474566,
-    "geom:longitude": -2.700255,
+    "geom:bbox": "-2.700270,51.474620,-2.700270,51.474620",
+    "geom:latitude": 51.47462,
+    "geom:longitude": -2.70027,
     "gp:parent_id": "19222",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      404429763, 
+      1360753359, 
       404227469, 
       85789823, 
       1360698589, 
       85633159, 
-      1360699111, 
-      404429763, 
-      1360753359
+      1360699111
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701468,
-    "wof:geomhash": "b80d9b8e218e23ea9129a394c068276f",
+    "wof:geomhash": "9f50af78249f30bcd1e01c8190c66971",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 438278191,
-    "wof:lastmodified": 1583786603,
+    "wof:lastmodified": 1609883315,
     "wof:name": "BS20 0QA",
     "wof:parent_id": 404429763,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.700255, 
-    51.474566, 
-    -2.700255, 
-    51.474566
+    -2.70027, 
+    51.47462, 
+    -2.70027, 
+    51.47462
   ],
-  "geometry": {"coordinates":[-2.700255,51.474566],"type":"Point"}
+  "geometry": {"coordinates":[-2.70027,51.47462],"type":"Point"}
 }

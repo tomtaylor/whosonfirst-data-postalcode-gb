@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.321692,51.448279,-2.321692,51.448279",
-    "geom:latitude": 51.448279,
-    "geom:longitude": -2.321692,
+    "geom:bbox": "-2.321924,51.448422,-2.321924,51.448422",
+    "geom:latitude": 51.448422,
+    "geom:longitude": -2.321924,
     "gp:parent_id": "11240",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698895, 
+      404451673, 
       1209134719, 
       404227469, 
       1360698553, 
-      85633159, 
-      1360698895, 
-      404451673
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701755,
-    "wof:geomhash": "6a5e874410c7ae2b8ed4c39dbe503493",
+    "wof:geomhash": "81b4cb07d814b61eefd6a31cb313cccc",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471842655,
-    "wof:lastmodified": 1583786918,
+    "wof:lastmodified": 1609904133,
     "wof:name": "SN14 8AS",
     "wof:parent_id": 404451673,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.321692, 
-    51.448279, 
-    -2.321692, 
-    51.448279
+    -2.321924, 
+    51.448422, 
+    -2.321924, 
+    51.448422
   ],
-  "geometry": {"coordinates":[-2.321692,51.448279],"type":"Point"}
+  "geometry": {"coordinates":[-2.321924,51.448422],"type":"Point"}
 }

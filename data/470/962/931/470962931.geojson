@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.810200,52.050678,-0.810200,52.050678",
-    "geom:latitude": 52.050678,
-    "geom:longitude": -0.8102,
+    "geom:bbox": "-0.810439,52.050800,-0.810439,52.050800",
+    "geom:latitude": 52.0508,
+    "geom:longitude": -0.810439,
     "gp:parent_id": "23600",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1360758367, 
       404227469, 
       1360698533, 
       85633159, 
       1360698913, 
-      404436227, 
-      1360758367
+      404436227
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701342,
-    "wof:geomhash": "fcbe15df253ceba3b19598ab41cfd8bb",
+    "wof:geomhash": "56f73065b05ad8b560290ff2f32893b1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470962931,
-    "wof:lastmodified": 1583786473,
+    "wof:lastmodified": 1609877200,
     "wof:name": "MK12 6JH",
     "wof:parent_id": 101750433,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.8102, 
-    52.050678, 
-    -0.8102, 
-    52.050678
+    -0.810439, 
+    52.0508, 
+    -0.810439, 
+    52.0508
   ],
-  "geometry": {"coordinates":[-0.8102,52.050678],"type":"Point"}
+  "geometry": {"coordinates":[-0.810439,52.0508],"type":"Point"}
 }

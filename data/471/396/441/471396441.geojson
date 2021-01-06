@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.339651,52.698417,-0.339651,52.698417",
-    "geom:latitude": 52.698417,
-    "geom:longitude": -0.339651,
+    "geom:bbox": "-0.340084,52.698719,-0.340084,52.698719",
+    "geom:latitude": 52.698719,
+    "geom:longitude": -0.340084,
     "gp:parent_id": "12602145",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      404434757, 
       1126030423, 
       404227469, 
       1360698571, 
       85633159, 
-      1360699067
+      1360699067, 
+      404434757
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701553,
-    "wof:geomhash": "cb1cd8f7a56c24ec7a4ce4b385bbccde",
+    "wof:geomhash": "3d22116564406898c51bccf4c3c36889",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471396441,
-    "wof:lastmodified": 1595722210,
+    "wof:lastmodified": 1609890604,
     "wof:name": "PE6 9LR",
     "wof:parent_id": 404434757,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.339651, 
-    52.698417, 
-    -0.339651, 
-    52.698417
+    -0.340084, 
+    52.698719, 
+    -0.340084, 
+    52.698719
   ],
-  "geometry": {"coordinates":[-0.339651,52.698417],"type":"Point"}
+  "geometry": {"coordinates":[-0.340084,52.698719],"type":"Point"}
 }

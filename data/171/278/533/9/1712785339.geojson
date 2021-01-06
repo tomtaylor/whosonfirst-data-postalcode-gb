@@ -2,7 +2,7 @@
   "id": 1712785339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-08-01",
     "edtf:inception": "2018-07-01",
     "geom:area": 0,
     "geom:bbox": "-3.431814,56.380198,-3.431814,56.380198",
@@ -10,7 +10,7 @@
     "geom:longitude": -3.431814,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "S92000003",
     "os:county_code": "S99999999",
     "os:district_code": "S12000048",
@@ -18,11 +18,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227471, 
-      1360698691, 
       85633159, 
       1360698829, 
-      404451983
+      404451983, 
+      404227471, 
+      1360698691
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1712785339,
-    "wof:lastmodified": 1583803480,
+    "wof:lastmodified": 1609874205,
     "wof:name": "PH2 1HZ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

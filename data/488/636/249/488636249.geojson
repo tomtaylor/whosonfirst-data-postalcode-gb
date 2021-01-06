@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.214747,55.959492,-3.214747,55.959492",
-    "geom:latitude": 55.959492,
-    "geom:longitude": -3.214747,
+    "geom:bbox": "-3.216673,55.959612,-3.216673,55.959612",
+    "geom:latitude": 55.959612,
+    "geom:longitude": -3.216673,
     "gp:parent_id": "12696195",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      404437279, 
       101750629, 
       404227471, 
-      85792723, 
+      85861477, 
       1360698673, 
       85633159, 
-      1360698761, 
-      404437279
+      1360698761
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701631,
-    "wof:geomhash": "e1a46be86aab4d867aef9fb870bfe6d1",
+    "wof:geomhash": "91149924cb92372924c498fd370c3fcd",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -41,12 +41,12 @@
         "localadmin_id": 404437279,
         "locality_id": 101750629,
         "macroregion_id": 404227471,
-        "neighbourhood_id": 85792723,
+        "neighbourhood_id": 85861477,
         "region_id": 1360698673
       }
     ],
     "wof:id": 488636249,
-    "wof:lastmodified": 1583786828,
+    "wof:lastmodified": 1609899430,
     "wof:name": "EH4 1HG",
     "wof:parent_id": 101750629,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.214747, 
-    55.959492, 
-    -3.214747, 
-    55.959492
+    -3.216673, 
+    55.959612, 
+    -3.216673, 
+    55.959612
   ],
-  "geometry": {"coordinates":[-3.214747,55.959492],"type":"Point"}
+  "geometry": {"coordinates":[-3.216673,55.959612],"type":"Point"}
 }

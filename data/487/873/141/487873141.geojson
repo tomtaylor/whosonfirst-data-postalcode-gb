@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2001-12-01",
     "geom:area": 0,
-    "geom:bbox": "0.541408,50.852014,0.541408,50.852014",
-    "geom:latitude": 50.852014,
-    "geom:longitude": 0.541408,
+    "geom:bbox": "0.541566,50.852025,0.541566,50.852025",
+    "geom:latitude": 50.852025,
+    "geom:longitude": 0.541566,
     "gp:parent_id": "35698",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      101750313, 
+      404227469, 
       1360698549, 
       85633159, 
-      1360698815, 
-      101750313, 
-      404227469
+      1360698815
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701222,
-    "wof:geomhash": "e900e84abfe8b65a9ac3b4815638da63",
+    "wof:geomhash": "909e46fe6acc93846faad626d44a30a6",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 487873141,
-    "wof:lastmodified": 1583786419,
+    "wof:lastmodified": 1609884456,
     "wof:name": "TN38 0NJ",
     "wof:parent_id": 101750313,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.541408, 
-    50.852014, 
-    0.541408, 
-    50.852014
+    0.541566, 
+    50.852025, 
+    0.541566, 
+    50.852025
   ],
-  "geometry": {"coordinates":[0.541408,50.852014],"type":"Point"}
+  "geometry": {"coordinates":[0.541566,50.852025],"type":"Point"}
 }

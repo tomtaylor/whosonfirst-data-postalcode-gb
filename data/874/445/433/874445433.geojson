@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2012-05-01",
     "geom:area": 0,
-    "geom:bbox": "-0.425319,53.683917,-0.425319,53.683917",
-    "geom:latitude": 53.683917,
-    "geom:longitude": -0.425319,
+    "geom:bbox": "-0.426227,53.684334,-0.426227,53.684334",
+    "geom:latitude": 53.684334,
+    "geom:longitude": -0.426227,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698571, 
       85633159, 
       1360698901, 
       404443903, 
-      101874139
+      101874139, 
+      404227469, 
+      1360698571
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468878202,
-    "wof:geomhash": "1835f2f9149555b5f4b1a7c415d79b2d",
+    "wof:geomhash": "b7bc31472f6840845c5ab127e815b4fb",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 874445433,
-    "wof:lastmodified": 1583786229,
+    "wof:lastmodified": 1609869480,
     "wof:name": "DN18 5GR",
     "wof:parent_id": 404443903,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.425319, 
-    53.683917, 
-    -0.425319, 
-    53.683917
+    -0.426227, 
+    53.684334, 
+    -0.426227, 
+    53.684334
   ],
-  "geometry": {"coordinates":[-0.425319,53.683917],"type":"Point"}
+  "geometry": {"coordinates":[-0.426227,53.684334],"type":"Point"}
 }

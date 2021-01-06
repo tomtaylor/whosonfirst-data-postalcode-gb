@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.359376,53.432660,-1.359376,53.432660",
-    "geom:latitude": 53.43266,
-    "geom:longitude": -1.359376,
+    "geom:bbox": "-1.359884,53.432950,-1.359884,53.432950",
+    "geom:latitude": 53.43295,
+    "geom:longitude": -1.359884,
     "gp:parent_id": "33591",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      1360817063, 
       101750521, 
       404227469, 
       1360698591, 
       85633159, 
-      1360698851, 
-      1360817063
+      1360698851
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701689,
-    "wof:geomhash": "245f62104e80fbdec7d5923a2c2c0417",
+    "wof:geomhash": "c57c3c06ab81327cefcde8393ad7379b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471661725,
-    "wof:lastmodified": 1583786863,
+    "wof:lastmodified": 1609900464,
     "wof:name": "S60 1QJ",
     "wof:parent_id": 101750521,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.359376, 
-    53.43266, 
-    -1.359376, 
-    53.43266
+    -1.359884, 
+    53.43295, 
+    -1.359884, 
+    53.43295
   ],
-  "geometry": {"coordinates":[-1.359376,53.43266],"type":"Point"}
+  "geometry": {"coordinates":[-1.359884,53.43295],"type":"Point"}
 }

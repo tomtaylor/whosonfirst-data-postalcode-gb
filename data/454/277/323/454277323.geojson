@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.582785,52.409652,-1.582785,52.409652",
-    "geom:latitude": 52.409652,
-    "geom:longitude": -1.582785,
+    "geom:bbox": "-1.582873,52.409679,-1.582873,52.409679",
+    "geom:latitude": 52.409679,
+    "geom:longitude": -1.582873,
     "gp:parent_id": "17044",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698605, 
       85633159, 
       1360699115, 
-      101750449
+      101750449, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701435,
-    "wof:geomhash": "38cea3847f98a9aa97bb1a81cece7af2",
+    "wof:geomhash": "071e4fc35bbc047244d2398099734778",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454277323,
-    "wof:lastmodified": 1583786569,
+    "wof:lastmodified": 1609881190,
     "wof:name": "CV4 9QF",
     "wof:parent_id": 101750449,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.582785, 
-    52.409652, 
-    -1.582785, 
-    52.409652
+    -1.582873, 
+    52.409679, 
+    -1.582873, 
+    52.409679
   ],
-  "geometry": {"coordinates":[-1.582785,52.409652],"type":"Point"}
+  "geometry": {"coordinates":[-1.582873,52.409679],"type":"Point"}
 }

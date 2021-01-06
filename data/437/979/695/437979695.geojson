@@ -2,7 +2,7 @@
   "id": 437979695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-08-01",
     "edtf:inception": "2017-11-01",
     "geom:area": 0,
     "geom:bbox": "-1.894209,52.495968,-1.894209,52.495968",
@@ -11,7 +11,7 @@
     "gp:parent_id": "12723",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E08000025",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      101750467, 
       404227469, 
       85785393, 
       1360698605, 
       85633159, 
-      1360699077
+      1360699077, 
+      101750467
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 437979695,
-    "wof:lastmodified": 1583786832,
+    "wof:lastmodified": 1609898161,
     "wof:name": "B3 2SF",
     "wof:parent_id": 101750467,
     "wof:placetype": "postalcode",

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-12-01",
     "geom:area": 0,
-    "geom:bbox": "-3.451100,50.737525,-3.451100,50.737525",
-    "geom:latitude": 50.737525,
-    "geom:longitude": -3.4511,
+    "geom:bbox": "-3.451259,50.737649,-3.451259,50.737649",
+    "geom:latitude": 50.737649,
+    "geom:longitude": -3.451259,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404429449, 
-      1125971999, 
-      404227469, 
       1360698541, 
       85633159, 
-      1360699081
+      1360699081, 
+      404429449, 
+      1125971999, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583795168,
-    "wof:geomhash": "d7064908cb3cad8f87eddc8c4f4f04a3",
+    "wof:geomhash": "230fbc18efb5c24383e222b77e9795fe",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 38871180,
-    "wof:lastmodified": 1583795168,
+    "wof:lastmodified": 1609868550,
     "wof:name": "EX1 3ZG",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.4511, 
-    50.737525, 
-    -3.4511, 
-    50.737525
+    -3.451259, 
+    50.737649, 
+    -3.451259, 
+    50.737649
   ],
-  "geometry": {"coordinates":[-3.4511,50.737525],"type":"Point"}
+  "geometry": {"coordinates":[-3.451259,50.737649],"type":"Point"}
 }

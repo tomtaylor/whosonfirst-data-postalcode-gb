@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.829428,53.381526,-2.829428,53.381526",
-    "geom:latitude": 53.381526,
-    "geom:longitude": -2.829428,
+    "geom:bbox": "-2.829359,53.381829,-2.829359,53.381829",
+    "geom:latitude": 53.381829,
+    "geom:longitude": -2.829359,
     "gp:parent_id": "26734",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85789275, 
       1360698573, 
       85633159, 
       1360698971, 
       101750547, 
-      404227469
+      404227469, 
+      85789275
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701762,
-    "wof:geomhash": "c12645bede5e3c0129da6610c43d13a4",
+    "wof:geomhash": "1ec04a33a0af2db74acf739231f72ddf",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454953783,
-    "wof:lastmodified": 1583786898,
+    "wof:lastmodified": 1609905366,
     "wof:name": "L27 5RA",
     "wof:parent_id": 101750547,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.829428, 
-    53.381526, 
-    -2.829428, 
-    53.381526
+    -2.829359, 
+    53.381829, 
+    -2.829359, 
+    53.381829
   ],
-  "geometry": {"coordinates":[-2.829428,53.381526],"type":"Point"}
+  "geometry": {"coordinates":[-2.829359,53.381829],"type":"Point"}
 }

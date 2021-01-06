@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.681154,50.348859,-4.681154,50.348859",
-    "geom:latitude": 50.348859,
-    "geom:longitude": -4.681154,
+    "geom:bbox": "-4.681484,50.348986,-4.681484,50.348986",
+    "geom:latitude": 50.348986,
+    "geom:longitude": -4.681484,
     "gp:parent_id": "31418",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698623, 
+      85633159, 
       1360699085, 
       404445341, 
       101852389, 
-      404227469, 
-      1360698623, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701578,
-    "wof:geomhash": "26df7226658606acb64c2494a778d1fb",
+    "wof:geomhash": "b5e4f138ba688651c719da410011e6db",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471419509,
-    "wof:lastmodified": 1595722374,
+    "wof:lastmodified": 1609891426,
     "wof:name": "PL24 2TJ",
     "wof:parent_id": 404445341,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.681154, 
-    50.348859, 
-    -4.681154, 
-    50.348859
+    -4.681484, 
+    50.348986, 
+    -4.681484, 
+    50.348986
   ],
-  "geometry": {"coordinates":[-4.681154,50.348859],"type":"Point"}
+  "geometry": {"coordinates":[-4.681484,50.348986],"type":"Point"}
 }

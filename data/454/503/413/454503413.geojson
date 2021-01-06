@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.013095,51.557645,-0.013095,51.557645",
-    "geom:latitude": 51.557645,
-    "geom:longitude": -0.013095,
+    "geom:bbox": "-0.013183,51.557619,-0.013183,51.557619",
+    "geom:latitude": 51.557619,
+    "geom:longitude": -0.013183,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      1158857287, 
-      85633159, 
       101750367, 
       404227469, 
       85788761, 
-      1360698645
+      1360698645, 
+      1158857287, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701606,
-    "wof:geomhash": "178161530acc8abd7070164c2eca33df",
+    "wof:geomhash": "e42b819c02b5d8f56d0188817d464ee0",
     "wof:hierarchy": [
       {
         "borough_id": 1158857287,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454503413,
-    "wof:lastmodified": 1583786739,
+    "wof:lastmodified": 1609892440,
     "wof:name": "E10 5NL",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.013095, 
-    51.557645, 
-    -0.013095, 
-    51.557645
+    -0.013183, 
+    51.557619, 
+    -0.013183, 
+    51.557619
   ],
-  "geometry": {"coordinates":[-0.013095,51.557645],"type":"Point"}
+  "geometry": {"coordinates":[-0.013183,51.557619],"type":"Point"}
 }

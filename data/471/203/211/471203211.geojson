@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.536421,52.759663,1.536421,52.759663",
+    "geom:bbox": "1.536440,52.759663,1.536440,52.759663",
     "geom:latitude": 52.759663,
-    "geom:longitude": 1.536421,
+    "geom:longitude": 1.53644,
     "gp:parent_id": "36656",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
       1360698575, 
       85633159, 
       1360698955, 
       404432995, 
-      1125879041, 
-      404227469
+      1125879041
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701396,
-    "wof:geomhash": "05ef433ad913b3c96efe22db747f0a2d",
+    "wof:geomhash": "4d78ee866788840038f9141b73f6ce14",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471203211,
-    "wof:lastmodified": 1583786550,
+    "wof:lastmodified": 1609880020,
     "wof:name": "NR12 9RE",
     "wof:parent_id": 404432995,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.536421, 
+    1.53644, 
     52.759663, 
-    1.536421, 
+    1.53644, 
     52.759663
   ],
-  "geometry": {"coordinates":[1.536421,52.759663],"type":"Point"}
+  "geometry": {"coordinates":[1.53644,52.759663],"type":"Point"}
 }

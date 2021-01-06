@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.852249,53.562874,-0.852249,53.562874",
-    "geom:latitude": 53.562874,
-    "geom:longitude": -0.852249,
+    "geom:bbox": "-0.851322,53.563117,-0.851322,53.563117",
+    "geom:latitude": 53.563117,
+    "geom:longitude": -0.851322,
     "gp:parent_id": "12340",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698901, 
       404432229, 
       1209844435, 
       404227469, 
-      1360698571
+      1360698571, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701574,
-    "wof:geomhash": "12aee9aeeaaeeb1848c468829cab126f",
+    "wof:geomhash": "0a9d4fa1237783413d5d8b1500db9935",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454458063,
-    "wof:lastmodified": 1595715559,
+    "wof:lastmodified": 1609890310,
     "wof:name": "DN9 1PN",
     "wof:parent_id": 404432229,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.852249, 
-    53.562874, 
-    -0.852249, 
-    53.562874
+    -0.851322, 
+    53.563117, 
+    -0.851322, 
+    53.563117
   ],
-  "geometry": {"coordinates":[-0.852249,53.562874],"type":"Point"}
+  "geometry": {"coordinates":[-0.851322,53.563117],"type":"Point"}
 }

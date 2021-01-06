@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.351514,53.875148,-1.351514,53.875148",
-    "geom:latitude": 53.875148,
-    "geom:longitude": -1.351514,
+    "geom:bbox": "-1.351997,53.875349,-1.351997,53.875349",
+    "geom:latitude": 53.875349,
+    "geom:longitude": -1.351997,
     "gp:parent_id": "13625",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698609, 
-      85633159, 
-      1360698749, 
       404453163, 
       1360758881, 
-      404227469
+      404227469, 
+      1360698609, 
+      85633159, 
+      1360698749
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701244,
-    "wof:geomhash": "eb646ba307366e7858d3dbfcf5e11e1e",
+    "wof:geomhash": "b1043c49f230b325af2d30594ae43cfe",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470823227,
-    "wof:lastmodified": 1583786413,
+    "wof:lastmodified": 1609868858,
     "wof:name": "LS23 6LL",
     "wof:parent_id": 404453163,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.351514, 
-    53.875148, 
-    -1.351514, 
-    53.875148
+    -1.351997, 
+    53.875349, 
+    -1.351997, 
+    53.875349
   ],
-  "geometry": {"coordinates":[-1.351514,53.875148],"type":"Point"}
+  "geometry": {"coordinates":[-1.351997,53.875349],"type":"Point"}
 }

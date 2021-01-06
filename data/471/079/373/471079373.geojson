@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.195534,55.169381,-2.195534,55.169381",
-    "geom:latitude": 55.169381,
-    "geom:longitude": -2.195534,
+    "geom:bbox": "-2.196775,55.169460,-2.196775,55.169460",
+    "geom:latitude": 55.16946,
+    "geom:longitude": -2.196775,
     "gp:parent_id": "39847",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
+      1226377875, 
+      404227469, 
       1360698727, 
       85633159, 
       1360698769, 
-      404437271, 
-      1226377875, 
-      404227469
+      404437271
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701245,
-    "wof:geomhash": "98f9294b17cb35beb8c478c7fbafbd50",
+    "wof:geomhash": "19a53f3028a55a76566b37dcf33a8934",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471079373,
-    "wof:lastmodified": 1595719966,
+    "wof:lastmodified": 1609871640,
     "wof:name": "NE48 2SF",
     "wof:parent_id": 404437271,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.195534, 
-    55.169381, 
-    -2.195534, 
-    55.169381
+    -2.196775, 
+    55.16946, 
+    -2.196775, 
+    55.16946
   ],
-  "geometry": {"coordinates":[-2.195534,55.169381],"type":"Point"}
+  "geometry": {"coordinates":[-2.196775,55.16946],"type":"Point"}
 }

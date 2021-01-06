@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.872560,57.578125,-3.872560,57.578125",
-    "geom:latitude": 57.578125,
-    "geom:longitude": -3.87256,
+    "geom:bbox": "-3.872027,57.577506,-3.872027,57.577506",
+    "geom:latitude": 57.577506,
+    "geom:longitude": -3.872027,
     "gp:parent_id": "12696199",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360699045, 
+      404436073, 
       404227471, 
       1360698665, 
-      85633159, 
-      1360699045, 
-      404436073
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701252,
-    "wof:geomhash": "4ce457ef0aaa7b8bb27a70e62c14df49",
+    "wof:geomhash": "4181d3c5c064a46485b3a8b47ce2fcad",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504434459,
-    "wof:lastmodified": 1583786370,
+    "wof:lastmodified": 1609871087,
     "wof:name": "IV12 5ED",
     "wof:parent_id": 101873679,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.87256, 
-    57.578125, 
-    -3.87256, 
-    57.578125
+    -3.872027, 
+    57.577506, 
+    -3.872027, 
+    57.577506
   ],
-  "geometry": {"coordinates":[-3.87256,57.578125],"type":"Point"}
+  "geometry": {"coordinates":[-3.872027,57.577506],"type":"Point"}
 }

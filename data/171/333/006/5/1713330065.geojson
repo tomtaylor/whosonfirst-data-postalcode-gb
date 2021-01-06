@@ -5,30 +5,30 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-02-01",
     "geom:area": 0,
-    "geom:bbox": "-4.372559,55.904286,-4.372559,55.904286",
-    "geom:latitude": 55.904286,
-    "geom:longitude": -4.372559,
+    "geom:bbox": "-4.360050,55.906423,-4.360050,55.906423",
+    "geom:latitude": 55.906423,
+    "geom:longitude": -4.36005,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "os:country_code": "S92000003",
     "os:county_code": "S99999999",
     "os:district_code": "S12000049",
-    "os:positional_quality_indicator": "5",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698797, 
       404430153, 
       1175612707, 
       404227471, 
-      1360698707
+      1360698707, 
+      85633159, 
+      1360698797
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735597,
-    "wof:geomhash": "90dde28d68c687e6c414f57d838c04ca",
+    "wof:geomhash": "436f951685c98721ca15be6b7aa08841",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1713330065,
-    "wof:lastmodified": 1595753422,
+    "wof:lastmodified": 1609875365,
     "wof:name": "G15 6AY",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.372559, 
-    55.904286, 
-    -4.372559, 
-    55.904286
+    -4.36005, 
+    55.906423, 
+    -4.36005, 
+    55.906423
   ],
-  "geometry": {"coordinates":[-4.372559,55.904286],"type":"Point"}
+  "geometry": {"coordinates":[-4.36005,55.906423],"type":"Point"}
 }

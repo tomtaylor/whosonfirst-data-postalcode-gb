@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.259793,51.750966,-1.259793,51.750966",
-    "geom:latitude": 51.750966,
-    "geom:longitude": -1.259793,
+    "geom:bbox": "-1.259775,51.750935,-1.259775,51.750935",
+    "geom:latitude": 51.750935,
+    "geom:longitude": -1.259775,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,11 +18,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698585, 
+      85633159, 
       1360698839, 
       101750439, 
-      404227469, 
-      1360698585, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -30,7 +30,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701486,
-    "wof:geomhash": "b0dbda3972b872344793645e7454af1e",
+    "wof:geomhash": "b33c3baff55fbba1d7229bdbd1b59d86",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -41,7 +41,7 @@
       }
     ],
     "wof:id": 471304867,
-    "wof:lastmodified": 1583786638,
+    "wof:lastmodified": 1609885759,
     "wof:name": "OX1 1PU",
     "wof:parent_id": 101750439,
     "wof:placetype": "postalcode",
@@ -51,10 +51,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.259793, 
-    51.750966, 
-    -1.259793, 
-    51.750966
+    -1.259775, 
+    51.750935, 
+    -1.259775, 
+    51.750935
   ],
-  "geometry": {"coordinates":[-1.259793,51.750966],"type":"Point"}
+  "geometry": {"coordinates":[-1.259775,51.750935],"type":"Point"}
 }

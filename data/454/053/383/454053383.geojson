@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.676703,54.684882,-2.676703,54.684882",
-    "geom:latitude": 54.684882,
-    "geom:longitude": -2.676703,
+    "geom:bbox": "-2.676656,54.684829,-2.676656,54.684829",
+    "geom:latitude": 54.684829,
+    "geom:longitude": -2.676656,
     "gp:parent_id": "19313",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1125983371, 
-      404227469, 
       1360698721, 
       85633159, 
       1360698877, 
-      404453883
+      404453883, 
+      1125983371, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701091,
-    "wof:geomhash": "89dfa19fd640ecee8f2a47ab03a8f2f7",
+    "wof:geomhash": "ce844b23e9c7eb6bdc66eb1d511a5f34",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454053383,
-    "wof:lastmodified": 1583786226,
+    "wof:lastmodified": 1609869003,
     "wof:name": "CA11 8SN",
     "wof:parent_id": 404453883,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.676703, 
-    54.684882, 
-    -2.676703, 
-    54.684882
+    -2.676656, 
+    54.684829, 
+    -2.676656, 
+    54.684829
   ],
-  "geometry": {"coordinates":[-2.676703,54.684882],"type":"Point"}
+  "geometry": {"coordinates":[-2.676656,54.684829],"type":"Point"}
 }

@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.128600,51.511784,-0.128600,51.511784",
-    "geom:latitude": 51.511784,
-    "geom:longitude": -0.1286,
+    "geom:bbox": "-0.128612,51.511847,-0.128612,51.511847",
+    "geom:latitude": 51.511847,
+    "geom:longitude": -0.128612,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      1158857245, 
-      85633159, 
       101750367, 
       1158859031, 
       404227469, 
       85861659, 
-      1360698645
+      1360698645, 
+      1158857245, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701247,
-    "wof:geomhash": "f7e2647077a7d8cef1e0b965d7e8d743",
+    "wof:geomhash": "d0059b6b7065add0cf4124022218aaa7",
     "wof:hierarchy": [
       {
         "borough_id": 1158857245,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 488098689,
-    "wof:lastmodified": 1583786406,
+    "wof:lastmodified": 1609872828,
     "wof:name": "WC2H 0AN",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.1286, 
-    51.511784, 
-    -0.1286, 
-    51.511784
+    -0.128612, 
+    51.511847, 
+    -0.128612, 
+    51.511847
   ],
-  "geometry": {"coordinates":[-0.1286,51.511784],"type":"Point"}
+  "geometry": {"coordinates":[-0.128612,51.511847],"type":"Point"}
 }

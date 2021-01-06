@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1996-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.110707,57.171821,-2.110707,57.171821",
-    "geom:latitude": 57.171821,
-    "geom:longitude": -2.110707,
+    "geom:bbox": "-2.110855,57.171713,-2.110855,57.171713",
+    "geom:latitude": 57.171713,
+    "geom:longitude": -2.110855,
     "gp:parent_id": "12696182",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698709, 
-      85633159, 
       1360698989, 
       404429183, 
       101750639, 
-      404227471
+      404227471, 
+      1360698709, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701555,
-    "wof:geomhash": "de836be7cd5a847407bd7d39e05b65d5",
+    "wof:geomhash": "5add1f1310859fd03cb79ba758e83c5b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488540301,
-    "wof:lastmodified": 1583786754,
+    "wof:lastmodified": 1609895930,
     "wof:name": "AB24 2UG",
     "wof:parent_id": 101750639,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.110707, 
-    57.171821, 
-    -2.110707, 
-    57.171821
+    -2.110855, 
+    57.171713, 
+    -2.110855, 
+    57.171713
   ],
-  "geometry": {"coordinates":[-2.110707,57.171821],"type":"Point"}
+  "geometry": {"coordinates":[-2.110855,57.171713],"type":"Point"}
 }

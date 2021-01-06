@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-5.109812,50.389519,-5.109812,50.389519",
-    "geom:latitude": 50.389519,
-    "geom:longitude": -5.109812,
+    "geom:bbox": "-5.107884,50.389526,-5.107884,50.389526",
+    "geom:latitude": 50.389526,
+    "geom:longitude": -5.107884,
     "gp:parent_id": "17580",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1125859081, 
-      404227469, 
       1360698623, 
       85633159, 
       1360699085, 
-      404449959
+      404449959, 
+      1125859081, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701268,
-    "wof:geomhash": "335f2ab83a8531478dd956a6f9bd2a85",
+    "wof:geomhash": "2edb9748a55490aeb8363d2b718dd67a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487930251,
-    "wof:lastmodified": 1583786342,
+    "wof:lastmodified": 1609887104,
     "wof:name": "TR8 5ET",
     "wof:parent_id": 404449959,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -5.109812, 
-    50.389519, 
-    -5.109812, 
-    50.389519
+    -5.107884, 
+    50.389526, 
+    -5.107884, 
+    50.389526
   ],
-  "geometry": {"coordinates":[-5.109812,50.389519],"type":"Point"}
+  "geometry": {"coordinates":[-5.107884,50.389526],"type":"Point"}
 }

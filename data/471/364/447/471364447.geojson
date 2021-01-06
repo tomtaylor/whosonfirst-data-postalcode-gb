@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1992-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.295184,52.550704,-0.295184,52.550704",
-    "geom:latitude": 52.550704,
-    "geom:longitude": -0.295184,
+    "geom:bbox": "-0.294992,52.550710,-0.294992,52.550710",
+    "geom:latitude": 52.55071,
+    "geom:longitude": -0.294992,
     "gp:parent_id": "31110",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698773, 
       404438071, 
       1327065391, 
       404227469, 
-      1360698535
+      1360698535, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701533,
-    "wof:geomhash": "f2a6fe41bab4f369417e1f80cf4933e4",
+    "wof:geomhash": "b38c6ce5a351764c95a7e10e133708d0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471364447,
-    "wof:lastmodified": 1583786681,
+    "wof:lastmodified": 1609888579,
     "wof:name": "PE2 5HD",
     "wof:parent_id": 101750461,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.295184, 
-    52.550704, 
-    -0.295184, 
-    52.550704
+    -0.294992, 
+    52.55071, 
+    -0.294992, 
+    52.55071
   ],
-  "geometry": {"coordinates":[-0.295184,52.550704],"type":"Point"}
+  "geometry": {"coordinates":[-0.294992,52.55071],"type":"Point"}
 }

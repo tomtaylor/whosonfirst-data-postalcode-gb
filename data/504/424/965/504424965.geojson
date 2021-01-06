@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.350911,55.786002,-4.350911,55.786002",
-    "geom:latitude": 55.786002,
-    "geom:longitude": -4.350911,
+    "geom:bbox": "-4.352495,55.786340,-4.352495,55.786340",
+    "geom:latitude": 55.78634,
+    "geom:longitude": -4.352495,
     "gp:parent_id": "12696194",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      404435263, 
+      404227471, 
       85792511, 
       1360698699, 
       85633159, 
-      1360699117, 
-      404435263, 
-      404227471
+      1360699117
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701215,
-    "wof:geomhash": "69dc9c9a9c3c680c86d4ad5e979a2b8a",
+    "wof:geomhash": "bdeb8453fc11de7b5547570fa2742258",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504424965,
-    "wof:lastmodified": 1583786333,
+    "wof:lastmodified": 1609870602,
     "wof:name": "G77 6NS",
     "wof:parent_id": 404435263,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.350911, 
-    55.786002, 
-    -4.350911, 
-    55.786002
+    -4.352495, 
+    55.78634, 
+    -4.352495, 
+    55.78634
   ],
-  "geometry": {"coordinates":[-4.350911,55.786002],"type":"Point"}
+  "geometry": {"coordinates":[-4.352495,55.78634],"type":"Point"}
 }

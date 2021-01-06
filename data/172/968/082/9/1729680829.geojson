@@ -1,0 +1,59 @@
+{
+  "id": 1729680829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-09-01",
+    "geom:area": 0,
+    "geom:bbox": "-5.201790,51.876539,-5.201790,51.876539",
+    "geom:latitude": 51.876539,
+    "geom:longitude": -5.20179,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "W92000004",
+    "os:county_code": "W99999999",
+    "os:district_code": "W06000009",
+    "os:positional_quality_indicator": "5",
+    "os:region_code": "W99999999",
+    "src:geom": "os",
+    "wof:belongsto": [
+      1360698639, 
+      85633159, 
+      1360698843, 
+      404447603, 
+      1125912983, 
+      404227475
+    ],
+    "wof:breaches": [],
+    "wof:country": "GB",
+    "wof:created": 1609906023,
+    "wof:geomhash": "ef65936994210ba0768bb7ec6ba7a826",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698843,
+        "localadmin_id": 404447603,
+        "locality_id": 1125912983,
+        "macroregion_id": 404227475,
+        "region_id": 1360698639
+      }
+    ],
+    "wof:id": 1729680829,
+    "wof:lastmodified": 1609906023,
+    "wof:name": "SA62 6NR",
+    "wof:parent_id": -1,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -5.20179, 
+    51.876539, 
+    -5.20179, 
+    51.876539
+  ],
+  "geometry": {"coordinates":[-5.20179,51.876539],"type":"Point"}
+}

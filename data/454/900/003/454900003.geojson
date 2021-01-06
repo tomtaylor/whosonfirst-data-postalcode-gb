@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.046282,52.048077,1.046282,52.048077",
-    "geom:latitude": 52.048077,
-    "geom:longitude": 1.046282,
+    "geom:bbox": "1.044371,52.047848,1.044371,52.047848",
+    "geom:latitude": 52.047848,
+    "geom:longitude": 1.044371,
     "gp:parent_id": "23535",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698595, 
       85633159, 
       1360699041, 
       404451203, 
-      1125961799
+      1125961799, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701746,
-    "wof:geomhash": "a36491bb1b4b369abf09cf998ee5df72",
+    "wof:geomhash": "af33d7de0662b67517aacc70dd0a55f6",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454900003,
-    "wof:lastmodified": 1583786879,
+    "wof:lastmodified": 1609904489,
     "wof:name": "IP8 3PU",
     "wof:parent_id": 404451203,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.046282, 
-    52.048077, 
-    1.046282, 
-    52.048077
+    1.044371, 
+    52.047848, 
+    1.044371, 
+    52.047848
   ],
-  "geometry": {"coordinates":[1.046282,52.048077],"type":"Point"}
+  "geometry": {"coordinates":[1.044371,52.047848],"type":"Point"}
 }

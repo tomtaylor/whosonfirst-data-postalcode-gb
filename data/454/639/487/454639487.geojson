@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.358394,51.877372,-2.358394,51.877372",
-    "geom:latitude": 51.877372,
-    "geom:longitude": -2.358394,
+    "geom:bbox": "-2.358711,51.877262,-2.358711,51.877262",
+    "geom:latitude": 51.877262,
+    "geom:longitude": -2.358711,
     "gp:parent_id": "16066",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      1360753211, 
+      404227469, 
       1360698553, 
       85633159, 
       1360698927, 
-      404449171, 
-      1360753211, 
-      404227469
+      404449171
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701675,
-    "wof:geomhash": "3de27b5fcbb8693a63a311e859e5c3aa",
+    "wof:geomhash": "64e80333ccddb45947507ba04b517cff",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454639487,
-    "wof:lastmodified": 1583786812,
+    "wof:lastmodified": 1609897893,
     "wof:name": "GL2 8BH",
     "wof:parent_id": 404449171,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.358394, 
-    51.877372, 
-    -2.358394, 
-    51.877372
+    -2.358711, 
+    51.877262, 
+    -2.358711, 
+    51.877262
   ],
-  "geometry": {"coordinates":[-2.358394,51.877372],"type":"Point"}
+  "geometry": {"coordinates":[-2.358711,51.877262],"type":"Point"}
 }

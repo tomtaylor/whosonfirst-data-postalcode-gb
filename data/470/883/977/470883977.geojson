@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1994-05-01",
     "geom:area": 0,
-    "geom:bbox": "-2.276140,53.537709,-2.276140,53.537709",
-    "geom:latitude": 53.537709,
-    "geom:longitude": -2.27614,
+    "geom:bbox": "-2.276306,53.537718,-2.276306,53.537718",
+    "geom:latitude": 53.537718,
+    "geom:longitude": -2.276306,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698847, 
-      101750567, 
       404227469, 
       85789943, 
       1360698555, 
-      85633159
+      85633159, 
+      1360698847, 
+      101750567
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701207,
-    "wof:geomhash": "c3becf5f2e420ba61bdc40bd9b14fe68",
+    "wof:geomhash": "0d86d6d9db683ba0a0976d114ad97803",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 470883977,
-    "wof:lastmodified": 1583786342,
+    "wof:lastmodified": 1609871264,
     "wof:name": "M25 1NL",
     "wof:parent_id": 101913947,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.27614, 
-    53.537709, 
-    -2.27614, 
-    53.537709
+    -2.276306, 
+    53.537718, 
+    -2.276306, 
+    53.537718
   ],
-  "geometry": {"coordinates":[-2.27614,53.537709],"type":"Point"}
+  "geometry": {"coordinates":[-2.276306,53.537718],"type":"Point"}
 }

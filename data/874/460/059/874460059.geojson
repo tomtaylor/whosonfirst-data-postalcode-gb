@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2011-12-01",
     "geom:area": 0,
-    "geom:bbox": "-2.520393,51.719877,-2.520393,51.719877",
-    "geom:latitude": 51.719877,
-    "geom:longitude": -2.520393,
+    "geom:bbox": "-2.520307,51.719913,-2.520307,51.719913",
+    "geom:latitude": 51.719913,
+    "geom:longitude": -2.520307,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404435431, 
-      1126014761, 
       404227469, 
       1360698553, 
       85633159, 
-      1360698927
+      1360698927, 
+      404435431, 
+      1126014761
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468879826,
-    "wof:geomhash": "5984a23bafec9944ce243c8840ea2ffc",
+    "wof:geomhash": "a0fddcc29f23cebcbdf970c1ce3bf142",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 874460059,
-    "wof:lastmodified": 1583786275,
+    "wof:lastmodified": 1609870065,
     "wof:name": "GL15 5GA",
     "wof:parent_id": 404435431,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.520393, 
-    51.719877, 
-    -2.520393, 
-    51.719877
+    -2.520307, 
+    51.719913, 
+    -2.520307, 
+    51.719913
   ],
-  "geometry": {"coordinates":[-2.520393,51.719877],"type":"Point"}
+  "geometry": {"coordinates":[-2.520307,51.719913],"type":"Point"}
 }

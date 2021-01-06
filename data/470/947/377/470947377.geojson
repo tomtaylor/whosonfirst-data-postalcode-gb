@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.453769,51.297710,0.453769,51.297710",
-    "geom:latitude": 51.29771,
-    "geom:longitude": 0.453769,
+    "geom:bbox": "0.453808,51.297618,0.453808,51.297618",
+    "geom:latitude": 51.297618,
+    "geom:longitude": 0.453808,
     "gp:parent_id": "18241",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      404433889, 
+      1126052493, 
       404227469, 
       1360698565, 
       85633159, 
-      1360698811, 
-      404433889, 
-      1126052493
+      1360698811
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701327,
-    "wof:geomhash": "737fc1683f48d2a6376485ffbc61fca3",
+    "wof:geomhash": "ea58d6a0e09f77516228143a0bca93e4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470947377,
-    "wof:lastmodified": 1583786458,
+    "wof:lastmodified": 1609875946,
     "wof:name": "ME20 6AD",
     "wof:parent_id": 404433889,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.453769, 
-    51.29771, 
-    0.453769, 
-    51.29771
+    0.453808, 
+    51.297618, 
+    0.453808, 
+    51.297618
   ],
-  "geometry": {"coordinates":[0.453769,51.29771],"type":"Point"}
+  "geometry": {"coordinates":[0.453808,51.297618],"type":"Point"}
 }

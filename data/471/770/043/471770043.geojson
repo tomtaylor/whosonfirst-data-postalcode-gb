@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.090983,53.344400,-2.090983,53.344400",
-    "geom:latitude": 53.3444,
-    "geom:longitude": -2.090983,
+    "geom:bbox": "-2.091163,53.344391,-2.091163,53.344391",
+    "geom:latitude": 53.344391,
+    "geom:longitude": -2.091163,
     "gp:parent_id": "32526",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698929, 
-      404439351, 
       1360755371, 
       404227469, 
-      1360698537
+      1360698537, 
+      85633159, 
+      1360698929, 
+      404439351
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701735,
-    "wof:geomhash": "f2d01aa297f026b6632eb0e6e8cf9ade",
+    "wof:geomhash": "c07a68a06e6b6708cd3e887b9dd50e88",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471770043,
-    "wof:lastmodified": 1583786907,
+    "wof:lastmodified": 1609902605,
     "wof:name": "SK12 1SP",
     "wof:parent_id": 404439351,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.090983, 
-    53.3444, 
-    -2.090983, 
-    53.3444
+    -2.091163, 
+    53.344391, 
+    -2.091163, 
+    53.344391
   ],
-  "geometry": {"coordinates":[-2.090983,53.3444],"type":"Point"}
+  "geometry": {"coordinates":[-2.091163,53.344391],"type":"Point"}
 }

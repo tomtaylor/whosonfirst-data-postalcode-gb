@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.551684,52.001859,-4.551684,52.001859",
-    "geom:latitude": 52.001859,
-    "geom:longitude": -4.551684,
+    "geom:bbox": "-4.553239,52.001790,-4.553239,52.001790",
+    "geom:latitude": 52.00179,
+    "geom:longitude": -4.553239,
     "gp:parent_id": "13209",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698639, 
       85633159, 
       1360698843, 
       404448951, 
       1360711891, 
-      404227475, 
-      1360698639
+      404227475
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701468,
-    "wof:geomhash": "337284d43fd3dfd179796f592b85b104",
+    "wof:geomhash": "c3f763e4c4caba90e3b33aa894bc2b66",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504596669,
-    "wof:lastmodified": 1583786618,
+    "wof:lastmodified": 1609881514,
     "wof:name": "SA37 0JU",
     "wof:parent_id": 404448951,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.551684, 
-    52.001859, 
-    -4.551684, 
-    52.001859
+    -4.553239, 
+    52.00179, 
+    -4.553239, 
+    52.00179
   ],
-  "geometry": {"coordinates":[-4.551684,52.001859],"type":"Point"}
+  "geometry": {"coordinates":[-4.553239,52.00179],"type":"Point"}
 }

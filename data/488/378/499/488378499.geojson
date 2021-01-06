@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2007-08-01",
     "geom:area": 0,
-    "geom:bbox": "-2.357167,53.404934,-2.357167,53.404934",
-    "geom:latitude": 53.404934,
+    "geom:bbox": "-2.357167,53.404968,-2.357167,53.404968",
+    "geom:latitude": 53.404968,
     "geom:longitude": -2.357167,
     "gp:parent_id": "12695847",
     "iso:country": "GB",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698935, 
-      1360817437, 
       1125985817, 
       404227469, 
-      1360698555
+      1360698555, 
+      85633159, 
+      1360698935, 
+      1360817437
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701387,
-    "wof:geomhash": "4f22827b0a7509f0ce22b3035ad3ce9d",
+    "wof:geomhash": "a6078041d3055cbaa5e08ef3a3a4e2b1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488378499,
-    "wof:lastmodified": 1583786590,
+    "wof:lastmodified": 1609889028,
     "wof:name": "WA14 5XQ",
     "wof:parent_id": 404443841,
     "wof:placetype": "postalcode",
@@ -55,9 +55,9 @@
   },
   "bbox": [
     -2.357167, 
-    53.404934, 
+    53.404968, 
     -2.357167, 
-    53.404934
+    53.404968
   ],
-  "geometry": {"coordinates":[-2.357167,53.404934],"type":"Point"}
+  "geometry": {"coordinates":[-2.357167,53.404968],"type":"Point"}
 }

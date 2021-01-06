@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.756500,51.176961,0.756500,51.176961",
-    "geom:latitude": 51.176961,
-    "geom:longitude": 0.7565,
+    "geom:bbox": "0.756530,51.176979,0.756530,51.176979",
+    "geom:latitude": 51.176979,
+    "geom:longitude": 0.75653,
     "gp:parent_id": "32164",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698565, 
       85633159, 
       1360698811, 
       404440717, 
-      1126058685, 
-      404227469, 
-      1360698565
+      1126058685
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701216,
-    "wof:geomhash": "698eab429ea2d272e2e4ae934b1d0df4",
+    "wof:geomhash": "01fe0b5f4ef4919f5bccfc384b68c32c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487861481,
-    "wof:lastmodified": 1583786309,
+    "wof:lastmodified": 1609883952,
     "wof:name": "TN27 0PH",
     "wof:parent_id": 404440717,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.7565, 
-    51.176961, 
-    0.7565, 
-    51.176961
+    0.75653, 
+    51.176979, 
+    0.75653, 
+    51.176979
   ],
-  "geometry": {"coordinates":[0.7565,51.176961],"type":"Point"}
+  "geometry": {"coordinates":[0.75653,51.176979],"type":"Point"}
 }

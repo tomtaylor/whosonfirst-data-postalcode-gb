@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.133496,50.833694,-0.133496,50.833694",
-    "geom:latitude": 50.833694,
-    "geom:longitude": -0.133496,
+    "geom:bbox": "-0.133141,50.833697,-0.133141,50.833697",
+    "geom:latitude": 50.833697,
+    "geom:longitude": -0.133141,
     "gp:parent_id": "13911",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698549, 
       85633159, 
       1360699019, 
-      101750303
+      101750303, 
+      404227469, 
+      1360698549
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701407,
-    "wof:geomhash": "3b2f5d4cb810aa74b993f3575529121e",
+    "wof:geomhash": "2605096fef1e4cdf7d436d21ffe9b25a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 438218755,
-    "wof:lastmodified": 1583786542,
+    "wof:lastmodified": 1609880233,
     "wof:name": "BN2 3GA",
     "wof:parent_id": 101750303,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.133496, 
-    50.833694, 
-    -0.133496, 
-    50.833694
+    -0.133141, 
+    50.833697, 
+    -0.133141, 
+    50.833697
   ],
-  "geometry": {"coordinates":[-0.133496,50.833694],"type":"Point"}
+  "geometry": {"coordinates":[-0.133141,50.833697],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1993-08-01",
     "geom:area": 0,
-    "geom:bbox": "-1.038786,51.266097,-1.038786,51.266097",
-    "geom:latitude": 51.266097,
-    "geom:longitude": -1.038786,
+    "geom:bbox": "-1.038212,51.266101,-1.038212,51.266101",
+    "geom:latitude": 51.266101,
+    "geom:longitude": -1.038212,
     "gp:parent_id": "30884",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698557, 
       85633159, 
       1360698827, 
       404454397, 
-      1360753543
+      1360753543, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701666,
-    "wof:geomhash": "eba821ba7a6d44e3ed2d302d6bf8effa",
+    "wof:geomhash": "448222bfa23263f3a0ec8788c13b3ccd",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471539965,
-    "wof:lastmodified": 1583786799,
+    "wof:lastmodified": 1609896242,
     "wof:name": "RG24 7HN",
     "wof:parent_id": 404454397,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.038786, 
-    51.266097, 
-    -1.038786, 
-    51.266097
+    -1.038212, 
+    51.266101, 
+    -1.038212, 
+    51.266101
   ],
-  "geometry": {"coordinates":[-1.038786,51.266097],"type":"Point"}
+  "geometry": {"coordinates":[-1.038212,51.266101],"type":"Point"}
 }

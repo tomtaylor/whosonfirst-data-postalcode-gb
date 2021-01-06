@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1996-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.804003,57.487283,-1.804003,57.487283",
-    "geom:latitude": 57.487283,
-    "geom:longitude": -1.804003,
+    "geom:bbox": "-1.806055,57.487223,-1.806055,57.487223",
+    "geom:latitude": 57.487223,
+    "geom:longitude": -1.806055,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360699031, 
       404448747, 
       101877127, 
       404227471, 
-      1360698713, 
-      85633159, 
-      1360699031
+      1360698713
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701567,
-    "wof:geomhash": "06f11347d9de01ddc529c6be74a0f9df",
+    "wof:geomhash": "17f78ddaa6042d5cb9c9ea4394ed16c1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 488548621,
-    "wof:lastmodified": 1595734735,
+    "wof:lastmodified": 1609896164,
     "wof:name": "AB42 3JL",
     "wof:parent_id": 101877127,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.804003, 
-    57.487283, 
-    -1.804003, 
-    57.487283
+    -1.806055, 
+    57.487223, 
+    -1.806055, 
+    57.487223
   ],
-  "geometry": {"coordinates":[-1.804003,57.487283],"type":"Point"}
+  "geometry": {"coordinates":[-1.806055,57.487223],"type":"Point"}
 }

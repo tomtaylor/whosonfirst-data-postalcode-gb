@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1998-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.962492,52.145550,-1.962492,52.145550",
-    "geom:latitude": 52.14555,
-    "geom:longitude": -1.962492,
+    "geom:bbox": "-1.962741,52.145416,-1.962741,52.145416",
+    "geom:latitude": 52.145416,
+    "geom:longitude": -1.962741,
     "gp:parent_id": "16055",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699043, 
-      404434187, 
       1125951717, 
       404227469, 
-      1360698613
+      1360698613, 
+      85633159, 
+      1360699043, 
+      404434187
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701287,
-    "wof:geomhash": "61de22b49b1377d3918fddd4f6a377eb",
+    "wof:geomhash": "4e7e7ce8ba22565f5756a4bdfd2482e0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488166015,
-    "wof:lastmodified": 1595729868,
+    "wof:lastmodified": 1609877976,
     "wof:name": "WR11 4LY",
     "wof:parent_id": 404434187,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.962492, 
-    52.14555, 
-    -1.962492, 
-    52.14555
+    -1.962741, 
+    52.145416, 
+    -1.962741, 
+    52.145416
   ],
-  "geometry": {"coordinates":[-1.962492,52.14555],"type":"Point"}
+  "geometry": {"coordinates":[-1.962741,52.145416],"type":"Point"}
 }

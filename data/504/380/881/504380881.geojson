@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.792442,56.118079,-3.792442,56.118079",
-    "geom:latitude": 56.118079,
-    "geom:longitude": -3.792442,
+    "geom:bbox": "-3.792512,56.118195,-3.792512,56.118195",
+    "geom:latitude": 56.118195,
+    "geom:longitude": -3.792512,
     "gp:parent_id": "12696187",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699079, 
       404443383, 
       404227471, 
-      1360698657
+      1360698657, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701101,
-    "wof:geomhash": "0ba72e1392c83554a22e56a1d26605b5",
+    "wof:geomhash": "b014cabd956ec20440d39d43e1a94b4a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504380881,
-    "wof:lastmodified": 1583786192,
+    "wof:lastmodified": 1609868953,
     "wof:name": "FK10 2AS",
     "wof:parent_id": 101874193,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.792442, 
-    56.118079, 
-    -3.792442, 
-    56.118079
+    -3.792512, 
+    56.118195, 
+    -3.792512, 
+    56.118195
   ],
-  "geometry": {"coordinates":[-3.792442,56.118079],"type":"Point"}
+  "geometry": {"coordinates":[-3.792512,56.118195],"type":"Point"}
 }

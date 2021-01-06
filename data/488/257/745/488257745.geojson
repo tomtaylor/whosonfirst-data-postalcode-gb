@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1998-06-01",
     "geom:area": 0,
-    "geom:bbox": "-0.934808,54.269749,-0.934808,54.269749",
-    "geom:latitude": 54.269749,
-    "geom:longitude": -0.934808,
+    "geom:bbox": "-0.934747,54.269748,-0.934747,54.269748",
+    "geom:latitude": 54.269748,
+    "geom:longitude": -0.934747,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404431977, 
-      101877103, 
       404227469, 
       1360698619, 
       85633159, 
-      1360698753
+      1360698753, 
+      404431977, 
+      101877103
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701236,
-    "wof:geomhash": "4722ab642a4afcf22a015ca182ef15c1",
+    "wof:geomhash": "1943fa2f4c69fef706a2a70d1dcd6bc5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 488257745,
-    "wof:lastmodified": 1583786459,
+    "wof:lastmodified": 1609882764,
     "wof:name": "YO62 6HP",
     "wof:parent_id": 101877103,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.934808, 
-    54.269749, 
-    -0.934808, 
-    54.269749
+    -0.934747, 
+    54.269748, 
+    -0.934747, 
+    54.269748
   ],
-  "geometry": {"coordinates":[-0.934808,54.269749],"type":"Point"}
+  "geometry": {"coordinates":[-0.934747,54.269748],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.744511,55.508069,-2.744511,55.508069",
-    "geom:latitude": 55.508069,
-    "geom:longitude": -2.744511,
+    "geom:bbox": "-2.744055,55.508260,-2.744055,55.508260",
+    "geom:latitude": 55.50826,
+    "geom:longitude": -2.744055,
     "gp:parent_id": "12696186",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699015, 
       404442083, 
       404227471, 
-      1360698725
+      1360698725, 
+      85633159, 
+      1360699015
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701497,
-    "wof:geomhash": "73d61298f49e8d60eb3ef0d3dad7ff75",
+    "wof:geomhash": "01757952355e4ef5e89f6e572844ece6",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504626813,
-    "wof:lastmodified": 1583786649,
+    "wof:lastmodified": 1609883158,
     "wof:name": "TD6 9JN",
     "wof:parent_id": 404442083,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.744511, 
-    55.508069, 
-    -2.744511, 
-    55.508069
+    -2.744055, 
+    55.50826, 
+    -2.744055, 
+    55.50826
   ],
-  "geometry": {"coordinates":[-2.744511,55.508069],"type":"Point"}
+  "geometry": {"coordinates":[-2.744055,55.50826],"type":"Point"}
 }

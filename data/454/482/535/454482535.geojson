@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.358644,52.405408,-2.358644,52.405408",
-    "geom:latitude": 52.405408,
-    "geom:longitude": -2.358644,
+    "geom:bbox": "-2.361699,52.405066,-2.361699,52.405066",
+    "geom:latitude": 52.405066,
+    "geom:longitude": -2.361699,
     "gp:parent_id": "38598",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1125865037, 
       404227469, 
       1360698613, 
       85633159, 
       1360699043, 
-      404437631
+      404437631, 
+      1125865037
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701599,
-    "wof:geomhash": "e9a915a635815b57157f69705f6192af",
+    "wof:geomhash": "f69de73f981d40442ed215f451db1b2b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454482535,
-    "wof:lastmodified": 1583786727,
+    "wof:lastmodified": 1609891533,
     "wof:name": "DY12 3LQ",
     "wof:parent_id": 404437631,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.358644, 
-    52.405408, 
-    -2.358644, 
-    52.405408
+    -2.361699, 
+    52.405066, 
+    -2.361699, 
+    52.405066
   ],
-  "geometry": {"coordinates":[-2.358644,52.405408],"type":"Point"}
+  "geometry": {"coordinates":[-2.361699,52.405066],"type":"Point"}
 }

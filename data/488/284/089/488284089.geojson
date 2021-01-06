@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2009-02-01",
     "geom:area": 0,
-    "geom:bbox": "1.390078,51.341746,1.390078,51.341746",
-    "geom:latitude": 51.341746,
-    "geom:longitude": 1.390078,
+    "geom:bbox": "1.390034,51.341954,1.390034,51.341954",
+    "geom:latitude": 51.341954,
+    "geom:longitude": 1.390034,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698811, 
-      404446101, 
       101750333, 
       404227469, 
       1360698565, 
-      85633159
+      85633159, 
+      1360698811, 
+      404446101
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701298,
-    "wof:geomhash": "0f3671da4840b895923db6348f165b5f",
+    "wof:geomhash": "9a84329b71bac5aaa697e15e182740e9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 488284089,
-    "wof:lastmodified": 1583786493,
+    "wof:lastmodified": 1609884329,
     "wof:name": "CT12 6AY",
     "wof:parent_id": 101750333,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.390078, 
-    51.341746, 
-    1.390078, 
-    51.341746
+    1.390034, 
+    51.341954, 
+    1.390034, 
+    51.341954
   ],
-  "geometry": {"coordinates":[1.390078,51.341746],"type":"Point"}
+  "geometry": {"coordinates":[1.390034,51.341954],"type":"Point"}
 }

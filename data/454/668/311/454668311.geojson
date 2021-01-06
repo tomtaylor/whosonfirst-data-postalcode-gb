@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.178378,51.620649,-2.178378,51.620649",
-    "geom:latitude": 51.620649,
-    "geom:longitude": -2.178378,
+    "geom:bbox": "-2.178103,51.620397,-2.178103,51.620397",
+    "geom:latitude": 51.620397,
+    "geom:longitude": -2.178103,
     "gp:parent_id": "18363",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404438573, 
-      1360754467, 
-      404227469, 
       1360698553, 
       85633159, 
-      1360698927
+      1360698927, 
+      404438573, 
+      1360754467, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701691,
-    "wof:geomhash": "dce428c9a1fa0919528bf54a35f1d5bb",
+    "wof:geomhash": "6df401c8c87bab8be3032d25c8669157",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454668311,
-    "wof:lastmodified": 1583786825,
+    "wof:lastmodified": 1609899004,
     "wof:name": "GL8 8TQ",
     "wof:parent_id": 404438573,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.178378, 
-    51.620649, 
-    -2.178378, 
-    51.620649
+    -2.178103, 
+    51.620397, 
+    -2.178103, 
+    51.620397
   ],
-  "geometry": {"coordinates":[-2.178378,51.620649],"type":"Point"}
+  "geometry": {"coordinates":[-2.178103,51.620397],"type":"Point"}
 }

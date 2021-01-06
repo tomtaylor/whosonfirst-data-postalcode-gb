@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-05-01",
     "geom:area": 0,
-    "geom:bbox": "-1.492767,51.792730,-1.492767,51.792730",
-    "geom:latitude": 51.79273,
-    "geom:longitude": -1.492767,
+    "geom:bbox": "-1.492736,51.792937,-1.492736,51.792937",
+    "geom:latitude": 51.792937,
+    "geom:longitude": -1.492736,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404450543, 
-      101852913, 
-      404227469, 
       1360698585, 
       85633159, 
-      1360698839
+      1360698839, 
+      404450543, 
+      101852913, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583799384,
-    "wof:geomhash": "c32326d8092d56443849142e5efd7b90",
+    "wof:geomhash": "3cf7c75e7a729c2cbef188cb6945c08d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160999378,
-    "wof:lastmodified": 1583799384,
+    "wof:lastmodified": 1609874297,
     "wof:name": "OX28 6ND",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.492767, 
-    51.79273, 
-    -1.492767, 
-    51.79273
+    -1.492736, 
+    51.792937, 
+    -1.492736, 
+    51.792937
   ],
-  "geometry": {"coordinates":[-1.492767,51.79273],"type":"Point"}
+  "geometry": {"coordinates":[-1.492736,51.792937],"type":"Point"}
 }

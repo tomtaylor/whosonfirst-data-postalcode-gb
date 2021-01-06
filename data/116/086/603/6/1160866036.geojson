@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "-2.720047,53.381748,-2.720047,53.381748",
-    "geom:latitude": 53.381748,
-    "geom:longitude": -2.720047,
+    "geom:bbox": "-2.719928,53.381776,-2.719928,53.381776",
+    "geom:latitude": 53.381776,
+    "geom:longitude": -2.719928,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,29 +18,29 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      404430781, 
-      1125860727, 
       404227469, 
-      1360698573, 
+      1360698537, 
       85633159, 
-      1360698941
+      1360698991, 
+      1729579505, 
+      1729579495
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583793496,
-    "wof:geomhash": "8f9c89a700088325cc4ff6c5916d66f7",
+    "wof:geomhash": "3566f543e7def21f8251189b8cd0827b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
-        "county_id": 1360698941,
-        "localadmin_id": 404430781,
-        "locality_id": 1125860727,
+        "county_id": 1360698991,
+        "localadmin_id": 1729579505,
+        "locality_id": 1729579495,
         "macroregion_id": 404227469,
-        "region_id": 1360698573
+        "region_id": 1360698537
       }
     ],
     "wof:id": 1160866036,
-    "wof:lastmodified": 1595711118,
+    "wof:lastmodified": 1609870931,
     "wof:name": "WA8 9BU",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.720047, 
-    53.381748, 
-    -2.720047, 
-    53.381748
+    -2.719928, 
+    53.381776, 
+    -2.719928, 
+    53.381776
   ],
-  "geometry": {"coordinates":[-2.720047,53.381748],"type":"Point"}
+  "geometry": {"coordinates":[-2.719928,53.381776],"type":"Point"}
 }

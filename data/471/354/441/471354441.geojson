@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2000-12-01",
     "geom:area": 0,
-    "geom:bbox": "0.030029,52.806823,0.030029,52.806823",
-    "geom:latitude": 52.806823,
-    "geom:longitude": 0.030029,
+    "geom:bbox": "0.030186,52.806694,0.030186,52.806694",
+    "geom:latitude": 52.806694,
+    "geom:longitude": 0.030186,
     "gp:parent_id": "23621",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698571, 
-      85633159, 
       1360699067, 
       404447231, 
       1126054283, 
-      404227469
+      404227469, 
+      1360698571, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701528,
-    "wof:geomhash": "123df03ec2b681394a3475a0f3ab7ee0",
+    "wof:geomhash": "6823de5ea3458cd0a83cc67485f7f5c7",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471354441,
-    "wof:lastmodified": 1583786675,
+    "wof:lastmodified": 1609887848,
     "wof:name": "PE12 7RG",
     "wof:parent_id": 404447231,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.030029, 
-    52.806823, 
-    0.030029, 
-    52.806823
+    0.030186, 
+    52.806694, 
+    0.030186, 
+    52.806694
   ],
-  "geometry": {"coordinates":[0.030029,52.806823],"type":"Point"}
+  "geometry": {"coordinates":[0.030186,52.806694],"type":"Point"}
 }

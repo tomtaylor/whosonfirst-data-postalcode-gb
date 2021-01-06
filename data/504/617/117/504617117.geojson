@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.843341,52.623029,-3.843341,52.623029",
-    "geom:latitude": 52.623029,
-    "geom:longitude": -3.843341,
+    "geom:bbox": "-3.842784,52.623664,-3.842784,52.623664",
+    "geom:latitude": 52.623664,
+    "geom:longitude": -3.842784,
     "gp:parent_id": "31399",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698625, 
       85633159, 
       1360698985, 
       404443277, 
       1360711821, 
-      404227475
+      404227475, 
+      1360698625
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701490,
-    "wof:geomhash": "02a8da7a76434590b31208322a8a67e3",
+    "wof:geomhash": "9ea266d701101d15212b04a40f65929e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504617117,
-    "wof:lastmodified": 1583786641,
+    "wof:lastmodified": 1609882434,
     "wof:name": "SY20 9AR",
     "wof:parent_id": 404443277,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.843341, 
-    52.623029, 
-    -3.843341, 
-    52.623029
+    -3.842784, 
+    52.623664, 
+    -3.842784, 
+    52.623664
   ],
-  "geometry": {"coordinates":[-3.843341,52.623029],"type":"Point"}
+  "geometry": {"coordinates":[-3.842784,52.623664],"type":"Point"}
 }

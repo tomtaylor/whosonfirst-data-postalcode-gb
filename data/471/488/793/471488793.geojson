@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.991313,50.849167,-0.991313,50.849167",
-    "geom:latitude": 50.849167,
-    "geom:longitude": -0.991313,
+    "geom:bbox": "-0.991497,50.849187,-0.991497,50.849187",
+    "geom:latitude": 50.849187,
+    "geom:longitude": -0.991497,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698557, 
-      85633159, 
       1360698827, 
       1360817467, 
-      101750361
+      101750361, 
+      404227469, 
+      1360698557, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701642,
-    "wof:geomhash": "a31c7237d26dc40af9ae204afb45651f",
+    "wof:geomhash": "a719b89e9c5b675aac1de478b51aed58",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471488793,
-    "wof:lastmodified": 1583786772,
+    "wof:lastmodified": 1609893974,
     "wof:name": "PO9 1JH",
     "wof:parent_id": 101750361,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.991313, 
-    50.849167, 
-    -0.991313, 
-    50.849167
+    -0.991497, 
+    50.849187, 
+    -0.991497, 
+    50.849187
   ],
-  "geometry": {"coordinates":[-0.991313,50.849167],"type":"Point"}
+  "geometry": {"coordinates":[-0.991497,50.849187],"type":"Point"}
 }

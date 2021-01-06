@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.649395,57.262858,-3.649395,57.262858",
-    "geom:latitude": 57.262858,
-    "geom:longitude": -3.649395,
+    "geom:bbox": "-3.649013,57.263223,-3.649013,57.263223",
+    "geom:latitude": 57.263223,
+    "geom:longitude": -3.649013,
     "gp:parent_id": "12696199",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404436073, 
-      404227471, 
       1360698661, 
       85633159, 
-      1360699045
+      1360699045, 
+      404436073, 
+      404227471
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701444,
-    "wof:geomhash": "ab04314d5b6d631419b3cd4ae8fc58c3",
+    "wof:geomhash": "4dab022fc73d2daf05f0d89eb7b4b911",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504575047,
-    "wof:lastmodified": 1595730406,
+    "wof:lastmodified": 1609880229,
     "wof:name": "PH25 3DG",
     "wof:parent_id": 404436073,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.649395, 
-    57.262858, 
-    -3.649395, 
-    57.262858
+    -3.649013, 
+    57.263223, 
+    -3.649013, 
+    57.263223
   ],
-  "geometry": {"coordinates":[-3.649395,57.262858],"type":"Point"}
+  "geometry": {"coordinates":[-3.649013,57.263223],"type":"Point"}
 }

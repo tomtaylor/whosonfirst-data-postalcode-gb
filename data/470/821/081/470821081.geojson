@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.738242,53.935590,-1.738242,53.935590",
-    "geom:latitude": 53.93559,
-    "geom:longitude": -1.738242,
+    "geom:bbox": "-1.736955,53.936773,-1.736955,53.936773",
+    "geom:latitude": 53.936773,
+    "geom:longitude": -1.736955,
     "gp:parent_id": "11254",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698753, 
       404431789, 
       1360756471, 
       404227469, 
-      1360698619, 
-      85633159, 
-      1360698753
+      1360698619
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701194,
-    "wof:geomhash": "bdaa602477888434be30b034c1d5d5b3",
+    "wof:geomhash": "843c6d308bef2ffd5a2d7ae01611c288",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470821081,
-    "wof:lastmodified": 1583786389,
+    "wof:lastmodified": 1609868813,
     "wof:name": "LS21 2JE",
     "wof:parent_id": 404431789,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.738242, 
-    53.93559, 
-    -1.738242, 
-    53.93559
+    -1.736955, 
+    53.936773, 
+    -1.736955, 
+    53.936773
   ],
-  "geometry": {"coordinates":[-1.738242,53.93559],"type":"Point"}
+  "geometry": {"coordinates":[-1.736955,53.936773],"type":"Point"}
 }

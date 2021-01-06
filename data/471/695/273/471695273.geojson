@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2014-02-01",
     "geom:area": 0,
-    "geom:bbox": "-1.413378,53.398852,-1.413378,53.398852",
-    "geom:latitude": 53.398852,
-    "geom:longitude": -1.413378,
+    "geom:bbox": "-1.413136,53.398967,-1.413136,53.398967",
+    "geom:latitude": 53.398967,
+    "geom:longitude": -1.413136,
     "gp:parent_id": "34503",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698591, 
-      85633159, 
-      1360699075, 
       101750529, 
       404227469, 
-      85786239
+      85786239, 
+      1360698591, 
+      85633159, 
+      1360699075
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701709,
-    "wof:geomhash": "31cf7e4bb877ab261c646bd9c17ff07b",
+    "wof:geomhash": "111f35e9482c5f9aa56ce8e43d0439c1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471695273,
-    "wof:lastmodified": 1583786885,
+    "wof:lastmodified": 1609900978,
     "wof:name": "S9 5HA",
     "wof:parent_id": 101750529,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.413378, 
-    53.398852, 
-    -1.413378, 
-    53.398852
+    -1.413136, 
+    53.398967, 
+    -1.413136, 
+    53.398967
   ],
-  "geometry": {"coordinates":[-1.413378,53.398852],"type":"Point"}
+  "geometry": {"coordinates":[-1.413136,53.398967],"type":"Point"}
 }

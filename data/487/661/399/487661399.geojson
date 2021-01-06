@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.382279,54.790625,-1.382279,54.790625",
-    "geom:latitude": 54.790625,
-    "geom:longitude": -1.382279,
+    "geom:bbox": "-1.382985,54.788220,-1.382985,54.788220",
+    "geom:latitude": 54.78822,
+    "geom:longitude": -1.382985,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698621, 
       85633159, 
       1360699055, 
       404448159, 
-      1360756423, 
-      404227469, 
-      1360698621
+      1360756423
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701109,
-    "wof:geomhash": "427e79733f0370011e7d9f81384a8ee3",
+    "wof:geomhash": "cf3da776c08d1e95835f0ad973efedc1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 487661399,
-    "wof:lastmodified": 1583786203,
+    "wof:lastmodified": 1609871288,
     "wof:name": "SR8 3BZ",
     "wof:parent_id": 404448159,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.382279, 
-    54.790625, 
-    -1.382279, 
-    54.790625
+    -1.382985, 
+    54.78822, 
+    -1.382985, 
+    54.78822
   ],
-  "geometry": {"coordinates":[-1.382279,54.790625],"type":"Point"}
+  "geometry": {"coordinates":[-1.382985,54.78822],"type":"Point"}
 }

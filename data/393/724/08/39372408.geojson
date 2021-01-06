@@ -2,7 +2,7 @@
   "id": 39372408,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-09-01",
     "edtf:inception": "2019-08-01",
     "geom:area": 0,
     "geom:bbox": "-0.954996,53.336198,-0.954996,53.336198",
@@ -10,7 +10,7 @@
     "geom:longitude": -0.954996,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000024",
     "os:district_code": "E07000171",
@@ -18,11 +18,11 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698809, 
+      1126035403, 
       404227469, 
       1360698583, 
-      85633159, 
-      1360698809, 
-      1126035403
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 39372408,
-    "wof:lastmodified": 1583800723,
+    "wof:lastmodified": 1609868548,
     "wof:name": "DN22 1EZ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

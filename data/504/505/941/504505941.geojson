@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.426229,52.888276,-4.426229,52.888276",
-    "geom:latitude": 52.888276,
-    "geom:longitude": -4.426229,
+    "geom:bbox": "-4.425789,52.888384,-4.425789,52.888384",
+    "geom:latitude": 52.888384,
+    "geom:longitude": -4.425789,
     "gp:parent_id": "12696126",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404441917, 
       101872031, 
       404227475, 
       1360698635, 
       85633159, 
-      1360698959
+      1360698959, 
+      404441917
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701385,
-    "wof:geomhash": "f716b7bc3ca85f62cd35fc5e33c14ab8",
+    "wof:geomhash": "700e4bd226fdffc11c3c607098226a45",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504505941,
-    "wof:lastmodified": 1583786508,
+    "wof:lastmodified": 1609876403,
     "wof:name": "LL53 5SR",
     "wof:parent_id": 404441917,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.426229, 
-    52.888276, 
-    -4.426229, 
-    52.888276
+    -4.425789, 
+    52.888384, 
+    -4.425789, 
+    52.888384
   ],
-  "geometry": {"coordinates":[-4.426229,52.888276],"type":"Point"}
+  "geometry": {"coordinates":[-4.425789,52.888384],"type":"Point"}
 }

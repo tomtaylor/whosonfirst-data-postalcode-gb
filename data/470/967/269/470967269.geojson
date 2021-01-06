@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.880407,51.974457,-0.880407,51.974457",
-    "geom:latitude": 51.974457,
-    "geom:longitude": -0.880407,
+    "geom:bbox": "-0.880631,51.974235,-0.880631,51.974235",
+    "geom:latitude": 51.974235,
+    "geom:longitude": -0.880631,
     "gp:parent_id": "21662",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1125925039, 
       404227469, 
       1360698533, 
       85633159, 
       1360698997, 
-      404443185, 
-      1125925039
+      404443185
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701343,
-    "wof:geomhash": "ad6f6cf1028943947c0bd092b86f072f",
+    "wof:geomhash": "f6c86f99cebd9efca9993ef382bab3fe",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470967269,
-    "wof:lastmodified": 1595719133,
+    "wof:lastmodified": 1609877477,
     "wof:name": "MK17 0RG",
     "wof:parent_id": 404443185,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.880407, 
-    51.974457, 
-    -0.880407, 
-    51.974457
+    -0.880631, 
+    51.974235, 
+    -0.880631, 
+    51.974235
   ],
-  "geometry": {"coordinates":[-0.880407,51.974457],"type":"Point"}
+  "geometry": {"coordinates":[-0.880631,51.974235],"type":"Point"}
 }

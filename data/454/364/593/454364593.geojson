@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.523762,54.768329,-1.523762,54.768329",
-    "geom:latitude": 54.768329,
-    "geom:longitude": -1.523762,
+    "geom:bbox": "-1.523167,54.768713,-1.523167,54.768713",
+    "geom:latitude": 54.768713,
+    "geom:longitude": -1.523167,
     "gp:parent_id": "18760",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698621, 
-      85633159, 
       1360699055, 
       404430537, 
-      1125920089
+      1125920089, 
+      404227469, 
+      1360698621, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701515,
-    "wof:geomhash": "26d08e03541971e3b49a2b1dfd8da840",
+    "wof:geomhash": "790e75b78ed50e8f1a62aa551ae73f29",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454364593,
-    "wof:lastmodified": 1583786649,
+    "wof:lastmodified": 1609885861,
     "wof:name": "DH1 2SE",
     "wof:parent_id": 404430537,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.523762, 
-    54.768329, 
-    -1.523762, 
-    54.768329
+    -1.523167, 
+    54.768713, 
+    -1.523167, 
+    54.768713
   ],
-  "geometry": {"coordinates":[-1.523762,54.768329],"type":"Point"}
+  "geometry": {"coordinates":[-1.523167,54.768713],"type":"Point"}
 }

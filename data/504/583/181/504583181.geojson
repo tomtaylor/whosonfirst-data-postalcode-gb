@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.729749,51.648747,-3.729749,51.648747",
-    "geom:latitude": 51.648747,
-    "geom:longitude": -3.729749,
+    "geom:bbox": "-3.720508,51.647085,-3.720508,51.647085",
+    "geom:latitude": 51.647085,
+    "geom:longitude": -3.720508,
     "gp:parent_id": "32269",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360711921, 
-      404227475, 
       1360698629, 
       85633159, 
       1360698825, 
-      404430267
+      404436309, 
+      1125879733, 
+      404227475
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,19 +32,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701457,
-    "wof:geomhash": "f20c0db9397900b272adb7e029adb365",
+    "wof:geomhash": "4992104a66b6c302a020e5c424b3e89b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360698825,
-        "localadmin_id": 404430267,
-        "locality_id": 1360711921,
+        "localadmin_id": 404436309,
+        "locality_id": 1125879733,
         "macroregion_id": 404227475,
         "region_id": 1360698629
       }
     ],
     "wof:id": 504583181,
-    "wof:lastmodified": 1583786599,
+    "wof:lastmodified": 1609880723,
     "wof:name": "SA12 9SP",
     "wof:parent_id": 404436309,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.729749, 
-    51.648747, 
-    -3.729749, 
-    51.648747
+    -3.720508, 
+    51.647085, 
+    -3.720508, 
+    51.647085
   ],
-  "geometry": {"coordinates":[-3.729749,51.648747],"type":"Point"}
+  "geometry": {"coordinates":[-3.720508,51.647085],"type":"Point"}
 }

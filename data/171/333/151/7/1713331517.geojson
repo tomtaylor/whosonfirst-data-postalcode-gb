@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "-3.388587,50.752388,-3.388587,50.752388",
-    "geom:latitude": 50.752388,
-    "geom:longitude": -3.388587,
+    "geom:bbox": "-3.388749,50.752583,-3.388749,50.752583",
+    "geom:latitude": 50.752583,
+    "geom:longitude": -3.388749,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699081, 
-      404447201, 
       1125996869, 
       404227469, 
-      1360698541
+      1360698541, 
+      85633159, 
+      1360699081, 
+      404447201
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735665,
-    "wof:geomhash": "6a606406faa67b5da13abb4047421236",
+    "wof:geomhash": "8f72ff8586b4344b25ea3f607d7fa951",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1713331517,
-    "wof:lastmodified": 1595753479,
+    "wof:lastmodified": 1609875495,
     "wof:name": "EX5 7HF",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.388587, 
-    50.752388, 
-    -3.388587, 
-    50.752388
+    -3.388749, 
+    50.752583, 
+    -3.388749, 
+    50.752583
   ],
-  "geometry": {"coordinates":[-3.388587,50.752388],"type":"Point"}
+  "geometry": {"coordinates":[-3.388749,50.752583],"type":"Point"}
 }

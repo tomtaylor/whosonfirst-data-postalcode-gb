@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.244818,51.024445,-4.244818,51.024445",
-    "geom:latitude": 51.024445,
-    "geom:longitude": -4.244818,
+    "geom:bbox": "-4.244829,51.024441,-4.244829,51.024441",
+    "geom:latitude": 51.024441,
+    "geom:longitude": -4.244829,
     "gp:parent_id": "10201",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      1360699081, 
+      404452315, 
       1125960009, 
       404227469, 
       1360698541, 
-      85633159, 
-      1360699081, 
-      404452315
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701657,
-    "wof:geomhash": "cf90cbe35a7753dbab1d9dd6c2db82e9",
+    "wof:geomhash": "c96411d575f924c8f550d0cd21d25727",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454597601,
-    "wof:lastmodified": 1583786788,
+    "wof:lastmodified": 1609896390,
     "wof:name": "EX39 5BG",
     "wof:parent_id": 404452315,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.244818, 
-    51.024445, 
-    -4.244818, 
-    51.024445
+    -4.244829, 
+    51.024441, 
+    -4.244829, 
+    51.024441
   ],
-  "geometry": {"coordinates":[-4.244818,51.024445],"type":"Point"}
+  "geometry": {"coordinates":[-4.244829,51.024441],"type":"Point"}
 }

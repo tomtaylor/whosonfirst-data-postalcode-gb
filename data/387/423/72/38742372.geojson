@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.063186,53.933961,-1.063186,53.933961",
-    "geom:latitude": 53.933961,
-    "geom:longitude": -1.063186,
+    "geom:bbox": "-1.065262,53.933743,-1.065262,53.933743",
+    "geom:latitude": 53.933743,
+    "geom:longitude": -1.065262,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698619, 
-      85633159, 
-      1360698977, 
       404450347, 
       1125899863, 
-      404227469
+      404227469, 
+      1360698619, 
+      85633159, 
+      1360698977
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583793795,
-    "wof:geomhash": "249316e4b2c0622fb3ab07931f58273d",
+    "wof:geomhash": "e26b49690bc395016e257316ecbaa603",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 38742372,
-    "wof:lastmodified": 1583793795,
+    "wof:lastmodified": 1609868482,
     "wof:name": "YO19 4AD",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.063186, 
-    53.933961, 
-    -1.063186, 
-    53.933961
+    -1.065262, 
+    53.933743, 
+    -1.065262, 
+    53.933743
   ],
-  "geometry": {"coordinates":[-1.063186,53.933961],"type":"Point"}
+  "geometry": {"coordinates":[-1.065262,53.933743],"type":"Point"}
 }

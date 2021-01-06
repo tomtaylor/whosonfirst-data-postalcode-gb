@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-08-01",
     "geom:area": 0,
-    "geom:bbox": "1.249402,52.789806,1.249402,52.789806",
-    "geom:latitude": 52.789806,
-    "geom:longitude": 1.249402,
+    "geom:bbox": "1.249168,52.789849,1.249168,52.789849",
+    "geom:latitude": 52.789849,
+    "geom:longitude": 1.249168,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      101854967, 
-      404227469, 
-      1360698575, 
       85633159, 
       1360698955, 
-      404435401
+      404435401, 
+      101854967, 
+      404227469, 
+      1360698575
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583795545,
-    "wof:geomhash": "a23ec7924f6ca3a8a8b33c8eecc70ad3",
+    "wof:geomhash": "813f861096a19d557a69d2cc9272273b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712606917,
-    "wof:lastmodified": 1583795545,
+    "wof:lastmodified": 1609871483,
     "wof:name": "NR11 6LL",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.249402, 
-    52.789806, 
-    1.249402, 
-    52.789806
+    1.249168, 
+    52.789849, 
+    1.249168, 
+    52.789849
   ],
-  "geometry": {"coordinates":[1.249402,52.789806],"type":"Point"}
+  "geometry": {"coordinates":[1.249168,52.789849],"type":"Point"}
 }

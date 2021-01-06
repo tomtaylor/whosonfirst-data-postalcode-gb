@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2004-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.749207,52.716731,-2.749207,52.716731",
-    "geom:latitude": 52.716731,
-    "geom:longitude": -2.749207,
+    "geom:bbox": "-2.749841,52.715852,-2.749841,52.715852",
+    "geom:latitude": 52.715852,
+    "geom:longitude": -2.749841,
     "gp:parent_id": "34757",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360698821, 
       404448965, 
       101750493, 
       404227469, 
-      1360698587, 
-      85633159
+      1360698587
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701160,
-    "wof:geomhash": "2f5a6b47b8889f4ee227af64bcf450b7",
+    "wof:geomhash": "d6b6b148110e2db2b3adacc84f26f22f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487773337,
-    "wof:lastmodified": 1583786263,
+    "wof:lastmodified": 1609879063,
     "wof:name": "SY1 2EB",
     "wof:parent_id": 101750493,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.749207, 
-    52.716731, 
-    -2.749207, 
-    52.716731
+    -2.749841, 
+    52.715852, 
+    -2.749841, 
+    52.715852
   ],
-  "geometry": {"coordinates":[-2.749207,52.716731],"type":"Point"}
+  "geometry": {"coordinates":[-2.749841,52.715852],"type":"Point"}
 }

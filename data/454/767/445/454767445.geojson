@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2004-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.695724,51.595606,-0.695724,51.595606",
-    "geom:latitude": 51.595606,
-    "geom:longitude": -0.695724,
+    "geom:bbox": "-0.695623,51.595632,-0.695623,51.595632",
+    "geom:latitude": 51.595632,
+    "geom:longitude": -0.695623,
     "gp:parent_id": "20271",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1360757397, 
+      404227469, 
       1360698533, 
       85633159, 
       1360698997, 
-      404435459, 
-      1360757397, 
-      404227469
+      404435459
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701712,
-    "wof:geomhash": "7878a037f6072060e621998efd3d7332",
+    "wof:geomhash": "1a66ab24954cb937a4870dfa61efc51a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454767445,
-    "wof:lastmodified": 1595717048,
+    "wof:lastmodified": 1609901458,
     "wof:name": "HP10 9HP",
     "wof:parent_id": 404435459,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.695724, 
-    51.595606, 
-    -0.695724, 
-    51.595606
+    -0.695623, 
+    51.595632, 
+    -0.695623, 
+    51.595632
   ],
-  "geometry": {"coordinates":[-0.695724,51.595606],"type":"Point"}
+  "geometry": {"coordinates":[-0.695623,51.595632],"type":"Point"}
 }

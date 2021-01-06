@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-11-01",
     "geom:area": 0,
-    "geom:bbox": "-0.434861,53.787543,-0.434861,53.787543",
-    "geom:latitude": 53.787543,
-    "geom:longitude": -0.434861,
+    "geom:bbox": "-0.434831,53.787129,-0.434831,53.787129",
+    "geom:latitude": 53.787129,
+    "geom:longitude": -0.434831,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698547, 
       85633159, 
       1360699001, 
       404444827, 
       1125949063, 
-      404227469
+      404227469, 
+      1360698547
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583799887,
-    "wof:geomhash": "6aafb0eb910401ada6c369beb7f53380",
+    "wof:geomhash": "d4c3ce870327243931a99fee0ee7ab15",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1161010450,
-    "wof:lastmodified": 1595711264,
+    "wof:lastmodified": 1609874385,
     "wof:name": "HU16 5UN",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.434861, 
-    53.787543, 
-    -0.434861, 
-    53.787543
+    -0.434831, 
+    53.787129, 
+    -0.434831, 
+    53.787129
   ],
-  "geometry": {"coordinates":[-0.434861,53.787543],"type":"Point"}
+  "geometry": {"coordinates":[-0.434831,53.787129],"type":"Point"}
 }

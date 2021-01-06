@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2015-06-01",
     "geom:area": 0,
-    "geom:bbox": "-0.136103,50.967792,-0.136103,50.967792",
-    "geom:latitude": 50.967792,
-    "geom:longitude": -0.136103,
+    "geom:bbox": "-0.136054,50.967602,-0.136054,50.967602",
+    "geom:latitude": 50.967602,
+    "geom:longitude": -0.136054,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698757, 
       404453717, 
       101854597, 
       404227469, 
-      1360698607
+      1360698607, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468898243,
-    "wof:geomhash": "c1503076a08fada4f00722b0129ac800",
+    "wof:geomhash": "9e0f84e3b4d2f23619c92d71a6f2c6f0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 890246593,
-    "wof:lastmodified": 1583786418,
+    "wof:lastmodified": 1609868740,
     "wof:name": "RH15 8GL",
     "wof:parent_id": 404453717,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.136103, 
-    50.967792, 
-    -0.136103, 
-    50.967792
+    -0.136054, 
+    50.967602, 
+    -0.136054, 
+    50.967602
   ],
-  "geometry": {"coordinates":[-0.136103,50.967792],"type":"Point"}
+  "geometry": {"coordinates":[-0.136054,50.967602],"type":"Point"}
 }

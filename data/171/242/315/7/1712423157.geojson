@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-03-01",
     "geom:area": 0,
-    "geom:bbox": "-1.917177,52.485378,-1.917177,52.485378",
+    "geom:bbox": "-1.917545,52.485378,-1.917545,52.485378",
     "geom:latitude": 52.485378,
-    "geom:longitude": -1.917177,
+    "geom:longitude": -1.917545,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699077, 
       101750467, 
       404227469, 
       85792837, 
-      1360698605
+      1360698605, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583787382,
-    "wof:geomhash": "75719c89998d527fa7017b1ffe2dbd12",
+    "wof:geomhash": "156dff5b7fcb0405a0a256f0cb8fbd65",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712423157,
-    "wof:lastmodified": 1583787382,
+    "wof:lastmodified": 1609868699,
     "wof:name": "B1 3DX",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.917177, 
+    -1.917545, 
     52.485378, 
-    -1.917177, 
+    -1.917545, 
     52.485378
   ],
-  "geometry": {"coordinates":[-1.917177,52.485378],"type":"Point"}
+  "geometry": {"coordinates":[-1.917545,52.485378],"type":"Point"}
 }

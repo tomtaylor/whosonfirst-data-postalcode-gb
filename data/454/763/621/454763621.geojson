@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.506785,54.183145,-1.506785,54.183145",
-    "geom:latitude": 54.183145,
-    "geom:longitude": -1.506785,
+    "geom:bbox": "-1.499471,54.179763,-1.499471,54.179763",
+    "geom:latitude": 54.179763,
+    "geom:longitude": -1.499471,
     "gp:parent_id": "30683",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      1360753185, 
+      404227469, 
       1360698619, 
       85633159, 
       1360698753, 
-      404450461, 
-      1360755193, 
-      404227469
+      404432751
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,19 +32,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701712,
-    "wof:geomhash": "364efe4344ec0a70825966f363cd83b9",
+    "wof:geomhash": "ac7b1c0749fd096b9a1e8ba7dbc8aad2",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360698753,
-        "localadmin_id": 404450461,
-        "locality_id": 1360755193,
+        "localadmin_id": 404432751,
+        "locality_id": 1360753185,
         "macroregion_id": 404227469,
         "region_id": 1360698619
       }
     ],
     "wof:id": 454763621,
-    "wof:lastmodified": 1583786851,
+    "wof:lastmodified": 1609901388,
     "wof:name": "HG4 5EJ",
     "wof:parent_id": 404432751,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.506785, 
-    54.183145, 
-    -1.506785, 
-    54.183145
+    -1.499471, 
+    54.179763, 
+    -1.499471, 
+    54.179763
   ],
-  "geometry": {"coordinates":[-1.506785,54.183145],"type":"Point"}
+  "geometry": {"coordinates":[-1.499471,54.179763],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.443427,52.084498,0.443427,52.084498",
-    "geom:latitude": 52.084498,
-    "geom:longitude": 0.443427,
+    "geom:bbox": "0.442100,52.085578,0.442100,52.085578",
+    "geom:latitude": 52.085578,
+    "geom:longitude": 0.4421,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698595, 
       85633159, 
       1360699041, 
       404447511, 
-      101854875
+      101854875, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701203,
-    "wof:geomhash": "46067da3cfcb0075291d837d17df9c00",
+    "wof:geomhash": "bbbc5935305a04b763bd34ccc309a98e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454096699,
-    "wof:lastmodified": 1583786353,
+    "wof:lastmodified": 1609870667,
     "wof:name": "CB9 0JB",
     "wof:parent_id": 101854875,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.443427, 
-    52.084498, 
-    0.443427, 
-    52.084498
+    0.4421, 
+    52.085578, 
+    0.4421, 
+    52.085578
   ],
-  "geometry": {"coordinates":[0.443427,52.084498],"type":"Point"}
+  "geometry": {"coordinates":[0.4421,52.085578],"type":"Point"}
 }

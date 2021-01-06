@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.759497,54.639781,-2.759497,54.639781",
-    "geom:latitude": 54.639781,
-    "geom:longitude": -2.759497,
+    "geom:bbox": "-2.759343,54.639808,-2.759343,54.639808",
+    "geom:latitude": 54.639808,
+    "geom:longitude": -2.759343,
     "gp:parent_id": "41311",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360698877, 
       404433623, 
       1360754553, 
       404227469, 
-      1360698721, 
-      85633159
+      1360698721
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701086,
-    "wof:geomhash": "32497e621a2011599ee60cf2f2a3b2f0",
+    "wof:geomhash": "e1d23002d8c792bb09a8130a01c9ea28",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454051065,
-    "wof:lastmodified": 1583786221,
+    "wof:lastmodified": 1609868946,
     "wof:name": "CA10 2LB",
     "wof:parent_id": 404433623,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.759497, 
-    54.639781, 
-    -2.759497, 
-    54.639781
+    -2.759343, 
+    54.639808, 
+    -2.759343, 
+    54.639808
   ],
-  "geometry": {"coordinates":[-2.759497,54.639781],"type":"Point"}
+  "geometry": {"coordinates":[-2.759343,54.639808],"type":"Point"}
 }

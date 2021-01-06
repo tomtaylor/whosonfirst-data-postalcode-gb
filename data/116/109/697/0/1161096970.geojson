@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2017-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.120353,51.282807,-1.120353,51.282807",
-    "geom:latitude": 51.282807,
-    "geom:longitude": -1.120353,
+    "geom:bbox": "-1.120194,51.282887,-1.120194,51.282887",
+    "geom:latitude": 51.282887,
+    "geom:longitude": -1.120194,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360753597, 
-      404227469, 
       1360698557, 
       85633159, 
       1360698827, 
-      404446317
+      404446317, 
+      1360753597, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583803716,
-    "wof:geomhash": "1a1931ab8b04ddd6cf99f4cd4dbf52f1",
+    "wof:geomhash": "e0053782900f04d3e8b8f7675fb19ca4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1161096970,
-    "wof:lastmodified": 1583803716,
+    "wof:lastmodified": 1609876078,
     "wof:name": "RG24 9YE",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.120353, 
-    51.282807, 
-    -1.120353, 
-    51.282807
+    -1.120194, 
+    51.282887, 
+    -1.120194, 
+    51.282887
   ],
-  "geometry": {"coordinates":[-1.120353,51.282807],"type":"Point"}
+  "geometry": {"coordinates":[-1.120194,51.282887],"type":"Point"}
 }

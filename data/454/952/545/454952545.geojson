@@ -3,11 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "uuuu",
-    "edtf:inception": "2006-05-01",
+    "edtf:inception": "2020-09-01",
     "geom:area": 0,
-    "geom:bbox": "-2.865850,53.374597,-2.865850,53.374597",
-    "geom:latitude": 53.374597,
-    "geom:longitude": -2.86585,
+    "geom:bbox": "-2.865849,53.374613,-2.865849,53.374613",
+    "geom:latitude": 53.374613,
+    "geom:longitude": -2.865849,
     "gp:parent_id": "26734",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85791813, 
       1360698573, 
       85633159, 
       1360698971, 
       101750547, 
-      404227469
+      404227469, 
+      85791813
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701761,
-    "wof:geomhash": "a8f9dca8446d0f40248a86d476745360",
+    "wof:geomhash": "bed1f7c69b6fec98976b4cc27e25cc45",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454952545,
-    "wof:lastmodified": 1583786897,
+    "wof:lastmodified": 1609905230,
     "wof:name": "L25 7WX",
     "wof:parent_id": 101750547,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.86585, 
-    53.374597, 
-    -2.86585, 
-    53.374597
+    -2.865849, 
+    53.374613, 
+    -2.865849, 
+    53.374613
   ],
-  "geometry": {"coordinates":[-2.86585,53.374597],"type":"Point"}
+  "geometry": {"coordinates":[-2.865849,53.374613],"type":"Point"}
 }

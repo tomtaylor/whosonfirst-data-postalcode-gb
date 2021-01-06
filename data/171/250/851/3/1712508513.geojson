@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2017-11-01",
     "geom:area": 0,
-    "geom:bbox": "0.892336,51.920354,0.892336,51.920354",
-    "geom:latitude": 51.920354,
-    "geom:longitude": 0.892336,
+    "geom:bbox": "0.892330,51.920265,0.892330,51.920265",
+    "geom:latitude": 51.920265,
+    "geom:longitude": 0.89233,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360759089, 
-      404227469, 
-      1360698551, 
       85633159, 
       1360698979, 
-      404453359
+      404453359, 
+      1360759089, 
+      404227469, 
+      1360698551
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583791170,
-    "wof:geomhash": "096037323f7890ca8d4da5c7fd3d5660",
+    "wof:geomhash": "6b8059d7e23b1a5c0bbc22d5ae3aa96d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712508513,
-    "wof:lastmodified": 1583791170,
+    "wof:lastmodified": 1609869853,
     "wof:name": "CO4 6DA",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.892336, 
-    51.920354, 
-    0.892336, 
-    51.920354
+    0.89233, 
+    51.920265, 
+    0.89233, 
+    51.920265
   ],
-  "geometry": {"coordinates":[0.892336,51.920354],"type":"Point"}
+  "geometry": {"coordinates":[0.89233,51.920265],"type":"Point"}
 }

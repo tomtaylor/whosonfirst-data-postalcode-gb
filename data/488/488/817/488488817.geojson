@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.022019,51.570855,-4.022019,51.570855",
-    "geom:latitude": 51.570855,
-    "geom:longitude": -4.022019,
+    "geom:bbox": "-4.021569,51.571011,-4.021569,51.571011",
+    "geom:latitude": 51.571011,
+    "geom:longitude": -4.021569,
     "gp:parent_id": "37215",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698629, 
       85633159, 
       1360699095, 
       404439035, 
       1360711631, 
-      404227475
+      404227475, 
+      1360698629
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701503,
-    "wof:geomhash": "8f5049a7649a1069b20a02cd8b8eb990",
+    "wof:geomhash": "2ee43b312563ff47e3509960a99b0951",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488488817,
-    "wof:lastmodified": 1583786703,
+    "wof:lastmodified": 1609894056,
     "wof:name": "SA3 4RH",
     "wof:parent_id": 404439035,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.022019, 
-    51.570855, 
-    -4.022019, 
-    51.570855
+    -4.021569, 
+    51.571011, 
+    -4.021569, 
+    51.571011
   ],
-  "geometry": {"coordinates":[-4.022019,51.570855],"type":"Point"}
+  "geometry": {"coordinates":[-4.021569,51.571011],"type":"Point"}
 }

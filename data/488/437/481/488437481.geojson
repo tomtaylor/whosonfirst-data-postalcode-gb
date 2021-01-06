@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.247146,55.823768,-4.247146,55.823768",
-    "geom:latitude": 55.823768,
-    "geom:longitude": -4.247146,
+    "geom:bbox": "-4.247142,55.823696,-4.247142,55.823696",
+    "geom:latitude": 55.823696,
+    "geom:longitude": -4.247142,
     "gp:parent_id": "21125",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1175612707, 
-      404227471, 
       85789891, 
       1360698707, 
       85633159, 
       1360698797, 
-      404430153
+      404430153, 
+      1175612707, 
+      404227471
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701450,
-    "wof:geomhash": "273c8ab054a2b0006d63e4538f2659e9",
+    "wof:geomhash": "1a41bca0a056ab0bf855eab8d2058f1b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 488437481,
-    "wof:lastmodified": 1595733815,
+    "wof:lastmodified": 1609891719,
     "wof:name": "G44 4RG",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.247146, 
-    55.823768, 
-    -4.247146, 
-    55.823768
+    -4.247142, 
+    55.823696, 
+    -4.247142, 
+    55.823696
   ],
-  "geometry": {"coordinates":[-4.247146,55.823768],"type":"Point"}
+  "geometry": {"coordinates":[-4.247142,55.823696],"type":"Point"}
 }

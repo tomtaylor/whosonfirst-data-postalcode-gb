@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.877186,53.621478,-1.877186,53.621478",
-    "geom:latitude": 53.621478,
+    "geom:bbox": "-1.877186,53.621492,-1.877186,53.621492",
+    "geom:latitude": 53.621492,
     "geom:longitude": -1.877186,
     "gp:parent_id": "34967",
     "iso:country": "GB",
@@ -19,11 +19,11 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698609, 
       85633159, 
       1360698917, 
-      101750573
+      101750573, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701697,
-    "wof:geomhash": "722a38a79787e7683d79ef592ebf92bd",
+    "wof:geomhash": "4d218c62db193a7639a690b23550b320",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454749977,
-    "wof:lastmodified": 1583786850,
+    "wof:lastmodified": 1609901269,
     "wof:name": "HD7 5LU",
     "wof:parent_id": 404431985,
     "wof:placetype": "postalcode",
@@ -53,9 +53,9 @@
   },
   "bbox": [
     -1.877186, 
-    53.621478, 
+    53.621492, 
     -1.877186, 
-    53.621478
+    53.621492
   ],
-  "geometry": {"coordinates":[-1.877186,53.621478],"type":"Point"}
+  "geometry": {"coordinates":[-1.877186,53.621492],"type":"Point"}
 }

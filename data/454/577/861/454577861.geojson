@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.945424,50.855344,-3.945424,50.855344",
-    "geom:latitude": 50.855344,
-    "geom:longitude": -3.945424,
+    "geom:bbox": "-3.945460,50.855336,-3.945460,50.855336",
+    "geom:latitude": 50.855336,
+    "geom:longitude": -3.94546,
     "gp:parent_id": "40662",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698541, 
       85633159, 
       1360699081, 
       404446179, 
       1125928965, 
-      404227469
+      404227469, 
+      1360698541
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701647,
-    "wof:geomhash": "b70aefa7ee0125ca4e758e9fe1e9b4b3",
+    "wof:geomhash": "a874c6887b43d7e2750566380fccc45b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454577861,
-    "wof:lastmodified": 1583786780,
+    "wof:lastmodified": 1609895326,
     "wof:name": "EX19 8HN",
     "wof:parent_id": 404446179,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.945424, 
-    50.855344, 
-    -3.945424, 
-    50.855344
+    -3.94546, 
+    50.855336, 
+    -3.94546, 
+    50.855336
   ],
-  "geometry": {"coordinates":[-3.945424,50.855344],"type":"Point"}
+  "geometry": {"coordinates":[-3.94546,50.855336],"type":"Point"}
 }

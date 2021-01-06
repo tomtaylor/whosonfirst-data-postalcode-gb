@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.144088,55.939376,-4.144088,55.939376",
-    "geom:latitude": 55.939376,
-    "geom:longitude": -4.144088,
+    "geom:bbox": "-4.144067,55.939278,-4.144067,55.939278",
+    "geom:latitude": 55.939278,
+    "geom:longitude": -4.144067,
     "gp:parent_id": "12696192",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      404451795, 
+      404227471, 
       85786143, 
       1360698701, 
       85633159, 
-      1360698835, 
-      404451795, 
-      404227471
+      1360698835
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701184,
-    "wof:geomhash": "6ed9c084667bfbad710a0471baaeaa18",
+    "wof:geomhash": "ea8c574b0f8b1fa569393a3baf731af0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504411843,
-    "wof:lastmodified": 1583786291,
+    "wof:lastmodified": 1609869998,
     "wof:name": "G66 2DP",
     "wof:parent_id": 404451795,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.144088, 
-    55.939376, 
-    -4.144088, 
-    55.939376
+    -4.144067, 
+    55.939278, 
+    -4.144067, 
+    55.939278
   ],
-  "geometry": {"coordinates":[-4.144088,55.939376],"type":"Point"}
+  "geometry": {"coordinates":[-4.144067,55.939278],"type":"Point"}
 }

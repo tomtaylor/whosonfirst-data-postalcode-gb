@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.522842,50.460542,-3.522842,50.460542",
-    "geom:latitude": 50.460542,
+    "geom:bbox": "-3.522842,50.460533,-3.522842,50.460533",
+    "geom:latitude": 50.460533,
     "geom:longitude": -3.522842,
     "gp:parent_id": "37818",
     "iso:country": "GB",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360699071, 
       1360817197, 
       101751577, 
       404227469, 
-      1360698541, 
-      85633159
+      1360698541
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701230,
-    "wof:geomhash": "9fa6de2942e710c1a467bc813217f3af",
+    "wof:geomhash": "a70c4114849e2380e6b2b3d3bbf0e026",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487884495,
-    "wof:lastmodified": 1595725309,
+    "wof:lastmodified": 1609885018,
     "wof:name": "TQ1 2AT",
     "wof:parent_id": 101751577,
     "wof:placetype": "postalcode",
@@ -55,9 +55,9 @@
   },
   "bbox": [
     -3.522842, 
-    50.460542, 
+    50.460533, 
     -3.522842, 
-    50.460542
+    50.460533
   ],
-  "geometry": {"coordinates":[-3.522842,50.460542],"type":"Point"}
+  "geometry": {"coordinates":[-3.522842,50.460533],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2000-06-01",
     "geom:area": 0,
-    "geom:bbox": "-0.410649,53.724067,-0.410649,53.724067",
-    "geom:latitude": 53.724067,
-    "geom:longitude": -0.410649,
+    "geom:bbox": "-0.409850,53.723948,-0.409850,53.723948",
+    "geom:latitude": 53.723948,
+    "geom:longitude": -0.40985,
     "gp:parent_id": "25211",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698547, 
       85633159, 
       1360698951, 
-      101750561
+      101750561, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701728,
-    "wof:geomhash": "df2e7b164c8b1985b900192a6ec94ee7",
+    "wof:geomhash": "186c4c75a7be19fdd855c597a5d1559d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454822125,
-    "wof:lastmodified": 1583786863,
+    "wof:lastmodified": 1609902931,
     "wof:name": "HU4 7DY",
     "wof:parent_id": 404435143,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.410649, 
-    53.724067, 
-    -0.410649, 
-    53.724067
+    -0.40985, 
+    53.723948, 
+    -0.40985, 
+    53.723948
   ],
-  "geometry": {"coordinates":[-0.410649,53.724067],"type":"Point"}
+  "geometry": {"coordinates":[-0.40985,53.723948],"type":"Point"}
 }

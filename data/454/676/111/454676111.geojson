@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.768857,51.289746,-0.768857,51.289746",
-    "geom:latitude": 51.289746,
-    "geom:longitude": -0.768857,
+    "geom:bbox": "-0.768958,51.289720,-0.768958,51.289720",
+    "geom:latitude": 51.28972,
+    "geom:longitude": -0.768958,
     "gp:parent_id": "20093397",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      101750357, 
       404227469, 
       1360698557, 
       85633159, 
-      1360698827
+      1360698827, 
+      101750357
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701691,
-    "wof:geomhash": "45fb9ac2abe6f42ff9be3835c0ef4802",
+    "wof:geomhash": "1ad4d80a7cbbdd8c3de42b7eaa0a575f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454676111,
-    "wof:lastmodified": 1583786827,
+    "wof:lastmodified": 1609899376,
     "wof:name": "GU14 0AR",
     "wof:parent_id": 101750357,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.768857, 
-    51.289746, 
-    -0.768857, 
-    51.289746
+    -0.768958, 
+    51.28972, 
+    -0.768958, 
+    51.28972
   ],
-  "geometry": {"coordinates":[-0.768857,51.289746],"type":"Point"}
+  "geometry": {"coordinates":[-0.768958,51.28972],"type":"Point"}
 }

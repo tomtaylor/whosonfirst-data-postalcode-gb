@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.622329,51.668138,-0.622329,51.668138",
-    "geom:latitude": 51.668138,
-    "geom:longitude": -0.622329,
+    "geom:bbox": "-0.621621,51.667890,-0.621621,51.667890",
+    "geom:latitude": 51.66789,
+    "geom:longitude": -0.621621,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      404441987, 
+      101854803, 
       404227469, 
       1360698533, 
       85633159, 
-      1360698997, 
-      404441987, 
-      101854803
+      1360698997
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701715,
-    "wof:geomhash": "4cfedd08638deb7b5d5834abb29248c4",
+    "wof:geomhash": "72229dd5a4984aef54ead4b3589b5d75",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454792247,
-    "wof:lastmodified": 1595717150,
+    "wof:lastmodified": 1609902211,
     "wof:name": "HP7 0EB",
     "wof:parent_id": 404441987,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.622329, 
-    51.668138, 
-    -0.622329, 
-    51.668138
+    -0.621621, 
+    51.66789, 
+    -0.621621, 
+    51.66789
   ],
-  "geometry": {"coordinates":[-0.622329,51.668138],"type":"Point"}
+  "geometry": {"coordinates":[-0.621621,51.66789],"type":"Point"}
 }

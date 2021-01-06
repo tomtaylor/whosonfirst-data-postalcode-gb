@@ -2,8 +2,8 @@
   "id": 1160804932,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2020-04-01",
-    "edtf:inception": "2019-01-01",
+    "edtf:cessation": "2020-10-01",
+    "edtf:inception": "2020-09-01",
     "geom:area": 0,
     "geom:bbox": "0.093959,51.771744,0.093959,51.771744",
     "geom:latitude": 51.771744,
@@ -18,11 +18,11 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698979, 
-      101750413, 
       404227469, 
       1360698551, 
-      85633159
+      85633159, 
+      1360698979, 
+      101750413
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1160804932,
-    "wof:lastmodified": 1595710912,
+    "wof:lastmodified": 1609870131,
     "wof:name": "CM20 9PW",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.113462,51.470309,-0.113462,51.470309",
-    "geom:latitude": 51.470309,
-    "geom:longitude": -0.113462,
+    "geom:bbox": "-0.113409,51.470282,-0.113409,51.470282",
+    "geom:latitude": 51.470282,
+    "geom:longitude": -0.113409,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      85786023, 
       1360698645, 
       1158857249, 
       85633159, 
       101750367, 
-      404227469
+      404227469, 
+      85786023
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701161,
-    "wof:geomhash": "32abfca74e9021b2e5abf4972760d482",
+    "wof:geomhash": "2e62aa35140d0c839bf88c23da306e30",
     "wof:hierarchy": [
       {
         "borough_id": 1158857249,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487770801,
-    "wof:lastmodified": 1583786263,
+    "wof:lastmodified": 1609878929,
     "wof:name": "SW9 0BL",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.113462, 
-    51.470309, 
-    -0.113462, 
-    51.470309
+    -0.113409, 
+    51.470282, 
+    -0.113409, 
+    51.470282
   ],
-  "geometry": {"coordinates":[-0.113462,51.470309],"type":"Point"}
+  "geometry": {"coordinates":[-0.113409,51.470282],"type":"Point"}
 }

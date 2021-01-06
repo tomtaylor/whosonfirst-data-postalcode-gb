@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-12-01",
     "geom:area": 0,
-    "geom:bbox": "-0.097107,50.979672,-0.097107,50.979672",
-    "geom:latitude": 50.979672,
-    "geom:longitude": -0.097107,
+    "geom:bbox": "-0.097134,50.979700,-0.097134,50.979700",
+    "geom:latitude": 50.9797,
+    "geom:longitude": -0.097134,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698757, 
-      404445831, 
       1293524743, 
       404227469, 
-      1360698607
+      1360698607, 
+      85633159, 
+      1360698757, 
+      404445831
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583801044,
-    "wof:geomhash": "2d27eae1a5c1857010d47f526e743b68",
+    "wof:geomhash": "591158e4107ca48875a09ee50ef61450",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1161036338,
-    "wof:lastmodified": 1583801044,
+    "wof:lastmodified": 1609875118,
     "wof:name": "RH16 4AR",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.097107, 
-    50.979672, 
-    -0.097107, 
-    50.979672
+    -0.097134, 
+    50.9797, 
+    -0.097134, 
+    50.9797
   ],
-  "geometry": {"coordinates":[-0.097107,50.979672],"type":"Point"}
+  "geometry": {"coordinates":[-0.097134,50.9797],"type":"Point"}
 }

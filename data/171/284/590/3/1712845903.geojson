@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.791313,53.075838,-0.791313,53.075838",
-    "geom:latitude": 53.075838,
-    "geom:longitude": -0.791313,
+    "geom:bbox": "-0.791286,53.075739,-0.791286,53.075739",
+    "geom:latitude": 53.075739,
+    "geom:longitude": -0.791286,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1360758949, 
-      404227469, 
-      1360698583, 
       85633159, 
       1360698809, 
-      404444647
+      404444647, 
+      1360758949, 
+      404227469, 
+      1360698583
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583806171,
-    "wof:geomhash": "351dc7391fa11ce91b2ae481c60080eb",
+    "wof:geomhash": "4e884a6d651457b701d4c192e8d7c4b9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712845903,
-    "wof:lastmodified": 1595713515,
+    "wof:lastmodified": 1609875106,
     "wof:name": "NG24 2NB",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.791313, 
-    53.075838, 
-    -0.791313, 
-    53.075838
+    -0.791286, 
+    53.075739, 
+    -0.791286, 
+    53.075739
   ],
-  "geometry": {"coordinates":[-0.791313,53.075838],"type":"Point"}
+  "geometry": {"coordinates":[-0.791286,53.075739],"type":"Point"}
 }

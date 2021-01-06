@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.755099,51.617186,-3.755099,51.617186",
-    "geom:latitude": 51.617186,
-    "geom:longitude": -3.755099,
+    "geom:bbox": "-3.755130,51.617230,-3.755130,51.617230",
+    "geom:latitude": 51.61723,
+    "geom:longitude": -3.75513,
     "gp:parent_id": "12696122",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698825, 
       404430919, 
       1125893693, 
       404227475, 
-      1360698629
+      1360698629, 
+      85633159, 
+      1360698825
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701456,
-    "wof:geomhash": "06d8b9a48d9e552fc5e2e59c1992f709",
+    "wof:geomhash": "ec742a7be5f5272bb36b13e829d5c6fa",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504583025,
-    "wof:lastmodified": 1583786598,
+    "wof:lastmodified": 1609880711,
     "wof:name": "SA12 9DG",
     "wof:parent_id": 404430919,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.755099, 
-    51.617186, 
-    -3.755099, 
-    51.617186
+    -3.75513, 
+    51.61723, 
+    -3.75513, 
+    51.61723
   ],
-  "geometry": {"coordinates":[-3.755099,51.617186],"type":"Point"}
+  "geometry": {"coordinates":[-3.75513,51.61723],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.443182,51.619249,0.443182,51.619249",
-    "geom:latitude": 51.619249,
-    "geom:longitude": 0.443182,
+    "geom:bbox": "0.441552,51.619022,0.441552,51.619022",
+    "geom:latitude": 51.619022,
+    "geom:longitude": 0.441552,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698979, 
-      404442595, 
-      1360757881, 
       404227469, 
       1360698551, 
-      85633159
+      85633159, 
+      1360698979, 
+      404442595, 
+      1360757881
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701293,
-    "wof:geomhash": "ff8e8dc7d3a5c24f2067ffe1367fd2e0",
+    "wof:geomhash": "978669aaa5b8bbe9fb60d62df015640d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454135237,
-    "wof:lastmodified": 1583786432,
+    "wof:lastmodified": 1609872980,
     "wof:name": "CM11 2TZ",
     "wof:parent_id": 404442595,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.443182, 
-    51.619249, 
-    0.443182, 
-    51.619249
+    0.441552, 
+    51.619022, 
+    0.441552, 
+    51.619022
   ],
-  "geometry": {"coordinates":[0.443182,51.619249],"type":"Point"}
+  "geometry": {"coordinates":[0.441552,51.619022],"type":"Point"}
 }

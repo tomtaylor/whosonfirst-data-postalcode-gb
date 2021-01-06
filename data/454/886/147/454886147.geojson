@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.730266,52.140003,0.730266,52.140003",
-    "geom:latitude": 52.140003,
-    "geom:longitude": 0.730266,
+    "geom:bbox": "0.730357,52.140046,0.730357,52.140046",
+    "geom:latitude": 52.140046,
+    "geom:longitude": 0.730357,
     "gp:parent_id": "34633",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360699041, 
       404432661, 
       1125877659, 
       404227469, 
-      1360698595, 
-      85633159, 
-      1360699041
+      1360698595
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701745,
-    "wof:geomhash": "d2cbc135fc8615b52331349b6f96832e",
+    "wof:geomhash": "bccac608c026c639afd386cc7981946a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454886147,
-    "wof:lastmodified": 1595717544,
+    "wof:lastmodified": 1609904164,
     "wof:name": "IP29 4HP",
     "wof:parent_id": 404432661,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.730266, 
-    52.140003, 
-    0.730266, 
-    52.140003
+    0.730357, 
+    52.140046, 
+    0.730357, 
+    52.140046
   ],
-  "geometry": {"coordinates":[0.730266,52.140003],"type":"Point"}
+  "geometry": {"coordinates":[0.730357,52.140046],"type":"Point"}
 }

@@ -2,7 +2,7 @@
   "id": 454959497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-09-01",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:bbox": "-2.879848,53.497192,-2.879848,53.497192",
@@ -11,7 +11,7 @@
     "gp:parent_id": "26734",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E08000011",
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698573, 
       85633159, 
       1360698941, 
       101872163, 
-      404227469, 
-      1360698573
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454959497,
-    "wof:lastmodified": 1583786898,
+    "wof:lastmodified": 1609905388,
     "wof:name": "L33 1XD",
     "wof:parent_id": 101872163,
     "wof:placetype": "postalcode",

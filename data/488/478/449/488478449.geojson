@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.276166,55.874530,-4.276166,55.874530",
-    "geom:latitude": 55.87453,
-    "geom:longitude": -4.276166,
+    "geom:bbox": "-4.276167,55.874516,-4.276167,55.874516",
+    "geom:latitude": 55.874516,
+    "geom:longitude": -4.276167,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698707, 
-      85633159, 
       1360698797, 
       404430153, 
       1175612707, 
       404227471, 
-      85792601
+      85792601, 
+      1360698707, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701490,
-    "wof:geomhash": "4e63146baa398744714b817d6feae3ce",
+    "wof:geomhash": "fbcc091d46cd67a22c3c7c3694d20e9d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 488478449,
-    "wof:lastmodified": 1583786696,
+    "wof:lastmodified": 1609893636,
     "wof:name": "G20 6NQ",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.276166, 
-    55.87453, 
-    -4.276166, 
-    55.87453
+    -4.276167, 
+    55.874516, 
+    -4.276167, 
+    55.874516
   ],
-  "geometry": {"coordinates":[-4.276166,55.87453],"type":"Point"}
+  "geometry": {"coordinates":[-4.276167,55.874516],"type":"Point"}
 }

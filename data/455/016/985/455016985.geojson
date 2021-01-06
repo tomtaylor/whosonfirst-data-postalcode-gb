@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.597673,52.609120,-0.597673,52.609120",
-    "geom:latitude": 52.60912,
-    "geom:longitude": -0.597673,
+    "geom:bbox": "-0.597089,52.608915,-0.597089,52.608915",
+    "geom:latitude": 52.608915,
+    "geom:longitude": -0.597089,
     "gp:parent_id": "35274",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698581, 
       85633159, 
       1360699103, 
       404430713, 
-      1343887293
+      1343887293, 
+      404227469, 
+      1360698581
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701246,
-    "wof:geomhash": "d0bbf9547d12b425fd15b3da111042f4",
+    "wof:geomhash": "3208914be62ba341c9a16c93319bd01b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 455016985,
-    "wof:lastmodified": 1583786408,
+    "wof:lastmodified": 1609868923,
     "wof:name": "LE15 8NF",
     "wof:parent_id": 404430713,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.597673, 
-    52.60912, 
-    -0.597673, 
-    52.60912
+    -0.597089, 
+    52.608915, 
+    -0.597089, 
+    52.608915
   ],
-  "geometry": {"coordinates":[-0.597673,52.60912],"type":"Point"}
+  "geometry": {"coordinates":[-0.597089,52.608915],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1997-12-01",
     "geom:area": 0,
-    "geom:bbox": "-2.471393,51.537689,-2.471393,51.537689",
-    "geom:latitude": 51.537689,
-    "geom:longitude": -2.471393,
+    "geom:bbox": "-2.471935,51.537031,-2.471935,51.537031",
+    "geom:latitude": 51.537031,
+    "geom:longitude": -2.471935,
     "gp:parent_id": "20583",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698553, 
       85633159, 
       1360698895, 
       404435605, 
-      1125847185, 
-      404227469, 
-      1360698553
+      1125847185
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701486,
-    "wof:geomhash": "a11227087d2b46574e1f87e4dfa32367",
+    "wof:geomhash": "56d39de6d0a96dfe13072da127c3edfb",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438299369,
-    "wof:lastmodified": 1583786627,
+    "wof:lastmodified": 1609884435,
     "wof:name": "BS36 2LA",
     "wof:parent_id": 404435605,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.471393, 
-    51.537689, 
-    -2.471393, 
-    51.537689
+    -2.471935, 
+    51.537031, 
+    -2.471935, 
+    51.537031
   ],
-  "geometry": {"coordinates":[-2.471393,51.537689],"type":"Point"}
+  "geometry": {"coordinates":[-2.471935,51.537031],"type":"Point"}
 }

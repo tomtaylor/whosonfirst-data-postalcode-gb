@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1995-07-01",
     "geom:area": 0,
-    "geom:bbox": "-1.251175,51.418567,-1.251175,51.418567",
-    "geom:latitude": 51.418567,
-    "geom:longitude": -1.251175,
+    "geom:bbox": "-1.252215,51.419185,-1.252215,51.419185",
+    "geom:latitude": 51.419185,
+    "geom:longitude": -1.252215,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698529, 
       85633159, 
       1360698857, 
       404441283, 
-      101852665
+      101852665, 
+      404227469, 
+      1360698529
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701660,
-    "wof:geomhash": "55e3b25f0fc2cf90e57fa78d9174e3f2",
+    "wof:geomhash": "d2e36a8af8d7b6daba085fa8ec4ae0fd",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471530041,
-    "wof:lastmodified": 1583786792,
+    "wof:lastmodified": 1609895571,
     "wof:name": "RG18 9HS",
     "wof:parent_id": 101852665,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.251175, 
-    51.418567, 
-    -1.251175, 
-    51.418567
+    -1.252215, 
+    51.419185, 
+    -1.252215, 
+    51.419185
   ],
-  "geometry": {"coordinates":[-1.251175,51.418567],"type":"Point"}
+  "geometry": {"coordinates":[-1.252215,51.419185],"type":"Point"}
 }

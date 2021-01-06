@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.226922,53.155854,0.226922,53.155854",
-    "geom:latitude": 53.155854,
-    "geom:longitude": 0.226922,
+    "geom:bbox": "0.226672,53.156218,0.226672,53.156218",
+    "geom:latitude": 53.156218,
+    "geom:longitude": 0.226672,
     "gp:parent_id": "13700",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699067, 
-      404443911, 
-      1360758603, 
       404227469, 
       1360698571, 
-      85633159
+      85633159, 
+      1360699067, 
+      404443911, 
+      1360758603
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701535,
-    "wof:geomhash": "b534ceca21e7c014e7c885a16581daff",
+    "wof:geomhash": "33f83c7c3f9db7803393c8d78761c9c9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471372919,
-    "wof:lastmodified": 1583786689,
+    "wof:lastmodified": 1609888921,
     "wof:name": "PE24 5AN",
     "wof:parent_id": 404443911,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.226922, 
-    53.155854, 
-    0.226922, 
-    53.155854
+    0.226672, 
+    53.156218, 
+    0.226672, 
+    53.156218
   ],
-  "geometry": {"coordinates":[0.226922,53.155854],"type":"Point"}
+  "geometry": {"coordinates":[0.226672,53.156218],"type":"Point"}
 }

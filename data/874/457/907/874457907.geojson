@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2013-12-01",
     "geom:area": 0,
-    "geom:bbox": "-4.161130,55.866139,-4.161130,55.866139",
-    "geom:latitude": 55.866139,
-    "geom:longitude": -4.16113,
+    "geom:bbox": "-4.161547,55.866167,-4.161547,55.866167",
+    "geom:latitude": 55.866167,
+    "geom:longitude": -4.161547,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,18 +18,18 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404430153, 
-      1175612707, 
-      404227471, 
       85790555, 
       1360698707, 
       85633159, 
-      1360698797
+      1360698797, 
+      404430153, 
+      1175612707, 
+      404227471
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468879671,
-    "wof:geomhash": "6e4da1fc23d2d0bcd302b186f1f8abaf",
+    "wof:geomhash": "a916cba755717249f446022b196c6d5b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 874457907,
-    "wof:lastmodified": 1595727713,
+    "wof:lastmodified": 1609869970,
     "wof:name": "G33 3XG",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.16113, 
-    55.866139, 
-    -4.16113, 
-    55.866139
+    -4.161547, 
+    55.866167, 
+    -4.161547, 
+    55.866167
   ],
-  "geometry": {"coordinates":[-4.16113,55.866139],"type":"Point"}
+  "geometry": {"coordinates":[-4.161547,55.866167],"type":"Point"}
 }

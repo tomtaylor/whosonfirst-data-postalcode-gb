@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.247354,51.872811,-2.247354,51.872811",
-    "geom:latitude": 51.872811,
-    "geom:longitude": -2.247354,
+    "geom:bbox": "-2.249670,51.871349,-2.249670,51.871349",
+    "geom:latitude": 51.871349,
+    "geom:longitude": -2.24967,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,11 +18,11 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698927, 
       101750437, 
       404227469, 
-      1360698553
+      1360698553, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -30,7 +30,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701665,
-    "wof:geomhash": "1d4643eba1a47dab87f4691f22d9401a",
+    "wof:geomhash": "582891b50758cf90efafabacdf91521a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -41,7 +41,7 @@
       }
     ],
     "wof:id": 454625849,
-    "wof:lastmodified": 1583786803,
+    "wof:lastmodified": 1609897398,
     "wof:name": "GL1 2SR",
     "wof:parent_id": 404442035,
     "wof:placetype": "postalcode",
@@ -51,10 +51,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.247354, 
-    51.872811, 
-    -2.247354, 
-    51.872811
+    -2.24967, 
+    51.871349, 
+    -2.24967, 
+    51.871349
   ],
-  "geometry": {"coordinates":[-2.247354,51.872811],"type":"Point"}
+  "geometry": {"coordinates":[-2.24967,51.871349],"type":"Point"}
 }

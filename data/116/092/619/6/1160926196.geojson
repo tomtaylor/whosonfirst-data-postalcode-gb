@@ -2,12 +2,12 @@
   "id": 1160926196,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2019-05-01",
-    "edtf:inception": "2018-01-01",
+    "edtf:cessation": "2020-08-01",
+    "edtf:inception": "2020-07-01",
     "geom:area": 0,
-    "geom:bbox": "0.897405,52.236973,0.897405,52.236973",
-    "geom:latitude": 52.236973,
-    "geom:longitude": 0.897405,
+    "geom:bbox": "0.897031,52.236857,0.897031,52.236857",
+    "geom:latitude": 52.236857,
+    "geom:longitude": 0.897031,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698595, 
-      85633159, 
-      1360699041, 
       404453539, 
       1125822777, 
-      404227469
+      404227469, 
+      1360698595, 
+      85633159, 
+      1360699041
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583796170,
-    "wof:geomhash": "73e2c35d2c6084e233ad40d6e4236916",
+    "wof:geomhash": "8340eb28380d911ae4c064a4befefa22",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160926196,
-    "wof:lastmodified": 1583796170,
+    "wof:lastmodified": 1609872571,
     "wof:name": "IP30 9NW",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.897405, 
-    52.236973, 
-    0.897405, 
-    52.236973
+    0.897031, 
+    52.236857, 
+    0.897031, 
+    52.236857
   ],
-  "geometry": {"coordinates":[0.897405,52.236973],"type":"Point"}
+  "geometry": {"coordinates":[0.897031,52.236857],"type":"Point"}
 }

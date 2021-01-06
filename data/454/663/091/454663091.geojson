@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.217291,51.807415,-2.217291,51.807415",
-    "geom:latitude": 51.807415,
-    "geom:longitude": -2.217291,
+    "geom:bbox": "-2.218457,51.805551,-2.218457,51.805551",
+    "geom:latitude": 51.805551,
+    "geom:longitude": -2.218457,
     "gp:parent_id": "19327",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698553, 
-      85633159, 
       1360698927, 
       404439175, 
       1360755257, 
-      404227469
+      404227469, 
+      1360698553, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701690,
-    "wof:geomhash": "6c80f3a89abddf072e68dd5081aa6013",
+    "wof:geomhash": "bbf250292fa32dacc66fb65a61454152",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454663091,
-    "wof:lastmodified": 1583786823,
+    "wof:lastmodified": 1609899024,
     "wof:name": "GL6 6NN",
     "wof:parent_id": 404439175,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.217291, 
-    51.807415, 
-    -2.217291, 
-    51.807415
+    -2.218457, 
+    51.805551, 
+    -2.218457, 
+    51.805551
   ],
-  "geometry": {"coordinates":[-2.217291,51.807415],"type":"Point"}
+  "geometry": {"coordinates":[-2.218457,51.805551],"type":"Point"}
 }

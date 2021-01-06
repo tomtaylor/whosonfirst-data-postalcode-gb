@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.587019,50.491347,-3.587019,50.491347",
-    "geom:latitude": 50.491347,
-    "geom:longitude": -3.587019,
+    "geom:bbox": "-3.587315,50.491266,-3.587315,50.491266",
+    "geom:latitude": 50.491266,
+    "geom:longitude": -3.587315,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698541, 
       85633159, 
       1360699081, 
       404429583, 
-      101852573
+      101852573, 
+      404227469, 
+      1360698541
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701232,
-    "wof:geomhash": "6c9120b258bbbebd4156d2e35d23c8eb",
+    "wof:geomhash": "90ca8f73d472bec1649fda7436241f2a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 487889063,
-    "wof:lastmodified": 1583786320,
+    "wof:lastmodified": 1609885021,
     "wof:name": "TQ12 5DY",
     "wof:parent_id": 404429583,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.587019, 
-    50.491347, 
-    -3.587019, 
-    50.491347
+    -3.587315, 
+    50.491266, 
+    -3.587315, 
+    50.491266
   ],
-  "geometry": {"coordinates":[-3.587019,50.491347],"type":"Point"}
+  "geometry": {"coordinates":[-3.587315,50.491266],"type":"Point"}
 }

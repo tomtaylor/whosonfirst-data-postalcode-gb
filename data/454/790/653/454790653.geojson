@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.653367,51.740716,-0.653367,51.740716",
-    "geom:latitude": 51.740716,
-    "geom:longitude": -0.653367,
+    "geom:bbox": "-0.656610,51.741760,-0.656610,51.741760",
+    "geom:latitude": 51.74176,
+    "geom:longitude": -0.65661,
     "gp:parent_id": "11150",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698997, 
       404434767, 
       1125779381, 
       404227469, 
-      1360698533
+      1360698533, 
+      85633159, 
+      1360698997
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701716,
-    "wof:geomhash": "8257c9dd768218c837953c67ad54de0d",
+    "wof:geomhash": "71dd89d7865d609e41f70356fb9ae418",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454790653,
-    "wof:lastmodified": 1595717180,
+    "wof:lastmodified": 1609902360,
     "wof:name": "HP5 2UP",
     "wof:parent_id": 404434767,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.653367, 
-    51.740716, 
-    -0.653367, 
-    51.740716
+    -0.65661, 
+    51.74176, 
+    -0.65661, 
+    51.74176
   ],
-  "geometry": {"coordinates":[-0.653367,51.740716],"type":"Point"}
+  "geometry": {"coordinates":[-0.65661,51.74176],"type":"Point"}
 }

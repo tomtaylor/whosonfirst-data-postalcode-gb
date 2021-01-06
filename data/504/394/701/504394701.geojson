@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.221439,55.880869,-4.221439,55.880869",
-    "geom:latitude": 55.880869,
-    "geom:longitude": -4.221439,
+    "geom:bbox": "-4.221556,55.880637,-4.221556,55.880637",
+    "geom:latitude": 55.880637,
+    "geom:longitude": -4.221556,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698707, 
       85633159, 
       1360698797, 
       404430153, 
       1175612707, 
       404227471, 
-      85790559
+      85790559, 
+      1360698707
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701136,
-    "wof:geomhash": "667555d10952a5eb4a7e4012a299354e",
+    "wof:geomhash": "0e5ad161b6eb1e938458e083846e975e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 504394701,
-    "wof:lastmodified": 1583786233,
+    "wof:lastmodified": 1609869344,
     "wof:name": "G21 4NF",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.221439, 
-    55.880869, 
-    -4.221439, 
-    55.880869
+    -4.221556, 
+    55.880637, 
+    -4.221556, 
+    55.880637
   ],
-  "geometry": {"coordinates":[-4.221439,55.880869],"type":"Point"}
+  "geometry": {"coordinates":[-4.221556,55.880637],"type":"Point"}
 }

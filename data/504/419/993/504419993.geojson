@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.203942,55.823175,-4.203942,55.823175",
-    "geom:latitude": 55.823175,
-    "geom:longitude": -4.203942,
+    "geom:bbox": "-4.203606,55.823154,-4.203606,55.823154",
+    "geom:latitude": 55.823154,
+    "geom:longitude": -4.203606,
     "gp:parent_id": "12696210",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698969, 
       404453929, 
       404227471, 
       1360698703, 
-      85633159
+      85633159, 
+      1360698969
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701201,
-    "wof:geomhash": "76a6a980787cf0cb921e97dc0f553c54",
+    "wof:geomhash": "e3c4f53fb6cf4aad433e7c26658283e5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504419993,
-    "wof:lastmodified": 1583786317,
+    "wof:lastmodified": 1609870368,
     "wof:name": "G73 3PP",
     "wof:parent_id": 101913919,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.203942, 
-    55.823175, 
-    -4.203942, 
-    55.823175
+    -4.203606, 
+    55.823154, 
+    -4.203606, 
+    55.823154
   ],
-  "geometry": {"coordinates":[-4.203942,55.823175],"type":"Point"}
+  "geometry": {"coordinates":[-4.203606,55.823154],"type":"Point"}
 }

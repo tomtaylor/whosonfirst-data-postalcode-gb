@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.298464,54.157770,-2.298464,54.157770",
-    "geom:latitude": 54.15777,
-    "geom:longitude": -2.298464,
+    "geom:bbox": "-2.298993,54.158418,-2.298993,54.158418",
+    "geom:latitude": 54.158418,
+    "geom:longitude": -2.298993,
     "gp:parent_id": "23974",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404438901, 
-      1125938165, 
-      404227469, 
       1360698619, 
       85633159, 
-      1360698753
+      1360698753, 
+      404438901, 
+      1125938165, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701329,
-    "wof:geomhash": "f7f8df0f15b636cee89387c386ed057d",
+    "wof:geomhash": "03f01890ff74d28d5236d890669c07f0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438132919,
-    "wof:lastmodified": 1583786459,
+    "wof:lastmodified": 1609875333,
     "wof:name": "BD24 0JE",
     "wof:parent_id": 404438901,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.298464, 
-    54.15777, 
-    -2.298464, 
-    54.15777
+    -2.298993, 
+    54.158418, 
+    -2.298993, 
+    54.158418
   ],
-  "geometry": {"coordinates":[-2.298464,54.15777],"type":"Point"}
+  "geometry": {"coordinates":[-2.298993,54.158418],"type":"Point"}
 }

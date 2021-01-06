@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "-1.836130,54.956129,-1.836130,54.956129",
-    "geom:latitude": 54.956129,
-    "geom:longitude": -1.83613,
+    "geom:bbox": "-1.836365,54.956031,-1.836365,54.956031",
+    "geom:latitude": 54.956031,
+    "geom:longitude": -1.836365,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698727, 
       85633159, 
       1360698769, 
       404450797, 
       1125840701, 
-      404227469, 
-      1360698727
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735489,
-    "wof:geomhash": "84be0418e5459a36cc592f68192d3e15",
+    "wof:geomhash": "fd2b630e6155549632419c52c636f40d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1713327713,
-    "wof:lastmodified": 1595753339,
+    "wof:lastmodified": 1609875242,
     "wof:name": "NE42 5FA",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.83613, 
-    54.956129, 
-    -1.83613, 
-    54.956129
+    -1.836365, 
+    54.956031, 
+    -1.836365, 
+    54.956031
   ],
-  "geometry": {"coordinates":[-1.83613,54.956129],"type":"Point"}
+  "geometry": {"coordinates":[-1.836365,54.956031],"type":"Point"}
 }

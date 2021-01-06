@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.594725,51.790129,0.594725,51.790129",
-    "geom:latitude": 51.790129,
-    "geom:longitude": 0.594725,
+    "geom:bbox": "0.594547,51.790052,0.594547,51.790052",
+    "geom:latitude": 51.790052,
+    "geom:longitude": 0.594547,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360698979, 
       404430661, 
       101854715, 
       404227469, 
-      1360698551, 
-      85633159
+      1360698551
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701316,
-    "wof:geomhash": "8d912605b4d7ccbfe7f4c954aec5117c",
+    "wof:geomhash": "5360c5d88e8e2b24be95695e54ef4b97",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454153973,
-    "wof:lastmodified": 1595712468,
+    "wof:lastmodified": 1609874408,
     "wof:name": "CM3 2AE",
     "wof:parent_id": 404430661,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.594725, 
-    51.790129, 
-    0.594725, 
-    51.790129
+    0.594547, 
+    51.790052, 
+    0.594547, 
+    51.790052
   ],
-  "geometry": {"coordinates":[0.594725,51.790129],"type":"Point"}
+  "geometry": {"coordinates":[0.594547,51.790052],"type":"Point"}
 }

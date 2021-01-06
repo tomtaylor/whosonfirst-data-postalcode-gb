@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.209858,50.791331,-4.209858,50.791331",
-    "geom:latitude": 50.791331,
-    "geom:longitude": -4.209858,
+    "geom:bbox": "-4.210255,50.789821,-4.210255,50.789821",
+    "geom:latitude": 50.789821,
+    "geom:longitude": -4.210255,
     "gp:parent_id": "22243",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1259712941, 
-      404227469, 
-      1360698541, 
       85633159, 
       1360699081, 
-      404437043
+      404437043, 
+      1259712941, 
+      404227469, 
+      1360698541
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701649,
-    "wof:geomhash": "7523105c4ec9c76e565592f3edd52b2a",
+    "wof:geomhash": "00b87d2f013b3b7148e15dedf5641472",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454583779,
-    "wof:lastmodified": 1595716378,
+    "wof:lastmodified": 1609895421,
     "wof:name": "EX21 5XD",
     "wof:parent_id": 404437043,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.209858, 
-    50.791331, 
-    -4.209858, 
-    50.791331
+    -4.210255, 
+    50.789821, 
+    -4.210255, 
+    50.789821
   ],
-  "geometry": {"coordinates":[-4.209858,50.791331],"type":"Point"}
+  "geometry": {"coordinates":[-4.210255,50.789821],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.311068,53.784219,-0.311068,53.784219",
-    "geom:latitude": 53.784219,
-    "geom:longitude": -0.311068,
+    "geom:bbox": "-0.311157,53.784265,-0.311157,53.784265",
+    "geom:latitude": 53.784265,
+    "geom:longitude": -0.311157,
     "gp:parent_id": "25211",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698547, 
       85633159, 
       1360698951, 
-      101750561
+      101750561, 
+      404227469, 
+      1360698547
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701730,
-    "wof:geomhash": "952aa24d7433844b5cd022447499ac4b",
+    "wof:geomhash": "964cdaad170792705910ea22d7540086",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454827263,
-    "wof:lastmodified": 1595717295,
+    "wof:lastmodified": 1609903120,
     "wof:name": "HU7 4YF",
     "wof:parent_id": 101750561,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.311068, 
-    53.784219, 
-    -0.311068, 
-    53.784219
+    -0.311157, 
+    53.784265, 
+    -0.311157, 
+    53.784265
   ],
-  "geometry": {"coordinates":[-0.311068,53.784219],"type":"Point"}
+  "geometry": {"coordinates":[-0.311157,53.784265],"type":"Point"}
 }

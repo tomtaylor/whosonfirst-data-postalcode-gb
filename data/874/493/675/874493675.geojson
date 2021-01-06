@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2015-05-01",
     "geom:area": 0,
-    "geom:bbox": "-1.488979,55.045569,-1.488979,55.045569",
-    "geom:latitude": 55.045569,
-    "geom:longitude": -1.488979,
+    "geom:bbox": "-1.489151,55.045561,-1.489151,55.045561",
+    "geom:latitude": 55.045561,
+    "geom:longitude": -1.489151,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698727, 
       85633159, 
       1360699037, 
       1360817045, 
-      101751655, 
-      404227469, 
-      1360698601
+      101751655
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468889565,
-    "wof:geomhash": "e17070a30e501863002a175a42deb651",
+    "wof:geomhash": "f8321ea44cd10936e3221491153a03a3",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -36,11 +36,11 @@
         "localadmin_id": 1360817045,
         "locality_id": 101751655,
         "macroregion_id": 404227469,
-        "region_id": 1360698601
+        "region_id": 1360698727
       }
     ],
     "wof:id": 874493675,
-    "wof:lastmodified": 1595728541,
+    "wof:lastmodified": 1609871813,
     "wof:name": "NE25 9GF",
     "wof:parent_id": 404442861,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.488979, 
-    55.045569, 
-    -1.488979, 
-    55.045569
+    -1.489151, 
+    55.045561, 
+    -1.489151, 
+    55.045561
   ],
-  "geometry": {"coordinates":[-1.488979,55.045569],"type":"Point"}
+  "geometry": {"coordinates":[-1.489151,55.045561],"type":"Point"}
 }

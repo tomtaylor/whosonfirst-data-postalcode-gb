@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.799380,55.638133,-3.799380,55.638133",
-    "geom:latitude": 55.638133,
-    "geom:longitude": -3.79938,
+    "geom:bbox": "-3.789326,55.639492,-3.789326,55.639492",
+    "geom:latitude": 55.639492,
+    "geom:longitude": -3.789326,
     "gp:parent_id": "12696210",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698703, 
-      85633159, 
       1360698969, 
       404453929, 
-      404227471
+      404227471, 
+      1360698703, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701398,
-    "wof:geomhash": "a11eca26fb0c942e2d5f7409e0788769",
+    "wof:geomhash": "25a30bb0f7da6b7d068246909acf1647",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504521155,
-    "wof:lastmodified": 1583786525,
+    "wof:lastmodified": 1609877442,
     "wof:name": "ML11 9TY",
     "wof:parent_id": 404453929,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.79938, 
-    55.638133, 
-    -3.79938, 
-    55.638133
+    -3.789326, 
+    55.639492, 
+    -3.789326, 
+    55.639492
   ],
-  "geometry": {"coordinates":[-3.79938,55.638133],"type":"Point"}
+  "geometry": {"coordinates":[-3.789326,55.639492],"type":"Point"}
 }

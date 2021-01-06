@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.130930,51.675900,0.130930,51.675900",
-    "geom:latitude": 51.6759,
-    "geom:longitude": 0.13093,
+    "geom:bbox": "0.130769,51.675867,0.130769,51.675867",
+    "geom:latitude": 51.675867,
+    "geom:longitude": 0.130769,
     "gp:parent_id": "37264",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698979, 
       404442227, 
       1360757625, 
       404227469, 
       1360698551, 
-      85633159, 
-      1360698979
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701307,
-    "wof:geomhash": "c76fb2d53f32777b8084df253a8a9d28",
+    "wof:geomhash": "a5c958abcf7c9464da5f18fe11007146",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454141855,
-    "wof:lastmodified": 1583786437,
+    "wof:lastmodified": 1609873461,
     "wof:name": "CM16 7PA",
     "wof:parent_id": 404442227,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.13093, 
-    51.6759, 
-    0.13093, 
-    51.6759
+    0.130769, 
+    51.675867, 
+    0.130769, 
+    51.675867
   ],
-  "geometry": {"coordinates":[0.13093,51.6759],"type":"Point"}
+  "geometry": {"coordinates":[0.130769,51.675867],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-09-01",
     "geom:area": 0,
-    "geom:bbox": "-1.649736,55.042048,-1.649736,55.042048",
-    "geom:latitude": 55.042048,
-    "geom:longitude": -1.649736,
+    "geom:bbox": "-1.649546,55.042227,-1.649546,55.042227",
+    "geom:latitude": 55.042227,
+    "geom:longitude": -1.649546,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698961, 
       404430557, 
       1360754603, 
       404227469, 
       1360698601, 
-      85633159
+      85633159, 
+      1360698961
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583798838,
-    "wof:geomhash": "558526aabf1eca65e142c88700e896c7",
+    "wof:geomhash": "2cadee1d95a4f45ebd99ea3cef6f172b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712680765,
-    "wof:lastmodified": 1595710971,
+    "wof:lastmodified": 1609872340,
     "wof:name": "NE13 7FY",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.649736, 
-    55.042048, 
-    -1.649736, 
-    55.042048
+    -1.649546, 
+    55.042227, 
+    -1.649546, 
+    55.042227
   ],
-  "geometry": {"coordinates":[-1.649736,55.042048],"type":"Point"}
+  "geometry": {"coordinates":[-1.649546,55.042227],"type":"Point"}
 }

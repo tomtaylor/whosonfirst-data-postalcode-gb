@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "uuuu",
-    "edtf:inception": "2014-08-01",
+    "edtf:inception": "2020-08-01",
     "geom:area": 0,
     "geom:bbox": "-1.430827,53.404257,-1.430827,53.404257",
     "geom:latitude": 53.404257,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      101750529, 
+      404227469, 
       85786005, 
       1360698591, 
       85633159, 
-      1360699075, 
-      101750529, 
-      404227469
+      1360699075
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 890252317,
-    "wof:lastmodified": 1583786199,
+    "wof:lastmodified": 1609868854,
     "wof:name": "S98 1HG",
     "wof:parent_id": 101750529,
     "wof:placetype": "postalcode",

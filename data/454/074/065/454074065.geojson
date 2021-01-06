@@ -2,7 +2,7 @@
   "id": 454074065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-08-01",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:bbox": "-3.160749,54.824854,-3.160749,54.824854",
@@ -10,7 +10,7 @@
     "geom:longitude": -3.160749,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000006",
     "os:district_code": "E07000026",
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      101873417, 
+      404227469, 
       1360698721, 
       85633159, 
       1360698877, 
-      404443393, 
-      101873417, 
-      404227469
+      404443393
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454074065,
-    "wof:lastmodified": 1583786296,
+    "wof:lastmodified": 1609869668,
     "wof:name": "CA7 9DU",
     "wof:parent_id": 101873417,
     "wof:placetype": "postalcode",

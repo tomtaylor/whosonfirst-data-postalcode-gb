@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2003-03-01",
     "geom:area": 0,
-    "geom:bbox": "-2.022124,52.699293,-2.022124,52.699293",
-    "geom:latitude": 52.699293,
-    "geom:longitude": -2.022124,
+    "geom:bbox": "-2.022046,52.699336,-2.022046,52.699336",
+    "geom:latitude": 52.699336,
+    "geom:longitude": -2.022046,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,11 +18,11 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698593, 
       85633159, 
       1360698947, 
       101750497, 
-      404227469
+      404227469, 
+      1360698593
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -30,7 +30,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701298,
-    "wof:geomhash": "545662fa9473604c2cd2e0125c5566a2",
+    "wof:geomhash": "dc4d61f9488652bd13ac5ac7008bc745",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -41,7 +41,7 @@
       }
     ],
     "wof:id": 488185475,
-    "wof:lastmodified": 1583786306,
+    "wof:lastmodified": 1609879090,
     "wof:name": "WS11 5QJ",
     "wof:parent_id": 101750497,
     "wof:placetype": "postalcode",
@@ -51,10 +51,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.022124, 
-    52.699293, 
-    -2.022124, 
-    52.699293
+    -2.022046, 
+    52.699336, 
+    -2.022046, 
+    52.699336
   ],
-  "geometry": {"coordinates":[-2.022124,52.699293],"type":"Point"}
+  "geometry": {"coordinates":[-2.022046,52.699336],"type":"Point"}
 }

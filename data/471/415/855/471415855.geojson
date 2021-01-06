@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.102011,50.487491,-4.102011,50.487491",
-    "geom:latitude": 50.487491,
-    "geom:longitude": -4.102011,
+    "geom:bbox": "-4.100178,50.487828,-4.100178,50.487828",
+    "geom:latitude": 50.487828,
+    "geom:longitude": -4.100178,
     "gp:parent_id": "41374",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699081, 
-      404439053, 
-      1126010411, 
       404227469, 
       1360698541, 
-      85633159
+      85633159, 
+      1360699081, 
+      404439053, 
+      1126010411
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701573,
-    "wof:geomhash": "dd524d2deb78c1be983d99d5fde8e8fd",
+    "wof:geomhash": "c84eae9cfc83666af1337c70fc206c93",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471415855,
-    "wof:lastmodified": 1583786732,
+    "wof:lastmodified": 1609891201,
     "wof:name": "PL20 6BU",
     "wof:parent_id": 404439053,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.102011, 
-    50.487491, 
-    -4.102011, 
-    50.487491
+    -4.100178, 
+    50.487828, 
+    -4.100178, 
+    50.487828
   ],
-  "geometry": {"coordinates":[-4.102011,50.487491],"type":"Point"}
+  "geometry": {"coordinates":[-4.100178,50.487828],"type":"Point"}
 }

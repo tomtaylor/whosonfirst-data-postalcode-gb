@@ -2,33 +2,33 @@
   "id": 1160937592,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2019-08-01",
-    "edtf:inception": "2019-05-01",
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-08-01",
     "geom:area": 0,
-    "geom:bbox": "-0.738124,51.977020,-0.738124,51.977020",
-    "geom:latitude": 51.97702,
-    "geom:longitude": -0.738124,
+    "geom:bbox": "-0.742361,51.976526,-0.742361,51.976526",
+    "geom:latitude": 51.976526,
+    "geom:longitude": -0.742361,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000042",
-    "os:positional_quality_indicator": "5",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1360758809, 
+      404227469, 
       1360698533, 
       85633159, 
       1360698913, 
-      404436695, 
-      1360758809, 
-      404227469
+      404436695
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583796667,
-    "wof:geomhash": "399889ae35341d2c7bd117853d4f5d4d",
+    "wof:geomhash": "57346bf52fd6bd1421635f503ce0d198",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160937592,
-    "wof:lastmodified": 1583796667,
+    "wof:lastmodified": 1609872864,
     "wof:name": "MK3 5RJ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.738124, 
-    51.97702, 
-    -0.738124, 
-    51.97702
+    -0.742361, 
+    51.976526, 
+    -0.742361, 
+    51.976526
   ],
-  "geometry": {"coordinates":[-0.738124,51.97702],"type":"Point"}
+  "geometry": {"coordinates":[-0.742361,51.976526],"type":"Point"}
 }

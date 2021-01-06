@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1991-09-01",
     "geom:area": 0,
-    "geom:bbox": "-0.756654,51.402352,-0.756654,51.402352",
-    "geom:latitude": 51.402352,
-    "geom:longitude": -0.756654,
+    "geom:bbox": "-0.756667,51.402300,-0.756667,51.402300",
+    "geom:latitude": 51.4023,
+    "geom:longitude": -0.756667,
     "gp:parent_id": "13505",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404432267, 
-      101750375, 
       404227469, 
       1360698529, 
       85633159, 
-      1360699013
+      1360699013, 
+      404432267, 
+      101750375
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701658,
-    "wof:geomhash": "497b6f2bbbb2dfa8e188215929aae149",
+    "wof:geomhash": "7fe1703dfd3c53d13f36f1855b72f452",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471523989,
-    "wof:lastmodified": 1583786789,
+    "wof:lastmodified": 1609895368,
     "wof:name": "RG12 7JY",
     "wof:parent_id": 101750375,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.756654, 
-    51.402352, 
-    -0.756654, 
-    51.402352
+    -0.756667, 
+    51.4023, 
+    -0.756667, 
+    51.4023
   ],
-  "geometry": {"coordinates":[-0.756654,51.402352],"type":"Point"}
+  "geometry": {"coordinates":[-0.756667,51.4023],"type":"Point"}
 }

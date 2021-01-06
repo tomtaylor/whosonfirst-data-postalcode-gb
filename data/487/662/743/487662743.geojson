@@ -2,7 +2,7 @@
   "id": 487662743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-07-01",
     "edtf:inception": "2006-07-01",
     "geom:area": 0,
     "geom:bbox": "-1.333286,54.757941,-1.333286,54.757941",
@@ -10,7 +10,7 @@
     "geom:longitude": -1.333286,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000047",
@@ -18,12 +18,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      404449301, 
       101873365, 
       404227469, 
       1360698621, 
       85633159, 
-      1360699055
+      1360699055, 
+      404449301
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 487662743,
-    "wof:lastmodified": 1583786204,
+    "wof:lastmodified": 1609871365,
     "wof:name": "SR8 9AN",
     "wof:parent_id": 404449301,
     "wof:placetype": "postalcode",

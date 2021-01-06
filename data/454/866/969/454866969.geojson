@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1986-07-01",
     "geom:area": 0,
-    "geom:bbox": "0.979005,52.195342,0.979005,52.195342",
-    "geom:latitude": 52.195342,
-    "geom:longitude": 0.979005,
+    "geom:bbox": "0.978990,52.195343,0.978990,52.195343",
+    "geom:latitude": 52.195343,
+    "geom:longitude": 0.97899,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698595, 
-      85633159, 
-      1360699041, 
       404430671, 
       101854865, 
-      404227469
+      404227469, 
+      1360698595, 
+      85633159, 
+      1360699041
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701744,
-    "wof:geomhash": "9615fd3c03cb59b31509ccb915a7f3f0",
+    "wof:geomhash": "12baf7732cf8b14ed339bf0e6ab89cbf",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454866969,
-    "wof:lastmodified": 1583786872,
+    "wof:lastmodified": 1609903879,
     "wof:name": "IP14 1UA",
     "wof:parent_id": 404430671,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.979005, 
-    52.195342, 
-    0.979005, 
-    52.195342
+    0.97899, 
+    52.195343, 
+    0.97899, 
+    52.195343
   ],
-  "geometry": {"coordinates":[0.979005,52.195342],"type":"Point"}
+  "geometry": {"coordinates":[0.97899,52.195343],"type":"Point"}
 }

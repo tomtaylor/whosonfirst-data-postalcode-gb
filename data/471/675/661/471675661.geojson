@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.475786,53.549934,-1.475786,53.549934",
-    "geom:latitude": 53.549934,
-    "geom:longitude": -1.475786,
+    "geom:bbox": "-1.475936,53.549980,-1.475936,53.549980",
+    "geom:latitude": 53.54998,
+    "geom:longitude": -1.475936,
     "gp:parent_id": "11916",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698591, 
       85633159, 
       1360699091, 
-      1125860113, 
-      404227469, 
-      1360698591
+      1125860113
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701695,
-    "wof:geomhash": "2046433d0e88378c478dd8e7da79d746",
+    "wof:geomhash": "9ca8df578cfcea175afcb3a33fe773c9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 471675661,
-    "wof:lastmodified": 1583786880,
+    "wof:lastmodified": 1609900683,
     "wof:name": "S70 1TH",
     "wof:parent_id": 101750543,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.475786, 
-    53.549934, 
-    -1.475786, 
-    53.549934
+    -1.475936, 
+    53.54998, 
+    -1.475936, 
+    53.54998
   ],
-  "geometry": {"coordinates":[-1.475786,53.549934],"type":"Point"}
+  "geometry": {"coordinates":[-1.475936,53.54998],"type":"Point"}
 }

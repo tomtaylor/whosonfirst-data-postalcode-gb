@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1996-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.106281,57.141837,-2.106281,57.141837",
-    "geom:latitude": 57.141837,
-    "geom:longitude": -2.106281,
+    "geom:bbox": "-2.106289,57.141875,-2.106289,57.141875",
+    "geom:latitude": 57.141875,
+    "geom:longitude": -2.106289,
     "gp:parent_id": "12696182",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698709, 
-      85633159, 
       1360698989, 
       404429183, 
       101750639, 
-      404227471
+      404227471, 
+      1360698709, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701547,
-    "wof:geomhash": "c26c22f0075e61a00b4985d9f29223f2",
+    "wof:geomhash": "8abd201c7fd57a450d64c5f8f2e93319",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488534109,
-    "wof:lastmodified": 1583786747,
+    "wof:lastmodified": 1609895630,
     "wof:name": "AB11 6DN",
     "wof:parent_id": 101750639,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.106281, 
-    57.141837, 
-    -2.106281, 
-    57.141837
+    -2.106289, 
+    57.141875, 
+    -2.106289, 
+    57.141875
   ],
-  "geometry": {"coordinates":[-2.106281,57.141837],"type":"Point"}
+  "geometry": {"coordinates":[-2.106289,57.141875],"type":"Point"}
 }

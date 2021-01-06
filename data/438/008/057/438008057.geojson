@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.046687,52.454994,-2.046687,52.454994",
-    "geom:latitude": 52.454994,
+    "geom:bbox": "-2.046687,52.455039,-2.046687,52.455039",
+    "geom:latitude": 52.455039,
     "geom:longitude": -2.046687,
     "gp:parent_id": "22165",
     "iso:country": "GB",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1126020695, 
-      404227469, 
       1360698605, 
       85633159, 
       1360698933, 
-      1360817295
+      1360817295, 
+      1126020695, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701072,
-    "wof:geomhash": "decc961030c7abc834e5fe95077688a6",
+    "wof:geomhash": "fb089f21ce1f3b123eb38d5ec3a05743",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438008057,
-    "wof:lastmodified": 1583786363,
+    "wof:lastmodified": 1609868717,
     "wof:name": "B63 3LW",
     "wof:parent_id": 101914027,
     "wof:placetype": "postalcode",
@@ -55,9 +55,9 @@
   },
   "bbox": [
     -2.046687, 
-    52.454994, 
+    52.455039, 
     -2.046687, 
-    52.454994
+    52.455039
   ],
-  "geometry": {"coordinates":[-2.046687,52.454994],"type":"Point"}
+  "geometry": {"coordinates":[-2.046687,52.455039],"type":"Point"}
 }

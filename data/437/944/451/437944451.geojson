@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.351873,51.754328,-0.351873,51.754328",
-    "geom:latitude": 51.754328,
-    "geom:longitude": -0.351873,
+    "geom:bbox": "-0.351814,51.754346,-0.351814,51.754346",
+    "geom:latitude": 51.754346,
+    "geom:longitude": -0.351814,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,11 +18,11 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698763, 
+      101750419, 
       404227469, 
       1360698559, 
-      85633159, 
-      1360698763, 
-      101750419
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -30,7 +30,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701643,
-    "wof:geomhash": "ff1b1fa232a25654571c59257b91740d",
+    "wof:geomhash": "d1f70afb40efe103255adda20b6c9882",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -41,7 +41,7 @@
       }
     ],
     "wof:id": 437944451,
-    "wof:lastmodified": 1583786809,
+    "wof:lastmodified": 1609896671,
     "wof:name": "AL3 4SD",
     "wof:parent_id": 101750419,
     "wof:placetype": "postalcode",
@@ -51,10 +51,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.351873, 
-    51.754328, 
-    -0.351873, 
-    51.754328
+    -0.351814, 
+    51.754346, 
+    -0.351814, 
+    51.754346
   ],
-  "geometry": {"coordinates":[-0.351873,51.754328],"type":"Point"}
+  "geometry": {"coordinates":[-0.351814,51.754346],"type":"Point"}
 }

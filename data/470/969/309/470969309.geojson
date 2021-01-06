@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.907093,51.945288,-0.907093,51.945288",
-    "geom:latitude": 51.945288,
-    "geom:longitude": -0.907093,
+    "geom:bbox": "-0.907073,51.945297,-0.907073,51.945297",
+    "geom:latitude": 51.945297,
+    "geom:longitude": -0.907073,
     "gp:parent_id": "10408",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698997, 
       404447585, 
       1126058597, 
       404227469, 
-      1360698533
+      1360698533, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701347,
-    "wof:geomhash": "865818e79773a631f0642b699714490d",
+    "wof:geomhash": "d2c2c7b069b54288e7d496c52f5a15a1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470969309,
-    "wof:lastmodified": 1595719138,
+    "wof:lastmodified": 1609877572,
     "wof:name": "MK18 2JX",
     "wof:parent_id": 404447585,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.907093, 
-    51.945288, 
-    -0.907093, 
-    51.945288
+    -0.907073, 
+    51.945297, 
+    -0.907073, 
+    51.945297
   ],
-  "geometry": {"coordinates":[-0.907093,51.945288],"type":"Point"}
+  "geometry": {"coordinates":[-0.907073,51.945297],"type":"Point"}
 }

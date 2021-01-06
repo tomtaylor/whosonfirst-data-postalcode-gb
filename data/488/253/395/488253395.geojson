@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1998-06-01",
     "geom:area": 0,
-    "geom:bbox": "-0.901534,53.865044,-0.901534,53.865044",
-    "geom:latitude": 53.865044,
-    "geom:longitude": -0.901534,
+    "geom:bbox": "-0.901450,53.863886,-0.901450,53.863886",
+    "geom:latitude": 53.863886,
+    "geom:longitude": -0.90145,
     "gp:parent_id": "19479",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699001, 
       404435395, 
       1344085431, 
       404227469, 
-      1360698547
+      1360698547, 
+      85633159, 
+      1360699001
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701225,
-    "wof:geomhash": "d64fbb1756cdfa699aee8a6420c02c83",
+    "wof:geomhash": "d7a3af4da69502746af41c422e5eb3c9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488253395,
-    "wof:lastmodified": 1583786454,
+    "wof:lastmodified": 1609882623,
     "wof:name": "YO42 4PU",
     "wof:parent_id": 404435395,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.901534, 
-    53.865044, 
-    -0.901534, 
-    53.865044
+    -0.90145, 
+    53.863886, 
+    -0.90145, 
+    53.863886
   ],
-  "geometry": {"coordinates":[-0.901534,53.865044],"type":"Point"}
+  "geometry": {"coordinates":[-0.90145,53.863886],"type":"Point"}
 }

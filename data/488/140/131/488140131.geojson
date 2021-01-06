@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2003-04-01",
     "geom:area": 0,
-    "geom:bbox": "-1.576598,53.681129,-1.576598,53.681129",
-    "geom:latitude": 53.681129,
-    "geom:longitude": -1.576598,
+    "geom:bbox": "-1.576534,53.681434,-1.576534,53.681434",
+    "geom:latitude": 53.681434,
+    "geom:longitude": -1.576534,
     "gp:parent_id": "31138",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698945, 
-      1360817491, 
       1126021827, 
       404227469, 
-      1360698609
+      1360698609, 
+      85633159, 
+      1360698945, 
+      1360817491
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701271,
-    "wof:geomhash": "ff62dddc124c870c7e9e4b2d5921d550",
+    "wof:geomhash": "bbd19a1321661354ef40e6dddef115db",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488140131,
-    "wof:lastmodified": 1583786418,
+    "wof:lastmodified": 1609876204,
     "wof:name": "WF5 9HZ",
     "wof:parent_id": 101914013,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.576598, 
-    53.681129, 
-    -1.576598, 
-    53.681129
+    -1.576534, 
+    53.681434, 
+    -1.576534, 
+    53.681434
   ],
-  "geometry": {"coordinates":[-1.576598,53.681129],"type":"Point"}
+  "geometry": {"coordinates":[-1.576534,53.681434],"type":"Point"}
 }

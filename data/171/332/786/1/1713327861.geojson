@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "-1.436463,51.210009,-1.436463,51.210009",
-    "geom:latitude": 51.210009,
-    "geom:longitude": -1.436463,
+    "geom:bbox": "-1.436732,51.210244,-1.436732,51.210244",
+    "geom:latitude": 51.210244,
+    "geom:longitude": -1.436732,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698827, 
       404442543, 
       101750345, 
       404227469, 
-      1360698557
+      1360698557, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735505,
-    "wof:geomhash": "fc6bb792f14474f2537611cc61e441bc",
+    "wof:geomhash": "075073482decf1d4d7d330b4bc064ac0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1713327861,
-    "wof:lastmodified": 1595753345,
+    "wof:lastmodified": 1609875255,
     "wof:name": "SP11 6BF",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.436463, 
-    51.210009, 
-    -1.436463, 
-    51.210009
+    -1.436732, 
+    51.210244, 
+    -1.436732, 
+    51.210244
   ],
-  "geometry": {"coordinates":[-1.436463,51.210009],"type":"Point"}
+  "geometry": {"coordinates":[-1.436732,51.210244],"type":"Point"}
 }

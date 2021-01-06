@@ -19,12 +19,13 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      101750579, 
+      1360698749, 
+      404438959, 
+      1360755055, 
       404227469, 
       85791611, 
       1360698609, 
-      85633159, 
-      1360698749
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -37,14 +38,15 @@
       {
         "country_id": 85633159,
         "county_id": 1360698749,
-        "locality_id": 101750579,
+        "localadmin_id": 404438959,
+        "locality_id": 1360755055,
         "macroregion_id": 404227469,
         "neighbourhood_id": 85791611,
         "region_id": 1360698609
       }
     ],
     "wof:id": 455081493,
-    "wof:lastmodified": 1595718609,
+    "wof:lastmodified": 1609871640,
     "wof:name": "LS15 4NA",
     "wof:parent_id": 404432293,
     "wof:placetype": "postalcode",

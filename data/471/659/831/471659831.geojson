@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1999-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.486819,53.389904,-1.486819,53.389904",
-    "geom:latitude": 53.389904,
-    "geom:longitude": -1.486819,
+    "geom:bbox": "-1.486849,53.389895,-1.486849,53.389895",
+    "geom:latitude": 53.389895,
+    "geom:longitude": -1.486849,
     "gp:parent_id": "34503",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      101750529, 
       404227469, 
       85789265, 
       1360698591, 
       85633159, 
-      1360699075
+      1360699075, 
+      101750529
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701684,
-    "wof:geomhash": "7357cc58286486ed797aea561db7c2b6",
+    "wof:geomhash": "7b394eb720adadf3f82cd410e7304326",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471659831,
-    "wof:lastmodified": 1583786872,
+    "wof:lastmodified": 1609900334,
     "wof:name": "S6 3FT",
     "wof:parent_id": 101750529,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.486819, 
-    53.389904, 
-    -1.486819, 
-    53.389904
+    -1.486849, 
+    53.389895, 
+    -1.486849, 
+    53.389895
   ],
-  "geometry": {"coordinates":[-1.486819,53.389904],"type":"Point"}
+  "geometry": {"coordinates":[-1.486849,53.389895],"type":"Point"}
 }

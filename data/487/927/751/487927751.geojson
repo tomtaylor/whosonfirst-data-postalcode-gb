@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-5.189406,50.303529,-5.189406,50.303529",
-    "geom:latitude": 50.303529,
-    "geom:longitude": -5.189406,
+    "geom:bbox": "-5.189235,50.303633,-5.189235,50.303633",
+    "geom:latitude": 50.303633,
+    "geom:longitude": -5.189235,
     "gp:parent_id": "21357",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698623, 
       85633159, 
       1360699085, 
       404429327, 
-      101852399, 
-      404227469, 
-      1360698623
+      101852399
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701267,
-    "wof:geomhash": "e51980d225f7400079c69a4a68a63ed9",
+    "wof:geomhash": "7c68f29a0ba8e4a59b1650962314b695",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487927751,
-    "wof:lastmodified": 1583786342,
+    "wof:lastmodified": 1609886908,
     "wof:name": "TR5 0PJ",
     "wof:parent_id": 404429327,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -5.189406, 
-    50.303529, 
-    -5.189406, 
-    50.303529
+    -5.189235, 
+    50.303633, 
+    -5.189235, 
+    50.303633
   ],
-  "geometry": {"coordinates":[-5.189406,50.303529],"type":"Point"}
+  "geometry": {"coordinates":[-5.189235,50.303633],"type":"Point"}
 }

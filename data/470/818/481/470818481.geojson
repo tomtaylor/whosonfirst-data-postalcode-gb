@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.702052,53.862087,-1.702052,53.862087",
-    "geom:latitude": 53.862087,
-    "geom:longitude": -1.702052,
+    "geom:bbox": "-1.702071,53.862111,-1.702071,53.862111",
+    "geom:latitude": 53.862111,
+    "geom:longitude": -1.702071,
     "gp:parent_id": "41355",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698609, 
-      85633159, 
       1360698749, 
       101750579, 
-      404227469
+      404227469, 
+      1360698609, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701092,
-    "wof:geomhash": "a4d6f49e08e0242dc496e3b2d358b7ee",
+    "wof:geomhash": "0b57f10ae35c839d52e430b578489c41",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 470818481,
-    "wof:lastmodified": 1583786347,
+    "wof:lastmodified": 1609868762,
     "wof:name": "LS19 7NJ",
     "wof:parent_id": 404432293,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.702052, 
-    53.862087, 
-    -1.702052, 
-    53.862087
+    -1.702071, 
+    53.862111, 
+    -1.702071, 
+    53.862111
   ],
-  "geometry": {"coordinates":[-1.702052,53.862087],"type":"Point"}
+  "geometry": {"coordinates":[-1.702071,53.862111],"type":"Point"}
 }

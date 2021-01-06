@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1987-02-01",
     "geom:area": 0,
-    "geom:bbox": "-3.897603,56.006637,-3.897603,56.006637",
-    "geom:latitude": 56.006637,
-    "geom:longitude": -3.897603,
+    "geom:bbox": "-3.897082,56.006612,-3.897082,56.006612",
+    "geom:latitude": 56.006612,
+    "geom:longitude": -3.897082,
     "gp:parent_id": "12696196",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698865, 
       404451599, 
       404227471, 
-      1360698655, 
-      85633159, 
-      1360698865
+      1360698655
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701115,
-    "wof:geomhash": "eb50c27f68b66592e35380bccecf199f",
+    "wof:geomhash": "9482f7e1bb6dfc4e2b1d56cf9d3e6a2f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504387023,
-    "wof:lastmodified": 1583786209,
+    "wof:lastmodified": 1609869111,
     "wof:name": "FK6 5LH",
     "wof:parent_id": 404451599,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.897603, 
-    56.006637, 
-    -3.897603, 
-    56.006637
+    -3.897082, 
+    56.006612, 
+    -3.897082, 
+    56.006612
   ],
-  "geometry": {"coordinates":[-3.897603,56.006637],"type":"Point"}
+  "geometry": {"coordinates":[-3.897082,56.006612],"type":"Point"}
 }

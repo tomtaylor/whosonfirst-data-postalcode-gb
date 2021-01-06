@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.959538,51.859204,0.959538,51.859204",
-    "geom:latitude": 51.859204,
-    "geom:longitude": 0.959538,
+    "geom:bbox": "0.959095,51.859101,0.959095,51.859101",
+    "geom:latitude": 51.859101,
+    "geom:longitude": 0.959095,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698979, 
-      404452499, 
-      101875443, 
       404227469, 
       1360698551, 
-      85633159
+      85633159, 
+      1360698979, 
+      404452499, 
+      101875443
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701359,
-    "wof:geomhash": "6bcb1906dd1c6caba6aa494db71810bb",
+    "wof:geomhash": "392043e53239f8d91df96b27acecac2c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454193801,
-    "wof:lastmodified": 1583786485,
+    "wof:lastmodified": 1609877489,
     "wof:name": "CO7 9AU",
     "wof:parent_id": 101875443,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.959538, 
-    51.859204, 
-    0.959538, 
-    51.859204
+    0.959095, 
+    51.859101, 
+    0.959095, 
+    51.859101
   ],
-  "geometry": {"coordinates":[0.959538,51.859204],"type":"Point"}
+  "geometry": {"coordinates":[0.959095,51.859101],"type":"Point"}
 }

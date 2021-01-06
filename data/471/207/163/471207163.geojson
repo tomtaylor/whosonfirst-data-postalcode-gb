@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.324755,52.619147,1.324755,52.619147",
-    "geom:latitude": 52.619147,
-    "geom:longitude": 1.324755,
+    "geom:bbox": "1.324801,52.619173,1.324801,52.619173",
+    "geom:latitude": 52.619173,
+    "geom:longitude": 1.324801,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698575, 
       85633159, 
       1360698955, 
       404438299, 
-      1360754049
+      1360754049, 
+      404227469, 
+      1360698575
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701397,
-    "wof:geomhash": "22c2db82e89d6d9b905a5f23d13ecb57",
+    "wof:geomhash": "8ba7c37a98b6a6ef4ac59b3258b83b3e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471207163,
-    "wof:lastmodified": 1583786553,
+    "wof:lastmodified": 1609880190,
     "wof:name": "NR14 8TS",
     "wof:parent_id": 404438299,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.324755, 
-    52.619147, 
-    1.324755, 
-    52.619147
+    1.324801, 
+    52.619173, 
+    1.324801, 
+    52.619173
   ],
-  "geometry": {"coordinates":[1.324755,52.619147],"type":"Point"}
+  "geometry": {"coordinates":[1.324801,52.619173],"type":"Point"}
 }

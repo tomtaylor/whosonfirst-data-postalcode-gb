@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.302233,55.820389,-4.302233,55.820389",
-    "geom:latitude": 55.820389,
-    "geom:longitude": -4.302233,
+    "geom:bbox": "-4.302445,55.819886,-4.302445,55.819886",
+    "geom:latitude": 55.819886,
+    "geom:longitude": -4.302445,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1175612707, 
       404227471, 
       85788971, 
       1360698707, 
       85633159, 
       1360698797, 
-      404430153
+      404430153, 
+      1175612707
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701156,
-    "wof:geomhash": "1894b232e95b31f80e1b6503b60bb7c4",
+    "wof:geomhash": "b914285cd99e0be38adb42eb01f05e13",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 504401399,
-    "wof:lastmodified": 1583786258,
+    "wof:lastmodified": 1609869581,
     "wof:name": "G43 1HR",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.302233, 
-    55.820389, 
-    -4.302233, 
-    55.820389
+    -4.302445, 
+    55.819886, 
+    -4.302445, 
+    55.819886
   ],
-  "geometry": {"coordinates":[-4.302233,55.820389],"type":"Point"}
+  "geometry": {"coordinates":[-4.302445,55.819886],"type":"Point"}
 }

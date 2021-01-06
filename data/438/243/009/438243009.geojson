@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.181521,50.933884,-0.181521,50.933884",
-    "geom:latitude": 50.933884,
-    "geom:longitude": -0.181521,
+    "geom:bbox": "-0.181506,50.933901,-0.181506,50.933901",
+    "geom:latitude": 50.933901,
+    "geom:longitude": -0.181506,
     "gp:parent_id": "24217",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698607, 
-      85633159, 
       1360698757, 
       404436065, 
       1360758205, 
-      404227469
+      404227469, 
+      1360698607, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701429,
-    "wof:geomhash": "4ea18cd509ecdee9244207d0f31e2b26",
+    "wof:geomhash": "6f0e826e3e8bec8e76126c56316febde",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438243009,
-    "wof:lastmodified": 1583786560,
+    "wof:lastmodified": 1609881712,
     "wof:name": "BN6 9TY",
     "wof:parent_id": 404436065,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.181521, 
-    50.933884, 
-    -0.181521, 
-    50.933884
+    -0.181506, 
+    50.933901, 
+    -0.181506, 
+    50.933901
   ],
-  "geometry": {"coordinates":[-0.181521,50.933884],"type":"Point"}
+  "geometry": {"coordinates":[-0.181506,50.933901],"type":"Point"}
 }

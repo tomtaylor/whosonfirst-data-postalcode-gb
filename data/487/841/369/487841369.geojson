@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.181563,51.284015,0.181563,51.284015",
-    "geom:latitude": 51.284015,
-    "geom:longitude": 0.181563,
+    "geom:bbox": "0.181806,51.284010,0.181806,51.284010",
+    "geom:latitude": 51.28401,
+    "geom:longitude": 0.181806,
     "gp:parent_id": "34397",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698811, 
+      404454891, 
       101875411, 
       404227469, 
       1360698565, 
-      85633159, 
-      1360698811, 
-      404454891
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701203,
-    "wof:geomhash": "54749bd80c9b75c35f365a13b8131a09",
+    "wof:geomhash": "7e6b2235451d44cf4c5e618e5f4a610e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487841369,
-    "wof:lastmodified": 1583786298,
+    "wof:lastmodified": 1609882736,
     "wof:name": "TN13 3HN",
     "wof:parent_id": 101875411,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.181563, 
-    51.284015, 
-    0.181563, 
-    51.284015
+    0.181806, 
+    51.28401, 
+    0.181806, 
+    51.28401
   ],
-  "geometry": {"coordinates":[0.181563,51.284015],"type":"Point"}
+  "geometry": {"coordinates":[0.181806,51.28401],"type":"Point"}
 }

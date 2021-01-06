@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.064665,54.857906,-3.064665,54.857906",
-    "geom:latitude": 54.857906,
-    "geom:longitude": -3.064665,
+    "geom:bbox": "-3.064353,54.857900,-3.064353,54.857900",
+    "geom:latitude": 54.8579,
+    "geom:longitude": -3.064353,
     "gp:parent_id": "21699",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360698877, 
       404452477, 
       1360758207, 
       404227469, 
-      1360698721, 
-      85633159
+      1360698721
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701139,
-    "wof:geomhash": "50d461a75b9bed83ee48edea19d07cd8",
+    "wof:geomhash": "51ec3b054cc0f5b63452bad52a858d8d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454070153,
-    "wof:lastmodified": 1583786282,
+    "wof:lastmodified": 1609869521,
     "wof:name": "CA5 6LW",
     "wof:parent_id": 404452477,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.064665, 
-    54.857906, 
-    -3.064665, 
-    54.857906
+    -3.064353, 
+    54.8579, 
+    -3.064353, 
+    54.8579
   ],
-  "geometry": {"coordinates":[-3.064665,54.857906],"type":"Point"}
+  "geometry": {"coordinates":[-3.064353,54.8579],"type":"Point"}
 }

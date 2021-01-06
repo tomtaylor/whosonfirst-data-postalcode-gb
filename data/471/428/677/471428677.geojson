@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.726770,50.620790,-4.726770,50.620790",
-    "geom:latitude": 50.62079,
-    "geom:longitude": -4.72677,
+    "geom:bbox": "-4.726780,50.620791,-4.726780,50.620791",
+    "geom:latitude": 50.620791,
+    "geom:longitude": -4.72678,
     "gp:parent_id": "18045",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698623, 
-      85633159, 
       1360699085, 
       404439899, 
-      1126013449
+      1126013449, 
+      404227469, 
+      1360698623, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701596,
-    "wof:geomhash": "3c0bbb63c3571f29add5551341aaca0d",
+    "wof:geomhash": "dbd7bafbe47c6e0df09cd1e2a53a91d0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471428677,
-    "wof:lastmodified": 1583786738,
+    "wof:lastmodified": 1609891979,
     "wof:name": "PL33 9AU",
     "wof:parent_id": 404439899,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.72677, 
-    50.62079, 
-    -4.72677, 
-    50.62079
+    -4.72678, 
+    50.620791, 
+    -4.72678, 
+    50.620791
   ],
-  "geometry": {"coordinates":[-4.72677,50.62079],"type":"Point"}
+  "geometry": {"coordinates":[-4.72678,50.620791],"type":"Point"}
 }

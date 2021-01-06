@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.815762,51.612944,-1.815762,51.612944",
-    "geom:latitude": 51.612944,
-    "geom:longitude": -1.815762,
+    "geom:bbox": "-1.815719,51.612917,-1.815719,51.612917",
+    "geom:latitude": 51.612917,
+    "geom:longitude": -1.815719,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699033, 
-      404455227, 
-      1125839305, 
       404227469, 
       1360698611, 
-      85633159
+      85633159, 
+      1360699033, 
+      404455227, 
+      1125839305
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583787472,
-    "wof:geomhash": "82253bb163fadfd1f6716e626bd69bd2",
+    "wof:geomhash": "1ef2992d654db3ef0cc82fa79b0c7def",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160731784,
-    "wof:lastmodified": 1595710803,
+    "wof:lastmodified": 1609869112,
     "wof:name": "SN25 2TP",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.815762, 
-    51.612944, 
-    -1.815762, 
-    51.612944
+    -1.815719, 
+    51.612917, 
+    -1.815719, 
+    51.612917
   ],
-  "geometry": {"coordinates":[-1.815762,51.612944],"type":"Point"}
+  "geometry": {"coordinates":[-1.815719,51.612917],"type":"Point"}
 }

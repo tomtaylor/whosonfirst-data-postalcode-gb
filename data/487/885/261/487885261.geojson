@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.517925,50.477281,-3.517925,50.477281",
-    "geom:latitude": 50.477281,
-    "geom:longitude": -3.517925,
+    "geom:bbox": "-3.517523,50.477034,-3.517523,50.477034",
+    "geom:latitude": 50.477034,
+    "geom:longitude": -3.517523,
     "gp:parent_id": "37818",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698541, 
+      85633159, 
       1360699071, 
       1360817197, 
       101751577, 
-      404227469, 
-      1360698541, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701230,
-    "wof:geomhash": "2177de976866a5a6205d652330a7331e",
+    "wof:geomhash": "f7eb4f8abbb53c560eb6c89254d1ee57",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487885261,
-    "wof:lastmodified": 1583786319,
+    "wof:lastmodified": 1609884966,
     "wof:name": "TQ1 3QT",
     "wof:parent_id": 101751577,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.517925, 
-    50.477281, 
-    -3.517925, 
-    50.477281
+    -3.517523, 
+    50.477034, 
+    -3.517523, 
+    50.477034
   ],
-  "geometry": {"coordinates":[-3.517925,50.477281],"type":"Point"}
+  "geometry": {"coordinates":[-3.517523,50.477034],"type":"Point"}
 }

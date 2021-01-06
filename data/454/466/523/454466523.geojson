@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.564400,50.670884,-2.564400,50.670884",
-    "geom:latitude": 50.670884,
-    "geom:longitude": -2.5644,
+    "geom:bbox": "-2.564684,50.671070,-2.564684,50.671070",
+    "geom:latitude": 50.67107,
+    "geom:longitude": -2.564684,
     "gp:parent_id": "32392",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698745, 
-      404454463, 
       1125871195, 
       404227469, 
       1360698545, 
-      85633159
+      85633159, 
+      1360698745, 
+      404454463
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701590,
-    "wof:geomhash": "acea61f1948848d08166605b1de4078b",
+    "wof:geomhash": "17b079eb0dc7970440cd7b4c5f70ade1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454466523,
-    "wof:lastmodified": 1583786718,
+    "wof:lastmodified": 1609890797,
     "wof:name": "DT3 4HB",
     "wof:parent_id": 404454463,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.5644, 
-    50.670884, 
-    -2.5644, 
-    50.670884
+    -2.564684, 
+    50.67107, 
+    -2.564684, 
+    50.67107
   ],
-  "geometry": {"coordinates":[-2.5644,50.670884],"type":"Point"}
+  "geometry": {"coordinates":[-2.564684,50.67107],"type":"Point"}
 }

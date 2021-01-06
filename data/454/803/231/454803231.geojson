@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.685012,52.218906,-2.685012,52.218906",
-    "geom:latitude": 52.218906,
-    "geom:longitude": -2.685012,
+    "geom:bbox": "-2.693256,52.220953,-2.693256,52.220953",
+    "geom:latitude": 52.220953,
+    "geom:longitude": -2.693256,
     "gp:parent_id": "23042",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698617, 
-      85633159, 
       1360699053, 
       404454041, 
       101853011, 
-      404227469
+      404227469, 
+      1360698617, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701725,
-    "wof:geomhash": "33e0029c7f72052c5919e15c214d24d1",
+    "wof:geomhash": "9a92136ec7d9ee6b60bcfb7c65737e0e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454803231,
-    "wof:lastmodified": 1583786860,
+    "wof:lastmodified": 1609902430,
     "wof:name": "HR6 0RH",
     "wof:parent_id": 404454041,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.685012, 
-    52.218906, 
-    -2.685012, 
-    52.218906
+    -2.693256, 
+    52.220953, 
+    -2.693256, 
+    52.220953
   ],
-  "geometry": {"coordinates":[-2.685012,52.218906],"type":"Point"}
+  "geometry": {"coordinates":[-2.693256,52.220953],"type":"Point"}
 }

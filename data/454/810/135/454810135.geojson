@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.148879,53.807723,-0.148879,53.807723",
-    "geom:latitude": 53.807723,
-    "geom:longitude": -0.148879,
+    "geom:bbox": "-0.148787,53.807740,-0.148787,53.807740",
+    "geom:latitude": 53.80774,
+    "geom:longitude": -0.148787,
     "gp:parent_id": "20319",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699001, 
-      404432143, 
       1243200975, 
       404227469, 
       1360698547, 
-      85633159
+      85633159, 
+      1360699001, 
+      404432143
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701725,
-    "wof:geomhash": "4ff7054a71624ee4b684b253546bc0df",
+    "wof:geomhash": "379d00c7fdda4ea01a2930d9e5a55073",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454810135,
-    "wof:lastmodified": 1583786861,
+    "wof:lastmodified": 1609902618,
     "wof:name": "HU11 4NG",
     "wof:parent_id": 404432143,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.148879, 
-    53.807723, 
-    -0.148879, 
-    53.807723
+    -0.148787, 
+    53.80774, 
+    -0.148787, 
+    53.80774
   ],
-  "geometry": {"coordinates":[-0.148879,53.807723],"type":"Point"}
+  "geometry": {"coordinates":[-0.148787,53.80774],"type":"Point"}
 }

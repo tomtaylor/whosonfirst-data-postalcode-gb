@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.214542,51.984637,0.214542,51.984637",
-    "geom:latitude": 51.984637,
-    "geom:longitude": 0.214542,
+    "geom:bbox": "0.214516,51.984700,0.214516,51.984700",
+    "geom:latitude": 51.9847,
+    "geom:longitude": 0.214516,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698551, 
       85633159, 
       1360698979, 
       404446045, 
-      101854745
+      101854745, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701167,
-    "wof:geomhash": "5e280903065e16847ba0a2ca2ec3832f",
+    "wof:geomhash": "bed32696cbf8315e548f1ba67365aff5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454079735,
-    "wof:lastmodified": 1583786310,
+    "wof:lastmodified": 1609869894,
     "wof:name": "CB11 3QZ",
     "wof:parent_id": 101854745,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.214542, 
-    51.984637, 
-    0.214542, 
-    51.984637
+    0.214516, 
+    51.9847, 
+    0.214516, 
+    51.9847
   ],
-  "geometry": {"coordinates":[0.214542,51.984637],"type":"Point"}
+  "geometry": {"coordinates":[0.214516,51.9847],"type":"Point"}
 }

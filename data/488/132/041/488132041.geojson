@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.547666,53.703361,-1.547666,53.703361",
-    "geom:latitude": 53.703361,
-    "geom:longitude": -1.547666,
+    "geom:bbox": "-1.547546,53.703529,-1.547546,53.703529",
+    "geom:latitude": 53.703529,
+    "geom:longitude": -1.547546,
     "gp:parent_id": "25394",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698609, 
       85633159, 
       1360698945, 
       1360817491, 
       101751637, 
-      404227469, 
-      1360698609
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701264,
-    "wof:geomhash": "1e199a4261e15bd1f192f6a5e1bda026",
+    "wof:geomhash": "77821513ff2ccc71d29d19eb8fd46732",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488132041,
-    "wof:lastmodified": 1583786415,
+    "wof:lastmodified": 1609875461,
     "wof:name": "WF2 0RP",
     "wof:parent_id": 404438631,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.547666, 
-    53.703361, 
-    -1.547666, 
-    53.703361
+    -1.547546, 
+    53.703529, 
+    -1.547546, 
+    53.703529
   ],
-  "geometry": {"coordinates":[-1.547666,53.703361],"type":"Point"}
+  "geometry": {"coordinates":[-1.547546,53.703529],"type":"Point"}
 }

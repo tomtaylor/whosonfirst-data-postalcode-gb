@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "-0.098655,50.980120,-0.098655,50.980120",
-    "geom:latitude": 50.98012,
-    "geom:longitude": -0.098655,
+    "geom:bbox": "-0.098962,50.979945,-0.098962,50.979945",
+    "geom:latitude": 50.979945,
+    "geom:longitude": -0.098962,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698757, 
-      404445831, 
       1293524743, 
       404227469, 
       1360698607, 
-      85633159
+      85633159, 
+      1360698757, 
+      404445831
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583792132,
-    "wof:geomhash": "3ebb5d6690c8896d4bb54ad044491df9",
+    "wof:geomhash": "981d47c834faee25ca61c63ce3e25302",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160837186,
-    "wof:lastmodified": 1595711032,
+    "wof:lastmodified": 1609870758,
     "wof:name": "RH16 4EZ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.098655, 
-    50.98012, 
-    -0.098655, 
-    50.98012
+    -0.098962, 
+    50.979945, 
+    -0.098962, 
+    50.979945
   ],
-  "geometry": {"coordinates":[-0.098655,50.98012],"type":"Point"}
+  "geometry": {"coordinates":[-0.098962,50.979945],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1998-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.283333,54.053538,-1.283333,54.053538",
-    "geom:latitude": 54.053538,
-    "geom:longitude": -1.283333,
+    "geom:bbox": "-1.285031,54.053396,-1.285031,54.053396",
+    "geom:latitude": 54.053396,
+    "geom:longitude": -1.285031,
     "gp:parent_id": "26585",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698753, 
-      404450427, 
-      1125973473, 
       404227469, 
       1360698619, 
-      85633159
+      85633159, 
+      1360698753, 
+      404450427, 
+      1125973473
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701207,
-    "wof:geomhash": "10c0b5dcc745841d086919da43027ab4",
+    "wof:geomhash": "a16e5b1bce3938dca427cb8513d12b1d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488246419,
-    "wof:lastmodified": 1583786444,
+    "wof:lastmodified": 1609882122,
     "wof:name": "YO26 9SL",
     "wof:parent_id": 404450427,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.283333, 
-    54.053538, 
-    -1.283333, 
-    54.053538
+    -1.285031, 
+    54.053396, 
+    -1.285031, 
+    54.053396
   ],
-  "geometry": {"coordinates":[-1.283333,54.053538],"type":"Point"}
+  "geometry": {"coordinates":[-1.285031,54.053396],"type":"Point"}
 }

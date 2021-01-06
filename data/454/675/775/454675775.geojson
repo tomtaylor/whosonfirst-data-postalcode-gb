@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.705070,51.246819,-0.705070,51.246819",
-    "geom:latitude": 51.246819,
-    "geom:longitude": -0.70507,
+    "geom:bbox": "-0.705195,51.246964,-0.705195,51.246964",
+    "geom:latitude": 51.246964,
+    "geom:longitude": -0.705195,
     "gp:parent_id": "11100",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404429779, 
       1360753395, 
       404227469, 
       1360698599, 
       85633159, 
-      1360698887
+      1360698887, 
+      404429779
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701690,
-    "wof:geomhash": "1bfb4ac06807ae06a381df3ef7f34051",
+    "wof:geomhash": "efc1cd7a119f1ffd43dae012589c06ee",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454675775,
-    "wof:lastmodified": 1583786828,
+    "wof:lastmodified": 1609899449,
     "wof:name": "GU12 6JL",
     "wof:parent_id": 404429779,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.70507, 
-    51.246819, 
-    -0.70507, 
-    51.246819
+    -0.705195, 
+    51.246964, 
+    -0.705195, 
+    51.246964
   ],
-  "geometry": {"coordinates":[-0.70507,51.246819],"type":"Point"}
+  "geometry": {"coordinates":[-0.705195,51.246964],"type":"Point"}
 }

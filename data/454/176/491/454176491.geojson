@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.278537,51.856023,1.278537,51.856023",
-    "geom:latitude": 51.856023,
-    "geom:longitude": 1.278537,
+    "geom:bbox": "1.278548,51.855978,1.278548,51.855978",
+    "geom:latitude": 51.855978,
+    "geom:longitude": 1.278548,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360758743, 
-      404227469, 
-      1360698551, 
       85633159, 
       1360698979, 
-      404444203
+      404444203, 
+      1360758743, 
+      404227469, 
+      1360698551
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701337,
-    "wof:geomhash": "765b847cac5e460035ef68c54b33c687",
+    "wof:geomhash": "f67e9c70dc114ab763eb7d946172457a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454176491,
-    "wof:lastmodified": 1595712741,
+    "wof:lastmodified": 1609876379,
     "wof:name": "CO14 8HD",
     "wof:parent_id": 404444203,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.278537, 
-    51.856023, 
-    1.278537, 
-    51.856023
+    1.278548, 
+    51.855978, 
+    1.278548, 
+    51.855978
   ],
-  "geometry": {"coordinates":[1.278537,51.856023],"type":"Point"}
+  "geometry": {"coordinates":[1.278548,51.855978],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.879021,50.730792,-1.879021,50.730792",
-    "geom:latitude": 50.730792,
-    "geom:longitude": -1.879021,
+    "geom:bbox": "-1.879334,50.730550,-1.879334,50.730550",
+    "geom:latitude": 50.73055,
+    "geom:longitude": -1.879334,
     "gp:parent_id": "13383",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698873, 
       101750305, 
       404227469, 
-      1360698545, 
-      85633159, 
-      1360698873
+      1360698545
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701347,
-    "wof:geomhash": "1ef135545192b01156848920ff0e26ca",
+    "wof:geomhash": "184628688c91c6a5e6c653c5bcdc24d8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 438156913,
-    "wof:lastmodified": 1583786486,
+    "wof:lastmodified": 1609877251,
     "wof:name": "BH2 6PD",
     "wof:parent_id": 101750305,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.879021, 
-    50.730792, 
-    -1.879021, 
-    50.730792
+    -1.879334, 
+    50.73055, 
+    -1.879334, 
+    50.73055
   ],
-  "geometry": {"coordinates":[-1.879021,50.730792],"type":"Point"}
+  "geometry": {"coordinates":[-1.879334,50.73055],"type":"Point"}
 }

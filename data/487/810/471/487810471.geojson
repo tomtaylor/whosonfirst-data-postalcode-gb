@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.364432,51.061774,-3.364432,51.061774",
-    "geom:latitude": 51.061774,
-    "geom:longitude": -3.364432,
+    "geom:bbox": "-3.361328,51.060569,-3.361328,51.060569",
+    "geom:latitude": 51.060569,
+    "geom:longitude": -3.361328,
     "gp:parent_id": "24095",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404436095, 
       1360758237, 
       404227469, 
       1360698589, 
       85633159, 
-      1360699059
+      1360699059, 
+      404436095
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701179,
-    "wof:geomhash": "bc337ab1dec016c278ff5db0abd1c94d",
+    "wof:geomhash": "d2ed96a6dcbb7ddaa2c3993ebe96c022",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487810471,
-    "wof:lastmodified": 1583786282,
+    "wof:lastmodified": 1609881078,
     "wof:name": "TA4 2EW",
     "wof:parent_id": 404436095,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.364432, 
-    51.061774, 
-    -3.364432, 
-    51.061774
+    -3.361328, 
+    51.060569, 
+    -3.361328, 
+    51.060569
   ],
-  "geometry": {"coordinates":[-3.364432,51.061774],"type":"Point"}
+  "geometry": {"coordinates":[-3.361328,51.060569],"type":"Point"}
 }

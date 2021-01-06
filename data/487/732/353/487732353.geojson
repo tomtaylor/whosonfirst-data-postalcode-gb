@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.144782,51.436574,-0.144782,51.436574",
-    "geom:latitude": 51.436574,
-    "geom:longitude": -0.144782,
+    "geom:bbox": "-0.144908,51.436675,-0.144908,51.436675",
+    "geom:latitude": 51.436675,
+    "geom:longitude": -0.144908,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698645, 
       1158857251, 
       85633159, 
       101750367, 
       404227469, 
       1158894007, 
-      85791077
+      85791077, 
+      1360698645
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701142,
-    "wof:geomhash": "a99561a856f3476da8b2a407bfe1a6a6",
+    "wof:geomhash": "29cdb847fb0f65d8c42d5b47cc309a6b",
     "wof:hierarchy": [
       {
         "borough_id": 1158857251,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 487732353,
-    "wof:lastmodified": 1583786239,
+    "wof:lastmodified": 1609876675,
     "wof:name": "SW12 9HH",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.144782, 
-    51.436574, 
-    -0.144782, 
-    51.436574
+    -0.144908, 
+    51.436675, 
+    -0.144908, 
+    51.436675
   ],
-  "geometry": {"coordinates":[-0.144782,51.436574],"type":"Point"}
+  "geometry": {"coordinates":[-0.144908,51.436675],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.919038,50.887793,-0.919038,50.887793",
-    "geom:latitude": 50.887793,
-    "geom:longitude": -0.919038,
+    "geom:bbox": "-0.919092,50.887308,-0.919092,50.887308",
+    "geom:latitude": 50.887308,
+    "geom:longitude": -0.919092,
     "gp:parent_id": "35933",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698757, 
       404439935, 
       1125864425, 
       404227469, 
-      1360698607
+      1360698607, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701642,
-    "wof:geomhash": "ca0d8e94eba4d9f7b27d7ab792eb9064",
+    "wof:geomhash": "9e213807191b3a10402467fc73215fda",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471491081,
-    "wof:lastmodified": 1583786768,
+    "wof:lastmodified": 1609894047,
     "wof:name": "PO9 6DX",
     "wof:parent_id": 404439935,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.919038, 
-    50.887793, 
-    -0.919038, 
-    50.887793
+    -0.919092, 
+    50.887308, 
+    -0.919092, 
+    50.887308
   ],
-  "geometry": {"coordinates":[-0.919038,50.887793],"type":"Point"}
+  "geometry": {"coordinates":[-0.919092,50.887308],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.137207,50.836088,-0.137207,50.836088",
-    "geom:latitude": 50.836088,
-    "geom:longitude": -0.137207,
+    "geom:bbox": "-0.137250,50.836074,-0.137250,50.836074",
+    "geom:latitude": 50.836074,
+    "geom:longitude": -0.13725,
     "gp:parent_id": "13911",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698549, 
       85633159, 
       1360699019, 
-      101750303
+      101750303, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701396,
-    "wof:geomhash": "28abee809cec46ff1d7accf0eaea8b59",
+    "wof:geomhash": "56bcfc887d66a63c2e68339e79a60d7b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 438200983,
-    "wof:lastmodified": 1583786534,
+    "wof:lastmodified": 1609879530,
     "wof:name": "BN1 4QP",
     "wof:parent_id": 101750303,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.137207, 
-    50.836088, 
-    -0.137207, 
-    50.836088
+    -0.13725, 
+    50.836074, 
+    -0.13725, 
+    50.836074
   ],
-  "geometry": {"coordinates":[-0.137207,50.836088],"type":"Point"}
+  "geometry": {"coordinates":[-0.13725,50.836074],"type":"Point"}
 }

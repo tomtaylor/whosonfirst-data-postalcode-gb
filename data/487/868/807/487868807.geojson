@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.426276,50.882913,0.426276,50.882913",
-    "geom:latitude": 50.882913,
-    "geom:longitude": 0.426276,
+    "geom:bbox": "0.426167,50.882705,0.426167,50.882705",
+    "geom:latitude": 50.882705,
+    "geom:longitude": 0.426167,
     "gp:parent_id": "30325",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404440229, 
-      1276480303, 
-      404227469, 
       1360698549, 
       85633159, 
-      1360698815
+      1360698815, 
+      404440229, 
+      1276480303, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701221,
-    "wof:geomhash": "4641375beac35c96a27acefb56aff3c5",
+    "wof:geomhash": "7dbf47c1b971356a0d27b860fad092cf",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487868807,
-    "wof:lastmodified": 1583786312,
+    "wof:lastmodified": 1609884271,
     "wof:name": "TN33 9EA",
     "wof:parent_id": 404440229,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.426276, 
-    50.882913, 
-    0.426276, 
-    50.882913
+    0.426167, 
+    50.882705, 
+    0.426167, 
+    50.882705
   ],
-  "geometry": {"coordinates":[0.426276,50.882913],"type":"Point"}
+  "geometry": {"coordinates":[0.426167,50.882705],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.500499,54.513014,-3.500499,54.513014",
-    "geom:latitude": 54.513014,
-    "geom:longitude": -3.500499,
+    "geom:bbox": "-3.500559,54.512977,-3.500559,54.512977",
+    "geom:latitude": 54.512977,
+    "geom:longitude": -3.500559,
     "gp:parent_id": "16251",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698877, 
       404431179, 
       1243582737, 
       404227469, 
       1360698721, 
-      85633159
+      85633159, 
+      1360698877
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701124,
-    "wof:geomhash": "83d432f906787dc32a1938c855d6e29f",
+    "wof:geomhash": "6d204b2186604646fb1bea024bbed736",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454064745,
-    "wof:lastmodified": 1583786266,
+    "wof:lastmodified": 1609869332,
     "wof:name": "CA23 3EU",
     "wof:parent_id": 404431179,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.500499, 
-    54.513014, 
-    -3.500499, 
-    54.513014
+    -3.500559, 
+    54.512977, 
+    -3.500559, 
+    54.512977
   ],
-  "geometry": {"coordinates":[-3.500499,54.513014],"type":"Point"}
+  "geometry": {"coordinates":[-3.500559,54.512977],"type":"Point"}
 }

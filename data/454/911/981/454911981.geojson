@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.497646,51.349608,-0.497646,51.349608",
-    "geom:latitude": 51.349608,
-    "geom:longitude": -0.497646,
+    "geom:bbox": "-0.497747,51.349573,-0.497747,51.349573",
+    "geom:latitude": 51.349573,
+    "geom:longitude": -0.497747,
     "gp:parent_id": "10413",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698599, 
       85633159, 
       1360698887, 
       1360817277, 
-      1360832419
+      1360832419, 
+      404227469, 
+      1360698599
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701753,
-    "wof:geomhash": "8628519da9d827ec11b29c3ad5bb9d1c",
+    "wof:geomhash": "ee3e25052209e28b70f5a8ea5b25fd15",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454911981,
-    "wof:lastmodified": 1595717705,
+    "wof:lastmodified": 1609904857,
     "wof:name": "KT15 3NR",
     "wof:parent_id": 101751589,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.497646, 
-    51.349608, 
-    -0.497646, 
-    51.349608
+    -0.497747, 
+    51.349573, 
+    -0.497747, 
+    51.349573
   ],
-  "geometry": {"coordinates":[-0.497646,51.349608],"type":"Point"}
+  "geometry": {"coordinates":[-0.497747,51.349573],"type":"Point"}
 }

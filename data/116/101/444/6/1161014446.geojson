@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-05-01",
     "geom:area": 0,
-    "geom:bbox": "-3.299618,56.125372,-3.299618,56.125372",
-    "geom:latitude": 56.125372,
-    "geom:longitude": -3.299618,
+    "geom:bbox": "-3.299686,56.125488,-3.299686,56.125488",
+    "geom:latitude": 56.125488,
+    "geom:longitude": -3.299686,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227471, 
-      1360698659, 
       85633159, 
       1360699123, 
-      404444217
+      404444217, 
+      404227471, 
+      1360698659
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583800055,
-    "wof:geomhash": "7ff4986508ae355f255538eea8c454a2",
+    "wof:geomhash": "3750c81b4c41f26e26113212e7e8ee30",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1161014446,
-    "wof:lastmodified": 1583800055,
+    "wof:lastmodified": 1609874712,
     "wof:name": "KY5 9BF",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.299618, 
-    56.125372, 
-    -3.299618, 
-    56.125372
+    -3.299686, 
+    56.125488, 
+    -3.299686, 
+    56.125488
   ],
-  "geometry": {"coordinates":[-3.299618,56.125372],"type":"Point"}
+  "geometry": {"coordinates":[-3.299686,56.125488],"type":"Point"}
 }

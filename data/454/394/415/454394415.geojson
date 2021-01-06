@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.635052,54.650360,-1.635052,54.650360",
-    "geom:latitude": 54.65036,
-    "geom:longitude": -1.635052,
+    "geom:bbox": "-1.634850,54.650396,-1.634850,54.650396",
+    "geom:latitude": 54.650396,
+    "geom:longitude": -1.63485,
     "gp:parent_id": "16361",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
+      1360699055, 
       404439359, 
       1360755381, 
       404227469, 
       1360698621, 
-      85633159, 
-      1360699055
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701538,
-    "wof:geomhash": "bc373008a2203b2c221cb9c02569e6f3",
+    "wof:geomhash": "1fd800984a01925482a11ba3dc260c66",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454394415,
-    "wof:lastmodified": 1583786667,
+    "wof:lastmodified": 1609887186,
     "wof:name": "DL14 8RP",
     "wof:parent_id": 404439359,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.635052, 
-    54.65036, 
-    -1.635052, 
-    54.65036
+    -1.63485, 
+    54.650396, 
+    -1.63485, 
+    54.650396
   ],
-  "geometry": {"coordinates":[-1.635052,54.65036],"type":"Point"}
+  "geometry": {"coordinates":[-1.63485,54.650396],"type":"Point"}
 }

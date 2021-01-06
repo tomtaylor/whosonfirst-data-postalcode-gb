@@ -1,0 +1,59 @@
+{
+  "id": 1729691521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-06-01",
+    "geom:area": 0,
+    "geom:bbox": "-1.078553,53.938205,-1.078553,53.938205",
+    "geom:latitude": 53.938205,
+    "geom:longitude": -1.078553,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E99999999",
+    "os:district_code": "E06000014",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000003",
+    "src:geom": "os",
+    "wof:belongsto": [
+      1125899863, 
+      404227469, 
+      1360698619, 
+      85633159, 
+      1360698977, 
+      404450347
+    ],
+    "wof:breaches": [],
+    "wof:country": "GB",
+    "wof:created": 1609906504,
+    "wof:geomhash": "feab24cbaaa2c16e5c90129bf5d67817",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698977,
+        "localadmin_id": 404450347,
+        "locality_id": 1125899863,
+        "macroregion_id": 404227469,
+        "region_id": 1360698619
+      }
+    ],
+    "wof:id": 1729691521,
+    "wof:lastmodified": 1609906504,
+    "wof:name": "YO10 4FR",
+    "wof:parent_id": -1,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -1.078553, 
+    53.938205, 
+    -1.078553, 
+    53.938205
+  ],
+  "geometry": {"coordinates":[-1.078553,53.938205],"type":"Point"}
+}

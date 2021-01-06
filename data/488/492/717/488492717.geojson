@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1991-08-01",
     "geom:area": 0,
-    "geom:bbox": "-2.977174,57.674829,-2.977174,57.674829",
-    "geom:latitude": 57.674829,
-    "geom:longitude": -2.977174,
+    "geom:bbox": "-2.977190,57.674830,-2.977190,57.674830",
+    "geom:latitude": 57.67483,
+    "geom:longitude": -2.97719,
     "gp:parent_id": "12696202",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698869, 
-      404446793, 
       404227471, 
       1360698715, 
-      85633159
+      85633159, 
+      1360698869, 
+      404446793
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701505,
-    "wof:geomhash": "013a7f66d22955046bb509531bf77bb5",
+    "wof:geomhash": "37b6cc8fb8258c01159103fef4547641",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488492717,
-    "wof:lastmodified": 1583786709,
+    "wof:lastmodified": 1609894323,
     "wof:name": "AB56 1QF",
     "wof:parent_id": 404446793,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.977174, 
-    57.674829, 
-    -2.977174, 
-    57.674829
+    -2.97719, 
+    57.67483, 
+    -2.97719, 
+    57.67483
   ],
-  "geometry": {"coordinates":[-2.977174,57.674829],"type":"Point"}
+  "geometry": {"coordinates":[-2.97719,57.67483],"type":"Point"}
 }

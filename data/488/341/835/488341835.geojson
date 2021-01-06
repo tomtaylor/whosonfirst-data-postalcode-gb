@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2009-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.511256,52.573460,0.511256,52.573460",
-    "geom:latitude": 52.57346,
-    "geom:longitude": 0.511256,
+    "geom:bbox": "0.511767,52.573369,0.511767,52.573369",
+    "geom:latitude": 52.573369,
+    "geom:longitude": 0.511767,
     "gp:parent_id": "12696026",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698955, 
       404430793, 
       1125912797, 
       404227469, 
-      1360698575
+      1360698575, 
+      85633159, 
+      1360698955
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701353,
-    "wof:geomhash": "d290e9764ae5310d20c81f9f567e4875",
+    "wof:geomhash": "777c5527592ed44ce978a7e8ed43fbac",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488341835,
-    "wof:lastmodified": 1595732550,
+    "wof:lastmodified": 1609887460,
     "wof:name": "PE33 9UU",
     "wof:parent_id": 404430793,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.511256, 
-    52.57346, 
-    0.511256, 
-    52.57346
+    0.511767, 
+    52.573369, 
+    0.511767, 
+    52.573369
   ],
-  "geometry": {"coordinates":[0.511256,52.57346],"type":"Point"}
+  "geometry": {"coordinates":[0.511767,52.573369],"type":"Point"}
 }

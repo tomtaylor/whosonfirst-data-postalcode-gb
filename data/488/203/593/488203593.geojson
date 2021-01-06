@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1991-09-01",
     "geom:area": 0,
-    "geom:bbox": "-2.113756,52.583801,-2.113756,52.583801",
-    "geom:latitude": 52.583801,
-    "geom:longitude": -2.113756,
+    "geom:bbox": "-2.114274,52.584510,-2.114274,52.584510",
+    "geom:latitude": 52.58451,
+    "geom:longitude": -2.114274,
     "gp:parent_id": "40859",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698605, 
       85633159, 
       1360698737, 
-      1126027181
+      1126027181, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701104,
-    "wof:geomhash": "f93498ec01a793478d600f04a4f9ab43",
+    "wof:geomhash": "7753c751086557a9586120f22bdfdded",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488203593,
-    "wof:lastmodified": 1583786353,
+    "wof:lastmodified": 1609879959,
     "wof:name": "WV1 3LX",
     "wof:parent_id": 101914031,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.113756, 
-    52.583801, 
-    -2.113756, 
-    52.583801
+    -2.114274, 
+    52.58451, 
+    -2.114274, 
+    52.58451
   ],
-  "geometry": {"coordinates":[-2.113756,52.583801],"type":"Point"}
+  "geometry": {"coordinates":[-2.114274,52.58451],"type":"Point"}
 }

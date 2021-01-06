@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-10-01",
     "geom:area": 0,
-    "geom:bbox": "-2.889754,54.889662,-2.889754,54.889662",
-    "geom:latitude": 54.889662,
-    "geom:longitude": -2.889754,
+    "geom:bbox": "-2.889809,54.889338,-2.889809,54.889338",
+    "geom:latitude": 54.889338,
+    "geom:longitude": -2.889809,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698721, 
-      85633159, 
-      1360698877, 
       404448487, 
       1125905565, 
-      404227469
+      404227469, 
+      1360698721, 
+      85633159, 
+      1360698877
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583801561,
-    "wof:geomhash": "8077ec2f29b1eea73bd561bc34474a05",
+    "wof:geomhash": "a7668ed72fa43ff8109b1d53cf6564d6",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 39443994,
-    "wof:lastmodified": 1583801561,
+    "wof:lastmodified": 1609868488,
     "wof:name": "CA1 2GU",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.889754, 
-    54.889662, 
-    -2.889754, 
-    54.889662
+    -2.889809, 
+    54.889338, 
+    -2.889809, 
+    54.889338
   ],
-  "geometry": {"coordinates":[-2.889754,54.889662],"type":"Point"}
+  "geometry": {"coordinates":[-2.889809,54.889338],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2000-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.438810,54.007162,-1.438810,54.007162",
-    "geom:latitude": 54.007162,
-    "geom:longitude": -1.43881,
+    "geom:bbox": "-1.438449,54.007212,-1.438449,54.007212",
+    "geom:latitude": 54.007212,
+    "geom:longitude": -1.438449,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698619, 
+      85633159, 
       1360698753, 
       404449867, 
       101872299, 
-      404227469, 
-      1360698619, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701712,
-    "wof:geomhash": "ae91855429f288d939b0e6c46b446e22",
+    "wof:geomhash": "0a1060406a5ae2d2a3af8bbeb549b2ae",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454764319,
-    "wof:lastmodified": 1583786851,
+    "wof:lastmodified": 1609901368,
     "wof:name": "HG5 0TT",
     "wof:parent_id": 404449867,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.43881, 
-    54.007162, 
-    -1.43881, 
-    54.007162
+    -1.438449, 
+    54.007212, 
+    -1.438449, 
+    54.007212
   ],
-  "geometry": {"coordinates":[-1.43881,54.007162],"type":"Point"}
+  "geometry": {"coordinates":[-1.438449,54.007212],"type":"Point"}
 }

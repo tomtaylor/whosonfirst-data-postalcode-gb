@@ -2,33 +2,33 @@
   "id": 1712734133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2001-10-01",
-    "edtf:inception": "1980-01-01",
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-08-01",
     "geom:area": 0,
-    "geom:bbox": "-1.644804,52.802054,-1.644804,52.802054",
-    "geom:latitude": 52.802054,
-    "geom:longitude": -1.644804,
+    "geom:bbox": "-1.646907,52.800110,-1.646907,52.800110",
+    "geom:latitude": 52.80011,
+    "geom:longitude": -1.646907,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000028",
     "os:district_code": "E07000193",
-    "os:positional_quality_indicator": "1",
+    "os:positional_quality_indicator": "5",
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360698947, 
       404447993, 
       1360756169, 
       404227469, 
-      1360698593, 
-      85633159
+      1360698593
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583801201,
-    "wof:geomhash": "6651d4001e7dd4e82db934a13e86f501",
+    "wof:geomhash": "03454f612c55acacde80872703c1c69c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712734133,
-    "wof:lastmodified": 1583801201,
+    "wof:lastmodified": 1609873337,
     "wof:name": "DE14 3NU",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.644804, 
-    52.802054, 
-    -1.644804, 
-    52.802054
+    -1.646907, 
+    52.80011, 
+    -1.646907, 
+    52.80011
   ],
-  "geometry": {"coordinates":[-1.644804,52.802054],"type":"Point"}
+  "geometry": {"coordinates":[-1.646907,52.80011],"type":"Point"}
 }

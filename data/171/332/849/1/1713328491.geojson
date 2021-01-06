@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-02-01",
     "geom:area": 0,
-    "geom:bbox": "-1.970788,52.083463,-1.970788,52.083463",
-    "geom:latitude": 52.083463,
-    "geom:longitude": -1.970788,
+    "geom:bbox": "-1.970774,52.083355,-1.970774,52.083355",
+    "geom:latitude": 52.083355,
+    "geom:longitude": -1.970774,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699043, 
       404436323, 
       101853029, 
       404227469, 
-      1360698613
+      1360698613, 
+      85633159, 
+      1360699043
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735525,
-    "wof:geomhash": "588ed2e6c3a7a7bec735625ca23b66a9",
+    "wof:geomhash": "8bf2322563209d1ed9152f2fb418611c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1713328491,
-    "wof:lastmodified": 1595753367,
+    "wof:lastmodified": 1609875311,
     "wof:name": "WR11 2SS",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.970788, 
-    52.083463, 
-    -1.970788, 
-    52.083463
+    -1.970774, 
+    52.083355, 
+    -1.970774, 
+    52.083355
   ],
-  "geometry": {"coordinates":[-1.970788,52.083463],"type":"Point"}
+  "geometry": {"coordinates":[-1.970774,52.083355],"type":"Point"}
 }

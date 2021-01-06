@@ -2,20 +2,20 @@
   "id": 437449399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2007-07-01",
-    "edtf:inception": "2007-06-01",
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-10-01",
     "geom:area": 0,
-    "geom:bbox": "-0.725212,52.670049,-0.725212,52.670049",
-    "geom:latitude": 52.670049,
-    "geom:longitude": -0.725212,
+    "geom:bbox": "-0.729600,52.669370,-0.729600,52.669370",
+    "geom:latitude": 52.66937,
+    "geom:longitude": -0.7296,
     "gp:parent_id": "30791",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000017",
-    "os:positional_quality_indicator": "5",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701200,
-    "wof:geomhash": "d03a1f44aee6324f2bb9fe376b4c636a",
+    "wof:geomhash": "5fd755026c05b67f126a3857c77045f4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 437449399,
-    "wof:lastmodified": 1583786324,
+    "wof:lastmodified": 1609871441,
     "wof:name": "LE15 6DW",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.725212, 
-    52.670049, 
-    -0.725212, 
-    52.670049
+    -0.7296, 
+    52.66937, 
+    -0.7296, 
+    52.66937
   ],
-  "geometry": {"coordinates":[-0.725212,52.670049],"type":"Point"}
+  "geometry": {"coordinates":[-0.7296,52.66937],"type":"Point"}
 }

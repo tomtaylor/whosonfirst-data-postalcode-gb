@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-02-01",
     "geom:area": 0,
-    "geom:bbox": "-3.711857,55.860989,-3.711857,55.860989",
-    "geom:latitude": 55.860989,
-    "geom:longitude": -3.711857,
+    "geom:bbox": "-3.711751,55.860775,-3.711751,55.860775",
+    "geom:latitude": 55.860775,
+    "geom:longitude": -3.711751,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404447005, 
       404227471, 
       1360698679, 
       85633159, 
-      1360699027
+      1360699027, 
+      404447005
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583796207,
-    "wof:geomhash": "bce0e2e1b93ec555c9c047a8361582a8",
+    "wof:geomhash": "9c01b2b34fbf2cfb2a53e886b3471f68",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 38961252,
-    "wof:lastmodified": 1595711071,
+    "wof:lastmodified": 1609868524,
     "wof:name": "EH47 0SY",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.711857, 
-    55.860989, 
-    -3.711857, 
-    55.860989
+    -3.711751, 
+    55.860775, 
+    -3.711751, 
+    55.860775
   ],
-  "geometry": {"coordinates":[-3.711857,55.860989],"type":"Point"}
+  "geometry": {"coordinates":[-3.711751,55.860775],"type":"Point"}
 }

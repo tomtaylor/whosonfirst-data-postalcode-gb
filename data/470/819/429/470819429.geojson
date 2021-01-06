@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2005-03-01",
     "geom:area": 0,
-    "geom:bbox": "-1.557453,53.810461,-1.557453,53.810461",
-    "geom:latitude": 53.810461,
-    "geom:longitude": -1.557453,
+    "geom:bbox": "-1.557162,53.810685,-1.557162,53.810685",
+    "geom:latitude": 53.810685,
+    "geom:longitude": -1.557162,
     "gp:parent_id": "26042",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      85792925, 
-      1360698609, 
       85633159, 
       1360698749, 
-      101750579
+      101750579, 
+      404227469, 
+      85792925, 
+      1360698609
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701130,
-    "wof:geomhash": "958492eacfaa6b79a85cf1ad1b24d09b",
+    "wof:geomhash": "65cbb0524acbbeafaa65dd32c3730b31",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470819429,
-    "wof:lastmodified": 1583786362,
+    "wof:lastmodified": 1609868780,
     "wof:name": "LS2 9DT",
     "wof:parent_id": 101750579,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.557453, 
-    53.810461, 
-    -1.557453, 
-    53.810461
+    -1.557162, 
+    53.810685, 
+    -1.557162, 
+    53.810685
   ],
-  "geometry": {"coordinates":[-1.557453,53.810461],"type":"Point"}
+  "geometry": {"coordinates":[-1.557162,53.810685],"type":"Point"}
 }

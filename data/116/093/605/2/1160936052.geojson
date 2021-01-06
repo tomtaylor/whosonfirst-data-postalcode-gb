@@ -5,30 +5,30 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-02-01",
     "geom:area": 0,
-    "geom:bbox": "-0.186825,52.614963,-0.186825,52.614963",
-    "geom:latitude": 52.614963,
-    "geom:longitude": -0.186825,
+    "geom:bbox": "-0.185606,52.618370,-0.185606,52.618370",
+    "geom:latitude": 52.61837,
+    "geom:longitude": -0.185606,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000031",
-    "os:positional_quality_indicator": "5",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698773, 
       404434943, 
       1225879931, 
       404227469, 
-      1360698535, 
-      85633159, 
-      1360698773
+      1360698535
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583796640,
-    "wof:geomhash": "07bdd74a4e8edf7b310d32e57630817d",
+    "wof:geomhash": "1baeded661d301239ee75a695e309d75",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160936052,
-    "wof:lastmodified": 1595711632,
+    "wof:lastmodified": 1609872757,
     "wof:name": "PE6 7TW",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.186825, 
-    52.614963, 
-    -0.186825, 
-    52.614963
+    -0.185606, 
+    52.61837, 
+    -0.185606, 
+    52.61837
   ],
-  "geometry": {"coordinates":[-0.186825,52.614963],"type":"Point"}
+  "geometry": {"coordinates":[-0.185606,52.61837],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.192389,53.362069,-2.192389,53.362069",
-    "geom:latitude": 53.362069,
-    "geom:longitude": -2.192389,
+    "geom:bbox": "-2.192372,53.361960,-2.192372,53.361960",
+    "geom:latitude": 53.36196,
+    "geom:longitude": -2.192372,
     "gp:parent_id": "15746",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698879, 
       101750527, 
       404227469, 
       1360698555, 
-      85633159
+      85633159, 
+      1360698879
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701742,
-    "wof:geomhash": "3671c2cc1ed512073ab962316591a555",
+    "wof:geomhash": "6f8cecc4e532680218eecc4bf506c0b8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 471795901,
-    "wof:lastmodified": 1583786912,
+    "wof:lastmodified": 1609903144,
     "wof:name": "SK8 6NQ",
     "wof:parent_id": 101750527,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.192389, 
-    53.362069, 
-    -2.192389, 
-    53.362069
+    -2.192372, 
+    53.36196, 
+    -2.192372, 
+    53.36196
   ],
-  "geometry": {"coordinates":[-2.192389,53.362069],"type":"Point"}
+  "geometry": {"coordinates":[-2.192372,53.36196],"type":"Point"}
 }

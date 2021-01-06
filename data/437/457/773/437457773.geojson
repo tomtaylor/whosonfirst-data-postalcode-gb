@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-03-01",
     "geom:area": 0,
-    "geom:bbox": "1.183871,52.558303,1.183871,52.558303",
-    "geom:latitude": 52.558303,
-    "geom:longitude": 1.183871,
+    "geom:bbox": "1.183158,52.558241,1.183158,52.558241",
+    "geom:latitude": 52.558241,
+    "geom:longitude": 1.183158,
     "gp:parent_id": "28363",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698575, 
-      85633159, 
-      1360698955, 
       404445977, 
       1125936031, 
-      404227469
+      404227469, 
+      1360698575, 
+      85633159, 
+      1360698955
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701218,
-    "wof:geomhash": "1e922652b41f133a4f8db8d12604528a",
+    "wof:geomhash": "32076118352f722cab1ac200a9bfc2ac",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 437457773,
-    "wof:lastmodified": 1583786344,
+    "wof:lastmodified": 1609871943,
     "wof:name": "NR14 8QR",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.183871, 
-    52.558303, 
-    1.183871, 
-    52.558303
+    1.183158, 
+    52.558241, 
+    1.183158, 
+    52.558241
   ],
-  "geometry": {"coordinates":[1.183871,52.558303],"type":"Point"}
+  "geometry": {"coordinates":[1.183158,52.558241],"type":"Point"}
 }

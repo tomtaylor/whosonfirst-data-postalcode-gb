@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.444233,51.955764,-1.444233,51.955764",
-    "geom:latitude": 51.955764,
-    "geom:longitude": -1.444233,
+    "geom:bbox": "-1.444584,51.955640,-1.444584,51.955640",
+    "geom:latitude": 51.95564,
+    "geom:longitude": -1.444584,
     "gp:parent_id": "26645",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
       1360698585, 
       85633159, 
       1360698839, 
       404449053, 
-      1125910659, 
-      404227469
+      1125910659
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701518,
-    "wof:geomhash": "87c1570f7b4ffe7d889d17db949de4e5",
+    "wof:geomhash": "56cdd25ab38c3f153065fe056da486be",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471343777,
-    "wof:lastmodified": 1583786670,
+    "wof:lastmodified": 1609887674,
     "wof:name": "OX7 4JG",
     "wof:parent_id": 404449053,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.444233, 
-    51.955764, 
-    -1.444233, 
-    51.955764
+    -1.444584, 
+    51.95564, 
+    -1.444584, 
+    51.95564
   ],
-  "geometry": {"coordinates":[-1.444233,51.955764],"type":"Point"}
+  "geometry": {"coordinates":[-1.444584,51.95564],"type":"Point"}
 }

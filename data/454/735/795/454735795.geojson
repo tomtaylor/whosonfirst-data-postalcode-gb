@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.281193,51.610308,-0.281193,51.610308",
-    "geom:latitude": 51.610308,
-    "geom:longitude": -0.281193,
+    "geom:bbox": "-0.281140,51.610328,-0.281140,51.610328",
+    "geom:latitude": 51.610328,
+    "geom:longitude": -0.28114,
     "gp:parent_id": "12695829",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -20,12 +20,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      1158857263, 
       85633159, 
       101750367, 
       404227469, 
       85787245, 
-      1360698645
+      1360698645, 
+      1158857263
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701706,
-    "wof:geomhash": "aed87057f1243339a1bb421132bb5520",
+    "wof:geomhash": "33d750e0094b3c6a97a11bfb2b66c95e",
     "wof:hierarchy": [
       {
         "borough_id": 1158857263,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 454735795,
-    "wof:lastmodified": 1583786847,
+    "wof:lastmodified": 1609900568,
     "wof:name": "HA8 6LH",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -55,10 +55,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.281193, 
-    51.610308, 
-    -0.281193, 
-    51.610308
+    -0.28114, 
+    51.610328, 
+    -0.28114, 
+    51.610328
   ],
-  "geometry": {"coordinates":[-0.281193,51.610308],"type":"Point"}
+  "geometry": {"coordinates":[-0.28114,51.610328],"type":"Point"}
 }

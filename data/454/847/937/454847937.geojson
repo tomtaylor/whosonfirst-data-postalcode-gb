@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "0.073671,51.532725,0.073671,51.532725",
-    "geom:latitude": 51.532725,
-    "geom:longitude": 0.073671,
+    "geom:bbox": "0.072580,51.533464,0.072580,51.533464",
+    "geom:latitude": 51.533464,
+    "geom:longitude": 0.07258,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      101750367, 
-      404227469, 
       85787169, 
       1360698645, 
-      1158857319
+      1158857319, 
+      85633159, 
+      101750367, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701738,
-    "wof:geomhash": "ab43e158f44150f8c24d16b11ee2029c",
+    "wof:geomhash": "be5d77124363020e7dcd16969d2b170f",
     "wof:hierarchy": [
       {
         "borough_id": 1158857319,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454847937,
-    "wof:lastmodified": 1583786869,
+    "wof:lastmodified": 1609903618,
     "wof:name": "IG11 7BW",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.073671, 
-    51.532725, 
-    0.073671, 
-    51.532725
+    0.07258, 
+    51.533464, 
+    0.07258, 
+    51.533464
   ],
-  "geometry": {"coordinates":[0.073671,51.532725],"type":"Point"}
+  "geometry": {"coordinates":[0.07258,51.533464],"type":"Point"}
 }

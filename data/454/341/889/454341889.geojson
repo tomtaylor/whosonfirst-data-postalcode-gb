@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2002-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.485364,52.902512,-1.485364,52.902512",
-    "geom:latitude": 52.902512,
-    "geom:longitude": -1.485364,
+    "geom:bbox": "-1.485393,52.902549,-1.485393,52.902549",
+    "geom:latitude": 52.902549,
+    "geom:longitude": -1.485393,
     "gp:parent_id": "18114",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698539, 
       85633159, 
       1360699093, 
-      101750489
+      101750489, 
+      404227469, 
+      1360698539
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701501,
-    "wof:geomhash": "43ef1e599f8bc44101b02c6a0a588602",
+    "wof:geomhash": "9944dcbdca6d8b83b30526ac86f0c595",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454341889,
-    "wof:lastmodified": 1583786632,
+    "wof:lastmodified": 1609884358,
     "wof:name": "DE23 1JA",
     "wof:parent_id": 101750489,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.485364, 
-    52.902512, 
-    -1.485364, 
-    52.902512
+    -1.485393, 
+    52.902549, 
+    -1.485393, 
+    52.902549
   ],
-  "geometry": {"coordinates":[-1.485364,52.902512],"type":"Point"}
+  "geometry": {"coordinates":[-1.485393,52.902549],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1990-07-01",
     "geom:area": 0,
-    "geom:bbox": "-0.275272,50.832464,-0.275272,50.832464",
-    "geom:latitude": 50.832464,
-    "geom:longitude": -0.275272,
+    "geom:bbox": "-0.275172,50.832501,-0.275172,50.832501",
+    "geom:latitude": 50.832501,
+    "geom:longitude": -0.275172,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,7 +18,7 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1259812663, 
+      101750325, 
       404227469, 
       1360698607, 
       85633159, 
@@ -31,19 +31,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701424,
-    "wof:geomhash": "1bafa3e118f92a9546d9ee149b7e1819",
+    "wof:geomhash": "d89b567f804d8bfd7b09d977cf11e863",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360698757,
         "localadmin_id": 1360817173,
-        "locality_id": 1259812663,
+        "locality_id": 101750325,
         "macroregion_id": 404227469,
         "region_id": 1360698607
       }
     ],
     "wof:id": 438239201,
-    "wof:lastmodified": 1583786555,
+    "wof:lastmodified": 1609881399,
     "wof:name": "BN43 5DQ",
     "wof:parent_id": 101750325,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.275272, 
-    50.832464, 
-    -0.275272, 
-    50.832464
+    -0.275172, 
+    50.832501, 
+    -0.275172, 
+    50.832501
   ],
-  "geometry": {"coordinates":[-0.275272,50.832464],"type":"Point"}
+  "geometry": {"coordinates":[-0.275172,50.832501],"type":"Point"}
 }

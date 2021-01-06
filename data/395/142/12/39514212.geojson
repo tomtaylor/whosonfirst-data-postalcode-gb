@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.593641,55.091117,-1.593641,55.091117",
-    "geom:latitude": 55.091117,
-    "geom:longitude": -1.593641,
+    "geom:bbox": "-1.593625,55.091189,-1.593625,55.091189",
+    "geom:latitude": 55.091189,
+    "geom:longitude": -1.593625,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698727, 
       85633159, 
       1360698769, 
       404430049, 
-      1125938411
+      1125938411, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583802295,
-    "wof:geomhash": "a74d1e277381df31b0715a9435cfb271",
+    "wof:geomhash": "6c4303e6f8b247a440ef2e49d90cdaa8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 39514212,
-    "wof:lastmodified": 1595711223,
+    "wof:lastmodified": 1609868451,
     "wof:name": "NE23 1AJ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.593641, 
-    55.091117, 
-    -1.593641, 
-    55.091117
+    -1.593625, 
+    55.091189, 
+    -1.593625, 
+    55.091189
   ],
-  "geometry": {"coordinates":[-1.593641,55.091117],"type":"Point"}
+  "geometry": {"coordinates":[-1.593625,55.091189],"type":"Point"}
 }

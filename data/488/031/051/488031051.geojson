@@ -6,9 +6,9 @@
     "edtf:inception": "2000-12-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.142024,51.512940,-0.142024,51.512940",
-    "geom:latitude": 51.51294,
-    "geom:longitude": -0.142024,
+    "geom:bbox": "-0.141894,51.513048,-0.141894,51.513048",
+    "geom:latitude": 51.513048,
+    "geom:longitude": -0.141894,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      1158859031, 
-      404227469, 
-      85789041, 
       1360698645, 
       1158857245, 
       85633159, 
-      101750367
+      101750367, 
+      1158859031, 
+      404227469, 
+      85789041
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701201,
-    "wof:geomhash": "fbc599ebb09e4af51012d19f057920eb",
+    "wof:geomhash": "6cdc662d9378c454241e080b273b805b",
     "wof:hierarchy": [
       {
         "borough_id": 1158857245,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 488031051,
-    "wof:lastmodified": 1583786380,
+    "wof:lastmodified": 1609869356,
     "wof:name": "W1S 2QN",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.142024, 
-    51.51294, 
-    -0.142024, 
-    51.51294
+    -0.141894, 
+    51.513048, 
+    -0.141894, 
+    51.513048
   ],
-  "geometry": {"coordinates":[-0.142024,51.51294],"type":"Point"}
+  "geometry": {"coordinates":[-0.141894,51.513048],"type":"Point"}
 }

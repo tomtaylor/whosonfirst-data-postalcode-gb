@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1997-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.598548,53.483247,-1.598548,53.483247",
-    "geom:latitude": 53.483247,
-    "geom:longitude": -1.598548,
+    "geom:bbox": "-1.598609,53.483255,-1.598609,53.483255",
+    "geom:latitude": 53.483255,
+    "geom:longitude": -1.598609,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      101872003, 
+      404227469, 
       1360698591, 
       85633159, 
       1360699075, 
-      404439461, 
-      101872003, 
-      404227469
+      404439461
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701688,
-    "wof:geomhash": "f1fdce494fd45e4a1cb4af9ecd0d2685",
+    "wof:geomhash": "dc0c75591e39f490b85ea550c772b9fc",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471643925,
-    "wof:lastmodified": 1583786858,
+    "wof:lastmodified": 1609900141,
     "wof:name": "S36 1DP",
     "wof:parent_id": 101872003,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.598548, 
-    53.483247, 
-    -1.598548, 
-    53.483247
+    -1.598609, 
+    53.483255, 
+    -1.598609, 
+    53.483255
   ],
-  "geometry": {"coordinates":[-1.598548,53.483247],"type":"Point"}
+  "geometry": {"coordinates":[-1.598609,53.483255],"type":"Point"}
 }

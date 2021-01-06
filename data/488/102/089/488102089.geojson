@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2000-10-01",
     "geom:area": 0,
-    "geom:bbox": "-0.395888,51.652279,-0.395888,51.652279",
-    "geom:latitude": 51.652279,
-    "geom:longitude": -0.395888,
+    "geom:bbox": "-0.395892,51.652338,-0.395892,51.652338",
+    "geom:latitude": 51.652338,
+    "geom:longitude": -0.395892,
     "gp:parent_id": "39321",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698559, 
       85633159, 
       1360698763, 
       101751603, 
-      404227469
+      404227469, 
+      1360698559
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701248,
-    "wof:geomhash": "f3f98966294824b586155043a5d329ee",
+    "wof:geomhash": "0adadbf4afb456b354569734b8f6b08f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488102089,
-    "wof:lastmodified": 1583786406,
+    "wof:lastmodified": 1609873070,
     "wof:name": "WD18 0WA",
     "wof:parent_id": 101751603,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.395888, 
-    51.652279, 
-    -0.395888, 
-    51.652279
+    -0.395892, 
+    51.652338, 
+    -0.395892, 
+    51.652338
   ],
-  "geometry": {"coordinates":[-0.395888,51.652279],"type":"Point"}
+  "geometry": {"coordinates":[-0.395892,51.652338],"type":"Point"}
 }

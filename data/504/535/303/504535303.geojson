@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1999-06-01",
     "geom:area": 0,
-    "geom:bbox": "-3.133458,51.745412,-3.133458,51.745412",
-    "geom:latitude": 51.745412,
-    "geom:longitude": -3.133458,
+    "geom:bbox": "-3.133489,51.745492,-3.133489,51.745492",
+    "geom:latitude": 51.745492,
+    "geom:longitude": -3.133489,
     "gp:parent_id": "12696120",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360699009, 
       404431877, 
       101852787, 
       404227475, 
-      1360698641, 
-      85633159, 
-      1360699009
+      1360698641
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701409,
-    "wof:geomhash": "a50c5af3bfc67651ba86114a7b939fb6",
+    "wof:geomhash": "24bec24f830532de99a66e339de75c64",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504535303,
-    "wof:lastmodified": 1583786540,
+    "wof:lastmodified": 1609878071,
     "wof:name": "NP13 1LN",
     "wof:parent_id": 101852787,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.133458, 
-    51.745412, 
-    -3.133458, 
-    51.745412
+    -3.133489, 
+    51.745492, 
+    -3.133489, 
+    51.745492
   ],
-  "geometry": {"coordinates":[-3.133458,51.745412],"type":"Point"}
+  "geometry": {"coordinates":[-3.133489,51.745492],"type":"Point"}
 }

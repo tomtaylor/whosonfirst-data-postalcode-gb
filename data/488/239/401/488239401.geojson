@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1998-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.091057,53.944951,-1.091057,53.944951",
-    "geom:latitude": 53.944951,
-    "geom:longitude": -1.091057,
+    "geom:bbox": "-1.091050,53.944969,-1.091050,53.944969",
+    "geom:latitude": 53.944969,
+    "geom:longitude": -1.09105,
     "gp:parent_id": "41415",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698977, 
       101751641, 
       404227469, 
-      1360698619
+      1360698619, 
+      85633159, 
+      1360698977
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701190,
-    "wof:geomhash": "edce3ed39eade2963b856a00c4de171c",
+    "wof:geomhash": "cbb3210b69ff3f6ba3260743ce095e48",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488239401,
-    "wof:lastmodified": 1583786434,
+    "wof:lastmodified": 1609881644,
     "wof:name": "YO23 1HJ",
     "wof:parent_id": 101751641,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.091057, 
-    53.944951, 
-    -1.091057, 
-    53.944951
+    -1.09105, 
+    53.944969, 
+    -1.09105, 
+    53.944969
   ],
-  "geometry": {"coordinates":[-1.091057,53.944951],"type":"Point"}
+  "geometry": {"coordinates":[-1.09105,53.944969],"type":"Point"}
 }

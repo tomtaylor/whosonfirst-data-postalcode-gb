@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1994-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.307414,50.910229,-1.307414,50.910229",
-    "geom:latitude": 50.910229,
-    "geom:longitude": -1.307414,
+    "geom:bbox": "-1.307300,50.910273,-1.307300,50.910273",
+    "geom:latitude": 50.910273,
+    "geom:longitude": -1.3073,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      101852445, 
-      404227469, 
-      1360698557, 
       85633159, 
       1360698827, 
-      404448879
+      404448879, 
+      101852445, 
+      404227469, 
+      1360698557
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701084,
-    "wof:geomhash": "d31525a6aa3470de89ca639a54a7fc67",
+    "wof:geomhash": "2b56b28e0e015869739d7dcd029da421",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 487612049,
-    "wof:lastmodified": 1583786181,
+    "wof:lastmodified": 1609869158,
     "wof:name": "SO30 4AG",
     "wof:parent_id": 101852445,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.307414, 
-    50.910229, 
-    -1.307414, 
-    50.910229
+    -1.3073, 
+    50.910273, 
+    -1.3073, 
+    50.910273
   ],
-  "geometry": {"coordinates":[-1.307414,50.910229],"type":"Point"}
+  "geometry": {"coordinates":[-1.3073,50.910273],"type":"Point"}
 }

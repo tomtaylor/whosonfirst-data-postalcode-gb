@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.050946,53.213877,-3.050946,53.213877",
-    "geom:latitude": 53.213877,
-    "geom:longitude": -3.050946,
+    "geom:bbox": "-3.050887,53.213947,-3.050887,53.213947",
+    "geom:latitude": 53.213947,
+    "geom:longitude": -3.050887,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698799, 
-      404448559, 
-      101872043, 
       404227475, 
       1360698637, 
-      85633159
+      85633159, 
+      1360698799, 
+      404448559, 
+      101872043
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701512,
-    "wof:geomhash": "b2d7d4850674ecbf3a9de725e3d051a3",
+    "wof:geomhash": "abd9512d4b4105dccd836d9751dc4e13",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 488496695,
-    "wof:lastmodified": 1583786714,
+    "wof:lastmodified": 1609894342,
     "wof:name": "CH5 4PJ",
     "wof:parent_id": 101872043,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.050946, 
-    53.213877, 
-    -3.050946, 
-    53.213877
+    -3.050887, 
+    53.213947, 
+    -3.050887, 
+    53.213947
   ],
-  "geometry": {"coordinates":[-3.050946,53.213877],"type":"Point"}
+  "geometry": {"coordinates":[-3.050887,53.213947],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2012-10-01",
     "geom:area": 0,
-    "geom:bbox": "-4.013796,50.438680,-4.013796,50.438680",
-    "geom:latitude": 50.43868,
-    "geom:longitude": -4.013796,
+    "geom:bbox": "-4.013852,50.438670,-4.013852,50.438670",
+    "geom:latitude": 50.43867,
+    "geom:longitude": -4.013852,
     "gp:parent_id": "12695918",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698541, 
       85633159, 
       1360699081, 
       404452699, 
-      1125833771
+      1125833771, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701355,
-    "wof:geomhash": "1cf4750a120bdba93769e304038cde2d",
+    "wof:geomhash": "b122463137d1619588e9c92282768af0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488343553,
-    "wof:lastmodified": 1583786554,
+    "wof:lastmodified": 1609887422,
     "wof:name": "PL7 5AF",
     "wof:parent_id": 404452699,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.013796, 
-    50.43868, 
-    -4.013796, 
-    50.43868
+    -4.013852, 
+    50.43867, 
+    -4.013852, 
+    50.43867
   ],
-  "geometry": {"coordinates":[-4.013796,50.43868],"type":"Point"}
+  "geometry": {"coordinates":[-4.013852,50.43867],"type":"Point"}
 }

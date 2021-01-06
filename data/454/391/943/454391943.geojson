@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.839523,54.783247,-1.839523,54.783247",
-    "geom:latitude": 54.783247,
-    "geom:longitude": -1.839523,
+    "geom:bbox": "-1.839455,54.783291,-1.839455,54.783291",
+    "geom:latitude": 54.783291,
+    "geom:longitude": -1.839455,
     "gp:parent_id": "34086",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      404437461, 
       1126050123, 
       404227469, 
       1360698621, 
       85633159, 
-      1360699055
+      1360699055, 
+      404437461
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701539,
-    "wof:geomhash": "f3b0f1054d03ee33efb190e0ee979a25",
+    "wof:geomhash": "119445b67b697d772bf5f1a178befe35",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454391943,
-    "wof:lastmodified": 1583786668,
+    "wof:lastmodified": 1609887075,
     "wof:name": "DL13 4JF",
     "wof:parent_id": 404437461,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.839523, 
-    54.783247, 
-    -1.839523, 
-    54.783247
+    -1.839455, 
+    54.783291, 
+    -1.839455, 
+    54.783291
   ],
-  "geometry": {"coordinates":[-1.839523,54.783247],"type":"Point"}
+  "geometry": {"coordinates":[-1.839455,54.783291],"type":"Point"}
 }

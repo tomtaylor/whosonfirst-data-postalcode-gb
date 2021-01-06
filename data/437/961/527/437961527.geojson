@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.901080,52.406100,-1.901080,52.406100",
-    "geom:latitude": 52.4061,
+    "geom:bbox": "-1.901080,52.406055,-1.901080,52.406055",
+    "geom:latitude": 52.406055,
     "geom:longitude": -1.90108,
     "gp:parent_id": "12723",
     "iso:country": "GB",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      101750467, 
       404227469, 
       85789047, 
       1360698605, 
       85633159, 
-      1360699077, 
-      101750467
+      1360699077
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701650,
-    "wof:geomhash": "5666250db423e212a733a401a73c2aa3",
+    "wof:geomhash": "bda90f09db0fe72240651976e554a882",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 437961527,
-    "wof:lastmodified": 1595715839,
+    "wof:lastmodified": 1609897584,
     "wof:name": "B14 5US",
     "wof:parent_id": 101750467,
     "wof:placetype": "postalcode",
@@ -55,9 +55,9 @@
   },
   "bbox": [
     -1.90108, 
-    52.4061, 
+    52.406055, 
     -1.90108, 
-    52.4061
+    52.406055
   ],
-  "geometry": {"coordinates":[-1.90108,52.4061],"type":"Point"}
+  "geometry": {"coordinates":[-1.90108,52.406055],"type":"Point"}
 }

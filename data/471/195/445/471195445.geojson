@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.550861,52.336398,-0.550861,52.336398",
-    "geom:latitude": 52.336398,
-    "geom:longitude": -0.550861,
+    "geom:bbox": "-0.550385,52.336551,-0.550385,52.336551",
+    "geom:latitude": 52.336551,
+    "geom:longitude": -0.550385,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360698755, 
       404448409, 
       101854883, 
       404227469, 
-      1360698577, 
-      85633159
+      1360698577
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701390,
-    "wof:geomhash": "df3a97933911b676697bc783d1f4674e",
+    "wof:geomhash": "58f8e52c86f8d2c3e186d6b94e422379",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471195445,
-    "wof:lastmodified": 1583786543,
+    "wof:lastmodified": 1609879459,
     "wof:name": "NN9 6DG",
     "wof:parent_id": 404448409,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.550861, 
-    52.336398, 
-    -0.550861, 
-    52.336398
+    -0.550385, 
+    52.336551, 
+    -0.550385, 
+    52.336551
   ],
-  "geometry": {"coordinates":[-0.550861,52.336398],"type":"Point"}
+  "geometry": {"coordinates":[-0.550385,52.336551],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2004-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.534775,51.907964,-2.534775,51.907964",
-    "geom:latitude": 51.907964,
-    "geom:longitude": -2.534775,
+    "geom:bbox": "-2.534790,51.907972,-2.534790,51.907972",
+    "geom:latitude": 51.907972,
+    "geom:longitude": -2.53479,
     "gp:parent_id": "40008",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699053, 
-      404434087, 
       1125863247, 
       404227469, 
       1360698617, 
-      85633159
+      85633159, 
+      1360699053, 
+      404434087
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701725,
-    "wof:geomhash": "5484efa2ae46623c8089e95f54705047",
+    "wof:geomhash": "b710450d6d1a2cd136ab910ac8bd3787",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454807523,
-    "wof:lastmodified": 1583786862,
+    "wof:lastmodified": 1609902482,
     "wof:name": "HR9 7FR",
     "wof:parent_id": 404434087,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.534775, 
-    51.907964, 
-    -2.534775, 
-    51.907964
+    -2.53479, 
+    51.907972, 
+    -2.53479, 
+    51.907972
   ],
-  "geometry": {"coordinates":[-2.534775,51.907964],"type":"Point"}
+  "geometry": {"coordinates":[-2.53479,51.907972],"type":"Point"}
 }

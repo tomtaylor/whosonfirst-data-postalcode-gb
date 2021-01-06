@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1995-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.670888,51.489759,-3.670888,51.489759",
-    "geom:latitude": 51.489759,
-    "geom:longitude": -3.670888,
+    "geom:bbox": "-3.670762,51.490571,-3.670762,51.490571",
+    "geom:latitude": 51.490571,
+    "geom:longitude": -3.670762,
     "gp:parent_id": "12696127",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      101852765, 
+      404227475, 
       1360698631, 
       85633159, 
       1360699051, 
-      404447933, 
-      101852765, 
-      404227475
+      404447933
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701598,
-    "wof:geomhash": "b31a1e26f88dbde8f9cb0a1802c45adc",
+    "wof:geomhash": "b11cc235ba35291a6600681267753bd1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488570007,
-    "wof:lastmodified": 1583786782,
+    "wof:lastmodified": 1609897017,
     "wof:name": "CF36 5SR",
     "wof:parent_id": 404447933,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.670888, 
-    51.489759, 
-    -3.670888, 
-    51.489759
+    -3.670762, 
+    51.490571, 
+    -3.670762, 
+    51.490571
   ],
-  "geometry": {"coordinates":[-3.670888,51.489759],"type":"Point"}
+  "geometry": {"coordinates":[-3.670762,51.490571],"type":"Point"}
 }

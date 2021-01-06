@@ -2,7 +2,7 @@
   "id": 488534183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-06-01",
     "edtf:inception": "1996-06-01",
     "geom:area": 0,
     "geom:bbox": "-2.106898,57.143894,-2.106898,57.143894",
@@ -11,7 +11,7 @@
     "gp:parent_id": "12696182",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "S92000003",
     "os:county_code": "S99999999",
     "os:district_code": "S12000033",
@@ -19,12 +19,12 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      404429183, 
+      101750639, 
       404227471, 
       1360698709, 
       85633159, 
-      1360698989, 
-      404429183, 
-      101750639
+      1360698989
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488534183,
-    "wof:lastmodified": 1583786747,
+    "wof:lastmodified": 1609895636,
     "wof:name": "AB11 6NP",
     "wof:parent_id": 101750639,
     "wof:placetype": "postalcode",

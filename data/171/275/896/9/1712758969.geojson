@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-07-01",
     "geom:area": 0,
-    "geom:bbox": "-0.984723,52.125563,-0.984723,52.125563",
-    "geom:latitude": 52.125563,
-    "geom:longitude": -0.984723,
+    "geom:bbox": "-0.984673,52.125842,-0.984673,52.125842",
+    "geom:latitude": 52.125842,
+    "geom:longitude": -0.984673,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698577, 
-      85633159, 
       1360698755, 
       404455301, 
-      101853047
+      101853047, 
+      404227469, 
+      1360698577, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583802306,
-    "wof:geomhash": "7ba5a4c62811de191d352c446fd837e5",
+    "wof:geomhash": "9a324f48ea1b0430bb1051aad6564713",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712758969,
-    "wof:lastmodified": 1583802306,
+    "wof:lastmodified": 1609874134,
     "wof:name": "NN12 6FL",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.984723, 
-    52.125563, 
-    -0.984723, 
-    52.125563
+    -0.984673, 
+    52.125842, 
+    -0.984673, 
+    52.125842
   ],
-  "geometry": {"coordinates":[-0.984723,52.125563],"type":"Point"}
+  "geometry": {"coordinates":[-0.984673,52.125842],"type":"Point"}
 }

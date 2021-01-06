@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1994-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.350648,50.936196,-1.350648,50.936196",
-    "geom:latitude": 50.936196,
-    "geom:longitude": -1.350648,
+    "geom:bbox": "-1.350820,50.936143,-1.350820,50.936143",
+    "geom:latitude": 50.936143,
+    "geom:longitude": -1.35082,
     "gp:parent_id": "39635",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
       1360698557, 
       85633159, 
       1360698827, 
       404433059, 
-      1360753679, 
-      404227469
+      1360753679
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701080,
-    "wof:geomhash": "d77ab3e489ccfdafac51efd2de29a640",
+    "wof:geomhash": "ccde9d295965f6285abda4668c37627e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487600835,
-    "wof:lastmodified": 1583786178,
+    "wof:lastmodified": 1609868875,
     "wof:name": "SO18 3NE",
     "wof:parent_id": 404433059,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.350648, 
-    50.936196, 
-    -1.350648, 
-    50.936196
+    -1.35082, 
+    50.936143, 
+    -1.35082, 
+    50.936143
   ],
-  "geometry": {"coordinates":[-1.350648,50.936196],"type":"Point"}
+  "geometry": {"coordinates":[-1.35082,50.936143],"type":"Point"}
 }

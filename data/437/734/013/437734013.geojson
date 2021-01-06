@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-03-01",
     "geom:area": 0,
-    "geom:bbox": "-1.856121,52.385764,-1.856121,52.385764",
-    "geom:latitude": 52.385764,
-    "geom:longitude": -1.856121,
+    "geom:bbox": "-1.856385,52.385863,-1.856385,52.385863",
+    "geom:latitude": 52.385863,
+    "geom:longitude": -1.856385,
     "gp:parent_id": "12695969",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1126017967, 
-      404227469, 
       1360698605, 
       85633159, 
       1360699057, 
-      404445845
+      404445845, 
+      1126017967, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701516,
-    "wof:geomhash": "c378c28328cb6c7e22a1b8c16fe1f47f",
+    "wof:geomhash": "813964b8cc606e3387b4825d3cc5a6ea",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 437734013,
-    "wof:lastmodified": 1595714658,
+    "wof:lastmodified": 1609887099,
     "wof:name": "B90 1PY",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.856121, 
-    52.385764, 
-    -1.856121, 
-    52.385764
+    -1.856385, 
+    52.385863, 
+    -1.856385, 
+    52.385863
   ],
-  "geometry": {"coordinates":[-1.856121,52.385764],"type":"Point"}
+  "geometry": {"coordinates":[-1.856385,52.385863],"type":"Point"}
 }

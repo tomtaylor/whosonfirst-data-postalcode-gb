@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-5.510949,56.103622,-5.510949,56.103622",
-    "geom:latitude": 56.103622,
-    "geom:longitude": -5.510949,
+    "geom:bbox": "-5.508021,56.103085,-5.508021,56.103085",
+    "geom:latitude": 56.103085,
+    "geom:longitude": -5.508021,
     "gp:parent_id": "12696185",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227471, 
-      1360698695, 
       85633159, 
       1360698863, 
-      404439789
+      404439789, 
+      404227471, 
+      1360698695
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701432,
-    "wof:geomhash": "c83e5ea6efe53678a1ca9026b5b257e6",
+    "wof:geomhash": "cbcd8e96b44c700931eb7206971fdcda",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504563557,
-    "wof:lastmodified": 1583786575,
+    "wof:lastmodified": 1609879549,
     "wof:name": "PA31 8QJ",
     "wof:parent_id": 404439789,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -5.510949, 
-    56.103622, 
-    -5.510949, 
-    56.103622
+    -5.508021, 
+    56.103085, 
+    -5.508021, 
+    56.103085
   ],
-  "geometry": {"coordinates":[-5.510949,56.103622],"type":"Point"}
+  "geometry": {"coordinates":[-5.508021,56.103085],"type":"Point"}
 }

@@ -2,28 +2,29 @@
   "id": 488281555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2013-05-01",
-    "edtf:inception": "2009-07-01",
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-10-01",
     "geom:area": 0,
-    "geom:bbox": "0.566457,51.876265,0.566457,51.876265",
-    "geom:latitude": 51.876265,
-    "geom:longitude": 0.566457,
+    "geom:bbox": "0.282630,51.870847,0.282630,51.870847",
+    "geom:latitude": 51.870847,
+    "geom:longitude": 0.28263,
     "gp:parent_id": "12695951",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000012",
-    "os:district_code": "E07000067",
-    "os:positional_quality_indicator": "1",
+    "os:district_code": "E07000077",
+    "os:positional_quality_indicator": "5",
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698979, 
+      404431315, 
+      101854709, 
       404227469, 
       1360698551, 
-      85633159, 
-      1360698979, 
-      101875441
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,18 +32,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701292,
-    "wof:geomhash": "7142be5209099e11b65f156eb7889f2e",
+    "wof:geomhash": "774e92231e9810fe7684e23812439fd8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360698979,
-        "locality_id": 101875441,
+        "localadmin_id": 404431315,
+        "locality_id": 101854709,
         "macroregion_id": 404227469,
         "region_id": 1360698551
       }
     ],
     "wof:id": 488281555,
-    "wof:lastmodified": 1583786490,
+    "wof:lastmodified": 1609884269,
     "wof:name": "CM6 1HY",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -52,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.566457, 
-    51.876265, 
-    0.566457, 
-    51.876265
+    0.28263, 
+    51.870847, 
+    0.28263, 
+    51.870847
   ],
-  "geometry": {"coordinates":[0.566457,51.876265],"type":"Point"}
+  "geometry": {"coordinates":[0.28263,51.870847],"type":"Point"}
 }

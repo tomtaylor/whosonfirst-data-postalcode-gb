@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2014-08-01",
     "geom:area": 0,
-    "geom:bbox": "-3.622314,55.894732,-3.622314,55.894732",
-    "geom:latitude": 55.894732,
-    "geom:longitude": -3.622314,
+    "geom:bbox": "-3.622276,55.894579,-3.622276,55.894579",
+    "geom:latitude": 55.894579,
+    "geom:longitude": -3.622276,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699027, 
       404447005, 
       404227471, 
-      1360698679
+      1360698679, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468879062,
-    "wof:geomhash": "08d10a1c42ae31c042b01240a6234be4",
+    "wof:geomhash": "c10c2edf1f0ab0cd9f4fb40f232bdf1d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 874452971,
-    "wof:lastmodified": 1583786251,
+    "wof:lastmodified": 1609869765,
     "wof:name": "EH48 2FA",
     "wof:parent_id": 404447005,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.622314, 
-    55.894732, 
-    -3.622314, 
-    55.894732
+    -3.622276, 
+    55.894579, 
+    -3.622276, 
+    55.894579
   ],
-  "geometry": {"coordinates":[-3.622314,55.894732],"type":"Point"}
+  "geometry": {"coordinates":[-3.622276,55.894579],"type":"Point"}
 }

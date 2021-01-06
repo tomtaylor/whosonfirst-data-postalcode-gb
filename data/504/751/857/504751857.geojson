@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2007-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.605499,51.501005,-3.605499,51.501005",
-    "geom:latitude": 51.501005,
-    "geom:longitude": -3.605499,
+    "geom:bbox": "-3.605805,51.501028,-3.605805,51.501028",
+    "geom:latitude": 51.501028,
+    "geom:longitude": -3.605805,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698631, 
       85633159, 
       1360699051, 
       404439101, 
       1344186035, 
-      404227475
+      404227475, 
+      1360698631
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701546,
-    "wof:geomhash": "df7c10294c1768f6126e09cd318a19c1",
+    "wof:geomhash": "6769e7eb37aef16a334ea9ad5e119d6a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 504751857,
-    "wof:lastmodified": 1583786703,
+    "wof:lastmodified": 1609889099,
     "wof:name": "CF31 5FF",
     "wof:parent_id": 404439101,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.605499, 
-    51.501005, 
-    -3.605499, 
-    51.501005
+    -3.605805, 
+    51.501028, 
+    -3.605805, 
+    51.501028
   ],
-  "geometry": {"coordinates":[-3.605499,51.501005],"type":"Point"}
+  "geometry": {"coordinates":[-3.605805,51.501028],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1986-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.560391,51.030837,-1.560391,51.030837",
-    "geom:latitude": 51.030837,
-    "geom:longitude": -1.560391,
+    "geom:bbox": "-1.565559,51.033512,-1.565559,51.033512",
+    "geom:latitude": 51.033512,
+    "geom:longitude": -1.565559,
     "gp:parent_id": "27265",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -22,8 +22,8 @@
       1360698557, 
       85633159, 
       1360698827, 
-      404453913, 
-      1125843989, 
+      404429363, 
+      1343697071, 
       404227469
     ],
     "wof:breaches": [],
@@ -32,19 +32,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701093,
-    "wof:geomhash": "6d7524e6d7e8e0003dc327b7376ec4ba",
+    "wof:geomhash": "1c50d6d189228260c2f0970fed1da24c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360698827,
-        "localadmin_id": 404453913,
-        "locality_id": 1125843989,
+        "localadmin_id": 404429363,
+        "locality_id": 1343697071,
         "macroregion_id": 404227469,
         "region_id": 1360698557
       }
     ],
     "wof:id": 487626159,
-    "wof:lastmodified": 1583786187,
+    "wof:lastmodified": 1609869635,
     "wof:name": "SO51 0JH",
     "wof:parent_id": 404453913,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.560391, 
-    51.030837, 
-    -1.560391, 
-    51.030837
+    -1.565559, 
+    51.033512, 
+    -1.565559, 
+    51.033512
   ],
-  "geometry": {"coordinates":[-1.560391,51.030837],"type":"Point"}
+  "geometry": {"coordinates":[-1.565559,51.033512],"type":"Point"}
 }

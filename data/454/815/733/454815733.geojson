@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.416941,53.782757,-0.416941,53.782757",
-    "geom:latitude": 53.782757,
-    "geom:longitude": -0.416941,
+    "geom:bbox": "-0.416992,53.782787,-0.416992,53.782787",
+    "geom:latitude": 53.782787,
+    "geom:longitude": -0.416992,
     "gp:parent_id": "16980",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404444827, 
-      1125949063, 
-      404227469, 
       1360698547, 
       85633159, 
-      1360699001
+      1360699001, 
+      404444827, 
+      1125949063, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701726,
-    "wof:geomhash": "10ab233e36aa2e0e5b5edcfd90934430",
+    "wof:geomhash": "51e3746bb5642d8b6cb01fff87c73787",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454815733,
-    "wof:lastmodified": 1583786862,
+    "wof:lastmodified": 1609902812,
     "wof:name": "HU16 5QT",
     "wof:parent_id": 101914017,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.416941, 
-    53.782757, 
-    -0.416941, 
-    53.782757
+    -0.416992, 
+    53.782787, 
+    -0.416992, 
+    53.782787
   ],
-  "geometry": {"coordinates":[-0.416941,53.782757],"type":"Point"}
+  "geometry": {"coordinates":[-0.416992,53.782787],"type":"Point"}
 }

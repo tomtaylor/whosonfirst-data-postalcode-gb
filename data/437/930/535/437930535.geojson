@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.232276,52.226728,-2.232276,52.226728",
-    "geom:latitude": 52.226728,
-    "geom:longitude": -2.232276,
+    "geom:bbox": "-2.232232,52.226773,-2.232232,52.226773",
+    "geom:latitude": 52.226773,
+    "geom:longitude": -2.232232,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699043, 
-      404451319, 
       1360756499, 
       404227469, 
       1360698613, 
-      85633159
+      85633159, 
+      1360699043, 
+      404451319
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701638,
-    "wof:geomhash": "6130b9e2939c0557de18c994e527edcc",
+    "wof:geomhash": "a0d5c13c26fd000a4778a7bd61b00182",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 437930535,
-    "wof:lastmodified": 1583786799,
+    "wof:lastmodified": 1609895964,
     "wof:name": "WR3 7WS",
     "wof:parent_id": "101878319",
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.232276, 
-    52.226728, 
-    -2.232276, 
-    52.226728
+    -2.232232, 
+    52.226773, 
+    -2.232232, 
+    52.226773
   ],
-  "geometry": {"coordinates":[-2.232276,52.226728],"type":"Point"}
+  "geometry": {"coordinates":[-2.232232,52.226773],"type":"Point"}
 }

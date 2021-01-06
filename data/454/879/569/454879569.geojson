@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.204762,52.293436,1.204762,52.293436",
-    "geom:latitude": 52.293436,
-    "geom:longitude": 1.204762,
+    "geom:bbox": "1.204838,52.293490,1.204838,52.293490",
+    "geom:latitude": 52.29349,
+    "geom:longitude": 1.204838,
     "gp:parent_id": "33062",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360754881, 
-      404227469, 
       1360698595, 
       85633159, 
       1360699041, 
-      404450249
+      404450249, 
+      1360754881, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701745,
-    "wof:geomhash": "2a3443a45ec3aa6a7e2639c22aae0f7e",
+    "wof:geomhash": "23b8ea25ecf4afbfe7a4ff99177d3eb8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454879569,
-    "wof:lastmodified": 1583786875,
+    "wof:lastmodified": 1609904122,
     "wof:name": "IP23 7QR",
     "wof:parent_id": 404450249,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.204762, 
-    52.293436, 
-    1.204762, 
-    52.293436
+    1.204838, 
+    52.29349, 
+    1.204838, 
+    52.29349
   ],
-  "geometry": {"coordinates":[1.204762,52.293436],"type":"Point"}
+  "geometry": {"coordinates":[1.204838,52.29349],"type":"Point"}
 }

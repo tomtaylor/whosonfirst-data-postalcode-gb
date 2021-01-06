@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.843450,50.274372,-3.843450,50.274372",
-    "geom:latitude": 50.274372,
-    "geom:longitude": -3.84345,
+    "geom:bbox": "-3.843459,50.274246,-3.843459,50.274246",
+    "geom:latitude": 50.274246,
+    "geom:longitude": -3.843459,
     "gp:parent_id": "37509",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698541, 
       85633159, 
       1360699081, 
       404443815, 
       1125803683, 
-      404227469
+      404227469, 
+      1360698541
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701243,
-    "wof:geomhash": "7a057d5812077f22dd68c0ee99c5d72c",
+    "wof:geomhash": "4f12ada015e62b4d75e4d80339b39431",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487902619,
-    "wof:lastmodified": 1583786326,
+    "wof:lastmodified": 1609885684,
     "wof:name": "TQ7 3LU",
     "wof:parent_id": 404443815,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.84345, 
-    50.274372, 
-    -3.84345, 
-    50.274372
+    -3.843459, 
+    50.274246, 
+    -3.843459, 
+    50.274246
   ],
-  "geometry": {"coordinates":[-3.84345,50.274372],"type":"Point"}
+  "geometry": {"coordinates":[-3.843459,50.274246],"type":"Point"}
 }

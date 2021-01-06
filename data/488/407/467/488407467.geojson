@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.057519,55.757312,-4.057519,55.757312",
-    "geom:latitude": 55.757312,
-    "geom:longitude": -4.057519,
+    "geom:bbox": "-4.057601,55.757356,-4.057601,55.757356",
+    "geom:latitude": 55.757356,
+    "geom:longitude": -4.057601,
     "gp:parent_id": "12696210",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404453929, 
       101750627, 
       404227471, 
       1360698703, 
       85633159, 
-      1360698969
+      1360698969, 
+      404453929
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701418,
-    "wof:geomhash": "c7f16e16522c69d44fe8f4fdd2df4244",
+    "wof:geomhash": "9ac216434afba0e783eff6a624045216",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488407467,
-    "wof:lastmodified": 1583786623,
+    "wof:lastmodified": 1609890502,
     "wof:name": "ML3 8DL",
     "wof:parent_id": 101750627,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.057519, 
-    55.757312, 
-    -4.057519, 
-    55.757312
+    -4.057601, 
+    55.757356, 
+    -4.057601, 
+    55.757356
   ],
-  "geometry": {"coordinates":[-4.057519,55.757312],"type":"Point"}
+  "geometry": {"coordinates":[-4.057601,55.757356],"type":"Point"}
 }

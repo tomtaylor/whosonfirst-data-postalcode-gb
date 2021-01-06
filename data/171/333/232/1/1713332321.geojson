@@ -2,7 +2,7 @@
   "id": 1713332321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-10-01",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
     "geom:bbox": "-1.601468,52.291889,-1.601468,52.291889",
@@ -10,7 +10,7 @@
     "geom:longitude": -1.601468,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000031",
     "os:district_code": "E07000222",
@@ -18,12 +18,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698891, 
       404441251, 
       1125994457, 
       404227469, 
-      1360698603
+      1360698603, 
+      85633159, 
+      1360698891
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1713332321,
-    "wof:lastmodified": 1595753507,
+    "wof:lastmodified": 1609875567,
     "wof:name": "CV34 9RZ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

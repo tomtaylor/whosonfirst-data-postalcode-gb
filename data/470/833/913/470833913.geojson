@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.730740,53.889259,-1.730740,53.889259",
-    "geom:latitude": 53.889259,
-    "geom:longitude": -1.73074,
+    "geom:bbox": "-1.730814,53.889600,-1.730814,53.889600",
+    "geom:latitude": 53.8896,
+    "geom:longitude": -1.730814,
     "gp:parent_id": "28709",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      404434285, 
+      1125853891, 
       404227469, 
       1360698609, 
       85633159, 
-      1360698963, 
-      404434285, 
-      1125853891
+      1360698963
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701083,
-    "wof:geomhash": "4b04ab41a9641578ea7e8b034c8615c8",
+    "wof:geomhash": "b403fc02837ae935c098d5581cbb5d64",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470833913,
-    "wof:lastmodified": 1583786199,
+    "wof:lastmodified": 1609869122,
     "wof:name": "LS29 6BU",
     "wof:parent_id": 404434285,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.73074, 
-    53.889259, 
-    -1.73074, 
-    53.889259
+    -1.730814, 
+    53.8896, 
+    -1.730814, 
+    53.8896
   ],
-  "geometry": {"coordinates":[-1.73074,53.889259],"type":"Point"}
+  "geometry": {"coordinates":[-1.730814,53.8896],"type":"Point"}
 }

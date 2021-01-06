@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1993-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.387639,53.928817,-1.387639,53.928817",
-    "geom:latitude": 53.928817,
-    "geom:longitude": -1.387639,
+    "geom:bbox": "-1.387248,53.928895,-1.387248,53.928895",
+    "geom:latitude": 53.928895,
+    "geom:longitude": -1.387248,
     "gp:parent_id": "40051",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698749, 
       404444579, 
       101873237, 
       404227469, 
-      1360698609, 
-      85633159, 
-      1360698749
+      1360698609
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701219,
-    "wof:geomhash": "549ef8d3b75e32618d3a14d95f346ce0",
+    "wof:geomhash": "8ffb535abbb5fcebfd69a5be84321b2d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470822393,
-    "wof:lastmodified": 1583786401,
+    "wof:lastmodified": 1609868840,
     "wof:name": "LS22 6LL",
     "wof:parent_id": 101873237,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.387639, 
-    53.928817, 
-    -1.387639, 
-    53.928817
+    -1.387248, 
+    53.928895, 
+    -1.387248, 
+    53.928895
   ],
-  "geometry": {"coordinates":[-1.387639,53.928817],"type":"Point"}
+  "geometry": {"coordinates":[-1.387248,53.928895],"type":"Point"}
 }

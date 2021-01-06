@@ -2,15 +2,15 @@
   "id": 454546853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2019-08-01",
-    "edtf:inception": "1980-01-01",
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-10-01",
     "geom:area": 0,
-    "geom:bbox": "-0.007847,51.766205,-0.007847,51.766205",
-    "geom:latitude": 51.766205,
-    "geom:longitude": -0.007847,
+    "geom:bbox": "-0.007673,51.766262,-0.007673,51.766262",
+    "geom:latitude": 51.766262,
+    "geom:longitude": -0.007673,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000015",
     "os:district_code": "E07000095",
@@ -18,12 +18,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1125881275, 
       404227469, 
       1360698559, 
       85633159, 
       1360698763, 
-      1360817279
+      1360817279, 
+      1125881275
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701634,
-    "wof:geomhash": "c8d395f1f0aac73a9e9e7b4814d154ca",
+    "wof:geomhash": "de98ba063621afaee016c5d784383d1d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454546853,
-    "wof:lastmodified": 1583786763,
+    "wof:lastmodified": 1609893766,
     "wof:name": "EN11 8JA",
     "wof:parent_id": 404452545,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.007847, 
-    51.766205, 
-    -0.007847, 
-    51.766205
+    -0.007673, 
+    51.766262, 
+    -0.007673, 
+    51.766262
   ],
-  "geometry": {"coordinates":[-0.007847,51.766205],"type":"Point"}
+  "geometry": {"coordinates":[-0.007673,51.766262],"type":"Point"}
 }

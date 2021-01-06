@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1983-03-01",
     "geom:area": 0,
-    "geom:bbox": "0.779821,51.537222,0.779821,51.537222",
-    "geom:latitude": 51.537222,
-    "geom:longitude": 0.779821,
+    "geom:bbox": "0.779851,51.537226,0.779851,51.537226",
+    "geom:latitude": 51.537226,
+    "geom:longitude": 0.779851,
     "gp:parent_id": "34697",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      101750371, 
-      404227469, 
       1360698551, 
       85633159, 
-      1360698751
+      1360698751, 
+      101750371, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701116,
-    "wof:geomhash": "fe447331a53524f70d47f763e1640250",
+    "wof:geomhash": "8b2a4398088a0bd8c449a97e6ec7193d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 487677039,
-    "wof:lastmodified": 1583786210,
+    "wof:lastmodified": 1609872233,
     "wof:name": "SS3 8UH",
     "wof:parent_id": 101750371,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.779821, 
-    51.537222, 
-    0.779821, 
-    51.537222
+    0.779851, 
+    51.537226, 
+    0.779851, 
+    51.537226
   ],
-  "geometry": {"coordinates":[0.779821,51.537222],"type":"Point"}
+  "geometry": {"coordinates":[0.779851,51.537226],"type":"Point"}
 }

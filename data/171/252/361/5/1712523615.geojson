@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-11-01",
     "geom:area": 0,
-    "geom:bbox": "-0.131240,51.450757,-0.131240,51.450757",
-    "geom:latitude": 51.450757,
-    "geom:longitude": -0.13124,
+    "geom:bbox": "-0.131242,51.450721,-0.131242,51.450721",
+    "geom:latitude": 51.450721,
+    "geom:longitude": -0.131242,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      1158857249, 
       85633159, 
       101750367, 
       404227469, 
       85861663, 
-      1360698645
+      1360698645, 
+      1158857249
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583791850,
-    "wof:geomhash": "834de2b6460c0a2fd96129b1c142aecf",
+    "wof:geomhash": "4718c3898d90927bdc33e31fd4d14a39",
     "wof:hierarchy": [
       {
         "borough_id": 1158857249,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712523615,
-    "wof:lastmodified": 1583791850,
+    "wof:lastmodified": 1609869878,
     "wof:name": "SW4 8FA",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.13124, 
-    51.450757, 
-    -0.13124, 
-    51.450757
+    -0.131242, 
+    51.450721, 
+    -0.131242, 
+    51.450721
   ],
-  "geometry": {"coordinates":[-0.13124,51.450757],"type":"Point"}
+  "geometry": {"coordinates":[-0.131242,51.450721],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.701291,51.540811,0.701291,51.540811",
-    "geom:latitude": 51.540811,
-    "geom:longitude": 0.701291,
+    "geom:bbox": "0.701425,51.540633,0.701425,51.540633",
+    "geom:latitude": 51.540633,
+    "geom:longitude": 0.701425,
     "gp:parent_id": "39880",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698551, 
       85633159, 
       1360698751, 
-      101750371
+      101750371, 
+      404227469, 
+      1360698551
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701110,
-    "wof:geomhash": "fc90f89651e455251af7f3c8af29018c",
+    "wof:geomhash": "732bd1c25318f8ba5f1324bbf26288aa",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 487663303,
-    "wof:lastmodified": 1583786204,
+    "wof:lastmodified": 1609871396,
     "wof:name": "SS0 7BT",
     "wof:parent_id": 101750371,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.701291, 
-    51.540811, 
-    0.701291, 
-    51.540811
+    0.701425, 
+    51.540633, 
+    0.701425, 
+    51.540633
   ],
-  "geometry": {"coordinates":[0.701291,51.540811],"type":"Point"}
+  "geometry": {"coordinates":[0.701425,51.540633],"type":"Point"}
 }

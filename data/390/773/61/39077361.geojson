@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-03-01",
     "geom:area": 0,
-    "geom:bbox": "0.490409,51.763707,0.490409,51.763707",
-    "geom:latitude": 51.763707,
-    "geom:longitude": 0.490409,
+    "geom:bbox": "0.490405,51.763635,0.490405,51.763635",
+    "geom:latitude": 51.763635,
+    "geom:longitude": 0.490405,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698551, 
       85633159, 
       1360698979, 
       404454947, 
       1226177803, 
-      404227469
+      404227469, 
+      1360698551
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583797500,
-    "wof:geomhash": "6b191395b33ac83839fdb01878721c4c",
+    "wof:geomhash": "e06d00ecf2d7480f598390544db23078",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 39077361,
-    "wof:lastmodified": 1595711224,
+    "wof:lastmodified": 1609868569,
     "wof:name": "CM1 6DP",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.490409, 
-    51.763707, 
-    0.490409, 
-    51.763707
+    0.490405, 
+    51.763635, 
+    0.490405, 
+    51.763635
   ],
-  "geometry": {"coordinates":[0.490409,51.763707],"type":"Point"}
+  "geometry": {"coordinates":[0.490405,51.763635],"type":"Point"}
 }

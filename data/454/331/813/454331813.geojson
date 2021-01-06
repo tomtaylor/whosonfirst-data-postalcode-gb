@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1998-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.506290,52.706385,-1.506290,52.706385",
-    "geom:latitude": 52.706385,
-    "geom:longitude": -1.50629,
+    "geom:bbox": "-1.506378,52.706422,-1.506378,52.706422",
+    "geom:latitude": 52.706422,
+    "geom:longitude": -1.506378,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698871, 
-      404437451, 
       101853613, 
       404227469, 
-      1360698569
+      1360698569, 
+      85633159, 
+      1360698871, 
+      404437451
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701494,
-    "wof:geomhash": "b5a76c454d12d42d2e6e459db95db0ba",
+    "wof:geomhash": "e48515b10f1718d526af4bb8ed96baa7",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454331813,
-    "wof:lastmodified": 1583786623,
+    "wof:lastmodified": 1609883886,
     "wof:name": "DE12 7NY",
     "wof:parent_id": 404437451,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.50629, 
-    52.706385, 
-    -1.50629, 
-    52.706385
+    -1.506378, 
+    52.706422, 
+    -1.506378, 
+    52.706422
   ],
-  "geometry": {"coordinates":[-1.50629,52.706385],"type":"Point"}
+  "geometry": {"coordinates":[-1.506378,52.706422],"type":"Point"}
 }

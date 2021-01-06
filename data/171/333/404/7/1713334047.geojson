@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-02-01",
     "geom:area": 0,
-    "geom:bbox": "-2.254161,53.170051,-2.254161,53.170051",
-    "geom:latitude": 53.170051,
-    "geom:longitude": -2.254161,
+    "geom:bbox": "-2.253891,53.169935,-2.253891,53.169935",
+    "geom:latitude": 53.169935,
+    "geom:longitude": -2.253891,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698929, 
       404450081, 
       1360754625, 
       404227469, 
-      1360698537
+      1360698537, 
+      85633159, 
+      1360698929
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735772,
-    "wof:geomhash": "9f26cd5b4d1aa759ec2d310c2bc87429",
+    "wof:geomhash": "e4cada4ea5c72cd09168b61a50a9f146",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1713334047,
-    "wof:lastmodified": 1595753561,
+    "wof:lastmodified": 1609875724,
     "wof:name": "CW12 4ZL",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.254161, 
-    53.170051, 
-    -2.254161, 
-    53.170051
+    -2.253891, 
+    53.169935, 
+    -2.253891, 
+    53.169935
   ],
-  "geometry": {"coordinates":[-2.254161,53.170051],"type":"Point"}
+  "geometry": {"coordinates":[-2.253891,53.169935],"type":"Point"}
 }

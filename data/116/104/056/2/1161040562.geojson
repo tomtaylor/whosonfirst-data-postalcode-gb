@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2017-12-01",
     "geom:area": 0,
-    "geom:bbox": "-3.054043,51.583061,-3.054043,51.583061",
-    "geom:latitude": 51.583061,
-    "geom:longitude": -3.054043,
+    "geom:bbox": "-3.053741,51.583127,-3.053741,51.583127",
+    "geom:latitude": 51.583127,
+    "geom:longitude": -3.053741,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404440165, 
-      1125994879, 
       404227475, 
       1360698641, 
       85633159, 
-      1360698735
+      1360698735, 
+      404440165, 
+      1125994879
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583801249,
-    "wof:geomhash": "b28bdc054d92fbaf56deb3c85d057092",
+    "wof:geomhash": "f051cd74fc3a6e5fd7f09eb1dc01c62d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1161040562,
-    "wof:lastmodified": 1583801249,
+    "wof:lastmodified": 1609875005,
     "wof:name": "NP10 9PD",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.054043, 
-    51.583061, 
-    -3.054043, 
-    51.583061
+    -3.053741, 
+    51.583127, 
+    -3.053741, 
+    51.583127
   ],
-  "geometry": {"coordinates":[-3.054043,51.583061],"type":"Point"}
+  "geometry": {"coordinates":[-3.053741,51.583127],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1986-07-01",
     "geom:area": 0,
-    "geom:bbox": "1.263192,52.645368,1.263192,52.645368",
+    "geom:bbox": "1.263207,52.645368,1.263207,52.645368",
     "geom:latitude": 52.645368,
-    "geom:longitude": 1.263192,
+    "geom:longitude": 1.263207,
     "gp:parent_id": "22945",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698955, 
+      101750483, 
       404227469, 
       1360698575, 
-      85633159, 
-      1360698955, 
-      101750483
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701411,
-    "wof:geomhash": "ed0fd94b3d41a8e9bf3be39b9da4ded3",
+    "wof:geomhash": "b460b86a8fdbcccd67658c0e8dcdb7db",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 471225007,
-    "wof:lastmodified": 1583786565,
+    "wof:lastmodified": 1609881085,
     "wof:name": "NR3 2BP",
     "wof:parent_id": 404432969,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.263192, 
+    1.263207, 
     52.645368, 
-    1.263192, 
+    1.263207, 
     52.645368
   ],
-  "geometry": {"coordinates":[1.263192,52.645368],"type":"Point"}
+  "geometry": {"coordinates":[1.263207,52.645368],"type":"Point"}
 }

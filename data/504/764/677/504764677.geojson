@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.277550,55.865688,-4.277550,55.865688",
-    "geom:latitude": 55.865688,
-    "geom:longitude": -4.27755,
+    "geom:bbox": "-4.277520,55.865692,-4.277520,55.865692",
+    "geom:latitude": 55.865692,
+    "geom:longitude": -4.27752,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698707, 
-      85633159, 
-      1360698797, 
       404430153, 
       1175612707, 
       404227471, 
-      85792613
+      85792613, 
+      1360698707, 
+      85633159, 
+      1360698797
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701559,
-    "wof:geomhash": "d2ae74fe233bf2ef9012a6c2592a0cf7",
+    "wof:geomhash": "e67dab04a4580ebc2e58eb05bd80009f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 504764677,
-    "wof:lastmodified": 1583786711,
+    "wof:lastmodified": 1609889851,
     "wof:name": "G3 7NQ",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.27755, 
-    55.865688, 
-    -4.27755, 
-    55.865688
+    -4.27752, 
+    55.865692, 
+    -4.27752, 
+    55.865692
   ],
-  "geometry": {"coordinates":[-4.27755,55.865688],"type":"Point"}
+  "geometry": {"coordinates":[-4.27752,55.865692],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.729655,51.557223,-0.729655,51.557223",
-    "geom:latitude": 51.557223,
-    "geom:longitude": -0.729655,
+    "geom:bbox": "-0.729712,51.557233,-0.729712,51.557233",
+    "geom:latitude": 51.557233,
+    "geom:longitude": -0.729712,
     "gp:parent_id": "16788",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      404443003, 
       1125783353, 
       404227469, 
       1360698529, 
       85633159, 
-      1360698943, 
-      404443003
+      1360698943
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701750,
-    "wof:geomhash": "b656e67b7523039e58464d4d7987d153",
+    "wof:geomhash": "e85360de894a1646b8defcf7e6486ed9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471817959,
-    "wof:lastmodified": 1595725512,
+    "wof:lastmodified": 1609903843,
     "wof:name": "SL6 9JR",
     "wof:parent_id": 404443003,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.729655, 
-    51.557223, 
-    -0.729655, 
-    51.557223
+    -0.729712, 
+    51.557233, 
+    -0.729712, 
+    51.557233
   ],
-  "geometry": {"coordinates":[-0.729655,51.557223],"type":"Point"}
+  "geometry": {"coordinates":[-0.729712,51.557233],"type":"Point"}
 }

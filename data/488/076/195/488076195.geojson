@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.552565,53.435667,-2.552565,53.435667",
-    "geom:latitude": 53.435667,
+    "geom:bbox": "-2.552565,53.435657,-2.552565,53.435657",
+    "geom:latitude": 53.435657,
     "geom:longitude": -2.552565,
     "gp:parent_id": "17356",
     "iso:country": "GB",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698537, 
-      85633159, 
       1360698965, 
       404448175, 
       1125861855, 
-      404227469
+      404227469, 
+      1360698537, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701231,
-    "wof:geomhash": "ea001f6c30f6dfe7ff903c881133738e",
+    "wof:geomhash": "7139c9e9da83ce233e5c93db32979773",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488076195,
-    "wof:lastmodified": 1583786396,
+    "wof:lastmodified": 1609871406,
     "wof:name": "WA3 7HR",
     "wof:parent_id": 404448175,
     "wof:placetype": "postalcode",
@@ -55,9 +55,9 @@
   },
   "bbox": [
     -2.552565, 
-    53.435667, 
+    53.435657, 
     -2.552565, 
-    53.435667
+    53.435657
   ],
-  "geometry": {"coordinates":[-2.552565,53.435667],"type":"Point"}
+  "geometry": {"coordinates":[-2.552565,53.435657],"type":"Point"}
 }

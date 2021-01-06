@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.109940,51.249619,-1.109940,51.249619",
-    "geom:latitude": 51.249619,
-    "geom:longitude": -1.10994,
+    "geom:bbox": "-1.109683,51.249599,-1.109683,51.249599",
+    "geom:latitude": 51.249599,
+    "geom:longitude": -1.109683,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,11 +18,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698827, 
       101750351, 
       404227469, 
-      1360698557
+      1360698557, 
+      85633159, 
+      1360698827
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -30,7 +30,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701665,
-    "wof:geomhash": "0f932f016515f99f8ba709ca5a4867c7",
+    "wof:geomhash": "bc2a4fd5ae490d1127fc5ea3b03224b8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -41,7 +41,7 @@
       }
     ],
     "wof:id": 471537245,
-    "wof:lastmodified": 1583786798,
+    "wof:lastmodified": 1609896126,
     "wof:name": "RG22 4BE",
     "wof:parent_id": 101750351,
     "wof:placetype": "postalcode",
@@ -51,10 +51,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.10994, 
-    51.249619, 
-    -1.10994, 
-    51.249619
+    -1.109683, 
+    51.249599, 
+    -1.109683, 
+    51.249599
   ],
-  "geometry": {"coordinates":[-1.10994,51.249619],"type":"Point"}
+  "geometry": {"coordinates":[-1.109683,51.249599],"type":"Point"}
 }

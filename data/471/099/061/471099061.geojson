@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.590017,54.942627,-1.590017,54.942627",
-    "geom:latitude": 54.942627,
-    "geom:longitude": -1.590017,
+    "geom:bbox": "-1.589893,54.942483,-1.589893,54.942483",
+    "geom:latitude": 54.942483,
+    "geom:longitude": -1.589893,
     "gp:parent_id": "20928",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698881, 
       1360817105, 
       101750615, 
       404227469, 
-      1360698601
+      1360698601, 
+      85633159, 
+      1360698881
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701292,
-    "wof:geomhash": "756b5792f1d6e8fd783a1c41be96095a",
+    "wof:geomhash": "2255e9d4322f7c1a337ee60350b2b7c7",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471099061,
-    "wof:lastmodified": 1583786430,
+    "wof:lastmodified": 1609872923,
     "wof:name": "NE9 5UE",
     "wof:parent_id": 101750615,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.590017, 
-    54.942627, 
-    -1.590017, 
-    54.942627
+    -1.589893, 
+    54.942483, 
+    -1.589893, 
+    54.942483
   ],
-  "geometry": {"coordinates":[-1.590017,54.942627],"type":"Point"}
+  "geometry": {"coordinates":[-1.589893,54.942483],"type":"Point"}
 }

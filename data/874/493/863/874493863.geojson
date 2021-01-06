@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "uuuu",
-    "edtf:inception": "2020-04-01",
+    "edtf:inception": "2020-06-01",
     "geom:area": 0,
     "geom:bbox": "-1.490343,55.018212,-1.490343,55.018212",
     "geom:latitude": 55.018212,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
+      1360817045, 
+      1125978905, 
       404227469, 
       1360698601, 
       85633159, 
-      1360699037, 
-      1360817045, 
-      1125978905
+      1360699037
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 874493863,
-    "wof:lastmodified": 1595728516,
+    "wof:lastmodified": 1609871825,
     "wof:name": "NE29 1DU",
     "wof:parent_id": 101751649,
     "wof:placetype": "postalcode",

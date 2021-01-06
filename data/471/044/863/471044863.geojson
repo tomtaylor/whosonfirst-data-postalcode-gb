@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1999-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.580449,55.107526,-1.580449,55.107526",
-    "geom:latitude": 55.107526,
-    "geom:longitude": -1.580449,
+    "geom:bbox": "-1.579651,55.107442,-1.579651,55.107442",
+    "geom:latitude": 55.107442,
+    "geom:longitude": -1.579651,
     "gp:parent_id": "22535",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698769, 
       404430049, 
       1125938411, 
       404227469, 
       1360698727, 
-      85633159
+      85633159, 
+      1360698769
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701163,
-    "wof:geomhash": "aa799ff6566704a1c1fdb6e556d8a278",
+    "wof:geomhash": "f0d212081475d7df3efed8160ddbb52d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471044863,
-    "wof:lastmodified": 1595719693,
+    "wof:lastmodified": 1609869903,
     "wof:name": "NE23 3AR",
     "wof:parent_id": 404430049,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.580449, 
-    55.107526, 
-    -1.580449, 
-    55.107526
+    -1.579651, 
+    55.107442, 
+    -1.579651, 
+    55.107442
   ],
-  "geometry": {"coordinates":[-1.580449,55.107526],"type":"Point"}
+  "geometry": {"coordinates":[-1.579651,55.107442],"type":"Point"}
 }

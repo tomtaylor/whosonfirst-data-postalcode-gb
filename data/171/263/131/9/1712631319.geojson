@@ -2,7 +2,7 @@
   "id": 1712631319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-08-01",
     "edtf:inception": "2019-07-01",
     "geom:area": 0,
     "geom:bbox": "-3.929606,54.941075,-3.929606,54.941075",
@@ -10,7 +10,7 @@
     "geom:longitude": -3.929606,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "S92000003",
     "os:county_code": "S99999999",
     "os:district_code": "S12000006",
@@ -18,11 +18,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      404444245, 
+      404227471, 
       1360698647, 
       85633159, 
-      1360699039, 
-      404444245, 
-      404227471
+      1360699039
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1712631319,
-    "wof:lastmodified": 1583796639,
+    "wof:lastmodified": 1609871625,
     "wof:name": "DG7 9AN",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

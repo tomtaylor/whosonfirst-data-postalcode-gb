@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.290296,51.613789,-0.290296,51.613789",
-    "geom:latitude": 51.613789,
-    "geom:longitude": -0.290296,
+    "geom:bbox": "-0.290022,51.613785,-0.290022,51.613785",
+    "geom:latitude": 51.613785,
+    "geom:longitude": -0.290022,
     "gp:parent_id": "12695829",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -20,12 +20,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698645, 
-      1158857263, 
-      85633159, 
       101750367, 
       404227469, 
-      85790773
+      85790773, 
+      1360698645, 
+      1158857263, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701706,
-    "wof:geomhash": "85cd519c4e997c905be761ddf4731a10",
+    "wof:geomhash": "ff5fc5a194d0d907d99248316dc98b27",
     "wof:hierarchy": [
       {
         "borough_id": 1158857263,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 454736291,
-    "wof:lastmodified": 1583786846,
+    "wof:lastmodified": 1609900814,
     "wof:name": "HA8 7RD",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -55,10 +55,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.290296, 
-    51.613789, 
-    -0.290296, 
-    51.613789
+    -0.290022, 
+    51.613785, 
+    -0.290022, 
+    51.613785
   ],
-  "geometry": {"coordinates":[-0.290296,51.613789],"type":"Point"}
+  "geometry": {"coordinates":[-0.290022,51.613785],"type":"Point"}
 }

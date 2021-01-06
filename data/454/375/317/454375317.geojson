@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.783716,54.829655,-1.783716,54.829655",
-    "geom:latitude": 54.829655,
-    "geom:longitude": -1.783716,
+    "geom:bbox": "-1.785009,54.829550,-1.785009,54.829550",
+    "geom:latitude": 54.82955,
+    "geom:longitude": -1.785009,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698621, 
       85633159, 
       1360699055, 
       404432065, 
       101873357, 
-      404227469
+      404227469, 
+      1360698621
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701523,
-    "wof:geomhash": "a5a21e67ea1af8141fa74d33419b306d",
+    "wof:geomhash": "7cf8730c522d60a4019b604a18028d45",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454375317,
-    "wof:lastmodified": 1583786657,
+    "wof:lastmodified": 1609886379,
     "wof:name": "DH7 0RT",
     "wof:parent_id": 404432065,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.783716, 
-    54.829655, 
-    -1.783716, 
-    54.829655
+    -1.785009, 
+    54.82955, 
+    -1.785009, 
+    54.82955
   ],
-  "geometry": {"coordinates":[-1.783716,54.829655],"type":"Point"}
+  "geometry": {"coordinates":[-1.785009,54.82955],"type":"Point"}
 }

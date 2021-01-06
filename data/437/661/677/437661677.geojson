@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "-0.077881,52.409232,-0.077881,52.409232",
-    "geom:latitude": 52.409232,
-    "geom:longitude": -0.077881,
+    "geom:bbox": "-0.078272,52.409373,-0.078272,52.409373",
+    "geom:latitude": 52.409373,
+    "geom:longitude": -0.078272,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698845, 
-      404434281, 
-      101875497, 
       404227469, 
       1360698535, 
-      85633159
+      85633159, 
+      1360698845, 
+      404445909, 
+      101854895
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,19 +31,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701463,
-    "wof:geomhash": "1bcca1398c542d1f119c9857d27c8d1c",
+    "wof:geomhash": "e16b9e9ef0a756db80a94b1c69547412",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360698845,
-        "localadmin_id": 404434281,
-        "locality_id": 101875497,
+        "localadmin_id": 404445909,
+        "locality_id": 101854895,
         "macroregion_id": 404227469,
         "region_id": 1360698535
       }
     ],
     "wof:id": 437661677,
-    "wof:lastmodified": 1595714241,
+    "wof:lastmodified": 1609883488,
     "wof:name": "PE28 2WQ",
     "wof:parent_id": "101872549",
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.077881, 
-    52.409232, 
-    -0.077881, 
-    52.409232
+    -0.078272, 
+    52.409373, 
+    -0.078272, 
+    52.409373
   ],
-  "geometry": {"coordinates":[-0.077881,52.409232],"type":"Point"}
+  "geometry": {"coordinates":[-0.078272,52.409373],"type":"Point"}
 }

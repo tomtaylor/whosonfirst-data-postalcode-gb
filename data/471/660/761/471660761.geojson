@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.516495,53.394343,-1.516495,53.394343",
-    "geom:latitude": 53.394343,
-    "geom:longitude": -1.516495,
+    "geom:bbox": "-1.516511,53.394351,-1.516511,53.394351",
+    "geom:latitude": 53.394351,
+    "geom:longitude": -1.516511,
     "gp:parent_id": "34503",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699075, 
       101750529, 
       404227469, 
       85791283, 
-      1360698591
+      1360698591, 
+      85633159, 
+      1360699075
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701687,
-    "wof:geomhash": "e88558dc95b4178c40da37f154aa59eb",
+    "wof:geomhash": "16b07bb7b27c53735a75bce459cb344d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471660761,
-    "wof:lastmodified": 1583786860,
+    "wof:lastmodified": 1609900407,
     "wof:name": "S6 5FZ",
     "wof:parent_id": 101750529,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.516495, 
-    53.394343, 
-    -1.516495, 
-    53.394343
+    -1.516511, 
+    53.394351, 
+    -1.516511, 
+    53.394351
   ],
-  "geometry": {"coordinates":[-1.516495,53.394343],"type":"Point"}
+  "geometry": {"coordinates":[-1.516511,53.394351],"type":"Point"}
 }

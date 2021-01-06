@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2002-06-01",
     "geom:area": 0,
-    "geom:bbox": "-0.764830,50.840723,-0.764830,50.840723",
-    "geom:latitude": 50.840723,
-    "geom:longitude": -0.76483,
+    "geom:bbox": "-0.764714,50.840794,-0.764714,50.840794",
+    "geom:latitude": 50.840794,
+    "geom:longitude": -0.764714,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698607, 
       85633159, 
       1360698757, 
       404433377, 
-      101852329
+      101852329, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701620,
-    "wof:geomhash": "4c6d28ed092839e3ffa44ac0baaee7b5",
+    "wof:geomhash": "6dc86c95bf259dac5ce8e4b74920cdb1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471457033,
-    "wof:lastmodified": 1583786750,
+    "wof:lastmodified": 1609892717,
     "wof:name": "PO19 7HP",
     "wof:parent_id": 101852329,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.76483, 
-    50.840723, 
-    -0.76483, 
-    50.840723
+    -0.764714, 
+    50.840794, 
+    -0.764714, 
+    50.840794
   ],
-  "geometry": {"coordinates":[-0.76483,50.840723],"type":"Point"}
+  "geometry": {"coordinates":[-0.764714,50.840794],"type":"Point"}
 }

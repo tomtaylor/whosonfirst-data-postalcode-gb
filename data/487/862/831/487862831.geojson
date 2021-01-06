@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1981-09-01",
     "geom:area": 0,
-    "geom:bbox": "0.968200,50.983063,0.968200,50.983063",
-    "geom:latitude": 50.983063,
-    "geom:longitude": 0.9682,
+    "geom:bbox": "0.968617,50.983349,0.968617,50.983349",
+    "geom:latitude": 50.983349,
+    "geom:longitude": 0.968617,
     "gp:parent_id": "26707",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698565, 
-      85633159, 
       1360698811, 
       404441711, 
       1125999079, 
-      404227469
+      404227469, 
+      1360698565, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701217,
-    "wof:geomhash": "fe7e38ab237325b4afe42ae68451416b",
+    "wof:geomhash": "a0878d3943a94b33599ddb09df47568f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487862831,
-    "wof:lastmodified": 1583786310,
+    "wof:lastmodified": 1609883975,
     "wof:name": "TN28 8PQ",
     "wof:parent_id": 404441711,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.9682, 
-    50.983063, 
-    0.9682, 
-    50.983063
+    0.968617, 
+    50.983349, 
+    0.968617, 
+    50.983349
   ],
-  "geometry": {"coordinates":[0.9682,50.983063],"type":"Point"}
+  "geometry": {"coordinates":[0.968617,50.983349],"type":"Point"}
 }

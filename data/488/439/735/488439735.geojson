@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.399612,55.806056,-4.399612,55.806056",
-    "geom:latitude": 55.806056,
-    "geom:longitude": -4.399612,
+    "geom:bbox": "-4.399233,55.806108,-4.399233,55.806108",
+    "geom:latitude": 55.806108,
+    "geom:longitude": -4.399233,
     "gp:parent_id": "12696194",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698699, 
       85633159, 
       1360699117, 
       404435263, 
       404227471, 
-      85789427
+      85789427, 
+      1360698699
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701452,
-    "wof:geomhash": "b964046e8d3568f6c4d7e92d205cab4e",
+    "wof:geomhash": "3a28cfcc8232604b7a4c821e7ff9f4f9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488439735,
-    "wof:lastmodified": 1583786663,
+    "wof:lastmodified": 1609891885,
     "wof:name": "G78 1HP",
     "wof:parent_id": 101872439,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.399612, 
-    55.806056, 
-    -4.399612, 
-    55.806056
+    -4.399233, 
+    55.806108, 
+    -4.399233, 
+    55.806108
   ],
-  "geometry": {"coordinates":[-4.399612,55.806056],"type":"Point"}
+  "geometry": {"coordinates":[-4.399233,55.806108],"type":"Point"}
 }

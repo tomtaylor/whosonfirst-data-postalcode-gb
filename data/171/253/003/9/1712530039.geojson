@@ -2,8 +2,8 @@
   "id": 1712530039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2020-04-01",
-    "edtf:inception": "2019-11-01",
+    "edtf:cessation": "2020-10-01",
+    "edtf:inception": "2020-09-01",
     "geom:area": 0,
     "geom:bbox": "-0.171012,51.643015,-0.171012,51.643015",
     "geom:latitude": 51.643015,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      1158857285, 
-      85633159, 
-      101750367, 
       404227469, 
       85860223, 
-      1360698645
+      1360698645, 
+      1158857285, 
+      85633159, 
+      101750367
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712530039,
-    "wof:lastmodified": 1595710927,
+    "wof:lastmodified": 1609869958,
     "wof:name": "EN5 9SE",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

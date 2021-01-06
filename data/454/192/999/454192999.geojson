@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2006-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.984970,51.926693,0.984970,51.926693",
-    "geom:latitude": 51.926693,
-    "geom:longitude": 0.98497,
+    "geom:bbox": "0.984892,51.926614,0.984892,51.926614",
+    "geom:latitude": 51.926614,
+    "geom:longitude": 0.984892,
     "gp:parent_id": "10949",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698551, 
       85633159, 
       1360698979, 
       404455407, 
-      1125901555
+      1125901555, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701358,
-    "wof:geomhash": "44c29ebb97cac184da108ad4ddb787b7",
+    "wof:geomhash": "35c28d13b02eac201ebb8050177dc419",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454192999,
-    "wof:lastmodified": 1583786487,
+    "wof:lastmodified": 1609877393,
     "wof:name": "CO7 7NW",
     "wof:parent_id": 404455407,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.98497, 
-    51.926693, 
-    0.98497, 
-    51.926693
+    0.984892, 
+    51.926614, 
+    0.984892, 
+    51.926614
   ],
-  "geometry": {"coordinates":[0.98497,51.926693],"type":"Point"}
+  "geometry": {"coordinates":[0.984892,51.926614],"type":"Point"}
 }

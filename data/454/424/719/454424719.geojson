@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.677242,53.572097,-0.677242,53.572097",
+    "geom:bbox": "-0.677287,53.572097,-0.677287,53.572097",
     "geom:latitude": 53.572097,
-    "geom:longitude": -0.677242,
+    "geom:longitude": -0.677287,
     "gp:parent_id": "34260",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360698901, 
       101750557, 
       404227469, 
-      1360698571, 
-      85633159
+      1360698571
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701557,
-    "wof:geomhash": "89f7aaf297d23e3d7f0eb14aa21e7039",
+    "wof:geomhash": "6b4f9a053ab2f0ca05ca94f32de4a72d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454424719,
-    "wof:lastmodified": 1583786688,
+    "wof:lastmodified": 1609889111,
     "wof:name": "DN17 1PS",
     "wof:parent_id": 101750557,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.677242, 
+    -0.677287, 
     53.572097, 
-    -0.677242, 
+    -0.677287, 
     53.572097
   ],
-  "geometry": {"coordinates":[-0.677242,53.572097],"type":"Point"}
+  "geometry": {"coordinates":[-0.677287,53.572097],"type":"Point"}
 }

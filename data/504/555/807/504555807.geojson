@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.670178,55.927957,-4.670178,55.927957",
-    "geom:latitude": 55.927957,
-    "geom:longitude": -4.670178,
+    "geom:bbox": "-4.670205,55.927885,-4.670205,55.927885",
+    "geom:latitude": 55.927885,
+    "geom:longitude": -4.670205,
     "gp:parent_id": "12696200",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698699, 
-      85633159, 
       1360699121, 
       404455299, 
       101750635, 
-      404227471
+      404227471, 
+      1360698699, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701425,
-    "wof:geomhash": "f6321c17dde9cb06a9e520c1d43e2e39",
+    "wof:geomhash": "1f5ff36f672745213b645e84b530f190",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504555807,
-    "wof:lastmodified": 1583786567,
+    "wof:lastmodified": 1609879202,
     "wof:name": "PA14 5TQ",
     "wof:parent_id": 101750635,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.670178, 
-    55.927957, 
-    -4.670178, 
-    55.927957
+    -4.670205, 
+    55.927885, 
+    -4.670205, 
+    55.927885
   ],
-  "geometry": {"coordinates":[-4.670178,55.927957],"type":"Point"}
+  "geometry": {"coordinates":[-4.670205,55.927885],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.761421,53.968218,-1.761421,53.968218",
-    "geom:latitude": 53.968218,
-    "geom:longitude": -1.761421,
+    "geom:bbox": "-1.760407,53.966931,-1.760407,53.966931",
+    "geom:latitude": 53.966931,
+    "geom:longitude": -1.760407,
     "gp:parent_id": "37626",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404450155, 
-      1360754749, 
-      404227469, 
       1360698619, 
       85633159, 
-      1360698753
+      1360698753, 
+      404450155, 
+      1360754749, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701195,
-    "wof:geomhash": "d1e95c3005b79d4bb37acc16bc60fb81",
+    "wof:geomhash": "d9299cb691360716b3c21b9d696b7473",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470821225,
-    "wof:lastmodified": 1583786390,
+    "wof:lastmodified": 1609868816,
     "wof:name": "LS21 2PP",
     "wof:parent_id": 404450155,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.761421, 
-    53.968218, 
-    -1.761421, 
-    53.968218
+    -1.760407, 
+    53.966931, 
+    -1.760407, 
+    53.966931
   ],
-  "geometry": {"coordinates":[-1.761421,53.968218],"type":"Point"}
+  "geometry": {"coordinates":[-1.760407,53.966931],"type":"Point"}
 }

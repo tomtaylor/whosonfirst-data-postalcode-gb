@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1988-03-01",
     "geom:area": 0,
-    "geom:bbox": "-1.475133,53.381530,-1.475133,53.381530",
-    "geom:latitude": 53.38153,
-    "geom:longitude": -1.475133,
+    "geom:bbox": "-1.475162,53.381566,-1.475162,53.381566",
+    "geom:latitude": 53.381566,
+    "geom:longitude": -1.475162,
     "gp:parent_id": "34503",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      85793123, 
       1360698591, 
       85633159, 
       1360699075, 
       101750529, 
-      404227469, 
-      85793123
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701682,
-    "wof:geomhash": "101bbca9773be392aeebc048cea2a6e6",
+    "wof:geomhash": "18100c58035f2d8cdf8471ce91deb724",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471624371,
-    "wof:lastmodified": 1583786841,
+    "wof:lastmodified": 1609899574,
     "wof:name": "S1 4EN",
     "wof:parent_id": 101750529,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.475133, 
-    53.38153, 
-    -1.475133, 
-    53.38153
+    -1.475162, 
+    53.381566, 
+    -1.475162, 
+    53.381566
   ],
-  "geometry": {"coordinates":[-1.475133,53.38153],"type":"Point"}
+  "geometry": {"coordinates":[-1.475162,53.381566],"type":"Point"}
 }

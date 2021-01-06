@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.542518,51.474099,-0.542518,51.474099",
-    "geom:latitude": 51.474099,
-    "geom:longitude": -0.542518,
+    "geom:bbox": "-0.542562,51.474091,-0.542562,51.474091",
+    "geom:latitude": 51.474091,
+    "geom:longitude": -0.542562,
     "gp:parent_id": "23963",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698529, 
       85633159, 
       1360698943, 
       404430717, 
       1125994691, 
-      404227469, 
-      1360698529
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701741,
-    "wof:geomhash": "037913c8afe0227fc2a29312f2521b08",
+    "wof:geomhash": "7c718cf937d23c05d34f86b15192460f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471808063,
-    "wof:lastmodified": 1583786912,
+    "wof:lastmodified": 1609903403,
     "wof:name": "SL3 9NY",
     "wof:parent_id": 404430717,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.542518, 
-    51.474099, 
-    -0.542518, 
-    51.474099
+    -0.542562, 
+    51.474091, 
+    -0.542562, 
+    51.474091
   ],
-  "geometry": {"coordinates":[-0.542518,51.474099],"type":"Point"}
+  "geometry": {"coordinates":[-0.542562,51.474091],"type":"Point"}
 }

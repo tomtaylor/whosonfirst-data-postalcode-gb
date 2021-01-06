@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2011-03-01",
     "geom:area": 0,
-    "geom:bbox": "-4.000078,56.584122,-4.000078,56.584122",
-    "geom:latitude": 56.584122,
-    "geom:longitude": -4.000078,
+    "geom:bbox": "-4.000320,56.584082,-4.000320,56.584082",
+    "geom:latitude": 56.584082,
+    "geom:longitude": -4.00032,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698829, 
       404451983, 
       404227471, 
-      1360698691, 
-      85633159, 
-      1360698829
+      1360698691
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468895120,
-    "wof:geomhash": "31641cc52f9e38d3dcb20e56403c2b18",
+    "wof:geomhash": "dc716914c1e4f37fc9119cefc6a0e3e5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 874509913,
-    "wof:lastmodified": 1583786407,
+    "wof:lastmodified": 1609872880,
     "wof:name": "PH15 2HZ",
     "wof:parent_id": 404451983,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.000078, 
-    56.584122, 
-    -4.000078, 
-    56.584122
+    -4.00032, 
+    56.584082, 
+    -4.00032, 
+    56.584082
   ],
-  "geometry": {"coordinates":[-4.000078,56.584122],"type":"Point"}
+  "geometry": {"coordinates":[-4.00032,56.584082],"type":"Point"}
 }

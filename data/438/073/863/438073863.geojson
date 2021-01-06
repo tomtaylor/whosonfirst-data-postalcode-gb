@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.725638,51.205646,-2.725638,51.205646",
-    "geom:latitude": 51.205646,
-    "geom:longitude": -2.725638,
+    "geom:bbox": "-2.725457,51.205660,-2.725457,51.205660",
+    "geom:latitude": 51.20566,
+    "geom:longitude": -2.725457,
     "gp:parent_id": "23054",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      1125971813, 
       404227469, 
       1360698589, 
       85633159, 
       1360699059, 
-      404447325, 
-      1125971813
+      404447325
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701206,
-    "wof:geomhash": "5580143da9372db0aed34130a1493f57",
+    "wof:geomhash": "b3e6909ef16b55316592ac7b5704d3fb",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438073863,
-    "wof:lastmodified": 1583786343,
+    "wof:lastmodified": 1609871134,
     "wof:name": "BA5 1PD",
     "wof:parent_id": 404447325,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.725638, 
-    51.205646, 
-    -2.725638, 
-    51.205646
+    -2.725457, 
+    51.20566, 
+    -2.725457, 
+    51.20566
   ],
-  "geometry": {"coordinates":[-2.725638,51.205646],"type":"Point"}
+  "geometry": {"coordinates":[-2.725457,51.20566],"type":"Point"}
 }

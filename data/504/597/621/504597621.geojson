@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.124093,51.624185,-4.124093,51.624185",
-    "geom:latitude": 51.624185,
-    "geom:longitude": -4.124093,
+    "geom:bbox": "-4.122054,51.624920,-4.122054,51.624920",
+    "geom:latitude": 51.62492,
+    "geom:longitude": -4.122054,
     "gp:parent_id": "27045",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360711849, 
-      404227475, 
       1360698629, 
       85633159, 
       1360699095, 
-      404438591
+      404438591, 
+      1360711849, 
+      404227475
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701467,
-    "wof:geomhash": "c45dfc7331d9c24f10004e60603b84bd",
+    "wof:geomhash": "89df30f49edf0a508ae20c59636e0818",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504597621,
-    "wof:lastmodified": 1583786621,
+    "wof:lastmodified": 1609881594,
     "wof:name": "SA4 3TQ",
     "wof:parent_id": 404438591,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.124093, 
-    51.624185, 
-    -4.124093, 
-    51.624185
+    -4.122054, 
+    51.62492, 
+    -4.122054, 
+    51.62492
   ],
-  "geometry": {"coordinates":[-4.124093,51.624185],"type":"Point"}
+  "geometry": {"coordinates":[-4.122054,51.62492],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1996-12-01",
     "geom:area": 0,
-    "geom:bbox": "-2.086726,52.607344,-2.086726,52.607344",
-    "geom:latitude": 52.607344,
-    "geom:longitude": -2.086726,
+    "geom:bbox": "-2.086380,52.607449,-2.086380,52.607449",
+    "geom:latitude": 52.607449,
+    "geom:longitude": -2.08638,
     "gp:parent_id": "40859",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698605, 
+      85633159, 
       1360698737, 
       1126027181, 
-      404227469, 
-      1360698605, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701111,
-    "wof:geomhash": "ea9f192456196bee88b531bcc8382103",
+    "wof:geomhash": "3e5db80abcec7130e54d1e07c96d1629",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488206797,
-    "wof:lastmodified": 1583786362,
+    "wof:lastmodified": 1609880141,
     "wof:name": "WV11 1LA",
     "wof:parent_id": 101914031,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.086726, 
-    52.607344, 
-    -2.086726, 
-    52.607344
+    -2.08638, 
+    52.607449, 
+    -2.08638, 
+    52.607449
   ],
-  "geometry": {"coordinates":[-2.086726,52.607344],"type":"Point"}
+  "geometry": {"coordinates":[-2.08638,52.607449],"type":"Point"}
 }

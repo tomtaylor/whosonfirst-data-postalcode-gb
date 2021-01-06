@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.348342,55.819377,-4.348342,55.819377",
-    "geom:latitude": 55.819377,
-    "geom:longitude": -4.348342,
+    "geom:bbox": "-4.348402,55.819304,-4.348402,55.819304",
+    "geom:latitude": 55.819304,
+    "geom:longitude": -4.348402,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1175612707, 
-      404227471, 
       85789877, 
       1360698707, 
       85633159, 
       1360698797, 
-      404430153
+      404430153, 
+      1175612707, 
+      404227471
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701170,
-    "wof:geomhash": "db6d8fa92141898e4bb519eefe1f1173",
+    "wof:geomhash": "73681eee4ef38ab22630ef185eedd127",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 504406283,
-    "wof:lastmodified": 1583786275,
+    "wof:lastmodified": 1609869769,
     "wof:name": "G53 6HE",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.348342, 
-    55.819377, 
-    -4.348342, 
-    55.819377
+    -4.348402, 
+    55.819304, 
+    -4.348402, 
+    55.819304
   ],
-  "geometry": {"coordinates":[-4.348342,55.819377],"type":"Point"}
+  "geometry": {"coordinates":[-4.348402,55.819304],"type":"Point"}
 }

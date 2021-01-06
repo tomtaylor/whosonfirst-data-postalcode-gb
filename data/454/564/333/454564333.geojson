@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.239418,50.678633,-3.239418,50.678633",
-    "geom:latitude": 50.678633,
-    "geom:longitude": -3.239418,
+    "geom:bbox": "-3.239320,50.678670,-3.239320,50.678670",
+    "geom:latitude": 50.67867,
+    "geom:longitude": -3.23932,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699081, 
       404441999, 
       101852587, 
       404227469, 
-      1360698541
+      1360698541, 
+      85633159, 
+      1360699081
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701636,
-    "wof:geomhash": "f8bdaf4af6e464505b3773dd3b6a6d07",
+    "wof:geomhash": "3423009acd38dc82d1367f050449892f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454564333,
-    "wof:lastmodified": 1583786768,
+    "wof:lastmodified": 1609894523,
     "wof:name": "EX10 8ND",
     "wof:parent_id": 101852587,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.239418, 
-    50.678633, 
-    -3.239418, 
-    50.678633
+    -3.23932, 
+    50.67867, 
+    -3.23932, 
+    50.67867
   ],
-  "geometry": {"coordinates":[-3.239418,50.678633],"type":"Point"}
+  "geometry": {"coordinates":[-3.23932,50.67867],"type":"Point"}
 }

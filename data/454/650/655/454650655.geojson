@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.074712,51.920025,-2.074712,51.920025",
-    "geom:latitude": 51.920025,
-    "geom:longitude": -2.074712,
+    "geom:bbox": "-2.074363,51.919711,-2.074363,51.919711",
+    "geom:latitude": 51.919711,
+    "geom:longitude": -2.074363,
     "gp:parent_id": "15790",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698553, 
-      85633159, 
-      1360698927, 
       404453199, 
       1360758927, 
-      404227469
+      404227469, 
+      1360698553, 
+      85633159, 
+      1360698927
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701687,
-    "wof:geomhash": "4d4660dfc595abe1d32797bb26c41f5c",
+    "wof:geomhash": "d0c1114174a91e02abb0e36e1470570f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454650655,
-    "wof:lastmodified": 1583786818,
+    "wof:lastmodified": 1609898418,
     "wof:name": "GL50 4NZ",
     "wof:parent_id": 404453199,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.074712, 
-    51.920025, 
-    -2.074712, 
-    51.920025
+    -2.074363, 
+    51.919711, 
+    -2.074363, 
+    51.919711
   ],
-  "geometry": {"coordinates":[-2.074712,51.920025],"type":"Point"}
+  "geometry": {"coordinates":[-2.074363,51.919711],"type":"Point"}
 }

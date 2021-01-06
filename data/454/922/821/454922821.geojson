@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.322518,51.296557,-0.322518,51.296557",
-    "geom:latitude": 51.296557,
-    "geom:longitude": -0.322518,
+    "geom:bbox": "-0.322372,51.296636,-0.322372,51.296636",
+    "geom:latitude": 51.296636,
+    "geom:longitude": -0.322372,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404431517, 
-      1360756083, 
       404227469, 
       1360698599, 
       85633159, 
-      1360698887
+      1360698887, 
+      404431517, 
+      1360756083
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701758,
-    "wof:geomhash": "cd81ce084819e2583a6cdb631625e4c1",
+    "wof:geomhash": "a833e76cf1a344e535678e7e9ce22359",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454922821,
-    "wof:lastmodified": 1583786886,
+    "wof:lastmodified": 1609904983,
     "wof:name": "KT22 8SZ",
     "wof:parent_id": 101853509,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.322518, 
-    51.296557, 
-    -0.322518, 
-    51.296557
+    -0.322372, 
+    51.296636, 
+    -0.322372, 
+    51.296636
   ],
-  "geometry": {"coordinates":[-0.322518,51.296557],"type":"Point"}
+  "geometry": {"coordinates":[-0.322372,51.296636],"type":"Point"}
 }

@@ -5,30 +5,30 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "-1.326298,53.794377,-1.326298,53.794377",
-    "geom:latitude": 53.794377,
-    "geom:longitude": -1.326298,
+    "geom:bbox": "-1.325909,53.794042,-1.325909,53.794042",
+    "geom:latitude": 53.794042,
+    "geom:longitude": -1.325909,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E08000035",
-    "os:positional_quality_indicator": "5",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698609, 
       85633159, 
       1360698749, 
       404446375, 
-      1126031171, 
-      404227469, 
-      1360698609
+      1126031171
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735520,
-    "wof:geomhash": "e7990385db63078b43e9970f555f340f",
+    "wof:geomhash": "79847aed494d2ac9925d5a51296e2d81",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1713328361,
-    "wof:lastmodified": 1595753363,
+    "wof:lastmodified": 1609875299,
     "wof:name": "LS25 4FG",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.326298, 
-    53.794377, 
-    -1.326298, 
-    53.794377
+    -1.325909, 
+    53.794042, 
+    -1.325909, 
+    53.794042
   ],
-  "geometry": {"coordinates":[-1.326298,53.794377],"type":"Point"}
+  "geometry": {"coordinates":[-1.325909,53.794042],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.597350,52.034268,-0.597350,52.034268",
-    "geom:latitude": 52.034268,
-    "geom:longitude": -0.59735,
+    "geom:bbox": "-0.597410,52.034205,-0.597410,52.034205",
+    "geom:latitude": 52.034205,
+    "geom:longitude": -0.59741,
     "gp:parent_id": "14093",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698767, 
       404439661, 
       1125869915, 
       404227469, 
-      1360698527
+      1360698527, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701366,
-    "wof:geomhash": "e3e8d60ce2a45142bf105e8af1ba896b",
+    "wof:geomhash": "59824a8cc13f3a34d68274032a87933a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470981595,
-    "wof:lastmodified": 1583786502,
+    "wof:lastmodified": 1609878352,
     "wof:name": "MK43 0XY",
     "wof:parent_id": 404439661,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.59735, 
-    52.034268, 
-    -0.59735, 
-    52.034268
+    -0.59741, 
+    52.034205, 
+    -0.59741, 
+    52.034205
   ],
-  "geometry": {"coordinates":[-0.59735,52.034268],"type":"Point"}
+  "geometry": {"coordinates":[-0.59741,52.034205],"type":"Point"}
 }

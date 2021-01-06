@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1999-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.715401,51.813223,-2.715401,51.813223",
-    "geom:latitude": 51.813223,
-    "geom:longitude": -2.715401,
+    "geom:bbox": "-2.715571,51.812935,-2.715571,51.812935",
+    "geom:latitude": 51.812935,
+    "geom:longitude": -2.715571,
     "gp:parent_id": "12696133",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      404227475, 
+      1360698641, 
       85633159, 
       1360699109, 
       404446985, 
-      101852903, 
-      404227475, 
-      1360698641
+      101852903
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701414,
-    "wof:geomhash": "eec365fdc831d92603be4ff52f027896",
+    "wof:geomhash": "a674ab25eb42943db4c8704312e08917",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504545119,
-    "wof:lastmodified": 1583786549,
+    "wof:lastmodified": 1609878601,
     "wof:name": "NP25 3XA",
     "wof:parent_id": 101852903,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.715401, 
-    51.813223, 
-    -2.715401, 
-    51.813223
+    -2.715571, 
+    51.812935, 
+    -2.715571, 
+    51.812935
   ],
-  "geometry": {"coordinates":[-2.715401,51.813223],"type":"Point"}
+  "geometry": {"coordinates":[-2.715571,51.812935],"type":"Point"}
 }

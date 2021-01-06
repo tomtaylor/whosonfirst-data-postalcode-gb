@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.774138,51.655428,-0.774138,51.655428",
-    "geom:latitude": 51.655428,
-    "geom:longitude": -0.774138,
+    "geom:bbox": "-0.774180,51.655464,-0.774180,51.655464",
+    "geom:latitude": 51.655464,
+    "geom:longitude": -0.77418,
     "gp:parent_id": "18418",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404436773, 
-      1360758901, 
-      404227469, 
       1360698533, 
       85633159, 
-      1360698997
+      1360698997, 
+      404436773, 
+      1360758901, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701712,
-    "wof:geomhash": "4dc1684e0f483f109c26b0bcd3b4be36",
+    "wof:geomhash": "0191ae5cb821fd20aa5232e050bec90e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454770399,
-    "wof:lastmodified": 1595717085,
+    "wof:lastmodified": 1609901629,
     "wof:name": "HP13 5YF",
     "wof:parent_id": 404436773,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.774138, 
-    51.655428, 
-    -0.774138, 
-    51.655428
+    -0.77418, 
+    51.655464, 
+    -0.77418, 
+    51.655464
   ],
-  "geometry": {"coordinates":[-0.774138,51.655428],"type":"Point"}
+  "geometry": {"coordinates":[-0.77418,51.655464],"type":"Point"}
 }

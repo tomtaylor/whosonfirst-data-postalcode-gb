@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1981-09-01",
     "geom:area": 0,
-    "geom:bbox": "1.367277,52.373662,1.367277,52.373662",
-    "geom:latitude": 52.373662,
-    "geom:longitude": 1.367277,
+    "geom:bbox": "1.367263,52.373684,1.367263,52.373684",
+    "geom:latitude": 52.373684,
+    "geom:longitude": 1.367263,
     "gp:parent_id": "28768",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699041, 
-      404452187, 
-      1226674841, 
       404227469, 
       1360698595, 
-      85633159
+      85633159, 
+      1360699041, 
+      404452187, 
+      1226674841
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701745,
-    "wof:geomhash": "89626bf57de8b1ee498666bfcdd26b01",
+    "wof:geomhash": "d6f9e5779900925d082398d9627e4f91",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454875839,
-    "wof:lastmodified": 1583786875,
+    "wof:lastmodified": 1609903921,
     "wof:name": "IP20 0LQ",
     "wof:parent_id": 404452187,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.367277, 
-    52.373662, 
-    1.367277, 
-    52.373662
+    1.367263, 
+    52.373684, 
+    1.367263, 
+    52.373684
   ],
-  "geometry": {"coordinates":[1.367277,52.373662],"type":"Point"}
+  "geometry": {"coordinates":[1.367263,52.373684],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.056620,51.588855,-4.056620,51.588855",
-    "geom:latitude": 51.588855,
-    "geom:longitude": -4.05662,
+    "geom:bbox": "-4.054408,51.591025,-4.054408,51.591025",
+    "geom:latitude": 51.591025,
+    "geom:longitude": -4.054408,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360699095, 
       404442373, 
       1126024753, 
       404227475, 
-      1360698629, 
-      85633159, 
-      1360699095
+      1360698629
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701462,
-    "wof:geomhash": "a596b87c069058145a4b80dc05039b07",
+    "wof:geomhash": "1d1cd0ebb5e1d5aa7afb7f5eaec49f3f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 504592639,
-    "wof:lastmodified": 1583786612,
+    "wof:lastmodified": 1609881343,
     "wof:name": "SA3 3JD",
     "wof:parent_id": 404442373,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.05662, 
-    51.588855, 
-    -4.05662, 
-    51.588855
+    -4.054408, 
+    51.591025, 
+    -4.054408, 
+    51.591025
   ],
-  "geometry": {"coordinates":[-4.05662,51.588855],"type":"Point"}
+  "geometry": {"coordinates":[-4.054408,51.591025],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.993545,51.616850,-3.993545,51.616850",
-    "geom:latitude": 51.61685,
-    "geom:longitude": -3.993545,
+    "geom:bbox": "-3.993473,51.616851,-3.993473,51.616851",
+    "geom:latitude": 51.616851,
+    "geom:longitude": -3.993473,
     "gp:parent_id": "34916",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698629, 
+      85633159, 
       1360699095, 
       404439459, 
       1360711829, 
-      404227475, 
-      1360698629, 
-      85633159
+      404227475
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701447,
-    "wof:geomhash": "eda4bf3155b0a4cff357ab722420fdb6",
+    "wof:geomhash": "4fa5552c87c159044627b1cffa54cd94",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488434521,
-    "wof:lastmodified": 1583786654,
+    "wof:lastmodified": 1609891646,
     "wof:name": "SA2 8LR",
     "wof:parent_id": 101750431,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.993545, 
-    51.61685, 
-    -3.993545, 
-    51.61685
+    -3.993473, 
+    51.616851, 
+    -3.993473, 
+    51.616851
   ],
-  "geometry": {"coordinates":[-3.993545,51.61685],"type":"Point"}
+  "geometry": {"coordinates":[-3.993473,51.616851],"type":"Point"}
 }

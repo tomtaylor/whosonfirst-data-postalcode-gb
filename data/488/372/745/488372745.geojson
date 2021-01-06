@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2008-09-01",
     "geom:area": 0,
-    "geom:bbox": "-3.571150,50.434542,-3.571150,50.434542",
-    "geom:latitude": 50.434542,
-    "geom:longitude": -3.57115,
+    "geom:bbox": "-3.571543,50.433983,-3.571543,50.433983",
+    "geom:latitude": 50.433983,
+    "geom:longitude": -3.571543,
     "gp:parent_id": "12696174",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -15,16 +15,16 @@
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000027",
-    "os:positional_quality_indicator": "3",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699071, 
       1360817197, 
       101750299, 
       404227469, 
-      1360698541
+      1360698541, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701382,
-    "wof:geomhash": "f888747d4c32b7ad84b76b7b617afc01",
+    "wof:geomhash": "b9dc6b1356459472b26a159eb4cf1be8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488372745,
-    "wof:lastmodified": 1583786581,
+    "wof:lastmodified": 1609888787,
     "wof:name": "TQ3 3FJ",
     "wof:parent_id": 101750299,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.57115, 
-    50.434542, 
-    -3.57115, 
-    50.434542
+    -3.571543, 
+    50.433983, 
+    -3.571543, 
+    50.433983
   ],
-  "geometry": {"coordinates":[-3.57115,50.434542],"type":"Point"}
+  "geometry": {"coordinates":[-3.571543,50.433983],"type":"Point"}
 }

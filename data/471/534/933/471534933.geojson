@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1999-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.341303,51.348595,-1.341303,51.348595",
-    "geom:latitude": 51.348595,
-    "geom:longitude": -1.341303,
+    "geom:bbox": "-1.342779,51.348530,-1.342779,51.348530",
+    "geom:latitude": 51.34853,
+    "geom:longitude": -1.342779,
     "gp:parent_id": "14540",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      101875415, 
-      404227469, 
       1360698557, 
       85633159, 
       1360698827, 
-      404443749
+      404443749, 
+      101875415, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701661,
-    "wof:geomhash": "f7fd430de8d7fc09d8a57ad0dc146cf5",
+    "wof:geomhash": "8798b096c5dbf55a4f7fb51d9dc5f22d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471534933,
-    "wof:lastmodified": 1583786798,
+    "wof:lastmodified": 1609895841,
     "wof:name": "RG20 9BX",
     "wof:parent_id": 404443749,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.341303, 
-    51.348595, 
-    -1.341303, 
-    51.348595
+    -1.342779, 
+    51.34853, 
+    -1.342779, 
+    51.34853
   ],
-  "geometry": {"coordinates":[-1.341303,51.348595],"type":"Point"}
+  "geometry": {"coordinates":[-1.342779,51.34853],"type":"Point"}
 }

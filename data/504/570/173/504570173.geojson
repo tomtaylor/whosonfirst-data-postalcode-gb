@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.327308,56.573079,-3.327308,56.573079",
-    "geom:latitude": 56.573079,
-    "geom:longitude": -3.327308,
+    "geom:bbox": "-3.329840,56.574265,-3.329840,56.574265",
+    "geom:latitude": 56.574265,
+    "geom:longitude": -3.32984,
     "gp:parent_id": "12696206",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698829, 
       404451983, 
       404227471, 
       1360698691, 
-      85633159
+      85633159, 
+      1360698829
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701440,
-    "wof:geomhash": "5236f2bfde8bf2c67907fd3d0c084566",
+    "wof:geomhash": "fefab2b75a5ef258d18c68db0e79ebdb",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504570173,
-    "wof:lastmodified": 1583786579,
+    "wof:lastmodified": 1609880066,
     "wof:name": "PH10 6LE",
     "wof:parent_id": 101873591,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.327308, 
-    56.573079, 
-    -3.327308, 
-    56.573079
+    -3.32984, 
+    56.574265, 
+    -3.32984, 
+    56.574265
   ],
-  "geometry": {"coordinates":[-3.327308,56.573079],"type":"Point"}
+  "geometry": {"coordinates":[-3.32984,56.574265],"type":"Point"}
 }

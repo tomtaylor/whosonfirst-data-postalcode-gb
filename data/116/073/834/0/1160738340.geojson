@@ -2,7 +2,7 @@
   "id": 1160738340,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-08-01",
     "edtf:inception": "2016-06-01",
     "geom:area": 0,
     "geom:bbox": "-0.427895,51.641750,-0.427895,51.641750",
@@ -10,7 +10,7 @@
     "geom:longitude": -0.427895,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000015",
     "os:district_code": "E07000103",
@@ -18,11 +18,11 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698763, 
       101751603, 
       404227469, 
       1360698559, 
-      85633159, 
-      1360698763
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1160738340,
-    "wof:lastmodified": 1583787771,
+    "wof:lastmodified": 1609869308,
     "wof:name": "WD18 1YY",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

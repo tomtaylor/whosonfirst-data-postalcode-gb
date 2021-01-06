@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1999-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.103728,50.842818,-1.103728,50.842818",
-    "geom:latitude": 50.842818,
-    "geom:longitude": -1.103728,
+    "geom:bbox": "-1.103626,50.842925,-1.103626,50.842925",
+    "geom:latitude": 50.842925,
+    "geom:longitude": -1.103626,
     "gp:parent_id": "32452",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698557, 
       85633159, 
       1360699069, 
       101750307, 
-      404227469
+      404227469, 
+      1360698557
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701640,
-    "wof:geomhash": "b16f480e3a01654f6719b950204cccba",
+    "wof:geomhash": "8494b82bb9a567cd3beb4eef2f55dc2f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 471484379,
-    "wof:lastmodified": 1583786763,
+    "wof:lastmodified": 1609893823,
     "wof:name": "PO6 4UY",
     "wof:parent_id": 404429227,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.103728, 
-    50.842818, 
-    -1.103728, 
-    50.842818
+    -1.103626, 
+    50.842925, 
+    -1.103626, 
+    50.842925
   ],
-  "geometry": {"coordinates":[-1.103728,50.842818],"type":"Point"}
+  "geometry": {"coordinates":[-1.103626,50.842925],"type":"Point"}
 }

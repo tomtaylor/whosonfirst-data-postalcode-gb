@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "-2.513997,53.721821,-2.513997,53.721821",
-    "geom:latitude": 53.721821,
-    "geom:longitude": -2.513997,
+    "geom:bbox": "-2.514621,53.722088,-2.514621,53.722088",
+    "geom:latitude": 53.722088,
+    "geom:longitude": -2.514621,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,27 +18,29 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      1360755971, 
+      404227469, 
+      1360698567, 
       85633159, 
       1360698999, 
-      101750575, 
-      404227469, 
-      1360698567
+      404447863
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735685,
-    "wof:geomhash": "128003d84611469b9e81046b2a6692c3",
+    "wof:geomhash": "dddb17b858e2d99204b82b5f16a97811",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360698999,
-        "locality_id": 101750575,
+        "localadmin_id": 404447863,
+        "locality_id": 1360755971,
         "macroregion_id": 404227469,
         "region_id": 1360698567
       }
     ],
     "wof:id": 1713332037,
-    "wof:lastmodified": 1595753497,
+    "wof:lastmodified": 1609875542,
     "wof:name": "BB2 5FZ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.513997, 
-    53.721821, 
-    -2.513997, 
-    53.721821
+    -2.514621, 
+    53.722088, 
+    -2.514621, 
+    53.722088
   ],
-  "geometry": {"coordinates":[-2.513997,53.721821],"type":"Point"}
+  "geometry": {"coordinates":[-2.514621,53.722088],"type":"Point"}
 }

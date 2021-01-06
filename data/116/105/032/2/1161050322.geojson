@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-11-01",
     "geom:area": 0,
-    "geom:bbox": "-0.224003,52.313456,-0.224003,52.313456",
-    "geom:latitude": 52.313456,
-    "geom:longitude": -0.224003,
+    "geom:bbox": "-0.223931,52.313428,-0.223931,52.313428",
+    "geom:latitude": 52.313428,
+    "geom:longitude": -0.223931,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698845, 
-      404434787, 
       1193172443, 
       404227469, 
       1360698535, 
-      85633159
+      85633159, 
+      1360698845, 
+      404434787
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583801688,
-    "wof:geomhash": "958967e6fc7eb992b5768ebbeefb69e2",
+    "wof:geomhash": "23fc6a631d07731bf24dff4840899b6b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1161050322,
-    "wof:lastmodified": 1583801688,
+    "wof:lastmodified": 1609875078,
     "wof:name": "PE28 4HU",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.224003, 
-    52.313456, 
-    -0.224003, 
-    52.313456
+    -0.223931, 
+    52.313428, 
+    -0.223931, 
+    52.313428
   ],
-  "geometry": {"coordinates":[-0.224003,52.313456],"type":"Point"}
+  "geometry": {"coordinates":[-0.223931,52.313428],"type":"Point"}
 }

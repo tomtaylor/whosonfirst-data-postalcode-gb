@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.100956,52.272197,1.100956,52.272197",
-    "geom:latitude": 52.272197,
+    "geom:bbox": "1.100956,52.272206,1.100956,52.272206",
+    "geom:latitude": 52.272206,
     "geom:longitude": 1.100956,
     "gp:parent_id": "37536",
     "iso:country": "GB",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698595, 
+      85633159, 
       1360699041, 
       404430189, 
       1125881837, 
-      404227469, 
-      1360698595, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701745,
-    "wof:geomhash": "67e50b1e90c04f36757d4f964be61a5d",
+    "wof:geomhash": "bf518c5a471c5326538213feeb7a70b0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454879313,
-    "wof:lastmodified": 1583786875,
+    "wof:lastmodified": 1609904115,
     "wof:name": "IP23 7ED",
     "wof:parent_id": 404430189,
     "wof:placetype": "postalcode",
@@ -55,9 +55,9 @@
   },
   "bbox": [
     1.100956, 
-    52.272197, 
+    52.272206, 
     1.100956, 
-    52.272197
+    52.272206
   ],
-  "geometry": {"coordinates":[1.100956,52.272197],"type":"Point"}
+  "geometry": {"coordinates":[1.100956,52.272206],"type":"Point"}
 }

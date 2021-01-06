@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.211395,51.690106,-4.211395,51.690106",
-    "geom:latitude": 51.690106,
-    "geom:longitude": -4.211395,
+    "geom:bbox": "-4.211355,51.691060,-4.211355,51.691060",
+    "geom:latitude": 51.69106,
+    "geom:longitude": -4.211355,
     "gp:parent_id": "12696118",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227475, 
-      1360698639, 
-      85633159, 
       1360698785, 
       404429879, 
-      1360711775
+      1360711775, 
+      404227475, 
+      1360698639, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701460,
-    "wof:geomhash": "7a93428161dde910bc22c08e05bd69ea",
+    "wof:geomhash": "825031b5cb36a9103f2aed76972652ca",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504586799,
-    "wof:lastmodified": 1583786605,
+    "wof:lastmodified": 1609880977,
     "wof:name": "SA15 4PY",
     "wof:parent_id": 404429879,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.211395, 
-    51.690106, 
-    -4.211395, 
-    51.690106
+    -4.211355, 
+    51.69106, 
+    -4.211355, 
+    51.69106
   ],
-  "geometry": {"coordinates":[-4.211395,51.690106],"type":"Point"}
+  "geometry": {"coordinates":[-4.211355,51.69106],"type":"Point"}
 }

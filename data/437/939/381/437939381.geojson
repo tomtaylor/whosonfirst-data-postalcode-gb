@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1992-08-01",
     "geom:area": 0,
-    "geom:bbox": "-0.330424,51.758000,-0.330424,51.758000",
-    "geom:latitude": 51.758,
-    "geom:longitude": -0.330424,
+    "geom:bbox": "-0.330238,51.757943,-0.330238,51.757943",
+    "geom:latitude": 51.757943,
+    "geom:longitude": -0.330238,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,11 +18,11 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698763, 
       101750419, 
       404227469, 
-      1360698559
+      1360698559, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -30,7 +30,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701643,
-    "wof:geomhash": "c2a1f6ff8ab7b6ef4889aca0fec38424",
+    "wof:geomhash": "5850428f7cd24f905d3e153d24d52d1b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -41,7 +41,7 @@
       }
     ],
     "wof:id": 437939381,
-    "wof:lastmodified": 1583786804,
+    "wof:lastmodified": 1609896412,
     "wof:name": "AL1 3QF",
     "wof:parent_id": 101750419,
     "wof:placetype": "postalcode",
@@ -51,10 +51,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.330424, 
-    51.758, 
-    -0.330424, 
-    51.758
+    -0.330238, 
+    51.757943, 
+    -0.330238, 
+    51.757943
   ],
-  "geometry": {"coordinates":[-0.330424,51.758],"type":"Point"}
+  "geometry": {"coordinates":[-0.330238,51.757943],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2006-12-01",
     "geom:area": 0,
-    "geom:bbox": "1.263517,52.654488,1.263517,52.654488",
-    "geom:latitude": 52.654488,
-    "geom:longitude": 1.263517,
+    "geom:bbox": "1.263325,52.654493,1.263325,52.654493",
+    "geom:latitude": 52.654493,
+    "geom:longitude": 1.263325,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698955, 
       404432471, 
       1125886755, 
       404227469, 
-      1360698575
+      1360698575, 
+      85633159, 
+      1360698955
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701430,
-    "wof:geomhash": "27a138b943054d2700d06a3bb1470851",
+    "wof:geomhash": "e7c67c7c6aef72cedf5ecf9bfa76a0d9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471240609,
-    "wof:lastmodified": 1583786581,
+    "wof:lastmodified": 1609881941,
     "wof:name": "NR6 5DU",
     "wof:parent_id": 404432471,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.263517, 
-    52.654488, 
-    1.263517, 
-    52.654488
+    1.263325, 
+    52.654493, 
+    1.263325, 
+    52.654493
   ],
-  "geometry": {"coordinates":[1.263517,52.654488],"type":"Point"}
+  "geometry": {"coordinates":[1.263325,52.654493],"type":"Point"}
 }

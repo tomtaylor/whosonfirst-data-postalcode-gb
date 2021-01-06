@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.901747,53.022917,-0.901747,53.022917",
-    "geom:latitude": 53.022917,
-    "geom:longitude": -0.901747,
+    "geom:bbox": "-0.902128,53.023182,-0.902128,53.023182",
+    "geom:latitude": 53.023182,
+    "geom:longitude": -0.902128,
     "gp:parent_id": "36845",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698583, 
-      85633159, 
       1360698809, 
       404454067, 
-      1360752951
+      1360752951, 
+      404227469, 
+      1360698583, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701326,
-    "wof:geomhash": "84b64d78a420b734b7e83644a633353b",
+    "wof:geomhash": "18643b5aead9c894673963526a12fd88",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471131927,
-    "wof:lastmodified": 1583786466,
+    "wof:lastmodified": 1609875550,
     "wof:name": "NG23 5NH",
     "wof:parent_id": 404454067,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.901747, 
-    53.022917, 
-    -0.901747, 
-    53.022917
+    -0.902128, 
+    53.023182, 
+    -0.902128, 
+    53.023182
   ],
-  "geometry": {"coordinates":[-0.901747,53.022917],"type":"Point"}
+  "geometry": {"coordinates":[-0.902128,53.023182],"type":"Point"}
 }

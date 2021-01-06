@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "1983-12-01",
+    "edtf:deprecated": "2021-01-05",
     "edtf:inception": "1981-09-01",
     "geom:area": 0,
     "geom:bbox": "-2.989753,51.570491,-2.989753,51.570491",
@@ -18,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      404227475, 
       1360698641, 
       85633159, 
       1360698735, 
       404439933, 
-      1360711957, 
-      404227475
+      1360711957
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +41,7 @@
       }
     ],
     "wof:id": 1160858678,
-    "wof:lastmodified": 1583793181,
+    "wof:lastmodified": 1609871023,
     "wof:name": "NPT 2UR",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

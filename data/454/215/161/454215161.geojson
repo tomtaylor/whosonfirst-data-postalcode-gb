@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.084162,51.276043,1.084162,51.276043",
-    "geom:latitude": 51.276043,
-    "geom:longitude": 1.084162,
+    "geom:bbox": "1.084051,51.275884,1.084051,51.275884",
+    "geom:latitude": 51.275884,
+    "geom:longitude": 1.084051,
     "gp:parent_id": "40607",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698811, 
       1125774669, 
       404227469, 
       1360698565, 
-      85633159
+      85633159, 
+      1360698811
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701383,
-    "wof:geomhash": "adc1b391986ae48a35a90c297338ea16",
+    "wof:geomhash": "89100fc4fb7dff07ee0ddabe5827717b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454215161,
-    "wof:lastmodified": 1583786514,
+    "wof:lastmodified": 1609878518,
     "wof:name": "CT1 3HD",
     "wof:parent_id": 101854623,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.084162, 
-    51.276043, 
-    1.084162, 
-    51.276043
+    1.084051, 
+    51.275884, 
+    1.084051, 
+    51.275884
   ],
-  "geometry": {"coordinates":[1.084162,51.276043],"type":"Point"}
+  "geometry": {"coordinates":[1.084051,51.275884],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.113179,50.688930,-2.113179,50.688930",
-    "geom:latitude": 50.68893,
-    "geom:longitude": -2.113179,
+    "geom:bbox": "-2.113320,50.688696,-2.113320,50.688696",
+    "geom:latitude": 50.688696,
+    "geom:longitude": -2.11332,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698745, 
+      404454575, 
       1360753829, 
       404227469, 
       1360698545, 
-      85633159, 
-      1360698745, 
-      404454575
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701351,
-    "wof:geomhash": "39c33337ca4aaed882a142bb6359dcef",
+    "wof:geomhash": "98b9315c1852ac3fd34d303cae88514c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 438157355,
-    "wof:lastmodified": 1583786487,
+    "wof:lastmodified": 1609877284,
     "wof:name": "BH20 4QW",
     "wof:parent_id": 101852341,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.113179, 
-    50.68893, 
-    -2.113179, 
-    50.68893
+    -2.11332, 
+    50.688696, 
+    -2.11332, 
+    50.688696
   ],
-  "geometry": {"coordinates":[-2.113179,50.68893],"type":"Point"}
+  "geometry": {"coordinates":[-2.11332,50.688696],"type":"Point"}
 }

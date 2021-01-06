@@ -19,12 +19,10 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      404448817, 
       1125977651, 
-      404227469, 
       1360698611, 
-      85633159, 
-      1360698937, 
-      404448817
+      1360698937
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -35,16 +33,14 @@
     "wof:geomhash": "6a77585a00b2bff3b3fcd8ae9383f8eb",
     "wof:hierarchy": [
       {
-        "country_id": 85633159,
         "county_id": 1360698937,
         "localadmin_id": 404448817,
         "locality_id": 1125977651,
-        "macroregion_id": 404227469,
         "region_id": 1360698611
       }
     ],
     "wof:id": 487588853,
-    "wof:lastmodified": 1583786174,
+    "wof:lastmodified": 1609868653,
     "wof:name": "SN8 2PD",
     "wof:parent_id": 404448817,
     "wof:placetype": "postalcode",

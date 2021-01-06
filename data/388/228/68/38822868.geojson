@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.004771,53.213804,-1.004771,53.213804",
-    "geom:latitude": 53.213804,
-    "geom:longitude": -1.004771,
+    "geom:bbox": "-1.004410,53.213882,-1.004410,53.213882",
+    "geom:latitude": 53.213882,
+    "geom:longitude": -1.00441,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,29 +18,29 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      1360755859, 
+      404227469, 
+      1360698583, 
       85633159, 
       1360698809, 
-      404455405, 
-      1125831757, 
-      404227469, 
-      1360698583
+      404434483
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583794680,
-    "wof:geomhash": "4a9dd62793d67abd66d34d220f98407c",
+    "wof:geomhash": "65f919623cfdf895f0ec72690ce9c49e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360698809,
-        "localadmin_id": 404455405,
-        "locality_id": 1125831757,
+        "localadmin_id": 404434483,
+        "locality_id": 1360755859,
         "macroregion_id": 404227469,
         "region_id": 1360698583
       }
     ],
     "wof:id": 38822868,
-    "wof:lastmodified": 1595710921,
+    "wof:lastmodified": 1609868461,
     "wof:name": "NG22 9WT",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.004771, 
-    53.213804, 
-    -1.004771, 
-    53.213804
+    -1.00441, 
+    53.213882, 
+    -1.00441, 
+    53.213882
   ],
-  "geometry": {"coordinates":[-1.004771,53.213804],"type":"Point"}
+  "geometry": {"coordinates":[-1.00441,53.213882],"type":"Point"}
 }

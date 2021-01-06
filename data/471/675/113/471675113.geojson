@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.499688,53.352809,-1.499688,53.352809",
-    "geom:latitude": 53.352809,
-    "geom:longitude": -1.499688,
+    "geom:bbox": "-1.499762,53.352836,-1.499762,53.352836",
+    "geom:latitude": 53.352836,
+    "geom:longitude": -1.499762,
     "gp:parent_id": "34503",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698591, 
       85633159, 
       1360699075, 
       101750529, 
       404227469, 
-      85789271
+      85789271, 
+      1360698591
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701694,
-    "wof:geomhash": "9c73c502572b426e06e471fae9086831",
+    "wof:geomhash": "c167ead1d7d0caf82bd11c9f643a6f38",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471675113,
-    "wof:lastmodified": 1583786878,
+    "wof:lastmodified": 1609900587,
     "wof:name": "S7 2EF",
     "wof:parent_id": 101750529,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.499688, 
-    53.352809, 
-    -1.499688, 
-    53.352809
+    -1.499762, 
+    53.352836, 
+    -1.499762, 
+    53.352836
   ],
-  "geometry": {"coordinates":[-1.499688,53.352809],"type":"Point"}
+  "geometry": {"coordinates":[-1.499762,53.352836],"type":"Point"}
 }

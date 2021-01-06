@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1992-08-01",
     "geom:area": 0,
-    "geom:bbox": "-1.466234,52.728650,-1.466234,52.728650",
-    "geom:latitude": 52.72865,
-    "geom:longitude": -1.466234,
+    "geom:bbox": "-1.466191,52.728524,-1.466191,52.728524",
+    "geom:latitude": 52.728524,
+    "geom:longitude": -1.466191,
     "gp:parent_id": "31301",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698569, 
       85633159, 
       1360698871, 
       404442931, 
-      1309832987
+      1309832987, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701116,
-    "wof:geomhash": "af9a6c99743da2fd591134ce293d4951",
+    "wof:geomhash": "33df21f9a8227b205daad306b8d656e9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 455040125,
-    "wof:lastmodified": 1583786234,
+    "wof:lastmodified": 1609869632,
     "wof:name": "LE65 1WJ",
     "wof:parent_id": 101853623,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.466234, 
-    52.72865, 
-    -1.466234, 
-    52.72865
+    -1.466191, 
+    52.728524, 
+    -1.466191, 
+    52.728524
   ],
-  "geometry": {"coordinates":[-1.466234,52.72865],"type":"Point"}
+  "geometry": {"coordinates":[-1.466191,52.728524],"type":"Point"}
 }

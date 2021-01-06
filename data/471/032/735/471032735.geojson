@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1993-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.656442,54.955217,-1.656442,54.955217",
-    "geom:latitude": 54.955217,
-    "geom:longitude": -1.656442,
+    "geom:bbox": "-1.656500,54.955305,-1.656500,54.955305",
+    "geom:latitude": 54.955305,
+    "geom:longitude": -1.6565,
     "gp:parent_id": "36740",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698881, 
       1360817105, 
       101750615, 
       404227469, 
-      1360698601
+      1360698601, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701134,
-    "wof:geomhash": "6fa1658dce004b2ba5e80addf0e75a3e",
+    "wof:geomhash": "cd5fbb952717201c504201879fa7ded8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471032735,
-    "wof:lastmodified": 1583786259,
+    "wof:lastmodified": 1609869436,
     "wof:name": "NE11 9JZ",
     "wof:parent_id": 101750615,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.656442, 
-    54.955217, 
-    -1.656442, 
-    54.955217
+    -1.6565, 
+    54.955305, 
+    -1.6565, 
+    54.955305
   ],
-  "geometry": {"coordinates":[-1.656442,54.955217],"type":"Point"}
+  "geometry": {"coordinates":[-1.6565,54.955305],"type":"Point"}
 }

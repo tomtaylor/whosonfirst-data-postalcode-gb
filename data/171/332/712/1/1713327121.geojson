@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "1.714642,52.663760,1.714642,52.663760",
-    "geom:latitude": 52.66376,
-    "geom:longitude": 1.714642,
+    "geom:bbox": "1.714109,52.663579,1.714109,52.663579",
+    "geom:latitude": 52.663579,
+    "geom:longitude": 1.714109,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698955, 
-      404431833, 
       1360756537, 
       404227469, 
-      1360698575
+      1360698575, 
+      85633159, 
+      1360698955, 
+      404431833
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735470,
-    "wof:geomhash": "25745ea2cd4b3cbdd2d3a5a002c90d26",
+    "wof:geomhash": "18e452b58a05b95592a852ccbe99445e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1713327121,
-    "wof:lastmodified": 1595753316,
+    "wof:lastmodified": 1609875191,
     "wof:name": "NR29 3TG",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.714642, 
-    52.66376, 
-    1.714642, 
-    52.66376
+    1.714109, 
+    52.663579, 
+    1.714109, 
+    52.663579
   ],
-  "geometry": {"coordinates":[1.714642,52.66376],"type":"Point"}
+  "geometry": {"coordinates":[1.714109,52.663579],"type":"Point"}
 }

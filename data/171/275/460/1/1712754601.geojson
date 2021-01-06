@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "-0.194911,51.083775,-0.194911,51.083775",
-    "geom:latitude": 51.083775,
-    "geom:longitude": -0.194911,
+    "geom:bbox": "-0.195154,51.083392,-0.195154,51.083392",
+    "geom:latitude": 51.083392,
+    "geom:longitude": -0.195154,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404441549, 
       1125996205, 
       404227469, 
       1360698607, 
       85633159, 
-      1360698757
+      1360698757, 
+      404441549
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583802134,
-    "wof:geomhash": "a715c1f74e97ab75ae58dd3e9f88055d",
+    "wof:geomhash": "806e4ca14cef5292b843378dbf40028f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712754601,
-    "wof:lastmodified": 1595712288,
+    "wof:lastmodified": 1609873788,
     "wof:name": "RH11 9SF",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.194911, 
-    51.083775, 
-    -0.194911, 
-    51.083775
+    -0.195154, 
+    51.083392, 
+    -0.195154, 
+    51.083392
   ],
-  "geometry": {"coordinates":[-0.194911,51.083775],"type":"Point"}
+  "geometry": {"coordinates":[-0.195154,51.083392],"type":"Point"}
 }

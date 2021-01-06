@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.213263,53.260480,-0.213263,53.260480",
-    "geom:latitude": 53.26048,
-    "geom:longitude": -0.213263,
+    "geom:bbox": "-0.212585,53.261279,-0.212585,53.261279",
+    "geom:latitude": 53.261279,
+    "geom:longitude": -0.212585,
     "gp:parent_id": "12088",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698571, 
-      85633159, 
-      1360699067, 
       404454243, 
       1344085849, 
-      404227469
+      404227469, 
+      1360698571, 
+      85633159, 
+      1360699067
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701182,
-    "wof:geomhash": "6ca11af5183dded0cfe2bdc7de3dabcb",
+    "wof:geomhash": "740ae30a77a914df367877bbee61533d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 455068983,
-    "wof:lastmodified": 1595718554,
+    "wof:lastmodified": 1609870940,
     "wof:name": "LN9 5NU",
     "wof:parent_id": 404454243,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.213263, 
-    53.26048, 
-    -0.213263, 
-    53.26048
+    -0.212585, 
+    53.261279, 
+    -0.212585, 
+    53.261279
   ],
-  "geometry": {"coordinates":[-0.213263,53.26048],"type":"Point"}
+  "geometry": {"coordinates":[-0.212585,53.261279],"type":"Point"}
 }

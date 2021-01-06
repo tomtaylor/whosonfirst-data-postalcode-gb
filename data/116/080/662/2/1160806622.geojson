@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-11-01",
     "geom:area": 0,
-    "geom:bbox": "0.487289,51.279275,0.487289,51.279275",
-    "geom:latitude": 51.279275,
-    "geom:longitude": 0.487289,
+    "geom:bbox": "0.487234,51.279303,0.487234,51.279303",
+    "geom:latitude": 51.279303,
+    "geom:longitude": 0.487234,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698811, 
       101750341, 
       404227469, 
-      1360698565
+      1360698565, 
+      85633159, 
+      1360698811
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583790799,
-    "wof:geomhash": "5c824a3cab7148ba527ec470247a38c9",
+    "wof:geomhash": "82a4d3698f2e74a467157c531e61c498",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1160806622,
-    "wof:lastmodified": 1595710926,
+    "wof:lastmodified": 1609870209,
     "wof:name": "ME16 9GB",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.487289, 
-    51.279275, 
-    0.487289, 
-    51.279275
+    0.487234, 
+    51.279303, 
+    0.487234, 
+    51.279303
   ],
-  "geometry": {"coordinates":[0.487289,51.279275],"type":"Point"}
+  "geometry": {"coordinates":[0.487234,51.279303],"type":"Point"}
 }

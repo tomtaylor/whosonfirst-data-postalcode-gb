@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.465139,53.598450,-1.465139,53.598450",
-    "geom:latitude": 53.59845,
-    "geom:longitude": -1.465139,
+    "geom:bbox": "-1.465124,53.598468,-1.465124,53.598468",
+    "geom:latitude": 53.598468,
+    "geom:longitude": -1.465124,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,11 +18,11 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699091, 
       1125860113, 
       404227469, 
       1360698591, 
-      85633159
+      85633159, 
+      1360699091
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -30,7 +30,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701697,
-    "wof:geomhash": "7352260677a6bf2da3dde3888c3a596e",
+    "wof:geomhash": "e963da64f1cc92db09bef70ad77ef83d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -41,7 +41,7 @@
       }
     ],
     "wof:id": 471679943,
-    "wof:lastmodified": 1595724418,
+    "wof:lastmodified": 1609900903,
     "wof:name": "S71 4LR",
     "wof:parent_id": 404441261,
     "wof:placetype": "postalcode",
@@ -51,10 +51,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.465139, 
-    53.59845, 
-    -1.465139, 
-    53.59845
+    -1.465124, 
+    53.598468, 
+    -1.465124, 
+    53.598468
   ],
-  "geometry": {"coordinates":[-1.465139,53.59845],"type":"Point"}
+  "geometry": {"coordinates":[-1.465124,53.598468],"type":"Point"}
 }

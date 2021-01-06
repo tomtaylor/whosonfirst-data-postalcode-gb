@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.134976,55.871305,-3.134976,55.871305",
-    "geom:latitude": 55.871305,
-    "geom:longitude": -3.134976,
+    "geom:bbox": "-3.134881,55.871248,-3.134881,55.871248",
+    "geom:latitude": 55.871248,
+    "geom:longitude": -3.134881,
     "gp:parent_id": "12696201",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227471, 
       85787605, 
       1360698677, 
       85633159, 
       1360698791, 
-      404436513
+      404436513, 
+      404227471
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701627,
-    "wof:geomhash": "5f61796fce0f23ffffd0691f03272250",
+    "wof:geomhash": "6a677952ce2677b0916f418ec346d683",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488628427,
-    "wof:lastmodified": 1583786821,
+    "wof:lastmodified": 1609899400,
     "wof:name": "EH18 1JP",
     "wof:parent_id": 404436513,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.134976, 
-    55.871305, 
-    -3.134976, 
-    55.871305
+    -3.134881, 
+    55.871248, 
+    -3.134881, 
+    55.871248
   ],
-  "geometry": {"coordinates":[-3.134976,55.871305],"type":"Point"}
+  "geometry": {"coordinates":[-3.134881,55.871248],"type":"Point"}
 }

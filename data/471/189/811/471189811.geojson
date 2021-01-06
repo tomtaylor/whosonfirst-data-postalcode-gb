@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.974815,52.345170,-0.974815,52.345170",
-    "geom:latitude": 52.34517,
-    "geom:longitude": -0.974815,
+    "geom:bbox": "-0.971469,52.343251,-0.971469,52.343251",
+    "geom:latitude": 52.343251,
+    "geom:longitude": -0.971469,
     "gp:parent_id": "17253",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1126031869, 
-      404227469, 
       1360698577, 
       85633159, 
       1360698755, 
-      404436643
+      404436643, 
+      1126031869, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701386,
-    "wof:geomhash": "32578147d6c911c78f4867a355e876eb",
+    "wof:geomhash": "49939e35b8e0a2c6e998ad8e0d157d84",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471189811,
-    "wof:lastmodified": 1583786535,
+    "wof:lastmodified": 1609879117,
     "wof:name": "NN6 8NX",
     "wof:parent_id": 404436643,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.974815, 
-    52.34517, 
-    -0.974815, 
-    52.34517
+    -0.971469, 
+    52.343251, 
+    -0.971469, 
+    52.343251
   ],
-  "geometry": {"coordinates":[-0.974815,52.34517],"type":"Point"}
+  "geometry": {"coordinates":[-0.971469,52.343251],"type":"Point"}
 }

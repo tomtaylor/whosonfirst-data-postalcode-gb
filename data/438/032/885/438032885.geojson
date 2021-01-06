@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.854877,52.480737,-1.854877,52.480737",
-    "geom:latitude": 52.480737,
-    "geom:longitude": -1.854877,
+    "geom:bbox": "-1.854548,52.480913,-1.854548,52.480913",
+    "geom:latitude": 52.480913,
+    "geom:longitude": -1.854548,
     "gp:parent_id": "12723",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699077, 
-      101750467, 
       404227469, 
       85785865, 
       1360698605, 
-      85633159
+      85633159, 
+      1360699077, 
+      101750467
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701104,
-    "wof:geomhash": "e30f25ef29e8cc3784224281e69cd8f5",
+    "wof:geomhash": "5fcbaa6d7c03955f736c509b6b4c9c2d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438032885,
-    "wof:lastmodified": 1583786226,
+    "wof:lastmodified": 1609869334,
     "wof:name": "B9 4US",
     "wof:parent_id": 101750467,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.854877, 
-    52.480737, 
-    -1.854877, 
-    52.480737
+    -1.854548, 
+    52.480913, 
+    -1.854548, 
+    52.480913
   ],
-  "geometry": {"coordinates":[-1.854877,52.480737],"type":"Point"}
+  "geometry": {"coordinates":[-1.854548,52.480913],"type":"Point"}
 }

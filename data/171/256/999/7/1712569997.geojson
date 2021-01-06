@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-12-01",
     "geom:area": 0,
-    "geom:bbox": "-2.267849,52.158062,-2.267849,52.158062",
-    "geom:latitude": 52.158062,
-    "geom:longitude": -2.267849,
+    "geom:bbox": "-2.267878,52.158116,-2.267878,52.158116",
+    "geom:latitude": 52.158116,
+    "geom:longitude": -2.267878,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699043, 
-      404437479, 
       1125778585, 
       404227469, 
       1360698613, 
-      85633159
+      85633159, 
+      1360699043, 
+      404437479
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583793903,
-    "wof:geomhash": "449c608e0cd94a21fdd2548fead09961",
+    "wof:geomhash": "851ac403053f1023b94adf71d765fabd",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712569997,
-    "wof:lastmodified": 1583793903,
+    "wof:lastmodified": 1609870849,
     "wof:name": "WR2 4TR",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.267849, 
-    52.158062, 
-    -2.267849, 
-    52.158062
+    -2.267878, 
+    52.158116, 
+    -2.267878, 
+    52.158116
   ],
-  "geometry": {"coordinates":[-2.267849,52.158062],"type":"Point"}
+  "geometry": {"coordinates":[-2.267878,52.158116],"type":"Point"}
 }

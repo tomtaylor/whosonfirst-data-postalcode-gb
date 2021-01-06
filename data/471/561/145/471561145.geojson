@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.966471,51.366436,-0.966471,51.366436",
-    "geom:latitude": 51.366436,
-    "geom:longitude": -0.966471,
+    "geom:bbox": "-0.966485,51.366472,-0.966485,51.366472",
+    "geom:latitude": 51.366472,
+    "geom:longitude": -0.966485,
     "gp:parent_id": "33370",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404444881, 
       1125864941, 
       404227469, 
       1360698529, 
       85633159, 
-      1360698967
+      1360698967, 
+      404444881
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701670,
-    "wof:geomhash": "2baf3e6ea87046428e2f74f69f233d13",
+    "wof:geomhash": "289d6ab53b39b77edcdd9d7d24e789c9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471561145,
-    "wof:lastmodified": 1583786806,
+    "wof:lastmodified": 1609896937,
     "wof:name": "RG7 1QE",
     "wof:parent_id": 404444881,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.966471, 
-    51.366436, 
-    -0.966471, 
-    51.366436
+    -0.966485, 
+    51.366472, 
+    -0.966485, 
+    51.366472
   ],
-  "geometry": {"coordinates":[-0.966471,51.366436],"type":"Point"}
+  "geometry": {"coordinates":[-0.966485,51.366472],"type":"Point"}
 }

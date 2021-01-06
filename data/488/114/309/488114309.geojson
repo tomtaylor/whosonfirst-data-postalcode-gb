@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2014-02-01",
     "geom:area": 0,
-    "geom:bbox": "-0.312651,51.653590,-0.312651,51.653590",
-    "geom:latitude": 51.65359,
-    "geom:longitude": -0.312651,
+    "geom:bbox": "-0.312737,51.653609,-0.312737,51.653609",
+    "geom:latitude": 51.653609,
+    "geom:longitude": -0.312737,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,13 +18,13 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      85786151, 
       1360698559, 
       85633159, 
       1360698763, 
       404448125, 
-      1125977863
+      1125977863, 
+      404227469, 
+      85786151
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701252,
-    "wof:geomhash": "b2f752fa91182d2aeec971fb482aae5a",
+    "wof:geomhash": "618d1922631c3324f95f88652ec2db74",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 488114309,
-    "wof:lastmodified": 1583786410,
+    "wof:lastmodified": 1609873983,
     "wof:name": "WD6 3BH",
     "wof:parent_id": 404448125,
     "wof:placetype": "postalcode",
@@ -55,10 +55,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.312651, 
-    51.65359, 
-    -0.312651, 
-    51.65359
+    -0.312737, 
+    51.653609, 
+    -0.312737, 
+    51.653609
   ],
-  "geometry": {"coordinates":[-0.312651,51.65359],"type":"Point"}
+  "geometry": {"coordinates":[-0.312737,51.653609],"type":"Point"}
 }

@@ -2,15 +2,15 @@
   "id": 1160991830,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2020-04-01",
-    "edtf:inception": "2019-06-01",
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-05-01",
     "geom:area": 0,
     "geom:bbox": "-0.046929,51.547781,-0.046929,51.547781",
     "geom:latitude": 51.547781,
     "geom:longitude": -0.046929,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E09000012",
@@ -18,12 +18,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      101750367, 
       404227469, 
       85860199, 
       1360698645, 
-      1158857273, 
-      85633159, 
-      101750367
+      1158857273
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160991830,
-    "wof:lastmodified": 1595710987,
+    "wof:lastmodified": 1609873698,
     "wof:name": "E9 6FU",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

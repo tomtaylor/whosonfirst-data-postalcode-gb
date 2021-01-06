@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.712458,55.990005,-3.712458,55.990005",
-    "geom:latitude": 55.990005,
-    "geom:longitude": -3.712458,
+    "geom:bbox": "-3.712756,55.990603,-3.712756,55.990603",
+    "geom:latitude": 55.990603,
+    "geom:longitude": -3.712756,
     "gp:parent_id": "32231",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698865, 
       404451599, 
       404227471, 
-      1360698655
+      1360698655, 
+      85633159, 
+      1360698865
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701108,
-    "wof:geomhash": "be1c9a94f0b3d4144c350ef11eedb76b",
+    "wof:geomhash": "f2031a32d4d49b880941f7981a5b9211",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504383703,
-    "wof:lastmodified": 1595727127,
+    "wof:lastmodified": 1609869023,
     "wof:name": "FK2 0PJ",
     "wof:parent_id": 404451599,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.712458, 
-    55.990005, 
-    -3.712458, 
-    55.990005
+    -3.712756, 
+    55.990603, 
+    -3.712756, 
+    55.990603
   ],
-  "geometry": {"coordinates":[-3.712458,55.990005],"type":"Point"}
+  "geometry": {"coordinates":[-3.712756,55.990603],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.774311,54.345187,-2.774311,54.345187",
-    "geom:latitude": 54.345187,
-    "geom:longitude": -2.774311,
+    "geom:bbox": "-2.774248,54.345116,-2.774248,54.345116",
+    "geom:latitude": 54.345116,
+    "geom:longitude": -2.774248,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360755845, 
-      404227469, 
       1360698721, 
       85633159, 
       1360698877, 
-      404439981
+      404439981, 
+      1360755845, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701062,
-    "wof:geomhash": "fff4cc4aa0384569839b150596c98486",
+    "wof:geomhash": "a8e7a38ca5ab859667a21f408934ef7a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 455002489,
-    "wof:lastmodified": 1595718030,
+    "wof:lastmodified": 1609868647,
     "wof:name": "LA9 5RZ",
     "wof:parent_id": 404439981,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.774311, 
-    54.345187, 
-    -2.774311, 
-    54.345187
+    -2.774248, 
+    54.345116, 
+    -2.774248, 
+    54.345116
   ],
-  "geometry": {"coordinates":[-2.774311,54.345187],"type":"Point"}
+  "geometry": {"coordinates":[-2.774248,54.345116],"type":"Point"}
 }

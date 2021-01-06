@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.272383,52.545239,1.272383,52.545239",
-    "geom:latitude": 52.545239,
-    "geom:longitude": 1.272383,
+    "geom:bbox": "1.272525,52.545172,1.272525,52.545172",
+    "geom:latitude": 52.545172,
+    "geom:longitude": 1.272525,
     "gp:parent_id": "34730",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698575, 
       85633159, 
       1360698955, 
       404439095, 
       1125913181, 
-      404227469
+      404227469, 
+      1360698575
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701397,
-    "wof:geomhash": "1d3ded71086519ca21bb1119c30be2f0",
+    "wof:geomhash": "107560562ea2cfe0d6bde6dd4c92a328",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471207731,
-    "wof:lastmodified": 1583786554,
+    "wof:lastmodified": 1609880245,
     "wof:name": "NR15 1XB",
     "wof:parent_id": 404439095,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.272383, 
-    52.545239, 
-    1.272383, 
-    52.545239
+    1.272525, 
+    52.545172, 
+    1.272525, 
+    52.545172
   ],
-  "geometry": {"coordinates":[1.272383,52.545239],"type":"Point"}
+  "geometry": {"coordinates":[1.272525,52.545172],"type":"Point"}
 }

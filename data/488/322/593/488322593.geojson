@@ -2,7 +2,7 @@
   "id": 488322593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-06-01",
     "edtf:inception": "2009-05-01",
     "geom:area": 0,
     "geom:bbox": "0.563657,51.237695,0.563657,51.237695",
@@ -11,7 +11,7 @@
     "gp:parent_id": "28168",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000016",
     "os:district_code": "E07000110",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698565, 
       85633159, 
       1360698811, 
       404431751, 
       1125908733, 
-      404227469, 
-      1360698565
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488322593,
-    "wof:lastmodified": 1583786529,
+    "wof:lastmodified": 1609886431,
     "wof:name": "ME14 9HW",
     "wof:parent_id": 101750341,
     "wof:placetype": "postalcode",

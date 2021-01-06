@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.577467,52.066340,-1.577467,52.066340",
-    "geom:latitude": 52.06634,
-    "geom:longitude": -1.577467,
+    "geom:bbox": "-1.577804,52.066170,-1.577804,52.066170",
+    "geom:latitude": 52.06617,
+    "geom:longitude": -1.577804,
     "gp:parent_id": "23806",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      404443081, 
-      1226784809, 
-      404227469, 
       1360698603, 
       85633159, 
-      1360698891
+      1360698891, 
+      404443081, 
+      1226784809, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701432,
-    "wof:geomhash": "4805f2e90e7ba8caaef8faa7f16da5f7",
+    "wof:geomhash": "def12f14b41e218a511c1700938c48ac",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454272913,
-    "wof:lastmodified": 1583786562,
+    "wof:lastmodified": 1609881205,
     "wof:name": "CV36 5BQ",
     "wof:parent_id": 404443081,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.577467, 
-    52.06634, 
-    -1.577467, 
-    52.06634
+    -1.577804, 
+    52.06617, 
+    -1.577804, 
+    52.06617
   ],
-  "geometry": {"coordinates":[-1.577467,52.06634],"type":"Point"}
+  "geometry": {"coordinates":[-1.577804,52.06617],"type":"Point"}
 }

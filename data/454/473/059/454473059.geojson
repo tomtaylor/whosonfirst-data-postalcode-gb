@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1996-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.942187,50.719770,-2.942187,50.719770",
-    "geom:latitude": 50.71977,
-    "geom:longitude": -2.942187,
+    "geom:bbox": "-2.941962,50.719817,-2.941962,50.719817",
+    "geom:latitude": 50.719817,
+    "geom:longitude": -2.941962,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698745, 
       404447167, 
       101852333, 
       404227469, 
-      1360698545
+      1360698545, 
+      85633159, 
+      1360698745
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701592,
-    "wof:geomhash": "31b5da0bf7412098c46fdefb42540974",
+    "wof:geomhash": "37a17b40f3d92e53360f8db9d9b7db5c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454473059,
-    "wof:lastmodified": 1583786723,
+    "wof:lastmodified": 1609891075,
     "wof:name": "DT7 3LE",
     "wof:parent_id": 404447167,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.942187, 
-    50.71977, 
-    -2.942187, 
-    50.71977
+    -2.941962, 
+    50.719817, 
+    -2.941962, 
+    50.719817
   ],
-  "geometry": {"coordinates":[-2.942187,50.71977],"type":"Point"}
+  "geometry": {"coordinates":[-2.941962,50.719817],"type":"Point"}
 }

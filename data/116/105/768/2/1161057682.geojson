@@ -5,30 +5,30 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "0.767023,52.306679,0.767023,52.306679",
-    "geom:latitude": 52.306679,
-    "geom:longitude": 0.767023,
+    "geom:bbox": "0.711742,52.288896,0.711742,52.288896",
+    "geom:latitude": 52.288896,
+    "geom:longitude": 0.711742,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000029",
     "os:district_code": "E07000245",
-    "os:positional_quality_indicator": "5",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404431617, 
-      1276587725, 
       404227469, 
       1360698595, 
       85633159, 
-      1360699041
+      1360699041, 
+      404431617, 
+      1276587725
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583802007,
-    "wof:geomhash": "a5e7aa45f2f66564c34e9a3135edd1b7",
+    "wof:geomhash": "ded9798b739f1680b50c6f6b31f1ac71",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1161057682,
-    "wof:lastmodified": 1595712043,
+    "wof:lastmodified": 1609875732,
     "wof:name": "IP31 1JW",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.767023, 
-    52.306679, 
-    0.767023, 
-    52.306679
+    0.711742, 
+    52.288896, 
+    0.711742, 
+    52.288896
   ],
-  "geometry": {"coordinates":[0.767023,52.306679],"type":"Point"}
+  "geometry": {"coordinates":[0.711742,52.288896],"type":"Point"}
 }

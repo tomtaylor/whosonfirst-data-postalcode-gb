@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-07-01",
     "geom:area": 0,
-    "geom:bbox": "-2.346856,50.747831,-2.346856,50.747831",
-    "geom:latitude": 50.747831,
-    "geom:longitude": -2.346856,
+    "geom:bbox": "-2.346770,50.747715,-2.346770,50.747715",
+    "geom:latitude": 50.747715,
+    "geom:longitude": -2.34677,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360698745, 
       404447713, 
       1125881269, 
       404227469, 
-      1360698545, 
-      85633159
+      1360698545
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583796181,
-    "wof:geomhash": "a61ef40697fc98ffc1bbfdde9d87b956",
+    "wof:geomhash": "2513ba54eb6e366d5552f6b3f7c8beec",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 38959362,
-    "wof:lastmodified": 1583796181,
+    "wof:lastmodified": 1609868520,
     "wof:name": "DT2 8GD",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.346856, 
-    50.747831, 
-    -2.346856, 
-    50.747831
+    -2.34677, 
+    50.747715, 
+    -2.34677, 
+    50.747715
   ],
-  "geometry": {"coordinates":[-2.346856,50.747831],"type":"Point"}
+  "geometry": {"coordinates":[-2.34677,50.747715],"type":"Point"}
 }

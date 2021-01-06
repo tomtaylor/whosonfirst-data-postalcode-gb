@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.389309,52.758953,-0.389309,52.758953",
-    "geom:latitude": 52.758953,
-    "geom:longitude": -0.389309,
+    "geom:bbox": "-0.389380,52.759052,-0.389380,52.759052",
+    "geom:latitude": 52.759052,
+    "geom:longitude": -0.38938,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      404448769, 
-      1276264945, 
-      404227469, 
       1360698571, 
       85633159, 
-      1360699067
+      1360699067, 
+      404448769, 
+      1276264945, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583786925,
-    "wof:geomhash": "09a1bdd2088a6c46916384834c576c99",
+    "wof:geomhash": "a125d5fbc9d30682a804b2d4508100dc",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 38118195,
-    "wof:lastmodified": 1583786925,
+    "wof:lastmodified": 1609868444,
     "wof:name": "PE10 0ZP",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.389309, 
-    52.758953, 
-    -0.389309, 
-    52.758953
+    -0.38938, 
+    52.759052, 
+    -0.38938, 
+    52.759052
   ],
-  "geometry": {"coordinates":[-0.389309,52.758953],"type":"Point"}
+  "geometry": {"coordinates":[-0.38938,52.759052],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.350575,55.839979,-4.350575,55.839979",
-    "geom:latitude": 55.839979,
-    "geom:longitude": -4.350575,
+    "geom:bbox": "-4.350571,55.839916,-4.350571,55.839916",
+    "geom:latitude": 55.839916,
+    "geom:longitude": -4.350571,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227471, 
       85861533, 
       1360698707, 
       85633159, 
       1360698797, 
       404430153, 
-      1175612707
+      1175612707, 
+      404227471
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701169,
-    "wof:geomhash": "810280360a39e3349d482c8aea4f7e52",
+    "wof:geomhash": "7476bb12eb9ba3488e4de69c9d79d74c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 504406135,
-    "wof:lastmodified": 1583786275,
+    "wof:lastmodified": 1609869763,
     "wof:name": "G53 5UL",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.350575, 
-    55.839979, 
-    -4.350575, 
-    55.839979
+    -4.350571, 
+    55.839916, 
+    -4.350571, 
+    55.839916
   ],
-  "geometry": {"coordinates":[-4.350575,55.839979],"type":"Point"}
+  "geometry": {"coordinates":[-4.350571,55.839916],"type":"Point"}
 }

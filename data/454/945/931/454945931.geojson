@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.992197,53.459628,-2.992197,53.459628",
-    "geom:latitude": 53.459628,
-    "geom:longitude": -2.992197,
+    "geom:bbox": "-2.992137,53.459672,-2.992137,53.459672",
+    "geom:latitude": 53.459672,
+    "geom:longitude": -2.992137,
     "gp:parent_id": "13250",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698573, 
+      85633159, 
+      1360698771, 
       1360817501, 
       1126041051, 
       404227469, 
-      85790225, 
-      1360698573, 
-      85633159, 
-      1360698771
+      85790225
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701762,
-    "wof:geomhash": "b19019bbe01e4d4b1fbc19f657bc0b8c",
+    "wof:geomhash": "01e167a6ad7babfe2fdb4c30c68508ba",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 454945931,
-    "wof:lastmodified": 1583786897,
+    "wof:lastmodified": 1609905303,
     "wof:name": "L20 5EJ",
     "wof:parent_id": 101913935,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.992197, 
-    53.459628, 
-    -2.992197, 
-    53.459628
+    -2.992137, 
+    53.459672, 
+    -2.992137, 
+    53.459672
   ],
-  "geometry": {"coordinates":[-2.992197,53.459628],"type":"Point"}
+  "geometry": {"coordinates":[-2.992137,53.459672],"type":"Point"}
 }

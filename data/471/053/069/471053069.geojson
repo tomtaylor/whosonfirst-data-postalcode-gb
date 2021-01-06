@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.538976,54.995598,-1.538976,54.995598",
-    "geom:latitude": 54.995598,
-    "geom:longitude": -1.538976,
+    "geom:bbox": "-1.539053,54.995634,-1.539053,54.995634",
+    "geom:latitude": 54.995634,
+    "geom:longitude": -1.539053,
     "gp:parent_id": "39034",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698601, 
-      85633159, 
       1360699037, 
       1360817045, 
       1125889337, 
-      404227469
+      404227469, 
+      1360698601, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701183,
-    "wof:geomhash": "63aed2e2d47fd0fc1b5f7ace757d8aa5",
+    "wof:geomhash": "06e11c4325b6773b8e1dd7c4093b2068",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471053069,
-    "wof:lastmodified": 1583786419,
+    "wof:lastmodified": 1609870270,
     "wof:name": "NE28 8DF",
     "wof:parent_id": 101750617,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.538976, 
-    54.995598, 
-    -1.538976, 
-    54.995598
+    -1.539053, 
+    54.995634, 
+    -1.539053, 
+    54.995634
   ],
-  "geometry": {"coordinates":[-1.538976,54.995598],"type":"Point"}
+  "geometry": {"coordinates":[-1.539053,54.995634],"type":"Point"}
 }

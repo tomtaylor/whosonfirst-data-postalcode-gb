@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.330582,53.695882,-1.330582,53.695882",
-    "geom:latitude": 53.695882,
-    "geom:longitude": -1.330582,
+    "geom:bbox": "-1.323359,53.699554,-1.323359,53.699554",
+    "geom:latitude": 53.699554,
+    "geom:longitude": -1.323359,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698945, 
+      1360817483, 
       101872189, 
       404227469, 
       1360698609, 
-      85633159, 
-      1360698945, 
-      1360817483
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701274,
-    "wof:geomhash": "5ef92196102222a53846bf9aa207d922",
+    "wof:geomhash": "88e881def4a3a4961b0d6db1b8c2e8fc",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 488144711,
-    "wof:lastmodified": 1583786191,
+    "wof:lastmodified": 1609876634,
     "wof:name": "WF8 4QD",
     "wof:parent_id": 404434173,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.330582, 
-    53.695882, 
-    -1.330582, 
-    53.695882
+    -1.323359, 
+    53.699554, 
+    -1.323359, 
+    53.699554
   ],
-  "geometry": {"coordinates":[-1.330582,53.695882],"type":"Point"}
+  "geometry": {"coordinates":[-1.323359,53.699554],"type":"Point"}
 }

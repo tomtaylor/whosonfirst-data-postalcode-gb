@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.792179,52.064593,-0.792179,52.064593",
-    "geom:latitude": 52.064593,
-    "geom:longitude": -0.792179,
+    "geom:bbox": "-0.792098,52.064630,-0.792098,52.064630",
+    "geom:latitude": 52.06463,
+    "geom:longitude": -0.792098,
     "gp:parent_id": "29890",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698913, 
+      404442571, 
       1125783017, 
       404227469, 
       1360698533, 
-      85633159, 
-      1360698913, 
-      404442571
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701339,
-    "wof:geomhash": "6daa49902b2217f6f15a35a99f462fa6",
+    "wof:geomhash": "d0ecf547f71b76faaad8731f72332ff2",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470963067,
-    "wof:lastmodified": 1583786473,
+    "wof:lastmodified": 1609877209,
     "wof:name": "MK13 0BP",
     "wof:parent_id": 101750433,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.792179, 
-    52.064593, 
-    -0.792179, 
-    52.064593
+    -0.792098, 
+    52.06463, 
+    -0.792098, 
+    52.06463
   ],
-  "geometry": {"coordinates":[-0.792179,52.064593],"type":"Point"}
+  "geometry": {"coordinates":[-0.792098,52.06463],"type":"Point"}
 }

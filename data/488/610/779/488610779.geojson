@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.441280,55.129446,-3.441280,55.129446",
+    "geom:bbox": "-3.441265,55.129446,-3.441265,55.129446",
     "geom:latitude": 55.129446,
-    "geom:longitude": -3.44128,
+    "geom:longitude": -3.441265,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,11 +18,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699039, 
       404444245, 
       404227471, 
-      1360698719
+      1360698719, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -30,7 +30,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701617,
-    "wof:geomhash": "cfecbc1e74bcbfa692183855d420402d",
+    "wof:geomhash": "8534bf44dfb8d2cd224f52858fcbf8bc",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -41,7 +41,7 @@
       }
     ],
     "wof:id": 488610779,
-    "wof:lastmodified": 1595735268,
+    "wof:lastmodified": 1609898743,
     "wof:name": "DG11 1PR",
     "wof:parent_id": 101873435,
     "wof:placetype": "postalcode",
@@ -51,10 +51,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.44128, 
+    -3.441265, 
     55.129446, 
-    -3.44128, 
+    -3.441265, 
     55.129446
   ],
-  "geometry": {"coordinates":[-3.44128,55.129446],"type":"Point"}
+  "geometry": {"coordinates":[-3.441265,55.129446],"type":"Point"}
 }

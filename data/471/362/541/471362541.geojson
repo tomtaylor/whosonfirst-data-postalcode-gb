@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2000-06-01",
     "geom:area": 0,
-    "geom:bbox": "-0.269846,52.222397,-0.269846,52.222397",
-    "geom:latitude": 52.222397,
-    "geom:longitude": -0.269846,
+    "geom:bbox": "-0.269772,52.222423,-0.269772,52.222423",
+    "geom:latitude": 52.222423,
+    "geom:longitude": -0.269772,
     "gp:parent_id": "19816",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698535, 
-      85633159, 
-      1360698845, 
       404449225, 
       1126031581, 
-      404227469
+      404227469, 
+      1360698535, 
+      85633159, 
+      1360698845
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701532,
-    "wof:geomhash": "48c0c9fa856d7b24a3d3d2605e8bbd08",
+    "wof:geomhash": "f2bf04705f569d24e16353dd3d1d2a6a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471362541,
-    "wof:lastmodified": 1583786682,
+    "wof:lastmodified": 1609888365,
     "wof:name": "PE19 2PS",
     "wof:parent_id": 404449225,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.269846, 
-    52.222397, 
-    -0.269846, 
-    52.222397
+    -0.269772, 
+    52.222423, 
+    -0.269772, 
+    52.222423
   ],
-  "geometry": {"coordinates":[-0.269846,52.222397],"type":"Point"}
+  "geometry": {"coordinates":[-0.269772,52.222423],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.257771,51.745051,-1.257771,51.745051",
+    "geom:bbox": "-1.257670,51.745051,-1.257670,51.745051",
     "geom:latitude": 51.745051,
-    "geom:longitude": -1.257771,
+    "geom:longitude": -1.25767,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,11 +18,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360698839, 
       101750439, 
       404227469, 
-      1360698585, 
-      85633159
+      1360698585
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -30,7 +30,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701487,
-    "wof:geomhash": "9bdda52fd3f4a7cc6223b9b77de4853d",
+    "wof:geomhash": "9fb40e4d6f13043b4ac6d485dae8260e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -41,7 +41,7 @@
       }
     ],
     "wof:id": 471305773,
-    "wof:lastmodified": 1583786638,
+    "wof:lastmodified": 1609885687,
     "wof:name": "OX1 4LG",
     "wof:parent_id": 101750439,
     "wof:placetype": "postalcode",
@@ -51,10 +51,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.257771, 
+    -1.25767, 
     51.745051, 
-    -1.257771, 
+    -1.25767, 
     51.745051
   ],
-  "geometry": {"coordinates":[-1.257771,51.745051],"type":"Point"}
+  "geometry": {"coordinates":[-1.25767,51.745051],"type":"Point"}
 }

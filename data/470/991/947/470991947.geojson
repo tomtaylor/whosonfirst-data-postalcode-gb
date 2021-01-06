@@ -2,7 +2,7 @@
   "id": 470991947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-07-01",
     "edtf:inception": "1988-03-01",
     "geom:area": 0,
     "geom:bbox": "-0.759980,52.038690,-0.759980,52.038690",
@@ -11,7 +11,7 @@
     "gp:parent_id": "29062",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000042",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698533, 
       85633159, 
       1360698913, 
       404450651, 
       1125833213, 
-      404227469
+      404227469, 
+      1360698533
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470991947,
-    "wof:lastmodified": 1583786515,
+    "wof:lastmodified": 1609878897,
     "wof:name": "MK9 2EB",
     "wof:parent_id": 101750433,
     "wof:placetype": "postalcode",

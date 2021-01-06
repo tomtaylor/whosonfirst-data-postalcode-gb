@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.299832,53.489431,-1.299832,53.489431",
-    "geom:latitude": 53.489431,
-    "geom:longitude": -1.299832,
+    "geom:bbox": "-1.299802,53.489449,-1.299802,53.489449",
+    "geom:latitude": 53.489449,
+    "geom:longitude": -1.299802,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698591, 
-      85633159, 
       1360698851, 
       1360817063, 
-      1209650651
+      1209650651, 
+      404227469, 
+      1360698591, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701694,
-    "wof:geomhash": "df8a540b0a1192bb7284bc5fedaa2ada",
+    "wof:geomhash": "f341548ad145d39d3ffcb7762a1141f1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471669539,
-    "wof:lastmodified": 1583786877,
+    "wof:lastmodified": 1609900504,
     "wof:name": "S64 8AA",
     "wof:parent_id": 101872153,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.299832, 
-    53.489431, 
-    -1.299832, 
-    53.489431
+    -1.299802, 
+    53.489449, 
+    -1.299802, 
+    53.489449
   ],
-  "geometry": {"coordinates":[-1.299832,53.489431],"type":"Point"}
+  "geometry": {"coordinates":[-1.299802,53.489449],"type":"Point"}
 }

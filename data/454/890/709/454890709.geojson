@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.912213,52.287277,0.912213,52.287277",
-    "geom:latitude": 52.287277,
-    "geom:longitude": 0.912213,
+    "geom:bbox": "0.912154,52.287270,0.912154,52.287270",
+    "geom:latitude": 52.28727,
+    "geom:longitude": 0.912154,
     "gp:parent_id": "25758",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698595, 
       85633159, 
       1360699041, 
       404431795, 
       1125902965, 
-      404227469
+      404227469, 
+      1360698595
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701747,
-    "wof:geomhash": "97044b150761033cb7891964290f8c6d",
+    "wof:geomhash": "5934bb2f75beda2d0cfc9270f67cfe78",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454890709,
-    "wof:lastmodified": 1595717583,
+    "wof:lastmodified": 1609904378,
     "wof:name": "IP31 3EA",
     "wof:parent_id": 404431795,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.912213, 
-    52.287277, 
-    0.912213, 
-    52.287277
+    0.912154, 
+    52.28727, 
+    0.912154, 
+    52.28727
   ],
-  "geometry": {"coordinates":[0.912213,52.287277],"type":"Point"}
+  "geometry": {"coordinates":[0.912154,52.28727],"type":"Point"}
 }

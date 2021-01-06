@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.135717,53.525439,-2.135717,53.525439",
-    "geom:latitude": 53.525439,
-    "geom:longitude": -2.135717,
+    "geom:bbox": "-2.135883,53.525376,-2.135883,53.525376",
+    "geom:latitude": 53.525376,
+    "geom:longitude": -2.135883,
     "gp:parent_id": "31017",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1126030435, 
-      404227469, 
       1360698555, 
       85633159, 
-      1360698953
+      1360698953, 
+      1126030435, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701481,
-    "wof:geomhash": "534b7f8d0513a88b66421812d26e9f81",
+    "wof:geomhash": "1e72f03275d067df947b117d3da1f02f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 471302461,
-    "wof:lastmodified": 1583786637,
+    "wof:lastmodified": 1609885594,
     "wof:name": "OL8 4QQ",
     "wof:parent_id": 101913965,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.135717, 
-    53.525439, 
-    -2.135717, 
-    53.525439
+    -2.135883, 
+    53.525376, 
+    -2.135883, 
+    53.525376
   ],
-  "geometry": {"coordinates":[-2.135717,53.525439],"type":"Point"}
+  "geometry": {"coordinates":[-2.135883,53.525376],"type":"Point"}
 }

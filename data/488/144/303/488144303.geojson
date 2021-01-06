@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.289463,53.675117,-1.289463,53.675117",
-    "geom:latitude": 53.675117,
-    "geom:longitude": -1.289463,
+    "geom:bbox": "-1.289985,53.674716,-1.289985,53.674716",
+    "geom:latitude": 53.674716,
+    "geom:longitude": -1.289985,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698609, 
       85633159, 
       1360698945, 
       1360817483, 
       101872189, 
-      404227469
+      404227469, 
+      1360698609
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701273,
-    "wof:geomhash": "717d92f172d53243d0c7cec8b79850c6",
+    "wof:geomhash": "06cdd08288cfa9828ef79c55f4b41ac0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 488144303,
-    "wof:lastmodified": 1583786190,
+    "wof:lastmodified": 1609876595,
     "wof:name": "WF8 3RP",
     "wof:parent_id": 404434173,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.289463, 
-    53.675117, 
-    -1.289463, 
-    53.675117
+    -1.289985, 
+    53.674716, 
+    -1.289985, 
+    53.674716
   ],
-  "geometry": {"coordinates":[-1.289463,53.675117],"type":"Point"}
+  "geometry": {"coordinates":[-1.289985,53.674716],"type":"Point"}
 }

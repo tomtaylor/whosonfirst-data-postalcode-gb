@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.782112,51.070708,-0.782112,51.070708",
-    "geom:latitude": 51.070708,
-    "geom:longitude": -0.782112,
+    "geom:bbox": "-0.783983,51.070665,-0.783983,51.070665",
+    "geom:latitude": 51.070665,
+    "geom:longitude": -0.783983,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698607, 
+      85633159, 
       1360698757, 
       404434759, 
       1344085433, 
-      404227469, 
-      1360698607, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701699,
-    "wof:geomhash": "69a17c234094a3ed52c0ece5a232cc92",
+    "wof:geomhash": "aa6ca7040dc28c25f3896e910637ab98",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454697259,
-    "wof:lastmodified": 1583786834,
+    "wof:lastmodified": 1609900049,
     "wof:name": "GU30 7LQ",
     "wof:parent_id": 404434759,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.782112, 
-    51.070708, 
-    -0.782112, 
-    51.070708
+    -0.783983, 
+    51.070665, 
+    -0.783983, 
+    51.070665
   ],
-  "geometry": {"coordinates":[-0.782112,51.070708],"type":"Point"}
+  "geometry": {"coordinates":[-0.783983,51.070665],"type":"Point"}
 }

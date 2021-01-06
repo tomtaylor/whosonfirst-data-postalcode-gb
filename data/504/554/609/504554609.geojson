@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.588708,55.815859,-4.588708,55.815859",
-    "geom:latitude": 55.815859,
-    "geom:longitude": -4.588708,
+    "geom:bbox": "-4.588803,55.815851,-4.588803,55.815851",
+    "geom:latitude": 55.815851,
+    "geom:longitude": -4.588803,
     "gp:parent_id": "24918",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404432463, 
-      404227471, 
       1360698699, 
       85633159, 
-      1360699097
+      1360699097, 
+      404432463, 
+      404227471
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701423,
-    "wof:geomhash": "4cb53856cae22ed477ebcea0aa5989f0",
+    "wof:geomhash": "99bb12d1f6a02d9c12c513e214814a4f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504554609,
-    "wof:lastmodified": 1583786565,
+    "wof:lastmodified": 1609879291,
     "wof:name": "PA10 2PF",
     "wof:parent_id": 404432463,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.588708, 
-    55.815859, 
-    -4.588708, 
-    55.815859
+    -4.588803, 
+    55.815851, 
+    -4.588803, 
+    55.815851
   ],
-  "geometry": {"coordinates":[-4.588708,55.815859],"type":"Point"}
+  "geometry": {"coordinates":[-4.588803,55.815851],"type":"Point"}
 }

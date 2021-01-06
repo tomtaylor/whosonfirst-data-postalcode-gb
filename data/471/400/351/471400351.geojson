@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.477008,52.656412,-0.477008,52.656412",
+    "geom:bbox": "-0.476939,52.656412,-0.476939,52.656412",
     "geom:latitude": 52.656412,
-    "geom:longitude": -0.477008,
+    "geom:longitude": -0.476939,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      101855001, 
       404227469, 
       1360698571, 
       85633159, 
       1360699067, 
-      404447237, 
-      101855001
+      404447237
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701554,
-    "wof:geomhash": "7b6b19d03201ce7fc066a11460fe7054",
+    "wof:geomhash": "959f9d841ce98b856d49f279814baf30",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471400351,
-    "wof:lastmodified": 1583786710,
+    "wof:lastmodified": 1609890681,
     "wof:name": "PE9 1QL",
     "wof:parent_id": 101855001,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.477008, 
+    -0.476939, 
     52.656412, 
-    -0.477008, 
+    -0.476939, 
     52.656412
   ],
-  "geometry": {"coordinates":[-0.477008,52.656412],"type":"Point"}
+  "geometry": {"coordinates":[-0.476939,52.656412],"type":"Point"}
 }

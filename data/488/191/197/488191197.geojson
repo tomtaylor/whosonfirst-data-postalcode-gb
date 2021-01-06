@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.920106,52.749646,-1.920106,52.749646",
-    "geom:latitude": 52.749646,
-    "geom:longitude": -1.920106,
+    "geom:bbox": "-1.919923,52.749339,-1.919923,52.749339",
+    "geom:latitude": 52.749339,
+    "geom:longitude": -1.919923,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698947, 
-      404436511, 
       1360758651, 
       404227469, 
       1360698593, 
-      85633159
+      85633159, 
+      1360698947, 
+      404436511
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701072,
-    "wof:geomhash": "c938c8a79dfc5700ac48c93163a73f6a",
+    "wof:geomhash": "885e52b71e07740dc0f6656bfe00f5f4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 488191197,
-    "wof:lastmodified": 1583786322,
+    "wof:lastmodified": 1609879330,
     "wof:name": "WS15 1PJ",
     "wof:parent_id": 101853139,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.920106, 
-    52.749646, 
-    -1.920106, 
-    52.749646
+    -1.919923, 
+    52.749339, 
+    -1.919923, 
+    52.749339
   ],
-  "geometry": {"coordinates":[-1.920106,52.749646],"type":"Point"}
+  "geometry": {"coordinates":[-1.919923,52.749339],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2000-06-01",
     "geom:area": 0,
-    "geom:bbox": "-0.206199,52.333634,-0.206199,52.333634",
-    "geom:latitude": 52.333634,
-    "geom:longitude": -0.206199,
+    "geom:bbox": "-0.206246,52.333562,-0.206246,52.333562",
+    "geom:latitude": 52.333562,
+    "geom:longitude": -0.206246,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698845, 
+      404434281, 
       101875497, 
       404227469, 
       1360698535, 
-      85633159, 
-      1360698845, 
-      404434281
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701543,
-    "wof:geomhash": "8aeb400fd107b8f1721816abb2ca570d",
+    "wof:geomhash": "21b8d18269d0373727168bcf2a4ab9ad",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471381523,
-    "wof:lastmodified": 1595722102,
+    "wof:lastmodified": 1609889607,
     "wof:name": "PE29 6ND",
     "wof:parent_id": 101875497,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.206199, 
-    52.333634, 
-    -0.206199, 
-    52.333634
+    -0.206246, 
+    52.333562, 
+    -0.206246, 
+    52.333562
   ],
-  "geometry": {"coordinates":[-0.206199,52.333634],"type":"Point"}
+  "geometry": {"coordinates":[-0.206246,52.333562],"type":"Point"}
 }

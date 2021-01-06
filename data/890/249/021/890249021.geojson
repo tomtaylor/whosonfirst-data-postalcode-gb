@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2013-07-01",
     "geom:area": 0,
-    "geom:bbox": "-3.714536,51.614440,-3.714536,51.614440",
-    "geom:latitude": 51.61444,
-    "geom:longitude": -3.714536,
+    "geom:bbox": "-3.714339,51.614569,-3.714339,51.614569",
+    "geom:latitude": 51.614569,
+    "geom:longitude": -3.714339,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698629, 
       85633159, 
       1360698825, 
       404448241, 
       1125856815, 
-      404227475
+      404227475, 
+      1360698629
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468898647,
-    "wof:geomhash": "621a0e05094388bf626a4a9b48218998",
+    "wof:geomhash": "df9294b26690d8b41c4f3d806c1eff4d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 890249021,
-    "wof:lastmodified": 1583786189,
+    "wof:lastmodified": 1609868786,
     "wof:name": "SA13 2RZ",
     "wof:parent_id": 404448241,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.714536, 
-    51.61444, 
-    -3.714536, 
-    51.61444
+    -3.714339, 
+    51.614569, 
+    -3.714339, 
+    51.614569
   ],
-  "geometry": {"coordinates":[-3.714536,51.61444],"type":"Point"}
+  "geometry": {"coordinates":[-3.714339,51.614569],"type":"Point"}
 }

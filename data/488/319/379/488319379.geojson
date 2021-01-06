@@ -2,7 +2,7 @@
   "id": 488319379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-10-01",
     "edtf:inception": "2008-09-01",
     "geom:area": 0,
     "geom:bbox": "-0.422926,51.879977,-0.422926,51.879977",
@@ -11,7 +11,7 @@
     "gp:parent_id": "27997",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000032",
@@ -19,11 +19,11 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698527, 
       85633159, 
       1360698783, 
       101750401, 
-      404227469
+      404227469, 
+      1360698527
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488319379,
-    "wof:lastmodified": 1583786530,
+    "wof:lastmodified": 1609886167,
     "wof:name": "LU1 9GF",
     "wof:parent_id": 101750401,
     "wof:placetype": "postalcode",

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1981-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.433531,53.246522,-2.433531,53.246522",
-    "geom:latitude": 53.246522,
-    "geom:longitude": -2.433531,
+    "geom:bbox": "-2.433888,53.246278,-2.433888,53.246278",
+    "geom:latitude": 53.246278,
+    "geom:longitude": -2.433888,
     "gp:parent_id": "25626",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698923, 
       404445355, 
       1125863875, 
       404227469, 
-      1360698537
+      1360698537, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701470,
-    "wof:geomhash": "374e19e43f26932c68565b77e3e6dd87",
+    "wof:geomhash": "dde6ebf14a756a440cf192106a273de0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454307353,
-    "wof:lastmodified": 1583786595,
+    "wof:lastmodified": 1609882548,
     "wof:name": "CW9 7TB",
     "wof:parent_id": 404445355,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.433531, 
-    53.246522, 
-    -2.433531, 
-    53.246522
+    -2.433888, 
+    53.246278, 
+    -2.433888, 
+    53.246278
   ],
-  "geometry": {"coordinates":[-2.433531,53.246522],"type":"Point"}
+  "geometry": {"coordinates":[-2.433888,53.246278],"type":"Point"}
 }

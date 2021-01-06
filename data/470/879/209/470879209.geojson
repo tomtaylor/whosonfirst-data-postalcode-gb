@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1994-05-01",
     "geom:area": 0,
-    "geom:bbox": "-2.288705,53.410277,-2.288705,53.410277",
-    "geom:latitude": 53.410277,
-    "geom:longitude": -2.288705,
+    "geom:bbox": "-2.289155,53.410150,-2.289155,53.410150",
+    "geom:latitude": 53.41015,
+    "geom:longitude": -2.289155,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      101750525, 
-      404227469, 
-      85785441, 
       1360698555, 
       85633159, 
-      1360698893
+      1360698893, 
+      101750525, 
+      404227469, 
+      85785441
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701196,
-    "wof:geomhash": "5ca6f4436a0968ff74905e1ef619b19b",
+    "wof:geomhash": "4afdb0c591f2ef658d113109afd1afc2",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 470879209,
-    "wof:lastmodified": 1583786327,
+    "wof:lastmodified": 1609871003,
     "wof:name": "M23 0WD",
     "wof:parent_id": 101913961,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.288705, 
-    53.410277, 
-    -2.288705, 
-    53.410277
+    -2.289155, 
+    53.41015, 
+    -2.289155, 
+    53.41015
   ],
-  "geometry": {"coordinates":[-2.288705,53.410277],"type":"Point"}
+  "geometry": {"coordinates":[-2.289155,53.41015],"type":"Point"}
 }

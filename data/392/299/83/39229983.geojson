@@ -2,32 +2,32 @@
   "id": 39229983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "1991-12-01",
-    "edtf:inception": "1982-03-01",
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.734046,53.835261,-1.734046,53.835261",
-    "geom:latitude": 53.835261,
-    "geom:longitude": -1.734046,
+    "geom:bbox": "-1.733009,53.841340,-1.733009,53.841340",
+    "geom:latitude": 53.84134,
+    "geom:longitude": -1.733009,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E08000032",
-    "os:positional_quality_indicator": "8",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      101750581, 
       404227469, 
       1360698609, 
       85633159, 
-      1360698963, 
-      101750581
+      1360698963
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583799160,
-    "wof:geomhash": "c2e6156de8a6ea0cc261d6f6aa58a070",
+    "wof:geomhash": "663a8841e2fbacb1b800f16ab2eed00a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 39229983,
-    "wof:lastmodified": 1583799160,
+    "wof:lastmodified": 1609868463,
     "wof:name": "BD10 8NG",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.734046, 
-    53.835261, 
-    -1.734046, 
-    53.835261
+    -1.733009, 
+    53.84134, 
+    -1.733009, 
+    53.84134
   ],
-  "geometry": {"coordinates":[-1.734046,53.835261],"type":"Point"}
+  "geometry": {"coordinates":[-1.733009,53.84134],"type":"Point"}
 }

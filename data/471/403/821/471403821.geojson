@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.164549,50.375089,-4.164549,50.375089",
-    "geom:latitude": 50.375089,
-    "geom:longitude": -4.164549,
+    "geom:bbox": "-4.164831,50.375120,-4.164831,50.375120",
+    "geom:latitude": 50.37512,
+    "geom:longitude": -4.164831,
     "gp:parent_id": "32185",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698841, 
       101750297, 
       404227469, 
-      1360698541, 
-      85633159, 
-      1360698841
+      1360698541
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701557,
-    "wof:geomhash": "7b4473d40f117e62d2429116471c798c",
+    "wof:geomhash": "4a405a409af1373c9c6bd5d5dfde122e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 471403821,
-    "wof:lastmodified": 1583786712,
+    "wof:lastmodified": 1609890680,
     "wof:name": "PL1 5QS",
     "wof:parent_id": 101750297,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.164549, 
-    50.375089, 
-    -4.164549, 
-    50.375089
+    -4.164831, 
+    50.37512, 
+    -4.164831, 
+    50.37512
   ],
-  "geometry": {"coordinates":[-4.164549,50.375089],"type":"Point"}
+  "geometry": {"coordinates":[-4.164831,50.37512],"type":"Point"}
 }

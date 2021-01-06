@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.911984,50.928070,-2.911984,50.928070",
-    "geom:latitude": 50.92807,
-    "geom:longitude": -2.911984,
+    "geom:bbox": "-2.911971,50.928142,-2.911971,50.928142",
+    "geom:latitude": 50.928142,
+    "geom:longitude": -2.911971,
     "gp:parent_id": "24351",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698589, 
       85633159, 
       1360699059, 
       404453055, 
       1126035213, 
-      404227469
+      404227469, 
+      1360698589
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701173,
-    "wof:geomhash": "fda2b37e82adf976e8619d4f34ccb289",
+    "wof:geomhash": "e55f75e6b394f701c2c40cbd503bb86e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487800005,
-    "wof:lastmodified": 1583786276,
+    "wof:lastmodified": 1609880516,
     "wof:name": "TA19 0DY",
     "wof:parent_id": 404453055,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.911984, 
-    50.92807, 
-    -2.911984, 
-    50.92807
+    -2.911971, 
+    50.928142, 
+    -2.911971, 
+    50.928142
   ],
-  "geometry": {"coordinates":[-2.911984,50.92807],"type":"Point"}
+  "geometry": {"coordinates":[-2.911971,50.928142],"type":"Point"}
 }

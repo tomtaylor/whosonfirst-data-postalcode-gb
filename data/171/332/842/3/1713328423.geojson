@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "-2.463485,50.718028,-2.463485,50.718028",
-    "geom:latitude": 50.718028,
-    "geom:longitude": -2.463485,
+    "geom:bbox": "-2.463484,50.717920,-2.463484,50.717920",
+    "geom:latitude": 50.71792,
+    "geom:longitude": -2.463484,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698745, 
       404435465, 
       101852345, 
       404227469, 
-      1360698545
+      1360698545, 
+      85633159, 
+      1360698745
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735520,
-    "wof:geomhash": "376f4b76828a4d849614ec6e81459a9d",
+    "wof:geomhash": "a4b3e69e2f049f29ca53196cfd3c8346",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1713328423,
-    "wof:lastmodified": 1595753365,
+    "wof:lastmodified": 1609875305,
     "wof:name": "DT1 3FP",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.463485, 
-    50.718028, 
-    -2.463485, 
-    50.718028
+    -2.463484, 
+    50.71792, 
+    -2.463484, 
+    50.71792
   ],
-  "geometry": {"coordinates":[-2.463485,50.718028],"type":"Point"}
+  "geometry": {"coordinates":[-2.463484,50.71792],"type":"Point"}
 }

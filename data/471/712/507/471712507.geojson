@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "0.093605,51.474995,0.093605,51.474995",
-    "geom:latitude": 51.474995,
-    "geom:longitude": 0.093605,
+    "geom:bbox": "0.093457,51.474963,0.093457,51.474963",
+    "geom:latitude": 51.474963,
+    "geom:longitude": 0.093457,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      85790323, 
       1360698645, 
       1158857295, 
       85633159, 
-      101750367
+      101750367, 
+      404227469, 
+      85790323
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701720,
-    "wof:geomhash": "820052a03b4f0cdac10aa17610538ffa",
+    "wof:geomhash": "3813ecdc718b589819f0af22b7f74000",
     "wof:hierarchy": [
       {
         "borough_id": 1158857295,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471712507,
-    "wof:lastmodified": 1583786891,
+    "wof:lastmodified": 1609901482,
     "wof:name": "SE18 2BZ",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.093605, 
-    51.474995, 
-    0.093605, 
-    51.474995
+    0.093457, 
+    51.474963, 
+    0.093457, 
+    51.474963
   ],
-  "geometry": {"coordinates":[0.093605,51.474995],"type":"Point"}
+  "geometry": {"coordinates":[0.093457,51.474963],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2004-09-01",
     "geom:area": 0,
-    "geom:bbox": "-3.843764,56.100624,-3.843764,56.100624",
-    "geom:latitude": 56.100624,
-    "geom:longitude": -3.843764,
+    "geom:bbox": "-3.843762,56.100061,-3.843762,56.100061",
+    "geom:latitude": 56.100061,
+    "geom:longitude": -3.843762,
     "gp:parent_id": "36135",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360699003, 
       404433721, 
       404227471, 
-      1360698655, 
-      85633159
+      1360698655
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701528,
-    "wof:geomhash": "315e231295536bdc2c1dbf043bbe0f1f",
+    "wof:geomhash": "0e885c0a3b13ad75853ace7f0ebbd9e8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504732009,
-    "wof:lastmodified": 1583786689,
+    "wof:lastmodified": 1609887862,
     "wof:name": "FK7 7XY",
     "wof:parent_id": 404433721,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.843764, 
-    56.100624, 
-    -3.843764, 
-    56.100624
+    -3.843762, 
+    56.100061, 
+    -3.843762, 
+    56.100061
   ],
-  "geometry": {"coordinates":[-3.843764,56.100624],"type":"Point"}
+  "geometry": {"coordinates":[-3.843762,56.100061],"type":"Point"}
 }

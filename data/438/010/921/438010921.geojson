@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.034413,52.483203,-2.034413,52.483203",
-    "geom:latitude": 52.483203,
-    "geom:longitude": -2.034413,
+    "geom:bbox": "-2.034289,52.482885,-2.034289,52.482885",
+    "geom:latitude": 52.482885,
+    "geom:longitude": -2.034289,
     "gp:parent_id": "33670",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698605, 
       85633159, 
       1360699035, 
       1360817335, 
-      1125901577, 
-      404227469, 
-      1360698605
+      1125901577
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701124,
-    "wof:geomhash": "979487185a9b7254e6b4d7b7c375ab18",
+    "wof:geomhash": "622925e20777dd1d5d033758908f650f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438010921,
-    "wof:lastmodified": 1583786384,
+    "wof:lastmodified": 1609868769,
     "wof:name": "B65 9QE",
     "wof:parent_id": 101914045,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.034413, 
-    52.483203, 
-    -2.034413, 
-    52.483203
+    -2.034289, 
+    52.482885, 
+    -2.034289, 
+    52.482885
   ],
-  "geometry": {"coordinates":[-2.034413,52.483203],"type":"Point"}
+  "geometry": {"coordinates":[-2.034289,52.482885],"type":"Point"}
 }

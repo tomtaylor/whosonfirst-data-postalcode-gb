@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1982-06-01",
     "geom:area": 0,
-    "geom:bbox": "-4.279489,55.867953,-4.279489,55.867953",
-    "geom:latitude": 55.867953,
-    "geom:longitude": -4.279489,
+    "geom:bbox": "-4.279388,55.868102,-4.279388,55.868102",
+    "geom:latitude": 55.868102,
+    "geom:longitude": -4.279388,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      85792601, 
+      1360698707, 
+      85633159, 
       1360698797, 
       404430153, 
       1175612707, 
-      404227471, 
-      85792601, 
-      1360698707, 
-      85633159
+      404227471
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701559,
-    "wof:geomhash": "40971362589a4ec2955baec3a43fe492",
+    "wof:geomhash": "1a570b4bbcd3aabea5c152b184edbce5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 504764807,
-    "wof:lastmodified": 1583786713,
+    "wof:lastmodified": 1609889859,
     "wof:name": "G3 7YL",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.279489, 
-    55.867953, 
-    -4.279489, 
-    55.867953
+    -4.279388, 
+    55.868102, 
+    -4.279388, 
+    55.868102
   ],
-  "geometry": {"coordinates":[-4.279489,55.867953],"type":"Point"}
+  "geometry": {"coordinates":[-4.279388,55.868102],"type":"Point"}
 }

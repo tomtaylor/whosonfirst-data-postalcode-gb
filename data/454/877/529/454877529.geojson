@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.999192,52.339355,0.999192,52.339355",
-    "geom:latitude": 52.339355,
-    "geom:longitude": 0.999192,
+    "geom:bbox": "0.999176,52.339348,0.999176,52.339348",
+    "geom:latitude": 52.339348,
+    "geom:longitude": 0.999176,
     "gp:parent_id": "33291",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404448535, 
-      1360757029, 
-      404227469, 
       1360698595, 
       85633159, 
-      1360699041
+      1360699041, 
+      404448535, 
+      1360757029, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701745,
-    "wof:geomhash": "539b66bc45fd3a4759d4a0c0ecca3ef9",
+    "wof:geomhash": "a611212dd1d37a006a986cf5b8e0a545",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454877529,
-    "wof:lastmodified": 1583786875,
+    "wof:lastmodified": 1609904083,
     "wof:name": "IP22 1EB",
     "wof:parent_id": 404448535,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.999192, 
-    52.339355, 
-    0.999192, 
-    52.339355
+    0.999176, 
+    52.339348, 
+    0.999176, 
+    52.339348
   ],
-  "geometry": {"coordinates":[0.999192,52.339355],"type":"Point"}
+  "geometry": {"coordinates":[0.999176,52.339348],"type":"Point"}
 }

@@ -6,9 +6,9 @@
     "edtf:inception": "1993-08-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.063313,51.585884,-0.063313,51.585884",
-    "geom:latitude": 51.585884,
-    "geom:longitude": -0.063313,
+    "geom:bbox": "-0.063347,51.585750,-0.063347,51.585750",
+    "geom:latitude": 51.58575,
+    "geom:longitude": -0.063347,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      101750367, 
       404227469, 
       85860365, 
       1360698645, 
-      1158857279
+      1158857279, 
+      85633159, 
+      101750367
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701067,
-    "wof:geomhash": "0467db56b24e130b0137ec826dfe6e92",
+    "wof:geomhash": "b1766f6ff6f64eb1a3044948861cc417",
     "wof:hierarchy": [
       {
         "borough_id": 1158857279,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471004469,
-    "wof:lastmodified": 1583786181,
+    "wof:lastmodified": 1609868711,
     "wof:name": "N15 4AG",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.063313, 
-    51.585884, 
-    -0.063313, 
-    51.585884
+    -0.063347, 
+    51.58575, 
+    -0.063347, 
+    51.58575
   ],
-  "geometry": {"coordinates":[-0.063313,51.585884],"type":"Point"}
+  "geometry": {"coordinates":[-0.063347,51.58575],"type":"Point"}
 }

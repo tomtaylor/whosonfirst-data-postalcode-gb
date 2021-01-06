@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.742106,50.548813,-4.742106,50.548813",
-    "geom:latitude": 50.548813,
-    "geom:longitude": -4.742106,
+    "geom:bbox": "-4.746956,50.552350,-4.746956,50.552350",
+    "geom:latitude": 50.55235,
+    "geom:longitude": -4.746956,
     "gp:parent_id": "35781",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1125906685, 
       404227469, 
       1360698623, 
       85633159, 
       1360699085, 
-      404453911
+      404453911, 
+      1125906685
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701593,
-    "wof:geomhash": "d2ae2c960f87c71a7896010adc1d282a",
+    "wof:geomhash": "faea780738c0994ea4924eb973c5509c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471426533,
-    "wof:lastmodified": 1583786733,
+    "wof:lastmodified": 1609891822,
     "wof:name": "PL30 3NJ",
     "wof:parent_id": 404453911,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.742106, 
-    50.548813, 
-    -4.742106, 
-    50.548813
+    -4.746956, 
+    50.55235, 
+    -4.746956, 
+    50.55235
   ],
-  "geometry": {"coordinates":[-4.742106,50.548813],"type":"Point"}
+  "geometry": {"coordinates":[-4.746956,50.55235],"type":"Point"}
 }

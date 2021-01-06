@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1995-07-01",
     "geom:area": 0,
-    "geom:bbox": "-0.795244,51.368145,-0.795244,51.368145",
-    "geom:latitude": 51.368145,
-    "geom:longitude": -0.795244,
+    "geom:bbox": "-0.795211,51.367767,-0.795211,51.367767",
+    "geom:latitude": 51.367767,
+    "geom:longitude": -0.795211,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      101875425, 
-      404227469, 
-      1360698529, 
       85633159, 
       1360699013, 
-      404440895
+      404440895, 
+      101875425, 
+      404227469, 
+      1360698529
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701671,
-    "wof:geomhash": "a4fc7a13daa8afa6be1208a33e2592da",
+    "wof:geomhash": "379c43df2369b23f974f0d35a8006ae3",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471557701,
-    "wof:lastmodified": 1595723353,
+    "wof:lastmodified": 1609896854,
     "wof:name": "RG45 7BN",
     "wof:parent_id": 101875425,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.795244, 
-    51.368145, 
-    -0.795244, 
-    51.368145
+    -0.795211, 
+    51.367767, 
+    -0.795211, 
+    51.367767
   ],
-  "geometry": {"coordinates":[-0.795244,51.368145],"type":"Point"}
+  "geometry": {"coordinates":[-0.795211,51.367767],"type":"Point"}
 }

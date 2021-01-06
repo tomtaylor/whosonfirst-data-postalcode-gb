@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.437641,53.098333,-2.437641,53.098333",
-    "geom:latitude": 53.098333,
-    "geom:longitude": -2.437641,
+    "geom:bbox": "-2.437372,53.098298,-2.437372,53.098298",
+    "geom:latitude": 53.098298,
+    "geom:longitude": -2.437372,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698537, 
       85633159, 
       1360698929, 
       404441439, 
       101750515, 
-      404227469
+      404227469, 
+      1360698537
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701447,
-    "wof:geomhash": "d440fa858fba875647ae9510dd187e48",
+    "wof:geomhash": "68dcebe02ef115e9718b18e3a51c535d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454288667,
-    "wof:lastmodified": 1583786580,
+    "wof:lastmodified": 1609881770,
     "wof:name": "CW1 2BG",
     "wof:parent_id": 101750515,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.437641, 
-    53.098333, 
-    -2.437641, 
-    53.098333
+    -2.437372, 
+    53.098298, 
+    -2.437372, 
+    53.098298
   ],
-  "geometry": {"coordinates":[-2.437641,53.098333],"type":"Point"}
+  "geometry": {"coordinates":[-2.437372,53.098298],"type":"Point"}
 }

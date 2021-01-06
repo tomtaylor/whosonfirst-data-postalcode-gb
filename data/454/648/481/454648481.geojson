@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.258081,51.744780,-2.258081,51.744780",
-    "geom:latitude": 51.74478,
-    "geom:longitude": -2.258081,
+    "geom:bbox": "-2.257950,51.744735,-2.257950,51.744735",
+    "geom:latitude": 51.744735,
+    "geom:longitude": -2.25795,
     "gp:parent_id": "19271",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698553, 
-      85633159, 
-      1360698927, 
       404440143, 
       1126054195, 
-      404227469
+      404227469, 
+      1360698553, 
+      85633159, 
+      1360698927
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701685,
-    "wof:geomhash": "725b8ea0856cd7b22cdedcfb49afb690",
+    "wof:geomhash": "b43730d204013bf28a7923c7b2c83ee2",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454648481,
-    "wof:lastmodified": 1583786818,
+    "wof:lastmodified": 1609898380,
     "wof:name": "GL5 4PS",
     "wof:parent_id": 404440143,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.258081, 
-    51.74478, 
-    -2.258081, 
-    51.74478
+    -2.25795, 
+    51.744735, 
+    -2.25795, 
+    51.744735
   ],
-  "geometry": {"coordinates":[-2.258081,51.74478],"type":"Point"}
+  "geometry": {"coordinates":[-2.25795,51.744735],"type":"Point"}
 }

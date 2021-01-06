@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.883478,51.938226,-3.883478,51.938226",
-    "geom:latitude": 51.938226,
-    "geom:longitude": -3.883478,
+    "geom:bbox": "-3.883314,51.938139,-3.883314,51.938139",
+    "geom:latitude": 51.938139,
+    "geom:longitude": -3.883314,
     "gp:parent_id": "12696118",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698785, 
+      404429565, 
       1126024021, 
       404227475, 
       1360698639, 
-      85633159, 
-      1360698785, 
-      404429565
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701462,
-    "wof:geomhash": "1bf29742a9353887b487bd7e3f58e428",
+    "wof:geomhash": "b71357d3eb4e43dc57e58af89cf258aa",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504590991,
-    "wof:lastmodified": 1583786607,
+    "wof:lastmodified": 1609881333,
     "wof:name": "SA19 9AL",
     "wof:parent_id": 404429565,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.883478, 
-    51.938226, 
-    -3.883478, 
-    51.938226
+    -3.883314, 
+    51.938139, 
+    -3.883314, 
+    51.938139
   ],
-  "geometry": {"coordinates":[-3.883478,51.938226],"type":"Point"}
+  "geometry": {"coordinates":[-3.883314,51.938139],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1999-12-01",
     "geom:area": 0,
-    "geom:bbox": "-3.226072,50.841929,-3.226072,50.841929",
-    "geom:latitude": 50.841929,
-    "geom:longitude": -3.226072,
+    "geom:bbox": "-3.221983,50.841450,-3.221983,50.841450",
+    "geom:latitude": 50.84145,
+    "geom:longitude": -3.221983,
     "gp:parent_id": "18673",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1126014421, 
-      404227469, 
-      1360698541, 
       85633159, 
       1360699081, 
-      404437021
+      404437021, 
+      1126014421, 
+      404227469, 
+      1360698541
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701642,
-    "wof:geomhash": "0d0fb391eba46806afa1a5dab038da04",
+    "wof:geomhash": "f1d37dfd9f60e9eac5c1e5099fe584a8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454569751,
-    "wof:lastmodified": 1583786770,
+    "wof:lastmodified": 1609894842,
     "wof:name": "EX14 4QL",
     "wof:parent_id": 404437021,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.226072, 
-    50.841929, 
-    -3.226072, 
-    50.841929
+    -3.221983, 
+    50.84145, 
+    -3.221983, 
+    50.84145
   ],
-  "geometry": {"coordinates":[-3.226072,50.841929],"type":"Point"}
+  "geometry": {"coordinates":[-3.221983,50.84145],"type":"Point"}
 }

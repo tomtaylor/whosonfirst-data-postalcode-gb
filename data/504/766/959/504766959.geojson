@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.261264,55.852210,-4.261264,55.852210",
-    "geom:latitude": 55.85221,
-    "geom:longitude": -4.261264,
+    "geom:bbox": "-4.260948,55.852238,-4.260948,55.852238",
+    "geom:latitude": 55.852238,
+    "geom:longitude": -4.260948,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698707, 
       85633159, 
       1360698797, 
       404430153, 
       1175612707, 
       404227471, 
-      85792597, 
-      1360698707
+      85792597
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701560,
-    "wof:geomhash": "771c2986d8e58f0145e6192decb50ea7",
+    "wof:geomhash": "e07b66fbd57890aafb29d952fafe7b22",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 504766959,
-    "wof:lastmodified": 1583786715,
+    "wof:lastmodified": 1609889989,
     "wof:name": "G5 8DG",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.261264, 
-    55.85221, 
-    -4.261264, 
-    55.85221
+    -4.260948, 
+    55.852238, 
+    -4.260948, 
+    55.852238
   ],
-  "geometry": {"coordinates":[-4.261264,55.85221],"type":"Point"}
+  "geometry": {"coordinates":[-4.260948,55.852238],"type":"Point"}
 }

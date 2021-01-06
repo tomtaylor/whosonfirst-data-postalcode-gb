@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1998-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.068719,53.986773,-1.068719,53.986773",
-    "geom:latitude": 53.986773,
-    "geom:longitude": -1.068719,
+    "geom:bbox": "-1.068744,53.986772,-1.068744,53.986772",
+    "geom:latitude": 53.986772,
+    "geom:longitude": -1.068744,
     "gp:parent_id": "41415",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698619, 
-      85633159, 
-      1360698977, 
       404446431, 
       1276579271, 
-      404227469
+      404227469, 
+      1360698619, 
+      85633159, 
+      1360698977
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701215,
-    "wof:geomhash": "a8853de69e86faad378397d42e8f3884",
+    "wof:geomhash": "0680335a5ed8d5761831a59c2663b015",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488249547,
-    "wof:lastmodified": 1583786446,
+    "wof:lastmodified": 1609882366,
     "wof:name": "YO31 9HU",
     "wof:parent_id": 101751641,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.068719, 
-    53.986773, 
-    -1.068719, 
-    53.986773
+    -1.068744, 
+    53.986772, 
+    -1.068744, 
+    53.986772
   ],
-  "geometry": {"coordinates":[-1.068719,53.986773],"type":"Point"}
+  "geometry": {"coordinates":[-1.068744,53.986772],"type":"Point"}
 }

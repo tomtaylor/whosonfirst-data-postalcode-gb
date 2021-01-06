@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "uuuu",
-    "edtf:inception": "2019-07-01",
+    "edtf:inception": "2020-10-01",
     "geom:area": 0,
     "geom:bbox": "-1.471247,54.843230,-1.471247,54.843230",
     "geom:latitude": 54.84323,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698987, 
       1360817213, 
       101872327, 
       404227469, 
       1360698601, 
-      85633159, 
-      1360698987
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 874443625,
-    "wof:lastmodified": 1583786226,
+    "wof:lastmodified": 1609869416,
     "wof:name": "DH4 9BR",
     "wof:parent_id": 101872327,
     "wof:placetype": "postalcode",

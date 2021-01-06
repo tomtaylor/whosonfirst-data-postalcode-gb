@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2013-12-01",
     "geom:area": 0,
-    "geom:bbox": "-0.679954,53.326947,-0.679954,53.326947",
-    "geom:latitude": 53.326947,
-    "geom:longitude": -0.679954,
+    "geom:bbox": "-0.680120,53.326913,-0.680120,53.326913",
+    "geom:latitude": 53.326913,
+    "geom:longitude": -0.68012,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698571, 
       85633159, 
       1360699067, 
       404431161, 
       1310628203, 
-      404227469
+      404227469, 
+      1360698571
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701576,
-    "wof:geomhash": "aa608f9f0e15ed6f30c3c9933039c07d",
+    "wof:geomhash": "ebd2b8f550268ea77f773d636a5d5b89",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 437825407,
-    "wof:lastmodified": 1583786729,
+    "wof:lastmodified": 1609891717,
     "wof:name": "LN1 2ZJ",
     "wof:parent_id": 404431161,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.679954, 
-    53.326947, 
-    -0.679954, 
-    53.326947
+    -0.68012, 
+    53.326913, 
+    -0.68012, 
+    53.326913
   ],
-  "geometry": {"coordinates":[-0.679954,53.326947],"type":"Point"}
+  "geometry": {"coordinates":[-0.68012,53.326913],"type":"Point"}
 }

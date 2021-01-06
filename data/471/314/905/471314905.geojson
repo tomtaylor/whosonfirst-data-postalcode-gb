@@ -2,7 +2,7 @@
   "id": 471314905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-06-01",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:bbox": "-1.246564,51.690146,-1.246564,51.690146",
@@ -11,7 +11,7 @@
     "gp:parent_id": "32832",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000025",
     "os:district_code": "E07000180",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698585, 
       85633159, 
       1360698839, 
       404431691, 
-      1126009153, 
-      404227469, 
-      1360698585
+      1126009153
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471314905,
-    "wof:lastmodified": 1583786643,
+    "wof:lastmodified": 1609886189,
     "wof:name": "OX14 3QE",
     "wof:parent_id": 404431691,
     "wof:placetype": "postalcode",

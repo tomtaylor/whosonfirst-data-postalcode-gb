@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.839944,53.081952,-2.839944,53.081952",
-    "geom:latitude": 53.081952,
-    "geom:longitude": -2.839944,
+    "geom:bbox": "-2.838959,53.081950,-2.838959,53.081950",
+    "geom:latitude": 53.08195,
+    "geom:longitude": -2.838959,
     "gp:parent_id": "11994",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      404443537, 
       1360758399, 
       404227469, 
       1360698537, 
       85633159, 
-      1360698923, 
-      404443537
+      1360698923
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701164,
-    "wof:geomhash": "441886027fe41cf693ced4dc8df02859",
+    "wof:geomhash": "6aa37c37efba509666453829516429d2",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487780935,
-    "wof:lastmodified": 1583786267,
+    "wof:lastmodified": 1609879463,
     "wof:name": "SY14 7HT",
     "wof:parent_id": 404443537,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.839944, 
-    53.081952, 
-    -2.839944, 
-    53.081952
+    -2.838959, 
+    53.08195, 
+    -2.838959, 
+    53.08195
   ],
-  "geometry": {"coordinates":[-2.839944,53.081952],"type":"Point"}
+  "geometry": {"coordinates":[-2.838959,53.08195],"type":"Point"}
 }

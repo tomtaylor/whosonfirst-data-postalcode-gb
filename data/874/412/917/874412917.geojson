@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2015-05-01",
     "geom:area": 0,
-    "geom:bbox": "-2.232900,56.958574,-2.232900,56.958574",
-    "geom:latitude": 56.958574,
-    "geom:longitude": -2.2329,
+    "geom:bbox": "-2.232834,56.958520,-2.232834,56.958520",
+    "geom:latitude": 56.95852,
+    "geom:longitude": -2.232834,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404448747, 
-      404227471, 
       1360698711, 
       85633159, 
-      1360699031
+      1360699031, 
+      404448747, 
+      404227471
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468872867,
-    "wof:geomhash": "903761cd31eb12d872abb26ccc08f2db",
+    "wof:geomhash": "670813b2293d534a3db44301249a44a3",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 874412917,
-    "wof:lastmodified": 1595726544,
+    "wof:lastmodified": 1609868660,
     "wof:name": "AB39 2QH",
     "wof:parent_id": 101872663,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.2329, 
-    56.958574, 
-    -2.2329, 
-    56.958574
+    -2.232834, 
+    56.95852, 
+    -2.232834, 
+    56.95852
   ],
-  "geometry": {"coordinates":[-2.2329,56.958574],"type":"Point"}
+  "geometry": {"coordinates":[-2.232834,56.95852],"type":"Point"}
 }

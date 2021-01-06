@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.059233,51.563648,-0.059233,51.563648",
-    "geom:latitude": 51.563648,
-    "geom:longitude": -0.059233,
+    "geom:bbox": "-0.059122,51.563621,-0.059122,51.563621",
+    "geom:latitude": 51.563621,
+    "geom:longitude": -0.059122,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      101750367, 
       1158864487, 
       404227469, 
       85791225, 
       1360698645, 
       1158857273, 
-      85633159, 
-      101750367
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701625,
-    "wof:geomhash": "100d3202d600b45f1b233495faf2b16c",
+    "wof:geomhash": "acc05f157e1c3c9b425b40ac40886230",
     "wof:hierarchy": [
       {
         "borough_id": 1158857273,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 454526879,
-    "wof:lastmodified": 1583786750,
+    "wof:lastmodified": 1609893367,
     "wof:name": "E5 9BU",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.059233, 
-    51.563648, 
-    -0.059233, 
-    51.563648
+    -0.059122, 
+    51.563621, 
+    -0.059122, 
+    51.563621
   ],
-  "geometry": {"coordinates":[-0.059233,51.563648],"type":"Point"}
+  "geometry": {"coordinates":[-0.059122,51.563621],"type":"Point"}
 }

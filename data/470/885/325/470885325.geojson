@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1994-05-01",
     "geom:area": 0,
-    "geom:bbox": "-2.316045,53.555022,-2.316045,53.555022",
-    "geom:latitude": 53.555022,
-    "geom:longitude": -2.316045,
+    "geom:bbox": "-2.316480,53.555001,-2.316480,53.555001",
+    "geom:latitude": 53.555001,
+    "geom:longitude": -2.31648,
     "gp:parent_id": "32818",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      101750567, 
       404227469, 
       85791629, 
       1360698555, 
       85633159, 
-      1360698847
+      1360698847, 
+      101750567
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701210,
-    "wof:geomhash": "ceb9c631d8d8d23131ec83e7e402e477",
+    "wof:geomhash": "3595952586591be9aafff0f6b39a1f67",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470885325,
-    "wof:lastmodified": 1583786346,
+    "wof:lastmodified": 1609871340,
     "wof:name": "M26 1NA",
     "wof:parent_id": 101913947,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.316045, 
-    53.555022, 
-    -2.316045, 
-    53.555022
+    -2.31648, 
+    53.555001, 
+    -2.31648, 
+    53.555001
   ],
-  "geometry": {"coordinates":[-2.316045,53.555022],"type":"Point"}
+  "geometry": {"coordinates":[-2.31648,53.555001],"type":"Point"}
 }

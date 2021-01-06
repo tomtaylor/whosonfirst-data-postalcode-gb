@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.762953,51.124039,-2.762953,51.124039",
-    "geom:latitude": 51.124039,
-    "geom:longitude": -2.762953,
+    "geom:bbox": "-2.763303,51.124183,-2.763303,51.124183",
+    "geom:latitude": 51.124183,
+    "geom:longitude": -2.763303,
     "gp:parent_id": "39081",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698589, 
-      85633159, 
-      1360699059, 
       404434933, 
       1226377897, 
-      404227469
+      404227469, 
+      1360698589, 
+      85633159, 
+      1360699059
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701173,
-    "wof:geomhash": "4ff2691e3a9fc6bb7a8f3913c801eec5",
+    "wof:geomhash": "b2244f68a211a4a86ebd99ad8524a8b0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438060137,
-    "wof:lastmodified": 1583786305,
+    "wof:lastmodified": 1609870445,
     "wof:name": "BA16 9QA",
     "wof:parent_id": 404434933,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.762953, 
-    51.124039, 
-    -2.762953, 
-    51.124039
+    -2.763303, 
+    51.124183, 
+    -2.763303, 
+    51.124183
   ],
-  "geometry": {"coordinates":[-2.762953,51.124039],"type":"Point"}
+  "geometry": {"coordinates":[-2.763303,51.124183],"type":"Point"}
 }

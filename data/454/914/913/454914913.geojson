@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.262624,51.333500,-0.262624,51.333500",
-    "geom:latitude": 51.3335,
-    "geom:longitude": -0.262624,
+    "geom:bbox": "-0.262883,51.333593,-0.262883,51.333593",
+    "geom:latitude": 51.333593,
+    "geom:longitude": -0.262883,
     "gp:parent_id": "19649",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698887, 
       1126029899, 
       404227469, 
-      1360698599
+      1360698599, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701753,
-    "wof:geomhash": "67cc1c99305ddd8ac1f66a2a3219a4f7",
+    "wof:geomhash": "3d5f0ff8091211ad1bc98b2a6bd5cf6b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454914913,
-    "wof:lastmodified": 1583786883,
+    "wof:lastmodified": 1609904823,
     "wof:name": "KT17 4PF",
     "wof:parent_id": 101914077,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.262624, 
-    51.3335, 
-    -0.262624, 
-    51.3335
+    -0.262883, 
+    51.333593, 
+    -0.262883, 
+    51.333593
   ],
-  "geometry": {"coordinates":[-0.262624,51.3335],"type":"Point"}
+  "geometry": {"coordinates":[-0.262883,51.333593],"type":"Point"}
 }

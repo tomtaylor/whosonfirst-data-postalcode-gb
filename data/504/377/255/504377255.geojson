@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.173718,55.974018,-3.173718,55.974018",
-    "geom:latitude": 55.974018,
+    "geom:bbox": "-3.173718,55.974027,-3.173718,55.974027",
+    "geom:latitude": 55.974027,
     "geom:longitude": -3.173718,
     "gp:parent_id": "12696195",
     "iso:country": "GB",
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698761, 
-      404437279, 
       101750629, 
       404227471, 
       85861481, 
       1360698673, 
-      85633159
+      85633159, 
+      1360698761, 
+      404437279
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701092,
-    "wof:geomhash": "0751bbb63b7bd8db1cb32b55ab16966e",
+    "wof:geomhash": "e2ab0db628d0778f2274cf4dfbea20e3",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 504377255,
-    "wof:lastmodified": 1583786183,
+    "wof:lastmodified": 1609868871,
     "wof:name": "EH6 6DG",
     "wof:parent_id": 101750629,
     "wof:placetype": "postalcode",
@@ -57,9 +57,9 @@
   },
   "bbox": [
     -3.173718, 
-    55.974018, 
+    55.974027, 
     -3.173718, 
-    55.974018
+    55.974027
   ],
-  "geometry": {"coordinates":[-3.173718,55.974018],"type":"Point"}
+  "geometry": {"coordinates":[-3.173718,55.974027],"type":"Point"}
 }

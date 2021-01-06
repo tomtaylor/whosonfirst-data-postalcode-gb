@@ -2,8 +2,8 @@
   "id": 1712816887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2019-09-01",
-    "edtf:inception": "2018-08-01",
+    "edtf:cessation": "2020-09-01",
+    "edtf:inception": "2020-05-01",
     "geom:area": 0,
     "geom:bbox": "-2.885938,53.481343,-2.885938,53.481343",
     "geom:latitude": 53.481343,
@@ -18,11 +18,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698573, 
       85633159, 
       1360698941, 
-      101872163
+      101872163, 
+      404227469, 
+      1360698573
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1712816887,
-    "wof:lastmodified": 1583804888,
+    "wof:lastmodified": 1609874781,
     "wof:name": "L33 7YL",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

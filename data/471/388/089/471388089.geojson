@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.554459,52.745762,0.554459,52.745762",
-    "geom:latitude": 52.745762,
-    "geom:longitude": 0.554459,
+    "geom:bbox": "0.554504,52.745509,0.554504,52.745509",
+    "geom:latitude": 52.745509,
+    "geom:longitude": 0.554504,
     "gp:parent_id": "20956",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1125991031, 
-      404227469, 
-      1360698575, 
       85633159, 
       1360698955, 
-      404454055
+      404454055, 
+      1125991031, 
+      404227469, 
+      1360698575
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701544,
-    "wof:geomhash": "396afa175ecaf684717ac057aadc8e0a",
+    "wof:geomhash": "831bf332755f9cf6b870c25f376dd938",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471388089,
-    "wof:lastmodified": 1595722144,
+    "wof:lastmodified": 1609890148,
     "wof:name": "PE32 1PB",
     "wof:parent_id": 404454055,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.554459, 
-    52.745762, 
-    0.554459, 
-    52.745762
+    0.554504, 
+    52.745509, 
+    0.554504, 
+    52.745509
   ],
-  "geometry": {"coordinates":[0.554459,52.745762],"type":"Point"}
+  "geometry": {"coordinates":[0.554504,52.745509],"type":"Point"}
 }

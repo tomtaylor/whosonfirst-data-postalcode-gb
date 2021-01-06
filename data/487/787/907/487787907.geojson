@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.853665,52.645496,-2.853665,52.645496",
-    "geom:latitude": 52.645496,
-    "geom:longitude": -2.853665,
+    "geom:bbox": "-2.853545,52.645452,-2.853545,52.645452",
+    "geom:latitude": 52.645452,
+    "geom:longitude": -2.853545,
     "gp:parent_id": "32152",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698587, 
       85633159, 
       1360698821, 
       404452311, 
-      1259418233
+      1259418233, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701167,
-    "wof:geomhash": "1d8b3b1c4756ad84d1125a2e6bb4c4ed",
+    "wof:geomhash": "fda611727b1964c909387dfc08bebffb",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487787907,
-    "wof:lastmodified": 1583786271,
+    "wof:lastmodified": 1609879999,
     "wof:name": "SY5 0XQ",
     "wof:parent_id": 404452311,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.853665, 
-    52.645496, 
-    -2.853665, 
-    52.645496
+    -2.853545, 
+    52.645452, 
+    -2.853545, 
+    52.645452
   ],
-  "geometry": {"coordinates":[-2.853665,52.645496],"type":"Point"}
+  "geometry": {"coordinates":[-2.853545,52.645452],"type":"Point"}
 }

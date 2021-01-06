@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.738975,55.184833,-1.738975,55.184833",
-    "geom:latitude": 55.184833,
-    "geom:longitude": -1.738975,
+    "geom:bbox": "-1.739179,55.184878,-1.739179,55.184878",
+    "geom:latitude": 55.184878,
+    "geom:longitude": -1.739179,
     "gp:parent_id": "29362",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698727, 
       85633159, 
       1360698769, 
       404453433, 
-      1125933675
+      1125933675, 
+      404227469, 
+      1360698727
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701262,
-    "wof:geomhash": "11e816001ede3bf87e3deb1081940348",
+    "wof:geomhash": "bf703a213b62863378d183037a27f35c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471086509,
-    "wof:lastmodified": 1595719975,
+    "wof:lastmodified": 1609872080,
     "wof:name": "NE61 3SB",
     "wof:parent_id": 404453433,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.738975, 
-    55.184833, 
-    -1.738975, 
-    55.184833
+    -1.739179, 
+    55.184878, 
+    -1.739179, 
+    55.184878
   ],
-  "geometry": {"coordinates":[-1.738975,55.184833],"type":"Point"}
+  "geometry": {"coordinates":[-1.739179,55.184878],"type":"Point"}
 }

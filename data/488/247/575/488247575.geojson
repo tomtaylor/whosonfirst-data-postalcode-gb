@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1998-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.089589,53.973621,-1.089589,53.973621",
-    "geom:latitude": 53.973621,
-    "geom:longitude": -1.089589,
+    "geom:bbox": "-1.089309,53.973889,-1.089309,53.973889",
+    "geom:latitude": 53.973889,
+    "geom:longitude": -1.089309,
     "gp:parent_id": "41415",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698619, 
       85633159, 
       1360698977, 
       101751641, 
-      404227469
+      404227469, 
+      1360698619
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701210,
-    "wof:geomhash": "d54f91f88f9009db89de2253bf736a9c",
+    "wof:geomhash": "bc39df75b221aec268e559eab19f6c74",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488247575,
-    "wof:lastmodified": 1595731050,
+    "wof:lastmodified": 1609882207,
     "wof:name": "YO30 6DZ",
     "wof:parent_id": 101751641,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.089589, 
-    53.973621, 
-    -1.089589, 
-    53.973621
+    -1.089309, 
+    53.973889, 
+    -1.089309, 
+    53.973889
   ],
-  "geometry": {"coordinates":[-1.089589,53.973621],"type":"Point"}
+  "geometry": {"coordinates":[-1.089309,53.973889],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.469085,51.755397,0.469085,51.755397",
-    "geom:latitude": 51.755397,
-    "geom:longitude": 0.469085,
+    "geom:bbox": "0.469067,51.755334,0.469067,51.755334",
+    "geom:latitude": 51.755334,
+    "geom:longitude": 0.469067,
     "gp:parent_id": "15782",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698551, 
       85633159, 
       1360698979, 
       101750411, 
-      404227469
+      404227469, 
+      1360698551
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701288,
-    "wof:geomhash": "21885cecb398b63d3cbd82ed2f8cf196",
+    "wof:geomhash": "89b4cc716a6071c459cac7ae936ab19e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454132721,
-    "wof:lastmodified": 1583786428,
+    "wof:lastmodified": 1609872803,
     "wof:name": "CM1 4AP",
     "wof:parent_id": 101750411,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.469085, 
-    51.755397, 
-    0.469085, 
-    51.755397
+    0.469067, 
+    51.755334, 
+    0.469067, 
+    51.755334
   ],
-  "geometry": {"coordinates":[0.469085,51.755397],"type":"Point"}
+  "geometry": {"coordinates":[0.469067,51.755334],"type":"Point"}
 }

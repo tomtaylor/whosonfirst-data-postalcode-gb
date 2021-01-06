@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.132666,52.956421,-1.132666,52.956421",
-    "geom:latitude": 52.956421,
-    "geom:longitude": -1.132666,
+    "geom:bbox": "-1.132889,52.956353,-1.132889,52.956353",
+    "geom:latitude": 52.956353,
+    "geom:longitude": -1.132889,
     "gp:parent_id": "30720",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1175612705, 
-      404227469, 
       1360698583, 
       85633159, 
-      1360698801
+      1360698801, 
+      1175612705, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701329,
-    "wof:geomhash": "978a71b5c64563477e250b083a0642cc",
+    "wof:geomhash": "97fe8538b020d0c8578e72a6f693e76a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 471136625,
-    "wof:lastmodified": 1583786473,
+    "wof:lastmodified": 1609875983,
     "wof:name": "NG3 2FB",
     "wof:parent_id": 101750491,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.132666, 
-    52.956421, 
-    -1.132666, 
-    52.956421
+    -1.132889, 
+    52.956353, 
+    -1.132889, 
+    52.956353
   ],
-  "geometry": {"coordinates":[-1.132666,52.956421],"type":"Point"}
+  "geometry": {"coordinates":[-1.132889,52.956353],"type":"Point"}
 }

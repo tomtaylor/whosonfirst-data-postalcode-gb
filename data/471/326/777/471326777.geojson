@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1991-09-01",
     "geom:area": 0,
-    "geom:bbox": "-1.339906,51.838871,-1.339906,51.838871",
-    "geom:latitude": 51.838871,
-    "geom:longitude": -1.339906,
+    "geom:bbox": "-1.340925,51.840693,-1.340925,51.840693",
+    "geom:latitude": 51.840693,
+    "geom:longitude": -1.340925,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698839, 
-      404452423, 
-      1125781967, 
       404227469, 
       1360698585, 
-      85633159
+      85633159, 
+      1360698839, 
+      404436939, 
+      101852961
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,19 +31,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701503,
-    "wof:geomhash": "c51777d7923155816b03670abaa6a7f2",
+    "wof:geomhash": "bb2536c4910ff10cde9e6643a6f9a3e4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360698839,
-        "localadmin_id": 404452423,
-        "locality_id": 1125781967,
+        "localadmin_id": 404436939,
+        "locality_id": 101852961,
         "macroregion_id": 404227469,
         "region_id": 1360698585
       }
     ],
     "wof:id": 471326777,
-    "wof:lastmodified": 1583786654,
+    "wof:lastmodified": 1609886570,
     "wof:name": "OX20 1QS",
     "wof:parent_id": 404452423,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.339906, 
-    51.838871, 
-    -1.339906, 
-    51.838871
+    -1.340925, 
+    51.840693, 
+    -1.340925, 
+    51.840693
   ],
-  "geometry": {"coordinates":[-1.339906,51.838871],"type":"Point"}
+  "geometry": {"coordinates":[-1.340925,51.840693],"type":"Point"}
 }

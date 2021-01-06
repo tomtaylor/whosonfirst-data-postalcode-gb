@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-02-01",
     "geom:area": 0,
-    "geom:bbox": "-0.071694,51.411914,-0.071694,51.411914",
-    "geom:latitude": 51.411914,
-    "geom:longitude": -0.071694,
+    "geom:bbox": "-0.071486,51.411731,-0.071486,51.411731",
+    "geom:latitude": 51.411731,
+    "geom:longitude": -0.071486,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,29 +18,29 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      1158857297, 
-      85633159, 
       101750367, 
       404227469, 
-      85861607, 
-      1360698645
+      85789525, 
+      1360698645, 
+      1158857297, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735637,
-    "wof:geomhash": "7f5cbcc9ba3442ee6ac3e003202a4639",
+    "wof:geomhash": "3aedfc141da07ec6d9be54150bfa2604",
     "wof:hierarchy": [
       {
         "borough_id": 1158857297,
         "country_id": 85633159,
         "locality_id": 101750367,
         "macroregion_id": 404227469,
-        "neighbourhood_id": 85861607,
+        "neighbourhood_id": 85789525,
         "region_id": 1360698645
       }
     ],
     "wof:id": 1713331007,
-    "wof:lastmodified": 1595753461,
+    "wof:lastmodified": 1609875449,
     "wof:name": "SE20 8FQ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.071694, 
-    51.411914, 
-    -0.071694, 
-    51.411914
+    -0.071486, 
+    51.411731, 
+    -0.071486, 
+    51.411731
   ],
-  "geometry": {"coordinates":[-0.071694,51.411914],"type":"Point"}
+  "geometry": {"coordinates":[-0.071486,51.411731],"type":"Point"}
 }

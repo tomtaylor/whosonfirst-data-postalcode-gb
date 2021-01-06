@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1990-02-01",
     "geom:area": 0,
-    "geom:bbox": "-1.445006,54.913764,-1.445006,54.913764",
-    "geom:latitude": 54.913764,
-    "geom:longitude": -1.445006,
+    "geom:bbox": "-1.445680,54.913560,-1.445680,54.913560",
+    "geom:latitude": 54.91356,
+    "geom:longitude": -1.44568,
     "gp:parent_id": "36615",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698987, 
       1360817213, 
       101750611, 
       404227469, 
       1360698601, 
-      85633159, 
-      1360698987
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701108,
-    "wof:geomhash": "09ddefe05718ac536d655861e09c0f4c",
+    "wof:geomhash": "0cd14ea5238f4087f3dd8606e3e0a8a7",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487655895,
-    "wof:lastmodified": 1595720106,
+    "wof:lastmodified": 1609870989,
     "wof:name": "SR5 3NX",
     "wof:parent_id": 101750611,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.445006, 
-    54.913764, 
-    -1.445006, 
-    54.913764
+    -1.44568, 
+    54.91356, 
+    -1.44568, 
+    54.91356
   ],
-  "geometry": {"coordinates":[-1.445006,54.913764],"type":"Point"}
+  "geometry": {"coordinates":[-1.44568,54.91356],"type":"Point"}
 }

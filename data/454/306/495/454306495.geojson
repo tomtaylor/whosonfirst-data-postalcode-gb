@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.493877,53.286478,-2.493877,53.286478",
-    "geom:latitude": 53.286478,
-    "geom:longitude": -2.493877,
+    "geom:bbox": "-2.495468,53.285364,-2.495468,53.285364",
+    "geom:latitude": 53.285364,
+    "geom:longitude": -2.495468,
     "gp:parent_id": "28436",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698923, 
       404430123, 
       1210045361, 
       404227469, 
-      1360698537, 
-      85633159, 
-      1360698923
+      1360698537
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701467,
-    "wof:geomhash": "3e47709733c743281db6d2baabc6106d",
+    "wof:geomhash": "ce0ea90644c6590f585b5df1cf5bcb90",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454306495,
-    "wof:lastmodified": 1583786595,
+    "wof:lastmodified": 1609882469,
     "wof:name": "CW9 6DP",
     "wof:parent_id": 404430123,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.493877, 
-    53.286478, 
-    -2.493877, 
-    53.286478
+    -2.495468, 
+    53.285364, 
+    -2.495468, 
+    53.285364
   ],
-  "geometry": {"coordinates":[-2.493877,53.286478],"type":"Point"}
+  "geometry": {"coordinates":[-2.495468,53.285364],"type":"Point"}
 }

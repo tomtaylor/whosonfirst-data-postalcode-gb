@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2005-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.427194,53.798550,-1.427194,53.798550",
-    "geom:latitude": 53.79855,
-    "geom:longitude": -1.427194,
+    "geom:bbox": "-1.427937,53.798643,-1.427937,53.798643",
+    "geom:latitude": 53.798643,
+    "geom:longitude": -1.427937,
     "gp:parent_id": "26042",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
       85787853, 
       1360698609, 
       85633159, 
       1360698749, 
-      101750579, 
-      404227469
+      101750579
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701062,
-    "wof:geomhash": "1567158285dc69800d700b234e673310",
+    "wof:geomhash": "560bdde16c539776a441b7a7f18693bb",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470810881,
-    "wof:lastmodified": 1583786170,
+    "wof:lastmodified": 1609876887,
     "wof:name": "LS15 8GB",
     "wof:parent_id": 404432293,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.427194, 
-    53.79855, 
-    -1.427194, 
-    53.79855
+    -1.427937, 
+    53.798643, 
+    -1.427937, 
+    53.798643
   ],
-  "geometry": {"coordinates":[-1.427194,53.79855],"type":"Point"}
+  "geometry": {"coordinates":[-1.427937,53.798643],"type":"Point"}
 }

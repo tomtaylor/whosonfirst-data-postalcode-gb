@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.497878,52.656157,-0.497878,52.656157",
-    "geom:latitude": 52.656157,
-    "geom:longitude": -0.497878,
+    "geom:bbox": "-0.497915,52.656096,-0.497915,52.656096",
+    "geom:latitude": 52.656096,
+    "geom:longitude": -0.497915,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360699067, 
       404447237, 
       101855001, 
       404227469, 
-      1360698571, 
-      85633159, 
-      1360699067
+      1360698571
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701556,
-    "wof:geomhash": "96287604d5536378551ce44f8e3ff185",
+    "wof:geomhash": "de2943b7ff21eef84be427eb0648fc6f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471401139,
-    "wof:lastmodified": 1583786711,
+    "wof:lastmodified": 1609890767,
     "wof:name": "PE9 2XD",
     "wof:parent_id": 404447237,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.497878, 
-    52.656157, 
-    -0.497878, 
-    52.656157
+    -0.497915, 
+    52.656096, 
+    -0.497915, 
+    52.656096
   ],
-  "geometry": {"coordinates":[-0.497878,52.656157],"type":"Point"}
+  "geometry": {"coordinates":[-0.497915,52.656096],"type":"Point"}
 }

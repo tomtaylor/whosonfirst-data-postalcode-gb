@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.220713,53.347396,-2.220713,53.347396",
-    "geom:latitude": 53.347396,
-    "geom:longitude": -2.220713,
+    "geom:bbox": "-2.220682,53.347430,-2.220682,53.347430",
+    "geom:latitude": 53.34743,
+    "geom:longitude": -2.220682,
     "gp:parent_id": "22334",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698537, 
       85633159, 
       1360698929, 
       404435081, 
       1126060379, 
-      404227469
+      404227469, 
+      1360698537
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701741,
-    "wof:geomhash": "5b0889ebcd6ab19998021cc0309248c1",
+    "wof:geomhash": "60f0d5e2709eb8a70460c3568aec28d3",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471797303,
-    "wof:lastmodified": 1583786911,
+    "wof:lastmodified": 1609903164,
     "wof:name": "SK9 3DS",
     "wof:parent_id": 101751621,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.220713, 
-    53.347396, 
-    -2.220713, 
-    53.347396
+    -2.220682, 
+    53.34743, 
+    -2.220682, 
+    53.34743
   ],
-  "geometry": {"coordinates":[-2.220713,53.347396],"type":"Point"}
+  "geometry": {"coordinates":[-2.220682,53.34743],"type":"Point"}
 }

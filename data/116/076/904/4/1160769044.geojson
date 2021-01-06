@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-02-01",
     "geom:area": 0,
-    "geom:bbox": "-3.120399,55.954334,-3.120399,55.954334",
-    "geom:latitude": 55.954334,
-    "geom:longitude": -3.120399,
+    "geom:bbox": "-3.120636,55.954763,-3.120636,55.954763",
+    "geom:latitude": 55.954763,
+    "geom:longitude": -3.120636,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,18 +18,18 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85789915, 
-      1360698673, 
       85633159, 
       1360698761, 
       404437279, 
       101750629, 
-      404227471
+      404227471, 
+      85789915, 
+      1360698673
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583789165,
-    "wof:geomhash": "132e595bf4d6c2c7d1d7c46412e6e98c",
+    "wof:geomhash": "ac56f68a98c0aed5fb5afeca17d01efa",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 1160769044,
-    "wof:lastmodified": 1595710850,
+    "wof:lastmodified": 1609869584,
     "wof:name": "EH15 1BU",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.120399, 
-    55.954334, 
-    -3.120399, 
-    55.954334
+    -3.120636, 
+    55.954763, 
+    -3.120636, 
+    55.954763
   ],
-  "geometry": {"coordinates":[-3.120399,55.954334],"type":"Point"}
+  "geometry": {"coordinates":[-3.120636,55.954763],"type":"Point"}
 }

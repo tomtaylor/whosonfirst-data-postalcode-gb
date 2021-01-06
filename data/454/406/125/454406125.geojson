@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.346949,54.392527,-1.346949,54.392527",
-    "geom:latitude": 54.392527,
-    "geom:longitude": -1.346949,
+    "geom:bbox": "-1.346810,54.392572,-1.346810,54.392572",
+    "geom:latitude": 54.392572,
+    "geom:longitude": -1.34681,
     "gp:parent_id": "18985",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698619, 
       85633159, 
       1360698753, 
       404435929, 
-      1259818953
+      1259818953, 
+      404227469, 
+      1360698619
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701546,
-    "wof:geomhash": "776c7f652146f395a37449f8ade3d792",
+    "wof:geomhash": "b5dc93cdc9faee0536d4b92d27da8c9c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454406125,
-    "wof:lastmodified": 1595715072,
+    "wof:lastmodified": 1609887976,
     "wof:name": "DL6 2DF",
     "wof:parent_id": 404435929,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.346949, 
-    54.392527, 
-    -1.346949, 
-    54.392527
+    -1.34681, 
+    54.392572, 
+    -1.34681, 
+    54.392572
   ],
-  "geometry": {"coordinates":[-1.346949,54.392527],"type":"Point"}
+  "geometry": {"coordinates":[-1.34681,54.392572],"type":"Point"}
 }

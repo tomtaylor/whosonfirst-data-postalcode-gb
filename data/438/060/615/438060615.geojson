@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2001-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.459331,51.324624,-2.459331,51.324624",
-    "geom:latitude": 51.324624,
-    "geom:longitude": -2.459331,
+    "geom:bbox": "-2.459361,51.324668,-2.459361,51.324668",
+    "geom:latitude": 51.324668,
+    "geom:longitude": -2.459361,
     "gp:parent_id": "14997",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698589, 
       85633159, 
       1360698775, 
       404436057, 
       1125987089, 
-      404227469
+      404227469, 
+      1360698589
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701174,
-    "wof:geomhash": "941182699f6fbce7f2ca698f445bde11",
+    "wof:geomhash": "bcb1f9758e849f970ecf3fd7c69fcf45",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438060615,
-    "wof:lastmodified": 1583786307,
+    "wof:lastmodified": 1609870468,
     "wof:name": "BA2 0NX",
     "wof:parent_id": 404436057,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.459331, 
-    51.324624, 
-    -2.459331, 
-    51.324624
+    -2.459361, 
+    51.324668, 
+    -2.459361, 
+    51.324668
   ],
-  "geometry": {"coordinates":[-2.459331,51.324624],"type":"Point"}
+  "geometry": {"coordinates":[-2.459361,51.324668],"type":"Point"}
 }

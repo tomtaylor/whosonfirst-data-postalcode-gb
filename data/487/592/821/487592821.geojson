@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1994-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.413912,50.907665,-1.413912,50.907665",
-    "geom:latitude": 50.907665,
-    "geom:longitude": -1.413912,
+    "geom:bbox": "-1.413585,50.907636,-1.413585,50.907636",
+    "geom:latitude": 50.907636,
+    "geom:longitude": -1.413585,
     "gp:parent_id": "35356",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698907, 
       101750311, 
       404227469, 
       1360698557, 
-      85633159, 
-      1360698907
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701076,
-    "wof:geomhash": "23a0d590fe172d22fd9e052cae552ce9",
+    "wof:geomhash": "e2f2eea32a0f62822ca842a994694cc3",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 487592821,
-    "wof:lastmodified": 1583786174,
+    "wof:lastmodified": 1609868718,
     "wof:name": "SO15 1GP",
     "wof:parent_id": 101750311,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.413912, 
-    50.907665, 
-    -1.413912, 
-    50.907665
+    -1.413585, 
+    50.907636, 
+    -1.413585, 
+    50.907636
   ],
-  "geometry": {"coordinates":[-1.413912,50.907665],"type":"Point"}
+  "geometry": {"coordinates":[-1.413585,50.907636],"type":"Point"}
 }

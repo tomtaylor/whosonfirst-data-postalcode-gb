@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2002-06-01",
     "geom:area": 0,
-    "geom:bbox": "0.603613,51.854730,0.603613,51.854730",
-    "geom:latitude": 51.85473,
-    "geom:longitude": 0.603613,
+    "geom:bbox": "0.604182,51.854771,0.604182,51.854771",
+    "geom:latitude": 51.854771,
+    "geom:longitude": 0.604182,
     "gp:parent_id": "17282",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698551, 
       85633159, 
       1360698979, 
       404452747, 
-      1125800507
+      1125800507, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701326,
-    "wof:geomhash": "c693d434580f1e2afb3f509518e66960",
+    "wof:geomhash": "0dd1ae42faf607fbcb9a28cad08d9e44",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454164207,
-    "wof:lastmodified": 1583786465,
+    "wof:lastmodified": 1609875261,
     "wof:name": "CM77 8PN",
     "wof:parent_id": 404452747,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.603613, 
-    51.85473, 
-    0.603613, 
-    51.85473
+    0.604182, 
+    51.854771, 
+    0.604182, 
+    51.854771
   ],
-  "geometry": {"coordinates":[0.603613,51.85473],"type":"Point"}
+  "geometry": {"coordinates":[0.604182,51.854771],"type":"Point"}
 }

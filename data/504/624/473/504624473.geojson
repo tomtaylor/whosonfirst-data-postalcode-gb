@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.412169,55.937949,-2.412169,55.937949",
-    "geom:latitude": 55.937949,
-    "geom:longitude": -2.412169,
+    "geom:bbox": "-2.416368,55.937000,-2.416368,55.937000",
+    "geom:latitude": 55.937,
+    "geom:longitude": -2.416368,
     "gp:parent_id": "12696193",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      404227471, 
+      1360698675, 
       85633159, 
       1360699017, 
-      404447595, 
-      404227471, 
-      1360698675
+      404447595
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701493,
-    "wof:geomhash": "3157e9ceec960ffa7e0762c1ecc1e899",
+    "wof:geomhash": "54addbc0fad8fa3296a8395a1a633873",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504624473,
-    "wof:lastmodified": 1583786647,
+    "wof:lastmodified": 1609882948,
     "wof:name": "TD13 5XL",
     "wof:parent_id": 404447595,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.412169, 
-    55.937949, 
-    -2.412169, 
-    55.937949
+    -2.416368, 
+    55.937, 
+    -2.416368, 
+    55.937
   ],
-  "geometry": {"coordinates":[-2.412169,55.937949],"type":"Point"}
+  "geometry": {"coordinates":[-2.416368,55.937],"type":"Point"}
 }

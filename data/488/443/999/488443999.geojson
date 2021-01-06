@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.232377,55.893415,-4.232377,55.893415",
-    "geom:latitude": 55.893415,
-    "geom:longitude": -4.232377,
+    "geom:bbox": "-4.232283,55.893420,-4.232283,55.893420",
+    "geom:latitude": 55.89342,
+    "geom:longitude": -4.232283,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404430153, 
       1175612707, 
       404227471, 
       85790559, 
       1360698707, 
       85633159, 
-      1360698797
+      1360698797, 
+      404430153
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701462,
-    "wof:geomhash": "699849d0e90c52bcd1f37597e6f3dc99",
+    "wof:geomhash": "4fa78e90fe37d40efab988c425263737",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 488443999,
-    "wof:lastmodified": 1583786670,
+    "wof:lastmodified": 1609891950,
     "wof:name": "G21 1UU",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.232377, 
-    55.893415, 
-    -4.232377, 
-    55.893415
+    -4.232283, 
+    55.89342, 
+    -4.232283, 
+    55.89342
   ],
-  "geometry": {"coordinates":[-4.232377,55.893415],"type":"Point"}
+  "geometry": {"coordinates":[-4.232283,55.89342],"type":"Point"}
 }

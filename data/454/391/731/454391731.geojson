@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.821552,54.653464,-1.821552,54.653464",
-    "geom:latitude": 54.653464,
-    "geom:longitude": -1.821552,
+    "geom:bbox": "-1.821397,54.653535,-1.821397,54.653535",
+    "geom:latitude": 54.653535,
+    "geom:longitude": -1.821397,
     "gp:parent_id": "22321",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      404438111, 
-      1360314199, 
-      404227469, 
       1360698621, 
       85633159, 
-      1360699055
+      1360699055, 
+      404438111, 
+      1360314199, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701539,
-    "wof:geomhash": "bbd6d8429455e25ef1651bc921c03481",
+    "wof:geomhash": "06d613e8fb07300d507ee01a50a919d1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454391731,
-    "wof:lastmodified": 1583786667,
+    "wof:lastmodified": 1609887059,
     "wof:name": "DL13 3RA",
     "wof:parent_id": 404438111,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.821552, 
-    54.653464, 
-    -1.821552, 
-    54.653464
+    -1.821397, 
+    54.653535, 
+    -1.821397, 
+    54.653535
   ],
-  "geometry": {"coordinates":[-1.821552,54.653464],"type":"Point"}
+  "geometry": {"coordinates":[-1.821397,54.653535],"type":"Point"}
 }

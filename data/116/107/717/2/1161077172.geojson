@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-07-01",
     "geom:area": 0,
-    "geom:bbox": "-0.662662,52.304105,-0.662662,52.304105",
-    "geom:latitude": 52.304105,
-    "geom:longitude": -0.662662,
+    "geom:bbox": "-0.662661,52.304150,-0.662661,52.304150",
+    "geom:latitude": 52.30415,
+    "geom:longitude": -0.662661,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698577, 
       85633159, 
       1360698755, 
       101853583, 
-      404227469
+      404227469, 
+      1360698577
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583802890,
-    "wof:geomhash": "269e98c9591a5fac54ec28cfe5455dd5",
+    "wof:geomhash": "7e5896d7fcc31c8c83dbd1c9b0b1b73d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1161077172,
-    "wof:lastmodified": 1595712219,
+    "wof:lastmodified": 1609876027,
     "wof:name": "NN8 1FG",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.662662, 
-    52.304105, 
-    -0.662662, 
-    52.304105
+    -0.662661, 
+    52.30415, 
+    -0.662661, 
+    52.30415
   ],
-  "geometry": {"coordinates":[-0.662662,52.304105],"type":"Point"}
+  "geometry": {"coordinates":[-0.662661,52.30415],"type":"Point"}
 }

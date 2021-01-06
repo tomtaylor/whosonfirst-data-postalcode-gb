@@ -2,7 +2,7 @@
   "id": 890258501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-08-01",
     "edtf:inception": "2016-03-01",
     "geom:area": 0,
     "geom:bbox": "-2.161562,53.407561,-2.161562,53.407561",
@@ -10,7 +10,7 @@
     "geom:longitude": -2.161562,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E08000007",
@@ -18,11 +18,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698879, 
       101750527, 
       404227469, 
-      1360698555
+      1360698555, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 890258501,
-    "wof:lastmodified": 1583786215,
+    "wof:lastmodified": 1609868998,
     "wof:name": "SK3 3BH",
     "wof:parent_id": 101750527,
     "wof:placetype": "postalcode",

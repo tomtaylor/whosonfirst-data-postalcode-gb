@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.336509,55.922285,-4.336509,55.922285",
-    "geom:latitude": 55.922285,
-    "geom:longitude": -4.336509,
+    "geom:bbox": "-4.336505,55.922231,-4.336505,55.922231",
+    "geom:latitude": 55.922231,
+    "geom:longitude": -4.336505,
     "gp:parent_id": "12696192",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698701, 
-      85633159, 
       1360698835, 
       404451795, 
-      404227471
+      404227471, 
+      1360698701, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701175,
-    "wof:geomhash": "51658cab5562130384a5cda787bcc7df",
+    "wof:geomhash": "d6f238d487fb76cb24cd3844e490a4ae",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504407995,
-    "wof:lastmodified": 1583786280,
+    "wof:lastmodified": 1609869837,
     "wof:name": "G61 3RH",
     "wof:parent_id": 101913915,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.336509, 
-    55.922285, 
-    -4.336509, 
-    55.922285
+    -4.336505, 
+    55.922231, 
+    -4.336505, 
+    55.922231
   ],
-  "geometry": {"coordinates":[-4.336509,55.922285],"type":"Point"}
+  "geometry": {"coordinates":[-4.336505,55.922231],"type":"Point"}
 }

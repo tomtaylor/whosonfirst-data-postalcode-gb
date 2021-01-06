@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.915194,56.091550,-3.915194,56.091550",
-    "geom:latitude": 56.09155,
-    "geom:longitude": -3.915194,
+    "geom:bbox": "-3.914547,56.091461,-3.914547,56.091461",
+    "geom:latitude": 56.091461,
+    "geom:longitude": -3.914547,
     "gp:parent_id": "11790",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227471, 
-      1360698655, 
       85633159, 
       1360699003, 
-      404433721
+      404433721, 
+      404227471, 
+      1360698655
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701473,
-    "wof:geomhash": "a86306e64559b9c687b965a22259c25d",
+    "wof:geomhash": "ac2f553c9761bb96bc73fc987a9374de",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488459357,
-    "wof:lastmodified": 1595733937,
+    "wof:lastmodified": 1609892654,
     "wof:name": "FK7 8LP",
     "wof:parent_id": 404433721,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.915194, 
-    56.09155, 
-    -3.915194, 
-    56.09155
+    -3.914547, 
+    56.091461, 
+    -3.914547, 
+    56.091461
   ],
-  "geometry": {"coordinates":[-3.915194,56.09155],"type":"Point"}
+  "geometry": {"coordinates":[-3.914547,56.091461],"type":"Point"}
 }

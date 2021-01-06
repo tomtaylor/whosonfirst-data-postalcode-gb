@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1999-12-01",
     "geom:area": 0,
-    "geom:bbox": "-0.410076,51.185028,-0.410076,51.185028",
-    "geom:latitude": 51.185028,
-    "geom:longitude": -0.410076,
+    "geom:bbox": "-0.410124,51.185298,-0.410124,51.185298",
+    "geom:latitude": 51.185298,
+    "geom:longitude": -0.410124,
     "gp:parent_id": "23704",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698599, 
+      85633159, 
       1360698887, 
       404454815, 
       1125962219, 
-      404227469, 
-      1360698599, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701680,
-    "wof:geomhash": "3deac0c984296b793e33f74f4f428699",
+    "wof:geomhash": "55813b83ff10b767c8737b86aada6ac2",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471598977,
-    "wof:lastmodified": 1583786831,
+    "wof:lastmodified": 1609898068,
     "wof:name": "RH5 6PB",
     "wof:parent_id": 404454815,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.410076, 
-    51.185028, 
-    -0.410076, 
-    51.185028
+    -0.410124, 
+    51.185298, 
+    -0.410124, 
+    51.185298
   ],
-  "geometry": {"coordinates":[-0.410076,51.185028],"type":"Point"}
+  "geometry": {"coordinates":[-0.410124,51.185298],"type":"Point"}
 }

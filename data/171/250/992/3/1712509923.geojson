@@ -2,15 +2,15 @@
   "id": 1712509923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2017-10-01",
-    "edtf:inception": "2017-08-01",
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-08-01",
     "geom:area": 0,
     "geom:bbox": "-0.177522,51.472196,-0.177522,51.472196",
     "geom:latitude": 51.472196,
     "geom:longitude": -0.177522,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E09000032",
@@ -18,12 +18,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      1158857251, 
+      85633159, 
       101750367, 
       404227469, 
       85785537, 
-      1360698645, 
-      1158857251, 
-      85633159
+      1360698645
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712509923,
-    "wof:lastmodified": 1583791239,
+    "wof:lastmodified": 1609869911,
     "wof:name": "SW11 3GP",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

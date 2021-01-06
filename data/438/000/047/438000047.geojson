@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.823178,52.225858,-1.823178,52.225858",
-    "geom:latitude": 52.225858,
-    "geom:longitude": -1.823178,
+    "geom:bbox": "-1.823491,52.226160,-1.823491,52.226160",
+    "geom:latitude": 52.22616,
+    "geom:longitude": -1.823491,
     "gp:parent_id": "21548",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698891, 
-      404429285, 
       1360759609, 
       404227469, 
-      1360698603
+      1360698603, 
+      85633159, 
+      1360698891, 
+      404429285
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701182,
-    "wof:geomhash": "fd8a34e99783b3b176d3969d5005be59",
+    "wof:geomhash": "9f72f20e815d260cccd49fb45771f07b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438000047,
-    "wof:lastmodified": 1583786366,
+    "wof:lastmodified": 1609868595,
     "wof:name": "B49 6HP",
     "wof:parent_id": 404429285,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.823178, 
-    52.225858, 
-    -1.823178, 
-    52.225858
+    -1.823491, 
+    52.22616, 
+    -1.823491, 
+    52.22616
   ],
-  "geometry": {"coordinates":[-1.823178,52.225858],"type":"Point"}
+  "geometry": {"coordinates":[-1.823491,52.22616],"type":"Point"}
 }

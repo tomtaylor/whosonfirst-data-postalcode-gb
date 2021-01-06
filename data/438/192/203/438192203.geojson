@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.532346,53.603763,-2.532346,53.603763",
-    "geom:latitude": 53.603763,
-    "geom:longitude": -2.532346,
+    "geom:bbox": "-2.532270,53.603770,-2.532270,53.603770",
+    "geom:latitude": 53.60377,
+    "geom:longitude": -2.53227,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699099, 
-      404435537, 
-      101872199, 
       404227469, 
       1360698555, 
-      85633159
+      85633159, 
+      1360699099, 
+      404435537, 
+      101872199
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701387,
-    "wof:geomhash": "283402685a8d328c628ec1ef5b6c9ef7",
+    "wof:geomhash": "3ffbfea0b3d41ac135af4013281db4aa",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 438192203,
-    "wof:lastmodified": 1583786523,
+    "wof:lastmodified": 1609879116,
     "wof:name": "BL6 6AL",
     "wof:parent_id": 404435537,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.532346, 
-    53.603763, 
-    -2.532346, 
-    53.603763
+    -2.53227, 
+    53.60377, 
+    -2.53227, 
+    53.60377
   ],
-  "geometry": {"coordinates":[-2.532346,53.603763],"type":"Point"}
+  "geometry": {"coordinates":[-2.53227,53.60377],"type":"Point"}
 }

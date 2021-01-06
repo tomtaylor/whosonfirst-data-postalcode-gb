@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1983-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.364087,54.767723,-1.364087,54.767723",
-    "geom:latitude": 54.767723,
-    "geom:longitude": -1.364087,
+    "geom:bbox": "-1.363110,54.767466,-1.363110,54.767466",
+    "geom:latitude": 54.767466,
+    "geom:longitude": -1.36311,
     "gp:parent_id": "18880",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698621, 
       85633159, 
       1360699055, 
       404444387, 
       1125836079, 
-      404227469
+      404227469, 
+      1360698621
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701109,
-    "wof:geomhash": "b9886ea7d5c938db92cf3f68b1b4cc2b",
+    "wof:geomhash": "ca1569a5939df617c9b3b5fc8ec3b6bd",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487661249,
-    "wof:lastmodified": 1583786203,
+    "wof:lastmodified": 1609871280,
     "wof:name": "SR8 2RD",
     "wof:parent_id": 101873365,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.364087, 
-    54.767723, 
-    -1.364087, 
-    54.767723
+    -1.36311, 
+    54.767466, 
+    -1.36311, 
+    54.767466
   ],
-  "geometry": {"coordinates":[-1.364087,54.767723],"type":"Point"}
+  "geometry": {"coordinates":[-1.36311,54.767466],"type":"Point"}
 }

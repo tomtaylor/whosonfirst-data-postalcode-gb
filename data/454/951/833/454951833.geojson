@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.871080,53.389326,-2.871080,53.389326",
-    "geom:latitude": 53.389326,
-    "geom:longitude": -2.87108,
+    "geom:bbox": "-2.871003,53.389245,-2.871003,53.389245",
+    "geom:latitude": 53.389245,
+    "geom:longitude": -2.871003,
     "gp:parent_id": "26734",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698971, 
       101750547, 
       404227469, 
       85787569, 
-      1360698573
+      1360698573, 
+      85633159, 
+      1360698971
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701762,
-    "wof:geomhash": "5fbf922bc49b011684fb1c52bb0a2f1c",
+    "wof:geomhash": "183da4a6ea0d9fe98b03a47283c4b9b5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454951833,
-    "wof:lastmodified": 1595717816,
+    "wof:lastmodified": 1609905285,
     "wof:name": "L25 4RZ",
     "wof:parent_id": 101750547,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.87108, 
-    53.389326, 
-    -2.87108, 
-    53.389326
+    -2.871003, 
+    53.389245, 
+    -2.871003, 
+    53.389245
   ],
-  "geometry": {"coordinates":[-2.87108,53.389326],"type":"Point"}
+  "geometry": {"coordinates":[-2.871003,53.389245],"type":"Point"}
 }

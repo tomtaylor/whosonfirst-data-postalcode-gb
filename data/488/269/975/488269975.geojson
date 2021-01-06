@@ -2,7 +2,7 @@
   "id": 488269975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-09-01",
     "edtf:inception": "2007-08-01",
     "geom:area": 0,
     "geom:bbox": "-1.756191,53.781901,-1.756191,53.781901",
@@ -11,7 +11,7 @@
     "gp:parent_id": "13527",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E08000032",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698609, 
       85633159, 
       1360698963, 
       404445549, 
-      1360759451, 
-      404227469, 
-      1360698609
+      1360759451
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488269975,
-    "wof:lastmodified": 1583786479,
+    "wof:lastmodified": 1609883672,
     "wof:name": "BD4 8WP",
     "wof:parent_id": 101750581,
     "wof:placetype": "postalcode",

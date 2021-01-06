@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.908259,50.546749,-4.908259,50.546749",
-    "geom:latitude": 50.546749,
-    "geom:longitude": -4.908259,
+    "geom:bbox": "-4.907930,50.546910,-4.907930,50.546910",
+    "geom:latitude": 50.54691,
+    "geom:longitude": -4.90793,
     "gp:parent_id": "33432",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404445471, 
-      1360759403, 
       404227469, 
       1360698623, 
       85633159, 
-      1360699085
+      1360699085, 
+      404445471, 
+      1360759403
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701591,
-    "wof:geomhash": "a182648e1dc81df5eba6e94fcd9befd2",
+    "wof:geomhash": "15958d4a8a3b7844ed9afde6ff299e8e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471423091,
-    "wof:lastmodified": 1595722360,
+    "wof:lastmodified": 1609891636,
     "wof:name": "PL27 6LH",
     "wof:parent_id": 404445471,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.908259, 
-    50.546749, 
-    -4.908259, 
-    50.546749
+    -4.90793, 
+    50.54691, 
+    -4.90793, 
+    50.54691
   ],
-  "geometry": {"coordinates":[-4.908259,50.546749],"type":"Point"}
+  "geometry": {"coordinates":[-4.90793,50.54691],"type":"Point"}
 }

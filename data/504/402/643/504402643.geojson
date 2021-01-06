@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.234233,55.798519,-4.234233,55.798519",
-    "geom:latitude": 55.798519,
-    "geom:longitude": -4.234233,
+    "geom:bbox": "-4.234469,55.798430,-4.234469,55.798430",
+    "geom:latitude": 55.79843,
+    "geom:longitude": -4.234469,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1175612707, 
       404227471, 
       85792531, 
       1360698707, 
       85633159, 
       1360698797, 
-      404430153
+      404430153, 
+      1175612707
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701160,
-    "wof:geomhash": "3017bf4e6765ac0d1424707b8f68d219",
+    "wof:geomhash": "cb76aa20e9ae0b9833cafcf7a14e89f8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 504402643,
-    "wof:lastmodified": 1583786264,
+    "wof:lastmodified": 1609869628,
     "wof:name": "G45 0QB",
     "wof:parent_id": 404430153,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.234233, 
-    55.798519, 
-    -4.234233, 
-    55.798519
+    -4.234469, 
+    55.79843, 
+    -4.234469, 
+    55.79843
   ],
-  "geometry": {"coordinates":[-4.234233,55.798519],"type":"Point"}
+  "geometry": {"coordinates":[-4.234469,55.79843],"type":"Point"}
 }

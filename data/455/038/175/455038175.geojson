@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.086137,52.628117,-1.086137,52.628117",
-    "geom:latitude": 52.628117,
-    "geom:longitude": -1.086137,
+    "geom:bbox": "-1.085306,52.628290,-1.085306,52.628290",
+    "geom:latitude": 52.62829,
+    "geom:longitude": -1.085306,
     "gp:parent_id": "26062",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      101750485, 
       404227469, 
       1360698569, 
       85633159, 
-      1360698995
+      1360698995, 
+      101750485
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701111,
-    "wof:geomhash": "5fb1f20e4c935d159a162780a60eaf5d",
+    "wof:geomhash": "4f5f0d0f4acd51222c0843f112e274f3",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 455038175,
-    "wof:lastmodified": 1583786228,
+    "wof:lastmodified": 1609869558,
     "wof:name": "LE5 4WP",
     "wof:parent_id": 101750485,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.086137, 
-    52.628117, 
-    -1.086137, 
-    52.628117
+    -1.085306, 
+    52.62829, 
+    -1.085306, 
+    52.62829
   ],
-  "geometry": {"coordinates":[-1.086137,52.628117],"type":"Point"}
+  "geometry": {"coordinates":[-1.085306,52.62829],"type":"Point"}
 }

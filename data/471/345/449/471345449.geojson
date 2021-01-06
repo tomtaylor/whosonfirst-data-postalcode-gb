@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.994817,51.746451,-0.994817,51.746451",
-    "geom:latitude": 51.746451,
-    "geom:longitude": -0.994817,
+    "geom:bbox": "-0.994078,51.746481,-0.994078,51.746481",
+    "geom:latitude": 51.746481,
+    "geom:longitude": -0.994078,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698585, 
       85633159, 
       1360698839, 
       404447447, 
-      101852945, 
-      404227469, 
-      1360698585
+      101852945
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701519,
-    "wof:geomhash": "3e8172c7f96f5210a0235a4cd587b9fb",
+    "wof:geomhash": "afc58f6fb4359a443c8848db5ae05ff2",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471345449,
-    "wof:lastmodified": 1583786672,
+    "wof:lastmodified": 1609887647,
     "wof:name": "OX9 2AJ",
     "wof:parent_id": 404447447,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.994817, 
-    51.746451, 
-    -0.994817, 
-    51.746451
+    -0.994078, 
+    51.746481, 
+    -0.994078, 
+    51.746481
   ],
-  "geometry": {"coordinates":[-0.994817,51.746451],"type":"Point"}
+  "geometry": {"coordinates":[-0.994078,51.746481],"type":"Point"}
 }

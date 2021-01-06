@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.182336,50.839165,-0.182336,50.839165",
-    "geom:latitude": 50.839165,
-    "geom:longitude": -0.182336,
+    "geom:bbox": "-0.182450,50.839152,-0.182450,50.839152",
+    "geom:latitude": 50.839152,
+    "geom:longitude": -0.18245,
     "gp:parent_id": "24024",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699019, 
-      101750303, 
       404227469, 
-      1360698549, 
-      85633159
+      1360698607, 
+      85633159, 
+      1360699019, 
+      101750303
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,18 +31,18 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701421,
-    "wof:geomhash": "21608c3eb40e396c3816fb68fcf5700d",
+    "wof:geomhash": "753fd5ba98532b398432318d3bf029ae",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360699019,
         "locality_id": 101750303,
         "macroregion_id": 404227469,
-        "region_id": 1360698549
+        "region_id": 1360698607
       }
     ],
     "wof:id": 438237131,
-    "wof:lastmodified": 1583786556,
+    "wof:lastmodified": 1609881238,
     "wof:name": "BN3 7EA",
     "wof:parent_id": 101750303,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.182336, 
-    50.839165, 
-    -0.182336, 
-    50.839165
+    -0.18245, 
+    50.839152, 
+    -0.18245, 
+    50.839152
   ],
-  "geometry": {"coordinates":[-0.182336,50.839165],"type":"Point"}
+  "geometry": {"coordinates":[-0.18245,50.839152],"type":"Point"}
 }

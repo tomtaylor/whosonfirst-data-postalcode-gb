@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.463491,54.444167,-2.463491,54.444167",
-    "geom:latitude": 54.444167,
-    "geom:longitude": -2.463491,
+    "geom:bbox": "-2.463119,54.443997,-2.463119,54.443997",
+    "geom:latitude": 54.443997,
+    "geom:longitude": -2.463119,
     "gp:parent_id": "30021",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1125839815, 
-      404227469, 
       1360698721, 
       85633159, 
       1360698877, 
-      404444103
+      404444103, 
+      1125839815, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701114,
-    "wof:geomhash": "d6f17c61c63d6ca59bc28a8cca6d39af",
+    "wof:geomhash": "f071d48602c3227f9e98d8765846da9c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454061147,
-    "wof:lastmodified": 1583786252,
+    "wof:lastmodified": 1609869215,
     "wof:name": "CA17 4LZ",
     "wof:parent_id": 404444103,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.463491, 
-    54.444167, 
-    -2.463491, 
-    54.444167
+    -2.463119, 
+    54.443997, 
+    -2.463119, 
+    54.443997
   ],
-  "geometry": {"coordinates":[-2.463491,54.444167],"type":"Point"}
+  "geometry": {"coordinates":[-2.463119,54.443997],"type":"Point"}
 }

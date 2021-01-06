@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.912108,53.393927,-2.912108,53.393927",
-    "geom:latitude": 53.393927,
-    "geom:longitude": -2.912108,
+    "geom:bbox": "-2.912257,53.393890,-2.912257,53.393890",
+    "geom:latitude": 53.39389,
+    "geom:longitude": -2.912257,
     "gp:parent_id": "26734",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      101750547, 
-      404227469, 
       85791397, 
       1360698573, 
       85633159, 
-      1360698971
+      1360698971, 
+      101750547, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701760,
-    "wof:geomhash": "b6031d91e897994327bccda0e0109174",
+    "wof:geomhash": "3778867bf7b672096e2ae37ed2114dcb",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454939829,
-    "wof:lastmodified": 1595717796,
+    "wof:lastmodified": 1609905236,
     "wof:name": "L15 6TP",
     "wof:parent_id": 101750547,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.912108, 
-    53.393927, 
-    -2.912108, 
-    53.393927
+    -2.912257, 
+    53.39389, 
+    -2.912257, 
+    53.39389
   ],
-  "geometry": {"coordinates":[-2.912108,53.393927],"type":"Point"}
+  "geometry": {"coordinates":[-2.912257,53.39389],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.446429,51.374227,1.446429,51.374227",
-    "geom:latitude": 51.374227,
-    "geom:longitude": 1.446429,
+    "geom:bbox": "1.446411,51.373994,1.446411,51.373994",
+    "geom:latitude": 51.373994,
+    "geom:longitude": 1.446411,
     "gp:parent_id": "14029",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698811, 
-      404447271, 
-      1360755035, 
       404227469, 
       1360698565, 
-      85633159
+      85633159, 
+      1360698811, 
+      404447271, 
+      1360755035
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701384,
-    "wof:geomhash": "15b6b34677868fffc3c1f58d7168e75a",
+    "wof:geomhash": "c21dfefbc9aa3dfa8cbcceced1738c64",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454217311,
-    "wof:lastmodified": 1595713336,
+    "wof:lastmodified": 1609878682,
     "wof:name": "CT10 3QT",
     "wof:parent_id": 101750333,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.446429, 
-    51.374227, 
-    1.446429, 
-    51.374227
+    1.446411, 
+    51.373994, 
+    1.446411, 
+    51.373994
   ],
-  "geometry": {"coordinates":[1.446429,51.374227],"type":"Point"}
+  "geometry": {"coordinates":[1.446411,51.373994],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2000-06-01",
     "geom:area": 0,
-    "geom:bbox": "-0.670471,51.777265,-0.670471,51.777265",
-    "geom:latitude": 51.777265,
-    "geom:longitude": -0.670471,
+    "geom:bbox": "-0.670416,51.777166,-0.670416,51.777166",
+    "geom:latitude": 51.777166,
+    "geom:longitude": -0.670416,
     "gp:parent_id": "22621",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698763, 
-      404438867, 
       101853537, 
       404227469, 
-      1360698559
+      1360698559, 
+      85633159, 
+      1360698763, 
+      404438867
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701715,
-    "wof:geomhash": "76d39af632d90c0345ce3cf2613e1c5a",
+    "wof:geomhash": "f82fd60ace25e61820457b7e2bd6702f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454785181,
-    "wof:lastmodified": 1583786848,
+    "wof:lastmodified": 1609901956,
     "wof:name": "HP23 6LR",
     "wof:parent_id": 404438867,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.670471, 
-    51.777265, 
-    -0.670471, 
-    51.777265
+    -0.670416, 
+    51.777166, 
+    -0.670416, 
+    51.777166
   ],
-  "geometry": {"coordinates":[-0.670471,51.777265],"type":"Point"}
+  "geometry": {"coordinates":[-0.670416,51.777166],"type":"Point"}
 }

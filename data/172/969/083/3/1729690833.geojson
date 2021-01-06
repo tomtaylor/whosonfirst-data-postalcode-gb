@@ -1,0 +1,59 @@
+{
+  "id": 1729690833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-10-01",
+    "geom:area": 0,
+    "geom:bbox": "-1.539184,55.211865,-1.539184,55.211865",
+    "geom:latitude": 55.211865,
+    "geom:longitude": -1.539184,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E99999999",
+    "os:district_code": "E06000057",
+    "os:positional_quality_indicator": "5",
+    "os:region_code": "E12000001",
+    "src:geom": "os",
+    "wof:belongsto": [
+      404227469, 
+      1360698727, 
+      85633159, 
+      1360698769, 
+      404430577, 
+      1125981755
+    ],
+    "wof:breaches": [],
+    "wof:country": "GB",
+    "wof:created": 1609906464,
+    "wof:geomhash": "1cec3b1268597a8ce4cdafc6fe5f53d9",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698769,
+        "localadmin_id": 404430577,
+        "locality_id": 1125981755,
+        "macroregion_id": 404227469,
+        "region_id": 1360698727
+      }
+    ],
+    "wof:id": 1729690833,
+    "wof:lastmodified": 1609906464,
+    "wof:name": "NE61 5FE",
+    "wof:parent_id": -1,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -1.539184, 
+    55.211865, 
+    -1.539184, 
+    55.211865
+  ],
+  "geometry": {"coordinates":[-1.539184,55.211865],"type":"Point"}
+}

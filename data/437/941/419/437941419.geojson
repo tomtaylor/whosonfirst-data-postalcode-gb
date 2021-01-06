@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.218957,51.765311,-0.218957,51.765311",
-    "geom:latitude": 51.765311,
-    "geom:longitude": -0.218957,
+    "geom:bbox": "-0.218472,51.765124,-0.218472,51.765124",
+    "geom:latitude": 51.765124,
+    "geom:longitude": -0.218472,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698763, 
-      404446407, 
-      101854781, 
       404227469, 
       1360698559, 
-      85633159
+      85633159, 
+      1360698763, 
+      404446407, 
+      101854781
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701643,
-    "wof:geomhash": "84c1b70022a09fe12e3bad36f9a9dded",
+    "wof:geomhash": "f1cacef0cab27f140273841689ce4690",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 437941419,
-    "wof:lastmodified": 1595715733,
+    "wof:lastmodified": 1609896478,
     "wof:name": "AL10 8AX",
     "wof:parent_id": 404446111,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.218957, 
-    51.765311, 
-    -0.218957, 
-    51.765311
+    -0.218472, 
+    51.765124, 
+    -0.218472, 
+    51.765124
   ],
-  "geometry": {"coordinates":[-0.218957,51.765311],"type":"Point"}
+  "geometry": {"coordinates":[-0.218472,51.765124],"type":"Point"}
 }

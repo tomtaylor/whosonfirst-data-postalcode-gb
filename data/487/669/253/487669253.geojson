@@ -2,15 +2,15 @@
   "id": 487669253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-09-01",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.460405,51.570649,0.460405,51.570649",
-    "geom:latitude": 51.570649,
-    "geom:longitude": 0.460405,
+    "geom:bbox": "0.460246,51.570644,0.460246,51.570644",
+    "geom:latitude": 51.570644,
+    "geom:longitude": 0.460246,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000012",
     "os:district_code": "E07000066",
@@ -18,12 +18,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698551, 
       85633159, 
       1360698979, 
       1360817079, 
-      101750407
+      101750407, 
+      404227469, 
+      1360698551
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701113,
-    "wof:geomhash": "36e1d5647ed8c57ebc3cc432057920fa",
+    "wof:geomhash": "93a7cd1d79ea85113a3859a813f28559",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 487669253,
-    "wof:lastmodified": 1583786208,
+    "wof:lastmodified": 1609871746,
     "wof:name": "SS14 1HG",
     "wof:parent_id": 101750407,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.460405, 
-    51.570649, 
-    0.460405, 
-    51.570649
+    0.460246, 
+    51.570644, 
+    0.460246, 
+    51.570644
   ],
-  "geometry": {"coordinates":[0.460405,51.570649],"type":"Point"}
+  "geometry": {"coordinates":[0.460246,51.570644],"type":"Point"}
 }

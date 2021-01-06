@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.880502,50.909765,-1.880502,50.909765",
-    "geom:latitude": 50.909765,
-    "geom:longitude": -1.880502,
+    "geom:bbox": "-1.879499,50.909793,-1.879499,50.909793",
+    "geom:latitude": 50.909793,
+    "geom:longitude": -1.879499,
     "gp:parent_id": "17189",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      404432773, 
       1126030673, 
       404227469, 
       1360698545, 
       85633159, 
-      1360698745, 
-      404432773
+      1360698745
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701352,
-    "wof:geomhash": "0d6381a49880099ff73a4809b7ecefb0",
+    "wof:geomhash": "ff0dd946104064cdc8ec48bdfe0fb18b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438160937,
-    "wof:lastmodified": 1583786488,
+    "wof:lastmodified": 1609877459,
     "wof:name": "BH21 5QT",
     "wof:parent_id": 404432773,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.880502, 
-    50.909765, 
-    -1.880502, 
-    50.909765
+    -1.879499, 
+    50.909793, 
+    -1.879499, 
+    50.909793
   ],
-  "geometry": {"coordinates":[-1.880502,50.909765],"type":"Point"}
+  "geometry": {"coordinates":[-1.879499,50.909793],"type":"Point"}
 }

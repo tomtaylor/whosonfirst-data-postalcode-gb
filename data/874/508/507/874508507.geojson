@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2012-07-01",
     "geom:area": 0,
-    "geom:bbox": "-0.213987,52.546342,-0.213987,52.546342",
-    "geom:latitude": 52.546342,
-    "geom:longitude": -0.213987,
+    "geom:bbox": "-0.213960,52.546279,-0.213960,52.546279",
+    "geom:latitude": 52.546279,
+    "geom:longitude": -0.21396,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698535, 
-      85633159, 
       1360698773, 
       101750461, 
-      404227469
+      404227469, 
+      1360698535, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468894737,
-    "wof:geomhash": "eaa25565e7ed28cd65245379afe4a836",
+    "wof:geomhash": "abc391e5d6c6cf1fa3228808d5e62237",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 874508507,
-    "wof:lastmodified": 1595728864,
+    "wof:lastmodified": 1609872782,
     "wof:name": "PE2 8SZ",
     "wof:parent_id": 404445905,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.213987, 
-    52.546342, 
-    -0.213987, 
-    52.546342
+    -0.21396, 
+    52.546279, 
+    -0.21396, 
+    52.546279
   ],
-  "geometry": {"coordinates":[-0.213987,52.546342],"type":"Point"}
+  "geometry": {"coordinates":[-0.21396,52.546279],"type":"Point"}
 }

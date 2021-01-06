@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1994-05-01",
     "geom:area": 0,
-    "geom:bbox": "-2.255632,53.386597,-2.255632,53.386597",
-    "geom:latitude": 53.386597,
+    "geom:bbox": "-2.255632,53.386649,-2.255632,53.386649",
+    "geom:latitude": 53.386649,
     "geom:longitude": -2.255632,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698555, 
       85633159, 
       1360698893, 
       101750525, 
       404227469, 
-      85785613
+      85785613, 
+      1360698555
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701195,
-    "wof:geomhash": "04af6ad80cc0cd0da199499889459116",
+    "wof:geomhash": "6515144fc0f081fa138f66ab61fda920",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 470878561,
-    "wof:lastmodified": 1583786326,
+    "wof:lastmodified": 1609870970,
     "wof:name": "M22 9UH",
     "wof:parent_id": 101913969,
     "wof:placetype": "postalcode",
@@ -54,9 +54,9 @@
   },
   "bbox": [
     -2.255632, 
-    53.386597, 
+    53.386649, 
     -2.255632, 
-    53.386597
+    53.386649
   ],
-  "geometry": {"coordinates":[-2.255632,53.386597],"type":"Point"}
+  "geometry": {"coordinates":[-2.255632,53.386649],"type":"Point"}
 }

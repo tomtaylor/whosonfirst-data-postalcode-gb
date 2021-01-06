@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.136798,51.838286,-2.136798,51.838286",
-    "geom:latitude": 51.838286,
-    "geom:longitude": -2.136798,
+    "geom:bbox": "-2.136871,51.838313,-2.136871,51.838313",
+    "geom:latitude": 51.838313,
+    "geom:longitude": -2.136871,
     "gp:parent_id": "21757",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698553, 
+      85633159, 
       1360698927, 
       404444917, 
       1360759093, 
-      404227469, 
-      1360698553, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701683,
-    "wof:geomhash": "22d54cdd26183ea871915a1e4b17d11b",
+    "wof:geomhash": "91c8d36f6665a02d409c28986cf5cd36",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454643963,
-    "wof:lastmodified": 1583786817,
+    "wof:lastmodified": 1609898054,
     "wof:name": "GL3 4SR",
     "wof:parent_id": 404444917,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.136798, 
-    51.838286, 
-    -2.136798, 
-    51.838286
+    -2.136871, 
+    51.838313, 
+    -2.136871, 
+    51.838313
   ],
-  "geometry": {"coordinates":[-2.136798,51.838286],"type":"Point"}
+  "geometry": {"coordinates":[-2.136871,51.838313],"type":"Point"}
 }

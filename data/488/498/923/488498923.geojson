@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.210632,55.921569,-3.210632,55.921569",
-    "geom:latitude": 55.921569,
-    "geom:longitude": -3.210632,
+    "geom:bbox": "-3.210743,55.921554,-3.210743,55.921554",
+    "geom:latitude": 55.921554,
+    "geom:longitude": -3.210743,
     "gp:parent_id": "12696195",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85789183, 
-      1360698673, 
       85633159, 
       1360698761, 
       404437279, 
       101750629, 
-      404227471
+      404227471, 
+      85789183, 
+      1360698673
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701516,
-    "wof:geomhash": "4a9f15b685a4b24984c7674ba437393d",
+    "wof:geomhash": "f7a3ace79a3e065e2db59428be4f60b3",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 488498923,
-    "wof:lastmodified": 1583786713,
+    "wof:lastmodified": 1609894433,
     "wof:name": "EH10 6AX",
     "wof:parent_id": 101750629,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.210632, 
-    55.921569, 
-    -3.210632, 
-    55.921569
+    -3.210743, 
+    55.921554, 
+    -3.210743, 
+    55.921554
   ],
-  "geometry": {"coordinates":[-3.210632,55.921569],"type":"Point"}
+  "geometry": {"coordinates":[-3.210743,55.921554],"type":"Point"}
 }

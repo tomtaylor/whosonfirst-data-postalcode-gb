@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.214189,51.165882,1.214189,51.165882",
-    "geom:latitude": 51.165882,
-    "geom:longitude": 1.214189,
+    "geom:bbox": "1.214230,51.165854,1.214230,51.165854",
+    "geom:latitude": 51.165854,
+    "geom:longitude": 1.21423,
     "gp:parent_id": "28013",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698811, 
       404433271, 
       1125804913, 
       404227469, 
-      1360698565
+      1360698565, 
+      85633159, 
+      1360698811
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701389,
-    "wof:geomhash": "265552b0fcac92c833116c3bc44078a9",
+    "wof:geomhash": "929eb85289832db671a3a48deaf3c12b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454224759,
-    "wof:lastmodified": 1583786522,
+    "wof:lastmodified": 1609879019,
     "wof:name": "CT15 7JL",
     "wof:parent_id": 404433271,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.214189, 
-    51.165882, 
-    1.214189, 
-    51.165882
+    1.21423, 
+    51.165854, 
+    1.21423, 
+    51.165854
   ],
-  "geometry": {"coordinates":[1.214189,51.165882],"type":"Point"}
+  "geometry": {"coordinates":[1.21423,51.165854],"type":"Point"}
 }

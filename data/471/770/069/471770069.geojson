@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.105580,53.343301,-2.105580,53.343301",
-    "geom:latitude": 53.343301,
-    "geom:longitude": -2.10558,
+    "geom:bbox": "-2.105505,53.343391,-2.105505,53.343391",
+    "geom:latitude": 53.343391,
+    "geom:longitude": -2.105505,
     "gp:parent_id": "32526",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698537, 
-      85633159, 
-      1360698929, 
       404439351, 
       1360755371, 
-      404227469
+      404227469, 
+      1360698537, 
+      85633159, 
+      1360698929
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701735,
-    "wof:geomhash": "89683127b9db9c6926b9222e085f5a0b",
+    "wof:geomhash": "fb071574ee4b8a205bf73d5b95d32dda",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471770069,
-    "wof:lastmodified": 1583786907,
+    "wof:lastmodified": 1609902609,
     "wof:name": "SK12 1TA",
     "wof:parent_id": 404439351,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.10558, 
-    53.343301, 
-    -2.10558, 
-    53.343301
+    -2.105505, 
+    53.343391, 
+    -2.105505, 
+    53.343391
   ],
-  "geometry": {"coordinates":[-2.10558,53.343301],"type":"Point"}
+  "geometry": {"coordinates":[-2.105505,53.343391],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.440718,53.378390,-1.440718,53.378390",
-    "geom:latitude": 53.37839,
-    "geom:longitude": -1.440718,
+    "geom:bbox": "-1.440552,53.378335,-1.440552,53.378335",
+    "geom:latitude": 53.378335,
+    "geom:longitude": -1.440552,
     "gp:parent_id": "34503",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      85793107, 
       1360698591, 
       85633159, 
       1360699075, 
-      101750529, 
-      404227469, 
-      85793107
+      101750529
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701685,
-    "wof:geomhash": "0d8f0994875aa651f0da0946b7dd1ebd",
+    "wof:geomhash": "a201e6354f5f3a67137581ccbf3625f3",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471635499,
-    "wof:lastmodified": 1583786856,
+    "wof:lastmodified": 1609899959,
     "wof:name": "S2 5EE",
     "wof:parent_id": 101750529,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.440718, 
-    53.37839, 
-    -1.440718, 
-    53.37839
+    -1.440552, 
+    53.378335, 
+    -1.440552, 
+    53.378335
   ],
-  "geometry": {"coordinates":[-1.440718,53.37839],"type":"Point"}
+  "geometry": {"coordinates":[-1.440552,53.378335],"type":"Point"}
 }

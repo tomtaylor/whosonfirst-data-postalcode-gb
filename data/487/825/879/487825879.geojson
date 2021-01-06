@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.454517,52.707862,-2.454517,52.707862",
-    "geom:latitude": 52.707862,
-    "geom:longitude": -2.454517,
+    "geom:bbox": "-2.454500,52.707850,-2.454500,52.707850",
+    "geom:latitude": 52.70785,
+    "geom:longitude": -2.4545,
     "gp:parent_id": "37073",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360698911, 
       404452549, 
       1125816703, 
       404227469, 
-      1360698587, 
-      85633159
+      1360698587
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701193,
-    "wof:geomhash": "f3aa76dc4eab9c22a997eb2216e066ba",
+    "wof:geomhash": "f2ab7ee5a59e9883217337d6f4e2e0e9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487825879,
-    "wof:lastmodified": 1583786293,
+    "wof:lastmodified": 1609882015,
     "wof:name": "TF2 6PY",
     "wof:parent_id": 101751611,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.454517, 
-    52.707862, 
-    -2.454517, 
-    52.707862
+    -2.4545, 
+    52.70785, 
+    -2.4545, 
+    52.70785
   ],
-  "geometry": {"coordinates":[-2.454517,52.707862],"type":"Point"}
+  "geometry": {"coordinates":[-2.4545,52.70785],"type":"Point"}
 }

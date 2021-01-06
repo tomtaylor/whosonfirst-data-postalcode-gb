@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-11-01",
     "geom:area": 0,
-    "geom:bbox": "-1.518796,51.783003,-1.518796,51.783003",
-    "geom:latitude": 51.783003,
-    "geom:longitude": -1.518796,
+    "geom:bbox": "-1.518595,51.782778,-1.518595,51.782778",
+    "geom:latitude": 51.782778,
+    "geom:longitude": -1.518595,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698585, 
       85633159, 
       1360698839, 
       404450543, 
-      101852913
+      101852913, 
+      404227469, 
+      1360698585
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583787406,
-    "wof:geomhash": "56b7c482b93f328f3aaa302f6473f281",
+    "wof:geomhash": "67b6a81e3e71e05d29acc79a43a5fb68",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160730730,
-    "wof:lastmodified": 1583787406,
+    "wof:lastmodified": 1609869083,
     "wof:name": "OX29 7BW",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.518796, 
-    51.783003, 
-    -1.518796, 
-    51.783003
+    -1.518595, 
+    51.782778, 
+    -1.518595, 
+    51.782778
   ],
-  "geometry": {"coordinates":[-1.518796,51.783003],"type":"Point"}
+  "geometry": {"coordinates":[-1.518595,51.782778],"type":"Point"}
 }

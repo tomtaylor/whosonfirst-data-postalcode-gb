@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.586700,53.401526,-2.586700,53.401526",
-    "geom:latitude": 53.401526,
-    "geom:longitude": -2.5867,
+    "geom:bbox": "-2.586684,53.401454,-2.586684,53.401454",
+    "geom:latitude": 53.401454,
+    "geom:longitude": -2.586684,
     "gp:parent_id": "39210",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698537, 
       85633159, 
       1360698965, 
       101751627, 
-      404227469
+      404227469, 
+      1360698537
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701229,
-    "wof:geomhash": "e672843d0d5bca44873d353b746aac12",
+    "wof:geomhash": "99aa0494cdc926aa97089ae062a13e2c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488072147,
-    "wof:lastmodified": 1583786395,
+    "wof:lastmodified": 1609871178,
     "wof:name": "WA2 8BD",
     "wof:parent_id": 101751627,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.5867, 
-    53.401526, 
-    -2.5867, 
-    53.401526
+    -2.586684, 
+    53.401454, 
+    -2.586684, 
+    53.401454
   ],
-  "geometry": {"coordinates":[-2.5867,53.401526],"type":"Point"}
+  "geometry": {"coordinates":[-2.586684,53.401454],"type":"Point"}
 }

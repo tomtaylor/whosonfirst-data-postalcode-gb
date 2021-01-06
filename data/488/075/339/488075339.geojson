@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.521579,53.451049,-2.521579,53.451049",
-    "geom:latitude": 53.451049,
-    "geom:longitude": -2.521579,
+    "geom:bbox": "-2.521577,53.450879,-2.521577,53.450879",
+    "geom:latitude": 53.450879,
+    "geom:longitude": -2.521577,
     "gp:parent_id": "17606",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698965, 
       404453739, 
       1360759513, 
       404227469, 
-      1360698537
+      1360698537, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701231,
-    "wof:geomhash": "c778b9b4445ab9ed3f24eb5959a6fdc2",
+    "wof:geomhash": "ca466f532703509c487c54d72cefd94c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488075339,
-    "wof:lastmodified": 1583786397,
+    "wof:lastmodified": 1609871357,
     "wof:name": "WA3 5QZ",
     "wof:parent_id": 404453739,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.521579, 
-    53.451049, 
-    -2.521579, 
-    53.451049
+    -2.521577, 
+    53.450879, 
+    -2.521577, 
+    53.450879
   ],
-  "geometry": {"coordinates":[-2.521579,53.451049],"type":"Point"}
+  "geometry": {"coordinates":[-2.521577,53.450879],"type":"Point"}
 }

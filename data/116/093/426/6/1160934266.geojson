@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-05-01",
     "geom:area": 0,
-    "geom:bbox": "-4.295858,55.825141,-4.295858,55.825141",
-    "geom:latitude": 55.825141,
-    "geom:longitude": -4.295858,
+    "geom:bbox": "-4.295853,55.825060,-4.295853,55.825060",
+    "geom:latitude": 55.82506,
+    "geom:longitude": -4.295853,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,18 +18,18 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698797, 
-      404430153, 
-      1175612707, 
       404227471, 
       85789883, 
       1360698707, 
-      85633159
+      85633159, 
+      1360698797, 
+      404430153, 
+      1175612707
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583796526,
-    "wof:geomhash": "2edd028674696103577139ecf93f951a",
+    "wof:geomhash": "9bd0610a030428102ac4c870f28eecc2",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 1160934266,
-    "wof:lastmodified": 1583796526,
+    "wof:lastmodified": 1609872634,
     "wof:name": "G43 1FD",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.295858, 
-    55.825141, 
-    -4.295858, 
-    55.825141
+    -4.295853, 
+    55.82506, 
+    -4.295853, 
+    55.82506
   ],
-  "geometry": {"coordinates":[-4.295858,55.825141],"type":"Point"}
+  "geometry": {"coordinates":[-4.295853,55.82506],"type":"Point"}
 }

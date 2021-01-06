@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.064483,52.082017,-2.064483,52.082017",
-    "geom:latitude": 52.082017,
-    "geom:longitude": -2.064483,
+    "geom:bbox": "-2.064198,52.081966,-2.064198,52.081966",
+    "geom:latitude": 52.081966,
+    "geom:longitude": -2.064198,
     "gp:parent_id": "21605",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699043, 
-      404438639, 
       1126036317, 
       404227469, 
       1360698613, 
-      85633159
+      85633159, 
+      1360699043, 
+      404438639
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701287,
-    "wof:geomhash": "a8460bab786a0505e52479ceec397415",
+    "wof:geomhash": "b09cd26be7be7d57fb596db147b8b6e1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488164607,
-    "wof:lastmodified": 1583786249,
+    "wof:lastmodified": 1609877866,
     "wof:name": "WR10 3DX",
     "wof:parent_id": 404438639,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.064483, 
-    52.082017, 
-    -2.064483, 
-    52.082017
+    -2.064198, 
+    52.081966, 
+    -2.064198, 
+    52.081966
   ],
-  "geometry": {"coordinates":[-2.064483,52.082017],"type":"Point"}
+  "geometry": {"coordinates":[-2.064198,52.081966],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.829227,51.108123,-0.829227,51.108123",
-    "geom:latitude": 51.108123,
-    "geom:longitude": -0.829227,
+    "geom:bbox": "-0.828553,51.107639,-0.828553,51.107639",
+    "geom:latitude": 51.107639,
+    "geom:longitude": -0.828553,
     "gp:parent_id": "35868",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698827, 
-      404439513, 
       1125964923, 
       404227469, 
-      1360698557
+      1360698557, 
+      85633159, 
+      1360698827, 
+      404439513
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701701,
-    "wof:geomhash": "aade8e76918313957f78fe44a1e0e77f",
+    "wof:geomhash": "5bcec4c83b77b77e21c144f751eb86b7",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454703937,
-    "wof:lastmodified": 1583786840,
+    "wof:lastmodified": 1609899873,
     "wof:name": "GU35 8RD",
     "wof:parent_id": 404439513,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.829227, 
-    51.108123, 
-    -0.829227, 
-    51.108123
+    -0.828553, 
+    51.107639, 
+    -0.828553, 
+    51.107639
   ],
-  "geometry": {"coordinates":[-0.829227,51.108123],"type":"Point"}
+  "geometry": {"coordinates":[-0.828553,51.107639],"type":"Point"}
 }

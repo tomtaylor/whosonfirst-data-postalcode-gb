@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-05-01",
     "geom:area": 0,
-    "geom:bbox": "-1.425058,52.535248,-1.425058,52.535248",
-    "geom:latitude": 52.535248,
-    "geom:longitude": -1.425058,
+    "geom:bbox": "-1.425247,52.535420,-1.425247,52.535420",
+    "geom:latitude": 52.53542,
+    "geom:longitude": -1.425247,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,13 +18,13 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      1360817293, 
+      101750471, 
+      404227469, 
       85785407, 
       1360698603, 
       85633159, 
-      1360698891, 
-      1360817293, 
-      101750471, 
-      404227469
+      1360698891
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701542,
-    "wof:geomhash": "6839d607ca77d73f025dfc6c1f1d516c",
+    "wof:geomhash": "07ab18f90a05d23d6f9135b7113c82bf",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 437766511,
-    "wof:lastmodified": 1583786687,
+    "wof:lastmodified": 1609888905,
     "wof:name": "CV11 6YZ",
     "wof:parent_id": "101872043",
     "wof:placetype": "postalcode",
@@ -55,10 +55,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.425058, 
-    52.535248, 
-    -1.425058, 
-    52.535248
+    -1.425247, 
+    52.53542, 
+    -1.425247, 
+    52.53542
   ],
-  "geometry": {"coordinates":[-1.425058,52.535248],"type":"Point"}
+  "geometry": {"coordinates":[-1.425247,52.53542],"type":"Point"}
 }

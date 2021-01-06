@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "uuuu",
-    "edtf:inception": "2017-05-01",
+    "edtf:inception": "2020-07-01",
     "geom:area": 0,
     "geom:bbox": "0.892612,51.314924,0.892612,51.314924",
     "geom:latitude": 51.314924,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698811, 
-      404435365, 
       101854627, 
       404227469, 
       1360698565, 
-      85633159
+      85633159, 
+      1360698811, 
+      404435365
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 39703455,
-    "wof:lastmodified": 1583804397,
+    "wof:lastmodified": 1609868568,
     "wof:name": "ME13 3BX",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

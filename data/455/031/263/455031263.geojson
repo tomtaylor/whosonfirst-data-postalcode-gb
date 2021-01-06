@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.203905,52.649580,-1.203905,52.649580",
-    "geom:latitude": 52.64958,
-    "geom:longitude": -1.203905,
+    "geom:bbox": "-1.203764,52.649669,-1.203764,52.649669",
+    "geom:latitude": 52.649669,
+    "geom:longitude": -1.203764,
     "gp:parent_id": "26062",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      1360757975, 
       404227469, 
       1360698569, 
       85633159, 
       1360698871, 
-      404435879, 
-      1360757975
+      404435879
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701096,
-    "wof:geomhash": "92f4f7ca9e1cc462001411a5d0ddb20a",
+    "wof:geomhash": "6c33eca26feb15bd8d6896ca2d7a0f27",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 455031263,
-    "wof:lastmodified": 1583786210,
+    "wof:lastmodified": 1609869318,
     "wof:name": "LE3 8DN",
     "wof:parent_id": 101914001,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.203905, 
-    52.64958, 
-    -1.203905, 
-    52.64958
+    -1.203764, 
+    52.649669, 
+    -1.203764, 
+    52.649669
   ],
-  "geometry": {"coordinates":[-1.203905,52.64958],"type":"Point"}
+  "geometry": {"coordinates":[-1.203764,52.649669],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.834347,53.682536,-2.834347,53.682536",
-    "geom:latitude": 53.682536,
-    "geom:longitude": -2.834347,
+    "geom:bbox": "-2.834289,53.682635,-2.834289,53.682635",
+    "geom:latitude": 53.682635,
+    "geom:longitude": -2.834289,
     "gp:parent_id": "36981",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698817, 
       404437787, 
       1125970313, 
       404227469, 
-      1360698567
+      1360698567, 
+      85633159, 
+      1360698817
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701648,
-    "wof:geomhash": "8269875d1607a7814b22f54d5f014019",
+    "wof:geomhash": "3ae02ba7796f5a7912e62781abec5d0a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471506221,
-    "wof:lastmodified": 1583786779,
+    "wof:lastmodified": 1609894545,
     "wof:name": "PR4 6BS",
     "wof:parent_id": 404437787,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.834347, 
-    53.682536, 
-    -2.834347, 
-    53.682536
+    -2.834289, 
+    53.682635, 
+    -2.834289, 
+    53.682635
   ],
-  "geometry": {"coordinates":[-2.834347,53.682536],"type":"Point"}
+  "geometry": {"coordinates":[-2.834289,53.682635],"type":"Point"}
 }

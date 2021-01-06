@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2008-06-01",
     "geom:area": 0,
-    "geom:bbox": "-3.266605,55.059925,-3.266605,55.059925",
-    "geom:latitude": 55.059925,
-    "geom:longitude": -3.266605,
+    "geom:bbox": "-3.266788,55.059779,-3.266788,55.059779",
+    "geom:latitude": 55.059779,
+    "geom:longitude": -3.266788,
     "gp:parent_id": "19276",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698719, 
-      85633159, 
       1360699039, 
       404444245, 
-      404227471
+      404227471, 
+      1360698719, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701552,
-    "wof:geomhash": "6f33f7c352590d2bfc7ab080ca7a760f",
+    "wof:geomhash": "0bd627069065ca1482275ced60982cd0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504759179,
-    "wof:lastmodified": 1583786709,
+    "wof:lastmodified": 1609889562,
     "wof:name": "DG11 3FW",
     "wof:parent_id": 404444245,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.266605, 
-    55.059925, 
-    -3.266605, 
-    55.059925
+    -3.266788, 
+    55.059779, 
+    -3.266788, 
+    55.059779
   ],
-  "geometry": {"coordinates":[-3.266605,55.059925],"type":"Point"}
+  "geometry": {"coordinates":[-3.266788,55.059779],"type":"Point"}
 }

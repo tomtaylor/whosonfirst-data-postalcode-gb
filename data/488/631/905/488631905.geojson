@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.053436,55.803310,-3.053436,55.803310",
-    "geom:latitude": 55.80331,
-    "geom:longitude": -3.053436,
+    "geom:bbox": "-3.054127,55.806310,-3.054127,55.806310",
+    "geom:latitude": 55.80631,
+    "geom:longitude": -3.054127,
     "gp:parent_id": "12696201",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698677, 
       85633159, 
       1360698791, 
       404436513, 
-      404227471
+      404227471, 
+      1360698677
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701630,
-    "wof:geomhash": "c21a1191b9ef8a147bf8ca4b8609889b",
+    "wof:geomhash": "9e413cf9632ee4f6dffc21af1d81221b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488631905,
-    "wof:lastmodified": 1583786828,
+    "wof:lastmodified": 1609899447,
     "wof:name": "EH23 4SA",
     "wof:parent_id": 404436513,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.053436, 
-    55.80331, 
-    -3.053436, 
-    55.80331
+    -3.054127, 
+    55.80631, 
+    -3.054127, 
+    55.80631
   ],
-  "geometry": {"coordinates":[-3.053436,55.80331],"type":"Point"}
+  "geometry": {"coordinates":[-3.054127,55.80631],"type":"Point"}
 }

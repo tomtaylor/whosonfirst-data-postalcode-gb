@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.608655,54.913741,-4.608655,54.913741",
-    "geom:latitude": 54.913741,
+    "geom:bbox": "-4.608655,54.913750,-4.608655,54.913750",
+    "geom:latitude": 54.91375,
     "geom:longitude": -4.608655,
     "gp:parent_id": "25386",
     "iso:country": "GB",
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698649, 
       85633159, 
       1360699039, 
       404444245, 
-      404227471, 
-      1360698649
+      404227471
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701620,
-    "wof:geomhash": "bd626014c9c19b10704f0c9e50a9d2ba",
+    "wof:geomhash": "729790466da37ebb6bc5b183958c128e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488617951,
-    "wof:lastmodified": 1583786814,
+    "wof:lastmodified": 1609898895,
     "wof:name": "DG8 0HQ",
     "wof:parent_id": 404444245,
     "wof:placetype": "postalcode",
@@ -53,9 +53,9 @@
   },
   "bbox": [
     -4.608655, 
-    54.913741, 
+    54.91375, 
     -4.608655, 
-    54.913741
+    54.91375
   ],
-  "geometry": {"coordinates":[-4.608655,54.913741],"type":"Point"}
+  "geometry": {"coordinates":[-4.608655,54.91375],"type":"Point"}
 }

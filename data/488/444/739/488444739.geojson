@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.342805,55.892432,-4.342805,55.892432",
-    "geom:latitude": 55.892432,
-    "geom:longitude": -4.342805,
+    "geom:bbox": "-4.342790,55.892426,-4.342790,55.892426",
+    "geom:latitude": 55.892426,
+    "geom:longitude": -4.34279,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1175612707, 
-      404227471, 
-      85785315, 
       1360698707, 
       85633159, 
       1360698797, 
-      404430153
+      404430153, 
+      1175612707, 
+      404227471, 
+      85785315
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701459,
-    "wof:geomhash": "60ce329289ce968cfa8b8e4bb06abf60",
+    "wof:geomhash": "1222bd3aa9eb2ca3ae91bbfeec550e41",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 488444739,
-    "wof:lastmodified": 1583786670,
+    "wof:lastmodified": 1609892058,
     "wof:name": "G13 3QT",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.342805, 
-    55.892432, 
-    -4.342805, 
-    55.892432
+    -4.34279, 
+    55.892426, 
+    -4.34279, 
+    55.892426
   ],
-  "geometry": {"coordinates":[-4.342805,55.892432],"type":"Point"}
+  "geometry": {"coordinates":[-4.34279,55.892426],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-08-01",
     "geom:area": 0,
-    "geom:bbox": "-1.669603,54.924519,-1.669603,54.924519",
-    "geom:latitude": 54.924519,
-    "geom:longitude": -1.669603,
+    "geom:bbox": "-1.669713,54.924420,-1.669713,54.924420",
+    "geom:latitude": 54.92442,
+    "geom:longitude": -1.669713,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698881, 
-      1360817105, 
       101873371, 
       404227469, 
       1360698601, 
-      85633159
+      85633159, 
+      1360698881, 
+      1360817105
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583802600,
-    "wof:geomhash": "4e7459c6a23dce734e006d9086ba83c9",
+    "wof:geomhash": "66f92d8e79df0b7d2df76a9563ef2858",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712765607,
-    "wof:lastmodified": 1595712310,
+    "wof:lastmodified": 1609874155,
     "wof:name": "NE16 5BF",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.669603, 
-    54.924519, 
-    -1.669603, 
-    54.924519
+    -1.669713, 
+    54.92442, 
+    -1.669713, 
+    54.92442
   ],
-  "geometry": {"coordinates":[-1.669603,54.924519],"type":"Point"}
+  "geometry": {"coordinates":[-1.669713,54.92442],"type":"Point"}
 }

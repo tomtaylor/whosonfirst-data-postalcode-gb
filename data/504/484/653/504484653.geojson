@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.069180,53.090270,-3.069180,53.090270",
-    "geom:latitude": 53.09027,
-    "geom:longitude": -3.06918,
+    "geom:bbox": "-3.069103,53.090199,-3.069103,53.090199",
+    "geom:latitude": 53.090199,
+    "geom:longitude": -3.069103,
     "gp:parent_id": "14306",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360698799, 
       404441353, 
       1125992035, 
       404227475, 
-      1360698637, 
-      85633159
+      1360698637
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701369,
-    "wof:geomhash": "5979b09640acf68ea41f2ac40b5fad8c",
+    "wof:geomhash": "7c18727a5a0f1ee8135517743404a965",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504484653,
-    "wof:lastmodified": 1583786484,
+    "wof:lastmodified": 1609874522,
     "wof:name": "LL11 5LH",
     "wof:parent_id": 404441353,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.06918, 
-    53.09027, 
-    -3.06918, 
-    53.09027
+    -3.069103, 
+    53.090199, 
+    -3.069103, 
+    53.090199
   ],
-  "geometry": {"coordinates":[-3.06918,53.09027],"type":"Point"}
+  "geometry": {"coordinates":[-3.069103,53.090199],"type":"Point"}
 }

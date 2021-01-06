@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2014-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.514759,53.705424,-1.514759,53.705424",
-    "geom:latitude": 53.705424,
-    "geom:longitude": -1.514759,
+    "geom:bbox": "-1.514760,53.705397,-1.514760,53.705397",
+    "geom:latitude": 53.705397,
+    "geom:longitude": -1.51476,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698609, 
       85633159, 
       1360698945, 
       1360817491, 
-      101751637
+      101751637, 
+      404227469, 
+      1360698609
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468903810,
-    "wof:geomhash": "bcecff04e3282e55cf087ecff787950b",
+    "wof:geomhash": "76da99eb5cdb568c2ddc8737655b2ba4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 890282401,
-    "wof:lastmodified": 1583786284,
+    "wof:lastmodified": 1609869786,
     "wof:name": "WF1 2FH",
     "wof:parent_id": 101751637,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.514759, 
-    53.705424, 
-    -1.514759, 
-    53.705424
+    -1.51476, 
+    53.705397, 
+    -1.51476, 
+    53.705397
   ],
-  "geometry": {"coordinates":[-1.514759,53.705424],"type":"Point"}
+  "geometry": {"coordinates":[-1.51476,53.705397],"type":"Point"}
 }

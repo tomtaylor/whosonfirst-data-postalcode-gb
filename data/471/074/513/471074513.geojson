@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1993-08-01",
     "geom:area": 0,
-    "geom:bbox": "-1.841792,54.969841,-1.841792,54.969841",
-    "geom:latitude": 54.969841,
-    "geom:longitude": -1.841792,
+    "geom:bbox": "-1.841073,54.969921,-1.841073,54.969921",
+    "geom:latitude": 54.969921,
+    "geom:longitude": -1.841073,
     "gp:parent_id": "27576",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698769, 
       404450797, 
       1125840701, 
       404227469, 
       1360698727, 
-      85633159
+      85633159, 
+      1360698769
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701231,
-    "wof:geomhash": "0b4f54c180b014407bfadd82de33f762",
+    "wof:geomhash": "5c194914acd040c9664ab2269ca34576",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471074513,
-    "wof:lastmodified": 1595719937,
+    "wof:lastmodified": 1609871358,
     "wof:name": "NE42 6PJ",
     "wof:parent_id": 404450797,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.841792, 
-    54.969841, 
-    -1.841792, 
-    54.969841
+    -1.841073, 
+    54.969921, 
+    -1.841073, 
+    54.969921
   ],
-  "geometry": {"coordinates":[-1.841792,54.969841],"type":"Point"}
+  "geometry": {"coordinates":[-1.841073,54.969921],"type":"Point"}
 }

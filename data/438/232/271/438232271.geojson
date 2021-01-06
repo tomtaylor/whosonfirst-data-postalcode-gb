@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.259910,50.862474,0.259910,50.862474",
-    "geom:latitude": 50.862474,
-    "geom:longitude": 0.25991,
+    "geom:bbox": "0.259996,50.862486,0.259996,50.862486",
+    "geom:latitude": 50.862486,
+    "geom:longitude": 0.259996,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698815, 
       404437773, 
       101853479, 
       404227469, 
-      1360698549
+      1360698549, 
+      85633159, 
+      1360698815
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701415,
-    "wof:geomhash": "2f9b8450d05a34dfb5012f0375c0d1f8",
+    "wof:geomhash": "5cce201eecda51108efa4b951012f57e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 438232271,
-    "wof:lastmodified": 1583786551,
+    "wof:lastmodified": 1609880965,
     "wof:name": "BN27 1AJ",
     "wof:parent_id": 101853479,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.25991, 
-    50.862474, 
-    0.25991, 
-    50.862474
+    0.259996, 
+    50.862486, 
+    0.259996, 
+    50.862486
   ],
-  "geometry": {"coordinates":[0.25991,50.862474],"type":"Point"}
+  "geometry": {"coordinates":[0.259996,50.862486],"type":"Point"}
 }

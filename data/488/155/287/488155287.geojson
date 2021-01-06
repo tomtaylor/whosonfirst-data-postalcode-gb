@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.694864,53.538374,-2.694864,53.538374",
-    "geom:latitude": 53.538374,
-    "geom:longitude": -2.694864,
+    "geom:bbox": "-2.694667,53.538346,-2.694667,53.538346",
+    "geom:latitude": 53.538346,
+    "geom:longitude": -2.694667,
     "gp:parent_id": "31093",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698555, 
       85633159, 
       1360699023, 
       1360817301, 
-      1125871869
+      1125871869, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701281,
-    "wof:geomhash": "60a5b837972763d3efb52f45a1bd810b",
+    "wof:geomhash": "9d8fa6f1b0a3208d701c430ce6da8ca1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488155287,
-    "wof:lastmodified": 1583786222,
+    "wof:lastmodified": 1609877429,
     "wof:name": "WN5 8HJ",
     "wof:parent_id": 101750563,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.694864, 
-    53.538374, 
-    -2.694864, 
-    53.538374
+    -2.694667, 
+    53.538346, 
+    -2.694667, 
+    53.538346
   ],
-  "geometry": {"coordinates":[-2.694864,53.538374],"type":"Point"}
+  "geometry": {"coordinates":[-2.694667,53.538346],"type":"Point"}
 }

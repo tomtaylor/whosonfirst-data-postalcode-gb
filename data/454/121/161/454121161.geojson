@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1999-06-01",
     "geom:area": 0,
-    "geom:bbox": "-3.098601,53.351422,-3.098601,53.351422",
-    "geom:latitude": 53.351422,
-    "geom:longitude": -3.098601,
+    "geom:bbox": "-3.098511,53.351448,-3.098511,53.351448",
+    "geom:latitude": 53.351448,
+    "geom:longitude": -3.098511,
     "gp:parent_id": "12695853",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      101750549, 
       404227469, 
       1360698573, 
       85633159, 
-      1360699049
+      1360699049, 
+      101750549
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701260,
-    "wof:geomhash": "82bb667ff8f78b592953ad2d4fc23d7a",
+    "wof:geomhash": "082cb7beeb73cb2c06a5b79620d5b3f8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454121161,
-    "wof:lastmodified": 1583786414,
+    "wof:lastmodified": 1609872038,
     "wof:name": "CH61 9PR",
     "wof:parent_id": 404452723,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.098601, 
-    53.351422, 
-    -3.098601, 
-    53.351422
+    -3.098511, 
+    53.351448, 
+    -3.098511, 
+    53.351448
   ],
-  "geometry": {"coordinates":[-3.098601,53.351422],"type":"Point"}
+  "geometry": {"coordinates":[-3.098511,53.351448],"type":"Point"}
 }

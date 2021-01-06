@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2006-09-01",
     "geom:area": 0,
-    "geom:bbox": "-1.058893,53.918279,-1.058893,53.918279",
-    "geom:latitude": 53.918279,
-    "geom:longitude": -1.058893,
+    "geom:bbox": "-1.058815,53.918377,-1.058815,53.918377",
+    "geom:latitude": 53.918377,
+    "geom:longitude": -1.058815,
     "gp:parent_id": "41415",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698619, 
       85633159, 
       1360698977, 
       404450347, 
-      1125899863
+      1125899863, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701183,
-    "wof:geomhash": "663619651381003cb332e6aecbfc285e",
+    "wof:geomhash": "32b3c8d2454eded052978d38bc970738",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488235931,
-    "wof:lastmodified": 1583786431,
+    "wof:lastmodified": 1609881589,
     "wof:name": "YO19 4RH",
     "wof:parent_id": 404450347,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.058893, 
-    53.918279, 
-    -1.058893, 
-    53.918279
+    -1.058815, 
+    53.918377, 
+    -1.058815, 
+    53.918377
   ],
-  "geometry": {"coordinates":[-1.058893,53.918279],"type":"Point"}
+  "geometry": {"coordinates":[-1.058815,53.918377],"type":"Point"}
 }

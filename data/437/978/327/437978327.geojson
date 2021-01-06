@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.972074,52.438278,-1.972074,52.438278",
-    "geom:latitude": 52.438278,
-    "geom:longitude": -1.972074,
+    "geom:bbox": "-1.972030,52.438404,-1.972030,52.438404",
+    "geom:latitude": 52.438404,
+    "geom:longitude": -1.97203,
     "gp:parent_id": "12723",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      85791437, 
       1360698605, 
       85633159, 
       1360699077, 
-      101750467, 
-      404227469, 
-      85791437
+      101750467
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701662,
-    "wof:geomhash": "bdc047411351d0cbdeb5a2d7c35d70de",
+    "wof:geomhash": "35db9f4c44c71c92bc534f8c7ba277c0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 437978327,
-    "wof:lastmodified": 1583786831,
+    "wof:lastmodified": 1609897990,
     "wof:name": "B29 5RB",
     "wof:parent_id": 101750467,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.972074, 
-    52.438278, 
-    -1.972074, 
-    52.438278
+    -1.97203, 
+    52.438404, 
+    -1.97203, 
+    52.438404
   ],
-  "geometry": {"coordinates":[-1.972074,52.438278],"type":"Point"}
+  "geometry": {"coordinates":[-1.97203,52.438404],"type":"Point"}
 }

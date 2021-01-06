@@ -2,7 +2,7 @@
   "id": 874493337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-06-01",
     "edtf:inception": "2015-07-01",
     "geom:area": 0,
     "geom:bbox": "-1.748362,55.051082,-1.748362,55.051082",
@@ -10,7 +10,7 @@
     "geom:longitude": -1.748362,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000057",
@@ -18,12 +18,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
+      101873461, 
       404227469, 
       1360698727, 
       85633159, 
       1360698769, 
-      404439405, 
-      101873461
+      404439405
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 874493337,
-    "wof:lastmodified": 1583786366,
+    "wof:lastmodified": 1609871793,
     "wof:name": "NE20 2PB",
     "wof:parent_id": 404439405,
     "wof:placetype": "postalcode",

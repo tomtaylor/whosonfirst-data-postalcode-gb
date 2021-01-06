@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.561487,53.792042,-1.561487,53.792042",
-    "geom:latitude": 53.792042,
-    "geom:longitude": -1.561487,
+    "geom:bbox": "-1.560325,53.791399,-1.560325,53.791399",
+    "geom:latitude": 53.791399,
+    "geom:longitude": -1.560325,
     "gp:parent_id": "26042",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      85789357, 
-      1360698609, 
       85633159, 
       1360698749, 
-      101750579
+      101750579, 
+      404227469, 
+      85789357, 
+      1360698609
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701196,
-    "wof:geomhash": "47269e48dc9c31b8e77b736d197a1b57",
+    "wof:geomhash": "59f59840ac046819ce59f440e7a59ebe",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 455074609,
-    "wof:lastmodified": 1583786326,
+    "wof:lastmodified": 1609871244,
     "wof:name": "LS12 1BT",
     "wof:parent_id": 101750579,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.561487, 
-    53.792042, 
-    -1.561487, 
-    53.792042
+    -1.560325, 
+    53.791399, 
+    -1.560325, 
+    53.791399
   ],
-  "geometry": {"coordinates":[-1.561487,53.792042],"type":"Point"}
+  "geometry": {"coordinates":[-1.560325,53.791399],"type":"Point"}
 }

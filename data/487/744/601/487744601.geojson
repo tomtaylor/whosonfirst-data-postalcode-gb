@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.205852,51.445231,-0.205852,51.445231",
-    "geom:latitude": 51.445231,
-    "geom:longitude": -0.205852,
+    "geom:bbox": "-0.205897,51.445196,-0.205897,51.445196",
+    "geom:latitude": 51.445196,
+    "geom:longitude": -0.205897,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      101750367, 
       404227469, 
       85860655, 
       1360698645, 
       1158857251, 
-      85633159
+      85633159, 
+      101750367
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701147,
-    "wof:geomhash": "cc1c3c73ef74bc46f118aee724a42c08",
+    "wof:geomhash": "1f8d591f3a2b409cf471c227af9690f0",
     "wof:hierarchy": [
       {
         "borough_id": 1158857251,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487744601,
-    "wof:lastmodified": 1583786249,
+    "wof:lastmodified": 1609877377,
     "wof:name": "SW18 5RJ",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.205852, 
-    51.445231, 
-    -0.205852, 
-    51.445231
+    -0.205897, 
+    51.445196, 
+    -0.205897, 
+    51.445196
   ],
-  "geometry": {"coordinates":[-0.205852,51.445231],"type":"Point"}
+  "geometry": {"coordinates":[-0.205897,51.445196],"type":"Point"}
 }

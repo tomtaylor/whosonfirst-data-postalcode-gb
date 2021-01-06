@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.628463,53.577100,-0.628463,53.577100",
-    "geom:latitude": 53.5771,
-    "geom:longitude": -0.628463,
+    "geom:bbox": "-0.628451,53.577120,-0.628451,53.577120",
+    "geom:latitude": 53.57712,
+    "geom:longitude": -0.628451,
     "gp:parent_id": "34260",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698901, 
       101750557, 
       404227469, 
-      1360698571, 
-      85633159, 
-      1360698901
+      1360698571
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701558,
-    "wof:geomhash": "8f480faba1b4601e35abe1838358b9bd",
+    "wof:geomhash": "72096fdce4d98a950cc2d629870b5dbb",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454422903,
-    "wof:lastmodified": 1583786687,
+    "wof:lastmodified": 1609888944,
     "wof:name": "DN16 1DE",
     "wof:parent_id": 101750557,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.628463, 
-    53.5771, 
-    -0.628463, 
-    53.5771
+    -0.628451, 
+    53.57712, 
+    -0.628451, 
+    53.57712
   ],
-  "geometry": {"coordinates":[-0.628463,53.5771],"type":"Point"}
+  "geometry": {"coordinates":[-0.628451,53.57712],"type":"Point"}
 }

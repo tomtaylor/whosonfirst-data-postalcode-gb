@@ -1,0 +1,59 @@
+{
+  "id": 1729684865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-08-01",
+    "geom:area": 0,
+    "geom:bbox": "-0.746051,51.430916,-0.746051,51.430916",
+    "geom:latitude": 51.430916,
+    "geom:longitude": -0.746051,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E99999999",
+    "os:district_code": "E06000036",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000008",
+    "src:geom": "os",
+    "wof:belongsto": [
+      1360699013, 
+      404441763, 
+      1344186043, 
+      404227469, 
+      1360698529, 
+      85633159
+    ],
+    "wof:breaches": [],
+    "wof:country": "GB",
+    "wof:created": 1609906216,
+    "wof:geomhash": "91bd24e9b9862e38749971fcce855b9d",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360699013,
+        "localadmin_id": 404441763,
+        "locality_id": 1344186043,
+        "macroregion_id": 404227469,
+        "region_id": 1360698529
+      }
+    ],
+    "wof:id": 1729684865,
+    "wof:lastmodified": 1609906216,
+    "wof:name": "RG42 6DT",
+    "wof:parent_id": -1,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -0.746051, 
+    51.430916, 
+    -0.746051, 
+    51.430916
+  ],
+  "geometry": {"coordinates":[-0.746051,51.430916],"type":"Point"}
+}

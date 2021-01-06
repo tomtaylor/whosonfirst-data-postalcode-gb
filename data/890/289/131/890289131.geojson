@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2015-08-01",
     "geom:area": 0,
-    "geom:bbox": "-1.043664,53.879043,-1.043664,53.879043",
-    "geom:latitude": 53.879043,
-    "geom:longitude": -1.043664,
+    "geom:bbox": "-1.043484,53.878951,-1.043484,53.878951",
+    "geom:latitude": 53.878951,
+    "geom:longitude": -1.043484,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1125977091, 
-      404227469, 
-      1360698619, 
       85633159, 
       1360698753, 
-      404437205
+      404437205, 
+      1125977091, 
+      404227469, 
+      1360698619
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468904448,
-    "wof:geomhash": "41c2ec5f99542e020be1839efd98bd6a",
+    "wof:geomhash": "4996b525c1d2fa63496140ee122272e5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 890289131,
-    "wof:lastmodified": 1583786301,
+    "wof:lastmodified": 1609870072,
     "wof:name": "YO19 6ST",
     "wof:parent_id": 404437205,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.043664, 
-    53.879043, 
-    -1.043664, 
-    53.879043
+    -1.043484, 
+    53.878951, 
+    -1.043484, 
+    53.878951
   ],
-  "geometry": {"coordinates":[-1.043664,53.879043],"type":"Point"}
+  "geometry": {"coordinates":[-1.043484,53.878951],"type":"Point"}
 }

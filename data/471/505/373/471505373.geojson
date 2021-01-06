@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.799572,53.702550,-2.799572,53.702550",
-    "geom:latitude": 53.70255,
-    "geom:longitude": -2.799572,
+    "geom:bbox": "-2.799130,53.702542,-2.799130,53.702542",
+    "geom:latitude": 53.702542,
+    "geom:longitude": -2.79913,
     "gp:parent_id": "29510",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698817, 
       404447467, 
       1125973451, 
       404227469, 
-      1360698567
+      1360698567, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701649,
-    "wof:geomhash": "cdad623d8c96b8065d65b28a842ff160",
+    "wof:geomhash": "63c84babda3fb11d10c07e93847a3956",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471505373,
-    "wof:lastmodified": 1583786779,
+    "wof:lastmodified": 1609894491,
     "wof:name": "PR4 4GA",
     "wof:parent_id": 404447467,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.799572, 
-    53.70255, 
-    -2.799572, 
-    53.70255
+    -2.79913, 
+    53.702542, 
+    -2.79913, 
+    53.702542
   ],
-  "geometry": {"coordinates":[-2.799572,53.70255],"type":"Point"}
+  "geometry": {"coordinates":[-2.79913,53.702542],"type":"Point"}
 }

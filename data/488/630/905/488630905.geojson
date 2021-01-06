@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.084992,55.885688,-3.084992,55.885688",
-    "geom:latitude": 55.885688,
-    "geom:longitude": -3.084992,
+    "geom:bbox": "-3.085132,55.885579,-3.085132,55.885579",
+    "geom:latitude": 55.885579,
+    "geom:longitude": -3.085132,
     "gp:parent_id": "12696201",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698791, 
-      404436513, 
       404227471, 
       1360698677, 
-      85633159
+      85633159, 
+      1360698791, 
+      404436513
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701628,
-    "wof:geomhash": "af3ec1c446e67631d10b8f0151cfeafc",
+    "wof:geomhash": "54d9b7aff6d968624077938bd9e4670e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488630905,
-    "wof:lastmodified": 1583786824,
+    "wof:lastmodified": 1609899379,
     "wof:name": "EH22 3HD",
     "wof:parent_id": 101873495,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.084992, 
-    55.885688, 
-    -3.084992, 
-    55.885688
+    -3.085132, 
+    55.885579, 
+    -3.085132, 
+    55.885579
   ],
-  "geometry": {"coordinates":[-3.084992,55.885688],"type":"Point"}
+  "geometry": {"coordinates":[-3.085132,55.885579],"type":"Point"}
 }

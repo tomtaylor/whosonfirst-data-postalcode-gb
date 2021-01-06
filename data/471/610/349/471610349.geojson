@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.251457,51.499121,0.251457,51.499121",
-    "geom:latitude": 51.499121,
-    "geom:longitude": 0.251457,
+    "geom:bbox": "0.251340,51.499107,0.251340,51.499107",
+    "geom:latitude": 51.499107,
+    "geom:longitude": 0.25134,
     "gp:parent_id": "11448",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698915, 
       1360817299, 
       1125960197, 
       404227469, 
-      1360698551
+      1360698551, 
+      85633159, 
+      1360698915
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701679,
-    "wof:geomhash": "8abd630c5fd26f72ad445b7a2b94d228",
+    "wof:geomhash": "0730d2d487a2ed155c0abbe69ad899cd",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471610349,
-    "wof:lastmodified": 1583786836,
+    "wof:lastmodified": 1609898764,
     "wof:name": "RM15 4DJ",
     "wof:parent_id": 404451305,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.251457, 
-    51.499121, 
-    0.251457, 
-    51.499121
+    0.25134, 
+    51.499107, 
+    0.25134, 
+    51.499107
   ],
-  "geometry": {"coordinates":[0.251457,51.499121],"type":"Point"}
+  "geometry": {"coordinates":[0.25134,51.499107],"type":"Point"}
 }

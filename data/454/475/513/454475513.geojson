@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.586119,50.936997,-2.586119,50.936997",
-    "geom:latitude": 50.936997,
-    "geom:longitude": -2.586119,
+    "geom:bbox": "-2.586786,50.936904,-2.586786,50.936904",
+    "geom:latitude": 50.936904,
+    "geom:longitude": -2.586786,
     "gp:parent_id": "13530",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1209443809, 
-      404227469, 
       1360698545, 
       85633159, 
       1360698745, 
-      404446031
+      404446031, 
+      1209443809, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701595,
-    "wof:geomhash": "78b13353c6ebd030466545e6d24a5677",
+    "wof:geomhash": "aa1b5355019e2f77ae274b3437b8b153",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454475513,
-    "wof:lastmodified": 1583786724,
+    "wof:lastmodified": 1609891140,
     "wof:name": "DT9 6JN",
     "wof:parent_id": 404446031,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.586119, 
-    50.936997, 
-    -2.586119, 
-    50.936997
+    -2.586786, 
+    50.936904, 
+    -2.586786, 
+    50.936904
   ],
-  "geometry": {"coordinates":[-2.586119,50.936997],"type":"Point"}
+  "geometry": {"coordinates":[-2.586786,50.936904],"type":"Point"}
 }

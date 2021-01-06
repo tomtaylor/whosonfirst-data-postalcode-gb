@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.749979,51.275276,-0.749979,51.275276",
-    "geom:latitude": 51.275276,
-    "geom:longitude": -0.749979,
+    "geom:bbox": "-0.750004,51.274763,-0.750004,51.274763",
+    "geom:latitude": 51.274763,
+    "geom:longitude": -0.750004,
     "gp:parent_id": "19940",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698827, 
-      101750357, 
       404227469, 
       1360698557, 
-      85633159
+      85633159, 
+      1360698827, 
+      101750357
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701692,
-    "wof:geomhash": "10802d242b6ed5fa8963f949d93bafb1",
+    "wof:geomhash": "6557c81331ec529b641543cfb98da078",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454676665,
-    "wof:lastmodified": 1583786828,
+    "wof:lastmodified": 1609899482,
     "wof:name": "GU14 6DA",
     "wof:parent_id": 101750357,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.749979, 
-    51.275276, 
-    -0.749979, 
-    51.275276
+    -0.750004, 
+    51.274763, 
+    -0.750004, 
+    51.274763
   ],
-  "geometry": {"coordinates":[-0.749979,51.275276],"type":"Point"}
+  "geometry": {"coordinates":[-0.750004,51.274763],"type":"Point"}
 }

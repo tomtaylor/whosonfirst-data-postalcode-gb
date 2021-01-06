@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1991-03-01",
     "geom:area": 0,
-    "geom:bbox": "-4.186121,55.773568,-4.186121,55.773568",
-    "geom:latitude": 55.773568,
-    "geom:longitude": -4.186121,
+    "geom:bbox": "-4.186083,55.773452,-4.186083,55.773452",
+    "geom:latitude": 55.773452,
+    "geom:longitude": -4.186083,
     "gp:parent_id": "12696210",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698969, 
       404453929, 
       101750623, 
       404227471, 
-      1360698703
+      1360698703, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701207,
-    "wof:geomhash": "d1c3c3ee818ffbd5fd7f2afda65e828e",
+    "wof:geomhash": "240f7706bf65c0080c6471bd0fd1b93f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504421883,
-    "wof:lastmodified": 1583786322,
+    "wof:lastmodified": 1609870455,
     "wof:name": "G74 4SX",
     "wof:parent_id": 101750623,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.186121, 
-    55.773568, 
-    -4.186121, 
-    55.773568
+    -4.186083, 
+    55.773452, 
+    -4.186083, 
+    55.773452
   ],
-  "geometry": {"coordinates":[-4.186121,55.773568],"type":"Point"}
+  "geometry": {"coordinates":[-4.186083,55.773452],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-09-01",
     "geom:area": 0,
-    "geom:bbox": "-4.734499,51.800072,-4.734499,51.800072",
-    "geom:latitude": 51.800072,
-    "geom:longitude": -4.734499,
+    "geom:bbox": "-4.734449,51.799722,-4.734449,51.799722",
+    "geom:latitude": 51.799722,
+    "geom:longitude": -4.734449,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      101852987, 
-      404227475, 
-      1360698639, 
       85633159, 
       1360698843, 
-      404442485
+      404442485, 
+      101852987, 
+      404227475, 
+      1360698639
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583798391,
-    "wof:geomhash": "26fc138ad89a88775e47651eb3591706",
+    "wof:geomhash": "72e764e114a75f91adf23e678c52af98",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160975534,
-    "wof:lastmodified": 1583798391,
+    "wof:lastmodified": 1609873462,
     "wof:name": "SA67 7FH",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.734499, 
-    51.800072, 
-    -4.734499, 
-    51.800072
+    -4.734449, 
+    51.799722, 
+    -4.734449, 
+    51.799722
   ],
-  "geometry": {"coordinates":[-4.734499,51.800072],"type":"Point"}
+  "geometry": {"coordinates":[-4.734449,51.799722],"type":"Point"}
 }

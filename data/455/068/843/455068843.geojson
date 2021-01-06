@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2001-12-01",
     "geom:area": 0,
-    "geom:bbox": "-0.129281,53.209422,-0.129281,53.209422",
-    "geom:latitude": 53.209422,
-    "geom:longitude": -0.129281,
+    "geom:bbox": "-0.129331,53.209656,-0.129331,53.209656",
+    "geom:latitude": 53.209656,
+    "geom:longitude": -0.129331,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      1360699067, 
+      404455091, 
       101874111, 
       404227469, 
       1360698571, 
-      85633159, 
-      1360699067, 
-      404455091
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701181,
-    "wof:geomhash": "921d6bf19a73d4007637a578fc41d63e",
+    "wof:geomhash": "01302a74949cae8fd68d4a293c906bd8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 455068843,
-    "wof:lastmodified": 1595718552,
+    "wof:lastmodified": 1609870933,
     "wof:name": "LN9 5GB",
     "wof:parent_id": 404455091,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.129281, 
-    53.209422, 
-    -0.129281, 
-    53.209422
+    -0.129331, 
+    53.209656, 
+    -0.129331, 
+    53.209656
   ],
-  "geometry": {"coordinates":[-0.129281,53.209422],"type":"Point"}
+  "geometry": {"coordinates":[-0.129331,53.209656],"type":"Point"}
 }

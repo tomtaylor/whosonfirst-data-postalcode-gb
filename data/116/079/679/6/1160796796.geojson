@@ -2,7 +2,7 @@
   "id": 1160796796,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-09-01",
     "edtf:inception": "2019-08-01",
     "geom:area": 0,
     "geom:bbox": "-4.401378,55.903583,-4.401378,55.903583",
@@ -10,7 +10,7 @@
     "geom:longitude": -4.401378,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "S92000003",
     "os:county_code": "S99999999",
     "os:district_code": "S12000039",
@@ -18,11 +18,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698701, 
+      85633159, 
       1360698819, 
       404444819, 
-      404227471, 
-      1360698701, 
-      85633159
+      404227471
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1160796796,
-    "wof:lastmodified": 1583790396,
+    "wof:lastmodified": 1609870014,
     "wof:name": "G60 9DD",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

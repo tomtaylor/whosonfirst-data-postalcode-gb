@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1999-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.721521,51.742145,-2.721521,51.742145",
-    "geom:latitude": 51.742145,
-    "geom:longitude": -2.721521,
+    "geom:bbox": "-2.721925,51.742098,-2.721925,51.742098",
+    "geom:latitude": 51.742098,
+    "geom:longitude": -2.721925,
     "gp:parent_id": "38079",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698641, 
-      85633159, 
-      1360699109, 
       404446099, 
       1360711617, 
-      404227475
+      404227475, 
+      1360698641, 
+      85633159, 
+      1360699109
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701414,
-    "wof:geomhash": "fc06a882d1dd0d6c7d2513fdb9faa233",
+    "wof:geomhash": "7cf7a994532650d411e9c7c6e56d0f57",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504545331,
-    "wof:lastmodified": 1583786551,
+    "wof:lastmodified": 1609878677,
     "wof:name": "NP25 4PZ",
     "wof:parent_id": 404446099,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.721521, 
-    51.742145, 
-    -2.721521, 
-    51.742145
+    -2.721925, 
+    51.742098, 
+    -2.721925, 
+    51.742098
   ],
-  "geometry": {"coordinates":[-2.721521,51.742145],"type":"Point"}
+  "geometry": {"coordinates":[-2.721925,51.742098],"type":"Point"}
 }

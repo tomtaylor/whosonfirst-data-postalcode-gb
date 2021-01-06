@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.836524,56.376237,-3.836524,56.376237",
-    "geom:latitude": 56.376237,
-    "geom:longitude": -3.836524,
+    "geom:bbox": "-3.836440,56.376274,-3.836440,56.376274",
+    "geom:latitude": 56.376274,
+    "geom:longitude": -3.83644,
     "gp:parent_id": "12696206",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227471, 
-      1360698691, 
       85633159, 
       1360698829, 
-      404451983
+      404451983, 
+      404227471, 
+      1360698691
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701448,
-    "wof:geomhash": "343b73c83fd381fe93d5a73caaa575b5",
+    "wof:geomhash": "7e85842dcd448d5aeb0ee2966e70a1f9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504577255,
-    "wof:lastmodified": 1583786591,
+    "wof:lastmodified": 1609880358,
     "wof:name": "PH7 3DB",
     "wof:parent_id": 101872657,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.836524, 
-    56.376237, 
-    -3.836524, 
-    56.376237
+    -3.83644, 
+    56.376274, 
+    -3.83644, 
+    56.376274
   ],
-  "geometry": {"coordinates":[-3.836524,56.376237],"type":"Point"}
+  "geometry": {"coordinates":[-3.83644,56.376274],"type":"Point"}
 }

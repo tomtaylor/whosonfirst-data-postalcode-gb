@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.186780,52.662333,0.186780,52.662333",
-    "geom:latitude": 52.662333,
-    "geom:longitude": 0.18678,
+    "geom:bbox": "0.186470,52.662347,0.186470,52.662347",
+    "geom:latitude": 52.662347,
+    "geom:longitude": 0.18647,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404451313, 
       1343690629, 
       404227469, 
       1360698575, 
       85633159, 
-      1360698955
+      1360698955, 
+      404451313
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701530,
-    "wof:geomhash": "3649fe66ef7e3bfb14dd51daa4f7f2ab",
+    "wof:geomhash": "485a0ab661239792b8394b4a94284c2e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471358283,
-    "wof:lastmodified": 1583786676,
+    "wof:lastmodified": 1609888185,
     "wof:name": "PE14 7BL",
     "wof:parent_id": 404451313,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.18678, 
-    52.662333, 
-    0.18678, 
-    52.662333
+    0.18647, 
+    52.662347, 
+    0.18647, 
+    52.662347
   ],
-  "geometry": {"coordinates":[0.18678,52.662333],"type":"Point"}
+  "geometry": {"coordinates":[0.18647,52.662347],"type":"Point"}
 }

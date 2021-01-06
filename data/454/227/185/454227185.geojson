@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.295257,51.123228,1.295257,51.123228",
-    "geom:latitude": 51.123228,
-    "geom:longitude": 1.295257,
+    "geom:bbox": "1.295126,51.123196,1.295126,51.123196",
+    "geom:latitude": 51.123196,
+    "geom:longitude": 1.295126,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      101854657, 
       404227469, 
       1360698565, 
       85633159, 
       1360698811, 
-      404452329
+      404452329, 
+      101854657
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701394,
-    "wof:geomhash": "be856ea233f4e5a46c2097381efbd73c",
+    "wof:geomhash": "b98813d85b43616bc541b01b823643e7",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454227185,
-    "wof:lastmodified": 1595713381,
+    "wof:lastmodified": 1609879114,
     "wof:name": "CT17 9LN",
     "wof:parent_id": 101854657,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.295257, 
-    51.123228, 
-    1.295257, 
-    51.123228
+    1.295126, 
+    51.123196, 
+    1.295126, 
+    51.123196
   ],
-  "geometry": {"coordinates":[1.295257,51.123228],"type":"Point"}
+  "geometry": {"coordinates":[1.295126,51.123196],"type":"Point"}
 }

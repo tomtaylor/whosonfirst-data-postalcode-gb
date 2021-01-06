@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.154979,52.400351,0.154979,52.400351",
-    "geom:latitude": 52.400351,
-    "geom:longitude": 0.154979,
+    "geom:bbox": "0.156822,52.400155,0.156822,52.400155",
+    "geom:latitude": 52.400155,
+    "geom:longitude": 0.156822,
     "gp:parent_id": "40769",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1293812709, 
-      404227469, 
       1360698535, 
       85633159, 
       1360698845, 
-      404433899
+      404433899, 
+      1293812709, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701191,
-    "wof:geomhash": "98ef0af482f56546455ded4cd60dfecb",
+    "wof:geomhash": "3a6963f8f6fc9862f7d7bd2c2c5cd081",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454091879,
-    "wof:lastmodified": 1583786339,
+    "wof:lastmodified": 1609870437,
     "wof:name": "CB6 2LJ",
     "wof:parent_id": 404433899,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.154979, 
-    52.400351, 
-    0.154979, 
-    52.400351
+    0.156822, 
+    52.400155, 
+    0.156822, 
+    52.400155
   ],
-  "geometry": {"coordinates":[0.154979,52.400351],"type":"Point"}
+  "geometry": {"coordinates":[0.156822,52.400155],"type":"Point"}
 }

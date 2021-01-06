@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.877416,52.466252,-1.877416,52.466252",
-    "geom:latitude": 52.466252,
-    "geom:longitude": -1.877416,
+    "geom:bbox": "-1.877381,52.466357,-1.877381,52.466357",
+    "geom:latitude": 52.466357,
+    "geom:longitude": -1.877381,
     "gp:parent_id": "12723",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698605, 
-      85633159, 
-      1360699077, 
       101750467, 
       404227469, 
-      85786199
+      85786199, 
+      1360698605, 
+      85633159, 
+      1360699077
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701647,
-    "wof:geomhash": "b3d050aada39b561b9aa0551195fabad",
+    "wof:geomhash": "79b4b58c5d9bad890954dd5c84f3078f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 437956747,
-    "wof:lastmodified": 1583786809,
+    "wof:lastmodified": 1609897296,
     "wof:name": "B11 1AN",
     "wof:parent_id": 101750467,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.877416, 
-    52.466252, 
-    -1.877416, 
-    52.466252
+    -1.877381, 
+    52.466357, 
+    -1.877381, 
+    52.466357
   ],
-  "geometry": {"coordinates":[-1.877416,52.466252],"type":"Point"}
+  "geometry": {"coordinates":[-1.877381,52.466357],"type":"Point"}
 }

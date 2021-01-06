@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2008-03-01",
     "geom:area": 0,
-    "geom:bbox": "-2.949762,50.730735,-2.949762,50.730735",
-    "geom:latitude": 50.730735,
-    "geom:longitude": -2.949762,
+    "geom:bbox": "-2.949672,50.730483,-2.949672,50.730483",
+    "geom:latitude": 50.730483,
+    "geom:longitude": -2.949672,
     "gp:parent_id": "12695926",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698745, 
-      404447167, 
       101852333, 
       404227469, 
       1360698545, 
-      85633159
+      85633159, 
+      1360698745, 
+      404447167
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701311,
-    "wof:geomhash": "4380b6067700617b48d0b4c78e852d90",
+    "wof:geomhash": "c182dd2aaa4df47c6a61761feeb6ed1e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488292989,
-    "wof:lastmodified": 1583786502,
+    "wof:lastmodified": 1609884705,
     "wof:name": "DT7 3QN",
     "wof:parent_id": 404447167,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.949762, 
-    50.730735, 
-    -2.949762, 
-    50.730735
+    -2.949672, 
+    50.730483, 
+    -2.949672, 
+    50.730483
   ],
-  "geometry": {"coordinates":[-2.949762,50.730735],"type":"Point"}
+  "geometry": {"coordinates":[-2.949672,50.730483],"type":"Point"}
 }

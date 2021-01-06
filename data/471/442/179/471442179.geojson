@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1992-08-01",
     "geom:area": 0,
-    "geom:bbox": "-0.910944,50.850199,-0.910944,50.850199",
-    "geom:latitude": 50.850199,
-    "geom:longitude": -0.910944,
+    "geom:bbox": "-0.911031,50.850128,-0.911031,50.850128",
+    "geom:latitude": 50.850128,
+    "geom:longitude": -0.911031,
     "gp:parent_id": "19601",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698757, 
-      404448373, 
       1125767383, 
       404227469, 
       1360698607, 
-      85633159
+      85633159, 
+      1360698757, 
+      404448373
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701611,
-    "wof:geomhash": "02aee7cb5c86b9576640285349cf7949",
+    "wof:geomhash": "a4464cef922a25e6e81fd336da20e480",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471442179,
-    "wof:lastmodified": 1583786746,
+    "wof:lastmodified": 1609892269,
     "wof:name": "PO10 8NU",
     "wof:parent_id": 404448373,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.910944, 
-    50.850199, 
-    -0.910944, 
-    50.850199
+    -0.911031, 
+    50.850128, 
+    -0.911031, 
+    50.850128
   ],
-  "geometry": {"coordinates":[-0.910944,50.850199],"type":"Point"}
+  "geometry": {"coordinates":[-0.911031,50.850128],"type":"Point"}
 }

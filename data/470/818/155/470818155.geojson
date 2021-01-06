@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.669646,53.864492,-1.669646,53.864492",
-    "geom:latitude": 53.864492,
-    "geom:longitude": -1.669646,
+    "geom:bbox": "-1.669545,53.864461,-1.669545,53.864461",
+    "geom:latitude": 53.864461,
+    "geom:longitude": -1.669545,
     "gp:parent_id": "41355",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698749, 
+      101750579, 
       404227469, 
       85786761, 
       1360698609, 
-      85633159, 
-      1360698749, 
-      101750579
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701091,
-    "wof:geomhash": "3bc4fb907dd1324271d53fefafa9e88a",
+    "wof:geomhash": "12116e73ae1344a092e37509985e17b1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470818155,
-    "wof:lastmodified": 1583786346,
+    "wof:lastmodified": 1609868756,
     "wof:name": "LS19 7AR",
     "wof:parent_id": 404432293,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.669646, 
-    53.864492, 
-    -1.669646, 
-    53.864492
+    -1.669545, 
+    53.864461, 
+    -1.669545, 
+    53.864461
   ],
-  "geometry": {"coordinates":[-1.669646,53.864492],"type":"Point"}
+  "geometry": {"coordinates":[-1.669545,53.864461],"type":"Point"}
 }

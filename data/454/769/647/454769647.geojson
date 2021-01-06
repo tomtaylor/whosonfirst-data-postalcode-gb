@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.783035,51.617962,-0.783035,51.617962",
-    "geom:latitude": 51.617962,
-    "geom:longitude": -0.783035,
+    "geom:bbox": "-0.783038,51.617863,-0.783038,51.617863",
+    "geom:latitude": 51.617863,
+    "geom:longitude": -0.783038,
     "gp:parent_id": "12695881",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698997, 
-      101750425, 
       404227469, 
       1360698533, 
-      85633159
+      85633159, 
+      1360698997, 
+      101750425
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701713,
-    "wof:geomhash": "7febd37af7be7cfe92f221c367e66e4d",
+    "wof:geomhash": "81567d15a3b5c63cf563caa66f029048",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454769647,
-    "wof:lastmodified": 1595717098,
+    "wof:lastmodified": 1609901448,
     "wof:name": "HP12 4RQ",
     "wof:parent_id": 101750425,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.783035, 
-    51.617962, 
-    -0.783035, 
-    51.617962
+    -0.783038, 
+    51.617863, 
+    -0.783038, 
+    51.617863
   ],
-  "geometry": {"coordinates":[-0.783035,51.617962],"type":"Point"}
+  "geometry": {"coordinates":[-0.783038,51.617863],"type":"Point"}
 }

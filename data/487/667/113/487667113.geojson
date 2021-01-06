@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.503697,51.607637,0.503697,51.607637",
-    "geom:latitude": 51.607637,
-    "geom:longitude": 0.503697,
+    "geom:bbox": "0.503238,51.607434,0.503238,51.607434",
+    "geom:latitude": 51.607434,
+    "geom:longitude": 0.503238,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698979, 
-      1360817079, 
       101854703, 
       404227469, 
       1360698551, 
-      85633159
+      85633159, 
+      1360698979, 
+      1360817079
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701111,
-    "wof:geomhash": "b49077fbdb191a82bc1a558d713dbba0",
+    "wof:geomhash": "5c8a0f8621b9b22908cd762d9383984c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 487667113,
-    "wof:lastmodified": 1583786207,
+    "wof:lastmodified": 1609871618,
     "wof:name": "SS12 0HJ",
     "wof:parent_id": 404452851,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.503697, 
-    51.607637, 
-    0.503697, 
-    51.607637
+    0.503238, 
+    51.607434, 
+    0.503238, 
+    51.607434
   ],
-  "geometry": {"coordinates":[0.503697,51.607637],"type":"Point"}
+  "geometry": {"coordinates":[0.503238,51.607434],"type":"Point"}
 }

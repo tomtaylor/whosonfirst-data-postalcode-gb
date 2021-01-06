@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.354448,52.754932,0.354448,52.754932",
-    "geom:latitude": 52.754932,
-    "geom:longitude": 0.354448,
+    "geom:bbox": "0.354514,52.755070,0.354514,52.755070",
+    "geom:latitude": 52.75507,
+    "geom:longitude": 0.354514,
     "gp:parent_id": "16272",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698575, 
       85633159, 
       1360698955, 
       404437199, 
-      1126033971
+      1126033971, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701547,
-    "wof:geomhash": "ae9d1670d1992bd18e5b8612d3450f74",
+    "wof:geomhash": "787ff05bb5f06a140a0d9ef4efb26421",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471390607,
-    "wof:lastmodified": 1583786703,
+    "wof:lastmodified": 1609890299,
     "wof:name": "PE34 4DY",
     "wof:parent_id": 404437199,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.354448, 
-    52.754932, 
-    0.354448, 
-    52.754932
+    0.354514, 
+    52.75507, 
+    0.354514, 
+    52.75507
   ],
-  "geometry": {"coordinates":[0.354448,52.754932],"type":"Point"}
+  "geometry": {"coordinates":[0.354514,52.75507],"type":"Point"}
 }

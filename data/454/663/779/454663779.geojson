@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.177543,51.720986,-2.177543,51.720986",
-    "geom:latitude": 51.720986,
-    "geom:longitude": -2.177543,
+    "geom:bbox": "-2.175711,51.722715,-2.175711,51.722715",
+    "geom:latitude": 51.722715,
+    "geom:longitude": -2.175711,
     "gp:parent_id": "14261",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698927, 
-      404441945, 
       1125855001, 
       404227469, 
-      1360698553
+      1360698553, 
+      85633159, 
+      1360698927, 
+      404441945
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701691,
-    "wof:geomhash": "caf971224942a5d0e76ba5a34fadab4d",
+    "wof:geomhash": "d552a11cef637fe1031984f741a2e0db",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454663779,
-    "wof:lastmodified": 1595716660,
+    "wof:lastmodified": 1609899033,
     "wof:name": "GL6 8AL",
     "wof:parent_id": 404441945,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.177543, 
-    51.720986, 
-    -2.177543, 
-    51.720986
+    -2.175711, 
+    51.722715, 
+    -2.175711, 
+    51.722715
   ],
-  "geometry": {"coordinates":[-2.177543,51.720986],"type":"Point"}
+  "geometry": {"coordinates":[-2.175711,51.722715],"type":"Point"}
 }

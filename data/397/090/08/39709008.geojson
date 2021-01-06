@@ -2,7 +2,7 @@
   "id": 39709008,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-09-01",
     "edtf:inception": "2019-09-01",
     "geom:area": 0,
     "geom:bbox": "-4.074551,52.115766,-4.074551,52.115766",
@@ -10,7 +10,7 @@
     "geom:longitude": -4.074551,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "W92000004",
     "os:county_code": "W99999999",
     "os:district_code": "W06000008",
@@ -18,12 +18,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699113, 
-      404429299, 
-      101853093, 
       404227475, 
       1360698639, 
-      85633159
+      85633159, 
+      1360699113, 
+      404429299, 
+      101853093
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 39709008,
-    "wof:lastmodified": 1583804434,
+    "wof:lastmodified": 1609868585,
     "wof:name": "SA48 9BR",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1997-12-01",
     "geom:area": 0,
-    "geom:bbox": "-2.652490,51.570756,-2.652490,51.570756",
-    "geom:latitude": 51.570756,
-    "geom:longitude": -2.65249,
+    "geom:bbox": "-2.652445,51.570693,-2.652445,51.570693",
+    "geom:latitude": 51.570693,
+    "geom:longitude": -2.652445,
     "gp:parent_id": "32029",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      404437487, 
+      1360759683, 
       404227469, 
       1360698553, 
       85633159, 
-      1360698895, 
-      404437487, 
-      1360759683
+      1360698895
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701486,
-    "wof:geomhash": "f68756296425c3702eb5973a5b51026b",
+    "wof:geomhash": "090779b2cf19a3e185ee3eb0f18f969f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438298383,
-    "wof:lastmodified": 1583786623,
+    "wof:lastmodified": 1609884436,
     "wof:name": "BS35 4NA",
     "wof:parent_id": 404437487,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.65249, 
-    51.570756, 
-    -2.65249, 
-    51.570756
+    -2.652445, 
+    51.570693, 
+    -2.652445, 
+    51.570693
   ],
-  "geometry": {"coordinates":[-2.65249,51.570756],"type":"Point"}
+  "geometry": {"coordinates":[-2.652445,51.570693],"type":"Point"}
 }

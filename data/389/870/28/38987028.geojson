@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-05-01",
     "geom:area": 0,
-    "geom:bbox": "-0.145414,51.513661,-0.145414,51.513661",
-    "geom:latitude": 51.513661,
-    "geom:longitude": -0.145414,
+    "geom:bbox": "-0.144687,51.513820,-0.144687,51.513820",
+    "geom:latitude": 51.51382,
+    "geom:longitude": -0.144687,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,18 +18,18 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      85789041, 
+      1360698645, 
+      1158857245, 
       85633159, 
       101750367, 
       1158859031, 
-      404227469, 
-      85789041, 
-      1360698645, 
-      1158857245
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583796464,
-    "wof:geomhash": "44aafaf22bb7851118c8d999477fd639",
+    "wof:geomhash": "b443dfd464a525da88a47bedba9b2472",
     "wof:hierarchy": [
       {
         "borough_id": 1158857245,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 38987028,
-    "wof:lastmodified": 1583796464,
+    "wof:lastmodified": 1609868602,
     "wof:name": "W1S 1BR",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.145414, 
-    51.513661, 
-    -0.145414, 
-    51.513661
+    -0.144687, 
+    51.51382, 
+    -0.144687, 
+    51.51382
   ],
-  "geometry": {"coordinates":[-0.145414,51.513661],"type":"Point"}
+  "geometry": {"coordinates":[-0.144687,51.51382],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.257501,53.289313,-1.257501,53.289313",
-    "geom:latitude": 53.289313,
-    "geom:longitude": -1.257501,
+    "geom:bbox": "-1.257452,53.289555,-1.257452,53.289555",
+    "geom:latitude": 53.289555,
+    "geom:longitude": -1.257452,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698765, 
-      404434793, 
       101872083, 
       404227469, 
       1360698539, 
-      85633159
+      85633159, 
+      1360698765, 
+      404434793
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583802503,
-    "wof:geomhash": "9c6ca4dccb8befcce4f481c7deaff0f0",
+    "wof:geomhash": "5a05f7d3dcb8a713e3177744b9c7824d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1161067708,
-    "wof:lastmodified": 1595712210,
+    "wof:lastmodified": 1609876035,
     "wof:name": "S43 4TE",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.257501, 
-    53.289313, 
-    -1.257501, 
-    53.289313
+    -1.257452, 
+    53.289555, 
+    -1.257452, 
+    53.289555
   ],
-  "geometry": {"coordinates":[-1.257501,53.289313],"type":"Point"}
+  "geometry": {"coordinates":[-1.257452,53.289555],"type":"Point"}
 }

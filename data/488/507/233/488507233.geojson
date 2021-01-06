@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.316845,57.647721,-3.316845,57.647721",
-    "geom:latitude": 57.647721,
+    "geom:bbox": "-3.316845,57.647730,-3.316845,57.647730",
+    "geom:latitude": 57.64773,
     "geom:longitude": -3.316845,
     "gp:parent_id": "12696202",
     "iso:country": "GB",
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698869, 
       404446793, 
       404227471, 
-      1360698717, 
-      85633159, 
-      1360698869
+      1360698717
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701521,
-    "wof:geomhash": "018fe1b7f6cbaf0397da16b764d4bd75",
+    "wof:geomhash": "a93a80f5009c36171c56e2433e849f61",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488507233,
-    "wof:lastmodified": 1583786718,
+    "wof:lastmodified": 1609894801,
     "wof:name": "IV30 1BG",
     "wof:parent_id": 101873635,
     "wof:placetype": "postalcode",
@@ -53,9 +53,9 @@
   },
   "bbox": [
     -3.316845, 
-    57.647721, 
+    57.64773, 
     -3.316845, 
-    57.647721
+    57.64773
   ],
-  "geometry": {"coordinates":[-3.316845,57.647721],"type":"Point"}
+  "geometry": {"coordinates":[-3.316845,57.64773],"type":"Point"}
 }

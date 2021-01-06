@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.095343,51.555095,-0.095343,51.555095",
-    "geom:latitude": 51.555095,
-    "geom:longitude": -0.095343,
+    "geom:bbox": "-0.095649,51.555093,-0.095649,51.555093",
+    "geom:latitude": 51.555093,
+    "geom:longitude": -0.095649,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      101750367, 
       404227469, 
       85788173, 
       1360698645, 
       1158857275, 
-      85633159
+      85633159, 
+      101750367
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701109,
-    "wof:geomhash": "c7b16895201410d5d06839a4c1b74950",
+    "wof:geomhash": "494960ab9a4dd4910cfdb75f4291e0e6",
     "wof:hierarchy": [
       {
         "borough_id": 1158857275,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471022505,
-    "wof:lastmodified": 1583786228,
+    "wof:lastmodified": 1609869115,
     "wof:name": "N5 2QB",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.095343, 
-    51.555095, 
-    -0.095343, 
-    51.555095
+    -0.095649, 
+    51.555093, 
+    -0.095649, 
+    51.555093
   ],
-  "geometry": {"coordinates":[-0.095343,51.555095],"type":"Point"}
+  "geometry": {"coordinates":[-0.095649,51.555093],"type":"Point"}
 }

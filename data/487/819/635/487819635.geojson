@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.929383,55.706650,-1.929383,55.706650",
-    "geom:latitude": 55.70665,
-    "geom:longitude": -1.929383,
+    "geom:bbox": "-1.929220,55.706386,-1.929220,55.706386",
+    "geom:latitude": 55.706386,
+    "geom:longitude": -1.92922,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698769, 
       404431537, 
       1360756111, 
       404227469, 
-      1360698727
+      1360698727, 
+      85633159, 
+      1360698769
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701188,
-    "wof:geomhash": "2150a105fccd0b6fb536b2c06ba0931e",
+    "wof:geomhash": "85947b6df4e4e5fb0c38a18e296db8a2",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 487819635,
-    "wof:lastmodified": 1583786290,
+    "wof:lastmodified": 1609881650,
     "wof:name": "TD15 2RW",
     "wof:parent_id": 404431537,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.929383, 
-    55.70665, 
-    -1.929383, 
-    55.70665
+    -1.92922, 
+    55.706386, 
+    -1.92922, 
+    55.706386
   ],
-  "geometry": {"coordinates":[-1.929383,55.70665],"type":"Point"}
+  "geometry": {"coordinates":[-1.92922,55.706386],"type":"Point"}
 }

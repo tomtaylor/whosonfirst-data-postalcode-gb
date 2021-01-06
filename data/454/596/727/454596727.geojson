@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.219975,51.014280,-4.219975,51.014280",
-    "geom:latitude": 51.01428,
-    "geom:longitude": -4.219975,
+    "geom:bbox": "-4.219941,51.014232,-4.219941,51.014232",
+    "geom:latitude": 51.014232,
+    "geom:longitude": -4.219941,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      101852615, 
       404227469, 
       1360698541, 
       85633159, 
       1360699081, 
-      404429557, 
-      101852615
+      404429557
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701657,
-    "wof:geomhash": "58d0376303f60b8c9753d0ad734ca2a4",
+    "wof:geomhash": "823fe7e480cc83fb39292a2efd1c755d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454596727,
-    "wof:lastmodified": 1583786789,
+    "wof:lastmodified": 1609896407,
     "wof:name": "EX39 3EF",
     "wof:parent_id": 101852615,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.219975, 
-    51.01428, 
-    -4.219975, 
-    51.01428
+    -4.219941, 
+    51.014232, 
+    -4.219941, 
+    51.014232
   ],
-  "geometry": {"coordinates":[-4.219975,51.01428],"type":"Point"}
+  "geometry": {"coordinates":[-4.219941,51.014232],"type":"Point"}
 }

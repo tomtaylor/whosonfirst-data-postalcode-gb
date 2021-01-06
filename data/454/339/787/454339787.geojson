@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2003-03-01",
     "geom:area": 0,
-    "geom:bbox": "-1.490289,52.935156,-1.490289,52.935156",
-    "geom:latitude": 52.935156,
-    "geom:longitude": -1.490289,
+    "geom:bbox": "-1.490052,52.935038,-1.490052,52.935038",
+    "geom:latitude": 52.935038,
+    "geom:longitude": -1.490052,
     "gp:parent_id": "18114",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      101750489, 
       404227469, 
       1360698539, 
       85633159, 
-      1360699093, 
-      101750489
+      1360699093
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701500,
-    "wof:geomhash": "5ffb2c69a28633850e2e6142948fed0f",
+    "wof:geomhash": "fdee5eaa3915d7726e5e9541d732c0fa",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454339787,
-    "wof:lastmodified": 1583786629,
+    "wof:lastmodified": 1609884186,
     "wof:name": "DE22 1HY",
     "wof:parent_id": 101750489,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.490289, 
-    52.935156, 
-    -1.490289, 
-    52.935156
+    -1.490052, 
+    52.935038, 
+    -1.490052, 
+    52.935038
   ],
-  "geometry": {"coordinates":[-1.490289,52.935156],"type":"Point"}
+  "geometry": {"coordinates":[-1.490052,52.935038],"type":"Point"}
 }

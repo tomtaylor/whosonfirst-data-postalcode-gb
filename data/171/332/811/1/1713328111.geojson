@@ -3,11 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "uuuu",
-    "edtf:inception": "2020-02-01",
+    "edtf:inception": "2020-08-01",
     "geom:area": 0,
-    "geom:bbox": "-0.075978,51.005884,-0.075978,51.005884",
-    "geom:latitude": 51.005884,
-    "geom:longitude": -0.075978,
+    "geom:bbox": "-0.076736,51.005483,-0.076736,51.005483",
+    "geom:latitude": 51.005483,
+    "geom:longitude": -0.076736,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698757, 
       404438541, 
       1360754407, 
       404227469, 
-      1360698607
+      1360698607, 
+      85633159, 
+      1360698757
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735510,
-    "wof:geomhash": "432b6fc2c7804d3f31da1fb625f3bf54",
+    "wof:geomhash": "bc085bdadb61900bcbd4de9186ea87a0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1713328111,
-    "wof:lastmodified": 1595753354,
+    "wof:lastmodified": 1609875277,
     "wof:name": "RH16 2GJ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.075978, 
-    51.005884, 
-    -0.075978, 
-    51.005884
+    -0.076736, 
+    51.005483, 
+    -0.076736, 
+    51.005483
   ],
-  "geometry": {"coordinates":[-0.075978,51.005884],"type":"Point"}
+  "geometry": {"coordinates":[-0.076736,51.005483],"type":"Point"}
 }

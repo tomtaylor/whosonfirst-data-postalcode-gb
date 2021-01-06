@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.709276,55.655094,-4.709276,55.655094",
-    "geom:latitude": 55.655094,
-    "geom:longitude": -4.709276,
+    "geom:bbox": "-4.709598,55.656145,-4.709598,55.656145",
+    "geom:latitude": 55.656145,
+    "geom:longitude": -4.709598,
     "gp:parent_id": "12696203",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698855, 
       404441385, 
       404227471, 
-      1360698697, 
-      85633159, 
-      1360698855
+      1360698697
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701486,
-    "wof:geomhash": "2ac144b5869b93e4f6a91b6144f3e422",
+    "wof:geomhash": "41b76e2dd44f92b2db79ce617bacfc25",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488473931,
-    "wof:lastmodified": 1583786693,
+    "wof:lastmodified": 1609893255,
     "wof:name": "KA13 6NT",
     "wof:parent_id": 101872491,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.709276, 
-    55.655094, 
-    -4.709276, 
-    55.655094
+    -4.709598, 
+    55.656145, 
+    -4.709598, 
+    55.656145
   ],
-  "geometry": {"coordinates":[-4.709276,55.655094],"type":"Point"}
+  "geometry": {"coordinates":[-4.709598,55.656145],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1997-12-01",
     "geom:area": 0,
-    "geom:bbox": "-2.823630,51.385419,-2.823630,51.385419",
-    "geom:latitude": 51.385419,
-    "geom:longitude": -2.82363,
+    "geom:bbox": "-2.823849,51.385598,-2.823849,51.385598",
+    "geom:latitude": 51.385598,
+    "geom:longitude": -2.823849,
     "gp:parent_id": "41344",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      1277112083, 
+      404227469, 
       1360698589, 
       85633159, 
       1360699111, 
-      404446415, 
-      1277112083, 
-      404227469
+      404446415
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701174,
-    "wof:geomhash": "26dbdf1cc7982c305d78f0e7fa368768",
+    "wof:geomhash": "4e397028134b81a88d70df71286d0ff9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454037901,
-    "wof:lastmodified": 1583786180,
+    "wof:lastmodified": 1609868682,
     "wof:name": "BS49 4ET",
     "wof:parent_id": 101852679,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.82363, 
-    51.385419, 
-    -2.82363, 
-    51.385419
+    -2.823849, 
+    51.385598, 
+    -2.823849, 
+    51.385598
   ],
-  "geometry": {"coordinates":[-2.82363,51.385419],"type":"Point"}
+  "geometry": {"coordinates":[-2.823849,51.385598],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1993-08-01",
     "geom:area": 0,
-    "geom:bbox": "-1.800194,52.527132,-1.800194,52.527132",
-    "geom:latitude": 52.527132,
-    "geom:longitude": -1.800194,
+    "geom:bbox": "-1.800164,52.527248,-1.800164,52.527248",
+    "geom:latitude": 52.527248,
+    "geom:longitude": -1.800164,
     "gp:parent_id": "36679",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      85786311, 
-      1360698605, 
-      85633159, 
       1360699077, 
       101750467, 
-      404227469
+      404227469, 
+      85786311, 
+      1360698605, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701082,
-    "wof:geomhash": "66fbc721ee9ca8b9403d3f0a4922f5f9",
+    "wof:geomhash": "ae7e0d9586ad0cdc9710ab0046f738ce",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438025123,
-    "wof:lastmodified": 1595711999,
+    "wof:lastmodified": 1609869099,
     "wof:name": "B76 1EJ",
     "wof:parent_id": 101750467,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.800194, 
-    52.527132, 
-    -1.800194, 
-    52.527132
+    -1.800164, 
+    52.527248, 
+    -1.800164, 
+    52.527248
   ],
-  "geometry": {"coordinates":[-1.800194,52.527132],"type":"Point"}
+  "geometry": {"coordinates":[-1.800164,52.527248],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1998-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.080619,54.018887,-1.080619,54.018887",
-    "geom:latitude": 54.018887,
-    "geom:longitude": -1.080619,
+    "geom:bbox": "-1.080316,54.018768,-1.080316,54.018768",
+    "geom:latitude": 54.018768,
+    "geom:longitude": -1.080316,
     "gp:parent_id": "22751",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698619, 
       85633159, 
       1360698977, 
       404445521, 
-      1125965557
+      1125965557, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701216,
-    "wof:geomhash": "728bb05168c8f3c91228873168790ffe",
+    "wof:geomhash": "52d2e141471cb655446a479ca8392dbc",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488249969,
-    "wof:lastmodified": 1595731148,
+    "wof:lastmodified": 1609882402,
     "wof:name": "YO32 2ZB",
     "wof:parent_id": 404445521,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.080619, 
-    54.018887, 
-    -1.080619, 
-    54.018887
+    -1.080316, 
+    54.018768, 
+    -1.080316, 
+    54.018768
   ],
-  "geometry": {"coordinates":[-1.080619,54.018887],"type":"Point"}
+  "geometry": {"coordinates":[-1.080316,54.018768],"type":"Point"}
 }

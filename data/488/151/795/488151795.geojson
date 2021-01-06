@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1992-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.640409,53.540500,-2.640409,53.540500",
-    "geom:latitude": 53.5405,
-    "geom:longitude": -2.640409,
+    "geom:bbox": "-2.640257,53.540474,-2.640257,53.540474",
+    "geom:latitude": 53.540474,
+    "geom:longitude": -2.640257,
     "gp:parent_id": "40445",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698555, 
-      85633159, 
       1360699023, 
       1360817301, 
       1125871869, 
-      404227469
+      404227469, 
+      1360698555, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701279,
-    "wof:geomhash": "60d4dea73e56cd97c16960d151c3a399",
+    "wof:geomhash": "670fb98535027d57f270b0c56efe5494",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488151795,
-    "wof:lastmodified": 1583786212,
+    "wof:lastmodified": 1609877232,
     "wof:name": "WN3 5BE",
     "wof:parent_id": 101750563,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.640409, 
-    53.5405, 
-    -2.640409, 
-    53.5405
+    -2.640257, 
+    53.540474, 
+    -2.640257, 
+    53.540474
   ],
-  "geometry": {"coordinates":[-2.640409,53.5405],"type":"Point"}
+  "geometry": {"coordinates":[-2.640257,53.540474],"type":"Point"}
 }

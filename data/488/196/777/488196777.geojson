@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.950410,52.619544,-1.950410,52.619544",
-    "geom:latitude": 52.619544,
-    "geom:longitude": -1.95041,
+    "geom:bbox": "-1.950306,52.619508,-1.950306,52.619508",
+    "geom:latitude": 52.619508,
+    "geom:longitude": -1.950306,
     "gp:parent_id": "39052",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698605, 
-      85633159, 
       1360698875, 
       1125853123, 
-      404227469
+      404227469, 
+      1360698605, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701087,
-    "wof:geomhash": "55ab3f3696217af73d53c0d61c276cfa",
+    "wof:geomhash": "7d398d19200a12d4b023643af7282a22",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488196777,
-    "wof:lastmodified": 1583786336,
+    "wof:lastmodified": 1609879601,
     "wof:name": "WS4 1AJ",
     "wof:parent_id": 101914035,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.95041, 
-    52.619544, 
-    -1.95041, 
-    52.619544
+    -1.950306, 
+    52.619508, 
+    -1.950306, 
+    52.619508
   ],
-  "geometry": {"coordinates":[-1.95041,52.619544],"type":"Point"}
+  "geometry": {"coordinates":[-1.950306,52.619508],"type":"Point"}
 }

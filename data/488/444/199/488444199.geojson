@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.210754,55.870375,-4.210754,55.870375",
-    "geom:latitude": 55.870375,
-    "geom:longitude": -4.210754,
+    "geom:bbox": "-4.210641,55.870310,-4.210641,55.870310",
+    "geom:latitude": 55.87031,
+    "geom:longitude": -4.210641,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698707, 
+      85633159, 
+      1360698797, 
       404430153, 
       1175612707, 
       404227471, 
-      85785321, 
-      1360698707, 
-      85633159, 
-      1360698797
+      85785321
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701460,
-    "wof:geomhash": "ce6601422ac96a7dcf70396520540737",
+    "wof:geomhash": "6bd3e6ecfb3f5600a23e6ee012c7ef77",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 488444199,
-    "wof:lastmodified": 1583786669,
+    "wof:lastmodified": 1609892068,
     "wof:name": "G21 2RL",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.210754, 
-    55.870375, 
-    -4.210754, 
-    55.870375
+    -4.210641, 
+    55.87031, 
+    -4.210641, 
+    55.87031
   ],
-  "geometry": {"coordinates":[-4.210754,55.870375],"type":"Point"}
+  "geometry": {"coordinates":[-4.210641,55.87031],"type":"Point"}
 }

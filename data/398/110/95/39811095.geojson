@@ -5,30 +5,30 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.325191,52.063798,-1.325191,52.063798",
-    "geom:latitude": 52.063798,
-    "geom:longitude": -1.325191,
+    "geom:bbox": "-1.318199,52.058345,-1.318199,52.058345",
+    "geom:latitude": 52.058345,
+    "geom:longitude": -1.318199,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000025",
     "os:district_code": "E07000177",
-    "os:positional_quality_indicator": "5",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698585, 
-      85633159, 
       1360698839, 
       404436741, 
       101875471, 
-      404227469
+      404227469, 
+      1360698585, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583805644,
-    "wof:geomhash": "55fb93082c5a7c892ff1a130d39dd1ce",
+    "wof:geomhash": "f420e74467d8149ff619c51bc266d0a5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 39811095,
-    "wof:lastmodified": 1583805644,
+    "wof:lastmodified": 1609868631,
     "wof:name": "OX16 4AJ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.325191, 
-    52.063798, 
-    -1.325191, 
-    52.063798
+    -1.318199, 
+    52.058345, 
+    -1.318199, 
+    52.058345
   ],
-  "geometry": {"coordinates":[-1.325191,52.063798],"type":"Point"}
+  "geometry": {"coordinates":[-1.318199,52.058345],"type":"Point"}
 }

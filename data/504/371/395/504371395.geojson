@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.646654,55.898893,-3.646654,55.898893",
-    "geom:latitude": 55.898893,
-    "geom:longitude": -3.646654,
+    "geom:bbox": "-3.647300,55.900178,-3.647300,55.900178",
+    "geom:latitude": 55.900178,
+    "geom:longitude": -3.6473,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698679, 
+      85633159, 
       1360699027, 
       404447005, 
       101877115, 
-      404227471, 
-      1360698679, 
-      85633159
+      404227471
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701078,
-    "wof:geomhash": "d857cb1f4aa19e8e2138101254a5b6c5",
+    "wof:geomhash": "89d9fecbb99f3c5891c1e2faaacd9c7b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 504371395,
-    "wof:lastmodified": 1583786404,
+    "wof:lastmodified": 1609868753,
     "wof:name": "EH48 2RD",
     "wof:parent_id": 101877115,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.646654, 
-    55.898893, 
-    -3.646654, 
-    55.898893
+    -3.6473, 
+    55.900178, 
+    -3.6473, 
+    55.900178
   ],
-  "geometry": {"coordinates":[-3.646654,55.898893],"type":"Point"}
+  "geometry": {"coordinates":[-3.6473,55.900178],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.550476,52.283147,-1.550476,52.283147",
-    "geom:latitude": 52.283147,
-    "geom:longitude": -1.550476,
+    "geom:bbox": "-1.550300,52.283146,-1.550300,52.283146",
+    "geom:latitude": 52.283146,
+    "geom:longitude": -1.5503,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1125994457, 
-      404227469, 
       1360698603, 
       85633159, 
       1360698891, 
-      404441251
+      404441251, 
+      1125994457, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701425,
-    "wof:geomhash": "d3feefdaca4ec81f6fe8e54f6326e1bb",
+    "wof:geomhash": "c50cdfd060c79fee372249e48cb3c9f5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454265743,
-    "wof:lastmodified": 1583786554,
+    "wof:lastmodified": 1609880788,
     "wof:name": "CV31 3NY",
     "wof:parent_id": 101750473,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.550476, 
-    52.283147, 
-    -1.550476, 
-    52.283147
+    -1.5503, 
+    52.283146, 
+    -1.5503, 
+    52.283146
   ],
-  "geometry": {"coordinates":[-1.550476,52.283147],"type":"Point"}
+  "geometry": {"coordinates":[-1.5503,52.283146],"type":"Point"}
 }

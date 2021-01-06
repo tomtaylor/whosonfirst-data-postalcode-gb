@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-04-01",
     "geom:area": 0,
-    "geom:bbox": "-3.045646,55.832745,-3.045646,55.832745",
-    "geom:latitude": 55.832745,
-    "geom:longitude": -3.045646,
+    "geom:bbox": "-3.045004,55.832616,-3.045004,55.832616",
+    "geom:latitude": 55.832616,
+    "geom:longitude": -3.045004,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404436513, 
-      404227471, 
       1360698677, 
       85633159, 
-      1360698791
+      1360698791, 
+      404436513, 
+      404227471
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583795681,
-    "wof:geomhash": "a4631c9aba13319838b082a2c50ecb60",
+    "wof:geomhash": "e109a92ba733b4159ce10fdf7500d2d7",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 38916153,
-    "wof:lastmodified": 1595710941,
+    "wof:lastmodified": 1609868455,
     "wof:name": "EH23 4NG",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.045646, 
-    55.832745, 
-    -3.045646, 
-    55.832745
+    -3.045004, 
+    55.832616, 
+    -3.045004, 
+    55.832616
   ],
-  "geometry": {"coordinates":[-3.045646,55.832745],"type":"Point"}
+  "geometry": {"coordinates":[-3.045004,55.832616],"type":"Point"}
 }

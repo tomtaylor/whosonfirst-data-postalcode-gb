@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.387604,53.764469,-0.387604,53.764469",
-    "geom:latitude": 53.764469,
-    "geom:longitude": -0.387604,
+    "geom:bbox": "-0.386860,53.765046,-0.386860,53.765046",
+    "geom:latitude": 53.765046,
+    "geom:longitude": -0.38686,
     "gp:parent_id": "25211",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      101750561, 
-      404227469, 
       1360698547, 
       85633159, 
-      1360698951
+      1360698951, 
+      101750561, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701728,
-    "wof:geomhash": "fefddde39b86911c58b49dd00ef0b15b",
+    "wof:geomhash": "1b2975f4bb1c60b57eb1361d15cf16dd",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454823987,
-    "wof:lastmodified": 1583786865,
+    "wof:lastmodified": 1609902996,
     "wof:name": "HU5 4QH",
     "wof:parent_id": 101750561,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.387604, 
-    53.764469, 
-    -0.387604, 
-    53.764469
+    -0.38686, 
+    53.765046, 
+    -0.38686, 
+    53.765046
   ],
-  "geometry": {"coordinates":[-0.387604,53.764469],"type":"Point"}
+  "geometry": {"coordinates":[-0.38686,53.765046],"type":"Point"}
 }

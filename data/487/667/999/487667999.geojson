@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1993-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.508356,51.585782,0.508356,51.585782",
-    "geom:latitude": 51.585782,
-    "geom:longitude": 0.508356,
+    "geom:bbox": "0.508062,51.585684,0.508062,51.585684",
+    "geom:latitude": 51.585684,
+    "geom:longitude": 0.508062,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698979, 
       1360817079, 
       101750407, 
       404227469, 
-      1360698551
+      1360698551, 
+      85633159, 
+      1360698979
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701114,
-    "wof:geomhash": "8f864f9d9a19420383308b28a7a95afe",
+    "wof:geomhash": "7f7a9af2fc7c72ed5f170257acd18cc0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 487667999,
-    "wof:lastmodified": 1583786209,
+    "wof:lastmodified": 1609871670,
     "wof:name": "SS13 1EY",
     "wof:parent_id": 101750407,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.508356, 
-    51.585782, 
-    0.508356, 
-    51.585782
+    0.508062, 
+    51.585684, 
+    0.508062, 
+    51.585684
   ],
-  "geometry": {"coordinates":[0.508356,51.585782],"type":"Point"}
+  "geometry": {"coordinates":[0.508062,51.585684],"type":"Point"}
 }

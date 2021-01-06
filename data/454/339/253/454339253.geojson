@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2005-05-01",
     "geom:area": 0,
-    "geom:bbox": "-1.403392,52.911874,-1.403392,52.911874",
-    "geom:latitude": 52.911874,
-    "geom:longitude": -1.403392,
+    "geom:bbox": "-1.403888,52.912560,-1.403888,52.912560",
+    "geom:latitude": 52.91256,
+    "geom:longitude": -1.403888,
     "gp:parent_id": "35512",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698539, 
+      85633159, 
       1360699093, 
       101750489, 
-      404227469, 
-      1360698539, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701500,
-    "wof:geomhash": "7b22332b52d6689a22d32bb9b249b102",
+    "wof:geomhash": "1d680fc4e6ef75921e70aa711ba7590d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454339253,
-    "wof:lastmodified": 1583786627,
+    "wof:lastmodified": 1609884152,
     "wof:name": "DE21 7NJ",
     "wof:parent_id": 404435553,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.403392, 
-    52.911874, 
-    -1.403392, 
-    52.911874
+    -1.403888, 
+    52.91256, 
+    -1.403888, 
+    52.91256
   ],
-  "geometry": {"coordinates":[-1.403392,52.911874],"type":"Point"}
+  "geometry": {"coordinates":[-1.403888,52.91256],"type":"Point"}
 }

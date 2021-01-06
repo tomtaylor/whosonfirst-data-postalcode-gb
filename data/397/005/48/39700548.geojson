@@ -2,7 +2,7 @@
   "id": 39700548,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-10-01",
     "edtf:inception": "2016-08-01",
     "geom:area": 0,
     "geom:bbox": "-2.802899,56.332651,-2.802899,56.332651",
@@ -10,7 +10,7 @@
     "geom:longitude": -2.802899,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "S92000003",
     "os:county_code": "S99999999",
     "os:district_code": "S12000047",
@@ -18,11 +18,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360699123, 
+      404444217, 
       404227471, 
       1360698659, 
-      85633159, 
-      1360699123, 
-      404444217
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 39700548,
-    "wof:lastmodified": 1583804347,
+    "wof:lastmodified": 1609868559,
     "wof:name": "KY16 6AW",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.519266,50.682744,-1.519266,50.682744",
-    "geom:latitude": 50.682744,
-    "geom:longitude": -1.519266,
+    "geom:bbox": "-1.519041,50.682618,-1.519041,50.682618",
+    "geom:latitude": 50.682618,
+    "geom:longitude": -1.519041,
     "gp:parent_id": "20620",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699089, 
-      404431233, 
       1125873697, 
       404227469, 
-      1360698563
+      1360698563, 
+      85633159, 
+      1360699089, 
+      404431233
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701637,
-    "wof:geomhash": "cdb98a822491d058b04961fcddd8df04",
+    "wof:geomhash": "ae48deebd06c11d3057f9aafa2e0efb6",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471479953,
-    "wof:lastmodified": 1583786761,
+    "wof:lastmodified": 1609893603,
     "wof:name": "PO40 9AZ",
     "wof:parent_id": 404431233,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.519266, 
-    50.682744, 
-    -1.519266, 
-    50.682744
+    -1.519041, 
+    50.682618, 
+    -1.519041, 
+    50.682618
   ],
-  "geometry": {"coordinates":[-1.519266,50.682744],"type":"Point"}
+  "geometry": {"coordinates":[-1.519041,50.682618],"type":"Point"}
 }

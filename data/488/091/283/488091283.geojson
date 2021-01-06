@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1992-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.725077,53.458329,-2.725077,53.458329",
-    "geom:latitude": 53.458329,
-    "geom:longitude": -2.725077,
+    "geom:bbox": "-2.725033,53.458410,-2.725033,53.458410",
+    "geom:latitude": 53.45841,
+    "geom:longitude": -2.725033,
     "gp:parent_id": "31466",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      101750559, 
       404227469, 
       1360698573, 
       85633159, 
-      1360698793
+      1360698793, 
+      101750559
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701240,
-    "wof:geomhash": "2008fcb5997a216a55811637277806ed",
+    "wof:geomhash": "6a33df34501ebdc9395303473e0391f3",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488091283,
-    "wof:lastmodified": 1583786403,
+    "wof:lastmodified": 1609872330,
     "wof:name": "WA9 1UA",
     "wof:parent_id": 101750559,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.725077, 
-    53.458329, 
-    -2.725077, 
-    53.458329
+    -2.725033, 
+    53.45841, 
+    -2.725033, 
+    53.45841
   ],
-  "geometry": {"coordinates":[-2.725077,53.458329],"type":"Point"}
+  "geometry": {"coordinates":[-2.725033,53.45841],"type":"Point"}
 }

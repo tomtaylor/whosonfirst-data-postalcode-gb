@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "-1.617475,54.701800,-1.617475,54.701800",
-    "geom:latitude": 54.7018,
-    "geom:longitude": -1.617475,
+    "geom:bbox": "-1.617137,54.701403,-1.617137,54.701403",
+    "geom:latitude": 54.701403,
+    "geom:longitude": -1.617137,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699055, 
-      404440993, 
       101878321, 
       404227469, 
-      1360698621
+      1360698621, 
+      85633159, 
+      1360699055, 
+      404440993
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583801297,
-    "wof:geomhash": "d097d8d65f64324bc4f30716fbb569da",
+    "wof:geomhash": "9e132301de9514c39aa014ddcb661c64",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 39423186,
-    "wof:lastmodified": 1595711200,
+    "wof:lastmodified": 1609868462,
     "wof:name": "DL16 7FP",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.617475, 
-    54.7018, 
-    -1.617475, 
-    54.7018
+    -1.617137, 
+    54.701403, 
+    -1.617137, 
+    54.701403
   ],
-  "geometry": {"coordinates":[-1.617475,54.7018],"type":"Point"}
+  "geometry": {"coordinates":[-1.617137,54.701403],"type":"Point"}
 }

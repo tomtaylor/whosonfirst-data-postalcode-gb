@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.547202,54.640583,-3.547202,54.640583",
-    "geom:latitude": 54.640583,
-    "geom:longitude": -3.547202,
+    "geom:bbox": "-3.547193,54.640771,-3.547193,54.640771",
+    "geom:latitude": 54.640771,
+    "geom:longitude": -3.547193,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      101872353, 
+      404227469, 
       1360698721, 
       85633159, 
       1360698877, 
-      404433473, 
-      101872353, 
-      404227469
+      404433473
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701104,
-    "wof:geomhash": "87162f81fccb93fcb118ec9605a42022",
+    "wof:geomhash": "fe53d7ce0cdf52f61979fde7a5da200d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454057477,
-    "wof:lastmodified": 1583786239,
+    "wof:lastmodified": 1609869111,
     "wof:name": "CA14 3DG",
     "wof:parent_id": 101872353,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.547202, 
-    54.640583, 
-    -3.547202, 
-    54.640583
+    -3.547193, 
+    54.640771, 
+    -3.547193, 
+    54.640771
   ],
-  "geometry": {"coordinates":[-3.547202,54.640583],"type":"Point"}
+  "geometry": {"coordinates":[-3.547193,54.640771],"type":"Point"}
 }

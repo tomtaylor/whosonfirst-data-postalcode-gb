@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.162219,51.431237,-0.162219,51.431237",
-    "geom:latitude": 51.431237,
-    "geom:longitude": -0.162219,
+    "geom:bbox": "-0.162177,51.431210,-0.162177,51.431210",
+    "geom:latitude": 51.43121,
+    "geom:longitude": -0.162177,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698645, 
       1158857251, 
       85633159, 
       101750367, 
       404227469, 
-      85791077
+      85791077, 
+      1360698645
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701146,
-    "wof:geomhash": "25000794b04f3afd10b9899a481871fa",
+    "wof:geomhash": "74de188134f18355055f79107d232152",
     "wof:hierarchy": [
       {
         "borough_id": 1158857251,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487741525,
-    "wof:lastmodified": 1583786246,
+    "wof:lastmodified": 1609877352,
     "wof:name": "SW17 8NA",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.162219, 
-    51.431237, 
-    -0.162219, 
-    51.431237
+    -0.162177, 
+    51.43121, 
+    -0.162177, 
+    51.43121
   ],
-  "geometry": {"coordinates":[-0.162219,51.431237],"type":"Point"}
+  "geometry": {"coordinates":[-0.162177,51.43121],"type":"Point"}
 }

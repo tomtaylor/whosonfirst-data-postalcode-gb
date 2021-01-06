@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.205856,50.595255,-1.205856,50.595255",
-    "geom:latitude": 50.595255,
-    "geom:longitude": -1.205856,
+    "geom:bbox": "-1.205719,50.595020,-1.205719,50.595020",
+    "geom:latitude": 50.59502,
+    "geom:longitude": -1.205719,
     "gp:parent_id": "38871",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698563, 
-      85633159, 
       1360699089, 
       404441445, 
       101852321, 
-      404227469
+      404227469, 
+      1360698563, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701638,
-    "wof:geomhash": "687f2ae01a82303e8a958178ab3add86",
+    "wof:geomhash": "5cfd04d32df3e38a4f2010cef8c78b61",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471477113,
-    "wof:lastmodified": 1583786758,
+    "wof:lastmodified": 1609893268,
     "wof:name": "PO38 1RY",
     "wof:parent_id": 101852321,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.205856, 
-    50.595255, 
-    -1.205856, 
-    50.595255
+    -1.205719, 
+    50.59502, 
+    -1.205719, 
+    50.59502
   ],
-  "geometry": {"coordinates":[-1.205856,50.595255],"type":"Point"}
+  "geometry": {"coordinates":[-1.205719,50.59502],"type":"Point"}
 }

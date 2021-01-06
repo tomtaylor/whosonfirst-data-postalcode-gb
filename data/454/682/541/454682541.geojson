@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1992-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.796733,51.332138,-0.796733,51.332138",
-    "geom:latitude": 51.332138,
-    "geom:longitude": -0.796733,
+    "geom:bbox": "-0.796547,51.332127,-0.796547,51.332127",
+    "geom:latitude": 51.332127,
+    "geom:longitude": -0.796547,
     "gp:parent_id": "20685",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698827, 
       404433043, 
       101875417, 
       404227469, 
-      1360698557
+      1360698557, 
+      85633159, 
+      1360698827
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701697,
-    "wof:geomhash": "f2373f762e2197a5f5338fe6ab49885b",
+    "wof:geomhash": "5e2ab2a8fab883f87ebe1cb128087de1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454682541,
-    "wof:lastmodified": 1583786831,
+    "wof:lastmodified": 1609899568,
     "wof:name": "GU17 0NX",
     "wof:parent_id": 404433043,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.796733, 
-    51.332138, 
-    -0.796733, 
-    51.332138
+    -0.796547, 
+    51.332127, 
+    -0.796547, 
+    51.332127
   ],
-  "geometry": {"coordinates":[-0.796733,51.332138],"type":"Point"}
+  "geometry": {"coordinates":[-0.796547,51.332127],"type":"Point"}
 }

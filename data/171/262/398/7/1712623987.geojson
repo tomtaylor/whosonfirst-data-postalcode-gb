@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-07-01",
     "geom:area": 0,
-    "geom:bbox": "-1.260812,54.538262,-1.260812,54.538262",
-    "geom:latitude": 54.538262,
-    "geom:longitude": -1.260812,
+    "geom:bbox": "-1.260840,54.538388,-1.260840,54.538388",
+    "geom:latitude": 54.538388,
+    "geom:longitude": -1.26084,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360698853, 
       101750599, 
       404227469, 
-      1360698619, 
-      85633159
+      1360698619
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583796308,
-    "wof:geomhash": "0d331435e2b6705fd28d96c68ccb43c5",
+    "wof:geomhash": "4a6475a114840f9a8120e8fb9f7b838a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1712623987,
-    "wof:lastmodified": 1583796308,
+    "wof:lastmodified": 1609871624,
     "wof:name": "TS5 8BF",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.260812, 
-    54.538262, 
-    -1.260812, 
-    54.538262
+    -1.26084, 
+    54.538388, 
+    -1.26084, 
+    54.538388
   ],
-  "geometry": {"coordinates":[-1.260812,54.538262],"type":"Point"}
+  "geometry": {"coordinates":[-1.26084,54.538388],"type":"Point"}
 }

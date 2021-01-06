@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "0.082904,51.606392,0.082904,51.606392",
-    "geom:latitude": 51.606392,
-    "geom:longitude": 0.082904,
+    "geom:bbox": "0.082931,51.606347,0.082931,51.606347",
+    "geom:latitude": 51.606347,
+    "geom:longitude": 0.082931,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,13 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       101750367, 
       404227469, 
       85787827, 
       1360698645, 
-      1158857291, 
-      85633159, 
-      404455355
+      1158857291
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,12 +32,11 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701732,
-    "wof:geomhash": "5f3224cc968d19f218a9fe3a00e6d01d",
+    "wof:geomhash": "29d209a599739cbcbaf6d81a34524dab",
     "wof:hierarchy": [
       {
         "borough_id": 1158857291,
         "country_id": 85633159,
-        "localadmin_id": 404455355,
         "locality_id": 101750367,
         "macroregion_id": 404227469,
         "neighbourhood_id": 85787827,
@@ -46,7 +44,7 @@
       }
     ],
     "wof:id": 454853035,
-    "wof:lastmodified": 1583786868,
+    "wof:lastmodified": 1609903476,
     "wof:name": "IG6 2TF",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -56,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.082904, 
-    51.606392, 
-    0.082904, 
-    51.606392
+    0.082931, 
+    51.606347, 
+    0.082931, 
+    51.606347
   ],
-  "geometry": {"coordinates":[0.082904,51.606392],"type":"Point"}
+  "geometry": {"coordinates":[0.082931,51.606347],"type":"Point"}
 }

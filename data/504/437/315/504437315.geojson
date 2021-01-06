@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1998-12-01",
     "geom:area": 0,
-    "geom:bbox": "-4.247932,57.448900,-4.247932,57.448900",
-    "geom:latitude": 57.4489,
-    "geom:longitude": -4.247932,
+    "geom:bbox": "-4.247411,57.448857,-4.247411,57.448857",
+    "geom:latitude": 57.448857,
+    "geom:longitude": -4.247411,
     "gp:parent_id": "12696199",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404436073, 
-      404227471, 
       1360698661, 
       85633159, 
-      1360699045
+      1360699045, 
+      404436073, 
+      404227471
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701266,
-    "wof:geomhash": "c7273357f6ab903cf1e41a99038184ca",
+    "wof:geomhash": "8eedcab78a0eb245122ecc42c051f26e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504437315,
-    "wof:lastmodified": 1583786422,
+    "wof:lastmodified": 1609871245,
     "wof:name": "IV2 6WT",
     "wof:parent_id": 404436073,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.247932, 
-    57.4489, 
-    -4.247932, 
-    57.4489
+    -4.247411, 
+    57.448857, 
+    -4.247411, 
+    57.448857
   ],
-  "geometry": {"coordinates":[-4.247932,57.4489],"type":"Point"}
+  "geometry": {"coordinates":[-4.247411,57.448857],"type":"Point"}
 }

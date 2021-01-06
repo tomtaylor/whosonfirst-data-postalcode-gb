@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2000-06-01",
     "geom:area": 0,
-    "geom:bbox": "-3.387286,54.861849,-3.387286,54.861849",
-    "geom:latitude": 54.861849,
-    "geom:longitude": -3.387286,
+    "geom:bbox": "-3.387257,54.861892,-3.387257,54.861892",
+    "geom:latitude": 54.861892,
+    "geom:longitude": -3.387257,
     "gp:parent_id": "21826",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698877, 
       404447277, 
       1360755051, 
       404227469, 
-      1360698721
+      1360698721, 
+      85633159, 
+      1360698877
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701149,
-    "wof:geomhash": "cee4303ad11f4e09db154ca2607a49d9",
+    "wof:geomhash": "1d839f374b024373ec8ec2394379e09b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454073163,
-    "wof:lastmodified": 1583786293,
+    "wof:lastmodified": 1609869634,
     "wof:name": "CA7 4HU",
     "wof:parent_id": 101872347,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.387286, 
-    54.861849, 
-    -3.387286, 
-    54.861849
+    -3.387257, 
+    54.861892, 
+    -3.387257, 
+    54.861892
   ],
-  "geometry": {"coordinates":[-3.387286,54.861849],"type":"Point"}
+  "geometry": {"coordinates":[-3.387257,54.861892],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-08-01",
     "geom:area": 0,
-    "geom:bbox": "-1.794151,50.937712,-1.794151,50.937712",
-    "geom:latitude": 50.937712,
-    "geom:longitude": -1.794151,
+    "geom:bbox": "-1.794149,50.937982,-1.794149,50.937982",
+    "geom:latitude": 50.937982,
+    "geom:longitude": -1.794149,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698557, 
-      85633159, 
-      1360698827, 
       404440277, 
       101852465, 
-      404227469
+      404227469, 
+      1360698557, 
+      85633159, 
+      1360698827
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583796018,
-    "wof:geomhash": "3631ea703cea5d8f72712b37e4b2708d",
+    "wof:geomhash": "c7ed602696d99a30de3af9ab7c69871a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712617507,
-    "wof:lastmodified": 1595711519,
+    "wof:lastmodified": 1609871569,
     "wof:name": "SP6 1FN",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.794151, 
-    50.937712, 
-    -1.794151, 
-    50.937712
+    -1.794149, 
+    50.937982, 
+    -1.794149, 
+    50.937982
   ],
-  "geometry": {"coordinates":[-1.794151,50.937712],"type":"Point"}
+  "geometry": {"coordinates":[-1.794149,50.937982],"type":"Point"}
 }

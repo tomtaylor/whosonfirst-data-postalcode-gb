@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.834426,54.519485,-0.834426,54.519485",
-    "geom:latitude": 54.519485,
-    "geom:longitude": -0.834426,
+    "geom:bbox": "-0.835938,54.522267,-0.835938,54.522267",
+    "geom:latitude": 54.522267,
+    "geom:longitude": -0.835938,
     "gp:parent_id": "18876",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698753, 
-      404429369, 
-      1343993309, 
       404227469, 
       1360698619, 
-      85633159
+      85633159, 
+      1360698753, 
+      404429369, 
+      1343993309
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701273,
-    "wof:geomhash": "9269cc9b6d1752eaa9c9e4300faf5fea",
+    "wof:geomhash": "ef2c90b3197b7fe506d928f96cfef827",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487937639,
-    "wof:lastmodified": 1595726047,
+    "wof:lastmodified": 1609887467,
     "wof:name": "TS13 4TX",
     "wof:parent_id": 404429369,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.834426, 
-    54.519485, 
-    -0.834426, 
-    54.519485
+    -0.835938, 
+    54.522267, 
+    -0.835938, 
+    54.522267
   ],
-  "geometry": {"coordinates":[-0.834426,54.519485],"type":"Point"}
+  "geometry": {"coordinates":[-0.835938,54.522267],"type":"Point"}
 }

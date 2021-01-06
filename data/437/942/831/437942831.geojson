@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.301556,51.725928,-0.301556,51.725928",
-    "geom:latitude": 51.725928,
-    "geom:longitude": -0.301556,
+    "geom:bbox": "-0.301476,51.725915,-0.301476,51.725915",
+    "geom:latitude": 51.725915,
+    "geom:longitude": -0.301476,
     "gp:parent_id": "27309",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698559, 
-      85633159, 
       1360698763, 
       404446973, 
-      1125937947
+      1125937947, 
+      404227469, 
+      1360698559, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701644,
-    "wof:geomhash": "45d3427ef5041e2b1e611da915077a4c",
+    "wof:geomhash": "cd7cd4a4c302a68ce84898d47996515b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 437942831,
-    "wof:lastmodified": 1583786808,
+    "wof:lastmodified": 1609896509,
     "wof:name": "AL2 1NJ",
     "wof:parent_id": 404446973,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.301556, 
-    51.725928, 
-    -0.301556, 
-    51.725928
+    -0.301476, 
+    51.725915, 
+    -0.301476, 
+    51.725915
   ],
-  "geometry": {"coordinates":[-0.301556,51.725928],"type":"Point"}
+  "geometry": {"coordinates":[-0.301476,51.725915],"type":"Point"}
 }

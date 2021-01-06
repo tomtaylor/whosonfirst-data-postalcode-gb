@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.750951,53.826944,-1.750951,53.826944",
-    "geom:latitude": 53.826944,
-    "geom:longitude": -1.750951,
+    "geom:bbox": "-1.750981,53.827025,-1.750981,53.827025",
+    "geom:latitude": 53.827025,
+    "geom:longitude": -1.750981,
     "gp:parent_id": "34649",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360758305, 
-      404227469, 
       1360698609, 
       85633159, 
       1360698963, 
-      404452577
+      404452577, 
+      1360758305, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701312,
-    "wof:geomhash": "b3e50a561dec8845d968b0853b625e73",
+    "wof:geomhash": "5a6f135a164389b94be75bd2ee2e006b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438118095,
-    "wof:lastmodified": 1583786436,
+    "wof:lastmodified": 1609874096,
     "wof:name": "BD18 1PU",
     "wof:parent_id": 101750581,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.750951, 
-    53.826944, 
-    -1.750951, 
-    53.826944
+    -1.750981, 
+    53.827025, 
+    -1.750981, 
+    53.827025
   ],
-  "geometry": {"coordinates":[-1.750951,53.826944],"type":"Point"}
+  "geometry": {"coordinates":[-1.750981,53.827025],"type":"Point"}
 }

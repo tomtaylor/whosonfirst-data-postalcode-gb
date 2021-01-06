@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.359966,52.546134,0.359966,52.546134",
-    "geom:latitude": 52.546134,
-    "geom:longitude": 0.359966,
+    "geom:bbox": "0.359021,52.545767,0.359021,52.545767",
+    "geom:latitude": 52.545767,
+    "geom:longitude": 0.359021,
     "gp:parent_id": "37106",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698955, 
-      404449027, 
       1126028253, 
       404227469, 
-      1360698575
+      1360698575, 
+      85633159, 
+      1360698955, 
+      404449027
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701549,
-    "wof:geomhash": "bda0c5c4f81da53396582f4395409e4e",
+    "wof:geomhash": "1ab9f23b16c38861b6268ff0a501477d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471392605,
-    "wof:lastmodified": 1583786707,
+    "wof:lastmodified": 1609890441,
     "wof:name": "PE38 0EP",
     "wof:parent_id": 404449027,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.359966, 
-    52.546134, 
-    0.359966, 
-    52.546134
+    0.359021, 
+    52.545767, 
+    0.359021, 
+    52.545767
   ],
-  "geometry": {"coordinates":[0.359966,52.546134],"type":"Point"}
+  "geometry": {"coordinates":[0.359021,52.545767],"type":"Point"}
 }

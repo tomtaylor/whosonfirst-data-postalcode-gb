@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.787074,53.411473,-2.787074,53.411473",
-    "geom:latitude": 53.411473,
-    "geom:longitude": -2.787074,
+    "geom:bbox": "-2.787525,53.411443,-2.787525,53.411443",
+    "geom:latitude": 53.411443,
+    "geom:longitude": -2.787525,
     "gp:parent_id": "40181",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698941, 
       404451065, 
       1125889783, 
       404227469, 
       85788399, 
       1360698573, 
-      85633159
+      85633159, 
+      1360698941
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701764,
-    "wof:geomhash": "8a50dc91901b50337096f5e0d3851855",
+    "wof:geomhash": "6a65585009f28540c34c9c70846d2d68",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 454961851,
-    "wof:lastmodified": 1583786899,
+    "wof:lastmodified": 1609905338,
     "wof:name": "L35 3TE",
     "wof:parent_id": 101913937,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.787074, 
-    53.411473, 
-    -2.787074, 
-    53.411473
+    -2.787525, 
+    53.411443, 
+    -2.787525, 
+    53.411443
   ],
-  "geometry": {"coordinates":[-2.787074,53.411473],"type":"Point"}
+  "geometry": {"coordinates":[-2.787525,53.411443],"type":"Point"}
 }

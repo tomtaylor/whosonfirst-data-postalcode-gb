@@ -6,9 +6,9 @@
     "edtf:inception": "2000-12-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.140670,51.508433,-0.140670,51.508433",
-    "geom:latitude": 51.508433,
-    "geom:longitude": -0.14067,
+    "geom:bbox": "-0.140695,51.508523,-0.140695,51.508523",
+    "geom:latitude": 51.508523,
+    "geom:longitude": -0.140695,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      1158859031, 
+      404227469, 
+      85789041, 
       1360698645, 
       1158857245, 
       85633159, 
-      101750367, 
-      1158859031, 
-      404227469, 
-      85789041
+      101750367
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701203,
-    "wof:geomhash": "212cb72b982147c0cae144c67470a045",
+    "wof:geomhash": "7df2c0efef47ab537b593a8193164dee",
     "wof:hierarchy": [
       {
         "borough_id": 1158857245,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 488031905,
-    "wof:lastmodified": 1595727115,
+    "wof:lastmodified": 1609869385,
     "wof:name": "W1S 4QR",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.14067, 
-    51.508433, 
-    -0.14067, 
-    51.508433
+    -0.140695, 
+    51.508523, 
+    -0.140695, 
+    51.508523
   ],
-  "geometry": {"coordinates":[-0.14067,51.508433],"type":"Point"}
+  "geometry": {"coordinates":[-0.140695,51.508523],"type":"Point"}
 }

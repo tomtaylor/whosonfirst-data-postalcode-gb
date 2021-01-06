@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1999-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.674886,51.634577,-2.674886,51.634577",
-    "geom:latitude": 51.634577,
-    "geom:longitude": -2.674886,
+    "geom:bbox": "-2.674805,51.634606,-2.674805,51.634606",
+    "geom:latitude": 51.634606,
+    "geom:longitude": -2.674805,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360699109, 
       404429451, 
       101852889, 
       404227475, 
-      1360698641, 
-      85633159, 
-      1360699109
+      1360698641
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701477,
-    "wof:geomhash": "29c247634dccd2131220cc1376e0bc00",
+    "wof:geomhash": "3fb78c4096c5bb822fd204ecb5be9773",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 488461285,
-    "wof:lastmodified": 1583786685,
+    "wof:lastmodified": 1609892788,
     "wof:name": "NP16 5LD",
     "wof:parent_id": 101852889,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.674886, 
-    51.634577, 
-    -2.674886, 
-    51.634577
+    -2.674805, 
+    51.634606, 
+    -2.674805, 
+    51.634606
   ],
-  "geometry": {"coordinates":[-2.674886,51.634577],"type":"Point"}
+  "geometry": {"coordinates":[-2.674805,51.634606],"type":"Point"}
 }

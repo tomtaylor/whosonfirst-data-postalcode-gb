@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.087436,52.974456,-3.087436,52.974456",
-    "geom:latitude": 52.974456,
-    "geom:longitude": -3.087436,
+    "geom:bbox": "-3.087495,52.974506,-3.087495,52.974506",
+    "geom:latitude": 52.974506,
+    "geom:longitude": -3.087495,
     "gp:parent_id": "38194",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698743, 
-      404451109, 
       1360711765, 
       404227475, 
       1360698637, 
-      85633159
+      85633159, 
+      1360698743, 
+      404451109
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701373,
-    "wof:geomhash": "9031a814eee8f266209f19b8febce62c",
+    "wof:geomhash": "25f06ba778dabde9826692e29de219c6",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504493621,
-    "wof:lastmodified": 1583786493,
+    "wof:lastmodified": 1609875278,
     "wof:name": "LL20 7TP",
     "wof:parent_id": 404451109,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.087436, 
-    52.974456, 
-    -3.087436, 
-    52.974456
+    -3.087495, 
+    52.974506, 
+    -3.087495, 
+    52.974506
   ],
-  "geometry": {"coordinates":[-3.087436,52.974456],"type":"Point"}
+  "geometry": {"coordinates":[-3.087495,52.974506],"type":"Point"}
 }

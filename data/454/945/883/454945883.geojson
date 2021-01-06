@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1998-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.998211,53.459244,-2.998211,53.459244",
-    "geom:latitude": 53.459244,
-    "geom:longitude": -2.998211,
+    "geom:bbox": "-2.998091,53.459272,-2.998091,53.459272",
+    "geom:latitude": 53.459272,
+    "geom:longitude": -2.998091,
     "gp:parent_id": "13250",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1126041051, 
-      404227469, 
-      85790225, 
       1360698573, 
       85633159, 
       1360698771, 
-      1360817501
+      1360817501, 
+      1126041051, 
+      404227469, 
+      85790225
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701761,
-    "wof:geomhash": "87e016090e2819abf304528a44266795",
+    "wof:geomhash": "df98f21cf3a4a8f6df981ffd309d994e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 454945883,
-    "wof:lastmodified": 1583786896,
+    "wof:lastmodified": 1609905293,
     "wof:name": "L20 5DD",
     "wof:parent_id": 101913935,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.998211, 
-    53.459244, 
-    -2.998211, 
-    53.459244
+    -2.998091, 
+    53.459272, 
+    -2.998091, 
+    53.459272
   ],
-  "geometry": {"coordinates":[-2.998211,53.459244],"type":"Point"}
+  "geometry": {"coordinates":[-2.998091,53.459272],"type":"Point"}
 }

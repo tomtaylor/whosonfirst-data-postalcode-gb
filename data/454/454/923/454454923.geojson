@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.179123,53.636174,-1.179123,53.636174",
-    "geom:latitude": 53.636174,
-    "geom:longitude": -1.179123,
+    "geom:bbox": "-1.179334,53.636194,-1.179334,53.636194",
+    "geom:latitude": 53.636194,
+    "geom:longitude": -1.179334,
     "gp:parent_id": "30668",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      1125845313, 
+      404227469, 
       1360698591, 
       85633159, 
       1360698973, 
-      404443801, 
-      1125845313, 
-      404227469
+      404443801
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701575,
-    "wof:geomhash": "62fb39cc25615e87bdead69d36135ac9",
+    "wof:geomhash": "dc108a2abe97a4f351b5e862dfd71509",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454454923,
-    "wof:lastmodified": 1583786710,
+    "wof:lastmodified": 1609890159,
     "wof:name": "DN6 9BX",
     "wof:parent_id": 404443801,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.179123, 
-    53.636174, 
-    -1.179123, 
-    53.636174
+    -1.179334, 
+    53.636194, 
+    -1.179334, 
+    53.636194
   ],
-  "geometry": {"coordinates":[-1.179123,53.636174],"type":"Point"}
+  "geometry": {"coordinates":[-1.179334,53.636194],"type":"Point"}
 }

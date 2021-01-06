@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-12-01",
     "geom:area": 0,
-    "geom:bbox": "-4.183396,57.460936,-4.183396,57.460936",
-    "geom:latitude": 57.460936,
-    "geom:longitude": -4.183396,
+    "geom:bbox": "-4.183230,57.460660,-4.183230,57.460660",
+    "geom:latitude": 57.46066,
+    "geom:longitude": -4.18323,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698661, 
-      85633159, 
       1360699045, 
       404436073, 
-      404227471
+      404227471, 
+      1360698661, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583787004,
-    "wof:geomhash": "43dfff19f9469b19d25833a5ed8f47cc",
+    "wof:geomhash": "ab380b7387605643bc998335598eeb68",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1160719302,
-    "wof:lastmodified": 1595710810,
+    "wof:lastmodified": 1609869197,
     "wof:name": "IV2 5JN",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.183396, 
-    57.460936, 
-    -4.183396, 
-    57.460936
+    -4.18323, 
+    57.46066, 
+    -4.18323, 
+    57.46066
   ],
-  "geometry": {"coordinates":[-4.183396,57.460936],"type":"Point"}
+  "geometry": {"coordinates":[-4.18323,57.46066],"type":"Point"}
 }

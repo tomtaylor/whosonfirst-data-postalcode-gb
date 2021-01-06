@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.434671,53.074783,-2.434671,53.074783",
-    "geom:latitude": 53.074783,
-    "geom:longitude": -2.434671,
+    "geom:bbox": "-2.434748,53.074981,-2.434748,53.074981",
+    "geom:latitude": 53.074981,
+    "geom:longitude": -2.434748,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698537, 
       85633159, 
       1360698929, 
       404432467, 
-      1360757587
+      1360757587, 
+      404227469, 
+      1360698537
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583793827,
-    "wof:geomhash": "47a71aff181f99c3d6ac21e8bce4873e",
+    "wof:geomhash": "b731d7c618ec956754c07bca65574a3a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 38745747,
-    "wof:lastmodified": 1595710940,
+    "wof:lastmodified": 1609868488,
     "wof:name": "CW2 5UN",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.434671, 
-    53.074783, 
-    -2.434671, 
-    53.074783
+    -2.434748, 
+    53.074981, 
+    -2.434748, 
+    53.074981
   ],
-  "geometry": {"coordinates":[-2.434671,53.074783],"type":"Point"}
+  "geometry": {"coordinates":[-2.434748,53.074981],"type":"Point"}
 }

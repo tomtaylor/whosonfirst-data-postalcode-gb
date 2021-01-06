@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.087458,51.940722,1.087458,51.940722",
-    "geom:latitude": 51.940722,
-    "geom:longitude": 1.087458,
+    "geom:bbox": "1.087383,51.940679,1.087383,51.940679",
+    "geom:latitude": 51.940679,
+    "geom:longitude": 1.087383,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698551, 
-      85633159, 
-      1360698979, 
       404431941, 
       101853527, 
-      404227469
+      404227469, 
+      1360698551, 
+      85633159, 
+      1360698979
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701337,
-    "wof:geomhash": "f6f8632491497a01157ac5cd254c5de8",
+    "wof:geomhash": "da3272f4e9fa67dc25228fba66d81f19",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454173589,
-    "wof:lastmodified": 1583786471,
+    "wof:lastmodified": 1609876111,
     "wof:name": "CO11 2DA",
     "wof:parent_id": 101853527,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.087458, 
-    51.940722, 
-    1.087458, 
-    51.940722
+    1.087383, 
+    51.940679, 
+    1.087383, 
+    51.940679
   ],
-  "geometry": {"coordinates":[1.087458,51.940722],"type":"Point"}
+  "geometry": {"coordinates":[1.087383,51.940679],"type":"Point"}
 }

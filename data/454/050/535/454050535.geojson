@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.668970,54.694712,-2.668970,54.694712",
-    "geom:latitude": 54.694712,
-    "geom:longitude": -2.66897,
+    "geom:bbox": "-2.669094,54.694738,-2.669094,54.694738",
+    "geom:latitude": 54.694738,
+    "geom:longitude": -2.669094,
     "gp:parent_id": "25815",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698721, 
-      85633159, 
       1360698877, 
       404453883, 
       1125983371, 
-      404227469
+      404227469, 
+      1360698721, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701084,
-    "wof:geomhash": "6657b43a6c7e9f91809267539b3fd83e",
+    "wof:geomhash": "b6f7e7b5f9f0a8e88f906e6862e0e3c5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454050535,
-    "wof:lastmodified": 1583786220,
+    "wof:lastmodified": 1609868934,
     "wof:name": "CA10 1LQ",
     "wof:parent_id": 404453883,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.66897, 
-    54.694712, 
-    -2.66897, 
-    54.694712
+    -2.669094, 
+    54.694738, 
+    -2.669094, 
+    54.694738
   ],
-  "geometry": {"coordinates":[-2.66897,54.694712],"type":"Point"}
+  "geometry": {"coordinates":[-2.669094,54.694738],"type":"Point"}
 }

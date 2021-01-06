@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1991-09-01",
     "geom:area": 0,
-    "geom:bbox": "-2.520892,50.941875,-2.520892,50.941875",
-    "geom:latitude": 50.941875,
-    "geom:longitude": -2.520892,
+    "geom:bbox": "-2.520950,50.941902,-2.520950,50.941902",
+    "geom:latitude": 50.941902,
+    "geom:longitude": -2.52095,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698545, 
-      85633159, 
       1360698745, 
       404451653, 
       101852365, 
-      404227469
+      404227469, 
+      1360698545, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701593,
-    "wof:geomhash": "8f6ddc6bd5a30ba75f4f997cc76625c3",
+    "wof:geomhash": "d39f4fc42977e6a6e947cc8701d02056",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454474297,
-    "wof:lastmodified": 1583786724,
+    "wof:lastmodified": 1609891093,
     "wof:name": "DT9 3RQ",
     "wof:parent_id": 101852365,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.520892, 
-    50.941875, 
-    -2.520892, 
-    50.941875
+    -2.52095, 
+    50.941902, 
+    -2.52095, 
+    50.941902
   ],
-  "geometry": {"coordinates":[-2.520892,50.941875],"type":"Point"}
+  "geometry": {"coordinates":[-2.52095,50.941902],"type":"Point"}
 }

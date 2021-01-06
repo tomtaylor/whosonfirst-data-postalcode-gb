@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.392825,51.179194,0.392825,51.179194",
-    "geom:latitude": 51.179194,
-    "geom:longitude": 0.392825,
+    "geom:bbox": "0.393210,51.179159,0.393210,51.179159",
+    "geom:latitude": 51.179159,
+    "geom:longitude": 0.39321,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698565, 
       85633159, 
       1360698811, 
       404451011, 
-      101853491, 
-      404227469, 
-      1360698565
+      101853491
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701201,
-    "wof:geomhash": "67a40132cbc06b02a27f25ff2ed4dad1",
+    "wof:geomhash": "b695dcd673184fcd790b581696dbd80b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 487838537,
-    "wof:lastmodified": 1583786298,
+    "wof:lastmodified": 1609882637,
     "wof:name": "TN12 6HU",
     "wof:parent_id": 101853491,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.392825, 
-    51.179194, 
-    0.392825, 
-    51.179194
+    0.39321, 
+    51.179159, 
+    0.39321, 
+    51.179159
   ],
-  "geometry": {"coordinates":[0.392825,51.179194],"type":"Point"}
+  "geometry": {"coordinates":[0.39321,51.179159],"type":"Point"}
 }

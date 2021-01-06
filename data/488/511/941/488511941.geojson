@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1999-06-01",
     "geom:area": 0,
-    "geom:bbox": "-3.180464,51.494482,-3.180464,51.494482",
-    "geom:latitude": 51.494482,
-    "geom:longitude": -3.180464,
+    "geom:bbox": "-3.180265,51.494610,-3.180265,51.494610",
+    "geom:latitude": 51.49461,
+    "geom:longitude": -3.180265,
     "gp:parent_id": "12696132",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698627, 
+      1360887573, 
       85633159, 
       1360699107, 
       101750397, 
-      404227475, 
-      1360698627, 
-      1360887573
+      404227475
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701522,
-    "wof:geomhash": "dfedaccd312b5b6bc51623b286c21888",
+    "wof:geomhash": "42c15485023314ab2991687249e2b7e1",
     "wof:hierarchy": [
       {
         "borough_id": 1360887573,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488511941,
-    "wof:lastmodified": 1583786726,
+    "wof:lastmodified": 1609894832,
     "wof:name": "CF24 4ET",
     "wof:parent_id": 101750397,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.180464, 
-    51.494482, 
-    -3.180464, 
-    51.494482
+    -3.180265, 
+    51.49461, 
+    -3.180265, 
+    51.49461
   ],
-  "geometry": {"coordinates":[-3.180464,51.494482],"type":"Point"}
+  "geometry": {"coordinates":[-3.180265,51.49461],"type":"Point"}
 }

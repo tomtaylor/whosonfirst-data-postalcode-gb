@@ -2,7 +2,7 @@
   "id": 874437497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-09-01",
     "edtf:inception": "2014-08-01",
     "geom:area": 0,
     "geom:bbox": "-1.250443,52.379803,-1.250443,52.379803",
@@ -10,7 +10,7 @@
     "geom:longitude": -1.250443,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000031",
     "os:district_code": "E07000220",
@@ -18,11 +18,11 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698891, 
       101750475, 
       404227469, 
       1360698603, 
-      85633159, 
-      1360698891
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 874437497,
-    "wof:lastmodified": 1583786207,
+    "wof:lastmodified": 1609869214,
     "wof:name": "CV21 9NU",
     "wof:parent_id": 101750475,
     "wof:placetype": "postalcode",

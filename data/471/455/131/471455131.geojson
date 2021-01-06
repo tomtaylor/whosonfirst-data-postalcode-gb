@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.814716,50.860665,-0.814716,50.860665",
-    "geom:latitude": 50.860665,
-    "geom:longitude": -0.814716,
+    "geom:bbox": "-0.814549,50.861086,-0.814549,50.861086",
+    "geom:latitude": 50.861086,
+    "geom:longitude": -0.814549,
     "gp:parent_id": "30813",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698757, 
-      404450007, 
       1126014875, 
       404227469, 
-      1360698607
+      1360698607, 
+      85633159, 
+      1360698757, 
+      404450007
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701619,
-    "wof:geomhash": "b1a8d4b5561125e388683ca20713fef5",
+    "wof:geomhash": "8630bfe91b5f4cb18d2530d5adbc2612",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471455131,
-    "wof:lastmodified": 1583786750,
+    "wof:lastmodified": 1609892586,
     "wof:name": "PO18 9AW",
     "wof:parent_id": 404450007,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.814716, 
-    50.860665, 
-    -0.814716, 
-    50.860665
+    -0.814549, 
+    50.861086, 
+    -0.814549, 
+    50.861086
   ],
-  "geometry": {"coordinates":[-0.814716,50.860665],"type":"Point"}
+  "geometry": {"coordinates":[-0.814549,50.861086],"type":"Point"}
 }

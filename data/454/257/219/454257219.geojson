@@ -2,15 +2,15 @@
   "id": 454257219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2012-02-01",
-    "edtf:inception": "1998-06-01",
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-09-01",
     "geom:area": 0,
-    "geom:bbox": "-1.265093,52.379625,-1.265093,52.379625",
-    "geom:latitude": 52.379625,
-    "geom:longitude": -1.265093,
+    "geom:bbox": "-1.255137,52.379463,-1.255137,52.379463",
+    "geom:latitude": 52.379463,
+    "geom:longitude": -1.255137,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000031",
     "os:district_code": "E07000220",
@@ -18,11 +18,11 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360698891, 
       101750475, 
       404227469, 
-      1360698603, 
-      85633159
+      1360698603
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -30,7 +30,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701419,
-    "wof:geomhash": "4f6cae56d3015824ec1eab5e476680d0",
+    "wof:geomhash": "214cb35663f294d409970fc9184705c6",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -41,7 +41,7 @@
       }
     ],
     "wof:id": 454257219,
-    "wof:lastmodified": 1583786552,
+    "wof:lastmodified": 1609880442,
     "wof:name": "CV21 2NZ",
     "wof:parent_id": "101853583",
     "wof:placetype": "postalcode",
@@ -51,10 +51,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.265093, 
-    52.379625, 
-    -1.265093, 
-    52.379625
+    -1.255137, 
+    52.379463, 
+    -1.255137, 
+    52.379463
   ],
-  "geometry": {"coordinates":[-1.265093,52.379625],"type":"Point"}
+  "geometry": {"coordinates":[-1.255137,52.379463],"type":"Point"}
 }

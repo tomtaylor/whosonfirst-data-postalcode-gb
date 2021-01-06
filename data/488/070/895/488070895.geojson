@@ -5,26 +5,26 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.391297,53.264214,-2.391297,53.264214",
-    "geom:latitude": 53.264214,
-    "geom:longitude": -2.391297,
+    "geom:bbox": "-2.390927,53.264710,-2.390927,53.264710",
+    "geom:latitude": 53.26471,
+    "geom:longitude": -2.390927,
     "gp:parent_id": "27779",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
-    "os:district_code": "E06000050",
+    "os:district_code": "E06000049",
     "os:positional_quality_indicator": "1",
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698923, 
-      404444071, 
-      1360758669, 
+      404432345, 
+      1360757381, 
       404227469, 
-      1360698537
+      1360698537, 
+      85633159, 
+      1360698929
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,19 +32,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701229,
-    "wof:geomhash": "19a0a5d40a00622f22d717fe94e548e9",
+    "wof:geomhash": "84aa1ec6a33edb4dbe1fd52bed7510db",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
-        "county_id": 1360698923,
-        "localadmin_id": 404444071,
-        "locality_id": 1360758669,
+        "county_id": 1360698929,
+        "localadmin_id": 404432345,
+        "locality_id": 1360757381,
         "macroregion_id": 404227469,
         "region_id": 1360698537
       }
     ],
     "wof:id": 488070895,
-    "wof:lastmodified": 1583786395,
+    "wof:lastmodified": 1609871110,
     "wof:name": "WA16 9PY",
     "wof:parent_id": 404432345,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.391297, 
-    53.264214, 
-    -2.391297, 
-    53.264214
+    -2.390927, 
+    53.26471, 
+    -2.390927, 
+    53.26471
   ],
-  "geometry": {"coordinates":[-2.391297,53.264214],"type":"Point"}
+  "geometry": {"coordinates":[-2.390927,53.26471],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-02-01",
     "geom:area": 0,
-    "geom:bbox": "-1.432928,52.533110,-1.432928,52.533110",
-    "geom:latitude": 52.53311,
-    "geom:longitude": -1.432928,
+    "geom:bbox": "-1.428591,52.532200,-1.428591,52.532200",
+    "geom:latitude": 52.5322,
+    "geom:longitude": -1.428591,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,13 +18,13 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698603, 
+      85633159, 
       1360698891, 
       1360817293, 
       101750471, 
       404227469, 
-      85785407, 
-      1360698603, 
-      85633159
+      85785407
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701541,
-    "wof:geomhash": "f2bd397d7743bc07a719e3d6c8e4299a",
+    "wof:geomhash": "7e3a26182e9542f437717aeb3131238d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 437766463,
-    "wof:lastmodified": 1583786687,
+    "wof:lastmodified": 1609888900,
     "wof:name": "CV11 6WU",
     "wof:parent_id": "101872043",
     "wof:placetype": "postalcode",
@@ -55,10 +55,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.432928, 
-    52.53311, 
-    -1.432928, 
-    52.53311
+    -1.428591, 
+    52.5322, 
+    -1.428591, 
+    52.5322
   ],
-  "geometry": {"coordinates":[-1.432928,52.53311],"type":"Point"}
+  "geometry": {"coordinates":[-1.428591,52.5322],"type":"Point"}
 }

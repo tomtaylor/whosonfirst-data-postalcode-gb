@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.589450,53.398071,-2.589450,53.398071",
-    "geom:latitude": 53.398071,
+    "geom:bbox": "-2.589450,53.398087,-2.589450,53.398087",
+    "geom:latitude": 53.398087,
     "geom:longitude": -2.58945,
     "gp:parent_id": "39210",
     "iso:country": "GB",
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698537, 
+      85633159, 
       1360698965, 
       101751627, 
-      404227469, 
-      1360698537, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701229,
-    "wof:geomhash": "364becff2b23fcc78476ff2bbc6d55ad",
+    "wof:geomhash": "6d32baf6fc56f121db21e0aeb98943bb",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488071713,
-    "wof:lastmodified": 1583786396,
+    "wof:lastmodified": 1609871154,
     "wof:name": "WA2 7AX",
     "wof:parent_id": 101751627,
     "wof:placetype": "postalcode",
@@ -53,9 +53,9 @@
   },
   "bbox": [
     -2.58945, 
-    53.398071, 
+    53.398087, 
     -2.58945, 
-    53.398071
+    53.398087
   ],
-  "geometry": {"coordinates":[-2.58945,53.398071],"type":"Point"}
+  "geometry": {"coordinates":[-2.58945,53.398087],"type":"Point"}
 }

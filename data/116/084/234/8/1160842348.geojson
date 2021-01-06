@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.716503,51.516589,-0.716503,51.516589",
-    "geom:latitude": 51.516589,
-    "geom:longitude": -0.716503,
+    "geom:bbox": "-0.716459,51.516606,-0.716459,51.516606",
+    "geom:latitude": 51.516606,
+    "geom:longitude": -0.716459,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      101750385, 
+      404227469, 
       1360698529, 
       85633159, 
-      1360698943, 
-      101750385, 
-      404227469
+      1360698943
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583792479,
-    "wof:geomhash": "3d71e58532991e0db453cb4d1c807195",
+    "wof:geomhash": "06b72af8f471fe3a642d985bb0a9b97f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1160842348,
-    "wof:lastmodified": 1583792479,
+    "wof:lastmodified": 1609870601,
     "wof:name": "SL6 1EG",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.716503, 
-    51.516589, 
-    -0.716503, 
-    51.516589
+    -0.716459, 
+    51.516606, 
+    -0.716459, 
+    51.516606
   ],
-  "geometry": {"coordinates":[-0.716503,51.516589],"type":"Point"}
+  "geometry": {"coordinates":[-0.716459,51.516606],"type":"Point"}
 }

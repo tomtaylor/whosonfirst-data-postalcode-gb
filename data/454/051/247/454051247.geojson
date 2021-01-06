@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.599615,54.606142,-2.599615,54.606142",
-    "geom:latitude": 54.606142,
-    "geom:longitude": -2.599615,
+    "geom:bbox": "-2.599477,54.606223,-2.599477,54.606223",
+    "geom:latitude": 54.606223,
+    "geom:longitude": -2.599477,
     "gp:parent_id": "16291",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698877, 
       404442007, 
       1226674869, 
       404227469, 
-      1360698721
+      1360698721, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701086,
-    "wof:geomhash": "43581f4ccdd23c92223ee64845033e16",
+    "wof:geomhash": "10e3b056ee049cc1b57de1c91d3565d5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454051247,
-    "wof:lastmodified": 1583786222,
+    "wof:lastmodified": 1609868950,
     "wof:name": "CA10 3AP",
     "wof:parent_id": 404442007,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.599615, 
-    54.606142, 
-    -2.599615, 
-    54.606142
+    -2.599477, 
+    54.606223, 
+    -2.599477, 
+    54.606223
   ],
-  "geometry": {"coordinates":[-2.599615,54.606142],"type":"Point"}
+  "geometry": {"coordinates":[-2.599477,54.606223],"type":"Point"}
 }

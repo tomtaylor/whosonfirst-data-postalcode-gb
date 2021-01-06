@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.234923,53.481530,-2.234923,53.481530",
-    "geom:latitude": 53.48153,
-    "geom:longitude": -2.234923,
+    "geom:bbox": "-2.235013,53.481475,-2.235013,53.481475",
+    "geom:latitude": 53.481475,
+    "geom:longitude": -2.235013,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       85861843, 
       1360698555, 
       85633159, 
       1360698893, 
-      101750525
+      101750525, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701144,
-    "wof:geomhash": "fdb70fb8f05408011627044937a069df",
+    "wof:geomhash": "7718eaefa57637615b7cef4cc19c6e35",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 470857759,
-    "wof:lastmodified": 1595718584,
+    "wof:lastmodified": 1609869980,
     "wof:name": "M1 1LN",
     "wof:parent_id": 101750525,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.234923, 
-    53.48153, 
-    -2.234923, 
-    53.48153
+    -2.235013, 
+    53.481475, 
+    -2.235013, 
+    53.481475
   ],
-  "geometry": {"coordinates":[-2.234923,53.48153],"type":"Point"}
+  "geometry": {"coordinates":[-2.235013,53.481475],"type":"Point"}
 }

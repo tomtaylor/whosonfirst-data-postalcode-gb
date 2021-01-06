@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.059091,52.551388,-2.059091,52.551388",
-    "geom:latitude": 52.551388,
+    "geom:bbox": "-2.059091,52.551442,-2.059091,52.551442",
+    "geom:latitude": 52.551442,
     "geom:longitude": -2.059091,
     "gp:parent_id": "12637",
     "iso:country": "GB",
@@ -19,11 +19,11 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360698737, 
       1126027181, 
       404227469, 
-      1360698605, 
-      85633159
+      1360698605
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701122,
-    "wof:geomhash": "e3ae8fed2f2c2ffbbe49765a747d83c4",
+    "wof:geomhash": "ad058cc66b457ba5c0abc8e7c54c5a76",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488211329,
-    "wof:lastmodified": 1583786374,
+    "wof:lastmodified": 1609880476,
     "wof:name": "WV14 8BN",
     "wof:parent_id": 101914031,
     "wof:placetype": "postalcode",
@@ -53,9 +53,9 @@
   },
   "bbox": [
     -2.059091, 
-    52.551388, 
+    52.551442, 
     -2.059091, 
-    52.551388
+    52.551442
   ],
-  "geometry": {"coordinates":[-2.059091,52.551388],"type":"Point"}
+  "geometry": {"coordinates":[-2.059091,52.551442],"type":"Point"}
 }

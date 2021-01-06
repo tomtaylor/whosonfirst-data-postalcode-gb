@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.253013,53.091697,-2.253013,53.091697",
-    "geom:latitude": 53.091697,
-    "geom:longitude": -2.253013,
+    "geom:bbox": "-2.253282,53.091839,-2.253282,53.091839",
+    "geom:latitude": 53.091839,
+    "geom:longitude": -2.253282,
     "gp:parent_id": "16053",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698947, 
       404455307, 
       1126014815, 
       404227469, 
-      1360698593
+      1360698593, 
+      85633159, 
+      1360698947
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701139,
-    "wof:geomhash": "4233bbd88bcf29862a34322d7f9aeca2",
+    "wof:geomhash": "151bb5fcc6f5f64f88a3dc407012e98e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487723615,
-    "wof:lastmodified": 1583786234,
+    "wof:lastmodified": 1609875865,
     "wof:name": "ST7 3AG",
     "wof:parent_id": 404455307,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.253013, 
-    53.091697, 
-    -2.253013, 
-    53.091697
+    -2.253282, 
+    53.091839, 
+    -2.253282, 
+    53.091839
   ],
-  "geometry": {"coordinates":[-2.253013,53.091697],"type":"Point"}
+  "geometry": {"coordinates":[-2.253282,53.091839],"type":"Point"}
 }

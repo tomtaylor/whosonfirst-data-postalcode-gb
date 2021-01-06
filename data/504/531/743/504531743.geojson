@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1999-12-01",
     "geom:area": 0,
-    "geom:bbox": "-3.030717,51.598914,-3.030717,51.598914",
-    "geom:latitude": 51.598914,
-    "geom:longitude": -3.030717,
+    "geom:bbox": "-3.030643,51.598861,-3.030643,51.598861",
+    "geom:latitude": 51.598861,
+    "geom:longitude": -3.030643,
     "gp:parent_id": "12696123",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1125994879, 
-      404227475, 
       1360698641, 
       85633159, 
       1360698735, 
-      404440165
+      404440165, 
+      1125994879, 
+      404227475
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701407,
-    "wof:geomhash": "171f037ae6e8626f13b9efa5f5195bfa",
+    "wof:geomhash": "d33ca7d1c6ab9e69a9d70493f86648e7",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504531743,
-    "wof:lastmodified": 1583786535,
+    "wof:lastmodified": 1609878017,
     "wof:name": "NP10 9TG",
     "wof:parent_id": 404440165,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.030717, 
-    51.598914, 
-    -3.030717, 
-    51.598914
+    -3.030643, 
+    51.598861, 
+    -3.030643, 
+    51.598861
   ],
-  "geometry": {"coordinates":[-3.030717,51.598914],"type":"Point"}
+  "geometry": {"coordinates":[-3.030643,51.598861],"type":"Point"}
 }

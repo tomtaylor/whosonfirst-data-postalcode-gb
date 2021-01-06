@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "uuuu",
-    "edtf:inception": "2019-10-01",
+    "edtf:inception": "2020-07-01",
     "geom:area": 0,
     "geom:bbox": "-2.997053,51.591274,-2.997053,51.591274",
     "geom:latitude": 51.591274,
@@ -18,12 +18,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360711579, 
       404227475, 
       1360698641, 
       85633159, 
       1360698735, 
-      404429419
+      404429419, 
+      1360711579
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712799443,
-    "wof:lastmodified": 1583804103,
+    "wof:lastmodified": 1609874561,
     "wof:name": "NP20 9PX",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-05-01",
     "geom:area": 0,
-    "geom:bbox": "-0.951616,51.404232,-0.951616,51.404232",
-    "geom:latitude": 51.404232,
-    "geom:longitude": -0.951616,
+    "geom:bbox": "-0.951609,51.403900,-0.951609,51.403900",
+    "geom:latitude": 51.4039,
+    "geom:longitude": -0.951609,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698967, 
-      404431865, 
       1126031037, 
       404227469, 
       1360698529, 
-      85633159
+      85633159, 
+      1360698967, 
+      404431865
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583788347,
-    "wof:geomhash": "d0c2d36ca9c787f253090ee4342ce431",
+    "wof:geomhash": "30fcc8b4bd91aeee305bdd9ab1447a3c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712444915,
-    "wof:lastmodified": 1595710807,
+    "wof:lastmodified": 1609868871,
     "wof:name": "RG2 9UZ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.951616, 
-    51.404232, 
-    -0.951616, 
-    51.404232
+    -0.951609, 
+    51.4039, 
+    -0.951609, 
+    51.4039
   ],
-  "geometry": {"coordinates":[-0.951616,51.404232],"type":"Point"}
+  "geometry": {"coordinates":[-0.951609,51.4039],"type":"Point"}
 }

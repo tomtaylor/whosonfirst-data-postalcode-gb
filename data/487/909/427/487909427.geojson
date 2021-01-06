@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-5.099605,50.158085,-5.099605,50.158085",
-    "geom:latitude": 50.158085,
-    "geom:longitude": -5.099605,
+    "geom:bbox": "-5.099676,50.158110,-5.099676,50.158110",
+    "geom:latitude": 50.15811,
+    "geom:longitude": -5.099676,
     "gp:parent_id": "19894",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404438245, 
-      101852391, 
-      404227469, 
       1360698623, 
       85633159, 
-      1360699085
+      1360699085, 
+      404438245, 
+      101852391, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701254,
-    "wof:geomhash": "f70df20cf49fedd3a40a29f9905960b4",
+    "wof:geomhash": "f767cac45c40b21da2c92d54006c32c5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487909427,
-    "wof:lastmodified": 1583786331,
+    "wof:lastmodified": 1609885964,
     "wof:name": "TR11 4JE",
     "wof:parent_id": 404438245,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -5.099605, 
-    50.158085, 
-    -5.099605, 
-    50.158085
+    -5.099676, 
+    50.15811, 
+    -5.099676, 
+    50.15811
   ],
-  "geometry": {"coordinates":[-5.099605,50.158085],"type":"Point"}
+  "geometry": {"coordinates":[-5.099676,50.15811],"type":"Point"}
 }

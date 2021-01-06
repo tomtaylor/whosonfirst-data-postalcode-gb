@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2001-12-01",
     "geom:area": 0,
-    "geom:bbox": "-0.598662,53.197506,-0.598662,53.197506",
-    "geom:latitude": 53.197506,
-    "geom:longitude": -0.598662,
+    "geom:bbox": "-0.598722,53.197525,-0.598722,53.197525",
+    "geom:latitude": 53.197525,
+    "geom:longitude": -0.598722,
     "gp:parent_id": "22763082",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1125773803, 
       404227469, 
       1360698571, 
       85633159, 
       1360699067, 
-      404446593
+      404446593, 
+      1125773803
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701173,
-    "wof:geomhash": "2ff2914c9e35e842596f8476525dd47c",
+    "wof:geomhash": "337fcddc60ec0b3baaf7027190602b33",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 455064509,
-    "wof:lastmodified": 1583786298,
+    "wof:lastmodified": 1609870713,
     "wof:name": "LN6 3FE",
     "wof:parent_id": 101750523,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.598662, 
-    53.197506, 
-    -0.598662, 
-    53.197506
+    -0.598722, 
+    53.197525, 
+    -0.598722, 
+    53.197525
   ],
-  "geometry": {"coordinates":[-0.598662,53.197506],"type":"Point"}
+  "geometry": {"coordinates":[-0.598722,53.197525],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1996-06-01",
     "geom:area": 0,
-    "geom:bbox": "-4.370965,55.905185,-4.370965,55.905185",
-    "geom:latitude": 55.905185,
-    "geom:longitude": -4.370965,
+    "geom:bbox": "-4.371202,55.905121,-4.371202,55.905121",
+    "geom:latitude": 55.905121,
+    "geom:longitude": -4.371202,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698797, 
-      404430153, 
       1175612707, 
       404227471, 
       1360698707, 
-      85633159
+      85633159, 
+      1360698797, 
+      404430153
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701131,
-    "wof:geomhash": "7deb50cbedd052676e482b771243c95a",
+    "wof:geomhash": "3ae77de84d81986f9c591a3b79bbc615",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504392579,
-    "wof:lastmodified": 1583786227,
+    "wof:lastmodified": 1609869272,
     "wof:name": "G15 6RU",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.370965, 
-    55.905185, 
-    -4.370965, 
-    55.905185
+    -4.371202, 
+    55.905121, 
+    -4.371202, 
+    55.905121
   ],
-  "geometry": {"coordinates":[-4.370965,55.905185],"type":"Point"}
+  "geometry": {"coordinates":[-4.371202,55.905121],"type":"Point"}
 }

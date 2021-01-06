@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.433433,52.242090,-0.433433,52.242090",
-    "geom:latitude": 52.24209,
-    "geom:longitude": -0.433433,
+    "geom:bbox": "-0.433651,52.242138,-0.433651,52.242138",
+    "geom:latitude": 52.242138,
+    "geom:longitude": -0.433651,
     "gp:parent_id": "24898",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      1360753633, 
       404227469, 
       1360698527, 
       85633159, 
       1360699073, 
-      404449437, 
-      1360753633
+      404449437
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701367,
-    "wof:geomhash": "8ec1358eb5bec54103a220853bb4b588",
+    "wof:geomhash": "f9d4a1330bb293707de3f2020f63925d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470983639,
-    "wof:lastmodified": 1583786502,
+    "wof:lastmodified": 1609878548,
     "wof:name": "MK44 2JP",
     "wof:parent_id": 404449437,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.433433, 
-    52.24209, 
-    -0.433433, 
-    52.24209
+    -0.433651, 
+    52.242138, 
+    -0.433651, 
+    52.242138
   ],
-  "geometry": {"coordinates":[-0.433433,52.24209],"type":"Point"}
+  "geometry": {"coordinates":[-0.433651,52.242138],"type":"Point"}
 }

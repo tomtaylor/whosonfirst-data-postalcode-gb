@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1981-06-01",
     "geom:area": 0,
-    "geom:bbox": "-0.525151,52.564859,-0.525151,52.564859",
-    "geom:latitude": 52.564859,
-    "geom:longitude": -0.525151,
+    "geom:bbox": "-0.524970,52.564605,-0.524970,52.564605",
+    "geom:latitude": 52.564605,
+    "geom:longitude": -0.52497,
     "gp:parent_id": "25112",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      1125866591, 
       404227469, 
       1360698577, 
       85633159, 
       1360698755, 
-      404451915, 
-      1125866591
+      404451915
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701555,
-    "wof:geomhash": "0ec9d9444c7bd741ed60766f020ef22b",
+    "wof:geomhash": "f1d29ab2b95a2b229c3d5fa874ce8662",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471399963,
-    "wof:lastmodified": 1583786711,
+    "wof:lastmodified": 1609890762,
     "wof:name": "PE8 6YE",
     "wof:parent_id": 404451915,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.525151, 
-    52.564859, 
-    -0.525151, 
-    52.564859
+    -0.52497, 
+    52.564605, 
+    -0.52497, 
+    52.564605
   ],
-  "geometry": {"coordinates":[-0.525151,52.564859],"type":"Point"}
+  "geometry": {"coordinates":[-0.52497,52.564605],"type":"Point"}
 }

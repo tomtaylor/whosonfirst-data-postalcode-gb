@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.055644,51.111412,-1.055644,51.111412",
-    "geom:latitude": 51.111412,
-    "geom:longitude": -1.055644,
+    "geom:bbox": "-1.055574,51.111330,-1.055574,51.111330",
+    "geom:latitude": 51.11133,
+    "geom:longitude": -1.055574,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404447963, 
       1125956287, 
       404227469, 
       1360698557, 
       85633159, 
-      1360698827
+      1360698827, 
+      404447963
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583791055,
-    "wof:geomhash": "c4e83eed4bcd98683014d6d0678edae5",
+    "wof:geomhash": "5ceea420e36cc36996778f1bf23d2025",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712505569,
-    "wof:lastmodified": 1583791055,
+    "wof:lastmodified": 1609869734,
     "wof:name": "GU34 5JW",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.055644, 
-    51.111412, 
-    -1.055644, 
-    51.111412
+    -1.055574, 
+    51.11133, 
+    -1.055574, 
+    51.11133
   ],
-  "geometry": {"coordinates":[-1.055644,51.111412],"type":"Point"}
+  "geometry": {"coordinates":[-1.055574,51.11133],"type":"Point"}
 }

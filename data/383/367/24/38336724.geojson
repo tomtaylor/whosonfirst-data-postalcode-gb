@@ -2,7 +2,7 @@
   "id": 38336724,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-06-01",
     "edtf:inception": "2019-11-01",
     "geom:area": 0,
     "geom:bbox": "-0.777249,53.932020,-0.777249,53.932020",
@@ -10,7 +10,7 @@
     "geom:longitude": -0.777249,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000011",
@@ -18,12 +18,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699001, 
-      404440689, 
       101873245, 
       404227469, 
       1360698547, 
-      85633159
+      85633159, 
+      1360699001, 
+      404440689
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 38336724,
-    "wof:lastmodified": 1583789201,
+    "wof:lastmodified": 1609868450,
     "wof:name": "YO42 9BE",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

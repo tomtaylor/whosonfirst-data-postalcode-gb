@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.252812,55.834233,-4.252812,55.834233",
-    "geom:latitude": 55.834233,
-    "geom:longitude": -4.252812,
+    "geom:bbox": "-4.253004,55.833960,-4.253004,55.833960",
+    "geom:latitude": 55.83396,
+    "geom:longitude": -4.253004,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698797, 
-      404430153, 
       1175612707, 
       404227471, 
       85789891, 
       1360698707, 
-      85633159
+      85633159, 
+      1360698797, 
+      404430153
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701155,
-    "wof:geomhash": "5dff3f8e2d2efe8e7b79783ee54b869b",
+    "wof:geomhash": "bfd78fe98926848badfd313e9ccba437",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 504400985,
-    "wof:lastmodified": 1583786257,
+    "wof:lastmodified": 1609869565,
     "wof:name": "G42 8AQ",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.252812, 
-    55.834233, 
-    -4.252812, 
-    55.834233
+    -4.253004, 
+    55.83396, 
+    -4.253004, 
+    55.83396
   ],
-  "geometry": {"coordinates":[-4.252812,55.834233],"type":"Point"}
+  "geometry": {"coordinates":[-4.253004,55.83396],"type":"Point"}
 }

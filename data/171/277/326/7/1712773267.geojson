@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-02-01",
     "geom:area": 0,
-    "geom:bbox": "-1.457921,54.832495,-1.457921,54.832495",
+    "geom:bbox": "-1.457874,54.832495,-1.457874,54.832495",
     "geom:latitude": 54.832495,
-    "geom:longitude": -1.457921,
+    "geom:longitude": -1.457874,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698987, 
-      404434817, 
       1360756383, 
       404227469, 
       1360698601, 
-      85633159
+      85633159, 
+      1360698987, 
+      404434817
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583802942,
-    "wof:geomhash": "cc5473550bd939d8c6fcec28d4eeb761",
+    "wof:geomhash": "f7a5cbf36956ba871c0ae1c02d631c01",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712773267,
-    "wof:lastmodified": 1595712447,
+    "wof:lastmodified": 1609873973,
     "wof:name": "DH5 9FA",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.457921, 
+    -1.457874, 
     54.832495, 
-    -1.457921, 
+    -1.457874, 
     54.832495
   ],
-  "geometry": {"coordinates":[-1.457921,54.832495],"type":"Point"}
+  "geometry": {"coordinates":[-1.457874,54.832495],"type":"Point"}
 }

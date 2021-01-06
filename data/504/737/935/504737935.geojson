@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2005-09-01",
     "geom:area": 0,
-    "geom:bbox": "-3.935201,51.641306,-3.935201,51.641306",
-    "geom:latitude": 51.641306,
-    "geom:longitude": -3.935201,
+    "geom:bbox": "-3.935661,51.641226,-3.935661,51.641226",
+    "geom:latitude": 51.641226,
+    "geom:longitude": -3.935661,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698629, 
+      85633159, 
       1360699095, 
       404446687, 
       1259410307, 
-      404227475, 
-      1360698629, 
-      85633159
+      404227475
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701535,
-    "wof:geomhash": "28ee52c02f9504a105c629a3b1573a49",
+    "wof:geomhash": "5a684fcd95ff41d831db4cbfc7c84e48",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 504737935,
-    "wof:lastmodified": 1583786695,
+    "wof:lastmodified": 1609888097,
     "wof:name": "SA1 2FB",
     "wof:parent_id": 404446687,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.935201, 
-    51.641306, 
-    -3.935201, 
-    51.641306
+    -3.935661, 
+    51.641226, 
+    -3.935661, 
+    51.641226
   ],
-  "geometry": {"coordinates":[-3.935201,51.641306],"type":"Point"}
+  "geometry": {"coordinates":[-3.935661,51.641226],"type":"Point"}
 }

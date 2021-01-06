@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2009-07-01",
     "geom:area": 0,
-    "geom:bbox": "0.639059,51.799574,0.639059,51.799574",
-    "geom:latitude": 51.799574,
-    "geom:longitude": 0.639059,
+    "geom:bbox": "0.639002,51.799594,0.639002,51.799594",
+    "geom:latitude": 51.799594,
+    "geom:longitude": 0.639002,
     "gp:parent_id": "12695941",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698979, 
       404455375, 
       101854735, 
       404227469, 
-      1360698551, 
-      85633159, 
-      1360698979
+      1360698551
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701293,
-    "wof:geomhash": "15baed1cc1ca29aa8517a41de0168838",
+    "wof:geomhash": "5d0ad25a9fb3c6e1327ef324c42ef3a5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488281817,
-    "wof:lastmodified": 1583786491,
+    "wof:lastmodified": 1609884293,
     "wof:name": "CM8 1YD",
     "wof:parent_id": 101854735,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.639059, 
-    51.799574, 
-    0.639059, 
-    51.799574
+    0.639002, 
+    51.799594, 
+    0.639002, 
+    51.799594
   ],
-  "geometry": {"coordinates":[0.639059,51.799574],"type":"Point"}
+  "geometry": {"coordinates":[0.639002,51.799594],"type":"Point"}
 }

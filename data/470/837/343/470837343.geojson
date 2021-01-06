@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.569099,53.805787,-1.569099,53.805787",
-    "geom:latitude": 53.805787,
-    "geom:longitude": -1.569099,
+    "geom:bbox": "-1.569180,53.805731,-1.569180,53.805731",
+    "geom:latitude": 53.805731,
+    "geom:longitude": -1.56918,
     "gp:parent_id": "26042",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      85792899, 
-      1360698609, 
       85633159, 
       1360698749, 
-      101750579
+      101750579, 
+      404227469, 
+      85792899, 
+      1360698609
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701093,
-    "wof:geomhash": "07dcb6f56a198b68511d1dd155e73900",
+    "wof:geomhash": "421d960f5564aade8ccfc840a838696f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470837343,
-    "wof:lastmodified": 1583786209,
+    "wof:lastmodified": 1609869221,
     "wof:name": "LS6 1PY",
     "wof:parent_id": 101750579,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.569099, 
-    53.805787, 
-    -1.569099, 
-    53.805787
+    -1.56918, 
+    53.805731, 
+    -1.56918, 
+    53.805731
   ],
-  "geometry": {"coordinates":[-1.569099,53.805787],"type":"Point"}
+  "geometry": {"coordinates":[-1.56918,53.805731],"type":"Point"}
 }

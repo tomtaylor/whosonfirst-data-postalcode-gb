@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1996-12-01",
     "geom:area": 0,
-    "geom:bbox": "-2.013077,53.357880,-2.013077,53.357880",
-    "geom:latitude": 53.35788,
-    "geom:longitude": -2.013077,
+    "geom:bbox": "-2.013047,53.357871,-2.013047,53.357871",
+    "geom:latitude": 53.357871,
+    "geom:longitude": -2.013047,
     "gp:parent_id": "30285",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      404449649, 
-      1125912293, 
-      404227469, 
       1360698537, 
       85633159, 
-      1360698929
+      1360698929, 
+      404449649, 
+      1125912293, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701736,
-    "wof:geomhash": "6d73ac1640a51ffd43e8e7022c41f520",
+    "wof:geomhash": "5b5a8a6b6d9631dc663a6e5a91dcfe3f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471770557,
-    "wof:lastmodified": 1583786908,
+    "wof:lastmodified": 1609902698,
     "wof:name": "SK12 2PY",
     "wof:parent_id": 404449649,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.013077, 
-    53.35788, 
-    -2.013077, 
-    53.35788
+    -2.013047, 
+    53.357871, 
+    -2.013047, 
+    53.357871
   ],
-  "geometry": {"coordinates":[-2.013077,53.35788],"type":"Point"}
+  "geometry": {"coordinates":[-2.013047,53.357871],"type":"Point"}
 }

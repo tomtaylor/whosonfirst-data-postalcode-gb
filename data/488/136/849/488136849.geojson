@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.416291,53.628693,-1.416291,53.628693",
-    "geom:latitude": 53.628693,
-    "geom:longitude": -1.416291,
+    "geom:bbox": "-1.416293,53.628647,-1.416293,53.628647",
+    "geom:latitude": 53.628647,
+    "geom:longitude": -1.416293,
     "gp:parent_id": "33842",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404430043, 
       1125882419, 
       404227469, 
       1360698609, 
       85633159, 
-      1360698945
+      1360698945, 
+      404430043
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701269,
-    "wof:geomhash": "a5cb00d2c7961ed55300c7defbbfc073",
+    "wof:geomhash": "34de3a4946ba262abdbcc932e79bfc95",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488136849,
-    "wof:lastmodified": 1583786172,
+    "wof:lastmodified": 1609875901,
     "wof:name": "WF4 2DJ",
     "wof:parent_id": 404430043,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.416291, 
-    53.628693, 
-    -1.416291, 
-    53.628693
+    -1.416293, 
+    53.628647, 
+    -1.416293, 
+    53.628647
   ],
-  "geometry": {"coordinates":[-1.416291,53.628693],"type":"Point"}
+  "geometry": {"coordinates":[-1.416293,53.628647],"type":"Point"}
 }

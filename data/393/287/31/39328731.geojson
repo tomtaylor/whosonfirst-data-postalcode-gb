@@ -2,8 +2,8 @@
   "id": 39328731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2020-04-01",
-    "edtf:inception": "2016-08-01",
+    "edtf:cessation": "2020-08-01",
+    "edtf:inception": "2020-05-01",
     "geom:area": 0,
     "geom:bbox": "-1.564099,53.796312,-1.564099,53.796312",
     "geom:latitude": 53.796312,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      85792907, 
-      1360698609, 
       85633159, 
       1360698749, 
       101750579, 
-      404227469
+      404227469, 
+      85792907, 
+      1360698609
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 39328731,
-    "wof:lastmodified": 1595711181,
+    "wof:lastmodified": 1609868465,
     "wof:name": "LS1 9QZ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

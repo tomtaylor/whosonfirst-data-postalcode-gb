@@ -2,8 +2,8 @@
   "id": 39526794,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2019-10-01",
-    "edtf:inception": "2017-09-01",
+    "edtf:cessation": "2020-10-01",
+    "edtf:inception": "2020-05-01",
     "geom:area": 0,
     "geom:bbox": "-1.088387,50.799138,-1.088387,50.799138",
     "geom:latitude": 50.799138,
@@ -18,11 +18,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      101750307, 
-      404227469, 
       1360698557, 
       85633159, 
-      1360699069
+      1360699069, 
+      101750307, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 39526794,
-    "wof:lastmodified": 1583802485,
+    "wof:lastmodified": 1609868462,
     "wof:name": "PO1 9RF",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.961298,52.572831,-1.961298,52.572831",
-    "geom:latitude": 52.572831,
-    "geom:longitude": -1.961298,
+    "geom:bbox": "-1.961410,52.572891,-1.961410,52.572891",
+    "geom:latitude": 52.572891,
+    "geom:longitude": -1.96141,
     "gp:parent_id": "39052",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698875, 
       1125853123, 
       404227469, 
-      1360698605
+      1360698605, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701088,
-    "wof:geomhash": "c311a10c0aaf8214c045e908e0e6919a",
+    "wof:geomhash": "ce4eb33e381015cb39fb6a21279f119c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488197515,
-    "wof:lastmodified": 1583786338,
+    "wof:lastmodified": 1609879657,
     "wof:name": "WS5 3AA",
     "wof:parent_id": 101914035,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.961298, 
-    52.572831, 
-    -1.961298, 
-    52.572831
+    -1.96141, 
+    52.572891, 
+    -1.96141, 
+    52.572891
   ],
-  "geometry": {"coordinates":[-1.961298,52.572831],"type":"Point"}
+  "geometry": {"coordinates":[-1.96141,52.572891],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2013-07-01",
     "geom:area": 0,
-    "geom:bbox": "-1.120025,53.171112,-1.120025,53.171112",
-    "geom:latitude": 53.171112,
-    "geom:longitude": -1.120025,
+    "geom:bbox": "-1.120927,53.171631,-1.120927,53.171631",
+    "geom:latitude": 53.171631,
+    "geom:longitude": -1.120927,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698809, 
-      404449881, 
       1126048349, 
       404227469, 
       1360698583, 
-      85633159
+      85633159, 
+      1360698809, 
+      404449881
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468890257,
-    "wof:geomhash": "6eec35bb01af9397167c2bd221583deb",
+    "wof:geomhash": "3ae66ea4e63f49016a9e29074e91e33e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 874496253,
-    "wof:lastmodified": 1583786375,
+    "wof:lastmodified": 1609871973,
     "wof:name": "NG21 9FS",
     "wof:parent_id": 404449881,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.120025, 
-    53.171112, 
-    -1.120025, 
-    53.171112
+    -1.120927, 
+    53.171631, 
+    -1.120927, 
+    53.171631
   ],
-  "geometry": {"coordinates":[-1.120025,53.171112],"type":"Point"}
+  "geometry": {"coordinates":[-1.120927,53.171631],"type":"Point"}
 }

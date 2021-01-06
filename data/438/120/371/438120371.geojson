@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.712377,53.724236,-1.712377,53.724236",
-    "geom:latitude": 53.724236,
-    "geom:longitude": -1.712377,
+    "geom:bbox": "-1.712380,53.724305,-1.712380,53.724305",
+    "geom:latitude": 53.724305,
+    "geom:longitude": -1.71238,
     "gp:parent_id": "16253",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698917, 
       101750569, 
       404227469, 
       1360698609, 
-      85633159, 
-      1360698917
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701316,
-    "wof:geomhash": "35b6699be07ebfc3206ed2c0cb606710",
+    "wof:geomhash": "3fbcbc3ba5296eeadb6fef3b63e5c8e4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 438120371,
-    "wof:lastmodified": 1583786443,
+    "wof:lastmodified": 1609874279,
     "wof:name": "BD19 5AG",
     "wof:parent_id": 101750569,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.712377, 
-    53.724236, 
-    -1.712377, 
-    53.724236
+    -1.71238, 
+    53.724305, 
+    -1.71238, 
+    53.724305
   ],
-  "geometry": {"coordinates":[-1.712377,53.724236],"type":"Point"}
+  "geometry": {"coordinates":[-1.71238,53.724305],"type":"Point"}
 }

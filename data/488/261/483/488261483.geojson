@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1998-06-01",
     "geom:area": 0,
-    "geom:bbox": "-0.988903,53.775418,-0.988903,53.775418",
-    "geom:latitude": 53.775418,
-    "geom:longitude": -0.988903,
+    "geom:bbox": "-0.989294,53.775574,-0.989294,53.775574",
+    "geom:latitude": 53.775574,
+    "geom:longitude": -0.989294,
     "gp:parent_id": "16297",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698619, 
-      85633159, 
       1360698753, 
       404454223, 
-      1360753237
+      1360753237, 
+      404227469, 
+      1360698619, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701246,
-    "wof:geomhash": "632afd02d5b352fe310d1dcc2229d33c",
+    "wof:geomhash": "311b5e389d43d73b21898de384d587da",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488261483,
-    "wof:lastmodified": 1583786464,
+    "wof:lastmodified": 1609883020,
     "wof:name": "YO8 6PH",
     "wof:parent_id": 404454223,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.988903, 
-    53.775418, 
-    -0.988903, 
-    53.775418
+    -0.989294, 
+    53.775574, 
+    -0.989294, 
+    53.775574
   ],
-  "geometry": {"coordinates":[-0.988903,53.775418],"type":"Point"}
+  "geometry": {"coordinates":[-0.989294,53.775574],"type":"Point"}
 }

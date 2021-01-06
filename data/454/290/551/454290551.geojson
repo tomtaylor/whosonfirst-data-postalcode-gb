@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1995-12-01",
     "geom:area": 0,
-    "geom:bbox": "-2.400955,53.076646,-2.400955,53.076646",
-    "geom:latitude": 53.076646,
-    "geom:longitude": -2.400955,
+    "geom:bbox": "-2.401045,53.076672,-2.401045,53.076672",
+    "geom:latitude": 53.076672,
+    "geom:longitude": -2.401045,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698929, 
-      404454957, 
       1293819259, 
       404227469, 
       1360698537, 
-      85633159
+      85633159, 
+      1360698929, 
+      404454957
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701450,
-    "wof:geomhash": "d6aa115fc21dbe7a19c37d078276c0e5",
+    "wof:geomhash": "e174073365036b2d7cc81d7cd580e670",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454290551,
-    "wof:lastmodified": 1583786581,
+    "wof:lastmodified": 1609881763,
     "wof:name": "CW1 5XW",
     "wof:parent_id": 404454957,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.400955, 
-    53.076646, 
-    -2.400955, 
-    53.076646
+    -2.401045, 
+    53.076672, 
+    -2.401045, 
+    53.076672
   ],
-  "geometry": {"coordinates":[-2.400955,53.076646],"type":"Point"}
+  "geometry": {"coordinates":[-2.401045,53.076672],"type":"Point"}
 }

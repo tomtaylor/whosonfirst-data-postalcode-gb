@@ -6,9 +6,9 @@
     "edtf:inception": "2019-08-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.034861,51.644393,-0.034861,51.644393",
-    "geom:latitude": 51.644393,
-    "geom:longitude": -0.034861,
+    "geom:bbox": "-0.034919,51.644043,-0.034919,51.644043",
+    "geom:latitude": 51.644043,
+    "geom:longitude": -0.034919,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      85789897, 
-      1360698645, 
       1158857281, 
       85633159, 
       101750367, 
-      404227469
+      404227469, 
+      85789897, 
+      1360698645
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701634,
-    "wof:geomhash": "33a6d9404f372a598a74c0db2c5ec9e3",
+    "wof:geomhash": "407d36450d2686f788d80926479e446f",
     "wof:hierarchy": [
       {
         "borough_id": 1158857281,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454549927,
-    "wof:lastmodified": 1583786768,
+    "wof:lastmodified": 1609893993,
     "wof:name": "EN3 4UJ",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.034861, 
-    51.644393, 
-    -0.034861, 
-    51.644393
+    -0.034919, 
+    51.644043, 
+    -0.034919, 
+    51.644043
   ],
-  "geometry": {"coordinates":[-0.034861,51.644393],"type":"Point"}
+  "geometry": {"coordinates":[-0.034919,51.644043],"type":"Point"}
 }

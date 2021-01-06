@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.433680,53.335205,-2.433680,53.335205",
-    "geom:latitude": 53.335205,
-    "geom:longitude": -2.43368,
+    "geom:bbox": "-2.433871,53.333380,-2.433871,53.333380",
+    "geom:latitude": 53.33338,
+    "geom:longitude": -2.433871,
     "gp:parent_id": "28724",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      1293036289, 
+      404227469, 
       1360698537, 
       85633159, 
       1360698929, 
-      404437183, 
-      1293036289, 
-      404227469
+      404437183
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701228,
-    "wof:geomhash": "8f0a26cff21a118ee39802f2002868cd",
+    "wof:geomhash": "3ddab022eaea88627865abc31851900a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488068741,
-    "wof:lastmodified": 1583786394,
+    "wof:lastmodified": 1609870995,
     "wof:name": "WA16 0QG",
     "wof:parent_id": 404437183,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.43368, 
-    53.335205, 
-    -2.43368, 
-    53.335205
+    -2.433871, 
+    53.33338, 
+    -2.433871, 
+    53.33338
   ],
-  "geometry": {"coordinates":[-2.43368,53.335205],"type":"Point"}
+  "geometry": {"coordinates":[-2.433871,53.33338],"type":"Point"}
 }

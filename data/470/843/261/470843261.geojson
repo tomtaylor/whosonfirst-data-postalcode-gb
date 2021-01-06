@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.504808,53.800488,-1.504808,53.800488",
-    "geom:latitude": 53.800488,
-    "geom:longitude": -1.504808,
+    "geom:bbox": "-1.506611,53.799864,-1.506611,53.799864",
+    "geom:latitude": 53.799864,
+    "geom:longitude": -1.506611,
     "gp:parent_id": "26042",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      101750579, 
       404227469, 
       85861569, 
       1360698609, 
       85633159, 
-      1360698749, 
-      101750579
+      1360698749
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701110,
-    "wof:geomhash": "ac1685a41e8144d4b2934c0c8514320d",
+    "wof:geomhash": "d4cfb3cffed3666066a020853827ba93",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470843261,
-    "wof:lastmodified": 1583786228,
+    "wof:lastmodified": 1609869417,
     "wof:name": "LS9 6TA",
     "wof:parent_id": 101750579,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.504808, 
-    53.800488, 
-    -1.504808, 
-    53.800488
+    -1.506611, 
+    53.799864, 
+    -1.506611, 
+    53.799864
   ],
-  "geometry": {"coordinates":[-1.504808,53.800488],"type":"Point"}
+  "geometry": {"coordinates":[-1.506611,53.799864],"type":"Point"}
 }

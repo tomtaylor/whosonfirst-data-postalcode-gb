@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-03-01",
     "geom:area": 0,
-    "geom:bbox": "-2.081477,52.296811,-2.081477,52.296811",
-    "geom:latitude": 52.296811,
-    "geom:longitude": -2.081477,
+    "geom:bbox": "-2.081183,52.296685,-2.081183,52.296685",
+    "geom:latitude": 52.296685,
+    "geom:longitude": -2.081183,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360754499, 
-      404227469, 
       1360698613, 
       85633159, 
       1360699043, 
-      404449991
+      404449991, 
+      1360754499, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583801920,
-    "wof:geomhash": "94158af036e9732802e639b0996900d3",
+    "wof:geomhash": "08943fe024c105ca1b97df20ba626217",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1161055048,
-    "wof:lastmodified": 1595712033,
+    "wof:lastmodified": 1609875492,
     "wof:name": "B60 4FY",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.081477, 
-    52.296811, 
-    -2.081477, 
-    52.296811
+    -2.081183, 
+    52.296685, 
+    -2.081183, 
+    52.296685
   ],
-  "geometry": {"coordinates":[-2.081477,52.296811],"type":"Point"}
+  "geometry": {"coordinates":[-2.081183,52.296685],"type":"Point"}
 }

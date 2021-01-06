@@ -2,7 +2,7 @@
   "id": 471215333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-06-01",
     "edtf:inception": "2002-05-01",
     "geom:area": 0,
     "geom:bbox": "0.939353,52.682287,0.939353,52.682287",
@@ -11,7 +11,7 @@
     "gp:parent_id": "19107",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000020",
     "os:district_code": "E07000143",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698575, 
-      85633159, 
-      1360698955, 
       404433001, 
       101854947, 
-      404227469
+      404227469, 
+      1360698575, 
+      85633159, 
+      1360698955
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471215333,
-    "wof:lastmodified": 1583786562,
+    "wof:lastmodified": 1609880565,
     "wof:name": "NR20 3XA",
     "wof:parent_id": 101854947,
     "wof:placetype": "postalcode",

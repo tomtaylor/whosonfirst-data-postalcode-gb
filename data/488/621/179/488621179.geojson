@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.195996,55.948744,-3.195996,55.948744",
-    "geom:latitude": 55.948744,
-    "geom:longitude": -3.195996,
+    "geom:bbox": "-3.195151,55.948860,-3.195151,55.948860",
+    "geom:latitude": 55.94886,
+    "geom:longitude": -3.195151,
     "gp:parent_id": "12696195",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      101750629, 
       404227471, 
       85792713, 
       1360698673, 
       85633159, 
       1360698761, 
-      404437279
+      404437279, 
+      101750629
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701622,
-    "wof:geomhash": "9fe3f68f24c6d1e403ed09833f24baa2",
+    "wof:geomhash": "2a980be2691b24b8b6a36be65cbf30a4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 488621179,
-    "wof:lastmodified": 1583786816,
+    "wof:lastmodified": 1609898974,
     "wof:name": "EH1 2NE",
     "wof:parent_id": 101750629,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.195996, 
-    55.948744, 
-    -3.195996, 
-    55.948744
+    -3.195151, 
+    55.94886, 
+    -3.195151, 
+    55.94886
   ],
-  "geometry": {"coordinates":[-3.195996,55.948744],"type":"Point"}
+  "geometry": {"coordinates":[-3.195151,55.94886],"type":"Point"}
 }

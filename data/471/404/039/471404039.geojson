@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.212109,50.348623,-4.212109,50.348623",
-    "geom:latitude": 50.348623,
-    "geom:longitude": -4.212109,
+    "geom:bbox": "-4.212011,50.348634,-4.212011,50.348634",
+    "geom:latitude": 50.348634,
+    "geom:longitude": -4.212011,
     "gp:parent_id": "28989",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1276578811, 
-      404227469, 
       1360698623, 
       85633159, 
       1360699085, 
-      404451013
+      404451013, 
+      1276578811, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701558,
-    "wof:geomhash": "073b495b61af3c1dbc83115325f51524",
+    "wof:geomhash": "7c80091022a6c53aa24cf2824f98c8d5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471404039,
-    "wof:lastmodified": 1583786713,
+    "wof:lastmodified": 1609890709,
     "wof:name": "PL10 1DU",
     "wof:parent_id": 101852383,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.212109, 
-    50.348623, 
-    -4.212109, 
-    50.348623
+    -4.212011, 
+    50.348634, 
+    -4.212011, 
+    50.348634
   ],
-  "geometry": {"coordinates":[-4.212109,50.348623],"type":"Point"}
+  "geometry": {"coordinates":[-4.212011,50.348634],"type":"Point"}
 }

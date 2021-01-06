@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.947633,53.323522,-0.947633,53.323522",
-    "geom:latitude": 53.323522,
-    "geom:longitude": -0.947633,
+    "geom:bbox": "-0.947969,53.323273,-0.947969,53.323273",
+    "geom:latitude": 53.323273,
+    "geom:longitude": -0.947969,
     "gp:parent_id": "33135",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698809, 
       1126035403, 
       404227469, 
-      1360698583, 
-      85633159, 
-      1360698809
+      1360698583
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701565,
-    "wof:geomhash": "03c4b5fd6ecc199458e840a1e3aa2ed7",
+    "wof:geomhash": "9cf2368110077e5e15b900b3dc4e4b86",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454434323,
-    "wof:lastmodified": 1583786693,
+    "wof:lastmodified": 1609889172,
     "wof:name": "DN22 7AY",
     "wof:parent_id": 404433727,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.947633, 
-    53.323522, 
-    -0.947633, 
-    53.323522
+    -0.947969, 
+    53.323273, 
+    -0.947969, 
+    53.323273
   ],
-  "geometry": {"coordinates":[-0.947633,53.323522],"type":"Point"}
+  "geometry": {"coordinates":[-0.947969,53.323273],"type":"Point"}
 }

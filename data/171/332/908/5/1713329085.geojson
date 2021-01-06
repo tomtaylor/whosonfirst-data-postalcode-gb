@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "-3.072097,56.470119,-3.072097,56.470119",
-    "geom:latitude": 56.470119,
-    "geom:longitude": -3.072097,
+    "geom:bbox": "-3.072452,56.470062,-3.072452,56.470062",
+    "geom:latitude": 56.470062,
+    "geom:longitude": -3.072452,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,27 +18,27 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698693, 
       85633159, 
       1360698883, 
       404430743, 
-      404227471, 
-      1360698689
+      404227471
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735551,
-    "wof:geomhash": "097823e42f92cc900f3deb98c9f9b7ef",
+    "wof:geomhash": "fa513ce48f0a7c6b4e8647253f7f55ab",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360698883,
         "localadmin_id": 404430743,
         "macroregion_id": 404227471,
-        "region_id": 1360698689
+        "region_id": 1360698693
       }
     ],
     "wof:id": 1713329085,
-    "wof:lastmodified": 1595753391,
+    "wof:lastmodified": 1609875364,
     "wof:name": "DD2 5FS",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.072097, 
-    56.470119, 
-    -3.072097, 
-    56.470119
+    -3.072452, 
+    56.470062, 
+    -3.072452, 
+    56.470062
   ],
-  "geometry": {"coordinates":[-3.072097,56.470119],"type":"Point"}
+  "geometry": {"coordinates":[-3.072452,56.470062],"type":"Point"}
 }

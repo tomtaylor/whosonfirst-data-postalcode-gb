@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-11-01",
     "geom:area": 0,
-    "geom:bbox": "-4.310200,55.930448,-4.310200,55.930448",
-    "geom:latitude": 55.930448,
-    "geom:longitude": -4.3102,
+    "geom:bbox": "-4.310745,55.929925,-4.310745,55.929925",
+    "geom:latitude": 55.929925,
+    "geom:longitude": -4.310745,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698835, 
       404451795, 
       404227471, 
-      1360698701
+      1360698701, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583796642,
-    "wof:geomhash": "519a7733c1791aa5e0f2bcffbdbbffd6",
+    "wof:geomhash": "5fa449a2e6417a2a9c7cf55ac8c861d2",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1160936612,
-    "wof:lastmodified": 1583796642,
+    "wof:lastmodified": 1609872796,
     "wof:name": "G61 3EW",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.3102, 
-    55.930448, 
-    -4.3102, 
-    55.930448
+    -4.310745, 
+    55.929925, 
+    -4.310745, 
+    55.929925
   ],
-  "geometry": {"coordinates":[-4.3102,55.930448],"type":"Point"}
+  "geometry": {"coordinates":[-4.310745,55.929925],"type":"Point"}
 }

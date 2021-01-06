@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.250117,55.860561,-4.250117,55.860561",
-    "geom:latitude": 55.860561,
-    "geom:longitude": -4.250117,
+    "geom:bbox": "-4.250742,55.860586,-4.250742,55.860586",
+    "geom:latitude": 55.860586,
+    "geom:longitude": -4.250742,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      85792629, 
+      1360698707, 
+      85633159, 
       1360698797, 
       404430153, 
       1175612707, 
-      404227471, 
-      85792629, 
-      1360698707, 
-      85633159
+      404227471
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701555,
-    "wof:geomhash": "bc52d6013ca66a33492a3c2633a18c61",
+    "wof:geomhash": "2fc123a1dd3ae594cccf49bb5965c2de",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 504762709,
-    "wof:lastmodified": 1583786711,
+    "wof:lastmodified": 1609889638,
     "wof:name": "G2 1DY",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.250117, 
-    55.860561, 
-    -4.250117, 
-    55.860561
+    -4.250742, 
+    55.860586, 
+    -4.250742, 
+    55.860586
   ],
-  "geometry": {"coordinates":[-4.250117,55.860561],"type":"Point"}
+  "geometry": {"coordinates":[-4.250742,55.860586],"type":"Point"}
 }

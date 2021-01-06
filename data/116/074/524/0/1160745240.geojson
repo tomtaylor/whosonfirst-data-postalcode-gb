@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-08-01",
     "geom:area": 0,
-    "geom:bbox": "-1.131879,53.333884,-1.131879,53.333884",
-    "geom:latitude": 53.333884,
-    "geom:longitude": -1.131879,
+    "geom:bbox": "-1.131577,53.333927,-1.131577,53.333927",
+    "geom:latitude": 53.333927,
+    "geom:longitude": -1.131577,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698583, 
-      85633159, 
       1360698809, 
       101871921, 
-      404227469
+      404227469, 
+      1360698583, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583788061,
-    "wof:geomhash": "7d0b42869e73f5b1bb72d2768dc7ea1f",
+    "wof:geomhash": "0eec569ef003ae2d2ba8984894cff125",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1160745240,
-    "wof:lastmodified": 1583788061,
+    "wof:lastmodified": 1609869356,
     "wof:name": "S81 7TA",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.131879, 
-    53.333884, 
-    -1.131879, 
-    53.333884
+    -1.131577, 
+    53.333927, 
+    -1.131577, 
+    53.333927
   ],
-  "geometry": {"coordinates":[-1.131879,53.333884],"type":"Point"}
+  "geometry": {"coordinates":[-1.131577,53.333927],"type":"Point"}
 }

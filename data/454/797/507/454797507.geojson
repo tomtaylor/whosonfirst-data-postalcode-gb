@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.957802,52.044992,-2.957802,52.044992",
-    "geom:latitude": 52.044992,
-    "geom:longitude": -2.957802,
+    "geom:bbox": "-2.957747,52.044965,-2.957747,52.044965",
+    "geom:latitude": 52.044965,
+    "geom:longitude": -2.957747,
     "gp:parent_id": "31932",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      1360699053, 
+      404442813, 
       1125924133, 
       404227469, 
       1360698617, 
-      85633159, 
-      1360699053, 
-      404442813
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701718,
-    "wof:geomhash": "e53540837217fe8928c94488d105bcd6",
+    "wof:geomhash": "ac9eaa0d27589c6bcf1f8abd11f4bea0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454797507,
-    "wof:lastmodified": 1583786859,
+    "wof:lastmodified": 1609902481,
     "wof:name": "HR2 0RU",
     "wof:parent_id": 404442813,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.957802, 
-    52.044992, 
-    -2.957802, 
-    52.044992
+    -2.957747, 
+    52.044965, 
+    -2.957747, 
+    52.044965
   ],
-  "geometry": {"coordinates":[-2.957802,52.044992],"type":"Point"}
+  "geometry": {"coordinates":[-2.957747,52.044965],"type":"Point"}
 }

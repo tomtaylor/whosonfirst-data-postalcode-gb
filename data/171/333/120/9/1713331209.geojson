@@ -5,30 +5,30 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "-2.569598,53.341851,-2.569598,53.341851",
-    "geom:latitude": 53.341851,
-    "geom:longitude": -2.569598,
+    "geom:bbox": "-2.566406,53.342397,-2.566406,53.342397",
+    "geom:latitude": 53.342397,
+    "geom:longitude": -2.566406,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000007",
-    "os:positional_quality_indicator": "5",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698965, 
-      404453635, 
       1327362559, 
       404227469, 
-      1360698537
+      1360698537, 
+      85633159, 
+      1360698965, 
+      404453635
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735655,
-    "wof:geomhash": "752c8157feae7a1360f2db3277fb53b7",
+    "wof:geomhash": "ff1acc36919d3c040cce5e9cabf9a3a7",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1713331209,
-    "wof:lastmodified": 1595753469,
+    "wof:lastmodified": 1609875467,
     "wof:name": "WA4 5GW",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.569598, 
-    53.341851, 
-    -2.569598, 
-    53.341851
+    -2.566406, 
+    53.342397, 
+    -2.566406, 
+    53.342397
   ],
-  "geometry": {"coordinates":[-2.569598,53.341851],"type":"Point"}
+  "geometry": {"coordinates":[-2.566406,53.342397],"type":"Point"}
 }

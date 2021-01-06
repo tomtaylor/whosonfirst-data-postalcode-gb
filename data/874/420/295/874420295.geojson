@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "uuuu",
-    "edtf:inception": "2011-05-01",
+    "edtf:inception": "2020-07-01",
     "geom:area": 0,
     "geom:bbox": "-2.025738,53.957720,-2.025738,53.957720",
     "geom:latitude": 53.95772,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698619, 
       85633159, 
       1360698753, 
       404439025, 
       101872297, 
-      404227469
+      404227469, 
+      1360698619
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 874420295,
-    "wof:lastmodified": 1583786383,
+    "wof:lastmodified": 1609868790,
     "wof:name": "BD23 9BW",
     "wof:parent_id": 101872297,
     "wof:placetype": "postalcode",

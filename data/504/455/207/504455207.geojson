@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-5.325514,55.552831,-5.325514,55.552831",
-    "geom:latitude": 55.552831,
-    "geom:longitude": -5.325514,
+    "geom:bbox": "-5.326910,55.552262,-5.326910,55.552262",
+    "geom:latitude": 55.552262,
+    "geom:longitude": -5.32691,
     "gp:parent_id": "12696203",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698697, 
       85633159, 
       1360698855, 
       404441385, 
-      404227471
+      404227471, 
+      1360698697
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701327,
-    "wof:geomhash": "1e621eb0827cbfadea3c008181fc0ebc",
+    "wof:geomhash": "ce3cb4e68f5129521d532fe9eb2fbb44",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504455207,
-    "wof:lastmodified": 1583786441,
+    "wof:lastmodified": 1609872337,
     "wof:name": "KA27 8EA",
     "wof:parent_id": 404441385,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -5.325514, 
-    55.552831, 
-    -5.325514, 
-    55.552831
+    -5.32691, 
+    55.552262, 
+    -5.32691, 
+    55.552262
   ],
-  "geometry": {"coordinates":[-5.325514,55.552831],"type":"Point"}
+  "geometry": {"coordinates":[-5.32691,55.552262],"type":"Point"}
 }

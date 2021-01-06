@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.205624,52.619143,-1.205624,52.619143",
-    "geom:latitude": 52.619143,
-    "geom:longitude": -1.205624,
+    "geom:bbox": "-1.206122,52.619002,-1.206122,52.619002",
+    "geom:latitude": 52.619002,
+    "geom:longitude": -1.206122,
     "gp:parent_id": "26063",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      404437107, 
-      1126053031, 
       404227469, 
       1360698569, 
       85633159, 
-      1360698871
+      1360698871, 
+      404437107, 
+      1126053031
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701092,
-    "wof:geomhash": "5c20be743855dd6fa5838012f2bc395b",
+    "wof:geomhash": "eed0c33b159a845cbde0ff1c0af09ad3",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 455029979,
-    "wof:lastmodified": 1583786206,
+    "wof:lastmodified": 1609869273,
     "wof:name": "LE3 3GB",
     "wof:parent_id": 404437107,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.205624, 
-    52.619143, 
-    -1.205624, 
-    52.619143
+    -1.206122, 
+    52.619002, 
+    -1.206122, 
+    52.619002
   ],
-  "geometry": {"coordinates":[-1.205624,52.619143],"type":"Point"}
+  "geometry": {"coordinates":[-1.206122,52.619002],"type":"Point"}
 }

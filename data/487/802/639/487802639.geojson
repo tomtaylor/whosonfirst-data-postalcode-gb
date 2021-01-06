@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.969234,50.873850,-2.969234,50.873850",
-    "geom:latitude": 50.87385,
-    "geom:longitude": -2.969234,
+    "geom:bbox": "-2.969135,50.873572,-2.969135,50.873572",
+    "geom:latitude": 50.873572,
+    "geom:longitude": -2.969135,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698589, 
-      85633159, 
       1360699059, 
       404441335, 
-      1360756929
+      1360756929, 
+      404227469, 
+      1360698589, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701175,
-    "wof:geomhash": "c17390e3ad555874ca1cff1d6c20085e",
+    "wof:geomhash": "7da94641c44a29f7be581621389b4ba2",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 487802639,
-    "wof:lastmodified": 1583786278,
+    "wof:lastmodified": 1609880824,
     "wof:name": "TA20 1LJ",
     "wof:parent_id": 101852515,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.969234, 
-    50.87385, 
-    -2.969234, 
-    50.87385
+    -2.969135, 
+    50.873572, 
+    -2.969135, 
+    50.873572
   ],
-  "geometry": {"coordinates":[-2.969234,50.87385],"type":"Point"}
+  "geometry": {"coordinates":[-2.969135,50.873572],"type":"Point"}
 }

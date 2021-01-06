@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "uuuu",
-    "edtf:inception": "2018-09-01",
+    "edtf:inception": "2020-09-01",
     "geom:area": 0,
     "geom:bbox": "0.016227,50.879363,0.016227,50.879363",
     "geom:latitude": 50.879363,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698549, 
       85633159, 
       1360698815, 
       404439855, 
       101853469, 
-      404227469
+      404227469, 
+      1360698549
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 488274331,
-    "wof:lastmodified": 1583786482,
+    "wof:lastmodified": 1609883813,
     "wof:name": "BN7 2UZ",
     "wof:parent_id": 101853469,
     "wof:placetype": "postalcode",

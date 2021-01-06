@@ -1,0 +1,53 @@
+{
+  "id": 1729681377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-07-01",
+    "geom:area": 0,
+    "geom:bbox": "-0.281654,50.835051,-0.281654,50.835051",
+    "geom:latitude": 50.835051,
+    "geom:longitude": -0.281654,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E10000032",
+    "os:district_code": "E07000223",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000008",
+    "src:geom": "os",
+    "wof:belongsto": [
+      1360698607, 
+      1360817173, 
+      101750325
+    ],
+    "wof:breaches": [],
+    "wof:country": "GB",
+    "wof:created": 1609906044,
+    "wof:geomhash": "b8a7f80598528edc659ec21ae9edd633",
+    "wof:hierarchy": [
+      {
+        "localadmin_id": 1360817173,
+        "locality_id": 101750325,
+        "region_id": 1360698607
+      }
+    ],
+    "wof:id": 1729681377,
+    "wof:lastmodified": 1609906044,
+    "wof:name": "BN43 5QR",
+    "wof:parent_id": -1,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -0.281654, 
+    50.835051, 
+    -0.281654, 
+    50.835051
+  ],
+  "geometry": {"coordinates":[-0.281654,50.835051],"type":"Point"}
+}

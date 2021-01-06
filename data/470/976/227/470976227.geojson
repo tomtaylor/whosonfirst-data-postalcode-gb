@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.482712,52.134124,-0.482712,52.134124",
-    "geom:latitude": 52.134124,
-    "geom:longitude": -0.482712,
+    "geom:bbox": "-0.482750,52.134128,-0.482750,52.134128",
+    "geom:latitude": 52.134128,
+    "geom:longitude": -0.48275,
     "gp:parent_id": "12215",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      101750441, 
-      404227469, 
       1360698527, 
       85633159, 
-      1360699073
+      1360699073, 
+      101750441, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701357,
-    "wof:geomhash": "129fdfcf275c374cfbd96307705d5341",
+    "wof:geomhash": "b28e61e68784c9fdf68f933723b72fe7",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 470976227,
-    "wof:lastmodified": 1583786491,
+    "wof:lastmodified": 1609878113,
     "wof:name": "MK40 4LW",
     "wof:parent_id": 101750441,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.482712, 
-    52.134124, 
-    -0.482712, 
-    52.134124
+    -0.48275, 
+    52.134128, 
+    -0.48275, 
+    52.134128
   ],
-  "geometry": {"coordinates":[-0.482712,52.134124],"type":"Point"}
+  "geometry": {"coordinates":[-0.48275,52.134128],"type":"Point"}
 }

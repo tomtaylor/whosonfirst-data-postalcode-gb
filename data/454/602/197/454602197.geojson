@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2003-11-01",
     "geom:area": 0,
-    "geom:bbox": "-3.413654,50.729414,-3.413654,50.729414",
-    "geom:latitude": 50.729414,
-    "geom:longitude": -3.413654,
+    "geom:bbox": "-3.413637,50.729315,-3.413637,50.729315",
+    "geom:latitude": 50.729315,
+    "geom:longitude": -3.413637,
     "gp:parent_id": "16418",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698541, 
-      85633159, 
-      1360699081, 
       404435455, 
       1125800231, 
-      404227469
+      404227469, 
+      1360698541, 
+      85633159, 
+      1360699081
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701658,
-    "wof:geomhash": "87d066f1246da8035c53f8749082df13",
+    "wof:geomhash": "ceb9ba94d14687d9e970399e7a38e8b8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454602197,
-    "wof:lastmodified": 1583786788,
+    "wof:lastmodified": 1609896327,
     "wof:name": "EX5 2HL",
     "wof:parent_id": 404435455,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.413654, 
-    50.729414, 
-    -3.413654, 
-    50.729414
+    -3.413637, 
+    50.729315, 
+    -3.413637, 
+    50.729315
   ],
-  "geometry": {"coordinates":[-3.413654,50.729414],"type":"Point"}
+  "geometry": {"coordinates":[-3.413637,50.729315],"type":"Point"}
 }

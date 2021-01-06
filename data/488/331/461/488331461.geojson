@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2007-02-01",
     "geom:area": 0,
-    "geom:bbox": "-1.083978,52.965992,-1.083978,52.965992",
-    "geom:latitude": 52.965992,
-    "geom:longitude": -1.083978,
+    "geom:bbox": "-1.083992,52.966001,-1.083992,52.966001",
+    "geom:latitude": 52.966001,
+    "geom:longitude": -1.083992,
     "gp:parent_id": "12696053",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698809, 
       1360817357, 
       1125946055, 
       404227469, 
       1360698583, 
-      85633159
+      85633159, 
+      1360698809
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701350,
-    "wof:geomhash": "c0b6c0e720b477d4f545c14b5b988a8a",
+    "wof:geomhash": "7ec4af8709d4bcaca9312d4e7758669f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488331461,
-    "wof:lastmodified": 1595732398,
+    "wof:lastmodified": 1609886959,
     "wof:name": "NG4 3FE",
     "wof:parent_id": 101913991,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.083978, 
-    52.965992, 
-    -1.083978, 
-    52.965992
+    -1.083992, 
+    52.966001, 
+    -1.083992, 
+    52.966001
   ],
-  "geometry": {"coordinates":[-1.083978,52.965992],"type":"Point"}
+  "geometry": {"coordinates":[-1.083992,52.966001],"type":"Point"}
 }

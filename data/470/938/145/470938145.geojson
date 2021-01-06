@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.530549,51.263544,0.530549,51.263544",
-    "geom:latitude": 51.263544,
-    "geom:longitude": 0.530549,
+    "geom:bbox": "0.530635,51.263542,0.530635,51.263542",
+    "geom:latitude": 51.263542,
+    "geom:longitude": 0.530635,
     "gp:parent_id": "28168",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698811, 
       101750341, 
       404227469, 
       1360698565, 
-      85633159
+      85633159, 
+      1360698811
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701320,
-    "wof:geomhash": "69e1458307d7c7cbead3841456b6c9bb",
+    "wof:geomhash": "fcfc5cd703a302d7d9e42b049461a42f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 470938145,
-    "wof:lastmodified": 1583786450,
+    "wof:lastmodified": 1609875115,
     "wof:name": "ME15 7DB",
     "wof:parent_id": 101750341,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.530549, 
-    51.263544, 
-    0.530549, 
-    51.263544
+    0.530635, 
+    51.263542, 
+    0.530635, 
+    51.263542
   ],
-  "geometry": {"coordinates":[0.530549,51.263544],"type":"Point"}
+  "geometry": {"coordinates":[0.530635,51.263542],"type":"Point"}
 }

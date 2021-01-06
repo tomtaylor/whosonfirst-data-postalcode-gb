@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.102755,52.386545,0.102755,52.386545",
-    "geom:latitude": 52.386545,
-    "geom:longitude": 0.102755,
+    "geom:bbox": "0.102130,52.386691,0.102130,52.386691",
+    "geom:latitude": 52.386691,
+    "geom:longitude": 0.10213,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698845, 
       404432005, 
       1327163025, 
       404227469, 
-      1360698535
+      1360698535, 
+      85633159, 
+      1360698845
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701191,
-    "wof:geomhash": "e6bb16d8a8ce19c60a31922dbf895e63",
+    "wof:geomhash": "6bda5c209074e7b2df722376994ebc85",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454091933,
-    "wof:lastmodified": 1583786339,
+    "wof:lastmodified": 1609870440,
     "wof:name": "CB6 2NZ",
     "wof:parent_id": 404432005,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.102755, 
-    52.386545, 
-    0.102755, 
-    52.386545
+    0.10213, 
+    52.386691, 
+    0.10213, 
+    52.386691
   ],
-  "geometry": {"coordinates":[0.102755,52.386545],"type":"Point"}
+  "geometry": {"coordinates":[0.10213,52.386691],"type":"Point"}
 }

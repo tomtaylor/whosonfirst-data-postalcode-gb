@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2011-11-01",
     "geom:area": 0,
-    "geom:bbox": "-2.267674,51.818828,-2.267674,51.818828",
-    "geom:latitude": 51.818828,
-    "geom:longitude": -2.267674,
+    "geom:bbox": "-2.267904,51.818603,-2.267904,51.818603",
+    "geom:latitude": 51.818603,
+    "geom:longitude": -2.267904,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698553, 
-      85633159, 
       1360698927, 
       404440801, 
-      1360756481
+      1360756481, 
+      404227469, 
+      1360698553, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468879885,
-    "wof:geomhash": "4d431aa25767e15eb876abd8d6ac6432",
+    "wof:geomhash": "8db93fb9e4ebac274d9904d4c34a9562",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 874460449,
-    "wof:lastmodified": 1583786276,
+    "wof:lastmodified": 1609870083,
     "wof:name": "GL2 2FY",
     "wof:parent_id": 404440801,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.267674, 
-    51.818828, 
-    -2.267674, 
-    51.818828
+    -2.267904, 
+    51.818603, 
+    -2.267904, 
+    51.818603
   ],
-  "geometry": {"coordinates":[-2.267674,51.818828],"type":"Point"}
+  "geometry": {"coordinates":[-2.267904,51.818603],"type":"Point"}
 }

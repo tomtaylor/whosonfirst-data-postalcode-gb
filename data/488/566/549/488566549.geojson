@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.549192,51.497572,-3.549192,51.497572",
-    "geom:latitude": 51.497572,
-    "geom:longitude": -3.549192,
+    "geom:bbox": "-3.548813,51.497416,-3.548813,51.497416",
+    "geom:latitude": 51.497416,
+    "geom:longitude": -3.548813,
     "gp:parent_id": "12696127",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699051, 
       404451003, 
       1360711633, 
       404227475, 
-      1360698631
+      1360698631, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701593,
-    "wof:geomhash": "256d0f63fbc88cd945b4ae39f3ae96b2",
+    "wof:geomhash": "22b180c83f6ef7facadee2951f52efa1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488566549,
-    "wof:lastmodified": 1583786781,
+    "wof:lastmodified": 1609897092,
     "wof:name": "CF31 3PT",
     "wof:parent_id": 404451003,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.549192, 
-    51.497572, 
-    -3.549192, 
-    51.497572
+    -3.548813, 
+    51.497416, 
+    -3.548813, 
+    51.497416
   ],
-  "geometry": {"coordinates":[-3.549192,51.497572],"type":"Point"}
+  "geometry": {"coordinates":[-3.548813,51.497416],"type":"Point"}
 }

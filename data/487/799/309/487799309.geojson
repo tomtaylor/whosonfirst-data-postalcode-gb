@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.758806,50.916793,-2.758806,50.916793",
-    "geom:latitude": 50.916793,
-    "geom:longitude": -2.758806,
+    "geom:bbox": "-2.758550,50.916777,-2.758550,50.916777",
+    "geom:latitude": 50.916777,
+    "geom:longitude": -2.75855,
     "gp:parent_id": "39600",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      1360755953, 
+      404227469, 
       1360698589, 
       85633159, 
       1360699059, 
-      404450947, 
-      1360755953, 
-      404227469
+      404450947
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701173,
-    "wof:geomhash": "d2b943cd4bc0d74a0a8675e745c3302f",
+    "wof:geomhash": "969a2e0f3197f22d6a7313cd9ac859cb",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487799309,
-    "wof:lastmodified": 1583786276,
+    "wof:lastmodified": 1609880573,
     "wof:name": "TA18 7QA",
     "wof:parent_id": 404450947,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.758806, 
-    50.916793, 
-    -2.758806, 
-    50.916793
+    -2.75855, 
+    50.916777, 
+    -2.75855, 
+    50.916777
   ],
-  "geometry": {"coordinates":[-2.758806,50.916793],"type":"Point"}
+  "geometry": {"coordinates":[-2.75855,50.916777],"type":"Point"}
 }

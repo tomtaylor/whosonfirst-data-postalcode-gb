@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.184035,51.616960,-0.184035,51.616960",
-    "geom:latitude": 51.61696,
-    "geom:longitude": -0.184035,
+    "geom:bbox": "-0.183870,51.617110,-0.183870,51.617110",
+    "geom:latitude": 51.61711,
+    "geom:longitude": -0.18387,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      101750367, 
       404227469, 
       85792231, 
       1360698645, 
-      1158857285
+      1158857285, 
+      85633159, 
+      101750367
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701251,
-    "wof:geomhash": "38485cbd7f0406dec26cb4265cede24f",
+    "wof:geomhash": "121cee6994b4adc8cde0324d48e2575c",
     "wof:hierarchy": [
       {
         "borough_id": 1158857285,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471000621,
-    "wof:lastmodified": 1583786171,
+    "wof:lastmodified": 1609868648,
     "wof:name": "N12 8HX",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.184035, 
-    51.61696, 
-    -0.184035, 
-    51.61696
+    -0.18387, 
+    51.61711, 
+    -0.18387, 
+    51.61711
   ],
-  "geometry": {"coordinates":[-0.184035,51.61696],"type":"Point"}
+  "geometry": {"coordinates":[-0.18387,51.61711],"type":"Point"}
 }

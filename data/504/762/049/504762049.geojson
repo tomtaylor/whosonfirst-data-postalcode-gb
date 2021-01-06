@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.257582,55.860358,-4.257582,55.860358",
-    "geom:latitude": 55.860358,
-    "geom:longitude": -4.257582,
+    "geom:bbox": "-4.257985,55.860112,-4.257985,55.860112",
+    "geom:latitude": 55.860112,
+    "geom:longitude": -4.257985,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404430153, 
-      1175612707, 
-      404227471, 
       85792619, 
       1360698707, 
       85633159, 
-      1360698797
+      1360698797, 
+      404430153, 
+      1175612707, 
+      404227471
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701555,
-    "wof:geomhash": "304d88e9114af37ac8be19ee66de0fd7",
+    "wof:geomhash": "d921892a5396539faed15e3db4504591",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 504762049,
-    "wof:lastmodified": 1583786710,
+    "wof:lastmodified": 1609889589,
     "wof:name": "G1 3SL",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.257582, 
-    55.860358, 
-    -4.257582, 
-    55.860358
+    -4.257985, 
+    55.860112, 
+    -4.257985, 
+    55.860112
   ],
-  "geometry": {"coordinates":[-4.257582,55.860358],"type":"Point"}
+  "geometry": {"coordinates":[-4.257985,55.860112],"type":"Point"}
 }

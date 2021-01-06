@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "0.006289,51.459490,0.006289,51.459490",
-    "geom:latitude": 51.45949,
-    "geom:longitude": 0.006289,
+    "geom:bbox": "0.006161,51.459538,0.006161,51.459538",
+    "geom:latitude": 51.459538,
+    "geom:longitude": 0.006161,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698645, 
-      1158857299, 
       85633159, 
       101750367, 
       404227469, 
-      1158865993
+      1158865993, 
+      1360698645, 
+      1158857299
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701711,
-    "wof:geomhash": "adb1c41e2158107f5aaa3ed63cd810ee",
+    "wof:geomhash": "11cb753258b131443dc341affbeb3004",
     "wof:hierarchy": [
       {
         "borough_id": 1158857299,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471703927,
-    "wof:lastmodified": 1595724562,
+    "wof:lastmodified": 1609901400,
     "wof:name": "SE13 5SW",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.006289, 
-    51.45949, 
-    0.006289, 
-    51.45949
+    0.006161, 
+    51.459538, 
+    0.006161, 
+    51.459538
   ],
-  "geometry": {"coordinates":[0.006289,51.45949],"type":"Point"}
+  "geometry": {"coordinates":[0.006161,51.459538],"type":"Point"}
 }

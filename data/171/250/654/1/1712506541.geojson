@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "1984-12-01",
+    "edtf:deprecated": "2021-01-05",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:bbox": "-2.985911,51.593002,-2.985911,51.593002",
@@ -18,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404434255, 
       1125774683, 
       404227475, 
       1360698641, 
       85633159, 
-      1360698735
+      1360698735, 
+      404434255
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +41,7 @@
       }
     ],
     "wof:id": 1712506541,
-    "wof:lastmodified": 1583791090,
+    "wof:lastmodified": 1609869772,
     "wof:name": "NPT 7FH",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

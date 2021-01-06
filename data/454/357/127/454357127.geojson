@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1992-08-01",
     "geom:area": 0,
-    "geom:bbox": "-1.630213,52.875013,-1.630213,52.875013",
-    "geom:latitude": 52.875013,
-    "geom:longitude": -1.630213,
+    "geom:bbox": "-1.630980,52.875231,-1.630980,52.875231",
+    "geom:latitude": 52.875231,
+    "geom:longitude": -1.63098,
     "gp:parent_id": "23506",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698765, 
+      404451449, 
       1343690593, 
       404227469, 
       1360698539, 
-      85633159, 
-      1360698765, 
-      404451449
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701511,
-    "wof:geomhash": "1e5bce6b609f0209392bfdbeb0500aae",
+    "wof:geomhash": "12aaa07d561957bb7adbb005a2fb2c40",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454357127,
-    "wof:lastmodified": 1583786641,
+    "wof:lastmodified": 1609885363,
     "wof:name": "DE65 5FP",
     "wof:parent_id": 404451449,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.630213, 
-    52.875013, 
-    -1.630213, 
-    52.875013
+    -1.63098, 
+    52.875231, 
+    -1.63098, 
+    52.875231
   ],
-  "geometry": {"coordinates":[-1.630213,52.875013],"type":"Point"}
+  "geometry": {"coordinates":[-1.63098,52.875231],"type":"Point"}
 }

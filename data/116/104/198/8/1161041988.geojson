@@ -2,7 +2,7 @@
   "id": 1161041988,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-05-01",
     "edtf:inception": "2019-08-01",
     "geom:area": 0,
     "geom:bbox": "-1.485102,51.776953,-1.485102,51.776953",
@@ -10,7 +10,7 @@
     "geom:longitude": -1.485102,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000025",
     "os:district_code": "E07000181",
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      101852913, 
-      404227469, 
       1360698585, 
       85633159, 
       1360698839, 
-      404450543
+      404450543, 
+      101852913, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1161041988,
-    "wof:lastmodified": 1583801298,
+    "wof:lastmodified": 1609875127,
     "wof:name": "OX28 9LX",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

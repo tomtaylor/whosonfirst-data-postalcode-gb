@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.408432,52.052288,-1.408432,52.052288",
-    "geom:latitude": 52.052288,
-    "geom:longitude": -1.408432,
+    "geom:bbox": "-1.408868,52.053531,-1.408868,52.053531",
+    "geom:latitude": 52.053531,
+    "geom:longitude": -1.408868,
     "gp:parent_id": "30520",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1360759219, 
+      404227469, 
       1360698585, 
       85633159, 
       1360698839, 
-      404448815, 
-      1125831167, 
-      404227469
+      404437083
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,19 +32,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701496,
-    "wof:geomhash": "489ab493c0c2ccbe905da911d11f1021",
+    "wof:geomhash": "dad0bf2cf9196dca3f56fbf0be82219f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360698839,
-        "localadmin_id": 404448815,
-        "locality_id": 1125831167,
+        "localadmin_id": 404437083,
+        "locality_id": 1360759219,
         "macroregion_id": 404227469,
         "region_id": 1360698585
       }
     ],
     "wof:id": 471317619,
-    "wof:lastmodified": 1583786647,
+    "wof:lastmodified": 1609886299,
     "wof:name": "OX15 6AW",
     "wof:parent_id": 404437083,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.408432, 
-    52.052288, 
-    -1.408432, 
-    52.052288
+    -1.408868, 
+    52.053531, 
+    -1.408868, 
+    52.053531
   ],
-  "geometry": {"coordinates":[-1.408432,52.052288],"type":"Point"}
+  "geometry": {"coordinates":[-1.408868,52.053531],"type":"Point"}
 }

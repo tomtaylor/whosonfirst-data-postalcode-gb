@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.208532,55.949700,-3.208532,55.949700",
-    "geom:latitude": 55.9497,
-    "geom:longitude": -3.208532,
+    "geom:bbox": "-3.208801,55.949590,-3.208801,55.949590",
+    "geom:latitude": 55.94959,
+    "geom:longitude": -3.208801,
     "gp:parent_id": "12696195",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698761, 
       404437279, 
       101750629, 
       404227471, 
       85861509, 
       1360698673, 
-      85633159
+      85633159, 
+      1360698761
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701521,
-    "wof:geomhash": "8c487994e02f5a73072e40925aa9184d",
+    "wof:geomhash": "f36695172f39c3c2a30c8ef9b6a6b125",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 488509075,
-    "wof:lastmodified": 1583786723,
+    "wof:lastmodified": 1609894608,
     "wof:name": "EH2 4RG",
     "wof:parent_id": 101750629,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.208532, 
-    55.9497, 
-    -3.208532, 
-    55.9497
+    -3.208801, 
+    55.94959, 
+    -3.208801, 
+    55.94959
   ],
-  "geometry": {"coordinates":[-3.208532,55.9497],"type":"Point"}
+  "geometry": {"coordinates":[-3.208801,55.94959],"type":"Point"}
 }

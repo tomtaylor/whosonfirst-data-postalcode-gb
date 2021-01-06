@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.519061,51.028475,0.519061,51.028475",
-    "geom:latitude": 51.028475,
-    "geom:longitude": 0.519061,
+    "geom:bbox": "0.519063,51.028511,0.519063,51.028511",
+    "geom:latitude": 51.028511,
+    "geom:longitude": 0.519063,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698565, 
       85633159, 
       1360698811, 
       404441941, 
-      101875395
+      101875395, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701207,
-    "wof:geomhash": "d2b4af285443e8e43464bce7acd90da4",
+    "wof:geomhash": "c14c5afe3207a765b27fe439e57a1d76",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 487848507,
-    "wof:lastmodified": 1583786302,
+    "wof:lastmodified": 1609883125,
     "wof:name": "TN18 4RN",
     "wof:parent_id": 404441941,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.519061, 
-    51.028475, 
-    0.519061, 
-    51.028475
+    0.519063, 
+    51.028511, 
+    0.519063, 
+    51.028511
   ],
-  "geometry": {"coordinates":[0.519061,51.028475],"type":"Point"}
+  "geometry": {"coordinates":[0.519063,51.028511],"type":"Point"}
 }

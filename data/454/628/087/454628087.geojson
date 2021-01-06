@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.293163,51.746860,-2.293163,51.746860",
-    "geom:latitude": 51.74686,
-    "geom:longitude": -2.293163,
+    "geom:bbox": "-2.286713,51.808165,-2.286713,51.808165",
+    "geom:latitude": 51.808165,
+    "geom:longitude": -2.286713,
     "gp:parent_id": "36303",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698927, 
-      404447879, 
-      1125994373, 
+      404442131, 
+      1125961887, 
       404227469, 
-      1360698553
+      1360698553, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,19 +32,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701666,
-    "wof:geomhash": "a0715581d00e362bcb97412a28b0e60f",
+    "wof:geomhash": "f73a1288f1547731aa70867a0e4467f5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360698927,
-        "localadmin_id": 404447879,
-        "locality_id": 1125994373,
+        "localadmin_id": 404442131,
+        "locality_id": 1125961887,
         "macroregion_id": 404227469,
         "region_id": 1360698553
       }
     ],
     "wof:id": 454628087,
-    "wof:lastmodified": 1583786803,
+    "wof:lastmodified": 1609897227,
     "wof:name": "GL10 3RB",
     "wof:parent_id": 404447879,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.293163, 
-    51.74686, 
-    -2.293163, 
-    51.74686
+    -2.286713, 
+    51.808165, 
+    -2.286713, 
+    51.808165
   ],
-  "geometry": {"coordinates":[-2.293163,51.74686],"type":"Point"}
+  "geometry": {"coordinates":[-2.286713,51.808165],"type":"Point"}
 }

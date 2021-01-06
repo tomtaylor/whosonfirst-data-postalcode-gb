@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-5.238343,56.429833,-5.238343,56.429833",
-    "geom:latitude": 56.429833,
-    "geom:longitude": -5.238343,
+    "geom:bbox": "-5.238183,56.430084,-5.238183,56.430084",
+    "geom:latitude": 56.430084,
+    "geom:longitude": -5.238183,
     "gp:parent_id": "12696185",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698863, 
       404439789, 
       404227471, 
       1360698695, 
-      85633159
+      85633159, 
+      1360698863
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701432,
-    "wof:geomhash": "5d485967ae82cc84baa856f227a1c910",
+    "wof:geomhash": "a53376860706f62531c1fb07eba830ee",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504564663,
-    "wof:lastmodified": 1583786576,
+    "wof:lastmodified": 1609879709,
     "wof:name": "PA35 1JE",
     "wof:parent_id": 404439789,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -5.238343, 
-    56.429833, 
-    -5.238343, 
-    56.429833
+    -5.238183, 
+    56.430084, 
+    -5.238183, 
+    56.430084
   ],
-  "geometry": {"coordinates":[-5.238343,56.429833],"type":"Point"}
+  "geometry": {"coordinates":[-5.238183,56.430084],"type":"Point"}
 }

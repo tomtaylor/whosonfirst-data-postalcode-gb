@@ -2,7 +2,7 @@
   "id": 504760159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-10-01",
     "edtf:inception": "2008-09-01",
     "geom:area": 0,
     "geom:bbox": "-2.722718,56.058169,-2.722718,56.058169",
@@ -11,7 +11,7 @@
     "gp:parent_id": "12696193",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "S92000003",
     "os:county_code": "S99999999",
     "os:district_code": "S12000010",
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698675, 
       85633159, 
       1360699017, 
       404447595, 
-      404227471, 
-      1360698675
+      404227471
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504760159,
-    "wof:lastmodified": 1583786708,
+    "wof:lastmodified": 1609889525,
     "wof:name": "EH39 9AA",
     "wof:parent_id": 101872463,
     "wof:placetype": "postalcode",

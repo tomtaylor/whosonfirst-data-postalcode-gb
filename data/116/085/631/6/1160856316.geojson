@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "uuuu",
-    "edtf:inception": "2019-07-01",
+    "edtf:inception": "2020-09-01",
     "geom:area": 0,
     "geom:bbox": "-2.985821,53.627005,-2.985821,53.627005",
     "geom:latitude": 53.627005,
@@ -18,11 +18,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698771, 
       101750595, 
       404227469, 
-      1360698573, 
-      85633159, 
-      1360698771
+      1360698573
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1160856316,
-    "wof:lastmodified": 1583793026,
+    "wof:lastmodified": 1609870900,
     "wof:name": "PR8 9RS",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

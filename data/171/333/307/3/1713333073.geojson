@@ -5,30 +5,30 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "-1.298808,51.753323,-1.298808,51.753323",
-    "geom:latitude": 51.753323,
-    "geom:longitude": -1.298808,
+    "geom:bbox": "-1.297785,51.751114,-1.297785,51.751114",
+    "geom:latitude": 51.751114,
+    "geom:longitude": -1.297785,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000025",
     "os:district_code": "E07000180",
-    "os:positional_quality_indicator": "5",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698839, 
       404437367, 
       1125955985, 
       404227469, 
-      1360698585
+      1360698585, 
+      85633159, 
+      1360698839
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735742,
-    "wof:geomhash": "f1305866dd7d04afe905a482d5236b46",
+    "wof:geomhash": "ed2a94a236ab59e1c81f9c8f97bfadf5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1713333073,
-    "wof:lastmodified": 1595753531,
+    "wof:lastmodified": 1609875635,
     "wof:name": "OX2 9TD",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.298808, 
-    51.753323, 
-    -1.298808, 
-    51.753323
+    -1.297785, 
+    51.751114, 
+    -1.297785, 
+    51.751114
   ],
-  "geometry": {"coordinates":[-1.298808,51.753323],"type":"Point"}
+  "geometry": {"coordinates":[-1.297785,51.751114],"type":"Point"}
 }

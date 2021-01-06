@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.941330,52.489620,-0.941330,52.489620",
-    "geom:latitude": 52.48962,
-    "geom:longitude": -0.94133,
+    "geom:bbox": "-0.941864,52.489463,-0.941864,52.489463",
+    "geom:latitude": 52.489463,
+    "geom:longitude": -0.941864,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698871, 
       404448411, 
       1125880565, 
       404227469, 
-      1360698569, 
-      85633159, 
-      1360698871
+      1360698569
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583797538,
-    "wof:geomhash": "89c73537495b0c631f374ef07b3caa29",
+    "wof:geomhash": "20a19b4a502b816e07dd396c57a7d8c5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 39082545,
-    "wof:lastmodified": 1583797538,
+    "wof:lastmodified": 1609868586,
     "wof:name": "LE16 7EA",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.94133, 
-    52.48962, 
-    -0.94133, 
-    52.48962
+    -0.941864, 
+    52.489463, 
+    -0.941864, 
+    52.489463
   ],
-  "geometry": {"coordinates":[-0.94133,52.48962],"type":"Point"}
+  "geometry": {"coordinates":[-0.941864,52.489463],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.611640,51.499915,-2.611640,51.499915",
-    "geom:latitude": 51.499915,
-    "geom:longitude": -2.61164,
+    "geom:bbox": "-2.611339,51.500025,-2.611339,51.500025",
+    "geom:latitude": 51.500025,
+    "geom:longitude": -2.611339,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,13 +18,13 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      85790479, 
-      1360698531, 
       85633159, 
       1360698747, 
       404431949, 
       1175612699, 
-      404227469
+      404227469, 
+      85790479, 
+      1360698531
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701453,
-    "wof:geomhash": "2701f9ed629b399f5083c7f65eb087bf",
+    "wof:geomhash": "bb42b07698e82cb74d55a20f97da2238",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 438264533,
-    "wof:lastmodified": 1595714098,
+    "wof:lastmodified": 1609882712,
     "wof:name": "BS10 6AG",
     "wof:parent_id": 101750389,
     "wof:placetype": "postalcode",
@@ -55,10 +55,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.61164, 
-    51.499915, 
-    -2.61164, 
-    51.499915
+    -2.611339, 
+    51.500025, 
+    -2.611339, 
+    51.500025
   ],
-  "geometry": {"coordinates":[-2.61164,51.499915],"type":"Point"}
+  "geometry": {"coordinates":[-2.611339,51.500025],"type":"Point"}
 }

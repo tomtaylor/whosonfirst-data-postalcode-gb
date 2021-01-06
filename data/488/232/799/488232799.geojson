@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1998-06-01",
     "geom:area": 0,
-    "geom:bbox": "-0.209307,54.111299,-0.209307,54.111299",
-    "geom:latitude": 54.111299,
-    "geom:longitude": -0.209307,
+    "geom:bbox": "-0.206505,54.105309,-0.206505,54.105309",
+    "geom:latitude": 54.105309,
+    "geom:longitude": -0.206505,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      101874169, 
-      404227469, 
-      1360698547, 
       85633159, 
       1360699001, 
-      404439969
+      404439969, 
+      101874169, 
+      404227469, 
+      1360698547
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701175,
-    "wof:geomhash": "072711ef51cf4aa8bc8b7952156a94f9",
+    "wof:geomhash": "de930d269f45820b070e0fb3a13d1e4e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 488232799,
-    "wof:lastmodified": 1583786424,
+    "wof:lastmodified": 1609881430,
     "wof:name": "YO16 6XT",
     "wof:parent_id": 404439969,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.209307, 
-    54.111299, 
-    -0.209307, 
-    54.111299
+    -0.206505, 
+    54.105309, 
+    -0.206505, 
+    54.105309
   ],
-  "geometry": {"coordinates":[-0.209307,54.111299],"type":"Point"}
+  "geometry": {"coordinates":[-0.206505,54.105309],"type":"Point"}
 }

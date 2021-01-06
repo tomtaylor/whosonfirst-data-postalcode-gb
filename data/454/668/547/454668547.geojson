@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.283127,51.543115,-2.283127,51.543115",
-    "geom:latitude": 51.543115,
-    "geom:longitude": -2.283127,
+    "geom:bbox": "-2.282919,51.542711,-2.282919,51.542711",
+    "geom:latitude": 51.542711,
+    "geom:longitude": -2.282919,
     "gp:parent_id": "11574",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698895, 
       404451535, 
       1125878575, 
       404227469, 
-      1360698553
+      1360698553, 
+      85633159, 
+      1360698895
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701691,
-    "wof:geomhash": "09b4da01c74087db89b093494f005d34",
+    "wof:geomhash": "c1117585e888f3f362f71922fd425e49",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454668547,
-    "wof:lastmodified": 1583786827,
+    "wof:lastmodified": 1609899031,
     "wof:name": "GL9 1DD",
     "wof:parent_id": 404451535,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.283127, 
-    51.543115, 
-    -2.283127, 
-    51.543115
+    -2.282919, 
+    51.542711, 
+    -2.282919, 
+    51.542711
   ],
-  "geometry": {"coordinates":[-2.283127,51.543115],"type":"Point"}
+  "geometry": {"coordinates":[-2.282919,51.542711],"type":"Point"}
 }

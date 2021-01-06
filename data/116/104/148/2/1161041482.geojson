@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "-1.224275,52.456446,-1.224275,52.456446",
-    "geom:latitude": 52.456446,
-    "geom:longitude": -1.224275,
+    "geom:bbox": "-1.224367,52.456213,-1.224367,52.456213",
+    "geom:latitude": 52.456213,
+    "geom:longitude": -1.224367,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,29 +18,29 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      101853103, 
+      404227469, 
       1360698569, 
       85633159, 
       1360698871, 
-      404445255, 
-      1125999125, 
-      404227469
+      404436119
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583801293,
-    "wof:geomhash": "cd456608aca6ed0dc17a1ea972c23f40",
+    "wof:geomhash": "6e3837c424616a1e186e15e8b1f6d602",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360698871,
-        "localadmin_id": 404445255,
-        "locality_id": 1125999125,
+        "localadmin_id": 404436119,
+        "locality_id": 101853103,
         "macroregion_id": 404227469,
         "region_id": 1360698569
       }
     ],
     "wof:id": 1161041482,
-    "wof:lastmodified": 1595711961,
+    "wof:lastmodified": 1609875084,
     "wof:name": "LE17 4FX",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.224275, 
-    52.456446, 
-    -1.224275, 
-    52.456446
+    -1.224367, 
+    52.456213, 
+    -1.224367, 
+    52.456213
   ],
-  "geometry": {"coordinates":[-1.224275,52.456446],"type":"Point"}
+  "geometry": {"coordinates":[-1.224367,52.456213],"type":"Point"}
 }

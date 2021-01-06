@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.618685,54.167245,-2.618685,54.167245",
-    "geom:latitude": 54.167245,
-    "geom:longitude": -2.618685,
+    "geom:bbox": "-2.618164,54.166225,-2.618164,54.166225",
+    "geom:latitude": 54.166225,
+    "geom:longitude": -2.618164,
     "gp:parent_id": "30189",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360698817, 
       404454233, 
       1126015765, 
       404227469, 
-      1360698567, 
-      85633159
+      1360698567
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701768,
-    "wof:geomhash": "ef9c7af2a6e43aa6b9a3a68515a39f16",
+    "wof:geomhash": "18bb8c40e8c46bfbda7f30a2bac1c928",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454999481,
-    "wof:lastmodified": 1583786904,
+    "wof:lastmodified": 1609905850,
     "wof:name": "LA6 2NZ",
     "wof:parent_id": 404454233,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.618685, 
-    54.167245, 
-    -2.618685, 
-    54.167245
+    -2.618164, 
+    54.166225, 
+    -2.618164, 
+    54.166225
   ],
-  "geometry": {"coordinates":[-2.618685,54.167245],"type":"Point"}
+  "geometry": {"coordinates":[-2.618164,54.166225],"type":"Point"}
 }

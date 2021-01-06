@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.235844,54.005619,-2.235844,54.005619",
-    "geom:latitude": 54.005619,
-    "geom:longitude": -2.235844,
+    "geom:bbox": "-2.236608,54.005824,-2.236608,54.005824",
+    "geom:latitude": 54.005824,
+    "geom:longitude": -2.236608,
     "gp:parent_id": "22948",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1125861821, 
-      404227469, 
-      1360698619, 
       85633159, 
       1360698753, 
-      404430229
+      404430229, 
+      1125861821, 
+      404227469, 
+      1360698619
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701324,
-    "wof:geomhash": "c577d3bb6919fcd0ae1c20594b38a72e",
+    "wof:geomhash": "1b43c33d12936fcf736d67aa9971608d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438131429,
-    "wof:lastmodified": 1583786457,
+    "wof:lastmodified": 1609875202,
     "wof:name": "BD23 4HS",
     "wof:parent_id": 404430229,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.235844, 
-    54.005619, 
-    -2.235844, 
-    54.005619
+    -2.236608, 
+    54.005824, 
+    -2.236608, 
+    54.005824
   ],
-  "geometry": {"coordinates":[-2.235844,54.005619],"type":"Point"}
+  "geometry": {"coordinates":[-2.236608,54.005824],"type":"Point"}
 }

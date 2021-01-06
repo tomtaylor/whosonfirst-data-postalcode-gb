@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.432704,55.775000,-4.432704,55.775000",
-    "geom:latitude": 55.775,
-    "geom:longitude": -4.432704,
+    "geom:bbox": "-4.432794,55.774908,-4.432794,55.774908",
+    "geom:latitude": 55.774908,
+    "geom:longitude": -4.432794,
     "gp:parent_id": "12696194",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227471, 
-      1360698699, 
       85633159, 
       1360699117, 
-      404435263
+      404435263, 
+      404227471, 
+      1360698699
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701218,
-    "wof:geomhash": "08cdc5095ec6c4beb71e3922b417b0d5",
+    "wof:geomhash": "61a16c653e5743c14d1dca83fe04610a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504426005,
-    "wof:lastmodified": 1583786336,
+    "wof:lastmodified": 1609870652,
     "wof:name": "G78 3BU",
     "wof:parent_id": 404435263,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.432704, 
-    55.775, 
-    -4.432704, 
-    55.775
+    -4.432794, 
+    55.774908, 
+    -4.432794, 
+    55.774908
   ],
-  "geometry": {"coordinates":[-4.432704,55.775],"type":"Point"}
+  "geometry": {"coordinates":[-4.432794,55.774908],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.309311,55.855483,-4.309311,55.855483",
-    "geom:latitude": 55.855483,
-    "geom:longitude": -4.309311,
+    "geom:bbox": "-4.308460,55.854869,-4.308460,55.854869",
+    "geom:latitude": 55.854869,
+    "geom:longitude": -4.30846,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      404227471, 
+      85792485, 
       1360698707, 
       85633159, 
       1360698797, 
       404430153, 
-      1175612707, 
-      404227471, 
-      85792485
+      1175612707
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701460,
-    "wof:geomhash": "eea6a4c42c98fb185aec642a9688ae71",
+    "wof:geomhash": "719b668e99d74915f76b8c2d0b218815",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 488446297,
-    "wof:lastmodified": 1583786668,
+    "wof:lastmodified": 1609892019,
     "wof:name": "G51 2RQ",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.309311, 
-    55.855483, 
-    -4.309311, 
-    55.855483
+    -4.30846, 
+    55.854869, 
+    -4.30846, 
+    55.854869
   ],
-  "geometry": {"coordinates":[-4.309311,55.855483],"type":"Point"}
+  "geometry": {"coordinates":[-4.30846,55.854869],"type":"Point"}
 }

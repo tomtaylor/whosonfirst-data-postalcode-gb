@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.253409,52.394819,0.253409,52.394819",
-    "geom:latitude": 52.394819,
-    "geom:longitude": 0.253409,
+    "geom:bbox": "0.253345,52.394713,0.253345,52.394713",
+    "geom:latitude": 52.394713,
+    "geom:longitude": 0.253345,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404453149, 
-      101854889, 
       404227469, 
       1360698535, 
       85633159, 
-      1360698845
+      1360698845, 
+      404453149, 
+      101854889
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701194,
-    "wof:geomhash": "d616190445bd271832530c5fb2b27d47",
+    "wof:geomhash": "8f7b6c4e4c5fb7ef11631292b6ac7cfa",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454093033,
-    "wof:lastmodified": 1595711460,
+    "wof:lastmodified": 1609870492,
     "wof:name": "CB7 4HT",
     "wof:parent_id": 101854889,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.253409, 
-    52.394819, 
-    0.253409, 
-    52.394819
+    0.253345, 
+    52.394713, 
+    0.253345, 
+    52.394713
   ],
-  "geometry": {"coordinates":[0.253409,52.394819],"type":"Point"}
+  "geometry": {"coordinates":[0.253345,52.394713],"type":"Point"}
 }

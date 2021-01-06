@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.847184,52.181654,-1.847184,52.181654",
-    "geom:latitude": 52.181654,
-    "geom:longitude": -1.847184,
+    "geom:bbox": "-1.845343,52.181103,-1.845343,52.181103",
+    "geom:latitude": 52.181103,
+    "geom:longitude": -1.845343,
     "gp:parent_id": "12574",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698891, 
-      404447321, 
-      1276903945, 
       404227469, 
       1360698603, 
-      85633159
+      85633159, 
+      1360698891, 
+      404447321, 
+      1276903945
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701062,
-    "wof:geomhash": "dacee37c0ea13d4fe7a70c832fd0102a",
+    "wof:geomhash": "f4adf74b16913ed6f38f14ef90da9ac6",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438001405,
-    "wof:lastmodified": 1595711627,
+    "wof:lastmodified": 1609868613,
     "wof:name": "B50 4JY",
     "wof:parent_id": 404447321,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.847184, 
-    52.181654, 
-    -1.847184, 
-    52.181654
+    -1.845343, 
+    52.181103, 
+    -1.845343, 
+    52.181103
   ],
-  "geometry": {"coordinates":[-1.847184,52.181654],"type":"Point"}
+  "geometry": {"coordinates":[-1.845343,52.181103],"type":"Point"}
 }

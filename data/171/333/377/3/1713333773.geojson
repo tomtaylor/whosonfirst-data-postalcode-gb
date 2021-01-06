@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-02-01",
     "geom:area": 0,
-    "geom:bbox": "-2.598689,53.541858,-2.598689,53.541858",
-    "geom:latitude": 53.541858,
-    "geom:longitude": -2.598689,
+    "geom:bbox": "-2.598836,53.541570,-2.598836,53.541570",
+    "geom:latitude": 53.54157,
+    "geom:longitude": -2.598836,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699023, 
       1360817301, 
       1125871869, 
       404227469, 
-      1360698555
+      1360698555, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735766,
-    "wof:geomhash": "4a3ba7cf8a56cf006d9f261cdc457586",
+    "wof:geomhash": "a42fbe79eb466ae0e93f7a0cb7679453",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1713333773,
-    "wof:lastmodified": 1595753550,
+    "wof:lastmodified": 1609875699,
     "wof:name": "WN2 2AQ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.598689, 
-    53.541858, 
-    -2.598689, 
-    53.541858
+    -2.598836, 
+    53.54157, 
+    -2.598836, 
+    53.54157
   ],
-  "geometry": {"coordinates":[-2.598689,53.541858],"type":"Point"}
+  "geometry": {"coordinates":[-2.598836,53.54157],"type":"Point"}
 }

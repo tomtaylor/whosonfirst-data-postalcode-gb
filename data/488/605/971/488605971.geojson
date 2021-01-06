@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.899408,56.640223,-2.899408,56.640223",
-    "geom:latitude": 56.640223,
-    "geom:longitude": -2.899408,
+    "geom:bbox": "-2.901271,56.639698,-2.901271,56.639698",
+    "geom:latitude": 56.639698,
+    "geom:longitude": -2.901271,
     "gp:parent_id": "12696184",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698807, 
       404446035, 
       404227471, 
-      1360698689
+      1360698689, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701614,
-    "wof:geomhash": "f2ea478b9ade9d622a719a1bc39b89a2",
+    "wof:geomhash": "262eb84533cf1ad64a43286e75d76112",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488605971,
-    "wof:lastmodified": 1583786807,
+    "wof:lastmodified": 1609898632,
     "wof:name": "DD8 1DP",
     "wof:parent_id": 101872627,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.899408, 
-    56.640223, 
-    -2.899408, 
-    56.640223
+    -2.901271, 
+    56.639698, 
+    -2.901271, 
+    56.639698
   ],
-  "geometry": {"coordinates":[-2.899408,56.640223],"type":"Point"}
+  "geometry": {"coordinates":[-2.901271,56.639698],"type":"Point"}
 }

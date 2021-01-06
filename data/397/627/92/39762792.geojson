@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-04-01",
     "geom:area": 0,
-    "geom:bbox": "-0.475618,53.295944,-0.475618,53.295944",
-    "geom:latitude": 53.295944,
-    "geom:longitude": -0.475618,
+    "geom:bbox": "-0.475862,53.296280,-0.475862,53.296280",
+    "geom:latitude": 53.29628,
+    "geom:longitude": -0.475862,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699067, 
-      404439355, 
       1125917717, 
       404227469, 
-      1360698571
+      1360698571, 
+      85633159, 
+      1360699067, 
+      404439355
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583805054,
-    "wof:geomhash": "4837528e37ad923cbcf7ed38b1438786",
+    "wof:geomhash": "5dcbde4343158ef9e0b07120aa2e2016",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 39762792,
-    "wof:lastmodified": 1583805054,
+    "wof:lastmodified": 1609868807,
     "wof:name": "LN2 3TA",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.475618, 
-    53.295944, 
-    -0.475618, 
-    53.295944
+    -0.475862, 
+    53.29628, 
+    -0.475862, 
+    53.29628
   ],
-  "geometry": {"coordinates":[-0.475618,53.295944],"type":"Point"}
+  "geometry": {"coordinates":[-0.475862,53.29628],"type":"Point"}
 }

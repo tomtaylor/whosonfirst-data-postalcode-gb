@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-07-01",
     "geom:area": 0,
-    "geom:bbox": "-3.143495,55.897406,-3.143495,55.897406",
-    "geom:latitude": 55.897406,
-    "geom:longitude": -3.143495,
+    "geom:bbox": "-3.143560,55.897441,-3.143560,55.897441",
+    "geom:latitude": 55.897441,
+    "geom:longitude": -3.14356,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,18 +18,18 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404437279, 
-      101750629, 
       404227471, 
       85787605, 
       1360698673, 
       85633159, 
-      1360698761
+      1360698761, 
+      404437279, 
+      101750629
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583796140,
-    "wof:geomhash": "3a9a71469955c10107a566d31fcb5078",
+    "wof:geomhash": "276971a619aba0189ae44de269ee0248",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 38952972,
-    "wof:lastmodified": 1583796140,
+    "wof:lastmodified": 1609868505,
     "wof:name": "EH17 8XE",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.143495, 
-    55.897406, 
-    -3.143495, 
-    55.897406
+    -3.14356, 
+    55.897441, 
+    -3.14356, 
+    55.897441
   ],
-  "geometry": {"coordinates":[-3.143495,55.897406],"type":"Point"}
+  "geometry": {"coordinates":[-3.14356,55.897441],"type":"Point"}
 }

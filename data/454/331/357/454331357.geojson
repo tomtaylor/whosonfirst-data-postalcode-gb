@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.567132,52.733439,-1.567132,52.733439",
-    "geom:latitude": 52.733439,
-    "geom:longitude": -1.567132,
+    "geom:bbox": "-1.567519,52.733252,-1.567519,52.733252",
+    "geom:latitude": 52.733252,
+    "geom:longitude": -1.567519,
     "gp:parent_id": "31224",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      404450495, 
       1125978611, 
       404227469, 
       1360698539, 
       85633159, 
-      1360698765
+      1360698765, 
+      404450495
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701495,
-    "wof:geomhash": "c590a6321aa346fd6eda053daf82bac4",
+    "wof:geomhash": "626154d60f6c3bf5c466280fe6fc91c0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454331357,
-    "wof:lastmodified": 1583786623,
+    "wof:lastmodified": 1609883893,
     "wof:name": "DE12 6NJ",
     "wof:parent_id": 404450495,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.567132, 
-    52.733439, 
-    -1.567132, 
-    52.733439
+    -1.567519, 
+    52.733252, 
+    -1.567519, 
+    52.733252
   ],
-  "geometry": {"coordinates":[-1.567132,52.733439],"type":"Point"}
+  "geometry": {"coordinates":[-1.567519,52.733252],"type":"Point"}
 }

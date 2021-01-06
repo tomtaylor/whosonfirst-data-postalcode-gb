@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.979245,52.405128,-1.979245,52.405128",
-    "geom:latitude": 52.405128,
-    "geom:longitude": -1.979245,
+    "geom:bbox": "-1.979149,52.405169,-1.979149,52.405169",
+    "geom:latitude": 52.405169,
+    "geom:longitude": -1.979149,
     "gp:parent_id": "12723",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699077, 
-      101750467, 
-      404227469, 
       85789493, 
       1360698605, 
-      85633159
+      85633159, 
+      1360699077, 
+      101750467, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701664,
-    "wof:geomhash": "bcd988de5650fef48abb4d5073f76b40",
+    "wof:geomhash": "63969d0636e94df2df35dc578afb82d5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 437982143,
-    "wof:lastmodified": 1583786830,
+    "wof:lastmodified": 1609898366,
     "wof:name": "B31 2SL",
     "wof:parent_id": 101750467,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.979245, 
-    52.405128, 
-    -1.979245, 
-    52.405128
+    -1.979149, 
+    52.405169, 
+    -1.979149, 
+    52.405169
   ],
-  "geometry": {"coordinates":[-1.979245,52.405128],"type":"Point"}
+  "geometry": {"coordinates":[-1.979149,52.405169],"type":"Point"}
 }

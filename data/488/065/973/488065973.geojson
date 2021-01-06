@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.337422,53.362051,-2.337422,53.362051",
-    "geom:latitude": 53.362051,
-    "geom:longitude": -2.337422,
+    "geom:bbox": "-2.337482,53.362006,-2.337482,53.362006",
+    "geom:latitude": 53.362006,
+    "geom:longitude": -2.337482,
     "gp:parent_id": "11185",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698537, 
       85633159, 
       1360698929, 
       404446889, 
       1125891995, 
       404227469, 
-      85790057
+      85790057, 
+      1360698537
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701226,
-    "wof:geomhash": "350a0b4df423024abe3a2859f4a7936c",
+    "wof:geomhash": "2e32db4b03840ca8393abf3e9817032b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 488065973,
-    "wof:lastmodified": 1583786394,
+    "wof:lastmodified": 1609870852,
     "wof:name": "WA15 0QG",
     "wof:parent_id": 404446889,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.337422, 
-    53.362051, 
-    -2.337422, 
-    53.362051
+    -2.337482, 
+    53.362006, 
+    -2.337482, 
+    53.362006
   ],
-  "geometry": {"coordinates":[-2.337422,53.362051],"type":"Point"}
+  "geometry": {"coordinates":[-2.337482,53.362006],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1992-05-01",
     "geom:area": 0,
-    "geom:bbox": "-2.969124,56.473535,-2.969124,56.473535",
-    "geom:latitude": 56.473535,
-    "geom:longitude": -2.969124,
+    "geom:bbox": "-2.969415,56.473353,-2.969415,56.473353",
+    "geom:latitude": 56.473353,
+    "geom:longitude": -2.969415,
     "gp:parent_id": "12696190",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698883, 
       404430743, 
       101750641, 
       404227471, 
-      1360698693
+      1360698693, 
+      85633159, 
+      1360698883
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701612,
-    "wof:geomhash": "8535f2bef7b56bc6ac87e5ce4d1f52bd",
+    "wof:geomhash": "0d45ecde5fdd94bf6ad99290b4749f26",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488601309,
-    "wof:lastmodified": 1583786804,
+    "wof:lastmodified": 1609898304,
     "wof:name": "DD3 7JN",
     "wof:parent_id": 101750641,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.969124, 
-    56.473535, 
-    -2.969124, 
-    56.473535
+    -2.969415, 
+    56.473353, 
+    -2.969415, 
+    56.473353
   ],
-  "geometry": {"coordinates":[-2.969124,56.473535],"type":"Point"}
+  "geometry": {"coordinates":[-2.969415,56.473353],"type":"Point"}
 }

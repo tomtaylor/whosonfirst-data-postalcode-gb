@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "uuuu",
-    "edtf:inception": "2020-02-01",
+    "edtf:inception": "2020-10-01",
     "geom:area": 0,
     "geom:bbox": "-5.079803,50.414337,-5.079803,50.414337",
     "geom:latitude": 50.414337,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      101852409, 
       404227469, 
       1360698623, 
       85633159, 
       1360699085, 
-      404437897
+      404437897, 
+      101852409
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 39539196,
-    "wof:lastmodified": 1595711347,
+    "wof:lastmodified": 1609868476,
     "wof:name": "TR7 9DP",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.332975,53.738723,-0.332975,53.738723",
-    "geom:latitude": 53.738723,
-    "geom:longitude": -0.332975,
+    "geom:bbox": "-0.333217,53.738909,-0.333217,53.738909",
+    "geom:latitude": 53.738909,
+    "geom:longitude": -0.333217,
     "gp:parent_id": "25211",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      101750561, 
-      404227469, 
       1360698547, 
       85633159, 
-      1360698951
+      1360698951, 
+      101750561, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701724,
-    "wof:geomhash": "31cc0c42e2cfe780d64b70722a7c717f",
+    "wof:geomhash": "791acd8090bd3efef094a01d2a9c6d6e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454808225,
-    "wof:lastmodified": 1583786861,
+    "wof:lastmodified": 1609902575,
     "wof:name": "HU1 1UU",
     "wof:parent_id": 101750561,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.332975, 
-    53.738723, 
-    -0.332975, 
-    53.738723
+    -0.333217, 
+    53.738909, 
+    -0.333217, 
+    53.738909
   ],
-  "geometry": {"coordinates":[-0.332975,53.738723],"type":"Point"}
+  "geometry": {"coordinates":[-0.333217,53.738909],"type":"Point"}
 }

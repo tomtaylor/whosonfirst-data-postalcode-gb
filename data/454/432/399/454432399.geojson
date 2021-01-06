@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.518502,53.486978,-0.518502,53.486978",
-    "geom:latitude": 53.486978,
-    "geom:longitude": -0.518502,
+    "geom:bbox": "-0.516661,53.486174,-0.516661,53.486174",
+    "geom:latitude": 53.486174,
+    "geom:longitude": -0.516661,
     "gp:parent_id": "33024",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698571, 
       85633159, 
       1360698901, 
       404447899, 
       1125914659, 
-      404227469
+      404227469, 
+      1360698571
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701564,
-    "wof:geomhash": "cd8acf5d318718f60093fa338ff60779",
+    "wof:geomhash": "95bfc899510b699991dc9320123ba593",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454432399,
-    "wof:lastmodified": 1583786692,
+    "wof:lastmodified": 1609889247,
     "wof:name": "DN21 4LG",
     "wof:parent_id": 404447899,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.518502, 
-    53.486978, 
-    -0.518502, 
-    53.486978
+    -0.516661, 
+    53.486174, 
+    -0.516661, 
+    53.486174
   ],
-  "geometry": {"coordinates":[-0.518502,53.486978],"type":"Point"}
+  "geometry": {"coordinates":[-0.516661,53.486174],"type":"Point"}
 }

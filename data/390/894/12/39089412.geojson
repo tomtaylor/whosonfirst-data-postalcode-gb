@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-10-01",
     "geom:area": 0,
-    "geom:bbox": "-1.166781,51.615683,-1.166781,51.615683",
-    "geom:latitude": 51.615683,
-    "geom:longitude": -1.166781,
+    "geom:bbox": "-1.166493,51.615645,-1.166493,51.615645",
+    "geom:latitude": 51.615645,
+    "geom:longitude": -1.166493,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698585, 
-      85633159, 
       1360698839, 
       404452245, 
       1125988331, 
-      404227469
+      404227469, 
+      1360698585, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583797620,
-    "wof:geomhash": "ef7620c555fb42a38bcfea385a269bc4",
+    "wof:geomhash": "00f28ad5c6b4b776eced8e594d520b5a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 39089412,
-    "wof:lastmodified": 1595711281,
+    "wof:lastmodified": 1609868609,
     "wof:name": "OX10 0FT",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.166781, 
-    51.615683, 
-    -1.166781, 
-    51.615683
+    -1.166493, 
+    51.615645, 
+    -1.166493, 
+    51.615645
   ],
-  "geometry": {"coordinates":[-1.166781,51.615683],"type":"Point"}
+  "geometry": {"coordinates":[-1.166493,51.615645],"type":"Point"}
 }

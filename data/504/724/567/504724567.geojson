@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2002-11-01",
     "geom:area": 0,
-    "geom:bbox": "-3.044760,51.558372,-3.044760,51.558372",
-    "geom:latitude": 51.558372,
-    "geom:longitude": -3.04476,
+    "geom:bbox": "-3.044589,51.558454,-3.044589,51.558454",
+    "geom:latitude": 51.558454,
+    "geom:longitude": -3.044589,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698735, 
       404448279, 
       1125974177, 
       404227475, 
-      1360698641
+      1360698641, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701524,
-    "wof:geomhash": "c07ae7a8f8d30fdae9948e9a50524d55",
+    "wof:geomhash": "9ea90bcfe4ddbe0f138521d9efb9406a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 504724567,
-    "wof:lastmodified": 1583786681,
+    "wof:lastmodified": 1609887596,
     "wof:name": "NP10 8FY",
     "wof:parent_id": 404448279,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.04476, 
-    51.558372, 
-    -3.04476, 
-    51.558372
+    -3.044589, 
+    51.558454, 
+    -3.044589, 
+    51.558454
   ],
-  "geometry": {"coordinates":[-3.04476,51.558372],"type":"Point"}
+  "geometry": {"coordinates":[-3.044589,51.558454],"type":"Point"}
 }

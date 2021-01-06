@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.159839,51.877959,0.159839,51.877959",
-    "geom:latitude": 51.877959,
-    "geom:longitude": 0.159839,
+    "geom:bbox": "0.159892,51.877860,0.159892,51.877860",
+    "geom:latitude": 51.87786,
+    "geom:longitude": 0.159892,
     "gp:parent_id": "12775",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698763, 
-      404455267, 
       101750415, 
       404227469, 
       1360698559, 
-      85633159
+      85633159, 
+      1360698763, 
+      404455267
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701312,
-    "wof:geomhash": "34983b888573110fcbe9619b7e398885",
+    "wof:geomhash": "051dbbc06fd9affbc8eaec9ca48c3665",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454151173,
-    "wof:lastmodified": 1583786448,
+    "wof:lastmodified": 1609874183,
     "wof:name": "CM23 2HH",
     "wof:parent_id": 101750415,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.159839, 
-    51.877959, 
-    0.159839, 
-    51.877959
+    0.159892, 
+    51.87786, 
+    0.159892, 
+    51.87786
   ],
-  "geometry": {"coordinates":[0.159839,51.877959],"type":"Point"}
+  "geometry": {"coordinates":[0.159892,51.87786],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.077668,51.608695,0.077668,51.608695",
-    "geom:latitude": 51.608695,
-    "geom:longitude": 0.077668,
+    "geom:bbox": "0.078101,51.608743,0.078101,51.608743",
+    "geom:latitude": 51.608743,
+    "geom:longitude": 0.078101,
     "gp:parent_id": "15890",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1126021207, 
-      404227469, 
-      85787827, 
       1360698551, 
       85633159, 
       1360698979, 
-      404455355
+      404455355, 
+      1126021207, 
+      404227469, 
+      85787827
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701732,
-    "wof:geomhash": "c49127d304ad8e8558536f3bc15e2557",
+    "wof:geomhash": "148ecdcb6aca40ffc0dcbbec9a2c723f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 454854079,
-    "wof:lastmodified": 1583786868,
+    "wof:lastmodified": 1609903482,
     "wof:name": "IG7 5QZ",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.077668, 
-    51.608695, 
-    0.077668, 
-    51.608695
+    0.078101, 
+    51.608743, 
+    0.078101, 
+    51.608743
   ],
-  "geometry": {"coordinates":[0.077668,51.608695],"type":"Point"}
+  "geometry": {"coordinates":[0.078101,51.608743],"type":"Point"}
 }

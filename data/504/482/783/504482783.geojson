@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1993-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.633585,52.108457,-3.633585,52.108457",
-    "geom:latitude": 52.108457,
-    "geom:longitude": -3.633585,
+    "geom:bbox": "-3.633780,52.108302,-3.633780,52.108302",
+    "geom:latitude": 52.108302,
+    "geom:longitude": -3.63378,
     "gp:parent_id": "12696134",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360711731, 
       404227475, 
       1360698625, 
       85633159, 
       1360698985, 
-      404429753
+      404429753, 
+      1360711731
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701366,
-    "wof:geomhash": "3c686d564f403402136e501729b3a4b8",
+    "wof:geomhash": "57e76ea7d5db36c2f7851b359fc55203",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504482783,
-    "wof:lastmodified": 1583786479,
+    "wof:lastmodified": 1609874370,
     "wof:name": "LD5 4RT",
     "wof:parent_id": 404429753,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.633585, 
-    52.108457, 
-    -3.633585, 
-    52.108457
+    -3.63378, 
+    52.108302, 
+    -3.63378, 
+    52.108302
   ],
-  "geometry": {"coordinates":[-3.633585,52.108457],"type":"Point"}
+  "geometry": {"coordinates":[-3.63378,52.108302],"type":"Point"}
 }

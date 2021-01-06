@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-08-01",
     "geom:area": 0,
-    "geom:bbox": "-1.314747,50.752584,-1.314747,50.752584",
-    "geom:latitude": 50.752584,
-    "geom:longitude": -1.314747,
+    "geom:bbox": "-1.314970,50.752864,-1.314970,50.752864",
+    "geom:latitude": 50.752864,
+    "geom:longitude": -1.31497,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698563, 
       85633159, 
       1360699089, 
       404438577, 
       1125907699, 
-      404227469, 
-      1360698563
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583788770,
-    "wof:geomhash": "84723353fa08685355b58dcdad5e2c61",
+    "wof:geomhash": "390b59bf3a8889819bf411d938d5971a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712454511,
-    "wof:lastmodified": 1583788770,
+    "wof:lastmodified": 1609868927,
     "wof:name": "PO31 7GA",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.314747, 
-    50.752584, 
-    -1.314747, 
-    50.752584
+    -1.31497, 
+    50.752864, 
+    -1.31497, 
+    50.752864
   ],
-  "geometry": {"coordinates":[-1.314747,50.752584],"type":"Point"}
+  "geometry": {"coordinates":[-1.31497,50.752864],"type":"Point"}
 }

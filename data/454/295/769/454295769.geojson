@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.389312,53.073369,-2.389312,53.073369",
-    "geom:latitude": 53.073369,
-    "geom:longitude": -2.389312,
+    "geom:bbox": "-2.389208,53.073377,-2.389208,53.073377",
+    "geom:latitude": 53.073377,
+    "geom:longitude": -2.389208,
     "gp:parent_id": "39972",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      1293819259, 
+      404227469, 
       1360698537, 
       85633159, 
       1360698929, 
-      404454957, 
-      1293819259, 
-      404227469
+      404454957
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701456,
-    "wof:geomhash": "616aad3b690756c938de205386f805e2",
+    "wof:geomhash": "389af2305f444c54ae7a8636e8fc8166",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454295769,
-    "wof:lastmodified": 1583786584,
+    "wof:lastmodified": 1609881886,
     "wof:name": "CW2 5LE",
     "wof:parent_id": 404454957,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.389312, 
-    53.073369, 
-    -2.389312, 
-    53.073369
+    -2.389208, 
+    53.073377, 
+    -2.389208, 
+    53.073377
   ],
-  "geometry": {"coordinates":[-2.389312,53.073369],"type":"Point"}
+  "geometry": {"coordinates":[-2.389208,53.073377],"type":"Point"}
 }

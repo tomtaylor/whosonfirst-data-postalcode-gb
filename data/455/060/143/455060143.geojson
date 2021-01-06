@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.411369,53.154599,-0.411369,53.154599",
-    "geom:latitude": 53.154599,
-    "geom:longitude": -0.411369,
+    "geom:bbox": "-0.411578,53.154535,-0.411578,53.154535",
+    "geom:latitude": 53.154535,
+    "geom:longitude": -0.411578,
     "gp:parent_id": "18722",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698571, 
       85633159, 
       1360699067, 
       404450443, 
       1125974519, 
-      404227469, 
-      1360698571
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701164,
-    "wof:geomhash": "1771b641c54fde91e58f6c12cab81e06",
+    "wof:geomhash": "d00254068415279beaedf80c4e0bfc6c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 455060143,
-    "wof:lastmodified": 1583786290,
+    "wof:lastmodified": 1609870503,
     "wof:name": "LN4 2EH",
     "wof:parent_id": 404450443,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.411369, 
-    53.154599, 
-    -0.411369, 
-    53.154599
+    -0.411578, 
+    53.154535, 
+    -0.411578, 
+    53.154535
   ],
-  "geometry": {"coordinates":[-0.411369,53.154599],"type":"Point"}
+  "geometry": {"coordinates":[-0.411578,53.154535],"type":"Point"}
 }

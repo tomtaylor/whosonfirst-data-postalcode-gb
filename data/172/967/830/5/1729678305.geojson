@@ -1,0 +1,59 @@
+{
+  "id": 1729678305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-10-01",
+    "geom:area": 0,
+    "geom:bbox": "-4.360473,52.212685,-4.360473,52.212685",
+    "geom:latitude": 52.212685,
+    "geom:longitude": -4.360473,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "W92000004",
+    "os:county_code": "W99999999",
+    "os:district_code": "W06000008",
+    "os:positional_quality_indicator": "5",
+    "os:region_code": "W99999999",
+    "src:geom": "os",
+    "wof:belongsto": [
+      404227475, 
+      1360698639, 
+      85633159, 
+      1360699113, 
+      404431477, 
+      1125805019
+    ],
+    "wof:breaches": [],
+    "wof:country": "GB",
+    "wof:created": 1609905911,
+    "wof:geomhash": "174be0daf3081a6f2ffdda13fc223a6c",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360699113,
+        "localadmin_id": 404431477,
+        "locality_id": 1125805019,
+        "macroregion_id": 404227475,
+        "region_id": 1360698639
+      }
+    ],
+    "wof:id": 1729678305,
+    "wof:lastmodified": 1609905911,
+    "wof:name": "SA45 9QF",
+    "wof:parent_id": -1,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -4.360473, 
+    52.212685, 
+    -4.360473, 
+    52.212685
+  ],
+  "geometry": {"coordinates":[-4.360473,52.212685],"type":"Point"}
+}

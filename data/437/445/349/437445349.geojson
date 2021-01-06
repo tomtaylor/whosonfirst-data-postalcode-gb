@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-09-01",
     "geom:area": 0,
-    "geom:bbox": "-0.768763,51.806560,-0.768763,51.806560",
-    "geom:latitude": 51.80656,
-    "geom:longitude": -0.768763,
+    "geom:bbox": "-0.768246,51.806366,-0.768246,51.806366",
+    "geom:latitude": 51.806366,
+    "geom:longitude": -0.768246,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404436021, 
-      1125766823, 
       404227469, 
       1360698533, 
       85633159, 
-      1360698997
+      1360698997, 
+      404436021, 
+      1125766823
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701191,
-    "wof:geomhash": "ff9a41a5a0bc69be3cd7481c77d0835b",
+    "wof:geomhash": "69d528f68e7782a65a155d35ab6ebc88",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 437445349,
-    "wof:lastmodified": 1595712505,
+    "wof:lastmodified": 1609871210,
     "wof:name": "HP22 5ZD",
     "wof:parent_id": "85786693",
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.768763, 
-    51.80656, 
-    -0.768763, 
-    51.80656
+    -0.768246, 
+    51.806366, 
+    -0.768246, 
+    51.806366
   ],
-  "geometry": {"coordinates":[-0.768763,51.80656],"type":"Point"}
+  "geometry": {"coordinates":[-0.768246,51.806366],"type":"Point"}
 }

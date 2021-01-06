@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1995-12-01",
     "geom:area": 0,
-    "geom:bbox": "-2.227926,53.474910,-2.227926,53.474910",
-    "geom:latitude": 53.47491,
-    "geom:longitude": -2.227926,
+    "geom:bbox": "-2.227808,53.475323,-2.227808,53.475323",
+    "geom:latitude": 53.475323,
+    "geom:longitude": -2.227808,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85792993, 
       1360698555, 
       85633159, 
       1360698893, 
       101750525, 
-      404227469
+      404227469, 
+      85792993
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701145,
-    "wof:geomhash": "f7e56d9a980a35a184ae820e8671d09f",
+    "wof:geomhash": "187aceebaace6e51ea8c58966fb70542",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 470857999,
-    "wof:lastmodified": 1583786270,
+    "wof:lastmodified": 1609869990,
     "wof:name": "M1 2PZ",
     "wof:parent_id": 101750525,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.227926, 
-    53.47491, 
-    -2.227926, 
-    53.47491
+    -2.227808, 
+    53.475323, 
+    -2.227808, 
+    53.475323
   ],
-  "geometry": {"coordinates":[-2.227926,53.47491],"type":"Point"}
+  "geometry": {"coordinates":[-2.227808,53.475323],"type":"Point"}
 }

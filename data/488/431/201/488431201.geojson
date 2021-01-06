@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1993-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.242891,51.401524,-3.242891,51.401524",
-    "geom:latitude": 51.401524,
-    "geom:longitude": -3.242891,
+    "geom:bbox": "-3.242658,51.401409,-3.242658,51.401409",
+    "geom:latitude": 51.401409,
+    "geom:longitude": -3.242658,
     "gp:parent_id": "36596",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404433843, 
       1243583119, 
       404227475, 
       1360698627, 
       85633159, 
-      1360698899
+      1360698899, 
+      404433843
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701444,
-    "wof:geomhash": "897c46dc5d46b4c138504447d6241a4f",
+    "wof:geomhash": "55f589eb584e43991a9cb1494b27193d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488431201,
-    "wof:lastmodified": 1583786653,
+    "wof:lastmodified": 1609891540,
     "wof:name": "CF64 5SF",
     "wof:parent_id": 101750395,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.242891, 
-    51.401524, 
-    -3.242891, 
-    51.401524
+    -3.242658, 
+    51.401409, 
+    -3.242658, 
+    51.401409
   ],
-  "geometry": {"coordinates":[-3.242891,51.401524],"type":"Point"}
+  "geometry": {"coordinates":[-3.242658,51.401409],"type":"Point"}
 }

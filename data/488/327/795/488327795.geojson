@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2007-09-01",
     "geom:area": 0,
-    "geom:bbox": "-1.504414,54.994411,-1.504414,54.994411",
-    "geom:latitude": 54.994411,
-    "geom:longitude": -1.504414,
+    "geom:bbox": "-1.504477,54.994366,-1.504477,54.994366",
+    "geom:latitude": 54.994366,
+    "geom:longitude": -1.504477,
     "gp:parent_id": "12695860",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      1125889337, 
-      404227469, 
       1360698601, 
       85633159, 
       1360699037, 
-      1360817045
+      1360817045, 
+      1125889337, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701341,
-    "wof:geomhash": "6c5127dd7235e24dfbbf4d01101d542d",
+    "wof:geomhash": "72cb0be393cb391deb37ebc31895e100",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488327795,
-    "wof:lastmodified": 1583786540,
+    "wof:lastmodified": 1609886880,
     "wof:name": "NE28 6JW",
     "wof:parent_id": 101750617,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.504414, 
-    54.994411, 
-    -1.504414, 
-    54.994411
+    -1.504477, 
+    54.994366, 
+    -1.504477, 
+    54.994366
   ],
-  "geometry": {"coordinates":[-1.504414,54.994411],"type":"Point"}
+  "geometry": {"coordinates":[-1.504477,54.994366],"type":"Point"}
 }

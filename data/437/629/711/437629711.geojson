@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "-0.129491,51.135373,-0.129491,51.135373",
-    "geom:latitude": 51.135373,
-    "geom:longitude": -0.129491,
+    "geom:bbox": "-0.130031,51.134743,-0.130031,51.134743",
+    "geom:latitude": 51.134743,
+    "geom:longitude": -0.130031,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1225873585, 
-      404227469, 
       1360698607, 
       85633159, 
       1360698757, 
-      404440555
+      404440555, 
+      1225873585, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701437,
-    "wof:geomhash": "01fd0c7725b8b1ebe0b45043bce635d9",
+    "wof:geomhash": "7708846e823fb2ba29e0bafbaead1d26",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 437629711,
-    "wof:lastmodified": 1595714057,
+    "wof:lastmodified": 1609881803,
     "wof:name": "RH10 3FP",
     "wof:parent_id": "85787135",
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.129491, 
-    51.135373, 
-    -0.129491, 
-    51.135373
+    -0.130031, 
+    51.134743, 
+    -0.130031, 
+    51.134743
   ],
-  "geometry": {"coordinates":[-0.129491,51.135373],"type":"Point"}
+  "geometry": {"coordinates":[-0.130031,51.134743],"type":"Point"}
 }

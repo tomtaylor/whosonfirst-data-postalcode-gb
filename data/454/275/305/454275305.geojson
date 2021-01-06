@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.780426,52.171192,-1.780426,52.171192",
-    "geom:latitude": 52.171192,
-    "geom:longitude": -1.780426,
+    "geom:bbox": "-1.780909,52.171031,-1.780909,52.171031",
+    "geom:latitude": 52.171031,
+    "geom:longitude": -1.780909,
     "gp:parent_id": "39428",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698603, 
       85633159, 
       1360698891, 
       404433281, 
-      1226681563
+      1226681563, 
+      404227469, 
+      1360698603
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701435,
-    "wof:geomhash": "80bc2f3c4ee662306362cae550804c5d",
+    "wof:geomhash": "86a2175e2c7967d11491be9291a46360",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454275305,
-    "wof:lastmodified": 1595713944,
+    "wof:lastmodified": 1609881055,
     "wof:name": "CV37 8PS",
     "wof:parent_id": 404433281,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.780426, 
-    52.171192, 
-    -1.780426, 
-    52.171192
+    -1.780909, 
+    52.171031, 
+    -1.780909, 
+    52.171031
   ],
-  "geometry": {"coordinates":[-1.780426,52.171192],"type":"Point"}
+  "geometry": {"coordinates":[-1.780909,52.171031],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.857101,51.919963,-1.857101,51.919963",
-    "geom:latitude": 51.919963,
-    "geom:longitude": -1.857101,
+    "geom:bbox": "-1.857731,51.923246,-1.857731,51.923246",
+    "geom:latitude": 51.923246,
+    "geom:longitude": -1.857731,
     "gp:parent_id": "21998",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404432269, 
-      1125960447, 
+      1125837737, 
       404227469, 
       1360698553, 
       85633159, 
-      1360698927
+      1360698927, 
+      404445749
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,19 +32,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701689,
-    "wof:geomhash": "8aaabf58aef6acf6b35b92371a1b3abc",
+    "wof:geomhash": "1cf2074027e5c49b62a3266c0dcfc3cb",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360698927,
-        "localadmin_id": 404432269,
-        "locality_id": 1125960447,
+        "localadmin_id": 404445749,
+        "locality_id": 1125837737,
         "macroregion_id": 404227469,
         "region_id": 1360698553
       }
     ],
     "wof:id": 454660485,
-    "wof:lastmodified": 1583786824,
+    "wof:lastmodified": 1609898823,
     "wof:name": "GL54 5UE",
     "wof:parent_id": 404432269,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.857101, 
-    51.919963, 
-    -1.857101, 
-    51.919963
+    -1.857731, 
+    51.923246, 
+    -1.857731, 
+    51.923246
   ],
-  "geometry": {"coordinates":[-1.857101,51.919963],"type":"Point"}
+  "geometry": {"coordinates":[-1.857731,51.923246],"type":"Point"}
 }

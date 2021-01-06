@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.946584,52.325661,0.946584,52.325661",
-    "geom:latitude": 52.325661,
-    "geom:longitude": 0.946584,
+    "geom:bbox": "0.946508,52.325619,0.946508,52.325619",
+    "geom:latitude": 52.325619,
+    "geom:longitude": 0.946508,
     "gp:parent_id": "39332",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      404433231, 
+      1125905495, 
       404227469, 
       1360698595, 
       85633159, 
-      1360699041, 
-      404433231, 
-      1125905495
+      1360699041
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701745,
-    "wof:geomhash": "fd7ac8d2b731bed6a13c4e6c98f15f48",
+    "wof:geomhash": "2440d2749cd3e198947547858d6db0b2",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454877729,
-    "wof:lastmodified": 1583786875,
+    "wof:lastmodified": 1609904095,
     "wof:name": "IP22 1NU",
     "wof:parent_id": 404433231,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.946584, 
-    52.325661, 
-    0.946584, 
-    52.325661
+    0.946508, 
+    52.325619, 
+    0.946508, 
+    52.325619
   ],
-  "geometry": {"coordinates":[0.946584,52.325661],"type":"Point"}
+  "geometry": {"coordinates":[0.946508,52.325619],"type":"Point"}
 }

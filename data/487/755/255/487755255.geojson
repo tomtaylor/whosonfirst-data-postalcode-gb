@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.137274,51.505834,-0.137274,51.505834",
-    "geom:latitude": 51.505834,
-    "geom:longitude": -0.137274,
+    "geom:bbox": "-0.136960,51.505748,-0.136960,51.505748",
+    "geom:latitude": 51.505748,
+    "geom:longitude": -0.13696,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698645, 
-      1158857245, 
-      85633159, 
       101750367, 
       404227469, 
-      85861787
+      85861787, 
+      1360698645, 
+      1158857245, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701150,
-    "wof:geomhash": "1b8f514932ae41c98e53300862430c42",
+    "wof:geomhash": "404623d3ac9b60b6be0e559d7edec74d",
     "wof:hierarchy": [
       {
         "borough_id": 1158857245,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487755255,
-    "wof:lastmodified": 1583786252,
+    "wof:lastmodified": 1609877907,
     "wof:name": "SW1Y 5JH",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.137274, 
-    51.505834, 
-    -0.137274, 
-    51.505834
+    -0.13696, 
+    51.505748, 
+    -0.13696, 
+    51.505748
   ],
-  "geometry": {"coordinates":[-0.137274,51.505834],"type":"Point"}
+  "geometry": {"coordinates":[-0.13696,51.505748],"type":"Point"}
 }

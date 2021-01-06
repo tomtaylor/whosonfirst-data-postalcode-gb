@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.149931,54.094288,-3.149931,54.094288",
-    "geom:latitude": 54.094288,
-    "geom:longitude": -3.149931,
+    "geom:bbox": "-3.149448,54.094104,-3.149448,54.094104",
+    "geom:latitude": 54.094104,
+    "geom:longitude": -3.149448,
     "gp:parent_id": "32891",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698721, 
       85633159, 
       1360698877, 
       101872343, 
-      404227469, 
-      1360698721
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701766,
-    "wof:geomhash": "3b156996f47f9d1b1d6b8a799b668f3b",
+    "wof:geomhash": "0ba0f819225cf9dc166a14adc9f3e0b9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454984509,
-    "wof:lastmodified": 1583786902,
+    "wof:lastmodified": 1609905627,
     "wof:name": "LA13 0QW",
     "wof:parent_id": 404450105,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.149931, 
-    54.094288, 
-    -3.149931, 
-    54.094288
+    -3.149448, 
+    54.094104, 
+    -3.149448, 
+    54.094104
   ],
-  "geometry": {"coordinates":[-3.149931,54.094288],"type":"Point"}
+  "geometry": {"coordinates":[-3.149448,54.094104],"type":"Point"}
 }

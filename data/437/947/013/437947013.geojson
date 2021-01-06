@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.310692,51.810331,-0.310692,51.810331",
-    "geom:latitude": 51.810331,
-    "geom:longitude": -0.310692,
+    "geom:bbox": "-0.308804,51.809980,-0.308804,51.809980",
+    "geom:latitude": 51.80998,
+    "geom:longitude": -0.308804,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      101853545, 
-      404227469, 
       1360698559, 
       85633159, 
       1360698763, 
-      404438351
+      404438351, 
+      101853545, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701642,
-    "wof:geomhash": "3d3c43e3d7083dbaa7a569df0a0b0606",
+    "wof:geomhash": "d95a06361e8f117e05b7e015fb833b4f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 437947013,
-    "wof:lastmodified": 1583786808,
+    "wof:lastmodified": 1609896704,
     "wof:name": "AL4 8ED",
     "wof:parent_id": 404438351,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.310692, 
-    51.810331, 
-    -0.310692, 
-    51.810331
+    -0.308804, 
+    51.80998, 
+    -0.308804, 
+    51.80998
   ],
-  "geometry": {"coordinates":[-0.310692,51.810331],"type":"Point"}
+  "geometry": {"coordinates":[-0.308804,51.80998],"type":"Point"}
 }

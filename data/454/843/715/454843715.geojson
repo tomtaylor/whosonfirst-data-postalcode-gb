@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2002-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.002677,53.751383,-2.002677,53.751383",
-    "geom:latitude": 53.751383,
-    "geom:longitude": -2.002677,
+    "geom:bbox": "-2.002603,53.751371,-2.002603,53.751371",
+    "geom:latitude": 53.751371,
+    "geom:longitude": -2.002603,
     "gp:parent_id": "38935",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698609, 
-      85633159, 
       1360698833, 
       404445623, 
       1360759521, 
-      404227469
+      404227469, 
+      1360698609, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701733,
-    "wof:geomhash": "835bc8999110b3cfdcfbdac31f48b2ec",
+    "wof:geomhash": "9eb356bc8b4c1f2f47673b508f17085d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454843715,
-    "wof:lastmodified": 1583786867,
+    "wof:lastmodified": 1609903401,
     "wof:name": "HX7 8RW",
     "wof:parent_id": 404445623,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.002677, 
-    53.751383, 
-    -2.002677, 
-    53.751383
+    -2.002603, 
+    53.751371, 
+    -2.002603, 
+    53.751371
   ],
-  "geometry": {"coordinates":[-2.002677,53.751383],"type":"Point"}
+  "geometry": {"coordinates":[-2.002603,53.751371],"type":"Point"}
 }

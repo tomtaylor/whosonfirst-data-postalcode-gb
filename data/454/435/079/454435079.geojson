@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-11-01",
     "geom:area": 0,
-    "geom:bbox": "-0.930448,53.308852,-0.930448,53.308852",
-    "geom:latitude": 53.308852,
-    "geom:longitude": -0.930448,
+    "geom:bbox": "-0.930509,53.308834,-0.930509,53.308834",
+    "geom:latitude": 53.308834,
+    "geom:longitude": -0.930509,
     "gp:parent_id": "33135",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698583, 
-      85633159, 
       1360698809, 
       1126035403, 
-      404227469
+      404227469, 
+      1360698583, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701565,
-    "wof:geomhash": "8262e214170fd18c191bda5291ea9836",
+    "wof:geomhash": "52d4286aadc2743dabe7db087daa374a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454435079,
-    "wof:lastmodified": 1583786695,
+    "wof:lastmodified": 1609889238,
     "wof:name": "DN22 7ZF",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.930448, 
-    53.308852, 
-    -0.930448, 
-    53.308852
+    -0.930509, 
+    53.308834, 
+    -0.930509, 
+    53.308834
   ],
-  "geometry": {"coordinates":[-0.930448,53.308852],"type":"Point"}
+  "geometry": {"coordinates":[-0.930509,53.308834],"type":"Point"}
 }

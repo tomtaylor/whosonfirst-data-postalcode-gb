@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1992-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.702911,54.266786,-0.702911,54.266786",
-    "geom:latitude": 54.266786,
-    "geom:longitude": -0.702911,
+    "geom:bbox": "-0.701832,54.265426,-0.701832,54.265426",
+    "geom:latitude": 54.265426,
+    "geom:longitude": -0.701832,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698753, 
-      404448933, 
       1126053181, 
       404227469, 
       1360698619, 
-      85633159
+      85633159, 
+      1360698753, 
+      404448933
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701180,
-    "wof:geomhash": "b0a179138a4d5095d5340445684f72a6",
+    "wof:geomhash": "4b4fd0321bc0b9ff5aae5242d56c4a5b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 488235189,
-    "wof:lastmodified": 1583786429,
+    "wof:lastmodified": 1609881464,
     "wof:name": "YO18 7LN",
     "wof:parent_id": 404448933,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.702911, 
-    54.266786, 
-    -0.702911, 
-    54.266786
+    -0.701832, 
+    54.265426, 
+    -0.701832, 
+    54.265426
   ],
-  "geometry": {"coordinates":[-0.702911,54.266786],"type":"Point"}
+  "geometry": {"coordinates":[-0.701832,54.265426],"type":"Point"}
 }

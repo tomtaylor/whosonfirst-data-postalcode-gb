@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.414214,51.933714,-2.414214,51.933714",
-    "geom:latitude": 51.933714,
-    "geom:longitude": -2.414214,
+    "geom:bbox": "-2.414289,51.933984,-2.414289,51.933984",
+    "geom:latitude": 51.933984,
+    "geom:longitude": -2.414289,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698553, 
       85633159, 
       1360698927, 
       404441993, 
-      101852859
+      101852859, 
+      404227469, 
+      1360698553
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583794398,
-    "wof:geomhash": "ea9c913ec008d20b70394bda5187e473",
+    "wof:geomhash": "801cecb0f33303c41664ae66545f3cad",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 38799558,
-    "wof:lastmodified": 1583794398,
+    "wof:lastmodified": 1609868638,
     "wof:name": "GL18 1RT",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.414214, 
-    51.933714, 
-    -2.414214, 
-    51.933714
+    -2.414289, 
+    51.933984, 
+    -2.414289, 
+    51.933984
   ],
-  "geometry": {"coordinates":[-2.414214,51.933714],"type":"Point"}
+  "geometry": {"coordinates":[-2.414289,51.933984],"type":"Point"}
 }

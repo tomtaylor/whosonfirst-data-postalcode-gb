@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-05-01",
     "geom:area": 0,
-    "geom:bbox": "-2.272913,51.804781,-2.272913,51.804781",
-    "geom:latitude": 51.804781,
-    "geom:longitude": -2.272913,
+    "geom:bbox": "-2.272577,51.804386,-2.272577,51.804386",
+    "geom:latitude": 51.804386,
+    "geom:longitude": -2.272577,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698927, 
-      404430915, 
       1125863707, 
       404227469, 
       1360698553, 
-      85633159
+      85633159, 
+      1360698927, 
+      404430915
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583800943,
-    "wof:geomhash": "2ef8982ed265931177d86cba9ca9d264",
+    "wof:geomhash": "8687c261d99fcee3967c4ec0536e3145",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712728113,
-    "wof:lastmodified": 1583800943,
+    "wof:lastmodified": 1609873569,
     "wof:name": "GL2 4DZ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.272913, 
-    51.804781, 
-    -2.272913, 
-    51.804781
+    -2.272577, 
+    51.804386, 
+    -2.272577, 
+    51.804386
   ],
-  "geometry": {"coordinates":[-2.272913,51.804781],"type":"Point"}
+  "geometry": {"coordinates":[-2.272577,51.804386],"type":"Point"}
 }

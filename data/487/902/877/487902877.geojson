@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.812509,50.308129,-3.812509,50.308129",
-    "geom:latitude": 50.308129,
-    "geom:longitude": -3.812509,
+    "geom:bbox": "-3.812123,50.307964,-3.812123,50.307964",
+    "geom:latitude": 50.307964,
+    "geom:longitude": -3.812123,
     "gp:parent_id": "27276",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404429875, 
-      1126049097, 
-      404227469, 
       1360698541, 
       85633159, 
-      1360699081
+      1360699081, 
+      404429875, 
+      1126049097, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701244,
-    "wof:geomhash": "beef0f1aecfe4706b0af84612ea061fc",
+    "wof:geomhash": "f769aabc69d1b24bad96e3b593993996",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487902877,
-    "wof:lastmodified": 1583786327,
+    "wof:lastmodified": 1609885754,
     "wof:name": "TQ7 4AJ",
     "wof:parent_id": 404429875,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.812509, 
-    50.308129, 
-    -3.812509, 
-    50.308129
+    -3.812123, 
+    50.307964, 
+    -3.812123, 
+    50.307964
   ],
-  "geometry": {"coordinates":[-3.812509,50.308129],"type":"Point"}
+  "geometry": {"coordinates":[-3.812123,50.307964],"type":"Point"}
 }

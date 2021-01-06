@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.133215,53.042551,0.133215,53.042551",
-    "geom:latitude": 53.042551,
-    "geom:longitude": 0.133215,
+    "geom:bbox": "0.133982,53.042079,0.133982,53.042079",
+    "geom:latitude": 53.042079,
+    "geom:longitude": 0.133982,
     "gp:parent_id": "41197",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699067, 
-      404450295, 
       1125805237, 
       404227469, 
       1360698571, 
-      85633159
+      85633159, 
+      1360699067, 
+      404450295
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701535,
-    "wof:geomhash": "fac9857feb14f7d5478d603eea2547c9",
+    "wof:geomhash": "80f4847b1137d439f97e18c1f030710f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471371179,
-    "wof:lastmodified": 1583786688,
+    "wof:lastmodified": 1609888758,
     "wof:name": "PE22 9BJ",
     "wof:parent_id": 404450295,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.133215, 
-    53.042551, 
-    0.133215, 
-    53.042551
+    0.133982, 
+    53.042079, 
+    0.133982, 
+    53.042079
   ],
-  "geometry": {"coordinates":[0.133215,53.042551],"type":"Point"}
+  "geometry": {"coordinates":[0.133982,53.042079],"type":"Point"}
 }

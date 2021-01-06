@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.597213,51.236955,0.597213,51.236955",
-    "geom:latitude": 51.236955,
-    "geom:longitude": 0.597213,
+    "geom:bbox": "0.596897,51.236926,0.596897,51.236926",
+    "geom:latitude": 51.236926,
+    "geom:longitude": 0.596897,
     "gp:parent_id": "25769",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698565, 
-      85633159, 
       1360698811, 
       404442541, 
-      1209544847
+      1209544847, 
+      404227469, 
+      1360698565, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701322,
-    "wof:geomhash": "6ae9a71c9af4786089c9b514b94867f0",
+    "wof:geomhash": "8eb3a71dd7767693d79f935c5e50b2ea",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470941873,
-    "wof:lastmodified": 1583786452,
+    "wof:lastmodified": 1609875441,
     "wof:name": "ME17 1SR",
     "wof:parent_id": 404442541,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.597213, 
-    51.236955, 
-    0.597213, 
-    51.236955
+    0.596897, 
+    51.236926, 
+    0.596897, 
+    51.236926
   ],
-  "geometry": {"coordinates":[0.597213,51.236955],"type":"Point"}
+  "geometry": {"coordinates":[0.596897,51.236926],"type":"Point"}
 }

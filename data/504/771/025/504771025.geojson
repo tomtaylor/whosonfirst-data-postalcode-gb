@@ -2,7 +2,7 @@
   "id": 504771025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-10-01",
     "edtf:inception": "2019-12-01",
     "geom:area": 0,
     "geom:bbox": "-3.484356,53.319091,-3.484356,53.319091",
@@ -11,7 +11,7 @@
     "gp:parent_id": "12696135",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "W92000004",
     "os:county_code": "W99999999",
     "os:district_code": "W06000004",
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698781, 
       404439211, 
       101872005, 
       404227475, 
-      1360698637, 
-      85633159, 
-      1360698781
+      1360698637
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504771025,
-    "wof:lastmodified": 1583786722,
+    "wof:lastmodified": 1609890057,
     "wof:name": "LL19 0BH",
     "wof:parent_id": 101872005,
     "wof:placetype": "postalcode",

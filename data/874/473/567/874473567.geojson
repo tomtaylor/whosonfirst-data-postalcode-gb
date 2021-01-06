@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2013-08-01",
     "geom:area": 0,
-    "geom:bbox": "-3.408224,56.075266,-3.408224,56.075266",
-    "geom:latitude": 56.075266,
-    "geom:longitude": -3.408224,
+    "geom:bbox": "-3.408323,56.075354,-3.408323,56.075354",
+    "geom:latitude": 56.075354,
+    "geom:longitude": -3.408323,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,27 +18,29 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      101750637, 
+      404227471, 
+      1360698659, 
       85633159, 
       1360699123, 
-      404444217, 
-      404227471, 
-      1360698659
+      404444217
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468886219,
-    "wof:geomhash": "6d068c3c2532f32e51a38138b6550023",
+    "wof:geomhash": "a5efa23075f684d8dc9e18235836ef5d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360699123,
         "localadmin_id": 404444217,
+        "locality_id": 101750637,
         "macroregion_id": 404227471,
         "region_id": 1360698659
       }
     ],
     "wof:id": 874473567,
-    "wof:lastmodified": 1595728024,
+    "wof:lastmodified": 1609870699,
     "wof:name": "KY11 8YY",
     "wof:parent_id": 404444217,
     "wof:placetype": "postalcode",
@@ -48,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.408224, 
-    56.075266, 
-    -3.408224, 
-    56.075266
+    -3.408323, 
+    56.075354, 
+    -3.408323, 
+    56.075354
   ],
-  "geometry": {"coordinates":[-3.408224,56.075266],"type":"Point"}
+  "geometry": {"coordinates":[-3.408323,56.075354],"type":"Point"}
 }

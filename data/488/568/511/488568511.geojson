@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.688861,51.529014,-3.688861,51.529014",
-    "geom:latitude": 51.529014,
-    "geom:longitude": -3.688861,
+    "geom:bbox": "-3.688953,51.529105,-3.688953,51.529105",
+    "geom:latitude": 51.529105,
+    "geom:longitude": -3.688953,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1125917065, 
-      404227475, 
       1360698631, 
       85633159, 
       1360699051, 
-      404429887
+      404429887, 
+      1125917065, 
+      404227475
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701595,
-    "wof:geomhash": "510db51ea52fb342e9c3ac1dda91ad28",
+    "wof:geomhash": "58a3b881a741ee860e729738cbcd8f4a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 488568511,
-    "wof:lastmodified": 1583786779,
+    "wof:lastmodified": 1609897090,
     "wof:name": "CF33 6NA",
     "wof:parent_id": 101852761,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.688861, 
-    51.529014, 
-    -3.688861, 
-    51.529014
+    -3.688953, 
+    51.529105, 
+    -3.688953, 
+    51.529105
   ],
-  "geometry": {"coordinates":[-3.688861,51.529014],"type":"Point"}
+  "geometry": {"coordinates":[-3.688953,51.529105],"type":"Point"}
 }

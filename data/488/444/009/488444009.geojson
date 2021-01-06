@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1989-04-01",
     "geom:area": 0,
-    "geom:bbox": "-4.232475,55.871982,-4.232475,55.871982",
-    "geom:latitude": 55.871982,
-    "geom:longitude": -4.232475,
+    "geom:bbox": "-4.231521,55.874579,-4.231521,55.874579",
+    "geom:latitude": 55.874579,
+    "geom:longitude": -4.231521,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227471, 
-      85790559, 
-      1360698707, 
       85633159, 
       1360698797, 
       404430153, 
-      1175612707
+      1175612707, 
+      404227471, 
+      85790559, 
+      1360698707
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701458,
-    "wof:geomhash": "9ddc896b60bbc5b55ad1dbd6495f943e",
+    "wof:geomhash": "7e20f1d34b1e0541356158d503a74d71",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 488444009,
-    "wof:lastmodified": 1595733860,
+    "wof:lastmodified": 1609891987,
     "wof:name": "G21 1YL",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.232475, 
-    55.871982, 
-    -4.232475, 
-    55.871982
+    -4.231521, 
+    55.874579, 
+    -4.231521, 
+    55.874579
   ],
-  "geometry": {"coordinates":[-4.232475,55.871982],"type":"Point"}
+  "geometry": {"coordinates":[-4.231521,55.874579],"type":"Point"}
 }

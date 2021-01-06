@@ -2,7 +2,7 @@
   "id": 874499675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-07-01",
     "edtf:inception": "2013-05-01",
     "geom:area": 0,
     "geom:bbox": "-2.997453,51.591358,-2.997453,51.591358",
@@ -10,7 +10,7 @@
     "geom:longitude": -2.997453,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "W92000004",
     "os:county_code": "W99999999",
     "os:district_code": "W06000022",
@@ -18,12 +18,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698735, 
+      404429419, 
       1360711579, 
       404227475, 
       1360698641, 
-      85633159, 
-      1360698735, 
-      404429419
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 874499675,
-    "wof:lastmodified": 1583786383,
+    "wof:lastmodified": 1609872190,
     "wof:name": "NP20 9NF",
     "wof:parent_id": 101750399,
     "wof:placetype": "postalcode",

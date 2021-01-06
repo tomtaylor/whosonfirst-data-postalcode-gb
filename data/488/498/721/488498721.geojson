@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.137726,55.851580,-3.137726,55.851580",
-    "geom:latitude": 55.85158,
-    "geom:longitude": -3.137726,
+    "geom:bbox": "-3.136999,55.851317,-3.136999,55.851317",
+    "geom:latitude": 55.851317,
+    "geom:longitude": -3.136999,
     "gp:parent_id": "12696201",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698677, 
       85633159, 
       1360698791, 
       404436513, 
-      404227471, 
-      1360698677
+      404227471
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701515,
-    "wof:geomhash": "af435c735dce96e4ce32e1084c21074b",
+    "wof:geomhash": "9b76f886359b0b20d183bc9e5847818d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488498721,
-    "wof:lastmodified": 1583786713,
+    "wof:lastmodified": 1609894418,
     "wof:name": "EH24 9AQ",
     "wof:parent_id": 404436513,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.137726, 
-    55.85158, 
-    -3.137726, 
-    55.85158
+    -3.136999, 
+    55.851317, 
+    -3.136999, 
+    55.851317
   ],
-  "geometry": {"coordinates":[-3.137726,55.85158],"type":"Point"}
+  "geometry": {"coordinates":[-3.136999,55.851317],"type":"Point"}
 }

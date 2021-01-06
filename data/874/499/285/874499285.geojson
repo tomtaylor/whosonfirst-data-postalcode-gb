@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2010-09-01",
     "geom:area": 0,
-    "geom:bbox": "-2.929515,51.653070,-2.929515,51.653070",
-    "geom:latitude": 51.65307,
-    "geom:longitude": -2.929515,
+    "geom:bbox": "-2.929345,51.653206,-2.929345,51.653206",
+    "geom:latitude": 51.653206,
+    "geom:longitude": -2.929345,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1125979231, 
       404227475, 
       1360698641, 
       85633159, 
       1360699109, 
-      404454585
+      404454585, 
+      1125979231
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468890831,
-    "wof:geomhash": "244458f10c6208f56802f9723c1a082a",
+    "wof:geomhash": "1da949863f7fd79a47728fa7634d1bf9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 874499285,
-    "wof:lastmodified": 1595728634,
+    "wof:lastmodified": 1609872165,
     "wof:name": "NP15 1QQ",
     "wof:parent_id": 404454585,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.929515, 
-    51.65307, 
-    -2.929515, 
-    51.65307
+    -2.929345, 
+    51.653206, 
+    -2.929345, 
+    51.653206
   ],
-  "geometry": {"coordinates":[-2.929515,51.65307],"type":"Point"}
+  "geometry": {"coordinates":[-2.929345,51.653206],"type":"Point"}
 }

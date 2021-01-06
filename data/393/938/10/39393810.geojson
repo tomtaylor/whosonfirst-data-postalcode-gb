@@ -2,7 +2,7 @@
   "id": 39393810,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-05-01",
     "edtf:inception": "2019-04-01",
     "geom:area": 0,
     "geom:bbox": "-1.553732,51.940163,-1.553732,51.940163",
@@ -10,7 +10,7 @@
     "geom:longitude": -1.553732,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000025",
     "os:district_code": "E07000181",
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      101852933, 
-      404227469, 
-      1360698585, 
       85633159, 
       1360698839, 
-      404451859
+      404451859, 
+      101852933, 
+      404227469, 
+      1360698585
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 39393810,
-    "wof:lastmodified": 1583800984,
+    "wof:lastmodified": 1609868616,
     "wof:name": "OX7 9FD",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

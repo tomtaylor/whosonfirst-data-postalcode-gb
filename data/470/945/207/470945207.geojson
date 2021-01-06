@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.397750,51.294958,0.397750,51.294958",
-    "geom:latitude": 51.294958,
-    "geom:longitude": 0.39775,
+    "geom:bbox": "0.397479,51.294990,0.397479,51.294990",
+    "geom:latitude": 51.29499,
+    "geom:longitude": 0.397479,
     "gp:parent_id": "39736",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698811, 
       404443549, 
       1125951821, 
       404227469, 
-      1360698565
+      1360698565, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701324,
-    "wof:geomhash": "6619b19bc391107157c6fca92d793e03",
+    "wof:geomhash": "7fd01a323984bd33304cbcd94968bef1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470945207,
-    "wof:lastmodified": 1583786454,
+    "wof:lastmodified": 1609875743,
     "wof:name": "ME19 6NL",
     "wof:parent_id": 404443549,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.39775, 
-    51.294958, 
-    0.39775, 
-    51.294958
+    0.397479, 
+    51.29499, 
+    0.397479, 
+    51.29499
   ],
-  "geometry": {"coordinates":[0.39775,51.294958],"type":"Point"}
+  "geometry": {"coordinates":[0.397479,51.29499],"type":"Point"}
 }

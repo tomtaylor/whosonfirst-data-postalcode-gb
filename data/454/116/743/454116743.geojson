@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1999-06-01",
     "geom:area": 0,
-    "geom:bbox": "-3.153401,53.365169,-3.153401,53.365169",
-    "geom:latitude": 53.365169,
-    "geom:longitude": -3.153401,
+    "geom:bbox": "-3.153733,53.365193,-3.153733,53.365193",
+    "geom:latitude": 53.365193,
+    "geom:longitude": -3.153733,
     "gp:parent_id": "12695853",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698573, 
       85633159, 
       1360699049, 
-      101750549
+      101750549, 
+      404227469, 
+      1360698573
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701250,
-    "wof:geomhash": "506811188374a584c5df44ff8084d26c",
+    "wof:geomhash": "0cb4f7d634bb7b405e0bc0910dc0d00d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454116743,
-    "wof:lastmodified": 1583786404,
+    "wof:lastmodified": 1609871765,
     "wof:name": "CH48 1PX",
     "wof:parent_id": 404452723,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.153401, 
-    53.365169, 
-    -3.153401, 
-    53.365169
+    -3.153733, 
+    53.365193, 
+    -3.153733, 
+    53.365193
   ],
-  "geometry": {"coordinates":[-3.153401,53.365169],"type":"Point"}
+  "geometry": {"coordinates":[-3.153733,53.365193],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-11-01",
     "geom:area": 0,
-    "geom:bbox": "-2.078405,57.357611,-2.078405,57.357611",
-    "geom:latitude": 57.357611,
-    "geom:longitude": -2.078405,
+    "geom:bbox": "-2.078172,57.357198,-2.078172,57.357198",
+    "geom:latitude": 57.357198,
+    "geom:longitude": -2.078172,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699031, 
-      404448747, 
       404227471, 
       1360698713, 
-      85633159
+      85633159, 
+      1360699031, 
+      404448747
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583787991,
-    "wof:geomhash": "b8a2c4ce171881e04e56a482e1dda5dd",
+    "wof:geomhash": "31daeaa685570a683c5311aa91b04f7d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1712436901,
-    "wof:lastmodified": 1583787991,
+    "wof:lastmodified": 1609868766,
     "wof:name": "AB41 9HH",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.078405, 
-    57.357611, 
-    -2.078405, 
-    57.357611
+    -2.078172, 
+    57.357198, 
+    -2.078172, 
+    57.357198
   ],
-  "geometry": {"coordinates":[-2.078405,57.357611],"type":"Point"}
+  "geometry": {"coordinates":[-2.078172,57.357198],"type":"Point"}
 }

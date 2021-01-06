@@ -2,7 +2,7 @@
   "id": 874457401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-06-01",
     "edtf:inception": "2018-04-01",
     "geom:area": 0,
     "geom:bbox": "-4.350304,55.886297,-4.350304,55.886297",
@@ -10,7 +10,7 @@
     "geom:longitude": -4.350304,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "S92000003",
     "os:county_code": "S99999999",
     "os:district_code": "S12000049",
@@ -18,13 +18,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698707, 
+      85633159, 
+      1360698797, 
       404430153, 
       1175612707, 
       404227471, 
-      85790197, 
-      1360698707, 
-      85633159, 
-      1360698797
+      85790197
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 874457401,
-    "wof:lastmodified": 1583786266,
+    "wof:lastmodified": 1609869949,
     "wof:name": "G13 9DY",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",

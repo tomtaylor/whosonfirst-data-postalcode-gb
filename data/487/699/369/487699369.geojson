@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.123205,52.814582,-2.123205,52.814582",
-    "geom:latitude": 52.814582,
-    "geom:longitude": -2.123205,
+    "geom:bbox": "-2.122862,52.814061,-2.122862,52.814061",
+    "geom:latitude": 52.814061,
+    "geom:longitude": -2.122862,
     "gp:parent_id": "35801",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698947, 
+      101750501, 
       404227469, 
       1360698593, 
-      85633159, 
-      1360698947, 
-      101750501
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701127,
-    "wof:geomhash": "3969637061fe07b196fe8c7863791299",
+    "wof:geomhash": "fcea2ef41f189251003661cf0d9d041a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 487699369,
-    "wof:lastmodified": 1583786222,
+    "wof:lastmodified": 1609873820,
     "wof:name": "ST16 2SE",
     "wof:parent_id": 101750501,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.123205, 
-    52.814582, 
-    -2.123205, 
-    52.814582
+    -2.122862, 
+    52.814061, 
+    -2.122862, 
+    52.814061
   ],
-  "geometry": {"coordinates":[-2.123205,52.814582],"type":"Point"}
+  "geometry": {"coordinates":[-2.122862,52.814061],"type":"Point"}
 }

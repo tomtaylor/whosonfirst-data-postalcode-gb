@@ -2,7 +2,7 @@
   "id": 38840598,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-07-01",
     "edtf:inception": "2020-01-01",
     "geom:area": 0,
     "geom:bbox": "-0.194577,54.084456,-0.194577,54.084456",
@@ -10,7 +10,7 @@
     "geom:longitude": -0.194577,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000011",
@@ -18,12 +18,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698547, 
-      85633159, 
       1360699001, 
       404439969, 
-      101874169
+      101874169, 
+      404227469, 
+      1360698547, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 38840598,
-    "wof:lastmodified": 1583794878,
+    "wof:lastmodified": 1609868482,
     "wof:name": "YO15 9BB",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

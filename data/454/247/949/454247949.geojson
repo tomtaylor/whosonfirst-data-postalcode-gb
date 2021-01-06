@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.492246,52.532301,-1.492246,52.532301",
-    "geom:latitude": 52.532301,
-    "geom:longitude": -1.492246,
+    "geom:bbox": "-1.492129,52.532255,-1.492129,52.532255",
+    "geom:latitude": 52.532255,
+    "geom:longitude": -1.492129,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,13 +18,13 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      85790749, 
       1360698603, 
       85633159, 
       1360698891, 
       1360817293, 
       101750471, 
-      404227469
+      404227469, 
+      85790749
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701414,
-    "wof:geomhash": "a0ff1a701daf31fe516a8cf909431ced",
+    "wof:geomhash": "1bb848bad8d0d98ba6fd0207306ed98d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 454247949,
-    "wof:lastmodified": 1583786543,
+    "wof:lastmodified": 1609879985,
     "wof:name": "CV10 0HS",
     "wof:parent_id": 404434601,
     "wof:placetype": "postalcode",
@@ -55,10 +55,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.492246, 
-    52.532301, 
-    -1.492246, 
-    52.532301
+    -1.492129, 
+    52.532255, 
+    -1.492129, 
+    52.532255
   ],
-  "geometry": {"coordinates":[-1.492246,52.532301],"type":"Point"}
+  "geometry": {"coordinates":[-1.492129,52.532255],"type":"Point"}
 }

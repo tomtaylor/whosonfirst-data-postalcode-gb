@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2015-02-01",
     "geom:area": 0,
-    "geom:bbox": "-2.933285,51.577158,-2.933285,51.577158",
-    "geom:latitude": 51.577158,
-    "geom:longitude": -2.933285,
+    "geom:bbox": "-2.933290,51.577115,-2.933290,51.577115",
+    "geom:latitude": 51.577115,
+    "geom:longitude": -2.93329,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698735, 
       404446391, 
       1326565165, 
       404227475, 
-      1360698641
+      1360698641, 
+      85633159, 
+      1360698735
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468890884,
-    "wof:geomhash": "3f88aa24aa71714132b008698fb1146a",
+    "wof:geomhash": "7f76d2e5863a10670216a69f0d42c2d6",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 874499495,
-    "wof:lastmodified": 1583786383,
+    "wof:lastmodified": 1609872179,
     "wof:name": "NP19 4TJ",
     "wof:parent_id": 101750399,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.933285, 
-    51.577158, 
-    -2.933285, 
-    51.577158
+    -2.93329, 
+    51.577115, 
+    -2.93329, 
+    51.577115
   ],
-  "geometry": {"coordinates":[-2.933285,51.577158],"type":"Point"}
+  "geometry": {"coordinates":[-2.93329,51.577115],"type":"Point"}
 }

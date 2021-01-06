@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.317343,55.796685,-3.317343,55.796685",
-    "geom:latitude": 55.796685,
-    "geom:longitude": -3.317343,
+    "geom:bbox": "-3.317305,55.796566,-3.317305,55.796566",
+    "geom:latitude": 55.796566,
+    "geom:longitude": -3.317305,
     "gp:parent_id": "12696201",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227471, 
-      1360698677, 
       85633159, 
       1360698791, 
-      404436513
+      404436513, 
+      404227471, 
+      1360698677
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701630,
-    "wof:geomhash": "7f62b9f517f98556b071781f7e00a35a",
+    "wof:geomhash": "a35c378e92163463774a02fd50b483ab",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488632883,
-    "wof:lastmodified": 1583786829,
+    "wof:lastmodified": 1609899344,
     "wof:name": "EH26 9LY",
     "wof:parent_id": 404436513,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.317343, 
-    55.796685, 
-    -3.317343, 
-    55.796685
+    -3.317305, 
+    55.796566, 
+    -3.317305, 
+    55.796566
   ],
-  "geometry": {"coordinates":[-3.317343,55.796685],"type":"Point"}
+  "geometry": {"coordinates":[-3.317305,55.796566],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.740277,52.533330,-1.740277,52.533330",
-    "geom:latitude": 52.53333,
-    "geom:longitude": -1.740277,
+    "geom:bbox": "-1.739929,52.533587,-1.739929,52.533587",
+    "geom:latitude": 52.533587,
+    "geom:longitude": -1.739929,
     "gp:parent_id": "17671",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       85792849, 
       1360698603, 
       85633159, 
       1360698891, 
       404452103, 
-      1125800567
+      1125800567, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701086,
-    "wof:geomhash": "4cb3e7a558413c367bf81980ca54bc6b",
+    "wof:geomhash": "9be51ae454fefb2d06570211aa6fe425",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 438026007,
-    "wof:lastmodified": 1583786205,
+    "wof:lastmodified": 1609869123,
     "wof:name": "B76 9ES",
     "wof:parent_id": 404452103,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.740277, 
-    52.53333, 
-    -1.740277, 
-    52.53333
+    -1.739929, 
+    52.533587, 
+    -1.739929, 
+    52.533587
   ],
-  "geometry": {"coordinates":[-1.740277,52.53333],"type":"Point"}
+  "geometry": {"coordinates":[-1.739929,52.533587],"type":"Point"}
 }

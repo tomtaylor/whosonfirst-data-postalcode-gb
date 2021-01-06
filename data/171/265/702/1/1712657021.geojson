@@ -2,7 +2,7 @@
   "id": 1712657021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-10-01",
     "edtf:inception": "2016-09-01",
     "geom:area": 0,
     "geom:bbox": "-1.390336,53.716452,-1.390336,53.716452",
@@ -10,7 +10,7 @@
     "geom:longitude": -1.390336,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E08000036",
@@ -18,12 +18,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698945, 
       1360817483, 
       101872187, 
       404227469, 
       1360698609, 
-      85633159, 
-      1360698945
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712657021,
-    "wof:lastmodified": 1583797774,
+    "wof:lastmodified": 1609872153,
     "wof:name": "WF10 9DF",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

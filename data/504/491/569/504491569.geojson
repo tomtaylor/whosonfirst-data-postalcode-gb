@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.462129,53.320624,-3.462129,53.320624",
-    "geom:latitude": 53.320624,
-    "geom:longitude": -3.462129,
+    "geom:bbox": "-3.462128,53.320597,-3.462128,53.320597",
+    "geom:latitude": 53.320597,
+    "geom:longitude": -3.462128,
     "gp:parent_id": "12696135",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404439211, 
-      101872005, 
-      404227475, 
       1360698637, 
       85633159, 
-      1360698781
+      1360698781, 
+      404439211, 
+      101872005, 
+      404227475
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701373,
-    "wof:geomhash": "95c3a4bffb29b7cad52448fb5f4d488f",
+    "wof:geomhash": "a4f49100379d9b2d479f7301f15cb2cd",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504491569,
-    "wof:lastmodified": 1583786490,
+    "wof:lastmodified": 1609875102,
     "wof:name": "LL18 4BJ",
     "wof:parent_id": 404439211,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.462129, 
-    53.320624, 
-    -3.462129, 
-    53.320624
+    -3.462128, 
+    53.320597, 
+    -3.462128, 
+    53.320597
   ],
-  "geometry": {"coordinates":[-3.462129,53.320624],"type":"Point"}
+  "geometry": {"coordinates":[-3.462128,53.320597],"type":"Point"}
 }

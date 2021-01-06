@@ -3,11 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "uuuu",
-    "edtf:inception": "2014-06-01",
+    "edtf:inception": "2020-08-01",
     "geom:area": 0,
-    "geom:bbox": "-3.375818,51.742308,-3.375818,51.742308",
-    "geom:latitude": 51.742308,
-    "geom:longitude": -3.375818,
+    "geom:bbox": "-3.375830,51.742313,-3.375830,51.742313",
+    "geom:latitude": 51.742313,
+    "geom:longitude": -3.37583,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698803, 
+      404453105, 
       1360711525, 
       404227475, 
       1360698631, 
-      85633159, 
-      1360698803, 
-      404453105
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468875979,
-    "wof:geomhash": "1a0cad4559f595dc27a5143c03b755fb",
+    "wof:geomhash": "b1ea5c81a5e9cf307c45a9963ea17420",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 874430807,
-    "wof:lastmodified": 1583786189,
+    "wof:lastmodified": 1609869029,
     "wof:name": "CF47 7BR",
     "wof:parent_id": 101852817,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.375818, 
-    51.742308, 
-    -3.375818, 
-    51.742308
+    -3.37583, 
+    51.742313, 
+    -3.37583, 
+    51.742313
   ],
-  "geometry": {"coordinates":[-3.375818,51.742308],"type":"Point"}
+  "geometry": {"coordinates":[-3.37583,51.742313],"type":"Point"}
 }

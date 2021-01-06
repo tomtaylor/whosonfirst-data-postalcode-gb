@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.218857,55.912321,-4.218857,55.912321",
-    "geom:latitude": 55.912321,
-    "geom:longitude": -4.218857,
+    "geom:bbox": "-4.218497,55.912193,-4.218497,55.912193",
+    "geom:latitude": 55.912193,
+    "geom:longitude": -4.218497,
     "gp:parent_id": "12696192",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      404451795, 
+      404227471, 
       85785743, 
       1360698701, 
       85633159, 
-      1360698835, 
-      404451795, 
-      404227471
+      1360698835
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701180,
-    "wof:geomhash": "ea239c9be4f7de9110a8655ba165d8ce",
+    "wof:geomhash": "7a59c2113912a3aa29c1c7f29a08e818",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504410351,
-    "wof:lastmodified": 1583786286,
+    "wof:lastmodified": 1609869935,
     "wof:name": "G64 2JF",
     "wof:parent_id": 101913911,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.218857, 
-    55.912321, 
-    -4.218857, 
-    55.912321
+    -4.218497, 
+    55.912193, 
+    -4.218497, 
+    55.912193
   ],
-  "geometry": {"coordinates":[-4.218857,55.912321],"type":"Point"}
+  "geometry": {"coordinates":[-4.218497,55.912193],"type":"Point"}
 }

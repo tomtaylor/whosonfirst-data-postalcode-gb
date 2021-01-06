@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.370038,53.039954,-1.370038,53.039954",
-    "geom:latitude": 53.039954,
-    "geom:longitude": -1.370038,
+    "geom:bbox": "-1.370337,53.039937,-1.370337,53.039937",
+    "geom:latitude": 53.039937,
+    "geom:longitude": -1.370337,
     "gp:parent_id": "16501",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698539, 
       85633159, 
       1360698765, 
       404452119, 
-      1125954343
+      1125954343, 
+      404227469, 
+      1360698539
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701506,
-    "wof:geomhash": "154d752e75cb4ca80fadbe612656a049",
+    "wof:geomhash": "abf84421b9179a65a14b91a0ed55c395",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454350893,
-    "wof:lastmodified": 1583786638,
+    "wof:lastmodified": 1609884923,
     "wof:name": "DE5 9RJ",
     "wof:parent_id": 404452119,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.370038, 
-    53.039954, 
-    -1.370038, 
-    53.039954
+    -1.370337, 
+    53.039937, 
+    -1.370337, 
+    53.039937
   ],
-  "geometry": {"coordinates":[-1.370038,53.039954],"type":"Point"}
+  "geometry": {"coordinates":[-1.370337,53.039937],"type":"Point"}
 }

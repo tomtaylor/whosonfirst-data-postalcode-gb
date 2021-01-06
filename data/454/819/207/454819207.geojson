@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.074416,53.691096,0.074416,53.691096",
-    "geom:latitude": 53.691096,
-    "geom:longitude": 0.074416,
+    "geom:bbox": "0.074479,53.691140,0.074479,53.691140",
+    "geom:latitude": 53.69114,
+    "geom:longitude": 0.074479,
     "gp:parent_id": "23732",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1125799111, 
-      404227469, 
-      1360698547, 
       85633159, 
       1360699001, 
-      404441561
+      404441561, 
+      1125799111, 
+      404227469, 
+      1360698547
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701726,
-    "wof:geomhash": "29b18c7c17d21ae25d7bdce49fc7fa0d",
+    "wof:geomhash": "316172d11dbd915cdf6ac9d63f4d6cd3",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454819207,
-    "wof:lastmodified": 1583786861,
+    "wof:lastmodified": 1609902851,
     "wof:name": "HU19 2QY",
     "wof:parent_id": 404441561,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.074416, 
-    53.691096, 
-    0.074416, 
-    53.691096
+    0.074479, 
+    53.69114, 
+    0.074479, 
+    53.69114
   ],
-  "geometry": {"coordinates":[0.074416,53.691096],"type":"Point"}
+  "geometry": {"coordinates":[0.074479,53.69114],"type":"Point"}
 }

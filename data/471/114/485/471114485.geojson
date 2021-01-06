@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1997-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.320454,53.021728,-1.320454,53.021728",
-    "geom:latitude": 53.021728,
-    "geom:longitude": -1.320454,
+    "geom:bbox": "-1.320347,53.021755,-1.320347,53.021755",
+    "geom:latitude": 53.021755,
+    "geom:longitude": -1.320347,
     "gp:parent_id": "19233",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698809, 
       404455287, 
       101871915, 
       404227469, 
-      1360698583, 
-      85633159, 
-      1360698809
+      1360698583
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701310,
-    "wof:geomhash": "c2cf3ba2878503062a475c93c5049b5b",
+    "wof:geomhash": "ce709bf4cf4f76f77344549d10d7e16e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471114485,
-    "wof:lastmodified": 1583786453,
+    "wof:lastmodified": 1609874082,
     "wof:name": "NG16 3SR",
     "wof:parent_id": 404455287,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.320454, 
-    53.021728, 
-    -1.320454, 
-    53.021728
+    -1.320347, 
+    53.021755, 
+    -1.320347, 
+    53.021755
   ],
-  "geometry": {"coordinates":[-1.320454,53.021728],"type":"Point"}
+  "geometry": {"coordinates":[-1.320347,53.021755],"type":"Point"}
 }

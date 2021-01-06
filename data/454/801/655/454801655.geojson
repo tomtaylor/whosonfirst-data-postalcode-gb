@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.781999,52.140245,-2.781999,52.140245",
-    "geom:latitude": 52.140245,
-    "geom:longitude": -2.781999,
+    "geom:bbox": "-2.781141,52.140466,-2.781141,52.140466",
+    "geom:latitude": 52.140466,
+    "geom:longitude": -2.781141,
     "gp:parent_id": "15047",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698617, 
       85633159, 
       1360699053, 
       404447947, 
       1360756113, 
-      404227469
+      404227469, 
+      1360698617
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701718,
-    "wof:geomhash": "ad13ef6e643c3aad3c376b5e10d078b8",
+    "wof:geomhash": "66908e10eeb79bd3af58016ffe172f92",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454801655,
-    "wof:lastmodified": 1595717235,
+    "wof:lastmodified": 1609902507,
     "wof:name": "HR4 8PA",
     "wof:parent_id": 404447947,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.781999, 
-    52.140245, 
-    -2.781999, 
-    52.140245
+    -2.781141, 
+    52.140466, 
+    -2.781141, 
+    52.140466
   ],
-  "geometry": {"coordinates":[-2.781999,52.140245],"type":"Point"}
+  "geometry": {"coordinates":[-2.781141,52.140466],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1999-06-01",
     "geom:area": 0,
-    "geom:bbox": "-3.107657,51.529756,-3.107657,51.529756",
-    "geom:latitude": 51.529756,
-    "geom:longitude": -3.107657,
+    "geom:bbox": "-3.107795,51.529747,-3.107795,51.529747",
+    "geom:latitude": 51.529747,
+    "geom:longitude": -3.107795,
     "gp:parent_id": "12696132",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227475, 
-      1360698627, 
       1360887603, 
       85633159, 
       1360699107, 
-      101750397
+      101750397, 
+      404227475, 
+      1360698627
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701592,
-    "wof:geomhash": "505c58bd0a9ab8334c1c650b89e3b3a4",
+    "wof:geomhash": "c75e6a0a5819123f9e5c72726c0a704c",
     "wof:hierarchy": [
       {
         "borough_id": 1360887603,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488565995,
-    "wof:lastmodified": 1583786780,
+    "wof:lastmodified": 1609897014,
     "wof:name": "CF3 5XA",
     "wof:parent_id": 404446649,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.107657, 
-    51.529756, 
-    -3.107657, 
-    51.529756
+    -3.107795, 
+    51.529747, 
+    -3.107795, 
+    51.529747
   ],
-  "geometry": {"coordinates":[-3.107657,51.529756],"type":"Point"}
+  "geometry": {"coordinates":[-3.107795,51.529747],"type":"Point"}
 }

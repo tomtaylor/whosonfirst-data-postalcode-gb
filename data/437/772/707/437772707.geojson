@@ -2,7 +2,7 @@
   "id": 437772707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-05-01",
     "edtf:inception": "2015-03-01",
     "geom:area": 0,
     "geom:bbox": "-1.465616,52.914939,-1.465616,52.914939",
@@ -11,7 +11,7 @@
     "gp:parent_id": "18114",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000015",
@@ -19,11 +19,11 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      101750489, 
+      404227469, 
       1360698539, 
       85633159, 
-      1360699093, 
-      101750489, 
-      404227469
+      1360699093
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 437772707,
-    "wof:lastmodified": 1583786691,
+    "wof:lastmodified": 1609889298,
     "wof:name": "DE1 9LL",
     "wof:parent_id": 101750489,
     "wof:placetype": "postalcode",

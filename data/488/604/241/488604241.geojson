@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.863394,56.468260,-2.863394,56.468260",
-    "geom:latitude": 56.46826,
-    "geom:longitude": -2.863394,
+    "geom:bbox": "-2.862361,56.468501,-2.862361,56.468501",
+    "geom:latitude": 56.468501,
+    "geom:longitude": -2.862361,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      101750641, 
-      404227471, 
       1360698693, 
       85633159, 
       1360698883, 
-      404430743
+      404430743, 
+      101750641, 
+      404227471
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701612,
-    "wof:geomhash": "fd0cdc69d72eeb82a0810638a13e636d",
+    "wof:geomhash": "730c1a62f5ff9b33306c003ff82f54d8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 488604241,
-    "wof:lastmodified": 1583786804,
+    "wof:lastmodified": 1609898548,
     "wof:name": "DD5 2RZ",
     "wof:parent_id": 101750641,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.863394, 
-    56.46826, 
-    -2.863394, 
-    56.46826
+    -2.862361, 
+    56.468501, 
+    -2.862361, 
+    56.468501
   ],
-  "geometry": {"coordinates":[-2.863394,56.46826],"type":"Point"}
+  "geometry": {"coordinates":[-2.862361,56.468501],"type":"Point"}
 }

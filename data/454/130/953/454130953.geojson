@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.899173,51.639622,0.899173,51.639622",
-    "geom:latitude": 51.639622,
-    "geom:longitude": 0.899173,
+    "geom:bbox": "0.903620,51.636823,0.903620,51.636823",
+    "geom:latitude": 51.636823,
+    "geom:longitude": 0.90362,
     "gp:parent_id": "14591",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698551, 
       85633159, 
       1360698979, 
       404454079, 
-      101853525
+      101853525, 
+      404227469, 
+      1360698551
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701284,
-    "wof:geomhash": "babed3579a5733cce246cc058bc3a3b3",
+    "wof:geomhash": "b4759f8fcd395586590a4c548e2f12eb",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454130953,
-    "wof:lastmodified": 1583786427,
+    "wof:lastmodified": 1609872682,
     "wof:name": "CM0 8NQ",
     "wof:parent_id": 404454079,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.899173, 
-    51.639622, 
-    0.899173, 
-    51.639622
+    0.90362, 
+    51.636823, 
+    0.90362, 
+    51.636823
   ],
-  "geometry": {"coordinates":[0.899173,51.639622],"type":"Point"}
+  "geometry": {"coordinates":[0.90362,51.636823],"type":"Point"}
 }

@@ -2,7 +2,7 @@
   "id": 454236675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-06-01",
     "edtf:inception": "1996-06-01",
     "geom:area": 0,
     "geom:bbox": "1.094448,51.284437,1.094448,51.284437",
@@ -11,7 +11,7 @@
     "gp:parent_id": "11845",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000016",
     "os:district_code": "E07000106",
@@ -19,11 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698565, 
       85633159, 
       1360698811, 
       1125774669, 
-      404227469, 
-      1360698565
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454236675,
-    "wof:lastmodified": 1583786533,
+    "wof:lastmodified": 1609879531,
     "wof:name": "CT4 6GF",
     "wof:parent_id": 101854623,
     "wof:placetype": "postalcode",

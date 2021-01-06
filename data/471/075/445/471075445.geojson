@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.021374,54.977510,-2.021374,54.977510",
-    "geom:latitude": 54.97751,
-    "geom:longitude": -2.021374,
+    "geom:bbox": "-2.021289,54.977516,-2.021289,54.977516",
+    "geom:latitude": 54.977516,
+    "geom:longitude": -2.021289,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      101873449, 
-      404227469, 
-      1360698727, 
       85633159, 
       1360698769, 
-      404429721
+      404429721, 
+      101873449, 
+      404227469, 
+      1360698727
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701234,
-    "wof:geomhash": "8364bc82d307d8e08d4c9638dcec3d70",
+    "wof:geomhash": "e3bf3c454d3865217775c277eeee3800",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471075445,
-    "wof:lastmodified": 1583786375,
+    "wof:lastmodified": 1609871411,
     "wof:name": "NE45 5HW",
     "wof:parent_id": 101873449,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.021374, 
-    54.97751, 
-    -2.021374, 
-    54.97751
+    -2.021289, 
+    54.977516, 
+    -2.021289, 
+    54.977516
   ],
-  "geometry": {"coordinates":[-2.021374,54.97751],"type":"Point"}
+  "geometry": {"coordinates":[-2.021289,54.977516],"type":"Point"}
 }

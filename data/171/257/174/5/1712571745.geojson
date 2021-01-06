@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-03-01",
     "geom:area": 0,
-    "geom:bbox": "-1.273073,53.226492,-1.273073,53.226492",
-    "geom:latitude": 53.226492,
-    "geom:longitude": -1.273073,
+    "geom:bbox": "-1.272807,53.226274,-1.272807,53.226274",
+    "geom:latitude": 53.226274,
+    "geom:longitude": -1.272807,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698539, 
       85633159, 
       1360698765, 
       404445045, 
-      1360759169
+      1360759169, 
+      404227469, 
+      1360698539
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583793980,
-    "wof:geomhash": "5aebe7030ecf954ad4cd5da80db58668",
+    "wof:geomhash": "bd8a58185fdc2293f330bdad83809834",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712571745,
-    "wof:lastmodified": 1595711109,
+    "wof:lastmodified": 1609870711,
     "wof:name": "S44 6FS",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.273073, 
-    53.226492, 
-    -1.273073, 
-    53.226492
+    -1.272807, 
+    53.226274, 
+    -1.272807, 
+    53.226274
   ],
-  "geometry": {"coordinates":[-1.273073,53.226492],"type":"Point"}
+  "geometry": {"coordinates":[-1.272807,53.226274],"type":"Point"}
 }

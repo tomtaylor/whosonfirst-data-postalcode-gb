@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.638087,51.602645,-0.638087,51.602645",
-    "geom:latitude": 51.602645,
-    "geom:longitude": -0.638087,
+    "geom:bbox": "-0.638081,51.602684,-0.638081,51.602684",
+    "geom:latitude": 51.602684,
+    "geom:longitude": -0.638081,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      404434561, 
+      101854797, 
       404227469, 
       1360698533, 
       85633159, 
-      1360698997, 
-      404434561, 
-      101854797
+      1360698997
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701717,
-    "wof:geomhash": "4b34a91c104ae83c638100ce5009f03a",
+    "wof:geomhash": "4d452651ccf9216fa3859816321144d0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454793717,
-    "wof:lastmodified": 1595717183,
+    "wof:lastmodified": 1609902383,
     "wof:name": "HP9 1LU",
     "wof:parent_id": 101854797,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.638087, 
-    51.602645, 
-    -0.638087, 
-    51.602645
+    -0.638081, 
+    51.602684, 
+    -0.638081, 
+    51.602684
   ],
-  "geometry": {"coordinates":[-0.638087,51.602645],"type":"Point"}
+  "geometry": {"coordinates":[-0.638081,51.602684],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.486738,53.823107,-1.486738,53.823107",
-    "geom:latitude": 53.823107,
-    "geom:longitude": -1.486738,
+    "geom:bbox": "-1.486818,53.823123,-1.486818,53.823123",
+    "geom:latitude": 53.823123,
+    "geom:longitude": -1.486818,
     "gp:parent_id": "26042",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698609, 
-      85633159, 
-      1360698749, 
       101750579, 
       404227469, 
-      85792871
+      85792871, 
+      1360698609, 
+      85633159, 
+      1360698749
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701105,
-    "wof:geomhash": "7d6e1567f3ee31803d06153bbac50fd1",
+    "wof:geomhash": "8f7fc6f1d97bcf99d90ab44460d33a5a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470841393,
-    "wof:lastmodified": 1583786222,
+    "wof:lastmodified": 1609869353,
     "wof:name": "LS8 3AY",
     "wof:parent_id": 101750579,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.486738, 
-    53.823107, 
-    -1.486738, 
-    53.823107
+    -1.486818, 
+    53.823123, 
+    -1.486818, 
+    53.823123
   ],
-  "geometry": {"coordinates":[-1.486738,53.823107],"type":"Point"}
+  "geometry": {"coordinates":[-1.486818,53.823123],"type":"Point"}
 }

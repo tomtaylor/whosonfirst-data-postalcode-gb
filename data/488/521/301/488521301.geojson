@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.814198,55.639661,-4.814198,55.639661",
-    "geom:latitude": 55.639661,
-    "geom:longitude": -4.814198,
+    "geom:bbox": "-4.813950,55.639628,-4.813950,55.639628",
+    "geom:latitude": 55.639628,
+    "geom:longitude": -4.81395,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,11 +18,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227471, 
       1360698697, 
       85633159, 
       1360698855, 
-      404441385
+      404441385, 
+      404227471
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -30,7 +30,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701531,
-    "wof:geomhash": "a18ca00d7984b4fb108b0c5b3513b3f7",
+    "wof:geomhash": "4417d3e440c4a75729b7ac57df8730dc",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -41,7 +41,7 @@
       }
     ],
     "wof:id": 488521301,
-    "wof:lastmodified": 1583786732,
+    "wof:lastmodified": 1609895130,
     "wof:name": "KA22 8DF",
     "wof:parent_id": 404441385,
     "wof:placetype": "postalcode",
@@ -51,10 +51,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.814198, 
-    55.639661, 
-    -4.814198, 
-    55.639661
+    -4.81395, 
+    55.639628, 
+    -4.81395, 
+    55.639628
   ],
-  "geometry": {"coordinates":[-4.814198,55.639661],"type":"Point"}
+  "geometry": {"coordinates":[-4.81395,55.639628],"type":"Point"}
 }

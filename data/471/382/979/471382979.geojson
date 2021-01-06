@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1984-02-01",
     "geom:area": 0,
-    "geom:bbox": "-0.283678,52.607442,-0.283678,52.607442",
-    "geom:latitude": 52.607442,
-    "geom:longitude": -0.283678,
+    "geom:bbox": "-0.283563,52.607368,-0.283563,52.607368",
+    "geom:latitude": 52.607368,
+    "geom:longitude": -0.283563,
     "gp:parent_id": "13797",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698535, 
       85633159, 
       1360698773, 
       404454827, 
       1126011661, 
-      404227469
+      404227469, 
+      1360698535
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701544,
-    "wof:geomhash": "cad1b49de9fba0b5494c617be7c5198b",
+    "wof:geomhash": "540469a81a165f5f7bf07d56bb0fc519",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471382979,
-    "wof:lastmodified": 1583786697,
+    "wof:lastmodified": 1609889728,
     "wof:name": "PE3 8SB",
     "wof:parent_id": 404454827,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.283678, 
-    52.607442, 
-    -0.283678, 
-    52.607442
+    -0.283563, 
+    52.607368, 
+    -0.283563, 
+    52.607368
   ],
-  "geometry": {"coordinates":[-0.283678,52.607442],"type":"Point"}
+  "geometry": {"coordinates":[-0.283563,52.607368],"type":"Point"}
 }

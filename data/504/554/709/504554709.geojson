@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.578659,55.850723,-4.578659,55.850723",
-    "geom:latitude": 55.850723,
-    "geom:longitude": -4.578659,
+    "geom:bbox": "-4.578578,55.850455,-4.578578,55.850455",
+    "geom:latitude": 55.850455,
+    "geom:longitude": -4.578578,
     "gp:parent_id": "12696207",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699097, 
       404432463, 
       404227471, 
-      1360698699
+      1360698699, 
+      85633159, 
+      1360699097
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701423,
-    "wof:geomhash": "cb7d21d98fa6328ec51c33f3d3ef2653",
+    "wof:geomhash": "1041c093415b16cca3c2bcfdb55b808d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504554709,
-    "wof:lastmodified": 1583786565,
+    "wof:lastmodified": 1609879258,
     "wof:name": "PA11 3DR",
     "wof:parent_id": 101872501,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.578659, 
-    55.850723, 
-    -4.578659, 
-    55.850723
+    -4.578578, 
+    55.850455, 
+    -4.578578, 
+    55.850455
   ],
-  "geometry": {"coordinates":[-4.578659,55.850723],"type":"Point"}
+  "geometry": {"coordinates":[-4.578578,55.850455],"type":"Point"}
 }

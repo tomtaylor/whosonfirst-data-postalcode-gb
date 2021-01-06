@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2005-02-01",
     "geom:area": 0,
-    "geom:bbox": "-4.197221,55.848639,-4.197221,55.848639",
-    "geom:latitude": 55.848639,
-    "geom:longitude": -4.197221,
+    "geom:bbox": "-4.196821,55.848628,-4.196821,55.848628",
+    "geom:latitude": 55.848628,
+    "geom:longitude": -4.196821,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404430153, 
-      1175612707, 
-      404227471, 
       85792593, 
       1360698707, 
       85633159, 
-      1360698797
+      1360698797, 
+      404430153, 
+      1175612707, 
+      404227471
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701529,
-    "wof:geomhash": "91e7d7accd9a4464fab1136dff0a0297",
+    "wof:geomhash": "3675452dbf1de83e8597c77e344bf600",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 504732765,
-    "wof:lastmodified": 1583786691,
+    "wof:lastmodified": 1609887993,
     "wof:name": "G31 4NR",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.197221, 
-    55.848639, 
-    -4.197221, 
-    55.848639
+    -4.196821, 
+    55.848628, 
+    -4.196821, 
+    55.848628
   ],
-  "geometry": {"coordinates":[-4.197221,55.848639],"type":"Point"}
+  "geometry": {"coordinates":[-4.196821,55.848628],"type":"Point"}
 }

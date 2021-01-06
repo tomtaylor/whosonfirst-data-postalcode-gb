@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.539428,53.495400,-2.539428,53.495400",
-    "geom:latitude": 53.4954,
+    "geom:bbox": "-2.539428,53.495454,-2.539428,53.495454",
+    "geom:latitude": 53.495454,
     "geom:longitude": -2.539428,
     "gp:parent_id": "26070",
     "iso:country": "GB",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699023, 
       1360817301, 
       101872175, 
       404227469, 
-      1360698555
+      1360698555, 
+      85633159, 
+      1360699023
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701283,
-    "wof:geomhash": "e3d32072682da9553d76905b50ccf662",
+    "wof:geomhash": "bcd5d0927ce42b9266a0368862b8d261",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488160085,
-    "wof:lastmodified": 1595729668,
+    "wof:lastmodified": 1609877769,
     "wof:name": "WN7 4TD",
     "wof:parent_id": 404450053,
     "wof:placetype": "postalcode",
@@ -55,9 +55,9 @@
   },
   "bbox": [
     -2.539428, 
-    53.4954, 
+    53.495454, 
     -2.539428, 
-    53.4954
+    53.495454
   ],
-  "geometry": {"coordinates":[-2.539428,53.4954],"type":"Point"}
+  "geometry": {"coordinates":[-2.539428,53.495454],"type":"Point"}
 }

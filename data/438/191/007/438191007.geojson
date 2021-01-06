@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1983-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.528337,53.552554,-2.528337,53.552554",
-    "geom:latitude": 53.552554,
-    "geom:longitude": -2.528337,
+    "geom:bbox": "-2.528621,53.552319,-2.528621,53.552319",
+    "geom:latitude": 53.552319,
+    "geom:longitude": -2.528621,
     "gp:parent_id": "39946",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698555, 
       85633159, 
       1360699099, 
       404446189, 
       1125994427, 
-      404227469
+      404227469, 
+      1360698555
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701386,
-    "wof:geomhash": "63037219eba8c783f876d6236a4fdf57",
+    "wof:geomhash": "a677cb7fd4591eb2d531682c580bc188",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438191007,
-    "wof:lastmodified": 1583786521,
+    "wof:lastmodified": 1609878937,
     "wof:name": "BL5 3TT",
     "wof:parent_id": 404446189,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.528337, 
-    53.552554, 
-    -2.528337, 
-    53.552554
+    -2.528621, 
+    53.552319, 
+    -2.528621, 
+    53.552319
   ],
-  "geometry": {"coordinates":[-2.528337,53.552554],"type":"Point"}
+  "geometry": {"coordinates":[-2.528621,53.552319],"type":"Point"}
 }

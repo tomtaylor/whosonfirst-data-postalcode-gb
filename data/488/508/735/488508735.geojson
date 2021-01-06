@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1996-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.106355,57.153733,-2.106355,57.153733",
-    "geom:latitude": 57.153733,
-    "geom:longitude": -2.106355,
+    "geom:bbox": "-2.106321,57.153499,-2.106321,57.153499",
+    "geom:latitude": 57.153499,
+    "geom:longitude": -2.106321,
     "gp:parent_id": "12696182",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      404429183, 
       101750639, 
       404227471, 
       1360698709, 
       85633159, 
-      1360698989, 
-      404429183
+      1360698989
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701521,
-    "wof:geomhash": "719ad30c6656fbdb0ef8024c6a45214a",
+    "wof:geomhash": "cd5b5abf36429dd87f4e9a7ef39c4687",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488508735,
-    "wof:lastmodified": 1583786722,
+    "wof:lastmodified": 1609894705,
     "wof:name": "AB25 3RS",
     "wof:parent_id": 101750639,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.106355, 
-    57.153733, 
-    -2.106355, 
-    57.153733
+    -2.106321, 
+    57.153499, 
+    -2.106321, 
+    57.153499
   ],
-  "geometry": {"coordinates":[-2.106355,57.153733],"type":"Point"}
+  "geometry": {"coordinates":[-2.106321,57.153499],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.362343,50.819990,0.362343,50.819990",
-    "geom:latitude": 50.81999,
-    "geom:longitude": 0.362343,
+    "geom:bbox": "0.362387,50.819994,0.362387,50.819994",
+    "geom:latitude": 50.819994,
+    "geom:longitude": 0.362387,
     "gp:parent_id": "31964",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404431105, 
       1125805123, 
       404227469, 
       1360698549, 
       85633159, 
-      1360698815
+      1360698815, 
+      404431105
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701413,
-    "wof:geomhash": "ed7fa066165a94ae5f5d2983c4b5b961",
+    "wof:geomhash": "1d35a949b339cae2f33315c6f286ffc8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438229135,
-    "wof:lastmodified": 1583786548,
+    "wof:lastmodified": 1609880706,
     "wof:name": "BN24 6SA",
     "wof:parent_id": 404431105,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.362343, 
-    50.81999, 
-    0.362343, 
-    50.81999
+    0.362387, 
+    50.819994, 
+    0.362387, 
+    50.819994
   ],
-  "geometry": {"coordinates":[0.362343,50.81999],"type":"Point"}
+  "geometry": {"coordinates":[0.362387,50.819994],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.391080,54.589671,-1.391080,54.589671",
-    "geom:latitude": 54.589671,
-    "geom:longitude": -1.39108,
+    "geom:bbox": "-1.390813,54.589744,-1.390813,54.589744",
+    "geom:latitude": 54.589744,
+    "geom:longitude": -1.390813,
     "gp:parent_id": "15183",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699087, 
       404438131, 
       1344085853, 
       404227469, 
-      1360698621
+      1360698621, 
+      85633159, 
+      1360699087
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701282,
-    "wof:geomhash": "d3bce73e584060fa2c366aae7764cbec",
+    "wof:geomhash": "a4da582f7721e0e82469b474bfd925c0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487948525,
-    "wof:lastmodified": 1583786350,
+    "wof:lastmodified": 1609888247,
     "wof:name": "TS21 1EA",
     "wof:parent_id": 404438131,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.39108, 
-    54.589671, 
-    -1.39108, 
-    54.589671
+    -1.390813, 
+    54.589744, 
+    -1.390813, 
+    54.589744
   ],
-  "geometry": {"coordinates":[-1.39108,54.589671],"type":"Point"}
+  "geometry": {"coordinates":[-1.390813,54.589744],"type":"Point"}
 }

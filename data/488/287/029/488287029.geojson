@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2008-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.521103,53.073008,-2.521103,53.073008",
-    "geom:latitude": 53.073008,
+    "geom:bbox": "-2.521103,53.073043,-2.521103,53.073043",
+    "geom:latitude": 53.073043,
     "geom:longitude": -2.521103,
     "gp:parent_id": "12695889",
     "iso:country": "GB",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698537, 
       85633159, 
       1360698929, 
       404440827, 
       101871971, 
-      404227469
+      404227469, 
+      1360698537
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701303,
-    "wof:geomhash": "7de33e3b40361eb47008a0334462c11e",
+    "wof:geomhash": "8d077cd7c47b91603aeac45466ccfd40",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488287029,
-    "wof:lastmodified": 1583786492,
+    "wof:lastmodified": 1609884394,
     "wof:name": "CW5 5RB",
     "wof:parent_id": 101871971,
     "wof:placetype": "postalcode",
@@ -55,9 +55,9 @@
   },
   "bbox": [
     -2.521103, 
-    53.073008, 
+    53.073043, 
     -2.521103, 
-    53.073008
+    53.073043
   ],
-  "geometry": {"coordinates":[-2.521103,53.073008],"type":"Point"}
+  "geometry": {"coordinates":[-2.521103,53.073043],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.299529,53.233643,-1.299529,53.233643",
-    "geom:latitude": 53.233643,
-    "geom:longitude": -1.299529,
+    "geom:bbox": "-1.299140,53.233632,-1.299140,53.233632",
+    "geom:latitude": 53.233632,
+    "geom:longitude": -1.29914,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698765, 
-      404445045, 
-      1360759169, 
       404227469, 
       1360698539, 
-      85633159
+      85633159, 
+      1360698765, 
+      404445045, 
+      1360759169
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701691,
-    "wof:geomhash": "cda512eed82af645bd4d7dfb8f41f8bc",
+    "wof:geomhash": "1ccef15ed64693d8231984f994897fe5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471655267,
-    "wof:lastmodified": 1583786870,
+    "wof:lastmodified": 1609900216,
     "wof:name": "S44 6RT",
     "wof:parent_id": 101878287,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.299529, 
-    53.233643, 
-    -1.299529, 
-    53.233643
+    -1.29914, 
+    53.233632, 
+    -1.29914, 
+    53.233632
   ],
-  "geometry": {"coordinates":[-1.299529,53.233643],"type":"Point"}
+  "geometry": {"coordinates":[-1.29914,53.233632],"type":"Point"}
 }

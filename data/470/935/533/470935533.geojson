@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.525635,51.281656,0.525635,51.281656",
-    "geom:latitude": 51.281656,
-    "geom:longitude": 0.525635,
+    "geom:bbox": "0.525633,51.281620,0.525633,51.281620",
+    "geom:latitude": 51.28162,
+    "geom:longitude": 0.525633,
     "gp:parent_id": "28168",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698811, 
       101750341, 
       404227469, 
-      1360698565, 
-      85633159, 
-      1360698811
+      1360698565
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701315,
-    "wof:geomhash": "c91f9dac9cef1a1f802a875823c1e195",
+    "wof:geomhash": "25a3ca8d3dbdda128681243b847bac0d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 470935533,
-    "wof:lastmodified": 1583786445,
+    "wof:lastmodified": 1609874892,
     "wof:name": "ME14 2TL",
     "wof:parent_id": 101750341,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.525635, 
-    51.281656, 
-    0.525635, 
-    51.281656
+    0.525633, 
+    51.28162, 
+    0.525633, 
+    51.28162
   ],
-  "geometry": {"coordinates":[0.525635,51.281656],"type":"Point"}
+  "geometry": {"coordinates":[0.525633,51.28162],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1993-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.438687,52.179502,-3.438687,52.179502",
-    "geom:latitude": 52.179502,
-    "geom:longitude": -3.438687,
+    "geom:bbox": "-3.438588,52.179602,-3.438588,52.179602",
+    "geom:latitude": 52.179602,
+    "geom:longitude": -3.438588,
     "gp:parent_id": "12696134",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360711351, 
-      404227475, 
-      1360698625, 
       85633159, 
       1360698985, 
-      404440999
+      404440999, 
+      1360711351, 
+      404227475, 
+      1360698625
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701364,
-    "wof:geomhash": "e7429224268dc957dd677a360f9d168f",
+    "wof:geomhash": "532f75eeb094b1f80c66ffcd26b93c93",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504480827,
-    "wof:lastmodified": 1583786475,
+    "wof:lastmodified": 1609874213,
     "wof:name": "LD2 3SP",
     "wof:parent_id": 404440999,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.438687, 
-    52.179502, 
-    -3.438687, 
-    52.179502
+    -3.438588, 
+    52.179602, 
+    -3.438588, 
+    52.179602
   ],
-  "geometry": {"coordinates":[-3.438687,52.179502],"type":"Point"}
+  "geometry": {"coordinates":[-3.438588,52.179602],"type":"Point"}
 }

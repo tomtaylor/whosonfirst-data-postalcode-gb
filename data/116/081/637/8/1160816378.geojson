@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-09-01",
     "geom:area": 0,
-    "geom:bbox": "-1.929758,52.481898,-1.929758,52.481898",
-    "geom:latitude": 52.481898,
-    "geom:longitude": -1.929758,
+    "geom:bbox": "-1.929596,52.481988,-1.929596,52.481988",
+    "geom:latitude": 52.481988,
+    "geom:longitude": -1.929596,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698605, 
-      85633159, 
       1360699077, 
       101750467, 
       404227469, 
-      85788667
+      85788667, 
+      1360698605, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583791280,
-    "wof:geomhash": "8201c8513731a3fc062158f2f569d3d9",
+    "wof:geomhash": "539e239e4ec065b99834462396d9d484",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160816378,
-    "wof:lastmodified": 1583791280,
+    "wof:lastmodified": 1609870413,
     "wof:name": "B16 0AE",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.929758, 
-    52.481898, 
-    -1.929758, 
-    52.481898
+    -1.929596, 
+    52.481988, 
+    -1.929596, 
+    52.481988
   ],
-  "geometry": {"coordinates":[-1.929758,52.481898],"type":"Point"}
+  "geometry": {"coordinates":[-1.929596,52.481988],"type":"Point"}
 }

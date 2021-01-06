@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.620639,55.876000,-3.620639,55.876000",
-    "geom:latitude": 55.876,
-    "geom:longitude": -3.620639,
+    "geom:bbox": "-3.620527,55.876010,-3.620527,55.876010",
+    "geom:latitude": 55.87601,
+    "geom:longitude": -3.620527,
     "gp:parent_id": "12848",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699027, 
       404447005, 
       404227471, 
-      1360698679
+      1360698679, 
+      85633159, 
+      1360699027
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701075,
-    "wof:geomhash": "859cc9324aea462457e8f0f147a2725a",
+    "wof:geomhash": "3876aeb3860e5ed78ae3985c8b6980d1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504369987,
-    "wof:lastmodified": 1583786381,
+    "wof:lastmodified": 1609868727,
     "wof:name": "EH47 7DG",
     "wof:parent_id": 404447005,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.620639, 
-    55.876, 
-    -3.620639, 
-    55.876
+    -3.620527, 
+    55.87601, 
+    -3.620527, 
+    55.87601
   ],
-  "geometry": {"coordinates":[-3.620639,55.876],"type":"Point"}
+  "geometry": {"coordinates":[-3.620527,55.87601],"type":"Point"}
 }

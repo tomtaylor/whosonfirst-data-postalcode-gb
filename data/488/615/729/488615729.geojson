@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.819097,54.926026,-3.819097,54.926026",
-    "geom:latitude": 54.926026,
-    "geom:longitude": -3.819097,
+    "geom:bbox": "-3.819098,54.926044,-3.819098,54.926044",
+    "geom:latitude": 54.926044,
+    "geom:longitude": -3.819098,
     "gp:parent_id": "12696189",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404444245, 
-      404227471, 
       1360698647, 
       85633159, 
-      1360699039
+      1360699039, 
+      404444245, 
+      404227471
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701618,
-    "wof:geomhash": "712ff6d0dd791e1c629a5e893eb2e47d",
+    "wof:geomhash": "9cb7b6cc68f389d8b8e7198cd863a05f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488615729,
-    "wof:lastmodified": 1583786815,
+    "wof:lastmodified": 1609898868,
     "wof:name": "DG5 4DR",
     "wof:parent_id": 101872363,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.819097, 
-    54.926026, 
-    -3.819097, 
-    54.926026
+    -3.819098, 
+    54.926044, 
+    -3.819098, 
+    54.926044
   ],
-  "geometry": {"coordinates":[-3.819097,54.926026],"type":"Point"}
+  "geometry": {"coordinates":[-3.819098,54.926044],"type":"Point"}
 }

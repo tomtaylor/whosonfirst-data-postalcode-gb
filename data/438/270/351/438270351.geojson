@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.511719,51.467970,-2.511719,51.467970",
-    "geom:latitude": 51.46797,
-    "geom:longitude": -2.511719,
+    "geom:bbox": "-2.511691,51.468006,-2.511691,51.468006",
+    "geom:latitude": 51.468006,
+    "geom:longitude": -2.511691,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,13 +18,13 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      85790525, 
-      1360698553, 
       85633159, 
       1360698895, 
       1360817185, 
       1360887535, 
-      404227469
+      404227469, 
+      85790525, 
+      1360698553
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701457,
-    "wof:geomhash": "7be222ee626b015c80590ed44af598d7",
+    "wof:geomhash": "c22910c2b6f2fad08601176dec6ad393",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 438270351,
-    "wof:lastmodified": 1583786594,
+    "wof:lastmodified": 1609882867,
     "wof:name": "BS15 1PE",
     "wof:parent_id": 101914025,
     "wof:placetype": "postalcode",
@@ -55,10 +55,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.511719, 
-    51.46797, 
-    -2.511719, 
-    51.46797
+    -2.511691, 
+    51.468006, 
+    -2.511691, 
+    51.468006
   ],
-  "geometry": {"coordinates":[-2.511719,51.46797],"type":"Point"}
+  "geometry": {"coordinates":[-2.511691,51.468006],"type":"Point"}
 }

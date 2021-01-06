@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.232863,51.474798,-3.232863,51.474798",
-    "geom:latitude": 51.474798,
-    "geom:longitude": -3.232863,
+    "geom:bbox": "-3.232440,51.474812,-3.232440,51.474812",
+    "geom:latitude": 51.474812,
+    "geom:longitude": -3.23244,
     "gp:parent_id": "12696132",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699107, 
-      101750397, 
-      404227475, 
       1360698627, 
       1360887567, 
-      85633159
+      85633159, 
+      1360699107, 
+      101750397, 
+      404227475
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701603,
-    "wof:geomhash": "0cb537309be7adffb766ace3f7de52e2",
+    "wof:geomhash": "729b2b54870fc2561ac4b7fda94cc90b",
     "wof:hierarchy": [
       {
         "borough_id": 1360887567,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488581705,
-    "wof:lastmodified": 1583786793,
+    "wof:lastmodified": 1609897721,
     "wof:name": "CF5 5XP",
     "wof:parent_id": 404429603,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.232863, 
-    51.474798, 
-    -3.232863, 
-    51.474798
+    -3.23244, 
+    51.474812, 
+    -3.23244, 
+    51.474812
   ],
-  "geometry": {"coordinates":[-3.232863,51.474798],"type":"Point"}
+  "geometry": {"coordinates":[-3.23244,51.474812],"type":"Point"}
 }

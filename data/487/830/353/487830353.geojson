@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.514499,52.668386,-2.514499,52.668386",
-    "geom:latitude": 52.668386,
-    "geom:longitude": -2.514499,
+    "geom:bbox": "-2.512762,52.669226,-2.512762,52.669226",
+    "geom:latitude": 52.669226,
+    "geom:longitude": -2.512762,
     "gp:parent_id": "24174",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698911, 
-      404430169, 
       1125864101, 
       404227469, 
       1360698587, 
-      85633159
+      85633159, 
+      1360698911, 
+      404430169
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701194,
-    "wof:geomhash": "00d73fb42a7a6fdd252c3663f8ca78d3",
+    "wof:geomhash": "d66995bbe410d6087907f6a8328a7a9a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487830353,
-    "wof:lastmodified": 1583786294,
+    "wof:lastmodified": 1609882098,
     "wof:name": "TF6 5AP",
     "wof:parent_id": 404430169,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.514499, 
-    52.668386, 
-    -2.514499, 
-    52.668386
+    -2.512762, 
+    52.669226, 
+    -2.512762, 
+    52.669226
   ],
-  "geometry": {"coordinates":[-2.514499,52.668386],"type":"Point"}
+  "geometry": {"coordinates":[-2.512762,52.669226],"type":"Point"}
 }

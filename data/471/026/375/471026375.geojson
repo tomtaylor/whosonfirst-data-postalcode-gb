@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.125920,51.587861,-0.125920,51.587861",
-    "geom:latitude": 51.587861,
-    "geom:longitude": -0.12592,
+    "geom:bbox": "-0.125882,51.587809,-0.125882,51.587809",
+    "geom:latitude": 51.587809,
+    "geom:longitude": -0.125882,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      1158857279, 
+      85633159, 
       101750367, 
       404227469, 
       85788337, 
-      1360698645, 
-      1158857279, 
-      85633159
+      1360698645
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701118,
-    "wof:geomhash": "8cd174fadeb3d8b12fa4aa51ac6d699b",
+    "wof:geomhash": "1b99b4075bf6f2687eae8ef4a410807d",
     "wof:hierarchy": [
       {
         "borough_id": 1158857279,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471026375,
-    "wof:lastmodified": 1583786239,
+    "wof:lastmodified": 1609869224,
     "wof:name": "N8 7RP",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.12592, 
-    51.587861, 
-    -0.12592, 
-    51.587861
+    -0.125882, 
+    51.587809, 
+    -0.125882, 
+    51.587809
   ],
-  "geometry": {"coordinates":[-0.12592,51.587861],"type":"Point"}
+  "geometry": {"coordinates":[-0.125882,51.587809],"type":"Point"}
 }

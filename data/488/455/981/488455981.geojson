@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.226926,55.907044,-3.226926,55.907044",
-    "geom:latitude": 55.907044,
-    "geom:longitude": -3.226926,
+    "geom:bbox": "-3.226809,55.906874,-3.226809,55.906874",
+    "geom:latitude": 55.906874,
+    "geom:longitude": -3.226809,
     "gp:parent_id": "12696195",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698761, 
       404437279, 
       101750629, 
       404227471, 
       85861513, 
-      1360698673
+      1360698673, 
+      85633159, 
+      1360698761
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701473,
-    "wof:geomhash": "ef841641695f279e9614a67b1e6105e3",
+    "wof:geomhash": "de7dc712ae67504896a870836b9898c4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 488455981,
-    "wof:lastmodified": 1583786678,
+    "wof:lastmodified": 1609892590,
     "wof:name": "EH13 9ND",
     "wof:parent_id": 101750629,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.226926, 
-    55.907044, 
-    -3.226926, 
-    55.907044
+    -3.226809, 
+    55.906874, 
+    -3.226809, 
+    55.906874
   ],
-  "geometry": {"coordinates":[-3.226926,55.907044],"type":"Point"}
+  "geometry": {"coordinates":[-3.226809,55.906874],"type":"Point"}
 }

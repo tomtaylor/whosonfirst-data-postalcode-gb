@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1994-05-01",
     "geom:area": 0,
-    "geom:bbox": "-3.690796,51.527109,-3.690796,51.527109",
-    "geom:latitude": 51.527109,
-    "geom:longitude": -3.690796,
+    "geom:bbox": "-3.690938,51.527808,-3.690938,51.527808",
+    "geom:latitude": 51.527808,
+    "geom:longitude": -3.690938,
     "gp:parent_id": "32723",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699051, 
-      404429887, 
       1125917065, 
       404227475, 
       1360698631, 
-      85633159
+      85633159, 
+      1360699051, 
+      404429887
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701595,
-    "wof:geomhash": "3a306a510a6d86d9dd86f7a76f31ecd7",
+    "wof:geomhash": "d633032c6f0ac034e9b0a2536496d34b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488568405,
-    "wof:lastmodified": 1583786778,
+    "wof:lastmodified": 1609897075,
     "wof:name": "CF33 6BH",
     "wof:parent_id": 101852761,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.690796, 
-    51.527109, 
-    -3.690796, 
-    51.527109
+    -3.690938, 
+    51.527808, 
+    -3.690938, 
+    51.527808
   ],
-  "geometry": {"coordinates":[-3.690796,51.527109],"type":"Point"}
+  "geometry": {"coordinates":[-3.690938,51.527808],"type":"Point"}
 }

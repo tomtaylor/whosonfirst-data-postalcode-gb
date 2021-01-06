@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.328229,53.641365,-2.328229,53.641365",
-    "geom:latitude": 53.641365,
-    "geom:longitude": -2.328229,
+    "geom:bbox": "-2.328169,53.641411,-2.328169,53.641411",
+    "geom:latitude": 53.641411,
+    "geom:longitude": -2.328169,
     "gp:parent_id": "32895",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      101750567, 
       404227469, 
       1360698555, 
       85633159, 
-      1360698847, 
-      101750567
+      1360698847
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701371,
-    "wof:geomhash": "527b0fab1bb2a802ae934b4029872eb3",
+    "wof:geomhash": "42c36c8127bbc33c641878b27c6c59cf",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 438177765,
-    "wof:lastmodified": 1583786509,
+    "wof:lastmodified": 1609878391,
     "wof:name": "BL0 9NS",
     "wof:parent_id": 404430359,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.328229, 
-    53.641365, 
-    -2.328229, 
-    53.641365
+    -2.328169, 
+    53.641411, 
+    -2.328169, 
+    53.641411
   ],
-  "geometry": {"coordinates":[-2.328229,53.641365],"type":"Point"}
+  "geometry": {"coordinates":[-2.328169,53.641411],"type":"Point"}
 }

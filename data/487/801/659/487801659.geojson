@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.104946,51.032304,-3.104946,51.032304",
-    "geom:latitude": 51.032304,
-    "geom:longitude": -3.104946,
+    "geom:bbox": "-3.104958,51.032223,-3.104958,51.032223",
+    "geom:latitude": 51.032223,
+    "geom:longitude": -3.104958,
     "gp:parent_id": "37024",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699059, 
       101751591, 
       404227469, 
-      1360698589
+      1360698589, 
+      85633159, 
+      1360699059
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701175,
-    "wof:geomhash": "1f82861569aa381be68762797b6bfb34",
+    "wof:geomhash": "14ebaeb1084cb12519e87ad11dbaea8c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 487801659,
-    "wof:lastmodified": 1583786278,
+    "wof:lastmodified": 1609880696,
     "wof:name": "TA2 7NQ",
     "wof:parent_id": 101751591,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.104946, 
-    51.032304, 
-    -3.104946, 
-    51.032304
+    -3.104958, 
+    51.032223, 
+    -3.104958, 
+    51.032223
   ],
-  "geometry": {"coordinates":[-3.104946,51.032304],"type":"Point"}
+  "geometry": {"coordinates":[-3.104958,51.032223],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.155923,51.065392,0.155923,51.065392",
-    "geom:latitude": 51.065392,
-    "geom:longitude": 0.155923,
+    "geom:bbox": "0.155896,51.065420,0.155896,51.065420",
+    "geom:latitude": 51.06542,
+    "geom:longitude": 0.155896,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698815, 
-      404441409, 
       101854581, 
       404227469, 
-      1360698549
+      1360698549, 
+      85633159, 
+      1360698815, 
+      404441409
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701228,
-    "wof:geomhash": "9c5adeb0fa1cd7e93c892919f31c59f3",
+    "wof:geomhash": "74a5fd2b352c489b6127b69f1cd93fc6",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 487879953,
-    "wof:lastmodified": 1583786317,
+    "wof:lastmodified": 1609884656,
     "wof:name": "TN6 1ST",
     "wof:parent_id": 404441409,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.155923, 
-    51.065392, 
-    0.155923, 
-    51.065392
+    0.155896, 
+    51.06542, 
+    0.155896, 
+    51.06542
   ],
-  "geometry": {"coordinates":[0.155923,51.065392],"type":"Point"}
+  "geometry": {"coordinates":[0.155896,51.06542],"type":"Point"}
 }

@@ -1,0 +1,59 @@
+{
+  "id": 1729687407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-06-01",
+    "geom:area": 0,
+    "geom:bbox": "-1.726369,51.929560,-1.726369,51.929560",
+    "geom:latitude": 51.92956,
+    "geom:longitude": -1.726369,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E10000013",
+    "os:district_code": "E07000079",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000009",
+    "src:geom": "os",
+    "wof:belongsto": [
+      1360698553, 
+      85633159, 
+      1360698927, 
+      404444395, 
+      101852851, 
+      404227469
+    ],
+    "wof:breaches": [],
+    "wof:country": "GB",
+    "wof:created": 1609906313,
+    "wof:geomhash": "06eb16aa8039a4b959eddf379cd54516",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698927,
+        "localadmin_id": 404444395,
+        "locality_id": 101852851,
+        "macroregion_id": 404227469,
+        "region_id": 1360698553
+      }
+    ],
+    "wof:id": 1729687407,
+    "wof:lastmodified": 1609906313,
+    "wof:name": "GL54 1NA",
+    "wof:parent_id": -1,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -1.726369, 
+    51.92956, 
+    -1.726369, 
+    51.92956
+  ],
+  "geometry": {"coordinates":[-1.726369,51.92956],"type":"Point"}
+}

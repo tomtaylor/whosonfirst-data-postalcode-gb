@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1996-12-01",
     "geom:area": 0,
-    "geom:bbox": "-2.900986,56.484048,-2.900986,56.484048",
-    "geom:latitude": 56.484048,
-    "geom:longitude": -2.900986,
+    "geom:bbox": "-2.900124,56.483991,-2.900124,56.483991",
+    "geom:latitude": 56.483991,
+    "geom:longitude": -2.900124,
     "gp:parent_id": "12696190",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227471, 
-      1360698693, 
       85633159, 
       1360698883, 
-      404430743
+      404430743, 
+      404227471, 
+      1360698693
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701612,
-    "wof:geomhash": "dec6f38b8dce2a33939275098dc1b26d",
+    "wof:geomhash": "95a20c2b0cb00bfb80fc113bfefa765a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488602121,
-    "wof:lastmodified": 1583786804,
+    "wof:lastmodified": 1609898390,
     "wof:name": "DD4 0HX",
     "wof:parent_id": 404430743,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.900986, 
-    56.484048, 
-    -2.900986, 
-    56.484048
+    -2.900124, 
+    56.483991, 
+    -2.900124, 
+    56.483991
   ],
-  "geometry": {"coordinates":[-2.900986,56.484048],"type":"Point"}
+  "geometry": {"coordinates":[-2.900124,56.483991],"type":"Point"}
 }

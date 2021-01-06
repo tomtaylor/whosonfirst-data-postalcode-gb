@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1996-12-01",
     "geom:area": 0,
-    "geom:bbox": "-3.123383,56.457249,-3.123383,56.457249",
-    "geom:latitude": 56.457249,
-    "geom:longitude": -3.123383,
+    "geom:bbox": "-3.123593,56.457229,-3.123593,56.457229",
+    "geom:latitude": 56.457229,
+    "geom:longitude": -3.123593,
     "gp:parent_id": "27407",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698691, 
       85633159, 
       1360698829, 
       404451983, 
-      404227471
+      404227471, 
+      1360698691
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701612,
-    "wof:geomhash": "6f0f59d17852005f8347dda3bd49e41c",
+    "wof:geomhash": "8548d89ff83b076ee976d89860d98f41",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488600167,
-    "wof:lastmodified": 1583786804,
+    "wof:lastmodified": 1609898355,
     "wof:name": "DD2 5EA",
     "wof:parent_id": 404451983,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.123383, 
-    56.457249, 
-    -3.123383, 
-    56.457249
+    -3.123593, 
+    56.457229, 
+    -3.123593, 
+    56.457229
   ],
-  "geometry": {"coordinates":[-3.123383,56.457249],"type":"Point"}
+  "geometry": {"coordinates":[-3.123593,56.457229],"type":"Point"}
 }

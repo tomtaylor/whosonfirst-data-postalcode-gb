@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-06-01",
     "geom:area": 0,
-    "geom:bbox": "-0.562651,53.723308,-0.562651,53.723308",
-    "geom:latitude": 53.723308,
-    "geom:longitude": -0.562651,
+    "geom:bbox": "-0.562570,53.723460,-0.562570,53.723460",
+    "geom:latitude": 53.72346,
+    "geom:longitude": -0.56257,
     "gp:parent_id": "14212",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699001, 
-      404441257, 
       1360756853, 
       404227469, 
       1360698547, 
-      85633159
+      85633159, 
+      1360699001, 
+      404441257
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701352,
-    "wof:geomhash": "0a7f5df96ebb06c8cbd40e6471dfa06c",
+    "wof:geomhash": "843cfc3e52122603f23e9a78cf4cd205",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 437539247,
-    "wof:lastmodified": 1595713371,
+    "wof:lastmodified": 1609877784,
     "wof:name": "HU15 1US",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.562651, 
-    53.723308, 
-    -0.562651, 
-    53.723308
+    -0.56257, 
+    53.72346, 
+    -0.56257, 
+    53.72346
   ],
-  "geometry": {"coordinates":[-0.562651,53.723308],"type":"Point"}
+  "geometry": {"coordinates":[-0.56257,53.72346],"type":"Point"}
 }

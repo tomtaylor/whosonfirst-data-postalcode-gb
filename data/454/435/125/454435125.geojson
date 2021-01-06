@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.973203,53.272704,-0.973203,53.272704",
-    "geom:latitude": 53.272704,
-    "geom:longitude": -0.973203,
+    "geom:bbox": "-0.973170,53.272847,-0.973170,53.272847",
+    "geom:latitude": 53.272847,
+    "geom:longitude": -0.97317,
     "gp:parent_id": "19459",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      404437235, 
       1259818931, 
       404227469, 
       1360698583, 
       85633159, 
-      1360698809
+      1360698809, 
+      404437235
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701566,
-    "wof:geomhash": "96a9492b99bfa9899da6273e20489e71",
+    "wof:geomhash": "ed7503e39f732af5024b278131f212de",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454435125,
-    "wof:lastmodified": 1595715358,
+    "wof:lastmodified": 1609889244,
     "wof:name": "DN22 8BA",
     "wof:parent_id": 404437235,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.973203, 
-    53.272704, 
-    -0.973203, 
-    53.272704
+    -0.97317, 
+    53.272847, 
+    -0.97317, 
+    53.272847
   ],
-  "geometry": {"coordinates":[-0.973203,53.272704],"type":"Point"}
+  "geometry": {"coordinates":[-0.97317,53.272847],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1999-06-01",
     "geom:area": 0,
-    "geom:bbox": "-3.031613,53.388200,-3.031613,53.388200",
-    "geom:latitude": 53.3882,
-    "geom:longitude": -3.031613,
+    "geom:bbox": "-3.031511,53.388309,-3.031511,53.388309",
+    "geom:latitude": 53.388309,
+    "geom:longitude": -3.031511,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,11 +18,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      101750549, 
       404227469, 
       1360698573, 
       85633159, 
-      1360699049
+      1360699049, 
+      101750549
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -30,7 +30,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701225,
-    "wof:geomhash": "00e51e80aea2d67253cfbbb12b6c48b0",
+    "wof:geomhash": "571af45ac85d2addf6f40387780f59ae",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -41,7 +41,7 @@
       }
     ],
     "wof:id": 454106027,
-    "wof:lastmodified": 1595711812,
+    "wof:lastmodified": 1609871148,
     "wof:name": "CH41 2QQ",
     "wof:parent_id": 101750549,
     "wof:placetype": "postalcode",
@@ -51,10 +51,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.031613, 
-    53.3882, 
-    -3.031613, 
-    53.3882
+    -3.031511, 
+    53.388309, 
+    -3.031511, 
+    53.388309
   ],
-  "geometry": {"coordinates":[-3.031613,53.3882],"type":"Point"}
+  "geometry": {"coordinates":[-3.031511,53.388309],"type":"Point"}
 }

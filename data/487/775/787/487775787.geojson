@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.094779,52.800595,-3.094779,52.800595",
-    "geom:latitude": 52.800595,
-    "geom:longitude": -3.094779,
+    "geom:bbox": "-3.096778,52.797538,-3.096778,52.797538",
+    "geom:latitude": 52.797538,
+    "geom:longitude": -3.096778,
     "gp:parent_id": "32402",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      404441103, 
+      1125976259, 
       404227469, 
       1360698587, 
       85633159, 
-      1360698821, 
-      404441103, 
-      1125976259
+      1360698821
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701162,
-    "wof:geomhash": "b72c1ec8660157b211837b38753a6011",
+    "wof:geomhash": "686baf27cf4abbba7be526074ddde71f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487775787,
-    "wof:lastmodified": 1583786265,
+    "wof:lastmodified": 1609879248,
     "wof:name": "SY10 8LT",
     "wof:parent_id": 404441103,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.094779, 
-    52.800595, 
-    -3.094779, 
-    52.800595
+    -3.096778, 
+    52.797538, 
+    -3.096778, 
+    52.797538
   ],
-  "geometry": {"coordinates":[-3.094779,52.800595],"type":"Point"}
+  "geometry": {"coordinates":[-3.096778,52.797538],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.825936,52.559339,-1.825936,52.559339",
-    "geom:latitude": 52.559339,
-    "geom:longitude": -1.825936,
+    "geom:bbox": "-1.825568,52.559131,-1.825568,52.559131",
+    "geom:latitude": 52.559131,
+    "geom:longitude": -1.825568,
     "gp:parent_id": "36679",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698605, 
       85633159, 
       1360699077, 
-      101750467, 
-      404227469, 
-      1360698605
+      101750467
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701070,
-    "wof:geomhash": "4508475fb03a074a970395a980d3829a",
+    "wof:geomhash": "7e5d5eb478b498aba49dceca33319a0c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 438020489,
-    "wof:lastmodified": 1583786189,
+    "wof:lastmodified": 1609868978,
     "wof:name": "B72 1RN",
     "wof:parent_id": 101750467,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.825936, 
-    52.559339, 
-    -1.825936, 
-    52.559339
+    -1.825568, 
+    52.559131, 
+    -1.825568, 
+    52.559131
   ],
-  "geometry": {"coordinates":[-1.825936,52.559339],"type":"Point"}
+  "geometry": {"coordinates":[-1.825568,52.559131],"type":"Point"}
 }

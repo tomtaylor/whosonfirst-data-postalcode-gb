@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.197050,50.822753,0.197050,50.822753",
-    "geom:latitude": 50.822753,
-    "geom:longitude": 0.19705,
+    "geom:bbox": "0.197133,50.822720,0.197133,50.822720",
+    "geom:latitude": 50.82272,
+    "geom:longitude": 0.197133,
     "gp:parent_id": "40564",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360756547, 
-      404227469, 
-      1360698549, 
       85633159, 
       1360698815, 
-      404451345
+      404451345, 
+      1360756547, 
+      404227469, 
+      1360698549
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701417,
-    "wof:geomhash": "87a4ea4652f27c84ae5aacdf5a2f6999",
+    "wof:geomhash": "2e97e2e3ac114c7c129e557122953843",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438231553,
-    "wof:lastmodified": 1583786549,
+    "wof:lastmodified": 1609880902,
     "wof:name": "BN26 5SG",
     "wof:parent_id": 404451345,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.19705, 
-    50.822753, 
-    0.19705, 
-    50.822753
+    0.197133, 
+    50.82272, 
+    0.197133, 
+    50.82272
   ],
-  "geometry": {"coordinates":[0.19705,50.822753],"type":"Point"}
+  "geometry": {"coordinates":[0.197133,50.82272],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.927481,53.266390,-3.927481,53.266390",
-    "geom:latitude": 53.26639,
-    "geom:longitude": -3.927481,
+    "geom:bbox": "-3.927531,53.266406,-3.927531,53.266406",
+    "geom:latitude": 53.266406,
+    "geom:longitude": -3.927531,
     "gp:parent_id": "12696128",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1125802859, 
+      404227475, 
       1360698637, 
       85633159, 
       1360698739, 
-      404441983, 
-      1125802859, 
-      404227475
+      404441983
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701417,
-    "wof:geomhash": "58fff6190dde8341e952f629c64b1c4c",
+    "wof:geomhash": "59f138d944afd8001b94c58a5219d8b5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488403201,
-    "wof:lastmodified": 1583786616,
+    "wof:lastmodified": 1609890272,
     "wof:name": "LL34 6LG",
     "wof:parent_id": 404441983,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.927481, 
-    53.26639, 
-    -3.927481, 
-    53.26639
+    -3.927531, 
+    53.266406, 
+    -3.927531, 
+    53.266406
   ],
-  "geometry": {"coordinates":[-3.927481,53.26639],"type":"Point"}
+  "geometry": {"coordinates":[-3.927531,53.266406],"type":"Point"}
 }

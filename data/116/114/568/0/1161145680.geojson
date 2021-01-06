@@ -2,7 +2,7 @@
   "id": 1161145680,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-08-01",
     "edtf:inception": "2020-01-01",
     "geom:area": 0,
     "geom:bbox": "-4.300980,55.856187,-4.300980,55.856187",
@@ -10,7 +10,7 @@
     "geom:longitude": -4.30098,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "S92000003",
     "os:county_code": "S99999999",
     "os:district_code": "S12000049",
@@ -18,13 +18,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      404227471, 
+      85792485, 
       1360698707, 
       85633159, 
       1360698797, 
       404430153, 
-      1175612707, 
-      404227471, 
-      85792485
+      1175612707
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 1161145680,
-    "wof:lastmodified": 1583805911,
+    "wof:lastmodified": 1609876779,
     "wof:name": "G51 9ET",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.031935,51.439320,-0.031935,51.439320",
-    "geom:latitude": 51.43932,
-    "geom:longitude": -0.031935,
+    "geom:bbox": "-0.031861,51.439354,-0.031861,51.439354",
+    "geom:latitude": 51.439354,
+    "geom:longitude": -0.031861,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       101750367, 
       404227469, 
       1158868579, 
       1360698645, 
-      1158857299
+      1158857299, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701723,
-    "wof:geomhash": "73b56ccafb2e7f94ad8b7c94107080bc",
+    "wof:geomhash": "863b136b439cb6e8f17fdf7bce40e262",
     "wof:hierarchy": [
       {
         "borough_id": 1158857299,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471733313,
-    "wof:lastmodified": 1583786893,
+    "wof:lastmodified": 1609901828,
     "wof:name": "SE6 4PR",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.031935, 
-    51.43932, 
-    -0.031935, 
-    51.43932
+    -0.031861, 
+    51.439354, 
+    -0.031861, 
+    51.439354
   ],
-  "geometry": {"coordinates":[-0.031935,51.43932],"type":"Point"}
+  "geometry": {"coordinates":[-0.031861,51.439354],"type":"Point"}
 }

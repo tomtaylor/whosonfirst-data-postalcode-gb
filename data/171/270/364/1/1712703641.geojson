@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "uuuu",
-    "edtf:inception": "2019-04-01",
+    "edtf:inception": "2020-07-01",
     "geom:area": 0,
     "geom:bbox": "-0.140790,50.826328,-0.140790,50.826328",
     "geom:latitude": 50.826328,
@@ -18,11 +18,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      101750303, 
       404227469, 
       1360698549, 
       85633159, 
-      1360699019
+      1360699019, 
+      101750303
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1712703641,
-    "wof:lastmodified": 1583799847,
+    "wof:lastmodified": 1609872594,
     "wof:name": "BN50 8PP",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

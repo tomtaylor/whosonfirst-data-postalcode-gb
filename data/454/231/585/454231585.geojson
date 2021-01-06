@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.175676,51.080109,1.175676,51.080109",
-    "geom:latitude": 51.080109,
-    "geom:longitude": 1.175676,
+    "geom:bbox": "1.175825,51.080155,1.175825,51.080155",
+    "geom:latitude": 51.080155,
+    "geom:longitude": 1.175825,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698811, 
       404453917, 
       101854641, 
       404227469, 
-      1360698565
+      1360698565, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701396,
-    "wof:geomhash": "d97aac7471a67cde00254c12005b8677",
+    "wof:geomhash": "546f357b5b0475087109e56130d1aae2",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454231585,
-    "wof:lastmodified": 1583786525,
+    "wof:lastmodified": 1609879361,
     "wof:name": "CT20 1EU",
     "wof:parent_id": 404453917,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.175676, 
-    51.080109, 
-    1.175676, 
-    51.080109
+    1.175825, 
+    51.080155, 
+    1.175825, 
+    51.080155
   ],
-  "geometry": {"coordinates":[1.175676,51.080109],"type":"Point"}
+  "geometry": {"coordinates":[1.175825,51.080155],"type":"Point"}
 }

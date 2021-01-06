@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.132770,52.635336,-1.132770,52.635336",
-    "geom:latitude": 52.635336,
-    "geom:longitude": -1.13277,
+    "geom:bbox": "-1.132845,52.635300,-1.132845,52.635300",
+    "geom:latitude": 52.6353,
+    "geom:longitude": -1.132845,
     "gp:parent_id": "26062",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698995, 
+      101750485, 
       404227469, 
       1360698569, 
-      85633159, 
-      1360698995, 
-      101750485
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701065,
-    "wof:geomhash": "539a13f959037823b4d73f92ce416ced",
+    "wof:geomhash": "b43e660c7ce992034a7f1fc4a63740fd",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 455004499,
-    "wof:lastmodified": 1583786173,
+    "wof:lastmodified": 1609868678,
     "wof:name": "LE1 5FG",
     "wof:parent_id": 101750485,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.13277, 
-    52.635336, 
-    -1.13277, 
-    52.635336
+    -1.132845, 
+    52.6353, 
+    -1.132845, 
+    52.6353
   ],
-  "geometry": {"coordinates":[-1.13277,52.635336],"type":"Point"}
+  "geometry": {"coordinates":[-1.132845,52.6353],"type":"Point"}
 }

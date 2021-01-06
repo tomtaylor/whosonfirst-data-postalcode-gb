@@ -1,0 +1,59 @@
+{
+  "id": 1729690667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-08-01",
+    "geom:area": 0,
+    "geom:bbox": "-2.978070,52.159657,-2.978070,52.159657",
+    "geom:latitude": 52.159657,
+    "geom:longitude": -2.97807,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E99999999",
+    "os:district_code": "E06000019",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000005",
+    "src:geom": "os",
+    "wof:belongsto": [
+      404432683, 
+      1125870409, 
+      404227469, 
+      1360698617, 
+      85633159, 
+      1360699053
+    ],
+    "wof:breaches": [],
+    "wof:country": "GB",
+    "wof:created": 1609906464,
+    "wof:geomhash": "8c666d029567d6e0ce6b487f081951c7",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360699053,
+        "localadmin_id": 404432683,
+        "locality_id": 1125870409,
+        "macroregion_id": 404227469,
+        "region_id": 1360698617
+      }
+    ],
+    "wof:id": 1729690667,
+    "wof:lastmodified": 1609906464,
+    "wof:name": "HR2 8FH",
+    "wof:parent_id": -1,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -2.97807, 
+    52.159657, 
+    -2.97807, 
+    52.159657
+  ],
+  "geometry": {"coordinates":[-2.97807,52.159657],"type":"Point"}
+}

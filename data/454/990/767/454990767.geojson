@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.362219,54.082696,-2.362219,54.082696",
+    "geom:bbox": "-2.362189,54.082696,-2.362189,54.082696",
     "geom:latitude": 54.082696,
-    "geom:longitude": -2.362219,
+    "geom:longitude": -2.362189,
     "gp:parent_id": "12602195",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698619, 
-      85633159, 
-      1360698753, 
       404430979, 
       1125873581, 
-      404227469
+      404227469, 
+      1360698619, 
+      85633159, 
+      1360698753
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701766,
-    "wof:geomhash": "dd9652830a8b2851d8e701d80a1e1308",
+    "wof:geomhash": "627ffd49f58650a7764bb0a3b1aee480",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454990767,
-    "wof:lastmodified": 1583786903,
+    "wof:lastmodified": 1609905735,
     "wof:name": "LA2 8AQ",
     "wof:parent_id": 404430979,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.362219, 
+    -2.362189, 
     54.082696, 
-    -2.362219, 
+    -2.362189, 
     54.082696
   ],
-  "geometry": {"coordinates":[-2.362219,54.082696],"type":"Point"}
+  "geometry": {"coordinates":[-2.362189,54.082696],"type":"Point"}
 }

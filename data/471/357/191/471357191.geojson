@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.047302,52.674391,0.047302,52.674391",
-    "geom:latitude": 52.674391,
-    "geom:longitude": 0.047302,
+    "geom:bbox": "0.048122,52.675474,0.048122,52.675474",
+    "geom:latitude": 52.675474,
+    "geom:longitude": 0.048122,
     "gp:parent_id": "21378",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698535, 
       85633159, 
       1360698845, 
       404437987, 
-      1126007651
+      1126007651, 
+      404227469, 
+      1360698535
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701530,
-    "wof:geomhash": "e879a06b4b6c21a2493943516b6c6aca",
+    "wof:geomhash": "0740f55f046bf7e3b7dbf965d4534734",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471357191,
-    "wof:lastmodified": 1583786673,
+    "wof:lastmodified": 1609888008,
     "wof:name": "PE13 4PR",
     "wof:parent_id": 404437987,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.047302, 
-    52.674391, 
-    0.047302, 
-    52.674391
+    0.048122, 
+    52.675474, 
+    0.048122, 
+    52.675474
   ],
-  "geometry": {"coordinates":[0.047302,52.674391],"type":"Point"}
+  "geometry": {"coordinates":[0.048122,52.675474],"type":"Point"}
 }

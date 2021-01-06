@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1983-07-01",
     "geom:area": 0,
-    "geom:bbox": "0.059134,50.942626,0.059134,50.942626",
-    "geom:latitude": 50.942626,
-    "geom:longitude": 0.059134,
+    "geom:bbox": "0.059148,50.942640,0.059148,50.942640",
+    "geom:latitude": 50.94264,
+    "geom:longitude": 0.059148,
     "gp:parent_id": "24549",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1125767121, 
       404227469, 
       1360698549, 
       85633159, 
       1360698815, 
-      404440063
+      404440063, 
+      1125767121
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701211,
-    "wof:geomhash": "add17d55d13d38f6bd4ac83a1938819c",
+    "wof:geomhash": "2e43b005652cbe3aa2bbf27459c78c8f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487855083,
-    "wof:lastmodified": 1583786306,
+    "wof:lastmodified": 1609883507,
     "wof:name": "TN22 5XP",
     "wof:parent_id": 404440063,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.059134, 
-    50.942626, 
-    0.059134, 
-    50.942626
+    0.059148, 
+    50.94264, 
+    0.059148, 
+    50.94264
   ],
-  "geometry": {"coordinates":[0.059134,50.942626],"type":"Point"}
+  "geometry": {"coordinates":[0.059148,50.94264],"type":"Point"}
 }

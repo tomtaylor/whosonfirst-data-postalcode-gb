@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.032805,53.120178,-3.032805,53.120178",
-    "geom:latitude": 53.120178,
+    "geom:bbox": "-3.032805,53.120194,-3.032805,53.120194",
+    "geom:latitude": 53.120194,
     "geom:longitude": -3.032805,
     "gp:parent_id": "23848",
     "iso:country": "GB",
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1125877955, 
       404227475, 
       1360698637, 
       85633159, 
       1360698799, 
-      404442183
+      404442183, 
+      1125877955
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701371,
-    "wof:geomhash": "1a46ced181dfdf8d6cf8889be7245b92",
+    "wof:geomhash": "5455400211c5c96e112b2adf754553c8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504485873,
-    "wof:lastmodified": 1583786484,
+    "wof:lastmodified": 1609874621,
     "wof:name": "LL12 9NB",
     "wof:parent_id": 404442183,
     "wof:placetype": "postalcode",
@@ -55,9 +55,9 @@
   },
   "bbox": [
     -3.032805, 
-    53.120178, 
+    53.120194, 
     -3.032805, 
-    53.120178
+    53.120194
   ],
-  "geometry": {"coordinates":[-3.032805,53.120178],"type":"Point"}
+  "geometry": {"coordinates":[-3.032805,53.120194],"type":"Point"}
 }

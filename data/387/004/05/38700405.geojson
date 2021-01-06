@@ -2,7 +2,7 @@
   "id": 38700405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-09-01",
     "edtf:inception": "2020-01-01",
     "geom:area": 0,
     "geom:bbox": "-2.947724,53.381327,-2.947724,53.381327",
@@ -10,7 +10,7 @@
     "geom:longitude": -2.947724,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E08000012",
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698971, 
       101750547, 
       404227469, 
       85792117, 
-      1360698573, 
-      85633159, 
-      1360698971
+      1360698573
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 38700405,
-    "wof:lastmodified": 1583793300,
+    "wof:lastmodified": 1609876899,
     "wof:name": "L17 1WB",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

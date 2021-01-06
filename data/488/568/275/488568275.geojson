@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.698231,51.518133,-3.698231,51.518133",
-    "geom:latitude": 51.518133,
-    "geom:longitude": -3.698231,
+    "geom:bbox": "-3.698217,51.518081,-3.698217,51.518081",
+    "geom:latitude": 51.518081,
+    "geom:longitude": -3.698217,
     "gp:parent_id": "30445",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227475, 
-      1360698631, 
       85633159, 
       1360699051, 
       404438133, 
-      1360711643
+      1360711643, 
+      404227475, 
+      1360698631
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701594,
-    "wof:geomhash": "df8d4877c31fd36e38f7cc5b76f073a1",
+    "wof:geomhash": "f7771af6af9ceabb20d0d8d66893ffce",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488568275,
-    "wof:lastmodified": 1583786781,
+    "wof:lastmodified": 1609897190,
     "wof:name": "CF33 4EN",
     "wof:parent_id": 404438133,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.698231, 
-    51.518133, 
-    -3.698231, 
-    51.518133
+    -3.698217, 
+    51.518081, 
+    -3.698217, 
+    51.518081
   ],
-  "geometry": {"coordinates":[-3.698231,51.518133],"type":"Point"}
+  "geometry": {"coordinates":[-3.698217,51.518081],"type":"Point"}
 }

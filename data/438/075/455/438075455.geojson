@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.631795,51.150110,-2.631795,51.150110",
-    "geom:latitude": 51.15011,
-    "geom:longitude": -2.631795,
+    "geom:bbox": "-2.632593,51.149926,-2.632593,51.149926",
+    "geom:latitude": 51.149926,
+    "geom:longitude": -2.632593,
     "gp:parent_id": "39767",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404435107, 
-      1126033207, 
-      404227469, 
       1360698589, 
       85633159, 
-      1360699059
+      1360699059, 
+      404435107, 
+      1126033207, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701210,
-    "wof:geomhash": "d8a594c132347d465b3594027dba5af4",
+    "wof:geomhash": "30d408f5c2a9271a8dd891e58015d256",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438075455,
-    "wof:lastmodified": 1583786349,
+    "wof:lastmodified": 1609871221,
     "wof:name": "BA6 8NG",
     "wof:parent_id": 404435107,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.631795, 
-    51.15011, 
-    -2.631795, 
-    51.15011
+    -2.632593, 
+    51.149926, 
+    -2.632593, 
+    51.149926
   ],
-  "geometry": {"coordinates":[-2.631795,51.15011],"type":"Point"}
+  "geometry": {"coordinates":[-2.632593,51.149926],"type":"Point"}
 }

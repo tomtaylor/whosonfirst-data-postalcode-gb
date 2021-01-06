@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.830148,56.030675,-3.830148,56.030675",
-    "geom:latitude": 56.030675,
-    "geom:longitude": -3.830148,
+    "geom:bbox": "-3.830077,56.030856,-3.830077,56.030856",
+    "geom:latitude": 56.030856,
+    "geom:longitude": -3.830077,
     "gp:parent_id": "36077",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698865, 
       404451599, 
       404227471, 
-      1360698655
+      1360698655, 
+      85633159, 
+      1360698865
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701115,
-    "wof:geomhash": "0e3c99f364741fe034382778eef3bbf8",
+    "wof:geomhash": "6c7dd8ffa38b5ed688515e46d4ff7090",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504386647,
-    "wof:lastmodified": 1583786208,
+    "wof:lastmodified": 1609869101,
     "wof:name": "FK5 4EW",
     "wof:parent_id": 404451599,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.830148, 
-    56.030675, 
-    -3.830148, 
-    56.030675
+    -3.830077, 
+    56.030856, 
+    -3.830077, 
+    56.030856
   ],
-  "geometry": {"coordinates":[-3.830148,56.030675],"type":"Point"}
+  "geometry": {"coordinates":[-3.830077,56.030856],"type":"Point"}
 }

@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.409084,53.385338,-1.409084,53.385338",
-    "geom:latitude": 53.385338,
+    "geom:bbox": "-1.409084,53.385275,-1.409084,53.385275",
+    "geom:latitude": 53.385275,
     "geom:longitude": -1.409084,
     "gp:parent_id": "34503",
     "iso:country": "GB",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699075, 
-      101750529, 
       404227469, 
       85786971, 
       1360698591, 
-      85633159
+      85633159, 
+      1360699075, 
+      101750529
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701709,
-    "wof:geomhash": "0cbf7a069dac9f85ed75c734c4202f5e",
+    "wof:geomhash": "7f0aa926d471af7f5869490e1d423e1f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471695069,
-    "wof:lastmodified": 1583786884,
+    "wof:lastmodified": 1609900951,
     "wof:name": "S9 4QD",
     "wof:parent_id": 101750529,
     "wof:placetype": "postalcode",
@@ -55,9 +55,9 @@
   },
   "bbox": [
     -1.409084, 
-    53.385338, 
+    53.385275, 
     -1.409084, 
-    53.385338
+    53.385275
   ],
-  "geometry": {"coordinates":[-1.409084,53.385338],"type":"Point"}
+  "geometry": {"coordinates":[-1.409084,53.385275],"type":"Point"}
 }

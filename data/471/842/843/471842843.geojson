@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.356645,51.484803,-2.356645,51.484803",
-    "geom:latitude": 51.484803,
-    "geom:longitude": -2.356645,
+    "geom:bbox": "-2.358159,51.485399,-2.358159,51.485399",
+    "geom:latitude": 51.485399,
+    "geom:longitude": -2.358159,
     "gp:parent_id": "39727",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698553, 
       85633159, 
       1360698895, 
       404449521, 
       1126032289, 
-      404227469
+      404227469, 
+      1360698553
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701755,
-    "wof:geomhash": "d62800af648205484e16fcc02f7f8d97",
+    "wof:geomhash": "908d07030e89ffc5a4c923377d94ff38",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471842843,
-    "wof:lastmodified": 1583786919,
+    "wof:lastmodified": 1609904352,
     "wof:name": "SN14 8JA",
     "wof:parent_id": 404449521,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.356645, 
-    51.484803, 
-    -2.356645, 
-    51.484803
+    -2.358159, 
+    51.485399, 
+    -2.358159, 
+    51.485399
   ],
-  "geometry": {"coordinates":[-2.356645,51.484803],"type":"Point"}
+  "geometry": {"coordinates":[-2.358159,51.485399],"type":"Point"}
 }

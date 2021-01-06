@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.337931,54.280865,-1.337931,54.280865",
-    "geom:latitude": 54.280865,
-    "geom:longitude": -1.337931,
+    "geom:bbox": "-1.337886,54.280829,-1.337886,54.280829",
+    "geom:latitude": 54.280829,
+    "geom:longitude": -1.337886,
     "gp:parent_id": "25508",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404455197, 
-      1360754803, 
       404227469, 
       1360698619, 
       85633159, 
-      1360698753
+      1360698753, 
+      404455197, 
+      1360754803
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701241,
-    "wof:geomhash": "6f4e9a469f14b2e87af9afcbcb924a34",
+    "wof:geomhash": "e1af94aaeda681bf3e94ae75d25d094c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488259725,
-    "wof:lastmodified": 1583786462,
+    "wof:lastmodified": 1609882865,
     "wof:name": "YO7 4AR",
     "wof:parent_id": 404455197,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.337931, 
-    54.280865, 
-    -1.337931, 
-    54.280865
+    -1.337886, 
+    54.280829, 
+    -1.337886, 
+    54.280829
   ],
-  "geometry": {"coordinates":[-1.337931,54.280865],"type":"Point"}
+  "geometry": {"coordinates":[-1.337886,54.280829],"type":"Point"}
 }

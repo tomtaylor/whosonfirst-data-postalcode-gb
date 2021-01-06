@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1995-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.269432,54.210461,-3.269432,54.210461",
-    "geom:latitude": 54.210461,
-    "geom:longitude": -3.269432,
+    "geom:bbox": "-3.270343,54.210667,-3.270343,54.210667",
+    "geom:latitude": 54.210667,
+    "geom:longitude": -3.270343,
     "gp:parent_id": "29005",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698721, 
       85633159, 
       1360698877, 
       404441273, 
-      1126001183
+      1126001183, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701766,
-    "wof:geomhash": "c1e410e97e48be3e9667fef7e3da8e33",
+    "wof:geomhash": "62ac9fc1aaf0f3aa6421621af4ca81ba",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454988771,
-    "wof:lastmodified": 1583786902,
+    "wof:lastmodified": 1609905760,
     "wof:name": "LA18 4BX",
     "wof:parent_id": 404441273,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.269432, 
-    54.210461, 
-    -3.269432, 
-    54.210461
+    -3.270343, 
+    54.210667, 
+    -3.270343, 
+    54.210667
   ],
-  "geometry": {"coordinates":[-3.269432,54.210461],"type":"Point"}
+  "geometry": {"coordinates":[-3.270343,54.210667],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.664379,53.797334,-1.664379,53.797334",
-    "geom:latitude": 53.797334,
-    "geom:longitude": -1.664379,
+    "geom:bbox": "-1.664425,53.797326,-1.664425,53.797326",
+    "geom:latitude": 53.797326,
+    "geom:longitude": -1.664425,
     "gp:parent_id": "32661",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698609, 
       85633159, 
       1360698749, 
       101750579, 
-      404227469
+      404227469, 
+      1360698609
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701078,
-    "wof:geomhash": "a565734fbbba3994c6138d9d71100dc7",
+    "wof:geomhash": "f9ff3e3c0789dcd06c00f53c354212da",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 470832109,
-    "wof:lastmodified": 1583786192,
+    "wof:lastmodified": 1609869073,
     "wof:name": "LS28 7LP",
     "wof:parent_id": 101750579,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.664379, 
-    53.797334, 
-    -1.664379, 
-    53.797334
+    -1.664425, 
+    53.797326, 
+    -1.664425, 
+    53.797326
   ],
-  "geometry": {"coordinates":[-1.664379,53.797334],"type":"Point"}
+  "geometry": {"coordinates":[-1.664425,53.797326],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.673404,55.358523,-4.673404,55.358523",
-    "geom:latitude": 55.358523,
-    "geom:longitude": -4.673404,
+    "geom:bbox": "-4.673238,55.358625,-4.673238,55.358625",
+    "geom:latitude": 55.358625,
+    "geom:longitude": -4.673238,
     "gp:parent_id": "12696209",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227471, 
-      1360698697, 
       85633159, 
       1360699021, 
-      404430343
+      404430343, 
+      404227471, 
+      1360698697
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701314,
-    "wof:geomhash": "e3ad91ef4af90291f3c869eeb43654cc",
+    "wof:geomhash": "1928d8d25207b76416a1ae0ff9613a57",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504451157,
-    "wof:lastmodified": 1583786431,
+    "wof:lastmodified": 1609872073,
     "wof:name": "KA19 7HR",
     "wof:parent_id": 101872391,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.673404, 
-    55.358523, 
-    -4.673404, 
-    55.358523
+    -4.673238, 
+    55.358625, 
+    -4.673238, 
+    55.358625
   ],
-  "geometry": {"coordinates":[-4.673404,55.358523],"type":"Point"}
+  "geometry": {"coordinates":[-4.673238,55.358625],"type":"Point"}
 }

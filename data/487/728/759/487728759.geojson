@@ -2,16 +2,16 @@
   "id": 487728759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2020-04-01",
-    "edtf:inception": "1996-06-01",
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-06-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.180066,51.460283,-0.180066,51.460283",
+    "geom:bbox": "-0.180041,51.460283,-0.180041,51.460283",
     "geom:latitude": 51.460283,
-    "geom:longitude": -0.180066,
+    "geom:longitude": -0.180041,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E09000032",
@@ -19,13 +19,13 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      1158857251, 
+      85633159, 
       101750367, 
       404227469, 
       1158894005, 
       85785537, 
-      1360698645, 
-      1158857251, 
-      85633159
+      1360698645
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701141,
-    "wof:geomhash": "ecb12c3b0064b3b5b3127eeff41cabd4",
+    "wof:geomhash": "5c4da5d1d4d6f4e63887aec5c779192d",
     "wof:hierarchy": [
       {
         "borough_id": 1158857251,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 487728759,
-    "wof:lastmodified": 1595721652,
+    "wof:lastmodified": 1609876339,
     "wof:name": "SW11 1YG",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.180066, 
+    -0.180041, 
     51.460283, 
-    -0.180066, 
+    -0.180041, 
     51.460283
   ],
-  "geometry": {"coordinates":[-0.180066,51.460283],"type":"Point"}
+  "geometry": {"coordinates":[-0.180041,51.460283],"type":"Point"}
 }

@@ -2,20 +2,20 @@
   "id": 454495699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2011-06-01",
-    "edtf:inception": "1980-01-01",
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-09-01",
     "geom:area": 0,
-    "geom:bbox": "-2.143159,52.456070,-2.143159,52.456070",
-    "geom:latitude": 52.45607,
-    "geom:longitude": -2.143159,
+    "geom:bbox": "-2.141345,52.456734,-2.141345,52.456734",
+    "geom:latitude": 52.456734,
+    "geom:longitude": -2.141345,
     "gp:parent_id": "36367",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E08000027",
-    "os:positional_quality_indicator": "1",
+    "os:positional_quality_indicator": "5",
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701607,
-    "wof:geomhash": "b4b7c20d605d5cf7431a2c7c80d8506e",
+    "wof:geomhash": "082a90c29688da96b71f26b0f3d86012",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454495699,
-    "wof:lastmodified": 1583786736,
+    "wof:lastmodified": 1609892090,
     "wof:name": "DY8 1HX",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.143159, 
-    52.45607, 
-    -2.143159, 
-    52.45607
+    -2.141345, 
+    52.456734, 
+    -2.141345, 
+    52.456734
   ],
-  "geometry": {"coordinates":[-2.143159,52.45607],"type":"Point"}
+  "geometry": {"coordinates":[-2.141345,52.456734],"type":"Point"}
 }

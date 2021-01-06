@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.470106,51.639092,-0.470106,51.639092",
-    "geom:latitude": 51.639092,
-    "geom:longitude": -0.470106,
+    "geom:bbox": "-0.470034,51.639101,-0.470034,51.639101",
+    "geom:latitude": 51.639101,
+    "geom:longitude": -0.470034,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698763, 
       404453849, 
       1125834847, 
       404227469, 
-      1360698559, 
-      85633159, 
-      1360698763
+      1360698559
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701250,
-    "wof:geomhash": "1ddb7594528fa5e4c697bf743a1afafb",
+    "wof:geomhash": "e9346157c31a5b0e8c2084a9c3a9b44e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 488109057,
-    "wof:lastmodified": 1583786408,
+    "wof:lastmodified": 1609873581,
     "wof:name": "WD3 1AJ",
     "wof:parent_id": 101854765,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.470106, 
-    51.639092, 
-    -0.470106, 
-    51.639092
+    -0.470034, 
+    51.639101, 
+    -0.470034, 
+    51.639101
   ],
-  "geometry": {"coordinates":[-0.470106,51.639092],"type":"Point"}
+  "geometry": {"coordinates":[-0.470034,51.639101],"type":"Point"}
 }

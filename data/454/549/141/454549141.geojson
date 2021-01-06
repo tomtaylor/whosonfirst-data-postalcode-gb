@@ -2,16 +2,16 @@
   "id": 454549141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2019-01-01",
-    "edtf:inception": "2018-12-01",
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-07-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.102659,51.664231,-0.102659,51.664231",
-    "geom:latitude": 51.664231,
-    "geom:longitude": -0.102659,
+    "geom:bbox": "-0.101877,51.664587,-0.101877,51.664587",
+    "geom:latitude": 51.664587,
+    "geom:longitude": -0.101877,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E09000010",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      85790985, 
-      1360698645, 
       1158857281, 
       85633159, 
-      101750367
+      101750367, 
+      404227469, 
+      85790985, 
+      1360698645
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701634,
-    "wof:geomhash": "26452a5cd6a52a8fa210601aaeac3120",
+    "wof:geomhash": "ac94f5a4cd5adb0b819c1bd7a1d81a34",
     "wof:hierarchy": [
       {
         "borough_id": 1158857281,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454549141,
-    "wof:lastmodified": 1583786766,
+    "wof:lastmodified": 1609893969,
     "wof:name": "EN2 8NL",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.102659, 
-    51.664231, 
-    -0.102659, 
-    51.664231
+    -0.101877, 
+    51.664587, 
+    -0.101877, 
+    51.664587
   ],
-  "geometry": {"coordinates":[-0.102659,51.664231],"type":"Point"}
+  "geometry": {"coordinates":[-0.101877,51.664587],"type":"Point"}
 }

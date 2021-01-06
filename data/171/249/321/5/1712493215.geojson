@@ -2,45 +2,45 @@
   "id": 1712493215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2020-01-01",
-    "edtf:inception": "2019-12-01",
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-08-01",
     "geom:area": 0,
-    "geom:bbox": "0.087155,52.291868,0.087155,52.291868",
-    "geom:latitude": 52.291868,
-    "geom:longitude": 0.087155,
+    "geom:bbox": "0.111208,52.282386,0.111208,52.282386",
+    "geom:latitude": 52.282386,
+    "geom:longitude": 0.111208,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000003",
     "os:district_code": "E07000012",
-    "os:positional_quality_indicator": "5",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698535, 
       85633159, 
       1360698845, 
-      404436523, 
-      1243201459, 
-      404227469, 
-      1360698535
+      404433055, 
+      101854923, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583790528,
-    "wof:geomhash": "2ffd04adadb663b9de852c144c0e5a43",
+    "wof:geomhash": "26510c625ca8549164cd4ecf581bb1a5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360698845,
-        "localadmin_id": 404436523,
-        "locality_id": 1243201459,
+        "localadmin_id": 404433055,
+        "locality_id": 101854923,
         "macroregion_id": 404227469,
         "region_id": 1360698535
       }
     ],
     "wof:id": 1712493215,
-    "wof:lastmodified": 1583790528,
+    "wof:lastmodified": 1609869477,
     "wof:name": "CB24 8AT",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.087155, 
-    52.291868, 
-    0.087155, 
-    52.291868
+    0.111208, 
+    52.282386, 
+    0.111208, 
+    52.282386
   ],
-  "geometry": {"coordinates":[0.087155,52.291868],"type":"Point"}
+  "geometry": {"coordinates":[0.111208,52.282386],"type":"Point"}
 }

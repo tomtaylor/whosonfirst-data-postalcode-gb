@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.079671,52.182392,-1.079671,52.182392",
-    "geom:latitude": 52.182392,
-    "geom:longitude": -1.079671,
+    "geom:bbox": "-1.080347,52.182236,-1.080347,52.182236",
+    "geom:latitude": 52.182236,
+    "geom:longitude": -1.080347,
     "gp:parent_id": "26363",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698755, 
-      404454637, 
       1225973665, 
       404227469, 
-      1360698577
+      1360698577, 
+      85633159, 
+      1360698755, 
+      404454637
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701363,
-    "wof:geomhash": "8c3225886c03499bd8134d1f4bc9aa47",
+    "wof:geomhash": "cbb3f11e2d62a7cfb6f68aa7acf73020",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471169457,
-    "wof:lastmodified": 1583786512,
+    "wof:lastmodified": 1609878016,
     "wof:name": "NN12 8JQ",
     "wof:parent_id": 404454637,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.079671, 
-    52.182392, 
-    -1.079671, 
-    52.182392
+    -1.080347, 
+    52.182236, 
+    -1.080347, 
+    52.182236
   ],
-  "geometry": {"coordinates":[-1.079671,52.182392],"type":"Point"}
+  "geometry": {"coordinates":[-1.080347,52.182236],"type":"Point"}
 }

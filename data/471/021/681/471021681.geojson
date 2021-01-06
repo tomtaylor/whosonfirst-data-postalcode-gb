@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.106079,51.577330,-0.106079,51.577330",
-    "geom:latitude": 51.57733,
-    "geom:longitude": -0.106079,
+    "geom:bbox": "-0.106092,51.577357,-0.106092,51.577357",
+    "geom:latitude": 51.577357,
+    "geom:longitude": -0.106092,
     "gp:parent_id": "12695810",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -20,12 +20,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      101750367, 
-      404227469, 
       85787927, 
       1360698645, 
       1158857279, 
-      85633159
+      85633159, 
+      101750367, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701108,
-    "wof:geomhash": "3883e400b844fd6f12e2ff237c2b9f2d",
+    "wof:geomhash": "0c823161e979394e5a7a7cae3d902f85",
     "wof:hierarchy": [
       {
         "borough_id": 1158857279,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 471021681,
-    "wof:lastmodified": 1583786227,
+    "wof:lastmodified": 1609869092,
     "wof:name": "N4 4QP",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -55,10 +55,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.106079, 
-    51.57733, 
-    -0.106079, 
-    51.57733
+    -0.106092, 
+    51.577357, 
+    -0.106092, 
+    51.577357
   ],
-  "geometry": {"coordinates":[-0.106079,51.57733],"type":"Point"}
+  "geometry": {"coordinates":[-0.106092,51.577357],"type":"Point"}
 }

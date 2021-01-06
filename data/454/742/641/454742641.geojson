@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.781623,53.665669,-1.781623,53.665669",
+    "geom:bbox": "-1.781729,53.665669,-1.781729,53.665669",
     "geom:latitude": 53.665669,
-    "geom:longitude": -1.781623,
+    "geom:longitude": -1.781729,
     "gp:parent_id": "24083",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698609, 
       85633159, 
       1360698917, 
       101750573, 
-      404227469
+      404227469, 
+      1360698609
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701707,
-    "wof:geomhash": "a9942aa0faad65cdff49a004b4ba9af9",
+    "wof:geomhash": "9464ac1a10d86c858c1319b6199dcd6d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454742641,
-    "wof:lastmodified": 1583786847,
+    "wof:lastmodified": 1609900983,
     "wof:name": "HD2 2QR",
     "wof:parent_id": 101750573,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.781623, 
+    -1.781729, 
     53.665669, 
-    -1.781623, 
+    -1.781729, 
     53.665669
   ],
-  "geometry": {"coordinates":[-1.781623,53.665669],"type":"Point"}
+  "geometry": {"coordinates":[-1.781729,53.665669],"type":"Point"}
 }

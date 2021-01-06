@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.740124,54.403158,-1.740124,54.403158",
-    "geom:latitude": 54.403158,
-    "geom:longitude": -1.740124,
+    "geom:bbox": "-1.739637,54.403285,-1.739637,54.403285",
+    "geom:latitude": 54.403285,
+    "geom:longitude": -1.739637,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      101873301, 
-      404227469, 
-      1360698619, 
       85633159, 
       1360698753, 
-      404435427
+      404435427, 
+      101873301, 
+      404227469, 
+      1360698619
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701532,
-    "wof:geomhash": "9ec7bc4508fda9ca676abc8adcf0ecc8",
+    "wof:geomhash": "a599fe18cfc2d13295ecae26a604a580",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454386197,
-    "wof:lastmodified": 1583786662,
+    "wof:lastmodified": 1609886836,
     "wof:name": "DL10 4QX",
     "wof:parent_id": 101873301,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.740124, 
-    54.403158, 
-    -1.740124, 
-    54.403158
+    -1.739637, 
+    54.403285, 
+    -1.739637, 
+    54.403285
   ],
-  "geometry": {"coordinates":[-1.740124,54.403158],"type":"Point"}
+  "geometry": {"coordinates":[-1.739637,54.403285],"type":"Point"}
 }

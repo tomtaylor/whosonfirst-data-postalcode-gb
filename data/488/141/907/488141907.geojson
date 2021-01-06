@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.361398,53.674146,-1.361398,53.674146",
-    "geom:latitude": 53.674146,
-    "geom:longitude": -1.361398,
+    "geom:bbox": "-1.361213,53.674352,-1.361213,53.674352",
+    "geom:latitude": 53.674352,
+    "geom:longitude": -1.361213,
     "gp:parent_id": "20014",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1209650655, 
-      404227469, 
       1360698609, 
       85633159, 
       1360698945, 
-      404445309
+      404445309, 
+      1209650655, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701273,
-    "wof:geomhash": "9815636ceb3d01342d201b60af69fecf",
+    "wof:geomhash": "1529b671da86b7e21237ce9c08b9fccf",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488141907,
-    "wof:lastmodified": 1583786184,
+    "wof:lastmodified": 1609876369,
     "wof:name": "WF7 5NS",
     "wof:parent_id": 101872193,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.361398, 
-    53.674146, 
-    -1.361398, 
-    53.674146
+    -1.361213, 
+    53.674352, 
+    -1.361213, 
+    53.674352
   ],
-  "geometry": {"coordinates":[-1.361398,53.674146],"type":"Point"}
+  "geometry": {"coordinates":[-1.361213,53.674352],"type":"Point"}
 }

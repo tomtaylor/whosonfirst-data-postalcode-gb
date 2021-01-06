@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1999-06-01",
     "geom:area": 0,
-    "geom:bbox": "-3.183534,53.392805,-3.183534,53.392805",
-    "geom:latitude": 53.392805,
-    "geom:longitude": -3.183534,
+    "geom:bbox": "-3.183607,53.392786,-3.183607,53.392786",
+    "geom:latitude": 53.392786,
+    "geom:longitude": -3.183607,
     "gp:parent_id": "12695853",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      101750549, 
-      404227469, 
       1360698573, 
       85633159, 
-      1360699049
+      1360699049, 
+      101750549, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701249,
-    "wof:geomhash": "8f98512aff5da44e6ed67234be4917fd",
+    "wof:geomhash": "962640d9b57efe4728ac7611ca7657dd",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454115915,
-    "wof:lastmodified": 1583786402,
+    "wof:lastmodified": 1609871716,
     "wof:name": "CH47 2AR",
     "wof:parent_id": 404452723,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.183534, 
-    53.392805, 
-    -3.183534, 
-    53.392805
+    -3.183607, 
+    53.392786, 
+    -3.183607, 
+    53.392786
   ],
-  "geometry": {"coordinates":[-3.183534,53.392805],"type":"Point"}
+  "geometry": {"coordinates":[-3.183607,53.392786],"type":"Point"}
 }

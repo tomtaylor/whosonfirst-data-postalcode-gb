@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.243823,55.945108,-3.243823,55.945108",
-    "geom:latitude": 55.945108,
-    "geom:longitude": -3.243823,
+    "geom:bbox": "-3.243822,55.945090,-3.243822,55.945090",
+    "geom:latitude": 55.94509,
+    "geom:longitude": -3.243822,
     "gp:parent_id": "12696195",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698761, 
-      404437279, 
       101750629, 
       404227471, 
       85790107, 
-      1360698673
+      1360698673, 
+      85633159, 
+      1360698761, 
+      404437279
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701625,
-    "wof:geomhash": "1e00e39082d0d714ba521de4996927ef",
+    "wof:geomhash": "cdb65bcf68ca49937e9c117331f98f30",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 488623345,
-    "wof:lastmodified": 1595735337,
+    "wof:lastmodified": 1609899170,
     "wof:name": "EH12 5QG",
     "wof:parent_id": 101750629,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.243823, 
-    55.945108, 
-    -3.243823, 
-    55.945108
+    -3.243822, 
+    55.94509, 
+    -3.243822, 
+    55.94509
   ],
-  "geometry": {"coordinates":[-3.243823,55.945108],"type":"Point"}
+  "geometry": {"coordinates":[-3.243822,55.94509],"type":"Point"}
 }

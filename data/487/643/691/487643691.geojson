@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.017153,50.989967,-2.017153,50.989967",
-    "geom:latitude": 50.989967,
-    "geom:longitude": -2.017153,
+    "geom:bbox": "-2.017267,50.990003,-2.017267,50.990003",
+    "geom:latitude": 50.990003,
+    "geom:longitude": -2.017267,
     "gp:parent_id": "13428",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      404436763, 
+      1125855025, 
       404227469, 
       1360698611, 
       85633159, 
-      1360698937, 
-      404436763, 
-      1125855025
+      1360698937
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701102,
-    "wof:geomhash": "ebaae32bce4bf62f577a56d5029ef907",
+    "wof:geomhash": "010a3f1156cf6893c1b9fb17e6b707a3",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487643691,
-    "wof:lastmodified": 1583786196,
+    "wof:lastmodified": 1609870389,
     "wof:name": "SP5 5LP",
     "wof:parent_id": 404436763,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.017153, 
-    50.989967, 
-    -2.017153, 
-    50.989967
+    -2.017267, 
+    50.990003, 
+    -2.017267, 
+    50.990003
   ],
-  "geometry": {"coordinates":[-2.017153,50.989967],"type":"Point"}
+  "geometry": {"coordinates":[-2.017267,50.990003],"type":"Point"}
 }

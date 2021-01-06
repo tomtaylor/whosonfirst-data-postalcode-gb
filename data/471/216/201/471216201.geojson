@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.993631,52.773932,0.993631,52.773932",
-    "geom:latitude": 52.773932,
-    "geom:longitude": 0.993631,
+    "geom:bbox": "0.993300,52.774235,0.993300,52.774235",
+    "geom:latitude": 52.774235,
+    "geom:longitude": 0.9933,
     "gp:parent_id": "12670",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698575, 
       85633159, 
       1360698955, 
       404435965, 
-      1226080531, 
-      404227469, 
-      1360698575
+      1226080531
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701405,
-    "wof:geomhash": "3cabd9d049d0e5e318f1665dc2dbb047",
+    "wof:geomhash": "4f906d9d2937b94c4c982df15d15289f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471216201,
-    "wof:lastmodified": 1583786561,
+    "wof:lastmodified": 1609880683,
     "wof:name": "NR20 5NB",
     "wof:parent_id": 404435965,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.993631, 
-    52.773932, 
-    0.993631, 
-    52.773932
+    0.9933, 
+    52.774235, 
+    0.9933, 
+    52.774235
   ],
-  "geometry": {"coordinates":[0.993631,52.773932],"type":"Point"}
+  "geometry": {"coordinates":[0.9933,52.774235],"type":"Point"}
 }

@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.692846,55.020022,-1.692846,55.020022",
-    "geom:latitude": 55.020022,
+    "geom:bbox": "-1.692846,55.019914,-1.692846,55.019914",
+    "geom:latitude": 55.019914,
     "geom:longitude": -1.692846,
     "gp:parent_id": "41075",
     "iso:country": "GB",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698601, 
       85633159, 
       1360698961, 
       404445971, 
       1126012427, 
-      404227469
+      404227469, 
+      1360698601
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701141,
-    "wof:geomhash": "65cb0a9bf2665957093b0c76431c33fe",
+    "wof:geomhash": "cbff213da2a329ce6b9ee656afbda5ea",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471035517,
-    "wof:lastmodified": 1583786268,
+    "wof:lastmodified": 1609869536,
     "wof:name": "NE13 8AW",
     "wof:parent_id": 404445971,
     "wof:placetype": "postalcode",
@@ -55,9 +55,9 @@
   },
   "bbox": [
     -1.692846, 
-    55.020022, 
+    55.019914, 
     -1.692846, 
-    55.020022
+    55.019914
   ],
-  "geometry": {"coordinates":[-1.692846,55.020022],"type":"Point"}
+  "geometry": {"coordinates":[-1.692846,55.019914],"type":"Point"}
 }

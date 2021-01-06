@@ -6,9 +6,9 @@
     "edtf:inception": "2000-12-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.156693,51.521220,-0.156693,51.521220",
-    "geom:latitude": 51.52122,
-    "geom:longitude": -0.156693,
+    "geom:bbox": "-0.155026,51.517266,-0.155026,51.517266",
+    "geom:latitude": 51.517266,
+    "geom:longitude": -0.155026,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      85790639, 
+      1360698645, 
       1158857245, 
       85633159, 
       101750367, 
       1158859031, 
-      404227469, 
-      85790639, 
-      1360698645
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701205,
-    "wof:geomhash": "685394bc6f88be294efb6650281135c4",
+    "wof:geomhash": "22174c799958b4ecc12a4590335f2467",
     "wof:hierarchy": [
       {
         "borough_id": 1158857245,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 488036481,
-    "wof:lastmodified": 1583786383,
+    "wof:lastmodified": 1609869547,
     "wof:name": "W1U 6TS",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.156693, 
-    51.52122, 
-    -0.156693, 
-    51.52122
+    -0.155026, 
+    51.517266, 
+    -0.155026, 
+    51.517266
   ],
-  "geometry": {"coordinates":[-0.156693,51.52122],"type":"Point"}
+  "geometry": {"coordinates":[-0.155026,51.517266],"type":"Point"}
 }

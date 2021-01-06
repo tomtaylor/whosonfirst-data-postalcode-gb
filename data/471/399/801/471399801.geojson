@@ -19,12 +19,10 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698845, 
       404448289, 
       1125997589, 
-      404227469, 
-      1360698535, 
-      85633159, 
-      1360698845
+      1360698535
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -35,16 +33,14 @@
     "wof:geomhash": "eee3e8f0e6d4427a5d638c271a5ddf6b",
     "wof:hierarchy": [
       {
-        "country_id": 85633159,
         "county_id": 1360698845,
         "localadmin_id": 404448289,
         "locality_id": 1125997589,
-        "macroregion_id": 404227469,
         "region_id": 1360698535
       }
     ],
     "wof:id": 471399801,
-    "wof:lastmodified": 1583786711,
+    "wof:lastmodified": 1609890743,
     "wof:name": "PE8 6SD",
     "wof:parent_id": 404448289,
     "wof:placetype": "postalcode",

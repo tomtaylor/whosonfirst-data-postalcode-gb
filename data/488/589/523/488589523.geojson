@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1995-07-01",
     "geom:area": 0,
-    "geom:bbox": "-2.975350,53.186750,-2.975350,53.186750",
-    "geom:latitude": 53.18675,
-    "geom:longitude": -2.97535,
+    "geom:bbox": "-2.975335,53.186768,-2.975335,53.186768",
+    "geom:latitude": 53.186768,
+    "geom:longitude": -2.975335,
     "gp:parent_id": "12696124",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698637, 
+      85633159, 
       1360698799, 
       404448995, 
       1360711383, 
-      404227475, 
-      1360698637, 
-      85633159
+      404227475
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701605,
-    "wof:geomhash": "3c141a0d6c2458b4d835df02f0771358",
+    "wof:geomhash": "3cddd69b9bdbfa840c28983abbbde741",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488589523,
-    "wof:lastmodified": 1583786799,
+    "wof:lastmodified": 1609897876,
     "wof:name": "CH4 0GZ",
     "wof:parent_id": 404448995,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.97535, 
-    53.18675, 
-    -2.97535, 
-    53.18675
+    -2.975335, 
+    53.186768, 
+    -2.975335, 
+    53.186768
   ],
-  "geometry": {"coordinates":[-2.97535,53.18675],"type":"Point"}
+  "geometry": {"coordinates":[-2.975335,53.186768],"type":"Point"}
 }

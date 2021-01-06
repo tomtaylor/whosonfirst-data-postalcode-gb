@@ -2,16 +2,16 @@
   "id": 890268355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2017-09-01",
-    "edtf:inception": "2017-07-01",
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-08-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.174506,51.497984,-0.174506,51.497984",
-    "geom:latitude": 51.497984,
-    "geom:longitude": -0.174506,
+    "geom:bbox": "-0.174505,51.497993,-0.174505,51.497993",
+    "geom:latitude": 51.497993,
+    "geom:longitude": -0.174505,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E09000020",
@@ -19,18 +19,18 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      101750367, 
-      1158859439, 
       404227469, 
       85790445, 
       1360698645, 
       1158857317, 
-      85633159
+      85633159, 
+      101750367, 
+      1158859439
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468901809,
-    "wof:geomhash": "1c3ed8102b5c9b6e0423072070559088",
+    "wof:geomhash": "a953135114072759113c48a38a0e2ee4",
     "wof:hierarchy": [
       {
         "borough_id": 1158857317,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 890268355,
-    "wof:lastmodified": 1583786244,
+    "wof:lastmodified": 1609869273,
     "wof:name": "SW7 9AG",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.174506, 
-    51.497984, 
-    -0.174506, 
-    51.497984
+    -0.174505, 
+    51.497993, 
+    -0.174505, 
+    51.497993
   ],
-  "geometry": {"coordinates":[-0.174506,51.497984],"type":"Point"}
+  "geometry": {"coordinates":[-0.174505,51.497993],"type":"Point"}
 }

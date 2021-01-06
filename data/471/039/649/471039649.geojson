@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.121702,55.240573,-2.121702,55.240573",
-    "geom:latitude": 55.240573,
-    "geom:longitude": -2.121702,
+    "geom:bbox": "-2.112916,55.242270,-2.112916,55.242270",
+    "geom:latitude": 55.24227,
+    "geom:longitude": -2.112916,
     "gp:parent_id": "19535",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698769, 
-      404455359, 
-      1126059839, 
+      1125977061, 
       404227469, 
       1360698727, 
-      85633159
+      85633159, 
+      1360698769, 
+      404430875
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,19 +32,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701152,
-    "wof:geomhash": "7e100ab8eead1388ea25aad093bd5428",
+    "wof:geomhash": "5b8b642b7a17c830c4c0928337c819df",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360698769,
-        "localadmin_id": 404455359,
-        "locality_id": 1126059839,
+        "localadmin_id": 404430875,
+        "locality_id": 1125977061,
         "macroregion_id": 404227469,
         "region_id": 1360698727
       }
     ],
     "wof:id": 471039649,
-    "wof:lastmodified": 1583786280,
+    "wof:lastmodified": 1609869693,
     "wof:name": "NE19 1AQ",
     "wof:parent_id": 404430875,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.121702, 
-    55.240573, 
-    -2.121702, 
-    55.240573
+    -2.112916, 
+    55.24227, 
+    -2.112916, 
+    55.24227
   ],
-  "geometry": {"coordinates":[-2.121702,55.240573],"type":"Point"}
+  "geometry": {"coordinates":[-2.112916,55.24227],"type":"Point"}
 }

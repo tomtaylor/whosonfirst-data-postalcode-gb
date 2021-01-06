@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.696189,50.807918,-3.696189,50.807918",
-    "geom:latitude": 50.807918,
-    "geom:longitude": -3.696189,
+    "geom:bbox": "-3.689382,50.805355,-3.689382,50.805355",
+    "geom:latitude": 50.805355,
+    "geom:longitude": -3.689382,
     "gp:parent_id": "33971",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698541, 
       85633159, 
       1360699081, 
       404452157, 
-      1327065369
+      1327065369, 
+      404227469, 
+      1360698541
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701645,
-    "wof:geomhash": "f8031d5c1a4437bdf5f3eb203a36851d",
+    "wof:geomhash": "71744c66193f19784d2b594ac94f2ace",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454576309,
-    "wof:lastmodified": 1583786777,
+    "wof:lastmodified": 1609895270,
     "wof:name": "EX17 4PQ",
     "wof:parent_id": 404452157,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.696189, 
-    50.807918, 
-    -3.696189, 
-    50.807918
+    -3.689382, 
+    50.805355, 
+    -3.689382, 
+    50.805355
   ],
-  "geometry": {"coordinates":[-3.696189,50.807918],"type":"Point"}
+  "geometry": {"coordinates":[-3.689382,50.805355],"type":"Point"}
 }

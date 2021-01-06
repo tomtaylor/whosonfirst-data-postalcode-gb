@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.225535,51.558452,-0.225535,51.558452",
-    "geom:latitude": 51.558452,
-    "geom:longitude": -0.225535,
+    "geom:bbox": "-0.225371,51.558584,-0.225371,51.558584",
+    "geom:latitude": 51.558584,
+    "geom:longitude": -0.225371,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      1158857267, 
       85633159, 
       101750367, 
       404227469, 
       85786881, 
-      1360698645, 
-      1158857267
+      1360698645
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701447,
-    "wof:geomhash": "6c835a1fbb8dbc5fb639c6b172d5e6d5",
+    "wof:geomhash": "33eb94e603988d993bce7c5a7809504b",
     "wof:hierarchy": [
       {
         "borough_id": 1158857267,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471259445,
-    "wof:lastmodified": 1583786596,
+    "wof:lastmodified": 1609883149,
     "wof:name": "NW2 6XG",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.225535, 
-    51.558452, 
-    -0.225535, 
-    51.558452
+    -0.225371, 
+    51.558584, 
+    -0.225371, 
+    51.558584
   ],
-  "geometry": {"coordinates":[-0.225535,51.558452],"type":"Point"}
+  "geometry": {"coordinates":[-0.225371,51.558584],"type":"Point"}
 }

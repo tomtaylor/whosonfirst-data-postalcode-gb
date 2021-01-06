@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1985-04-01",
     "geom:area": 0,
-    "geom:bbox": "-2.834916,53.800836,-2.834916,53.800836",
-    "geom:latitude": 53.800836,
+    "geom:bbox": "-2.834916,53.800827,-2.834916,53.800827",
+    "geom:latitude": 53.800827,
     "geom:longitude": -2.834916,
     "gp:parent_id": "40088",
     "iso:country": "GB",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      404434567, 
-      1360755995, 
       404227469, 
       1360698567, 
       85633159, 
-      1360698817
+      1360698817, 
+      404434567, 
+      1360755995
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701649,
-    "wof:geomhash": "5ecb1c2b043619ecefef20a8ceb680b7",
+    "wof:geomhash": "ffd0fb8b9692d7a42d3f7902c5ac336d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471505211,
-    "wof:lastmodified": 1583786783,
+    "wof:lastmodified": 1609894471,
     "wof:name": "PR4 3UT",
     "wof:parent_id": 404434567,
     "wof:placetype": "postalcode",
@@ -55,9 +55,9 @@
   },
   "bbox": [
     -2.834916, 
-    53.800836, 
+    53.800827, 
     -2.834916, 
-    53.800836
+    53.800827
   ],
-  "geometry": {"coordinates":[-2.834916,53.800836],"type":"Point"}
+  "geometry": {"coordinates":[-2.834916,53.800827],"type":"Point"}
 }

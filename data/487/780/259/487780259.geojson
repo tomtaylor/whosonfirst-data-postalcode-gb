@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.660510,52.915875,-2.660510,52.915875",
-    "geom:latitude": 52.915875,
-    "geom:longitude": -2.66051,
+    "geom:bbox": "-2.661072,52.916767,-2.661072,52.916767",
+    "geom:latitude": 52.916767,
+    "geom:longitude": -2.661072,
     "gp:parent_id": "12696063",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      404446037, 
-      1226171801, 
       404227469, 
       1360698587, 
       85633159, 
-      1360698821
+      1360698821, 
+      404446037, 
+      1226171801
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701163,
-    "wof:geomhash": "7eddd24d1efc62817ffc2a431613f760",
+    "wof:geomhash": "18f66746150f57452ef973f99e987092",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487780259,
-    "wof:lastmodified": 1583786266,
+    "wof:lastmodified": 1609879406,
     "wof:name": "SY13 3JZ",
     "wof:parent_id": 404446037,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.66051, 
-    52.915875, 
-    -2.66051, 
-    52.915875
+    -2.661072, 
+    52.916767, 
+    -2.661072, 
+    52.916767
   ],
-  "geometry": {"coordinates":[-2.66051,52.915875],"type":"Point"}
+  "geometry": {"coordinates":[-2.661072,52.916767],"type":"Point"}
 }

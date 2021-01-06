@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.581146,55.107364,-3.581146,55.107364",
-    "geom:latitude": 55.107364,
-    "geom:longitude": -3.581146,
+    "geom:bbox": "-3.580770,55.106992,-3.580770,55.106992",
+    "geom:latitude": 55.106992,
+    "geom:longitude": -3.58077,
     "gp:parent_id": "12696189",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360699039, 
       404444245, 
       404227471, 
-      1360698719, 
-      85633159, 
-      1360699039
+      1360698719
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701615,
-    "wof:geomhash": "53ee33932e12d8fd5cf462906bf0a124",
+    "wof:geomhash": "7cca313535e8588a14390eb5c560887f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488608561,
-    "wof:lastmodified": 1583786807,
+    "wof:lastmodified": 1609898626,
     "wof:name": "DG1 1QH",
     "wof:parent_id": 404444245,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.581146, 
-    55.107364, 
-    -3.581146, 
-    55.107364
+    -3.58077, 
+    55.106992, 
+    -3.58077, 
+    55.106992
   ],
-  "geometry": {"coordinates":[-3.581146,55.107364],"type":"Point"}
+  "geometry": {"coordinates":[-3.58077,55.106992],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2017-08-01",
     "geom:area": 0,
-    "geom:bbox": "-3.446098,56.485257,-3.446098,56.485257",
-    "geom:latitude": 56.485257,
-    "geom:longitude": -3.446098,
+    "geom:bbox": "-3.445786,56.485170,-3.445786,56.485170",
+    "geom:latitude": 56.48517,
+    "geom:longitude": -3.445786,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698691, 
       85633159, 
       1360698829, 
       404451983, 
-      404227471
+      404227471, 
+      1360698691
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583805957,
-    "wof:geomhash": "68cd0480656668e41ca87e7d4a21e0db",
+    "wof:geomhash": "eaabc1b0481f2a83f0d6a7c7a1239c84",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1161146224,
-    "wof:lastmodified": 1595713116,
+    "wof:lastmodified": 1609876831,
     "wof:name": "PH1 4QX",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.446098, 
-    56.485257, 
-    -3.446098, 
-    56.485257
+    -3.445786, 
+    56.48517, 
+    -3.445786, 
+    56.48517
   ],
-  "geometry": {"coordinates":[-3.446098,56.485257],"type":"Point"}
+  "geometry": {"coordinates":[-3.445786,56.48517],"type":"Point"}
 }

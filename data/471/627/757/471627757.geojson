@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.501531,53.364870,-1.501531,53.364870",
-    "geom:latitude": 53.36487,
-    "geom:longitude": -1.501531,
+    "geom:bbox": "-1.501439,53.364933,-1.501439,53.364933",
+    "geom:latitude": 53.364933,
+    "geom:longitude": -1.501439,
     "gp:parent_id": "34503",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      85789271, 
       1360698591, 
       85633159, 
       1360699075, 
-      101750529, 
-      404227469, 
-      85789271
+      101750529
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701685,
-    "wof:geomhash": "33e1e7a977506bf469e244c5f9708b02",
+    "wof:geomhash": "5a7f21744ab86d1a89aac1595ef47d44",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471627757,
-    "wof:lastmodified": 1583786850,
+    "wof:lastmodified": 1609899899,
     "wof:name": "S11 8US",
     "wof:parent_id": 101750529,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.501531, 
-    53.36487, 
-    -1.501531, 
-    53.36487
+    -1.501439, 
+    53.364933, 
+    -1.501439, 
+    53.364933
   ],
-  "geometry": {"coordinates":[-1.501531,53.36487],"type":"Point"}
+  "geometry": {"coordinates":[-1.501439,53.364933],"type":"Point"}
 }

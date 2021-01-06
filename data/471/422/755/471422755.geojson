@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.776978,50.373499,-4.776978,50.373499",
-    "geom:latitude": 50.373499,
-    "geom:longitude": -4.776978,
+    "geom:bbox": "-4.776972,50.373398,-4.776972,50.373398",
+    "geom:latitude": 50.373398,
+    "geom:longitude": -4.776972,
     "gp:parent_id": "31858",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360699085, 
       404435355, 
       1360757237, 
       404227469, 
-      1360698623, 
-      85633159, 
-      1360699085
+      1360698623
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701590,
-    "wof:geomhash": "25efb5d69381eb6276471c20077b06df",
+    "wof:geomhash": "0ee12c045035234034bb796dd711e430",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471422755,
-    "wof:lastmodified": 1583786736,
+    "wof:lastmodified": 1609891558,
     "wof:name": "PL26 8UY",
     "wof:parent_id": 404435355,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.776978, 
-    50.373499, 
-    -4.776978, 
-    50.373499
+    -4.776972, 
+    50.373398, 
+    -4.776972, 
+    50.373398
   ],
-  "geometry": {"coordinates":[-4.776978,50.373499],"type":"Point"}
+  "geometry": {"coordinates":[-4.776972,50.373398],"type":"Point"}
 }

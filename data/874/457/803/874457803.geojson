@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2015-03-01",
     "geom:area": 0,
-    "geom:bbox": "-4.196230,55.851789,-4.196230,55.851789",
-    "geom:latitude": 55.851789,
-    "geom:longitude": -4.19623,
+    "geom:bbox": "-4.196359,55.851773,-4.196359,55.851773",
+    "geom:latitude": 55.851773,
+    "geom:longitude": -4.196359,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,18 +18,18 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85792589, 
-      1360698707, 
       85633159, 
       1360698797, 
       404430153, 
       1175612707, 
-      404227471
+      404227471, 
+      85792589, 
+      1360698707
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468879668,
-    "wof:geomhash": "70cb7393aa580e571e146fecbbaac5f9",
+    "wof:geomhash": "6626defdaf5a9fa317ff091f88abfd58",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 874457803,
-    "wof:lastmodified": 1583786267,
+    "wof:lastmodified": 1609869966,
     "wof:name": "G31 5EJ",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.19623, 
-    55.851789, 
-    -4.19623, 
-    55.851789
+    -4.196359, 
+    55.851773, 
+    -4.196359, 
+    55.851773
   ],
-  "geometry": {"coordinates":[-4.19623,55.851789],"type":"Point"}
+  "geometry": {"coordinates":[-4.196359,55.851773],"type":"Point"}
 }

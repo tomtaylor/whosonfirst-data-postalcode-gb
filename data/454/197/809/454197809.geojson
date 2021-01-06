@@ -6,9 +6,9 @@
     "edtf:inception": "1981-06-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.096396,51.384989,-0.096396,51.384989",
-    "geom:latitude": 51.384989,
-    "geom:longitude": -0.096396,
+    "geom:bbox": "-0.096453,51.384999,-0.096453,51.384999",
+    "geom:latitude": 51.384999,
+    "geom:longitude": -0.096453,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      1158857301, 
-      85633159, 
       101750367, 
       404227469, 
-      1360698645
+      1360698645, 
+      1158857301, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701366,
-    "wof:geomhash": "5b2fa7e74c32bb7cf2f1bf8c92e5351e",
+    "wof:geomhash": "0dfd12abc98e4de9a5b6b6235cb02b7f",
     "wof:hierarchy": [
       {
         "borough_id": 1158857301,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454197809,
-    "wof:lastmodified": 1583786493,
+    "wof:lastmodified": 1609877705,
     "wof:name": "CR0 2JQ",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.096396, 
-    51.384989, 
-    -0.096396, 
-    51.384989
+    -0.096453, 
+    51.384999, 
+    -0.096453, 
+    51.384999
   ],
-  "geometry": {"coordinates":[-0.096396,51.384989],"type":"Point"}
+  "geometry": {"coordinates":[-0.096453,51.384999],"type":"Point"}
 }

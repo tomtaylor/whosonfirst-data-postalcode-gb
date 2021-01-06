@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1996-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.636639,53.486373,-2.636639,53.486373",
-    "geom:latitude": 53.486373,
-    "geom:longitude": -2.636639,
+    "geom:bbox": "-2.636760,53.486400,-2.636760,53.486400",
+    "geom:latitude": 53.4864,
+    "geom:longitude": -2.63676,
     "gp:parent_id": "11222",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      1126035289, 
+      404227469, 
       1360698555, 
       85633159, 
       1360699023, 
-      1360817301, 
-      1126035289, 
-      404227469
+      1360817301
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701280,
-    "wof:geomhash": "b13774f613cedd435faa2732d2dd0b0b",
+    "wof:geomhash": "9176316fdb6d0aa8e1a1fe59ba926193",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488153671,
-    "wof:lastmodified": 1583786217,
+    "wof:lastmodified": 1609877263,
     "wof:name": "WN4 9AN",
     "wof:parent_id": 404450053,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.636639, 
-    53.486373, 
-    -2.636639, 
-    53.486373
+    -2.63676, 
+    53.4864, 
+    -2.63676, 
+    53.4864
   ],
-  "geometry": {"coordinates":[-2.636639,53.486373],"type":"Point"}
+  "geometry": {"coordinates":[-2.63676,53.4864],"type":"Point"}
 }

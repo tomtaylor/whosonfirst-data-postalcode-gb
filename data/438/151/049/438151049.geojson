@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.985026,50.715568,-1.985026,50.715568",
-    "geom:latitude": 50.715568,
+    "geom:bbox": "-1.985026,50.715334,-1.985026,50.715334",
+    "geom:latitude": 50.715334,
     "geom:longitude": -1.985026,
     "gp:parent_id": "32326",
     "iso:country": "GB",
@@ -19,11 +19,11 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698545, 
       85633159, 
       1360698905, 
       101750309, 
-      404227469
+      404227469, 
+      1360698545
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701341,
-    "wof:geomhash": "2f069eef02b1eed68a195410fa552f18",
+    "wof:geomhash": "b7f8ca2035f1599cf4716d344c06a97f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 438151049,
-    "wof:lastmodified": 1583786482,
+    "wof:lastmodified": 1609876977,
     "wof:name": "BH15 1NR",
     "wof:parent_id": 101750309,
     "wof:placetype": "postalcode",
@@ -53,9 +53,9 @@
   },
   "bbox": [
     -1.985026, 
-    50.715568, 
+    50.715334, 
     -1.985026, 
-    50.715568
+    50.715334
   ],
-  "geometry": {"coordinates":[-1.985026,50.715568],"type":"Point"}
+  "geometry": {"coordinates":[-1.985026,50.715334],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-12-01",
     "geom:area": 0,
-    "geom:bbox": "-5.097012,50.149824,-5.097012,50.149824",
-    "geom:latitude": 50.149824,
-    "geom:longitude": -5.097012,
+    "geom:bbox": "-5.096815,50.149811,-5.096815,50.149811",
+    "geom:latitude": 50.149811,
+    "geom:longitude": -5.096815,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699085, 
-      404435675, 
       1360757771, 
       404227469, 
       1360698623, 
-      85633159
+      85633159, 
+      1360699085, 
+      404435675
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583794475,
-    "wof:geomhash": "b2e54daba0cfebab2525b30bdaf3d879",
+    "wof:geomhash": "3f69614baa3761c2c02e09fe0f301e20",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160888704,
-    "wof:lastmodified": 1583794475,
+    "wof:lastmodified": 1609871637,
     "wof:name": "TR11 4FW",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -5.097012, 
-    50.149824, 
-    -5.097012, 
-    50.149824
+    -5.096815, 
+    50.149811, 
+    -5.096815, 
+    50.149811
   ],
-  "geometry": {"coordinates":[-5.097012,50.149824],"type":"Point"}
+  "geometry": {"coordinates":[-5.096815,50.149811],"type":"Point"}
 }

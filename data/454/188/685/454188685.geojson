@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.910172,51.775330,0.910172,51.775330",
-    "geom:latitude": 51.77533,
-    "geom:longitude": 0.910172,
+    "geom:bbox": "0.910051,51.775252,0.910051,51.775252",
+    "geom:latitude": 51.775252,
+    "geom:longitude": 0.910051,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698979, 
-      404433159, 
-      101854761, 
       404227469, 
       1360698551, 
-      85633159
+      85633159, 
+      1360698979, 
+      404433159, 
+      101854761
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701353,
-    "wof:geomhash": "81e0459a2417f1e1a4f11f4ecb4ff67e",
+    "wof:geomhash": "89bfbfba529b3cecff5fe49147e99155",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454188685,
-    "wof:lastmodified": 1583786484,
+    "wof:lastmodified": 1609877192,
     "wof:name": "CO5 8QE",
     "wof:parent_id": 101854761,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.910172, 
-    51.77533, 
-    0.910172, 
-    51.77533
+    0.910051, 
+    51.775252, 
+    0.910051, 
+    51.775252
   ],
-  "geometry": {"coordinates":[0.910172,51.77533],"type":"Point"}
+  "geometry": {"coordinates":[0.910051,51.775252],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.067951,50.920174,-2.067951,50.920174",
-    "geom:latitude": 50.920174,
-    "geom:longitude": -2.067951,
+    "geom:bbox": "-2.068215,50.920231,-2.068215,50.920231",
+    "geom:latitude": 50.920231,
+    "geom:longitude": -2.068215,
     "gp:parent_id": "15853",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      1126028539, 
+      404227469, 
       1360698545, 
       85633159, 
       1360698745, 
-      404449571, 
-      1126028539, 
-      404227469
+      404449571
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701589,
-    "wof:geomhash": "9b8a0e706042e233c1913c291c588715",
+    "wof:geomhash": "dbd87c2d6ebca2b0accbfe4b058da193",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454462935,
-    "wof:lastmodified": 1583786714,
+    "wof:lastmodified": 1609890422,
     "wof:name": "DT11 8DA",
     "wof:parent_id": 404449571,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.067951, 
-    50.920174, 
-    -2.067951, 
-    50.920174
+    -2.068215, 
+    50.920231, 
+    -2.068215, 
+    50.920231
   ],
-  "geometry": {"coordinates":[-2.067951,50.920174],"type":"Point"}
+  "geometry": {"coordinates":[-2.068215,50.920231],"type":"Point"}
 }

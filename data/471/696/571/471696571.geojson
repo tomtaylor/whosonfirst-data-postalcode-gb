@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.077903,51.502448,-0.077903,51.502448",
-    "geom:latitude": 51.502448,
-    "geom:longitude": -0.077903,
+    "geom:bbox": "-0.077384,51.502116,-0.077384,51.502116",
+    "geom:latitude": 51.502116,
+    "geom:longitude": -0.077384,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      85792125, 
+      101750367, 
+      404227469, 
+      85785641, 
       1360698645, 
       1158857247, 
-      85633159, 
-      101750367, 
-      404227469
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,19 +32,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701710,
-    "wof:geomhash": "12af6cef6ec4d908d88a6ddd04dc6d38",
+    "wof:geomhash": "f6efaa416a048c1c72a5198e3cccb3f7",
     "wof:hierarchy": [
       {
         "borough_id": 1158857247,
         "country_id": 85633159,
         "locality_id": 101750367,
         "macroregion_id": 404227469,
-        "neighbourhood_id": 85792125,
+        "neighbourhood_id": 85785641,
         "region_id": 1360698645
       }
     ],
     "wof:id": 471696571,
-    "wof:lastmodified": 1583786886,
+    "wof:lastmodified": 1609901014,
     "wof:name": "SE1 2NX",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.077903, 
-    51.502448, 
-    -0.077903, 
-    51.502448
+    -0.077384, 
+    51.502116, 
+    -0.077384, 
+    51.502116
   ],
-  "geometry": {"coordinates":[-0.077903,51.502448],"type":"Point"}
+  "geometry": {"coordinates":[-0.077384,51.502116],"type":"Point"}
 }

@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.079000,51.399822,-0.079000,51.399822",
-    "geom:latitude": 51.399822,
-    "geom:longitude": -0.079,
+    "geom:bbox": "-0.078627,51.399870,-0.078627,51.399870",
+    "geom:latitude": 51.39987,
+    "geom:longitude": -0.078627,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698645, 
-      1158857301, 
-      85633159, 
       101750367, 
       404227469, 
-      85790453
+      85790453, 
+      1360698645, 
+      1158857301, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701721,
-    "wof:geomhash": "a34c49e3a6bc2c4006d32a2e874672fc",
+    "wof:geomhash": "ad1cc0c9b3525324c4a41151c0ed1827",
     "wof:hierarchy": [
       {
         "borough_id": 1158857301,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471723557,
-    "wof:lastmodified": 1583786893,
+    "wof:lastmodified": 1609901438,
     "wof:name": "SE25 6PN",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.079, 
-    51.399822, 
-    -0.079, 
-    51.399822
+    -0.078627, 
+    51.39987, 
+    -0.078627, 
+    51.39987
   ],
-  "geometry": {"coordinates":[-0.079,51.399822],"type":"Point"}
+  "geometry": {"coordinates":[-0.078627,51.39987],"type":"Point"}
 }

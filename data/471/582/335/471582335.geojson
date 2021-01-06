@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.379634,50.992247,-0.379634,50.992247",
-    "geom:latitude": 50.992247,
-    "geom:longitude": -0.379634,
+    "geom:bbox": "-0.380569,50.992076,-0.380569,50.992076",
+    "geom:latitude": 50.992076,
+    "geom:longitude": -0.380569,
     "gp:parent_id": "34652",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404443877, 
       1126030561, 
       404227469, 
       1360698607, 
       85633159, 
-      1360698757
+      1360698757, 
+      404443877
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701676,
-    "wof:geomhash": "2caf033dcb17777ce589775e9078e246",
+    "wof:geomhash": "9d5f227b9084ca2d11b1ca4445b202f2",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471582335,
-    "wof:lastmodified": 1583786823,
+    "wof:lastmodified": 1609897770,
     "wof:name": "RH13 8PE",
     "wof:parent_id": 404443877,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.379634, 
-    50.992247, 
-    -0.379634, 
-    50.992247
+    -0.380569, 
+    50.992076, 
+    -0.380569, 
+    50.992076
   ],
-  "geometry": {"coordinates":[-0.379634,50.992247],"type":"Point"}
+  "geometry": {"coordinates":[-0.380569,50.992076],"type":"Point"}
 }

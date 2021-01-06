@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.104480,51.793499,-4.104480,51.793499",
-    "geom:latitude": 51.793499,
-    "geom:longitude": -4.10448,
+    "geom:bbox": "-4.102784,51.793817,-4.102784,51.793817",
+    "geom:latitude": 51.793817,
+    "geom:longitude": -4.102784,
     "gp:parent_id": "17435",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698639, 
+      85633159, 
       1360698785, 
       404447213, 
       1310233659, 
-      404227475, 
-      1360698639, 
-      85633159
+      404227475
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701452,
-    "wof:geomhash": "e21126f8bb729cda9bc7ba519a9c5fde",
+    "wof:geomhash": "341a408deac7151a6db1156813157ded",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504584351,
-    "wof:lastmodified": 1583786600,
+    "wof:lastmodified": 1609880770,
     "wof:name": "SA14 6EA",
     "wof:parent_id": 404447213,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.10448, 
-    51.793499, 
-    -4.10448, 
-    51.793499
+    -4.102784, 
+    51.793817, 
+    -4.102784, 
+    51.793817
   ],
-  "geometry": {"coordinates":[-4.10448,51.793499],"type":"Point"}
+  "geometry": {"coordinates":[-4.102784,51.793817],"type":"Point"}
 }

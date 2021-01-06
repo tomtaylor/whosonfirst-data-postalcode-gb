@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.537532,53.743803,-1.537532,53.743803",
-    "geom:latitude": 53.743803,
-    "geom:longitude": -1.537532,
+    "geom:bbox": "-1.537426,53.743794,-1.537426,53.743794",
+    "geom:latitude": 53.743794,
+    "geom:longitude": -1.537426,
     "gp:parent_id": "26042",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698749, 
       101750579, 
       404227469, 
       85789085, 
-      1360698609, 
-      85633159, 
-      1360698749
+      1360698609
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701189,
-    "wof:geomhash": "8c983b99362b36eccb1f949be284d7a1",
+    "wof:geomhash": "dcba74425d2ad249fc852fe76a95cbd1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 455072005,
-    "wof:lastmodified": 1583786319,
+    "wof:lastmodified": 1609871100,
     "wof:name": "LS10 4DW",
     "wof:parent_id": 404432293,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.537532, 
-    53.743803, 
-    -1.537532, 
-    53.743803
+    -1.537426, 
+    53.743794, 
+    -1.537426, 
+    53.743794
   ],
-  "geometry": {"coordinates":[-1.537532,53.743803],"type":"Point"}
+  "geometry": {"coordinates":[-1.537426,53.743794],"type":"Point"}
 }

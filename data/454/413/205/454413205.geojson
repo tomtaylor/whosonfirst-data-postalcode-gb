@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.815831,53.443179,-0.815831,53.443179",
-    "geom:latitude": 53.443179,
-    "geom:longitude": -0.815831,
+    "geom:bbox": "-0.816840,53.443300,-0.816840,53.443300",
+    "geom:latitude": 53.4433,
+    "geom:longitude": -0.81684,
     "gp:parent_id": "39802",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698809, 
-      404443059, 
       1125991147, 
       404227469, 
-      1360698583
+      1360698583, 
+      85633159, 
+      1360698809, 
+      404443059
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701551,
-    "wof:geomhash": "dc9f92d5b45197b8adb4db4125f54cdd",
+    "wof:geomhash": "e3c7623f2080a6e28cd16fb2b7d50f97",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454413205,
-    "wof:lastmodified": 1583786679,
+    "wof:lastmodified": 1609888412,
     "wof:name": "DN10 4ET",
     "wof:parent_id": 404443059,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.815831, 
-    53.443179, 
-    -0.815831, 
-    53.443179
+    -0.81684, 
+    53.4433, 
+    -0.81684, 
+    53.4433
   ],
-  "geometry": {"coordinates":[-0.815831,53.443179],"type":"Point"}
+  "geometry": {"coordinates":[-0.81684,53.4433],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.679314,52.047452,-0.679314,52.047452",
-    "geom:latitude": 52.047452,
-    "geom:longitude": -0.679314,
+    "geom:bbox": "-0.679490,52.047940,-0.679490,52.047940",
+    "geom:latitude": 52.04794,
+    "geom:longitude": -0.67949,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698913, 
-      404433647, 
       1293516785, 
       404227469, 
       1360698533, 
-      85633159
+      85633159, 
+      1360698913, 
+      404433647
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583796619,
-    "wof:geomhash": "429af7548be2ffa993ad27f09fc518a5",
+    "wof:geomhash": "ea041fc682f1f4e770fdc9a3daea11d2",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 38994876,
-    "wof:lastmodified": 1583796619,
+    "wof:lastmodified": 1609868629,
     "wof:name": "MK10 7HB",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.679314, 
-    52.047452, 
-    -0.679314, 
-    52.047452
+    -0.67949, 
+    52.04794, 
+    -0.67949, 
+    52.04794
   ],
-  "geometry": {"coordinates":[-0.679314,52.047452],"type":"Point"}
+  "geometry": {"coordinates":[-0.67949,52.04794],"type":"Point"}
 }

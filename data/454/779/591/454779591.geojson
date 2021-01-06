@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2000-12-01",
     "geom:area": 0,
-    "geom:bbox": "-0.442309,51.772414,-0.442309,51.772414",
-    "geom:latitude": 51.772414,
-    "geom:longitude": -0.442309,
+    "geom:bbox": "-0.442251,51.771576,-0.442251,51.771576",
+    "geom:latitude": 51.771576,
+    "geom:longitude": -0.442251,
     "gp:parent_id": "29703",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698559, 
       85633159, 
       1360698763, 
       101750421, 
-      404227469
+      404227469, 
+      1360698559
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701714,
-    "wof:geomhash": "1c72a8aae03352f3a04a15f633de0577",
+    "wof:geomhash": "96bbf7d490b3a0897727453948ea3d62",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454779591,
-    "wof:lastmodified": 1583786854,
+    "wof:lastmodified": 1609901457,
     "wof:name": "HP2 7QU",
     "wof:parent_id": 101750421,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.442309, 
-    51.772414, 
-    -0.442309, 
-    51.772414
+    -0.442251, 
+    51.771576, 
+    -0.442251, 
+    51.771576
   ],
-  "geometry": {"coordinates":[-0.442309,51.772414],"type":"Point"}
+  "geometry": {"coordinates":[-0.442251,51.771576],"type":"Point"}
 }

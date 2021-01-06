@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2016-11-01",
     "geom:area": 0,
-    "geom:bbox": "-0.148206,51.478948,-0.148206,51.478948",
-    "geom:latitude": 51.478948,
-    "geom:longitude": -0.148206,
+    "geom:bbox": "-0.148207,51.478921,-0.148207,51.478921",
+    "geom:latitude": 51.478921,
+    "geom:longitude": -0.148207,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      101750367, 
       404227469, 
       85785537, 
       1360698645, 
       1158857251, 
-      85633159
+      85633159, 
+      101750367
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583792221,
-    "wof:geomhash": "8120e8d7c2d84db3290651b6edf777ed",
+    "wof:geomhash": "e8a21b7f011c5f51de44fe00a3e63326",
     "wof:hierarchy": [
       {
         "borough_id": 1158857251,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712531913,
-    "wof:lastmodified": 1583792221,
+    "wof:lastmodified": 1609870040,
     "wof:name": "SW11 8NP",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.148206, 
-    51.478948, 
-    -0.148206, 
-    51.478948
+    -0.148207, 
+    51.478921, 
+    -0.148207, 
+    51.478921
   ],
-  "geometry": {"coordinates":[-0.148206,51.478948],"type":"Point"}
+  "geometry": {"coordinates":[-0.148207,51.478921],"type":"Point"}
 }

@@ -3,11 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "uuuu",
-    "edtf:inception": "2013-05-01",
+    "edtf:inception": "2020-08-01",
     "geom:area": 0,
-    "geom:bbox": "-0.457549,51.373412,-0.457549,51.373412",
-    "geom:latitude": 51.373412,
-    "geom:longitude": -0.457549,
+    "geom:bbox": "-0.457529,51.373411,-0.457529,51.373411",
+    "geom:latitude": 51.373411,
+    "geom:longitude": -0.457529,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1126060415, 
       404227469, 
       1360698599, 
       85633159, 
       1360698887, 
-      1360817207, 
-      1126060415
+      1360817207
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468885082,
-    "wof:geomhash": "be7f7e4165cdd866f1c67e2f77189ddb",
+    "wof:geomhash": "b7299da0236e55b767fdca1999d3ac61",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 874472437,
-    "wof:lastmodified": 1583786309,
+    "wof:lastmodified": 1609870644,
     "wof:name": "KT13 3GS",
     "wof:parent_id": 404438911,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.457549, 
-    51.373412, 
-    -0.457549, 
-    51.373412
+    -0.457529, 
+    51.373411, 
+    -0.457529, 
+    51.373411
   ],
-  "geometry": {"coordinates":[-0.457549,51.373412],"type":"Point"}
+  "geometry": {"coordinates":[-0.457529,51.373411],"type":"Point"}
 }

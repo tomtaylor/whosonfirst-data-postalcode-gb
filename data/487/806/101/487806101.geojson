@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.367175,51.088027,-3.367175,51.088027",
-    "geom:latitude": 51.088027,
-    "geom:longitude": -3.367175,
+    "geom:bbox": "-3.367009,51.088695,-3.367009,51.088695",
+    "geom:latitude": 51.088695,
+    "geom:longitude": -3.367009,
     "gp:parent_id": "13771",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      404441045, 
       1125998671, 
       404227469, 
       1360698589, 
       85633159, 
-      1360699059, 
-      404441045
+      1360699059
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701176,
-    "wof:geomhash": "604f0718ff25c1ba0a7d35b6a6900fe5",
+    "wof:geomhash": "cb2d4835e08ba9bb1ea4545ad43373d5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487806101,
-    "wof:lastmodified": 1583786279,
+    "wof:lastmodified": 1609880915,
     "wof:name": "TA23 0LW",
     "wof:parent_id": 404441045,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.367175, 
-    51.088027, 
-    -3.367175, 
-    51.088027
+    -3.367009, 
+    51.088695, 
+    -3.367009, 
+    51.088695
   ],
-  "geometry": {"coordinates":[-3.367175,51.088027],"type":"Point"}
+  "geometry": {"coordinates":[-3.367009,51.088695],"type":"Point"}
 }

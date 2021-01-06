@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.612307,54.486744,-0.612307,54.486744",
-    "geom:latitude": 54.486744,
-    "geom:longitude": -0.612307,
+    "geom:bbox": "-0.612367,54.486790,-0.612367,54.486790",
+    "geom:latitude": 54.48679,
+    "geom:longitude": -0.612367,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,9 +18,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404439221, 
       101874191, 
-      1360698619
+      404227469, 
+      1360698619, 
+      85633159, 
+      1360698753, 
+      404439221
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -28,16 +31,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701188,
-    "wof:geomhash": "0b880400583be257845a793b9d0c4221",
+    "wof:geomhash": "ccd7c81ace46011086a6a99d38f03e3b",
     "wof:hierarchy": [
       {
+        "country_id": 85633159,
+        "county_id": 1360698753,
         "localadmin_id": 404439221,
         "locality_id": 101874191,
+        "macroregion_id": 404227469,
         "region_id": 1360698619
       }
     ],
     "wof:id": 488238349,
-    "wof:lastmodified": 1595730945,
+    "wof:lastmodified": 1609881780,
     "wof:name": "YO22 4BE",
     "wof:parent_id": 101874191,
     "wof:placetype": "postalcode",
@@ -47,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.612307, 
-    54.486744, 
-    -0.612307, 
-    54.486744
+    -0.612367, 
+    54.48679, 
+    -0.612367, 
+    54.48679
   ],
-  "geometry": {"coordinates":[-0.612307,54.486744],"type":"Point"}
+  "geometry": {"coordinates":[-0.612367,54.48679],"type":"Point"}
 }

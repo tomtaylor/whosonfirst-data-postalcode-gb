@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "uuuu",
-    "edtf:inception": "2020-02-01",
+    "edtf:inception": "2020-07-01",
     "geom:area": 0,
     "geom:bbox": "-0.584601,51.508272,-0.584601,51.508272",
     "geom:latitude": 51.508272,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698529, 
       85633159, 
       1360699061, 
-      101750381, 
-      404227469, 
-      1360698529
+      101750381
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 437510643,
-    "wof:lastmodified": 1595713168,
+    "wof:lastmodified": 1609876040,
     "wof:name": "SL1 0BF",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

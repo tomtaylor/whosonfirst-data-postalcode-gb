@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2007-07-01",
     "geom:area": 0,
-    "geom:bbox": "-2.159019,53.395636,-2.159019,53.395636",
-    "geom:latitude": 53.395636,
+    "geom:bbox": "-2.159019,53.395591,-2.159019,53.395591",
+    "geom:latitude": 53.395591,
     "geom:longitude": -2.159019,
     "gp:parent_id": "12695845",
     "iso:country": "GB",
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698879, 
       101750527, 
       404227469, 
-      1360698555
+      1360698555, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701370,
-    "wof:geomhash": "d547acc48831ad3d719f164adb41ea47",
+    "wof:geomhash": "36d38295b4547b1f77ee3ee69b1ce5dc",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488358827,
-    "wof:lastmodified": 1583786570,
+    "wof:lastmodified": 1609888045,
     "wof:name": "SK3 8JY",
     "wof:parent_id": 101750527,
     "wof:placetype": "postalcode",
@@ -53,9 +53,9 @@
   },
   "bbox": [
     -2.159019, 
-    53.395636, 
+    53.395591, 
     -2.159019, 
-    53.395636
+    53.395591
   ],
-  "geometry": {"coordinates":[-2.159019,53.395636],"type":"Point"}
+  "geometry": {"coordinates":[-2.159019,53.395591],"type":"Point"}
 }

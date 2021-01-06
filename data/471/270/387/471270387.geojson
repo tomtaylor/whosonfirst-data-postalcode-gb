@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.255332,51.626484,-0.255332,51.626484",
-    "geom:latitude": 51.626484,
-    "geom:longitude": -0.255332,
+    "geom:bbox": "-0.255060,51.626417,-0.255060,51.626417",
+    "geom:latitude": 51.626417,
+    "geom:longitude": -0.25506,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      85792297, 
-      1360698645, 
       1158857285, 
       85633159, 
       101750367, 
-      404227469
+      404227469, 
+      85792297, 
+      1360698645
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701454,
-    "wof:geomhash": "a9245bc594dcf3eb357778da335ff4c9",
+    "wof:geomhash": "6296b7feeea388623481cbc4a8f97376",
     "wof:hierarchy": [
       {
         "borough_id": 1158857285,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471270387,
-    "wof:lastmodified": 1583786606,
+    "wof:lastmodified": 1609883642,
     "wof:name": "NW7 3HR",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.255332, 
-    51.626484, 
-    -0.255332, 
-    51.626484
+    -0.25506, 
+    51.626417, 
+    -0.25506, 
+    51.626417
   ],
-  "geometry": {"coordinates":[-0.255332,51.626484],"type":"Point"}
+  "geometry": {"coordinates":[-0.25506,51.626417],"type":"Point"}
 }

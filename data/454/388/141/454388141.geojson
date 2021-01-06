@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.943390,54.389207,-1.943390,54.389207",
-    "geom:latitude": 54.389207,
-    "geom:longitude": -1.94339,
+    "geom:bbox": "-1.943442,54.389262,-1.943442,54.389262",
+    "geom:latitude": 54.389262,
+    "geom:longitude": -1.943442,
     "gp:parent_id": "33098",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698753, 
-      404439469, 
-      1360755461, 
       404227469, 
       1360698619, 
-      85633159
+      85633159, 
+      1360698753, 
+      404439469, 
+      1360755461
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701535,
-    "wof:geomhash": "e149c83108d12f6f2ce7fdc597228adb",
+    "wof:geomhash": "78a55c10be04b7903354e00913f9d895",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454388141,
-    "wof:lastmodified": 1583786663,
+    "wof:lastmodified": 1609886961,
     "wof:name": "DL11 6SY",
     "wof:parent_id": 404439469,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.94339, 
-    54.389207, 
-    -1.94339, 
-    54.389207
+    -1.943442, 
+    54.389262, 
+    -1.943442, 
+    54.389262
   ],
-  "geometry": {"coordinates":[-1.94339,54.389207],"type":"Point"}
+  "geometry": {"coordinates":[-1.943442,54.389262],"type":"Point"}
 }

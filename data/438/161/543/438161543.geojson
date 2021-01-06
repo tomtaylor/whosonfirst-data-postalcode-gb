@@ -2,7 +2,7 @@
   "id": 438161543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-06-01",
     "edtf:inception": "2002-05-01",
     "geom:area": 0,
     "geom:bbox": "-1.984908,50.797950,-1.984908,50.797950",
@@ -10,7 +10,7 @@
     "geom:longitude": -1.984908,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000059",
@@ -18,12 +18,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404441477, 
-      101852349, 
-      404227469, 
       1360698545, 
       85633159, 
-      1360698745
+      1360698745, 
+      404441477, 
+      101852349, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 438161543,
-    "wof:lastmodified": 1583786486,
+    "wof:lastmodified": 1609877534,
     "wof:name": "BH21 7WG",
     "wof:parent_id": 101852349,
     "wof:placetype": "postalcode",

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-06-01",
     "geom:area": 0,
-    "geom:bbox": "-0.248495,52.538631,-0.248495,52.538631",
-    "geom:latitude": 52.538631,
-    "geom:longitude": -0.248495,
+    "geom:bbox": "-0.248401,52.538405,-0.248401,52.538405",
+    "geom:latitude": 52.538405,
+    "geom:longitude": -0.248401,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698773, 
       101750461, 
       404227469, 
-      1360698535
+      1360698535, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583788221,
-    "wof:geomhash": "73e9bad8c36fb3508a38878936d3f8f8",
+    "wof:geomhash": "6cbbfe6c306ebbbd06d84fd671c35454",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1712442139,
-    "wof:lastmodified": 1583788221,
+    "wof:lastmodified": 1609868813,
     "wof:name": "PE7 8RN",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.248495, 
-    52.538631, 
-    -0.248495, 
-    52.538631
+    -0.248401, 
+    52.538405, 
+    -0.248401, 
+    52.538405
   ],
-  "geometry": {"coordinates":[-0.248495,52.538631],"type":"Point"}
+  "geometry": {"coordinates":[-0.248401,52.538405],"type":"Point"}
 }

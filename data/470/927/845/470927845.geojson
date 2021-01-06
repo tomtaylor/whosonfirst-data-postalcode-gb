@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.484449,51.372213,0.484449,51.372213",
-    "geom:latitude": 51.372213,
-    "geom:longitude": 0.484449,
+    "geom:bbox": "0.484394,51.372241,0.484394,51.372241",
+    "geom:latitude": 51.372241,
+    "geom:longitude": 0.484394,
     "gp:parent_id": "33428",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698565, 
-      85633159, 
       1360699105, 
       1360817083, 
       101750327, 
-      404227469
+      404227469, 
+      1360698565, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701305,
-    "wof:geomhash": "d8988fe83ca8623471a8f430d40bbaa5",
+    "wof:geomhash": "3478b14f44e8aed6c089c48542a8750a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470927845,
-    "wof:lastmodified": 1595718994,
+    "wof:lastmodified": 1609874261,
     "wof:name": "ME1 3JL",
     "wof:parent_id": 101750331,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.484449, 
-    51.372213, 
-    0.484449, 
-    51.372213
+    0.484394, 
+    51.372241, 
+    0.484394, 
+    51.372241
   ],
-  "geometry": {"coordinates":[0.484449,51.372213],"type":"Point"}
+  "geometry": {"coordinates":[0.484394,51.372241],"type":"Point"}
 }

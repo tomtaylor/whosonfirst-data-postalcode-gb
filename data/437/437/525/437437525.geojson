@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.664753,52.817124,-1.664753,52.817124",
-    "geom:latitude": 52.817124,
-    "geom:longitude": -1.664753,
+    "geom:bbox": "-1.664484,52.817286,-1.664484,52.817286",
+    "geom:latitude": 52.817286,
+    "geom:longitude": -1.664484,
     "gp:parent_id": "14696",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360755129, 
-      404227469, 
-      1360698593, 
       85633159, 
       1360698947, 
-      404430913
+      404430913, 
+      1360755129, 
+      404227469, 
+      1360698593
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701173,
-    "wof:geomhash": "c768d43637ec6738b768e678f17a95f0",
+    "wof:geomhash": "0d9b60914b386c3b1be9eafd66fd5418",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 437437525,
-    "wof:lastmodified": 1583786293,
+    "wof:lastmodified": 1609870796,
     "wof:name": "DE13 0SN",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.664753, 
-    52.817124, 
-    -1.664753, 
-    52.817124
+    -1.664484, 
+    52.817286, 
+    -1.664484, 
+    52.817286
   ],
-  "geometry": {"coordinates":[-1.664753,52.817124],"type":"Point"}
+  "geometry": {"coordinates":[-1.664484,52.817286],"type":"Point"}
 }

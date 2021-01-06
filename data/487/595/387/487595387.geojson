@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2000-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.464035,50.944622,-1.464035,50.944622",
-    "geom:latitude": 50.944622,
-    "geom:longitude": -1.464035,
+    "geom:bbox": "-1.463740,50.944288,-1.463740,50.944288",
+    "geom:latitude": 50.944288,
+    "geom:longitude": -1.46374,
     "gp:parent_id": "30749",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698827, 
       404448069, 
       1360756303, 
       404227469, 
-      1360698557
+      1360698557, 
+      85633159, 
+      1360698827
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701077,
-    "wof:geomhash": "c74852c10905630ec5abfba417344589",
+    "wof:geomhash": "4e1130a914206a40c9973a0666f2e993",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487595387,
-    "wof:lastmodified": 1583786175,
+    "wof:lastmodified": 1609868764,
     "wof:name": "SO16 0YL",
     "wof:parent_id": 101913905,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.464035, 
-    50.944622, 
-    -1.464035, 
-    50.944622
+    -1.46374, 
+    50.944288, 
+    -1.46374, 
+    50.944288
   ],
-  "geometry": {"coordinates":[-1.464035,50.944622],"type":"Point"}
+  "geometry": {"coordinates":[-1.46374,50.944288],"type":"Point"}
 }

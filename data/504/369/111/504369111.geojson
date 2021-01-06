@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.187669,55.752449,-3.187669,55.752449",
-    "geom:latitude": 55.752449,
-    "geom:longitude": -3.187669,
+    "geom:bbox": "-3.187232,55.752217,-3.187232,55.752217",
+    "geom:latitude": 55.752217,
+    "geom:longitude": -3.187232,
     "gp:parent_id": "12696186",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699015, 
-      404442083, 
       404227471, 
       1360698653, 
-      85633159
+      85633159, 
+      1360699015, 
+      404442083
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701073,
-    "wof:geomhash": "af10c181a73721eee695a3a9fab19ea2",
+    "wof:geomhash": "f106bc043f1dcf7a8faaa9e11b524ff7",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504369111,
-    "wof:lastmodified": 1583786378,
+    "wof:lastmodified": 1609868712,
     "wof:name": "EH45 8QY",
     "wof:parent_id": 404442083,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.187669, 
-    55.752449, 
-    -3.187669, 
-    55.752449
+    -3.187232, 
+    55.752217, 
+    -3.187232, 
+    55.752217
   ],
-  "geometry": {"coordinates":[-3.187669,55.752449],"type":"Point"}
+  "geometry": {"coordinates":[-3.187232,55.752217],"type":"Point"}
 }

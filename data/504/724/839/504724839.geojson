@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2002-06-01",
     "geom:area": 0,
-    "geom:bbox": "-6.197290,55.636672,-6.197290,55.636672",
-    "geom:latitude": 55.636672,
-    "geom:longitude": -6.19729,
+    "geom:bbox": "-6.197866,55.636409,-6.197866,55.636409",
+    "geom:latitude": 55.636409,
+    "geom:longitude": -6.197866,
     "gp:parent_id": "12696185",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698863, 
       404439789, 
       404227471, 
-      1360698695
+      1360698695, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701523,
-    "wof:geomhash": "81eecb2b4f4a7d27fbbe9ec3b592ed02",
+    "wof:geomhash": "49acf9613d3c875df90f0d70159d4c63",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504724839,
-    "wof:lastmodified": 1583786683,
+    "wof:lastmodified": 1609887556,
     "wof:name": "PA42 7DH",
     "wof:parent_id": 404439789,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -6.19729, 
-    55.636672, 
-    -6.19729, 
-    55.636672
+    -6.197866, 
+    55.636409, 
+    -6.197866, 
+    55.636409
   ],
-  "geometry": {"coordinates":[-6.19729,55.636672],"type":"Point"}
+  "geometry": {"coordinates":[-6.197866,55.636409],"type":"Point"}
 }

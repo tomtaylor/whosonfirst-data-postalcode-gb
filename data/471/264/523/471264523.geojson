@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.222610,51.588942,-0.222610,51.588942",
-    "geom:latitude": 51.588942,
-    "geom:longitude": -0.22261,
+    "geom:bbox": "-0.222568,51.588999,-0.222568,51.588999",
+    "geom:latitude": 51.588999,
+    "geom:longitude": -0.222568,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      101750367, 
+      404227469, 
       85788129, 
       1360698645, 
       1158857285, 
-      85633159, 
-      101750367, 
-      404227469
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701449,
-    "wof:geomhash": "194440886b9a359387733c496b95ed22",
+    "wof:geomhash": "e3fa2504cb7493deb25bae6e5430b46b",
     "wof:hierarchy": [
       {
         "borough_id": 1158857285,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471264523,
-    "wof:lastmodified": 1583786603,
+    "wof:lastmodified": 1609883312,
     "wof:name": "NW4 4DD",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.22261, 
-    51.588942, 
-    -0.22261, 
-    51.588942
+    -0.222568, 
+    51.588999, 
+    -0.222568, 
+    51.588999
   ],
-  "geometry": {"coordinates":[-0.22261,51.588942],"type":"Point"}
+  "geometry": {"coordinates":[-0.222568,51.588999],"type":"Point"}
 }

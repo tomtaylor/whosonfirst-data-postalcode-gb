@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1985-04-01",
     "geom:area": 0,
-    "geom:bbox": "-0.973970,53.205516,-0.973970,53.205516",
-    "geom:latitude": 53.205516,
-    "geom:longitude": -0.97397,
+    "geom:bbox": "-0.974770,53.205280,-0.974770,53.205280",
+    "geom:latitude": 53.20528,
+    "geom:longitude": -0.97477,
     "gp:parent_id": "13359",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698809, 
       404451633, 
       1326565175, 
       404227469, 
       1360698583, 
-      85633159
+      85633159, 
+      1360698809
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701325,
-    "wof:geomhash": "33ecb82c8298f0ec4656888dfe732d07",
+    "wof:geomhash": "7509479cc6f249fd92b0559dee6f2bee",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471131187,
-    "wof:lastmodified": 1595720273,
+    "wof:lastmodified": 1609875483,
     "wof:name": "NG22 9LE",
     "wof:parent_id": 404451633,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.97397, 
-    53.205516, 
-    -0.97397, 
-    53.205516
+    -0.97477, 
+    53.20528, 
+    -0.97477, 
+    53.20528
   ],
-  "geometry": {"coordinates":[-0.97397,53.205516],"type":"Point"}
+  "geometry": {"coordinates":[-0.97477,53.20528],"type":"Point"}
 }

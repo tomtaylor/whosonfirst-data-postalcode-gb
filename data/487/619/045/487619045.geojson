@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1994-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.540687,50.754791,-1.540687,50.754791",
-    "geom:latitude": 50.754791,
-    "geom:longitude": -1.540687,
+    "geom:bbox": "-1.540351,50.754358,-1.540351,50.754358",
+    "geom:latitude": 50.754358,
+    "geom:longitude": -1.540351,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698557, 
       85633159, 
       1360698827, 
       404451169, 
-      1360756307
+      1360756307, 
+      404227469, 
+      1360698557
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701087,
-    "wof:geomhash": "5028d8f7150f7323743b99ea93c0aac8",
+    "wof:geomhash": "f7c104c44b6102548ab7c8f437360f37",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 487619045,
-    "wof:lastmodified": 1583786184,
+    "wof:lastmodified": 1609869378,
     "wof:name": "SO41 3PR",
     "wof:parent_id": 101852443,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.540687, 
-    50.754791, 
-    -1.540687, 
-    50.754791
+    -1.540351, 
+    50.754358, 
+    -1.540351, 
+    50.754358
   ],
-  "geometry": {"coordinates":[-1.540687,50.754791],"type":"Point"}
+  "geometry": {"coordinates":[-1.540351,50.754358],"type":"Point"}
 }

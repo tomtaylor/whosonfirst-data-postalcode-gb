@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.979489,51.351141,-2.979489,51.351141",
-    "geom:latitude": 51.351141,
-    "geom:longitude": -2.979489,
+    "geom:bbox": "-2.979771,51.351252,-2.979771,51.351252",
+    "geom:latitude": 51.351252,
+    "geom:longitude": -2.979771,
     "gp:parent_id": "40016",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698589, 
+      85633159, 
       1360699111, 
       404444501, 
       101751595, 
-      404227469, 
-      1360698589, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701472,
-    "wof:geomhash": "a3d29f10087e9a95761370a13ff9323f",
+    "wof:geomhash": "8b808e9e4922370b7d9a8a690b3cea62",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438283831,
-    "wof:lastmodified": 1583786609,
+    "wof:lastmodified": 1609883544,
     "wof:name": "BS23 2AA",
     "wof:parent_id": 101751595,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.979489, 
-    51.351141, 
-    -2.979489, 
-    51.351141
+    -2.979771, 
+    51.351252, 
+    -2.979771, 
+    51.351252
   ],
-  "geometry": {"coordinates":[-2.979489,51.351141],"type":"Point"}
+  "geometry": {"coordinates":[-2.979771,51.351252],"type":"Point"}
 }

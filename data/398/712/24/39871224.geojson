@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2016-06-01",
     "geom:area": 0,
-    "geom:bbox": "-3.780506,56.108323,-3.780506,56.108323",
-    "geom:latitude": 56.108323,
-    "geom:longitude": -3.780506,
+    "geom:bbox": "-3.781043,56.108099,-3.781043,56.108099",
+    "geom:latitude": 56.108099,
+    "geom:longitude": -3.781043,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699079, 
       404443383, 
       404227471, 
-      1360698657
+      1360698657, 
+      85633159, 
+      1360699079
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583806276,
-    "wof:geomhash": "464f32dd800eb586e10706f5ac4bc460",
+    "wof:geomhash": "4997f24eef79de3c14714ea0f919aee8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 39871224,
-    "wof:lastmodified": 1595711813,
+    "wof:lastmodified": 1609868913,
     "wof:name": "FK10 1SH",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.780506, 
-    56.108323, 
-    -3.780506, 
-    56.108323
+    -3.781043, 
+    56.108099, 
+    -3.781043, 
+    56.108099
   ],
-  "geometry": {"coordinates":[-3.780506,56.108323],"type":"Point"}
+  "geometry": {"coordinates":[-3.781043,56.108099],"type":"Point"}
 }

@@ -6,9 +6,9 @@
     "edtf:inception": "2001-06-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.097177,51.518140,-0.097177,51.518140",
-    "geom:latitude": 51.51814,
-    "geom:longitude": -0.097177,
+    "geom:bbox": "-0.097312,51.518691,-0.097312,51.518691",
+    "geom:latitude": 51.518691,
+    "geom:longitude": -0.097312,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698643, 
       1158857257, 
       85633159, 
       101750367, 
       404227469, 
-      85861767
+      85861767, 
+      1360698643
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701627,
-    "wof:geomhash": "b63eaff9909469bd01e2665dfa3f7aa6",
+    "wof:geomhash": "a679f47bb293845cc1dea6e2f72b9151",
     "wof:hierarchy": [
       {
         "borough_id": 1158857257,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454533827,
-    "wof:lastmodified": 1583786757,
+    "wof:lastmodified": 1609893585,
     "wof:name": "EC1A 4HT",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.097177, 
-    51.51814, 
-    -0.097177, 
-    51.51814
+    -0.097312, 
+    51.518691, 
+    -0.097312, 
+    51.518691
   ],
-  "geometry": {"coordinates":[-0.097177,51.51814],"type":"Point"}
+  "geometry": {"coordinates":[-0.097312,51.518691],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.145142,56.174077,-4.145142,56.174077",
-    "geom:latitude": 56.174077,
-    "geom:longitude": -4.145142,
+    "geom:bbox": "-4.143069,56.174473,-4.143069,56.174473",
+    "geom:latitude": 56.174473,
+    "geom:longitude": -4.143069,
     "gp:parent_id": "37340",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699003, 
       404433721, 
       404227471, 
-      1360698655
+      1360698655, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701120,
-    "wof:geomhash": "ea9c26783d817c66c86932db6fdfe211",
+    "wof:geomhash": "21d6deaf74128615f85dbb7c988a5ffd",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504389029,
-    "wof:lastmodified": 1583786214,
+    "wof:lastmodified": 1609869167,
     "wof:name": "FK8 3PL",
     "wof:parent_id": 404433721,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.145142, 
-    56.174077, 
-    -4.145142, 
-    56.174077
+    -4.143069, 
+    56.174473, 
+    -4.143069, 
+    56.174473
   ],
-  "geometry": {"coordinates":[-4.145142,56.174077],"type":"Point"}
+  "geometry": {"coordinates":[-4.143069,56.174473],"type":"Point"}
 }

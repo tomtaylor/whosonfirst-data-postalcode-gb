@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.097704,55.948756,-3.097704,55.948756",
-    "geom:latitude": 55.948756,
-    "geom:longitude": -3.097704,
+    "geom:bbox": "-3.097708,55.948752,-3.097708,55.948752",
+    "geom:latitude": 55.948752,
+    "geom:longitude": -3.097708,
     "gp:parent_id": "12696195",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227471, 
-      85788489, 
       1360698673, 
       85633159, 
       1360698761, 
       404437279, 
-      101750629
+      101750629, 
+      404227471, 
+      85788489
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701413,
-    "wof:geomhash": "45159b5602aa83793ea93dc0532b3c4c",
+    "wof:geomhash": "56b2e7e374031a816caf98c7f1fe8596",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 488400727,
-    "wof:lastmodified": 1583786612,
+    "wof:lastmodified": 1609890040,
     "wof:name": "EH15 2HB",
     "wof:parent_id": 101750629,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.097704, 
-    55.948756, 
-    -3.097704, 
-    55.948756
+    -3.097708, 
+    55.948752, 
+    -3.097708, 
+    55.948752
   ],
-  "geometry": {"coordinates":[-3.097704,55.948756],"type":"Point"}
+  "geometry": {"coordinates":[-3.097708,55.948752],"type":"Point"}
 }

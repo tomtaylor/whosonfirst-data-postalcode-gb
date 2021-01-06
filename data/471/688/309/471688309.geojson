@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.478503,53.321024,-1.478503,53.321024",
-    "geom:latitude": 53.321024,
-    "geom:longitude": -1.478503,
+    "geom:bbox": "-1.478548,53.320970,-1.478548,53.320970",
+    "geom:latitude": 53.32097,
+    "geom:longitude": -1.478548,
     "gp:parent_id": "34503",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      101750529, 
       404227469, 
       85787777, 
       1360698591, 
       85633159, 
-      1360699075
+      1360699075, 
+      101750529
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701701,
-    "wof:geomhash": "c9dd2606a6943f38bf6b4e08323d414e",
+    "wof:geomhash": "544cacaa78b7d44ec997209e4a50f5d4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471688309,
-    "wof:lastmodified": 1583786884,
+    "wof:lastmodified": 1609900754,
     "wof:name": "S8 7LQ",
     "wof:parent_id": 101750529,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.478503, 
-    53.321024, 
-    -1.478503, 
-    53.321024
+    -1.478548, 
+    53.32097, 
+    -1.478548, 
+    53.32097
   ],
-  "geometry": {"coordinates":[-1.478503,53.321024],"type":"Point"}
+  "geometry": {"coordinates":[-1.478548,53.32097],"type":"Point"}
 }

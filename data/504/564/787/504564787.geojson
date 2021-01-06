@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-5.433864,56.495281,-5.433864,56.495281",
-    "geom:latitude": 56.495281,
-    "geom:longitude": -5.433864,
+    "geom:bbox": "-5.435630,56.495224,-5.435630,56.495224",
+    "geom:latitude": 56.495224,
+    "geom:longitude": -5.43563,
     "gp:parent_id": "26011",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      404227471, 
+      1360698695, 
       85633159, 
       1360698863, 
-      404439789, 
-      404227471, 
-      1360698695
+      404439789
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701431,
-    "wof:geomhash": "3a1d30755f49f1339568b9675b47eaa4",
+    "wof:geomhash": "dc34d48e1f5ce65a951b8f1a1d44b09c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504564787,
-    "wof:lastmodified": 1583786575,
+    "wof:lastmodified": 1609879623,
     "wof:name": "PA37 1QT",
     "wof:parent_id": 404439789,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -5.433864, 
-    56.495281, 
-    -5.433864, 
-    56.495281
+    -5.43563, 
+    56.495224, 
+    -5.43563, 
+    56.495224
   ],
-  "geometry": {"coordinates":[-5.433864,56.495281],"type":"Point"}
+  "geometry": {"coordinates":[-5.43563,56.495224],"type":"Point"}
 }

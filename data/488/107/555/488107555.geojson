@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2000-12-01",
     "geom:area": 0,
-    "geom:bbox": "-0.392726,51.673966,-0.392726,51.673966",
-    "geom:latitude": 51.673966,
-    "geom:longitude": -0.392726,
+    "geom:bbox": "-0.392367,51.673916,-0.392367,51.673916",
+    "geom:latitude": 51.673916,
+    "geom:longitude": -0.392367,
     "gp:parent_id": "39321",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698763, 
-      101751603, 
       404227469, 
       1360698559, 
-      85633159
+      85633159, 
+      1360698763, 
+      101751603
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701251,
-    "wof:geomhash": "a6de18805b7368b8a21cdba048efb2e0",
+    "wof:geomhash": "57f18de5c1c3e5bbc62089a7f1fa5e3e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488107555,
-    "wof:lastmodified": 1595729001,
+    "wof:lastmodified": 1609873468,
     "wof:name": "WD24 7UF",
     "wof:parent_id": 101751603,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.392726, 
-    51.673966, 
-    -0.392726, 
-    51.673966
+    -0.392367, 
+    51.673916, 
+    -0.392367, 
+    51.673916
   ],
-  "geometry": {"coordinates":[-0.392726,51.673966],"type":"Point"}
+  "geometry": {"coordinates":[-0.392367,51.673916],"type":"Point"}
 }

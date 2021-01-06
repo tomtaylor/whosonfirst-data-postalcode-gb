@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.260598,55.896265,-4.260598,55.896265",
-    "geom:latitude": 55.896265,
-    "geom:longitude": -4.260598,
+    "geom:bbox": "-4.260823,55.896009,-4.260823,55.896009",
+    "geom:latitude": 55.896009,
+    "geom:longitude": -4.260823,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1175612707, 
-      404227471, 
-      85861545, 
       1360698707, 
       85633159, 
       1360698797, 
-      404430153
+      404430153, 
+      1175612707, 
+      404227471, 
+      85861545
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701413,
-    "wof:geomhash": "4d4e17518306af69043a18b229aa2048",
+    "wof:geomhash": "78d6c1b49d163300a593d8ad1af3e758",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 488401111,
-    "wof:lastmodified": 1583786613,
+    "wof:lastmodified": 1609890085,
     "wof:name": "G22 7XS",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.260598, 
-    55.896265, 
-    -4.260598, 
-    55.896265
+    -4.260823, 
+    55.896009, 
+    -4.260823, 
+    55.896009
   ],
-  "geometry": {"coordinates":[-4.260598,55.896265],"type":"Point"}
+  "geometry": {"coordinates":[-4.260823,55.896009],"type":"Point"}
 }

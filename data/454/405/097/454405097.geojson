@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.626796,54.596252,-1.626796,54.596252",
-    "geom:latitude": 54.596252,
-    "geom:longitude": -1.626796,
+    "geom:bbox": "-1.626697,54.596217,-1.626697,54.596217",
+    "geom:latitude": 54.596217,
+    "geom:longitude": -1.626697,
     "gp:parent_id": "22924",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698889, 
-      404431445, 
       1125907683, 
       404227469, 
       1360698621, 
-      85633159
+      85633159, 
+      1360698889, 
+      404431445
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701544,
-    "wof:geomhash": "213f5f8614fa4ec6bf7a926a5cb89e36",
+    "wof:geomhash": "339e1ed9c8fe367f3505f4248fd40722",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454405097,
-    "wof:lastmodified": 1583786670,
+    "wof:lastmodified": 1609887931,
     "wof:name": "DL5 6RU",
     "wof:parent_id": 404431445,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.626796, 
-    54.596252, 
-    -1.626796, 
-    54.596252
+    -1.626697, 
+    54.596217, 
+    -1.626697, 
+    54.596217
   ],
-  "geometry": {"coordinates":[-1.626796,54.596252],"type":"Point"}
+  "geometry": {"coordinates":[-1.626697,54.596217],"type":"Point"}
 }

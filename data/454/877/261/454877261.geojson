@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.288848,52.351124,1.288848,52.351124",
-    "geom:latitude": 52.351124,
-    "geom:longitude": 1.288848,
+    "geom:bbox": "1.288833,52.351116,1.288833,52.351116",
+    "geom:latitude": 52.351116,
+    "geom:longitude": 1.288833,
     "gp:parent_id": "40652",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698595, 
-      85633159, 
       1360699041, 
       404449693, 
       1226080505, 
-      404227469
+      404227469, 
+      1360698595, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701744,
-    "wof:geomhash": "ea9e209cecfd6ba04e1ec92423fb0633",
+    "wof:geomhash": "3022acf114e2c0cd12baba463e121196",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454877261,
-    "wof:lastmodified": 1583786874,
+    "wof:lastmodified": 1609904020,
     "wof:name": "IP21 5QS",
     "wof:parent_id": 404449693,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.288848, 
-    52.351124, 
-    1.288848, 
-    52.351124
+    1.288833, 
+    52.351116, 
+    1.288833, 
+    52.351116
   ],
-  "geometry": {"coordinates":[1.288848,52.351124],"type":"Point"}
+  "geometry": {"coordinates":[1.288833,52.351116],"type":"Point"}
 }

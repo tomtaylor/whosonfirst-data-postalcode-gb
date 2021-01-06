@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.575426,51.416800,-2.575426,51.416800",
-    "geom:latitude": 51.4168,
-    "geom:longitude": -2.575426,
+    "geom:bbox": "-2.575355,51.416899,-2.575355,51.416899",
+    "geom:latitude": 51.416899,
+    "geom:longitude": -2.575355,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,18 +18,18 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698747, 
       404431949, 
       1175612699, 
       404227469, 
       85788133, 
-      1360698531
+      1360698531, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583787531,
-    "wof:geomhash": "d60a268640788c36051ea80c42bea0b8",
+    "wof:geomhash": "3bb463887efa0be8b91280bc82b5fac5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 1712426601,
-    "wof:lastmodified": 1583787531,
+    "wof:lastmodified": 1609868760,
     "wof:name": "BS14 0FU",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.575426, 
-    51.4168, 
-    -2.575426, 
-    51.4168
+    -2.575355, 
+    51.416899, 
+    -2.575355, 
+    51.416899
   ],
-  "geometry": {"coordinates":[-2.575426,51.4168],"type":"Point"}
+  "geometry": {"coordinates":[-2.575355,51.416899],"type":"Point"}
 }

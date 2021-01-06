@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.153239,54.850269,-3.153239,54.850269",
-    "geom:latitude": 54.850269,
-    "geom:longitude": -3.153239,
+    "geom:bbox": "-3.146880,54.850003,-3.146880,54.850003",
+    "geom:latitude": 54.850003,
+    "geom:longitude": -3.14688,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698877, 
-      404439985, 
       1360755849, 
       404227469, 
       1360698721, 
-      85633159
+      85633159, 
+      1360698877, 
+      404439985
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701146,
-    "wof:geomhash": "50a8cbe1b3a34fd95280e4d9e88894f0",
+    "wof:geomhash": "35c5ecce8a702283926b1049491554f5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454071967,
-    "wof:lastmodified": 1583786289,
+    "wof:lastmodified": 1609869588,
     "wof:name": "CA7 0NT",
     "wof:parent_id": 404439985,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.153239, 
-    54.850269, 
-    -3.153239, 
-    54.850269
+    -3.14688, 
+    54.850003, 
+    -3.14688, 
+    54.850003
   ],
-  "geometry": {"coordinates":[-3.153239,54.850269],"type":"Point"}
+  "geometry": {"coordinates":[-3.14688,54.850003],"type":"Point"}
 }

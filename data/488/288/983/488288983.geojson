@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2007-07-01",
     "geom:area": 0,
-    "geom:bbox": "-1.444701,52.907274,-1.444701,52.907274",
-    "geom:latitude": 52.907274,
-    "geom:longitude": -1.444701,
+    "geom:bbox": "-1.444582,52.907282,-1.444582,52.907282",
+    "geom:latitude": 52.907282,
+    "geom:longitude": -1.444582,
     "gp:parent_id": "12696153",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698539, 
       85633159, 
       1360699093, 
       101750489, 
-      404227469
+      404227469, 
+      1360698539
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701307,
-    "wof:geomhash": "458b71c98a558e31f39b688eccec8f31",
+    "wof:geomhash": "3539421465aed4f1f98fa30121cb9eaf",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488288983,
-    "wof:lastmodified": 1583786495,
+    "wof:lastmodified": 1609884584,
     "wof:name": "DE24 1AE",
     "wof:parent_id": 404435553,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.444701, 
-    52.907274, 
-    -1.444701, 
-    52.907274
+    -1.444582, 
+    52.907282, 
+    -1.444582, 
+    52.907282
   ],
-  "geometry": {"coordinates":[-1.444701,52.907274],"type":"Point"}
+  "geometry": {"coordinates":[-1.444582,52.907282],"type":"Point"}
 }

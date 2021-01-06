@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-06-01",
     "geom:area": 0,
-    "geom:bbox": "0.101999,52.169502,0.101999,52.169502",
-    "geom:latitude": 52.169502,
-    "geom:longitude": 0.101999,
+    "geom:bbox": "0.101927,52.169531,0.101927,52.169531",
+    "geom:latitude": 52.169531,
+    "geom:longitude": 0.101927,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698845, 
-      404443675, 
-      1125917915, 
       404227469, 
       1360698535, 
-      85633159
+      85633159, 
+      1360698845, 
+      404443675, 
+      1125917915
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583802496,
-    "wof:geomhash": "2e4a193bf0edd41aa6f2e51cfa20034b",
+    "wof:geomhash": "a65a9b17bcdb968ea911801015b362db",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 39527424,
-    "wof:lastmodified": 1583802496,
+    "wof:lastmodified": 1609868463,
     "wof:name": "CB2 9FZ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.101999, 
-    52.169502, 
-    0.101999, 
-    52.169502
+    0.101927, 
+    52.169531, 
+    0.101927, 
+    52.169531
   ],
-  "geometry": {"coordinates":[0.101999,52.169502],"type":"Point"}
+  "geometry": {"coordinates":[0.101927,52.169531],"type":"Point"}
 }

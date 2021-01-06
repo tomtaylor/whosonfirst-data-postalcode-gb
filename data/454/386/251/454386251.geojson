@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2005-05-01",
     "geom:area": 0,
-    "geom:bbox": "-1.768051,54.414422,-1.768051,54.414422",
-    "geom:latitude": 54.414422,
-    "geom:longitude": -1.768051,
+    "geom:bbox": "-1.768166,54.414298,-1.768166,54.414298",
+    "geom:latitude": 54.414298,
+    "geom:longitude": -1.768166,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698619, 
       85633159, 
       1360698753, 
       404435427, 
-      101873301
+      101873301, 
+      404227469, 
+      1360698619
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701532,
-    "wof:geomhash": "cc7d7b267a0c2f72f100bd15656cd8bf",
+    "wof:geomhash": "119634c7fcbeec3ccec7e73628f227e4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454386251,
-    "wof:lastmodified": 1583786663,
+    "wof:lastmodified": 1609886843,
     "wof:name": "DL10 4SG",
     "wof:parent_id": 404435427,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.768051, 
-    54.414422, 
-    -1.768051, 
-    54.414422
+    -1.768166, 
+    54.414298, 
+    -1.768166, 
+    54.414298
   ],
-  "geometry": {"coordinates":[-1.768051,54.414422],"type":"Point"}
+  "geometry": {"coordinates":[-1.768166,54.414298],"type":"Point"}
 }

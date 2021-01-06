@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2002-06-01",
     "geom:area": 0,
-    "geom:bbox": "-3.226940,57.470290,-3.226940,57.470290",
-    "geom:latitude": 57.47029,
-    "geom:longitude": -3.22694,
+    "geom:bbox": "-3.226693,57.470400,-3.226693,57.470400",
+    "geom:latitude": 57.4704,
+    "geom:longitude": -3.226693,
     "gp:parent_id": "12696202",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227471, 
-      1360698715, 
       85633159, 
       1360698869, 
-      404446793
+      404446793, 
+      404227471, 
+      1360698715
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701522,
-    "wof:geomhash": "e857258907830d909ea7abf74a497da2",
+    "wof:geomhash": "350b492fb617074c7526ad12d7b3502f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504721631,
-    "wof:lastmodified": 1595732626,
+    "wof:lastmodified": 1609887463,
     "wof:name": "AB38 9AB",
     "wof:parent_id": 404446793,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.22694, 
-    57.47029, 
-    -3.22694, 
-    57.47029
+    -3.226693, 
+    57.4704, 
+    -3.226693, 
+    57.4704
   ],
-  "geometry": {"coordinates":[-3.22694,57.47029],"type":"Point"}
+  "geometry": {"coordinates":[-3.226693,57.4704],"type":"Point"}
 }

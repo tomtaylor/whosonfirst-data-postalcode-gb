@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.926525,53.421421,-2.926525,53.421421",
-    "geom:latitude": 53.421421,
-    "geom:longitude": -2.926525,
+    "geom:bbox": "-2.926564,53.421116,-2.926564,53.421116",
+    "geom:latitude": 53.421116,
+    "geom:longitude": -2.926564,
     "gp:parent_id": "26734",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698971, 
       101750547, 
       404227469, 
       85791175, 
       1360698573, 
-      85633159
+      85633159, 
+      1360698971
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701760,
-    "wof:geomhash": "182a0adbce686b2ad5a3a22cae1100a9",
+    "wof:geomhash": "312c66ecafddace2ba6cb04d73f16107",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454937941,
-    "wof:lastmodified": 1583786896,
+    "wof:lastmodified": 1609905230,
     "wof:name": "L13 7EB",
     "wof:parent_id": 101750547,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.926525, 
-    53.421421, 
-    -2.926525, 
-    53.421421
+    -2.926564, 
+    53.421116, 
+    -2.926564, 
+    53.421116
   ],
-  "geometry": {"coordinates":[-2.926525,53.421421],"type":"Point"}
+  "geometry": {"coordinates":[-2.926564,53.421116],"type":"Point"}
 }

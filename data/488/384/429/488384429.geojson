@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2007-09-01",
     "geom:area": 0,
-    "geom:bbox": "-0.195677,54.085533,-0.195677,54.085533",
-    "geom:latitude": 54.085533,
-    "geom:longitude": -0.195677,
+    "geom:bbox": "-0.195679,54.085497,-0.195679,54.085497",
+    "geom:latitude": 54.085497,
+    "geom:longitude": -0.195679,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698547, 
-      85633159, 
       1360699001, 
       404439969, 
       101874169, 
-      404227469
+      404227469, 
+      1360698547, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701394,
-    "wof:geomhash": "08a3b482eaa97b88587cf698ad44ab31",
+    "wof:geomhash": "93725409b9a805ae9e8f2f1fe248315c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 488384429,
-    "wof:lastmodified": 1595733353,
+    "wof:lastmodified": 1609889110,
     "wof:name": "YO15 2AH",
     "wof:parent_id": 101874169,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.195677, 
-    54.085533, 
-    -0.195677, 
-    54.085533
+    -0.195679, 
+    54.085497, 
+    -0.195679, 
+    54.085497
   ],
-  "geometry": {"coordinates":[-0.195677,54.085533],"type":"Point"}
+  "geometry": {"coordinates":[-0.195679,54.085497],"type":"Point"}
 }

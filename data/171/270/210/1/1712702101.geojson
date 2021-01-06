@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-09-01",
     "geom:area": 0,
-    "geom:bbox": "-0.962855,52.962175,-0.962855,52.962175",
-    "geom:latitude": 52.962175,
-    "geom:longitude": -0.962855,
+    "geom:bbox": "-0.962627,52.962370,-0.962627,52.962370",
+    "geom:latitude": 52.96237,
+    "geom:longitude": -0.962627,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1125851575, 
       404227469, 
       1360698583, 
       85633159, 
       1360698809, 
-      404434073
+      404434073, 
+      1125851575
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583799776,
-    "wof:geomhash": "623972cd3b94cc9355735e71e7bea837",
+    "wof:geomhash": "a75c672ec7c7aec139687baad3d7bd85",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712702101,
-    "wof:lastmodified": 1583799776,
+    "wof:lastmodified": 1609872490,
     "wof:name": "NG13 7AF",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.962855, 
-    52.962175, 
-    -0.962855, 
-    52.962175
+    -0.962627, 
+    52.96237, 
+    -0.962627, 
+    52.96237
   ],
-  "geometry": {"coordinates":[-0.962855,52.962175],"type":"Point"}
+  "geometry": {"coordinates":[-0.962627,52.96237],"type":"Point"}
 }

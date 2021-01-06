@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1996-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.421379,53.366685,-1.421379,53.366685",
-    "geom:latitude": 53.366685,
-    "geom:longitude": -1.421379,
+    "geom:bbox": "-1.421679,53.366722,-1.421679,53.366722",
+    "geom:latitude": 53.366722,
+    "geom:longitude": -1.421679,
     "gp:parent_id": "34503",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      101750529, 
+      404227469, 
       85793107, 
       1360698591, 
       85633159, 
-      1360699075, 
-      101750529, 
-      404227469
+      1360699075
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701684,
-    "wof:geomhash": "1f38ebd7855af4e6d28b0cb7965255d7",
+    "wof:geomhash": "213b1f82d4c52c5a602c81c6c018d420",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471634171,
-    "wof:lastmodified": 1583786855,
+    "wof:lastmodified": 1609899908,
     "wof:name": "S2 1SH",
     "wof:parent_id": 101750529,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.421379, 
-    53.366685, 
-    -1.421379, 
-    53.366685
+    -1.421679, 
+    53.366722, 
+    -1.421679, 
+    53.366722
   ],
-  "geometry": {"coordinates":[-1.421379,53.366685],"type":"Point"}
+  "geometry": {"coordinates":[-1.421679,53.366722],"type":"Point"}
 }

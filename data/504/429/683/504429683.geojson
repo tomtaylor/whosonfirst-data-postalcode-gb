@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.575819,56.005854,-4.575819,56.005854",
-    "geom:latitude": 56.005854,
-    "geom:longitude": -4.575819,
+    "geom:bbox": "-4.575677,56.005641,-4.575677,56.005641",
+    "geom:latitude": 56.005641,
+    "geom:longitude": -4.575677,
     "gp:parent_id": "11691",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698819, 
+      404444819, 
       404227471, 
       1360698701, 
-      85633159, 
-      1360698819, 
-      404444819
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701231,
-    "wof:geomhash": "71757497e450e333b160915771e2777f",
+    "wof:geomhash": "17414732fe2471225c6c3aa9928aa10a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504429683,
-    "wof:lastmodified": 1595728134,
+    "wof:lastmodified": 1609870836,
     "wof:name": "G83 8JU",
     "wof:parent_id": 404444819,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.575819, 
-    56.005854, 
-    -4.575819, 
-    56.005854
+    -4.575677, 
+    56.005641, 
+    -4.575677, 
+    56.005641
   ],
-  "geometry": {"coordinates":[-4.575819,56.005854],"type":"Point"}
+  "geometry": {"coordinates":[-4.575677,56.005641],"type":"Point"}
 }

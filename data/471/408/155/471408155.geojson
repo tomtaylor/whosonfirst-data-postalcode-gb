@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2001-12-01",
     "geom:area": 0,
-    "geom:bbox": "-4.452913,50.460930,-4.452913,50.460930",
-    "geom:latitude": 50.46093,
-    "geom:longitude": -4.452913,
+    "geom:bbox": "-4.452239,50.460423,-4.452239,50.460423",
+    "geom:latitude": 50.460423,
+    "geom:longitude": -4.452239,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      101852371, 
       404227469, 
       1360698623, 
       85633159, 
       1360699085, 
-      404431167, 
-      101852371
+      404431167
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701564,
-    "wof:geomhash": "64635c3c4bc55f34dcd04aea712a05e1",
+    "wof:geomhash": "6a98a7f3b52a94d7549f2a3e65d146f1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471408155,
-    "wof:lastmodified": 1583786718,
+    "wof:lastmodified": 1609891056,
     "wof:name": "PL14 3XB",
     "wof:parent_id": 404431167,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.452913, 
-    50.46093, 
-    -4.452913, 
-    50.46093
+    -4.452239, 
+    50.460423, 
+    -4.452239, 
+    50.460423
   ],
-  "geometry": {"coordinates":[-4.452913,50.46093],"type":"Point"}
+  "geometry": {"coordinates":[-4.452239,50.460423],"type":"Point"}
 }

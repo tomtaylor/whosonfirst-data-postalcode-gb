@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.367538,55.601146,-4.367538,55.601146",
-    "geom:latitude": 55.601146,
-    "geom:longitude": -4.367538,
+    "geom:bbox": "-4.366445,55.601985,-4.366445,55.601985",
+    "geom:latitude": 55.601985,
+    "geom:longitude": -4.366445,
     "gp:parent_id": "12696191",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227471, 
-      1360698697, 
       85633159, 
       1360698779, 
-      404451413
+      404451413, 
+      404227471, 
+      1360698697
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701331,
-    "wof:geomhash": "cd59acbe5bcc5e5d27e6771da3200c71",
+    "wof:geomhash": "7c55ece42597bd5c001e085ceea59bd0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504458009,
-    "wof:lastmodified": 1583786448,
+    "wof:lastmodified": 1609872524,
     "wof:name": "KA4 8LU",
     "wof:parent_id": 404451413,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.367538, 
-    55.601146, 
-    -4.367538, 
-    55.601146
+    -4.366445, 
+    55.601985, 
+    -4.366445, 
+    55.601985
   ],
-  "geometry": {"coordinates":[-4.367538,55.601146],"type":"Point"}
+  "geometry": {"coordinates":[-4.366445,55.601985],"type":"Point"}
 }

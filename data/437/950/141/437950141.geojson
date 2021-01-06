@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1981-06-01",
     "geom:area": 0,
-    "geom:bbox": "-0.350781,51.816448,-0.350781,51.816448",
-    "geom:latitude": 51.816448,
-    "geom:longitude": -0.350781,
+    "geom:bbox": "-0.350352,51.816676,-0.350352,51.816676",
+    "geom:latitude": 51.816676,
+    "geom:longitude": -0.350352,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698763, 
       404446155, 
       101854787, 
       404227469, 
-      1360698559
+      1360698559, 
+      85633159, 
+      1360698763
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701645,
-    "wof:geomhash": "d6efbbe56bbe1468e4c5d50ca143f1c9",
+    "wof:geomhash": "2c9e6619eb8fcd9873a27243c16c3740",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 437950141,
-    "wof:lastmodified": 1583786809,
+    "wof:lastmodified": 1609896963,
     "wof:name": "AL5 5PA",
     "wof:parent_id": 101854787,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.350781, 
-    51.816448, 
-    -0.350781, 
-    51.816448
+    -0.350352, 
+    51.816676, 
+    -0.350352, 
+    51.816676
   ],
-  "geometry": {"coordinates":[-0.350781,51.816448],"type":"Point"}
+  "geometry": {"coordinates":[-0.350352,51.816676],"type":"Point"}
 }

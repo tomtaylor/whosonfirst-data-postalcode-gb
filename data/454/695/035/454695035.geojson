@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.642853,51.056792,-0.642853,51.056792",
-    "geom:latitude": 51.056792,
-    "geom:longitude": -0.642853,
+    "geom:bbox": "-0.642869,51.056747,-0.642869,51.056747",
+    "geom:latitude": 51.056747,
+    "geom:longitude": -0.642869,
     "gp:parent_id": "30430",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698757, 
       404453615, 
       1126053033, 
       404227469, 
       1360698607, 
-      85633159
+      85633159, 
+      1360698757
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701698,
-    "wof:geomhash": "e2c3680b66fe7c0dfc5a4e8806c2bf7c",
+    "wof:geomhash": "b813d889cfe0fd28d2ea5873e8095d48",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454695035,
-    "wof:lastmodified": 1583786833,
+    "wof:lastmodified": 1609899728,
     "wof:name": "GU28 9HS",
     "wof:parent_id": 404453615,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.642853, 
-    51.056792, 
-    -0.642853, 
-    51.056792
+    -0.642869, 
+    51.056747, 
+    -0.642869, 
+    51.056747
   ],
-  "geometry": {"coordinates":[-0.642853,51.056792],"type":"Point"}
+  "geometry": {"coordinates":[-0.642869,51.056747],"type":"Point"}
 }

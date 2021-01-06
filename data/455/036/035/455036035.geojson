@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1994-05-01",
     "geom:area": 0,
-    "geom:bbox": "-1.095288,52.657971,-1.095288,52.657971",
-    "geom:latitude": 52.657971,
-    "geom:longitude": -1.095288,
+    "geom:bbox": "-1.095244,52.657944,-1.095244,52.657944",
+    "geom:latitude": 52.657944,
+    "geom:longitude": -1.095244,
     "gp:parent_id": "26062",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698995, 
-      101750485, 
       404227469, 
       1360698569, 
-      85633159
+      85633159, 
+      1360698995, 
+      101750485
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701106,
-    "wof:geomhash": "d4fa628f0f02110ad44762c76cd80bab",
+    "wof:geomhash": "63b1e1322268b7546e562adc04203035",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 455036035,
-    "wof:lastmodified": 1583786223,
+    "wof:lastmodified": 1609869481,
     "wof:name": "LE4 9LG",
     "wof:parent_id": 101750485,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.095288, 
-    52.657971, 
-    -1.095288, 
-    52.657971
+    -1.095244, 
+    52.657944, 
+    -1.095244, 
+    52.657944
   ],
-  "geometry": {"coordinates":[-1.095288,52.657971],"type":"Point"}
+  "geometry": {"coordinates":[-1.095244,52.657944],"type":"Point"}
 }

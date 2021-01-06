@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-11-01",
     "geom:area": 0,
-    "geom:bbox": "-2.878990,52.161445,-2.878990,52.161445",
-    "geom:latitude": 52.161445,
-    "geom:longitude": -2.87899,
+    "geom:bbox": "-2.879034,52.161481,-2.879034,52.161481",
+    "geom:latitude": 52.161481,
+    "geom:longitude": -2.879034,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,29 +18,29 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699053, 
-      404446447, 
-      1276903529, 
       404227469, 
       1360698617, 
-      85633159
+      85633159, 
+      1360699053, 
+      404439549, 
+      1125905521
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583790547,
-    "wof:geomhash": "a1447b0e36a948c4c1c152d37b1be981",
+    "wof:geomhash": "611238960cf8c200672b34f593e896e3",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360699053,
-        "localadmin_id": 404446447,
-        "locality_id": 1276903529,
+        "localadmin_id": 404439549,
+        "locality_id": 1125905521,
         "macroregion_id": 404227469,
         "region_id": 1360698617
       }
     ],
     "wof:id": 1712494441,
-    "wof:lastmodified": 1595710880,
+    "wof:lastmodified": 1609869521,
     "wof:name": "HR4 8FL",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.87899, 
-    52.161445, 
-    -2.87899, 
-    52.161445
+    -2.879034, 
+    52.161481, 
+    -2.879034, 
+    52.161481
   ],
-  "geometry": {"coordinates":[-2.87899,52.161445],"type":"Point"}
+  "geometry": {"coordinates":[-2.879034,52.161481],"type":"Point"}
 }

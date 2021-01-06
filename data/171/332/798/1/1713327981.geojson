@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-02-01",
     "geom:area": 0,
-    "geom:bbox": "-4.500774,55.899770,-4.500774,55.899770",
-    "geom:latitude": 55.89977,
-    "geom:longitude": -4.500774,
+    "geom:bbox": "-4.500320,55.899932,-4.500320,55.899932",
+    "geom:latitude": 55.899932,
+    "geom:longitude": -4.50032,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      404227471, 
+      1360698699, 
       85633159, 
       1360699097, 
-      404432463, 
-      404227471, 
-      1360698699
+      404432463
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735505,
-    "wof:geomhash": "7b14b07d234d9d836493f0f1dd76c94a",
+    "wof:geomhash": "a94ffff9f9273120b8e9d9f2f2db7609",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1713327981,
-    "wof:lastmodified": 1595753350,
+    "wof:lastmodified": 1609875266,
     "wof:name": "PA7 5HU",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.500774, 
-    55.89977, 
-    -4.500774, 
-    55.89977
+    -4.50032, 
+    55.899932, 
+    -4.50032, 
+    55.899932
   ],
-  "geometry": {"coordinates":[-4.500774,55.89977],"type":"Point"}
+  "geometry": {"coordinates":[-4.50032,55.899932],"type":"Point"}
 }

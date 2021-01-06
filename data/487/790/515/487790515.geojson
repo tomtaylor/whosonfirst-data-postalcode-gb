@@ -2,7 +2,7 @@
   "id": 487790515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-10-01",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:bbox": "-2.876053,52.367502,-2.876053,52.367502",
@@ -11,7 +11,7 @@
     "gp:parent_id": "26092",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000019",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      1360699053, 
+      404433343, 
       1125927349, 
       404227469, 
       1360698617, 
-      85633159, 
-      1360699053, 
-      404433343
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487790515,
-    "wof:lastmodified": 1583786271,
+    "wof:lastmodified": 1609879997,
     "wof:name": "SY7 0LH",
     "wof:parent_id": 404433343,
     "wof:placetype": "postalcode",

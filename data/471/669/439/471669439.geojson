@@ -2,7 +2,7 @@
   "id": 471669439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-05-01",
     "edtf:inception": "2009-05-01",
     "geom:area": 0,
     "geom:bbox": "-1.329045,53.504366,-1.329045,53.504366",
@@ -11,7 +11,7 @@
     "gp:parent_id": "28783",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E08000018",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698591, 
+      85633159, 
       1360698851, 
       1360817063, 
       1126000247, 
-      404227469, 
-      1360698591, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471669439,
-    "wof:lastmodified": 1583786877,
+    "wof:lastmodified": 1609900447,
     "wof:name": "S64 0WT",
     "wof:parent_id": 404450929,
     "wof:placetype": "postalcode",

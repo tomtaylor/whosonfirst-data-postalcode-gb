@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-04-01",
     "geom:area": 0,
-    "geom:bbox": "-1.854013,50.818003,-1.854013,50.818003",
-    "geom:latitude": 50.818003,
-    "geom:longitude": -1.854013,
+    "geom:bbox": "-1.854026,50.818255,-1.854026,50.818255",
+    "geom:latitude": 50.818255,
+    "geom:longitude": -1.854026,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360753699, 
-      404227469, 
       1360698545, 
       85633159, 
       1360698745, 
-      404449481
+      404449481, 
+      1360753699, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583793044,
-    "wof:geomhash": "38acef79939036209f47e6ea78cd1ef0",
+    "wof:geomhash": "55f69066c204fee567d99df8eb1ee2ee",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160857006,
-    "wof:lastmodified": 1583793044,
+    "wof:lastmodified": 1609870936,
     "wof:name": "BH24 2FE",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.854013, 
-    50.818003, 
-    -1.854013, 
-    50.818003
+    -1.854026, 
+    50.818255, 
+    -1.854026, 
+    50.818255
   ],
-  "geometry": {"coordinates":[-1.854013,50.818003],"type":"Point"}
+  "geometry": {"coordinates":[-1.854026,50.818255],"type":"Point"}
 }

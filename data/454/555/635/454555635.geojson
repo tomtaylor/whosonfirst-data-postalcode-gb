@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.179835,51.705694,-0.179835,51.705694",
-    "geom:latitude": 51.705694,
-    "geom:longitude": -0.179835,
+    "geom:bbox": "-0.180003,51.705472,-0.180003,51.705472",
+    "geom:latitude": 51.705472,
+    "geom:longitude": -0.180003,
     "gp:parent_id": "32485",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360020851, 
-      404227469, 
       1360698559, 
       85633159, 
       1360698763, 
-      404438207
+      404438207, 
+      1360020851, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701636,
-    "wof:geomhash": "837102c34393b53bc57b217202b91387",
+    "wof:geomhash": "83c7a17021148cfe542140441306e496",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454555635,
-    "wof:lastmodified": 1583786767,
+    "wof:lastmodified": 1609894320,
     "wof:name": "EN6 1SG",
     "wof:parent_id": 101854775,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.179835, 
-    51.705694, 
-    -0.179835, 
-    51.705694
+    -0.180003, 
+    51.705472, 
+    -0.180003, 
+    51.705472
   ],
-  "geometry": {"coordinates":[-0.179835,51.705694],"type":"Point"}
+  "geometry": {"coordinates":[-0.180003,51.705472],"type":"Point"}
 }

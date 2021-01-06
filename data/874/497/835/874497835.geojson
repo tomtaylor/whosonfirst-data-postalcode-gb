@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2016-04-01",
     "geom:area": 0,
-    "geom:bbox": "-0.724612,52.376681,-0.724612,52.376681",
-    "geom:latitude": 52.376681,
-    "geom:longitude": -0.724612,
+    "geom:bbox": "-0.724685,52.376690,-0.724685,52.376690",
+    "geom:latitude": 52.37669,
+    "geom:longitude": -0.724685,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698577, 
       85633159, 
       1360698755, 
-      101750457
+      101750457, 
+      404227469, 
+      1360698577
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468890606,
-    "wof:geomhash": "8016ed96fad99b42d62e48cb9eb800db",
+    "wof:geomhash": "acc1273fae75b2eefd4dd0633bf616b7",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 874497835,
-    "wof:lastmodified": 1583786378,
+    "wof:lastmodified": 1609872072,
     "wof:name": "NN15 6NP",
     "wof:parent_id": 101750457,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.724612, 
-    52.376681, 
-    -0.724612, 
-    52.376681
+    -0.724685, 
+    52.37669, 
+    -0.724685, 
+    52.37669
   ],
-  "geometry": {"coordinates":[-0.724612,52.376681],"type":"Point"}
+  "geometry": {"coordinates":[-0.724685,52.37669],"type":"Point"}
 }

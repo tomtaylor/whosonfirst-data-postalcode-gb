@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.406170,55.845834,-4.406170,55.845834",
-    "geom:latitude": 55.845834,
-    "geom:longitude": -4.40617,
+    "geom:bbox": "-4.405555,55.845450,-4.405555,55.845450",
+    "geom:latitude": 55.84545,
+    "geom:longitude": -4.405555,
     "gp:parent_id": "12696207",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404432463, 
-      404227471, 
       1360698699, 
       85633159, 
-      1360699097
+      1360699097, 
+      404432463, 
+      404227471
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701423,
-    "wof:geomhash": "5f787f0373ff4d28bdca849e5dd4ba73",
+    "wof:geomhash": "4cdc321fdb600f06023e2a7dbdda29e5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504553881,
-    "wof:lastmodified": 1583786561,
+    "wof:lastmodified": 1609879173,
     "wof:name": "PA1 1QF",
     "wof:parent_id": 101913923,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.40617, 
-    55.845834, 
-    -4.40617, 
-    55.845834
+    -4.405555, 
+    55.84545, 
+    -4.405555, 
+    55.84545
   ],
-  "geometry": {"coordinates":[-4.40617,55.845834],"type":"Point"}
+  "geometry": {"coordinates":[-4.405555,55.84545],"type":"Point"}
 }

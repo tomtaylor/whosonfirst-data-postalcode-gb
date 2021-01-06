@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.814090,54.974861,-1.814090,54.974861",
-    "geom:latitude": 54.974861,
-    "geom:longitude": -1.81409,
+    "geom:bbox": "-1.814465,54.974673,-1.814465,54.974673",
+    "geom:latitude": 54.974673,
+    "geom:longitude": -1.814465,
     "gp:parent_id": "41277",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      1125997743, 
-      404227469, 
       1360698727, 
       85633159, 
       1360698769, 
-      404453285
+      404453285, 
+      1125997743, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701229,
-    "wof:geomhash": "e28e120b588a661ddb97708fa87a9d32",
+    "wof:geomhash": "288cf2a860d2158308f6d224969cf9a7",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471073765,
-    "wof:lastmodified": 1583786370,
+    "wof:lastmodified": 1609871314,
     "wof:name": "NE41 8HR",
     "wof:parent_id": 404453285,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.81409, 
-    54.974861, 
-    -1.81409, 
-    54.974861
+    -1.814465, 
+    54.974673, 
+    -1.814465, 
+    54.974673
   ],
-  "geometry": {"coordinates":[-1.81409,54.974861],"type":"Point"}
+  "geometry": {"coordinates":[-1.814465,54.974673],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.022385,57.884356,-4.022385,57.884356",
-    "geom:latitude": 57.884356,
-    "geom:longitude": -4.022385,
+    "geom:bbox": "-4.021940,57.884543,-4.021940,57.884543",
+    "geom:latitude": 57.884543,
+    "geom:longitude": -4.02194,
     "gp:parent_id": "12696199",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360699045, 
       404436073, 
       404227471, 
-      1360698671, 
-      85633159, 
-      1360699045
+      1360698671
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701274,
-    "wof:geomhash": "0267525f7e4cf2e5e280d3c919a5661f",
+    "wof:geomhash": "edfcaf50b4b6324cb8ee188cf7f3daf0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504438547,
-    "wof:lastmodified": 1583786388,
+    "wof:lastmodified": 1609871315,
     "wof:name": "IV25 3PJ",
     "wof:parent_id": 404436073,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.022385, 
-    57.884356, 
-    -4.022385, 
-    57.884356
+    -4.02194, 
+    57.884543, 
+    -4.02194, 
+    57.884543
   ],
-  "geometry": {"coordinates":[-4.022385,57.884356],"type":"Point"}
+  "geometry": {"coordinates":[-4.02194,57.884543],"type":"Point"}
 }

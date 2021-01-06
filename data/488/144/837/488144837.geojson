@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.302001,53.629979,-1.302001,53.629979",
-    "geom:latitude": 53.629979,
-    "geom:longitude": -1.302001,
+    "geom:bbox": "-1.301686,53.629833,-1.301686,53.629833",
+    "geom:latitude": 53.629833,
+    "geom:longitude": -1.301686,
     "gp:parent_id": "11579",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698609, 
       85633159, 
       1360698945, 
       404452739, 
-      1125861933
+      1125861933, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701274,
-    "wof:geomhash": "7d03ec2cc3d6cbf01805c28bfa00efd7",
+    "wof:geomhash": "66847677432fb5145e9f9a35dca3c146",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488144837,
-    "wof:lastmodified": 1595729495,
+    "wof:lastmodified": 1609876646,
     "wof:name": "WF9 1AL",
     "wof:parent_id": 404452739,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.302001, 
-    53.629979, 
-    -1.302001, 
-    53.629979
+    -1.301686, 
+    53.629833, 
+    -1.301686, 
+    53.629833
   ],
-  "geometry": {"coordinates":[-1.302001,53.629979],"type":"Point"}
+  "geometry": {"coordinates":[-1.301686,53.629833],"type":"Point"}
 }

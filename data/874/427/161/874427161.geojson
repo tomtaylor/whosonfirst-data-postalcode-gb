@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2015-05-01",
     "geom:area": 0,
-    "geom:bbox": "-2.584288,51.420452,-2.584288,51.420452",
-    "geom:latitude": 51.420452,
-    "geom:longitude": -2.584288,
+    "geom:bbox": "-2.584299,51.420191,-2.584299,51.420191",
+    "geom:latitude": 51.420191,
+    "geom:longitude": -2.584299,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,18 +18,18 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      85788133, 
-      1360698531, 
-      85633159, 
       1360698747, 
       404431949, 
       1175612699, 
-      404227469
+      404227469, 
+      85788133, 
+      1360698531, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468875401,
-    "wof:geomhash": "53a3f8da3e90e9e806fb20a293c30b8d",
+    "wof:geomhash": "a80f1e4e8f2f50a46e8b3d8e3f1ff9c1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 874427161,
-    "wof:lastmodified": 1583786179,
+    "wof:lastmodified": 1609868939,
     "wof:name": "BS4 1ET",
     "wof:parent_id": 101750389,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.584288, 
-    51.420452, 
-    -2.584288, 
-    51.420452
+    -2.584299, 
+    51.420191, 
+    -2.584299, 
+    51.420191
   ],
-  "geometry": {"coordinates":[-2.584288,51.420452],"type":"Point"}
+  "geometry": {"coordinates":[-2.584299,51.420191],"type":"Point"}
 }

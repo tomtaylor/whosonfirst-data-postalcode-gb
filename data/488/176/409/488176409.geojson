@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1986-07-01",
     "geom:area": 0,
-    "geom:bbox": "-2.213945,52.167718,-2.213945,52.167718",
-    "geom:latitude": 52.167718,
-    "geom:longitude": -2.213945,
+    "geom:bbox": "-2.213941,52.167739,-2.213941,52.167739",
+    "geom:latitude": 52.167739,
+    "geom:longitude": -2.213941,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      1360699043, 
+      404440995, 
       1360756651, 
       404227469, 
       1360698613, 
-      85633159, 
-      1360699043, 
-      404440995
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701293,
-    "wof:geomhash": "536755e16bd74a5667f4585a9dc6d0db",
+    "wof:geomhash": "bb98e7d569c1ec68dcef8887957867b9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 488176409,
-    "wof:lastmodified": 1583786283,
+    "wof:lastmodified": 1609878549,
     "wof:name": "WR5 3HL",
     "wof:parent_id": 101751607,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.213945, 
-    52.167718, 
-    -2.213945, 
-    52.167718
+    -2.213941, 
+    52.167739, 
+    -2.213941, 
+    52.167739
   ],
-  "geometry": {"coordinates":[-2.213945,52.167718],"type":"Point"}
+  "geometry": {"coordinates":[-2.213941,52.167739],"type":"Point"}
 }

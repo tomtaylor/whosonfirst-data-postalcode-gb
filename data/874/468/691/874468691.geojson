@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2011-02-01",
     "geom:area": 0,
-    "geom:bbox": "-1.865000,53.673902,-1.865000,53.673902",
-    "geom:latitude": 53.673902,
-    "geom:longitude": -1.865,
+    "geom:bbox": "-1.864546,53.674123,-1.864546,53.674123",
+    "geom:latitude": 53.674123,
+    "geom:longitude": -1.864546,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698609, 
-      85633159, 
       1360698833, 
       1360817303, 
       101872229, 
-      404227469
+      404227469, 
+      1360698609, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468880853,
-    "wof:geomhash": "b95c035484e2c78ef6cd76acc9786641",
+    "wof:geomhash": "60d8c523564ed3bbf5486c674b61d2b1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 874468691,
-    "wof:lastmodified": 1583786297,
+    "wof:lastmodified": 1609870464,
     "wof:name": "HX4 9FE",
     "wof:parent_id": 101872229,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.865, 
-    53.673902, 
-    -1.865, 
-    53.673902
+    -1.864546, 
+    53.674123, 
+    -1.864546, 
+    53.674123
   ],
-  "geometry": {"coordinates":[-1.865,53.673902],"type":"Point"}
+  "geometry": {"coordinates":[-1.864546,53.674123],"type":"Point"}
 }

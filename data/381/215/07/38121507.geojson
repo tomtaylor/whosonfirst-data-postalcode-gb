@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-12-01",
     "geom:area": 0,
-    "geom:bbox": "-0.348858,53.805222,-0.348858,53.805222",
-    "geom:latitude": 53.805222,
-    "geom:longitude": -0.348858,
+    "geom:bbox": "-0.348547,53.805415,-0.348547,53.805415",
+    "geom:latitude": 53.805415,
+    "geom:longitude": -0.348547,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698951, 
       101750561, 
       404227469, 
-      1360698547
+      1360698547, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583786932,
-    "wof:geomhash": "7a590472de94b8eb9ef2ff388200f5f6",
+    "wof:geomhash": "07648966c20272caf931ef5f97ced38d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 38121507,
-    "wof:lastmodified": 1583786932,
+    "wof:lastmodified": 1609868446,
     "wof:name": "HU7 3FT",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.348858, 
-    53.805222, 
-    -0.348858, 
-    53.805222
+    -0.348547, 
+    53.805415, 
+    -0.348547, 
+    53.805415
   ],
-  "geometry": {"coordinates":[-0.348858,53.805222],"type":"Point"}
+  "geometry": {"coordinates":[-0.348547,53.805415],"type":"Point"}
 }

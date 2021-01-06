@@ -1,0 +1,59 @@
+{
+  "id": 1729686023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-10-01",
+    "geom:area": 0,
+    "geom:bbox": "-0.681391,52.379650,-0.681391,52.379650",
+    "geom:latitude": 52.37965,
+    "geom:longitude": -0.681391,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E10000021",
+    "os:district_code": "E07000153",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000004",
+    "src:geom": "os",
+    "wof:belongsto": [
+      1343290693, 
+      404227469, 
+      1360698577, 
+      85633159, 
+      1360698755, 
+      404441861
+    ],
+    "wof:breaches": [],
+    "wof:country": "GB",
+    "wof:created": 1609906263,
+    "wof:geomhash": "2ec4e75b240328bf642ddd7419e90a18",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698755,
+        "localadmin_id": 404441861,
+        "locality_id": 1343290693,
+        "macroregion_id": 404227469,
+        "region_id": 1360698577
+      }
+    ],
+    "wof:id": 1729686023,
+    "wof:lastmodified": 1609906263,
+    "wof:name": "NN15 6PN",
+    "wof:parent_id": -1,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -0.681391, 
+    52.37965, 
+    -0.681391, 
+    52.37965
+  ],
+  "geometry": {"coordinates":[-0.681391,52.37965],"type":"Point"}
+}

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.178331,51.649648,0.178331,51.649648",
-    "geom:latitude": 51.649648,
-    "geom:longitude": 0.178331,
+    "geom:bbox": "0.178073,51.651546,0.178073,51.651546",
+    "geom:latitude": 51.651546,
+    "geom:longitude": 0.178073,
     "gp:parent_id": "35988",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698979, 
       404449775, 
       1125969553, 
       404227469, 
       85788017, 
-      1360698551
+      1360698551, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701682,
-    "wof:geomhash": "bc239df1bdc62e9f0ef3829f63937380",
+    "wof:geomhash": "7c26854231b4490b2b417f385cbe0be9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 471618167,
-    "wof:lastmodified": 1583786839,
+    "wof:lastmodified": 1609899278,
     "wof:name": "RM4 1RS",
     "wof:parent_id": 404449775,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.178331, 
-    51.649648, 
-    0.178331, 
-    51.649648
+    0.178073, 
+    51.651546, 
+    0.178073, 
+    51.651546
   ],
-  "geometry": {"coordinates":[0.178331,51.649648],"type":"Point"}
+  "geometry": {"coordinates":[0.178073,51.651546],"type":"Point"}
 }

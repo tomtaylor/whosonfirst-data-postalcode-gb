@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "uuuu",
-    "edtf:inception": "2019-09-01",
+    "edtf:inception": "2020-10-01",
     "geom:area": 0,
     "geom:bbox": "0.026603,51.592000,0.026603,51.592000",
     "geom:latitude": 51.592,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      85860161, 
       1360698645, 
       1158857291, 
       85633159, 
-      101750367
+      101750367, 
+      404227469, 
+      85860161
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1161140036,
-    "wof:lastmodified": 1583805706,
+    "wof:lastmodified": 1609876249,
     "wof:name": "E18 9DS",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

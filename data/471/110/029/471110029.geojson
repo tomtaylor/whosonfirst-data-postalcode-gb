@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2002-11-01",
     "geom:area": 0,
-    "geom:bbox": "-1.081432,53.043227,-1.081432,53.043227",
-    "geom:latitude": 53.043227,
-    "geom:longitude": -1.081432,
+    "geom:bbox": "-1.084977,53.043461,-1.084977,53.043461",
+    "geom:latitude": 53.043461,
+    "geom:longitude": -1.084977,
     "gp:parent_id": "14959",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1125790337, 
       404227469, 
       1360698583, 
       85633159, 
       1360698809, 
-      404445689
+      404445689, 
+      1125790337
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701307,
-    "wof:geomhash": "fe6d4d835048614c25b94dee75cd11c7",
+    "wof:geomhash": "66e66d47dacbe86491215158ac12526e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471110029,
-    "wof:lastmodified": 1583786444,
+    "wof:lastmodified": 1609873733,
     "wof:name": "NG14 6BP",
     "wof:parent_id": 404445689,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.081432, 
-    53.043227, 
-    -1.081432, 
-    53.043227
+    -1.084977, 
+    53.043461, 
+    -1.084977, 
+    53.043461
   ],
-  "geometry": {"coordinates":[-1.081432,53.043227],"type":"Point"}
+  "geometry": {"coordinates":[-1.084977,53.043461],"type":"Point"}
 }

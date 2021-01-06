@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.487955,55.356167,-4.487955,55.356167",
-    "geom:latitude": 55.356167,
-    "geom:longitude": -4.487955,
+    "geom:bbox": "-4.487572,55.355851,-4.487572,55.355851",
+    "geom:latitude": 55.355851,
+    "geom:longitude": -4.487572,
     "gp:parent_id": "31500",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404451413, 
-      404227471, 
       1360698697, 
       85633159, 
-      1360698779
+      1360698779, 
+      404451413, 
+      404227471
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701335,
-    "wof:geomhash": "d2728a7d44dc5bf99abb236e30bafa3b",
+    "wof:geomhash": "cd1423cadd11cd1a6ddbabdba6eb1adf",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504459571,
-    "wof:lastmodified": 1583786447,
+    "wof:lastmodified": 1609872630,
     "wof:name": "KA6 7JL",
     "wof:parent_id": 404451413,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.487955, 
-    55.356167, 
-    -4.487955, 
-    55.356167
+    -4.487572, 
+    55.355851, 
+    -4.487572, 
+    55.355851
   ],
-  "geometry": {"coordinates":[-4.487955,55.356167],"type":"Point"}
+  "geometry": {"coordinates":[-4.487572,55.355851],"type":"Point"}
 }

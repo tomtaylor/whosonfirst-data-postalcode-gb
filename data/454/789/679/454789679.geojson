@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2000-12-01",
     "geom:area": 0,
-    "geom:bbox": "-0.618029,51.704432,-0.618029,51.704432",
-    "geom:latitude": 51.704432,
-    "geom:longitude": -0.618029,
+    "geom:bbox": "-0.617780,51.704236,-0.617780,51.704236",
+    "geom:latitude": 51.704236,
+    "geom:longitude": -0.61778,
     "gp:parent_id": "15822",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698533, 
-      85633159, 
       1360698997, 
       404438597, 
-      101853557
+      101853557, 
+      404227469, 
+      1360698533, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701716,
-    "wof:geomhash": "23808d45b4e29d2d9329d1712ba731db",
+    "wof:geomhash": "b33a27b99f6c7d55791546cc943656ee",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454789679,
-    "wof:lastmodified": 1595717184,
+    "wof:lastmodified": 1609902143,
     "wof:name": "HP5 1HH",
     "wof:parent_id": 101853557,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.618029, 
-    51.704432, 
-    -0.618029, 
-    51.704432
+    -0.61778, 
+    51.704236, 
+    -0.61778, 
+    51.704236
   ],
-  "geometry": {"coordinates":[-0.618029,51.704432],"type":"Point"}
+  "geometry": {"coordinates":[-0.61778,51.704236],"type":"Point"}
 }

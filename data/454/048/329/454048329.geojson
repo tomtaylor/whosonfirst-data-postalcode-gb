@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.599965,51.490660,-2.599965,51.490660",
-    "geom:latitude": 51.49066,
-    "geom:longitude": -2.599965,
+    "geom:bbox": "-2.599966,51.490714,-2.599966,51.490714",
+    "geom:latitude": 51.490714,
+    "geom:longitude": -2.599966,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,13 +18,13 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698747, 
+      404431949, 
       1175612699, 
       404227469, 
       85788139, 
       1360698531, 
-      85633159, 
-      1360698747, 
-      404431949
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701076,
-    "wof:geomhash": "34021b81bba4cafa6a31d4756b47ada5",
+    "wof:geomhash": "f2e15bf45fb32b7579d121f6b19a30f0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 454048329,
-    "wof:lastmodified": 1583786211,
+    "wof:lastmodified": 1609868883,
     "wof:name": "BS9 4RY",
     "wof:parent_id": 101750389,
     "wof:placetype": "postalcode",
@@ -55,10 +55,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.599965, 
-    51.49066, 
-    -2.599965, 
-    51.49066
+    -2.599966, 
+    51.490714, 
+    -2.599966, 
+    51.490714
   ],
-  "geometry": {"coordinates":[-2.599965,51.49066],"type":"Point"}
+  "geometry": {"coordinates":[-2.599966,51.490714],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-04-01",
     "geom:area": 0,
-    "geom:bbox": "-0.774552,53.060510,-0.774552,53.060510",
-    "geom:latitude": 53.06051,
-    "geom:longitude": -0.774552,
+    "geom:bbox": "-0.774506,53.060555,-0.774506,53.060555",
+    "geom:latitude": 53.060555,
+    "geom:longitude": -0.774506,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1125842339, 
-      404227469, 
-      1360698583, 
       85633159, 
       1360698809, 
-      404439317
+      404439317, 
+      1125842339, 
+      404227469, 
+      1360698583
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583790870,
-    "wof:geomhash": "d60101fdc4d064918974233747b355d7",
+    "wof:geomhash": "2ee2d837fe6f6f4742f00425b17b1221",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160807684,
-    "wof:lastmodified": 1583790870,
+    "wof:lastmodified": 1609870258,
     "wof:name": "NG24 3XA",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.774552, 
-    53.06051, 
-    -0.774552, 
-    53.06051
+    -0.774506, 
+    53.060555, 
+    -0.774506, 
+    53.060555
   ],
-  "geometry": {"coordinates":[-0.774552,53.06051],"type":"Point"}
+  "geometry": {"coordinates":[-0.774506,53.060555],"type":"Point"}
 }

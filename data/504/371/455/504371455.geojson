@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.769394,55.882048,-3.769394,55.882048",
-    "geom:latitude": 55.882048,
-    "geom:longitude": -3.769394,
+    "geom:bbox": "-3.735359,55.891060,-3.735359,55.891060",
+    "geom:latitude": 55.89106,
+    "geom:longitude": -3.735359,
     "gp:parent_id": "12906",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      404447005, 
+      404227471, 
       1360698679, 
       85633159, 
-      1360699027, 
-      404447005, 
-      404227471
+      1360699027
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701078,
-    "wof:geomhash": "976c116979b4ebdb0539ac9699b6aa31",
+    "wof:geomhash": "7f0c4d63bf36062a5dea07499404d850",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504371455,
-    "wof:lastmodified": 1583786404,
+    "wof:lastmodified": 1609868754,
     "wof:name": "EH48 3AJ",
     "wof:parent_id": 404447005,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.769394, 
-    55.882048, 
-    -3.769394, 
-    55.882048
+    -3.735359, 
+    55.89106, 
+    -3.735359, 
+    55.89106
   ],
-  "geometry": {"coordinates":[-3.769394,55.882048],"type":"Point"}
+  "geometry": {"coordinates":[-3.735359,55.89106],"type":"Point"}
 }

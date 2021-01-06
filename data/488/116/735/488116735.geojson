@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.499763,53.682120,-1.499763,53.682120",
-    "geom:latitude": 53.68212,
-    "geom:longitude": -1.499763,
+    "geom:bbox": "-1.500220,53.682057,-1.500220,53.682057",
+    "geom:latitude": 53.682057,
+    "geom:longitude": -1.50022,
     "gp:parent_id": "38952",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698609, 
-      85633159, 
       1360698945, 
       1360817491, 
-      101751637
+      101751637, 
+      404227469, 
+      1360698609, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701254,
-    "wof:geomhash": "52c34540b4616628ca8417469839c4c5",
+    "wof:geomhash": "a1f6557b06d9fa27eab49e0bcfe3b6d0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488116735,
-    "wof:lastmodified": 1583786412,
+    "wof:lastmodified": 1609874179,
     "wof:name": "WF1 1JR",
     "wof:parent_id": 101751637,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.499763, 
-    53.68212, 
-    -1.499763, 
-    53.68212
+    -1.50022, 
+    53.682057, 
+    -1.50022, 
+    53.682057
   ],
-  "geometry": {"coordinates":[-1.499763,53.68212],"type":"Point"}
+  "geometry": {"coordinates":[-1.50022,53.682057],"type":"Point"}
 }

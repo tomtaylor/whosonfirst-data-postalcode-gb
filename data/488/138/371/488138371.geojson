@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.543107,53.657099,-1.543107,53.657099",
-    "geom:latitude": 53.657099,
-    "geom:longitude": -1.543107,
+    "geom:bbox": "-1.543231,53.657125,-1.543231,53.657125",
+    "geom:latitude": 53.657125,
+    "geom:longitude": -1.543231,
     "gp:parent_id": "23881",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      1360817491, 
+      1126021827, 
       404227469, 
       1360698609, 
       85633159, 
-      1360698945, 
-      1360817491, 
-      1126021827
+      1360698945
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701270,
-    "wof:geomhash": "a83f4cf4ab4701447c5862e586740146",
+    "wof:geomhash": "d4335539adc1f9b79f6f113dcb20cc18",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488138371,
-    "wof:lastmodified": 1583786177,
+    "wof:lastmodified": 1609876042,
     "wof:name": "WF4 5DY",
     "wof:parent_id": 101751637,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.543107, 
-    53.657099, 
-    -1.543107, 
-    53.657099
+    -1.543231, 
+    53.657125, 
+    -1.543231, 
+    53.657125
   ],
-  "geometry": {"coordinates":[-1.543107,53.657099],"type":"Point"}
+  "geometry": {"coordinates":[-1.543231,53.657125],"type":"Point"}
 }

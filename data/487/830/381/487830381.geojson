@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698911, 
+      1360698587, 
+      85633159, 
+      1360698821, 
       404430169, 
       1125864101, 
-      404227469, 
-      1360698587, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -36,7 +36,7 @@
     "wof:hierarchy": [
       {
         "country_id": 85633159,
-        "county_id": 1360698911,
+        "county_id": 1360698821,
         "localadmin_id": 404430169,
         "locality_id": 1125864101,
         "macroregion_id": 404227469,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487830381,
-    "wof:lastmodified": 1583786294,
+    "wof:lastmodified": 1609882099,
     "wof:name": "TF6 5BE",
     "wof:parent_id": 404430169,
     "wof:placetype": "postalcode",

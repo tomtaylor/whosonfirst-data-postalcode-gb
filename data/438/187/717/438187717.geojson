@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.436167,53.566813,-2.436167,53.566813",
-    "geom:latitude": 53.566813,
-    "geom:longitude": -2.436167,
+    "geom:bbox": "-2.436576,53.566964,-2.436576,53.566964",
+    "geom:latitude": 53.566964,
+    "geom:longitude": -2.436576,
     "gp:parent_id": "13189",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698555, 
       85633159, 
       1360699099, 
-      101750551
+      101750551, 
+      404227469, 
+      1360698555
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701384,
-    "wof:geomhash": "c297d45bcfcdb27dabae895ee3d7e428",
+    "wof:geomhash": "681a449788d5d0a24ec7cf30e4efd6db",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 438187717,
-    "wof:lastmodified": 1583786520,
+    "wof:lastmodified": 1609878895,
     "wof:name": "BL3 6SP",
     "wof:parent_id": 101750551,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.436167, 
-    53.566813, 
-    -2.436167, 
-    53.566813
+    -2.436576, 
+    53.566964, 
+    -2.436576, 
+    53.566964
   ],
-  "geometry": {"coordinates":[-2.436167,53.566813],"type":"Point"}
+  "geometry": {"coordinates":[-2.436576,53.566964],"type":"Point"}
 }

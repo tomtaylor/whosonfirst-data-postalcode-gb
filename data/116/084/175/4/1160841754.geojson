@@ -2,7 +2,7 @@
   "id": 1160841754,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-05-01",
     "edtf:inception": "2019-04-01",
     "geom:area": 0,
     "geom:bbox": "-0.063368,51.625317,-0.063368,51.625317",
@@ -10,7 +10,7 @@
     "geom:longitude": -0.063368,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E09000010",
@@ -18,12 +18,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      1158857281, 
       85633159, 
       101750367, 
       404227469, 
       85787249, 
-      1360698645, 
-      1158857281
+      1360698645
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160841754,
-    "wof:lastmodified": 1583792451,
+    "wof:lastmodified": 1609870573,
     "wof:name": "N9 1EZ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

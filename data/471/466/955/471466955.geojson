@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1986-07-01",
     "geom:area": 0,
-    "geom:bbox": "-0.661741,50.804540,-0.661741,50.804540",
-    "geom:latitude": 50.80454,
-    "geom:longitude": -0.661741,
+    "geom:bbox": "-0.661895,50.804605,-0.661895,50.804605",
+    "geom:latitude": 50.804605,
+    "geom:longitude": -0.661895,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404441545, 
-      1209744631, 
       404227469, 
       1360698607, 
       85633159, 
-      1360698757
+      1360698757, 
+      404441545, 
+      1209744631
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701626,
-    "wof:geomhash": "88122d68fdc769e8cce7b7931ba3d634",
+    "wof:geomhash": "2a48f7ab69c43dd3c2e8f7043c5e46db",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471466955,
-    "wof:lastmodified": 1583786757,
+    "wof:lastmodified": 1609893226,
     "wof:name": "PO22 9NN",
     "wof:parent_id": 404441545,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.661741, 
-    50.80454, 
-    -0.661741, 
-    50.80454
+    -0.661895, 
+    50.804605, 
+    -0.661895, 
+    50.804605
   ],
-  "geometry": {"coordinates":[-0.661741,50.80454],"type":"Point"}
+  "geometry": {"coordinates":[-0.661895,50.804605],"type":"Point"}
 }

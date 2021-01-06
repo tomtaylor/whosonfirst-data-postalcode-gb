@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.476008,53.706529,-1.476008,53.706529",
-    "geom:latitude": 53.706529,
-    "geom:longitude": -1.476008,
+    "geom:bbox": "-1.476072,53.706402,-1.476072,53.706402",
+    "geom:latitude": 53.706402,
+    "geom:longitude": -1.476072,
     "gp:parent_id": "20091889",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698945, 
-      1360817491, 
       101751637, 
       404227469, 
-      1360698609
+      1360698609, 
+      85633159, 
+      1360698945, 
+      1360817491
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701267,
-    "wof:geomhash": "d2c36960dd8b3d34a3827ba2f725c38e",
+    "wof:geomhash": "e0d310ad660831c5d42e6b74bca64728",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488136167,
-    "wof:lastmodified": 1583786170,
+    "wof:lastmodified": 1609875837,
     "wof:name": "WF3 4NU",
     "wof:parent_id": 101751637,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.476008, 
-    53.706529, 
-    -1.476008, 
-    53.706529
+    -1.476072, 
+    53.706402, 
+    -1.476072, 
+    53.706402
   ],
-  "geometry": {"coordinates":[-1.476008,53.706529],"type":"Point"}
+  "geometry": {"coordinates":[-1.476072,53.706402],"type":"Point"}
 }

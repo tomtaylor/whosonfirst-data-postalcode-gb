@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.091886,53.713091,-2.091886,53.713091",
-    "geom:latitude": 53.713091,
-    "geom:longitude": -2.091886,
+    "geom:bbox": "-2.091234,53.712840,-2.091234,53.712840",
+    "geom:latitude": 53.71284,
+    "geom:longitude": -2.091234,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      101872231, 
       404227469, 
       1360698609, 
       85633159, 
       1360698833, 
-      404450499, 
-      101872231
+      404450499
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701468,
-    "wof:geomhash": "3fc3d0e6b3f9d774f94365f43e81b96b",
+    "wof:geomhash": "7b8ac05aadd4ef4554ae47881ae15e04",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471285917,
-    "wof:lastmodified": 1583786623,
+    "wof:lastmodified": 1609884599,
     "wof:name": "OL14 5QW",
     "wof:parent_id": 101872231,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.091886, 
-    53.713091, 
-    -2.091886, 
-    53.713091
+    -2.091234, 
+    53.71284, 
+    -2.091234, 
+    53.71284
   ],
-  "geometry": {"coordinates":[-2.091886,53.713091],"type":"Point"}
+  "geometry": {"coordinates":[-2.091234,53.71284],"type":"Point"}
 }

@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "1984-12-01",
+    "edtf:deprecated": "2021-01-05",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:bbox": "-2.981601,51.593938,-2.981601,51.593938",
@@ -18,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1125774683, 
       404227475, 
       1360698641, 
       85633159, 
       1360698735, 
-      404434255
+      404434255, 
+      1125774683
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +41,7 @@
       }
     ],
     "wof:id": 1712470243,
-    "wof:lastmodified": 1583789473,
+    "wof:lastmodified": 1609868933,
     "wof:name": "NPT 7ER",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

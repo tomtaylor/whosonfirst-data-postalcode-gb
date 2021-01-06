@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.382660,54.913597,-1.382660,54.913597",
-    "geom:latitude": 54.913597,
-    "geom:longitude": -1.38266,
+    "geom:bbox": "-1.382628,54.913651,-1.382628,54.913651",
+    "geom:latitude": 54.913651,
+    "geom:longitude": -1.382628,
     "gp:parent_id": "36615",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698601, 
       85633159, 
       1360698987, 
       1360817213, 
-      101750611, 
-      404227469, 
-      1360698601
+      101750611
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701108,
-    "wof:geomhash": "db991ab6b23618b85284122a71ac1a0a",
+    "wof:geomhash": "a07392d8caae2df260f17676216b39ce",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487654903,
-    "wof:lastmodified": 1583786201,
+    "wof:lastmodified": 1609870938,
     "wof:name": "SR5 1BU",
     "wof:parent_id": 101750611,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.38266, 
-    54.913597, 
-    -1.38266, 
-    54.913597
+    -1.382628, 
+    54.913651, 
+    -1.382628, 
+    54.913651
   ],
-  "geometry": {"coordinates":[-1.38266,54.913597],"type":"Point"}
+  "geometry": {"coordinates":[-1.382628,54.913651],"type":"Point"}
 }

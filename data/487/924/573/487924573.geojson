@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-5.414926,50.189997,-5.414926,50.189997",
-    "geom:latitude": 50.189997,
-    "geom:longitude": -5.414926,
+    "geom:bbox": "-5.414965,50.190006,-5.414965,50.190006",
+    "geom:latitude": 50.190006,
+    "geom:longitude": -5.414965,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      101852395, 
+      404227469, 
       1360698623, 
       85633159, 
       1360699085, 
-      404453153, 
-      101852395, 
-      404227469
+      404453153
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701265,
-    "wof:geomhash": "ed3ebe980d5028c1259de486f41dbd5e",
+    "wof:geomhash": "cdacac2d9e3ec0a2f16604b89b9611d5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 487924573,
-    "wof:lastmodified": 1583786339,
+    "wof:lastmodified": 1609886789,
     "wof:name": "TR27 4DH",
     "wof:parent_id": 101852395,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -5.414926, 
-    50.189997, 
-    -5.414926, 
-    50.189997
+    -5.414965, 
+    50.190006, 
+    -5.414965, 
+    50.190006
   ],
-  "geometry": {"coordinates":[-5.414926,50.189997],"type":"Point"}
+  "geometry": {"coordinates":[-5.414965,50.190006],"type":"Point"}
 }

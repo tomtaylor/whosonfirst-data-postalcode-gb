@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1995-07-01",
     "geom:area": 0,
-    "geom:bbox": "0.459783,51.778317,0.459783,51.778317",
-    "geom:latitude": 51.778317,
-    "geom:longitude": 0.459783,
+    "geom:bbox": "0.459653,51.778320,0.459653,51.778320",
+    "geom:latitude": 51.77832,
+    "geom:longitude": 0.459653,
     "gp:parent_id": "14183",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698551, 
       85633159, 
       1360698979, 
       404454169, 
       1125799885, 
-      404227469
+      404227469, 
+      1360698551
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701291,
-    "wof:geomhash": "c1cb3c23c2405988f219d52ea19842b6",
+    "wof:geomhash": "5aefb7fd646ddd53e7cd36e3685698c4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454133953,
-    "wof:lastmodified": 1583786432,
+    "wof:lastmodified": 1609872889,
     "wof:name": "CM1 7EX",
     "wof:parent_id": 404454169,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.459783, 
-    51.778317, 
-    0.459783, 
-    51.778317
+    0.459653, 
+    51.77832, 
+    0.459653, 
+    51.77832
   ],
-  "geometry": {"coordinates":[0.459783,51.778317],"type":"Point"}
+  "geometry": {"coordinates":[0.459653,51.77832],"type":"Point"}
 }

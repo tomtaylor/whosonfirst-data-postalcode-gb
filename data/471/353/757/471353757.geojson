@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.050194,52.802171,-0.050194,52.802171",
-    "geom:latitude": 52.802171,
-    "geom:longitude": -0.050194,
+    "geom:bbox": "-0.047379,52.801442,-0.047379,52.801442",
+    "geom:latitude": 52.801442,
+    "geom:longitude": -0.047379,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698571, 
+      85633159, 
       1360699067, 
       404431041, 
       1293229853, 
-      404227469, 
-      1360698571, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701527,
-    "wof:geomhash": "99e6a22bda1b6536da857495945b85f4",
+    "wof:geomhash": "10c6a14aef1e652620f0e530d7c612dd",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471353757,
-    "wof:lastmodified": 1583786673,
+    "wof:lastmodified": 1609887764,
     "wof:name": "PE12 6NT",
     "wof:parent_id": 404431041,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.050194, 
-    52.802171, 
-    -0.050194, 
-    52.802171
+    -0.047379, 
+    52.801442, 
+    -0.047379, 
+    52.801442
   ],
-  "geometry": {"coordinates":[-0.050194,52.802171],"type":"Point"}
+  "geometry": {"coordinates":[-0.047379,52.801442],"type":"Point"}
 }

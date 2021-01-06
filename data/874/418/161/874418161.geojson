@@ -2,7 +2,7 @@
   "id": 874418161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-10-01",
     "edtf:inception": "2012-08-01",
     "geom:area": 0,
     "geom:bbox": "-2.013249,52.301271,-2.013249,52.301271",
@@ -10,7 +10,7 @@
     "geom:longitude": -2.013249,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000034",
     "os:district_code": "E07000234",
@@ -18,12 +18,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360754255, 
-      404227469, 
-      1360698613, 
       85633159, 
       1360699043, 
-      404449845
+      404449845, 
+      1360754255, 
+      404227469, 
+      1360698613
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 874418161,
-    "wof:lastmodified": 1583786364,
+    "wof:lastmodified": 1609868749,
     "wof:name": "B60 9HW",
     "wof:parent_id": 101853023,
     "wof:placetype": "postalcode",

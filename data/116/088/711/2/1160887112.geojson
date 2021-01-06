@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-05-01",
     "geom:area": 0,
-    "geom:bbox": "0.406145,51.309004,0.406145,51.309004",
-    "geom:latitude": 51.309004,
-    "geom:longitude": 0.406145,
+    "geom:bbox": "0.406283,51.308903,0.406283,51.308903",
+    "geom:latitude": 51.308903,
+    "geom:longitude": 0.406283,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698565, 
       85633159, 
       1360698811, 
       404439131, 
-      1360755215
+      1360755215, 
+      404227469, 
+      1360698565
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583794399,
-    "wof:geomhash": "c70193bcd7619bbc61359d6d087219db",
+    "wof:geomhash": "7f3a53992f9b606d629f56d7dfdba812",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160887112,
-    "wof:lastmodified": 1583794399,
+    "wof:lastmodified": 1609871544,
     "wof:name": "ME19 5ST",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.406145, 
-    51.309004, 
-    0.406145, 
-    51.309004
+    0.406283, 
+    51.308903, 
+    0.406283, 
+    51.308903
   ],
-  "geometry": {"coordinates":[0.406145,51.309004],"type":"Point"}
+  "geometry": {"coordinates":[0.406283,51.308903],"type":"Point"}
 }

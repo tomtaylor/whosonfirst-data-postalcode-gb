@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.497555,54.978422,-3.497555,54.978422",
-    "geom:latitude": 54.978422,
-    "geom:longitude": -3.497555,
+    "geom:bbox": "-3.496661,54.978730,-3.496661,54.978730",
+    "geom:latitude": 54.97873,
+    "geom:longitude": -3.496661,
     "gp:parent_id": "12696189",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360699039, 
       404444245, 
       404227471, 
-      1360698719, 
-      85633159
+      1360698719
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701616,
-    "wof:geomhash": "f3cad29b9362e095bc553588d4b9ce4c",
+    "wof:geomhash": "33630bbe1df00c1a6a9176a6c72630c6",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488609807,
-    "wof:lastmodified": 1583786808,
+    "wof:lastmodified": 1609898868,
     "wof:name": "DG1 4RS",
     "wof:parent_id": 404444245,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.497555, 
-    54.978422, 
-    -3.497555, 
-    54.978422
+    -3.496661, 
+    54.97873, 
+    -3.496661, 
+    54.97873
   ],
-  "geometry": {"coordinates":[-3.497555,54.978422],"type":"Point"}
+  "geometry": {"coordinates":[-3.496661,54.97873],"type":"Point"}
 }

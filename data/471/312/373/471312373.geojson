@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.515058,51.586417,-1.515058,51.586417",
-    "geom:latitude": 51.586417,
-    "geom:longitude": -1.515058,
+    "geom:bbox": "-1.515105,51.586030,-1.515105,51.586030",
+    "geom:latitude": 51.58603,
+    "geom:longitude": -1.515105,
     "gp:parent_id": "39884",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698839, 
       404451391, 
       1360756639, 
       404227469, 
       1360698585, 
-      85633159, 
-      1360698839
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701491,
-    "wof:geomhash": "edc784e4c01fa2cf1311ee633fd550bc",
+    "wof:geomhash": "a7914598feb9358b61bd9878ee155497",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471312373,
-    "wof:lastmodified": 1583786639,
+    "wof:lastmodified": 1609885949,
     "wof:name": "OX12 9QD",
     "wof:parent_id": 404451391,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.515058, 
-    51.586417, 
-    -1.515058, 
-    51.586417
+    -1.515105, 
+    51.58603, 
+    -1.515105, 
+    51.58603
   ],
-  "geometry": {"coordinates":[-1.515058,51.586417],"type":"Point"}
+  "geometry": {"coordinates":[-1.515105,51.58603],"type":"Point"}
 }

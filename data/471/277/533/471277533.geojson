@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.217109,53.589855,-2.217109,53.589855",
-    "geom:latitude": 53.589855,
-    "geom:longitude": -2.217109,
+    "geom:bbox": "-2.217033,53.589819,-2.217033,53.589819",
+    "geom:latitude": 53.589819,
+    "geom:longitude": -2.217033,
     "gp:parent_id": "23161",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698555, 
       85633159, 
       1360699063, 
-      101750565
+      101750565, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701457,
-    "wof:geomhash": "3a8f7f882c11a3be8bec316c9f02890d",
+    "wof:geomhash": "ed21f76ea65aec220e3cd79a636842bd",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 471277533,
-    "wof:lastmodified": 1583786614,
+    "wof:lastmodified": 1609884121,
     "wof:name": "OL10 1BJ",
     "wof:parent_id": 101872211,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.217109, 
-    53.589855, 
-    -2.217109, 
-    53.589855
+    -2.217033, 
+    53.589819, 
+    -2.217033, 
+    53.589819
   ],
-  "geometry": {"coordinates":[-2.217109,53.589855],"type":"Point"}
+  "geometry": {"coordinates":[-2.217033,53.589819],"type":"Point"}
 }

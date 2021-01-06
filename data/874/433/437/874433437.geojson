@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2015-12-01",
     "geom:area": 0,
-    "geom:bbox": "0.258125,51.869153,0.258125,51.869153",
-    "geom:latitude": 51.869153,
-    "geom:longitude": 0.258125,
+    "geom:bbox": "0.258342,51.869140,0.258342,51.869140",
+    "geom:latitude": 51.86914,
+    "geom:longitude": 0.258342,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698979, 
       404431315, 
       101854709, 
       404227469, 
-      1360698551
+      1360698551, 
+      85633159, 
+      1360698979
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468876448,
-    "wof:geomhash": "78264cf19c7d645bf4da2e9265d6101d",
+    "wof:geomhash": "58368fb3aaa57364190e3081f99ad0b2",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 874433437,
-    "wof:lastmodified": 1583786196,
+    "wof:lastmodified": 1609869099,
     "wof:name": "CM22 6TZ",
     "wof:parent_id": 101854709,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.258125, 
-    51.869153, 
-    0.258125, 
-    51.869153
+    0.258342, 
+    51.86914, 
+    0.258342, 
+    51.86914
   ],
-  "geometry": {"coordinates":[0.258125,51.869153],"type":"Point"}
+  "geometry": {"coordinates":[0.258342,51.86914],"type":"Point"}
 }

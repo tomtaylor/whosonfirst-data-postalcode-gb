@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2010-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.454317,53.385814,-1.454317,53.385814",
-    "geom:latitude": 53.385814,
-    "geom:longitude": -1.454317,
+    "geom:bbox": "-1.454303,53.385742,-1.454303,53.385742",
+    "geom:latitude": 53.385742,
+    "geom:longitude": -1.454303,
     "gp:parent_id": "34503",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698591, 
       85633159, 
       1360699075, 
       101750529, 
       404227469, 
-      85785403, 
-      1360698591
+      85785403
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701365,
-    "wof:geomhash": "54b6d0c6778f0ab2439cb6300c294ee1",
+    "wof:geomhash": "a14a08aaf82a14cd2b225be2238c1ac2",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488352833,
-    "wof:lastmodified": 1583786563,
+    "wof:lastmodified": 1609887876,
     "wof:name": "S4 7TL",
     "wof:parent_id": 101750529,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.454317, 
-    53.385814, 
-    -1.454317, 
-    53.385814
+    -1.454303, 
+    53.385742, 
+    -1.454303, 
+    53.385742
   ],
-  "geometry": {"coordinates":[-1.454317,53.385814],"type":"Point"}
+  "geometry": {"coordinates":[-1.454303,53.385742],"type":"Point"}
 }

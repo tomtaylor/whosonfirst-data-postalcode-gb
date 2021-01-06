@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.986278,52.214111,-3.986278,52.214111",
-    "geom:latitude": 52.214111,
-    "geom:longitude": -3.986278,
+    "geom:bbox": "-3.986909,52.213156,-3.986909,52.213156",
+    "geom:latitude": 52.213156,
+    "geom:longitude": -3.986909,
     "gp:parent_id": "38026",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698639, 
+      85633159, 
       1360699113, 
       404429215, 
       1125973517, 
-      404227475, 
-      1360698639, 
-      85633159
+      404227475
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701494,
-    "wof:geomhash": "302d02237763cbb35e2b7a46e48e55ab",
+    "wof:geomhash": "de62c2e5f9d0fa5da10a5fec84d19b04",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504622549,
-    "wof:lastmodified": 1583786641,
+    "wof:lastmodified": 1609882733,
     "wof:name": "SY25 6TB",
     "wof:parent_id": 404429215,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.986278, 
-    52.214111, 
-    -3.986278, 
-    52.214111
+    -3.986909, 
+    52.213156, 
+    -3.986909, 
+    52.213156
   ],
-  "geometry": {"coordinates":[-3.986278,52.214111],"type":"Point"}
+  "geometry": {"coordinates":[-3.986909,52.213156],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.073579,53.572774,-0.073579,53.572774",
-    "geom:latitude": 53.572774,
-    "geom:longitude": -0.073579,
+    "geom:bbox": "-0.073612,53.572721,-0.073612,53.572721",
+    "geom:latitude": 53.572721,
+    "geom:longitude": -0.073612,
     "gp:parent_id": "21896",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1209242129, 
-      404227469, 
       1360698571, 
       85633159, 
       1360698837, 
-      1360817097
+      1360817097, 
+      1209242129, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701567,
-    "wof:geomhash": "ac69bea11f13b4dee681789aa262f662",
+    "wof:geomhash": "cd51c2bf336503fdefc2a49b6bddddcc",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454438799,
-    "wof:lastmodified": 1583786699,
+    "wof:lastmodified": 1609889480,
     "wof:name": "DN32 7AG",
     "wof:parent_id": 101750533,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.073579, 
-    53.572774, 
-    -0.073579, 
-    53.572774
+    -0.073612, 
+    53.572721, 
+    -0.073612, 
+    53.572721
   ],
-  "geometry": {"coordinates":[-0.073579,53.572774],"type":"Point"}
+  "geometry": {"coordinates":[-0.073612,53.572721],"type":"Point"}
 }

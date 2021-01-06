@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-02-01",
     "geom:area": 0,
-    "geom:bbox": "-3.949596,56.096978,-3.949596,56.096978",
-    "geom:latitude": 56.096978,
-    "geom:longitude": -3.949596,
+    "geom:bbox": "-3.949011,56.096862,-3.949011,56.096862",
+    "geom:latitude": 56.096862,
+    "geom:longitude": -3.949011,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699003, 
       404433721, 
       404227471, 
-      1360698655
+      1360698655, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735510,
-    "wof:geomhash": "99a011850bc6cdc9188eba96abf434a8",
+    "wof:geomhash": "c570820f4117caa1dbde15d3473e0318",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1713328159,
-    "wof:lastmodified": 1595753356,
+    "wof:lastmodified": 1609875281,
     "wof:name": "FK7 9DR",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.949596, 
-    56.096978, 
-    -3.949596, 
-    56.096978
+    -3.949011, 
+    56.096862, 
+    -3.949011, 
+    56.096862
   ],
-  "geometry": {"coordinates":[-3.949596,56.096978],"type":"Point"}
+  "geometry": {"coordinates":[-3.949011,56.096862],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.340440,55.767795,-4.340440,55.767795",
-    "geom:latitude": 55.767795,
-    "geom:longitude": -4.34044,
+    "geom:bbox": "-4.340524,55.767865,-4.340524,55.767865",
+    "geom:latitude": 55.767865,
+    "geom:longitude": -4.340524,
     "gp:parent_id": "30244",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      404227471, 
+      1360698699, 
       85633159, 
       1360699117, 
-      404435263, 
-      404227471, 
-      1360698699
+      404435263
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701213,
-    "wof:geomhash": "f42283e9e0ae1dbdba80090af9d47c8e",
+    "wof:geomhash": "f2b1ea214e55f2f6e4d63d803cbea257",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504424283,
-    "wof:lastmodified": 1583786331,
+    "wof:lastmodified": 1609870570,
     "wof:name": "G77 5AU",
     "wof:parent_id": 404435263,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.34044, 
-    55.767795, 
-    -4.34044, 
-    55.767795
+    -4.340524, 
+    55.767865, 
+    -4.340524, 
+    55.767865
   ],
-  "geometry": {"coordinates":[-4.34044,55.767795],"type":"Point"}
+  "geometry": {"coordinates":[-4.340524,55.767865],"type":"Point"}
 }

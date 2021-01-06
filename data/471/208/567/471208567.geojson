@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1988-03-01",
     "geom:area": 0,
-    "geom:bbox": "1.185889,52.538094,1.185889,52.538094",
-    "geom:latitude": 52.538094,
-    "geom:longitude": 1.185889,
+    "geom:bbox": "1.185789,52.537935,1.185789,52.537935",
+    "geom:latitude": 52.537935,
+    "geom:longitude": 1.185789,
     "gp:parent_id": "41214",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      1276480275, 
+      404227469, 
       1360698575, 
       85633159, 
       1360698955, 
-      404431761, 
-      1276480275, 
-      404227469
+      404431761
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701399,
-    "wof:geomhash": "0a2ce343370fdac74453998c8bfad568",
+    "wof:geomhash": "40e135ba09d1acfffb13821ded8f32b9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471208567,
-    "wof:lastmodified": 1583786558,
+    "wof:lastmodified": 1609880398,
     "wof:name": "NR16 1BL",
     "wof:parent_id": 404431761,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.185889, 
-    52.538094, 
-    1.185889, 
-    52.538094
+    1.185789, 
+    52.537935, 
+    1.185789, 
+    52.537935
   ],
-  "geometry": {"coordinates":[1.185889,52.538094],"type":"Point"}
+  "geometry": {"coordinates":[1.185789,52.537935],"type":"Point"}
 }

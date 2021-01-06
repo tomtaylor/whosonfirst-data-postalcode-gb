@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.086193,50.786478,-1.086193,50.786478",
-    "geom:latitude": 50.786478,
-    "geom:longitude": -1.086193,
+    "geom:bbox": "-1.086236,50.786486,-1.086236,50.786486",
+    "geom:latitude": 50.786486,
+    "geom:longitude": -1.086236,
     "gp:parent_id": "32452",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699069, 
       101750307, 
       404227469, 
-      1360698557
+      1360698557, 
+      85633159, 
+      1360699069
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701639,
-    "wof:geomhash": "ef2072cae0f5001e55d40e3f753ede9d",
+    "wof:geomhash": "a70f2b10e8ce5f5e5fa60c86ac3ad8df",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 471481297,
-    "wof:lastmodified": 1583786762,
+    "wof:lastmodified": 1609893587,
     "wof:name": "PO5 2BG",
     "wof:parent_id": 101750307,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.086193, 
-    50.786478, 
-    -1.086193, 
-    50.786478
+    -1.086236, 
+    50.786486, 
+    -1.086236, 
+    50.786486
   ],
-  "geometry": {"coordinates":[-1.086193,50.786478],"type":"Point"}
+  "geometry": {"coordinates":[-1.086236,50.786486],"type":"Point"}
 }

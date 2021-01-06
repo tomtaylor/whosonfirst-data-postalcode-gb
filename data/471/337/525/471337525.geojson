@@ -2,8 +2,8 @@
   "id": 471337525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2018-10-01",
-    "edtf:inception": "2018-06-01",
+    "edtf:cessation": "2020-10-01",
+    "edtf:inception": "2020-05-01",
     "geom:area": 0,
     "geom:bbox": "-1.213389,51.722617,-1.213389,51.722617",
     "geom:latitude": 51.722617,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1125987387, 
-      404227469, 
-      1360698585, 
       85633159, 
       1360698839, 
-      404429233
+      404429233, 
+      1125987387, 
+      404227469, 
+      1360698585
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471337525,
-    "wof:lastmodified": 1583786664,
+    "wof:lastmodified": 1609887206,
     "wof:name": "OX4 1FT",
     "wof:parent_id": "85785875",
     "wof:placetype": "postalcode",

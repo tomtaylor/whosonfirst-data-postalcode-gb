@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.023624,52.078750,0.023624,52.078750",
-    "geom:latitude": 52.07875,
-    "geom:longitude": 0.023624,
+    "geom:bbox": "0.023746,52.078856,0.023746,52.078856",
+    "geom:latitude": 52.078856,
+    "geom:longitude": 0.023746,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698535, 
-      85633159, 
       1360698845, 
       404436563, 
       1125993111, 
-      404227469
+      404227469, 
+      1360698535, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583793431,
-    "wof:geomhash": "3550246fed3bf1b08519ff7186a51f44",
+    "wof:geomhash": "7124ad3a8717586f5f6dcbf1e6d5c746",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160864602,
-    "wof:lastmodified": 1583793431,
+    "wof:lastmodified": 1609870857,
     "wof:name": "SG8 6FX",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.023624, 
-    52.07875, 
-    0.023624, 
-    52.07875
+    0.023746, 
+    52.078856, 
+    0.023746, 
+    52.078856
   ],
-  "geometry": {"coordinates":[0.023624,52.07875],"type":"Point"}
+  "geometry": {"coordinates":[0.023746,52.078856],"type":"Point"}
 }

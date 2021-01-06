@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1996-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.103206,57.144501,-2.103206,57.144501",
-    "geom:latitude": 57.144501,
-    "geom:longitude": -2.103206,
+    "geom:bbox": "-2.102974,57.144375,-2.102974,57.144375",
+    "geom:latitude": 57.144375,
+    "geom:longitude": -2.102974,
     "gp:parent_id": "12696182",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      101750639, 
-      404227471, 
-      1360698709, 
       85633159, 
       1360698989, 
-      404429183
+      404429183, 
+      101750639, 
+      404227471, 
+      1360698709
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701539,
-    "wof:geomhash": "20393b2453baa0c5ff07e1961d8ccf66",
+    "wof:geomhash": "8a988067320e89c8a4d93c75d900fa79",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488527817,
-    "wof:lastmodified": 1583786740,
+    "wof:lastmodified": 1609895489,
     "wof:name": "AB11 6HA",
     "wof:parent_id": 101750639,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.103206, 
-    57.144501, 
-    -2.103206, 
-    57.144501
+    -2.102974, 
+    57.144375, 
+    -2.102974, 
+    57.144375
   ],
-  "geometry": {"coordinates":[-2.103206,57.144501],"type":"Point"}
+  "geometry": {"coordinates":[-2.102974,57.144375],"type":"Point"}
 }

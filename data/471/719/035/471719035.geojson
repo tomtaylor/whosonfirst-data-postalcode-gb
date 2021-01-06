@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.092036,51.438299,-0.092036,51.438299",
-    "geom:latitude": 51.438299,
-    "geom:longitude": -0.092036,
+    "geom:bbox": "-0.092023,51.438272,-0.092023,51.438272",
+    "geom:latitude": 51.438272,
+    "geom:longitude": -0.092023,
     "gp:parent_id": "12695813",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -20,13 +20,13 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      85791477, 
-      1360698645, 
-      1158857249, 
       85633159, 
       101750367, 
       1158884889, 
-      404227469
+      404227469, 
+      85791477, 
+      1360698645, 
+      1158857249
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -34,7 +34,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701719,
-    "wof:geomhash": "684321f531097f3baa1d5a4ef1e5c0d2",
+    "wof:geomhash": "b2d2a7ea616971c9375eec6e2614cf97",
     "wof:hierarchy": [
       {
         "borough_id": 1158857249,
@@ -47,7 +47,7 @@
       }
     ],
     "wof:id": 471719035,
-    "wof:lastmodified": 1583786891,
+    "wof:lastmodified": 1609901477,
     "wof:name": "SE21 8RL",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -57,10 +57,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.092036, 
-    51.438299, 
-    -0.092036, 
-    51.438299
+    -0.092023, 
+    51.438272, 
+    -0.092023, 
+    51.438272
   ],
-  "geometry": {"coordinates":[-0.092036,51.438299],"type":"Point"}
+  "geometry": {"coordinates":[-0.092023,51.438272],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1994-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.384684,50.938826,-1.384684,50.938826",
-    "geom:latitude": 50.938826,
-    "geom:longitude": -1.384684,
+    "geom:bbox": "-1.384686,50.938745,-1.384686,50.938745",
+    "geom:latitude": 50.938745,
+    "geom:longitude": -1.384686,
     "gp:parent_id": "35356",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360698907, 
       101750311, 
       404227469, 
-      1360698557, 
-      85633159
+      1360698557
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701077,
-    "wof:geomhash": "e5e768a2d797b5ad0dcb2ada8899eb47",
+    "wof:geomhash": "b68205b3eadfa8ce450eec2d27498b93",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 487595505,
-    "wof:lastmodified": 1583786175,
+    "wof:lastmodified": 1609868766,
     "wof:name": "SO16 3BH",
     "wof:parent_id": 101750311,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.384684, 
-    50.938826, 
-    -1.384684, 
-    50.938826
+    -1.384686, 
+    50.938745, 
+    -1.384686, 
+    50.938745
   ],
-  "geometry": {"coordinates":[-1.384684,50.938826],"type":"Point"}
+  "geometry": {"coordinates":[-1.384686,50.938745],"type":"Point"}
 }

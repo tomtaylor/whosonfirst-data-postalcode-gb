@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.354128,51.741310,-2.354128,51.741310",
-    "geom:latitude": 51.74131,
-    "geom:longitude": -2.354128,
+    "geom:bbox": "-2.354114,51.741328,-2.354114,51.741328",
+    "geom:latitude": 51.741328,
+    "geom:longitude": -2.354114,
     "gp:parent_id": "14980",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      1125985283, 
       404227469, 
       1360698553, 
       85633159, 
       1360698927, 
-      404453779, 
-      1125985283
+      404453779
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701674,
-    "wof:geomhash": "bb8312d33aa8ba4098659eeeab76e11a",
+    "wof:geomhash": "b35a7f365936540e2ec6acb85a92215d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454639109,
-    "wof:lastmodified": 1595716554,
+    "wof:lastmodified": 1609897921,
     "wof:name": "GL2 7AW",
     "wof:parent_id": 404453779,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.354128, 
-    51.74131, 
-    -2.354128, 
-    51.74131
+    -2.354114, 
+    51.741328, 
+    -2.354114, 
+    51.741328
   ],
-  "geometry": {"coordinates":[-2.354128,51.74131],"type":"Point"}
+  "geometry": {"coordinates":[-2.354114,51.741328],"type":"Point"}
 }

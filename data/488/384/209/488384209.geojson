@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2009-08-01",
     "geom:area": 0,
-    "geom:bbox": "-0.407302,54.233935,-0.407302,54.233935",
-    "geom:latitude": 54.233935,
-    "geom:longitude": -0.407302,
+    "geom:bbox": "-0.408872,54.233030,-0.408872,54.233030",
+    "geom:latitude": 54.23303,
+    "geom:longitude": -0.408872,
     "gp:parent_id": "12696048",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698753, 
-      404435777, 
       1125944617, 
       404227469, 
       1360698619, 
-      85633159
+      85633159, 
+      1360698753, 
+      404435777
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701391,
-    "wof:geomhash": "b15d79dd56951b81f1044bffbbb04c2f",
+    "wof:geomhash": "a0a6b9f634f7d5a776b3373049b4d52e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488384209,
-    "wof:lastmodified": 1583786597,
+    "wof:lastmodified": 1609889152,
     "wof:name": "YO11 3TX",
     "wof:parent_id": 404435777,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.407302, 
-    54.233935, 
-    -0.407302, 
-    54.233935
+    -0.408872, 
+    54.23303, 
+    -0.408872, 
+    54.23303
   ],
-  "geometry": {"coordinates":[-0.407302,54.233935],"type":"Point"}
+  "geometry": {"coordinates":[-0.408872,54.23303],"type":"Point"}
 }

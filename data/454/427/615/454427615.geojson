@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.360166,53.696681,-0.360166,53.696681",
-    "geom:latitude": 53.696681,
-    "geom:longitude": -0.360166,
+    "geom:bbox": "-0.360180,53.696726,-0.360180,53.696726",
+    "geom:latitude": 53.696726,
+    "geom:longitude": -0.36018,
     "gp:parent_id": "29938",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698901, 
+      404434825, 
       1344085787, 
       404227469, 
       1360698571, 
-      85633159, 
-      1360698901, 
-      404434825
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701562,
-    "wof:geomhash": "afc066ff902c292fcf3bc366c97e72b5",
+    "wof:geomhash": "229840ae276ecabd997587a911ce86cc",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454427615,
-    "wof:lastmodified": 1583786692,
+    "wof:lastmodified": 1609889101,
     "wof:name": "DN19 7QF",
     "wof:parent_id": 404434825,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.360166, 
-    53.696681, 
-    -0.360166, 
-    53.696681
+    -0.36018, 
+    53.696726, 
+    -0.36018, 
+    53.696726
   ],
-  "geometry": {"coordinates":[-0.360166,53.696681],"type":"Point"}
+  "geometry": {"coordinates":[-0.36018,53.696726],"type":"Point"}
 }

@@ -18,12 +18,13 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      101750367, 
       404227469, 
-      85792193, 
+      1158859083, 
+      85789693, 
       1360698645, 
-      1158857265, 
-      85633159
+      1158857245, 
+      85633159, 
+      101750367
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -31,16 +32,17 @@
     "wof:geomhash": "ac7dc1b8bbe5f2122c75b928db720d54",
     "wof:hierarchy": [
       {
-        "borough_id": 1158857265,
+        "borough_id": 1158857245,
         "country_id": 85633159,
         "locality_id": 101750367,
         "macroregion_id": 404227469,
-        "neighbourhood_id": 85792193,
+        "microhood_id": 1158859083,
+        "neighbourhood_id": 85789693,
         "region_id": 1360698645
       }
     ],
     "wof:id": 38247552,
-    "wof:lastmodified": 1595710827,
+    "wof:lastmodified": 1609868494,
     "wof:name": "W2 1GN",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

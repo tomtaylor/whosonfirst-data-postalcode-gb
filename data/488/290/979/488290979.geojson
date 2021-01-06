@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2009-02-01",
     "geom:area": 0,
-    "geom:bbox": "-1.578780,54.534555,-1.578780,54.534555",
-    "geom:latitude": 54.534555,
-    "geom:longitude": -1.57878,
+    "geom:bbox": "-1.578876,54.534267,-1.578876,54.534267",
+    "geom:latitude": 54.534267,
+    "geom:longitude": -1.578876,
     "gp:parent_id": "17940",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698889, 
       101750605, 
       404227469, 
-      1360698621
+      1360698621, 
+      85633159, 
+      1360698889
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701307,
-    "wof:geomhash": "6a617fe7b24f503107d9e678aaf6118c",
+    "wof:geomhash": "20a7c6879450a5105e81d81b30409130",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488290979,
-    "wof:lastmodified": 1583786495,
+    "wof:lastmodified": 1609884665,
     "wof:name": "DL3 9FE",
     "wof:parent_id": 101750605,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.57878, 
-    54.534555, 
-    -1.57878, 
-    54.534555
+    -1.578876, 
+    54.534267, 
+    -1.578876, 
+    54.534267
   ],
-  "geometry": {"coordinates":[-1.57878,54.534555],"type":"Point"}
+  "geometry": {"coordinates":[-1.578876,54.534267],"type":"Point"}
 }

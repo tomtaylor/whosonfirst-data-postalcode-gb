@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.773538,56.010960,-3.773538,56.010960",
-    "geom:latitude": 56.01096,
-    "geom:longitude": -3.773538,
+    "geom:bbox": "-3.771475,56.011098,-3.771475,56.011098",
+    "geom:latitude": 56.011098,
+    "geom:longitude": -3.771475,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404451599, 
-      404227471, 
       1360698655, 
       85633159, 
-      1360698865
+      1360698865, 
+      404451599, 
+      404227471
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583804044,
-    "wof:geomhash": "27bb256554c64a8c5cd62781f586a6f1",
+    "wof:geomhash": "33af0970b5a7435c7a3c44e490a4c149",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1161103940,
-    "wof:lastmodified": 1583804044,
+    "wof:lastmodified": 1609875805,
     "wof:name": "FK2 9DJ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.773538, 
-    56.01096, 
-    -3.773538, 
-    56.01096
+    -3.771475, 
+    56.011098, 
+    -3.771475, 
+    56.011098
   ],
-  "geometry": {"coordinates":[-3.773538,56.01096],"type":"Point"}
+  "geometry": {"coordinates":[-3.771475,56.011098],"type":"Point"}
 }

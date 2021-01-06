@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1995-12-01",
     "geom:area": 0,
-    "geom:bbox": "-2.316698,53.158844,-2.316698,53.158844",
-    "geom:latitude": 53.158844,
-    "geom:longitude": -2.316698,
+    "geom:bbox": "-2.316636,53.158494,-2.316636,53.158494",
+    "geom:latitude": 53.158494,
+    "geom:longitude": -2.316636,
     "gp:parent_id": "10912",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      404448357, 
-      1360756733, 
       404227469, 
       1360698537, 
       85633159, 
-      1360698929
+      1360698929, 
+      404448357, 
+      1360756733
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701455,
-    "wof:geomhash": "ae8ec72a25a6918a615b27774091e0a4",
+    "wof:geomhash": "7c1a38fae5c5f3822c4b973eaf399fa7",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454292461,
-    "wof:lastmodified": 1583786582,
+    "wof:lastmodified": 1609881855,
     "wof:name": "CW11 2SP",
     "wof:parent_id": 404448357,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.316698, 
-    53.158844, 
-    -2.316698, 
-    53.158844
+    -2.316636, 
+    53.158494, 
+    -2.316636, 
+    53.158494
   ],
-  "geometry": {"coordinates":[-2.316698,53.158844],"type":"Point"}
+  "geometry": {"coordinates":[-2.316636,53.158494],"type":"Point"}
 }

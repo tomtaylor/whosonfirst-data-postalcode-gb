@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.190085,51.502965,-0.190085,51.502965",
+    "geom:bbox": "-0.190099,51.502965,-0.190099,51.502965",
     "geom:latitude": 51.502965,
-    "geom:longitude": -0.190085,
+    "geom:longitude": -0.190099,
     "gp:parent_id": "12695812",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -20,13 +20,13 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698645, 
-      1158857317, 
       85633159, 
       101750367, 
       1158859439, 
       404227469, 
-      1158859437
+      1158859437, 
+      1360698645, 
+      1158857317
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -34,7 +34,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701215,
-    "wof:geomhash": "36a790b9bb6752faa1166ad01f6533ca",
+    "wof:geomhash": "654de9e5d469079741d089a56022cbee",
     "wof:hierarchy": [
       {
         "borough_id": 1158857317,
@@ -47,7 +47,7 @@
       }
     ],
     "wof:id": 488051255,
-    "wof:lastmodified": 1583786387,
+    "wof:lastmodified": 1609870151,
     "wof:name": "W8 4PL",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -57,10 +57,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.190085, 
+    -0.190099, 
     51.502965, 
-    -0.190085, 
+    -0.190099, 
     51.502965
   ],
-  "geometry": {"coordinates":[-0.190085,51.502965],"type":"Point"}
+  "geometry": {"coordinates":[-0.190099,51.502965],"type":"Point"}
 }

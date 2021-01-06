@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.000354,55.041678,-2.000354,55.041678",
-    "geom:latitude": 55.041678,
-    "geom:longitude": -2.000354,
+    "geom:bbox": "-1.999352,55.041930,-1.999352,55.041930",
+    "geom:latitude": 55.04193,
+    "geom:longitude": -1.999352,
     "gp:parent_id": "21752",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698727, 
       85633159, 
       1360698769, 
       404451701, 
-      1360757139
+      1360757139, 
+      404227469, 
+      1360698727
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701152,
-    "wof:geomhash": "aac98dfaf328f2a0a4930db8ad7503ac",
+    "wof:geomhash": "3a92d27de9aec06b160b95a3d071a67a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471039953,
-    "wof:lastmodified": 1595719663,
+    "wof:lastmodified": 1609869704,
     "wof:name": "NE19 2HQ",
     "wof:parent_id": 404451701,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.000354, 
-    55.041678, 
-    -2.000354, 
-    55.041678
+    -1.999352, 
+    55.04193, 
+    -1.999352, 
+    55.04193
   ],
-  "geometry": {"coordinates":[-2.000354,55.041678],"type":"Point"}
+  "geometry": {"coordinates":[-1.999352,55.04193],"type":"Point"}
 }

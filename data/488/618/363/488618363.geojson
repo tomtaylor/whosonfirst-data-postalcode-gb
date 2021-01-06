@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.481176,54.960711,-4.481176,54.960711",
-    "geom:latitude": 54.960711,
-    "geom:longitude": -4.481176,
+    "geom:bbox": "-4.481230,54.960799,-4.481230,54.960799",
+    "geom:latitude": 54.960799,
+    "geom:longitude": -4.48123,
     "gp:parent_id": "12696189",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699039, 
       404444245, 
       404227471, 
-      1360698649
+      1360698649, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701622,
-    "wof:geomhash": "eca0df788f5752d72246e4e541f4c5b7",
+    "wof:geomhash": "4c8c1e2c4cf0bd2f3cdc38cb74e642e2",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488618363,
-    "wof:lastmodified": 1583786815,
+    "wof:lastmodified": 1609898741,
     "wof:name": "DG8 6NP",
     "wof:parent_id": 101872369,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.481176, 
-    54.960711, 
-    -4.481176, 
-    54.960711
+    -4.48123, 
+    54.960799, 
+    -4.48123, 
+    54.960799
   ],
-  "geometry": {"coordinates":[-4.481176,54.960711],"type":"Point"}
+  "geometry": {"coordinates":[-4.48123,54.960799],"type":"Point"}
 }

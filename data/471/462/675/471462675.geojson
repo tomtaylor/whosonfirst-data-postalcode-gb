@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.678505,50.782015,-0.678505,50.782015",
-    "geom:latitude": 50.782015,
-    "geom:longitude": -0.678505,
+    "geom:bbox": "-0.678437,50.782166,-0.678437,50.782166",
+    "geom:latitude": 50.782166,
+    "geom:longitude": -0.678437,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      101750317, 
       404227469, 
       1360698607, 
       85633159, 
       1360698757, 
-      404430465, 
-      101750317
+      404430465
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701625,
-    "wof:geomhash": "1eada18697327f4177172b62dfb06774",
+    "wof:geomhash": "ea9dcba099cff9c1955bb378a25dd65d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471462675,
-    "wof:lastmodified": 1583786755,
+    "wof:lastmodified": 1609893067,
     "wof:name": "PO21 1UA",
     "wof:parent_id": 101750317,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.678505, 
-    50.782015, 
-    -0.678505, 
-    50.782015
+    -0.678437, 
+    50.782166, 
+    -0.678437, 
+    50.782166
   ],
-  "geometry": {"coordinates":[-0.678505,50.782015],"type":"Point"}
+  "geometry": {"coordinates":[-0.678437,50.782166],"type":"Point"}
 }

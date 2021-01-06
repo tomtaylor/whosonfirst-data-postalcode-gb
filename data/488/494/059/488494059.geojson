@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1989-04-01",
     "geom:area": 0,
-    "geom:bbox": "-4.087791,55.812651,-4.087791,55.812651",
-    "geom:latitude": 55.812651,
-    "geom:longitude": -4.087791,
+    "geom:bbox": "-4.087777,55.812629,-4.087777,55.812629",
+    "geom:latitude": 55.812629,
+    "geom:longitude": -4.087777,
     "gp:parent_id": "13335",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698969, 
       404453929, 
       404227471, 
-      1360698703
+      1360698703, 
+      85633159, 
+      1360698969
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701508,
-    "wof:geomhash": "8e2ac76ca5dd19fab8e275d7ec1202f9",
+    "wof:geomhash": "5a614a9bf86e82ef92205427ce087a50",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488494059,
-    "wof:lastmodified": 1583786709,
+    "wof:lastmodified": 1609894190,
     "wof:name": "G71 8SP",
     "wof:parent_id": 404453929,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.087791, 
-    55.812651, 
-    -4.087791, 
-    55.812651
+    -4.087777, 
+    55.812629, 
+    -4.087777, 
+    55.812629
   ],
-  "geometry": {"coordinates":[-4.087791,55.812651],"type":"Point"}
+  "geometry": {"coordinates":[-4.087777,55.812629],"type":"Point"}
 }

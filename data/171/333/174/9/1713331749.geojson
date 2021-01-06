@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-02-01",
     "geom:area": 0,
-    "geom:bbox": "-1.682437,52.645768,-1.682437,52.645768",
-    "geom:latitude": 52.645768,
-    "geom:longitude": -1.682437,
+    "geom:bbox": "-1.682720,52.645517,-1.682720,52.645517",
+    "geom:latitude": 52.645517,
+    "geom:longitude": -1.68272,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698947, 
       101750503, 
       404227469, 
-      1360698593
+      1360698593, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735680,
-    "wof:geomhash": "4d2a455df9d2d214d702ba8d9838b7b0",
+    "wof:geomhash": "c29bb276967d1b90b3e6a5abeed643e0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1713331749,
-    "wof:lastmodified": 1595753490,
+    "wof:lastmodified": 1609875515,
     "wof:name": "B79 0EQ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.682437, 
-    52.645768, 
-    -1.682437, 
-    52.645768
+    -1.68272, 
+    52.645517, 
+    -1.68272, 
+    52.645517
   ],
-  "geometry": {"coordinates":[-1.682437,52.645768],"type":"Point"}
+  "geometry": {"coordinates":[-1.68272,52.645517],"type":"Point"}
 }

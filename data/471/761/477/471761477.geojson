@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.016245,52.005333,-0.016245,52.005333",
-    "geom:latitude": 52.005333,
-    "geom:longitude": -0.016245,
+    "geom:bbox": "-0.017625,52.005428,-0.017625,52.005428",
+    "geom:latitude": 52.005428,
+    "geom:longitude": -0.017625,
     "gp:parent_id": "33087",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      1125970591, 
+      404227469, 
       1360698559, 
       85633159, 
       1360698763, 
-      404444447, 
-      1125970591, 
-      404227469
+      404444447
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701735,
-    "wof:geomhash": "c3d1381adb5b6ed6191179dfcb52ee09",
+    "wof:geomhash": "8c4242f13b8c1de93e272a54d0448e4e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471761477,
-    "wof:lastmodified": 1583786907,
+    "wof:lastmodified": 1609902353,
     "wof:name": "SG8 8AJ",
     "wof:parent_id": 404444447,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.016245, 
-    52.005333, 
-    -0.016245, 
-    52.005333
+    -0.017625, 
+    52.005428, 
+    -0.017625, 
+    52.005428
   ],
-  "geometry": {"coordinates":[-0.016245,52.005333],"type":"Point"}
+  "geometry": {"coordinates":[-0.017625,52.005428],"type":"Point"}
 }

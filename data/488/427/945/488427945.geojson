@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.700591,51.480906,-3.700591,51.480906",
-    "geom:latitude": 51.480906,
-    "geom:longitude": -3.700591,
+    "geom:bbox": "-3.700721,51.480825,-3.700721,51.480825",
+    "geom:latitude": 51.480825,
+    "geom:longitude": -3.700721,
     "gp:parent_id": "12696127",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      101852765, 
-      404227475, 
-      1360698631, 
       85633159, 
       1360699051, 
-      404447933
+      404447933, 
+      101852765, 
+      404227475, 
+      1360698631
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701441,
-    "wof:geomhash": "084d54e136fa6d9d81d99578d3b4a139",
+    "wof:geomhash": "82232ad69daa5fc5fee7dc1f9ec729a3",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488427945,
-    "wof:lastmodified": 1583786650,
+    "wof:lastmodified": 1609891519,
     "wof:name": "CF36 5DL",
     "wof:parent_id": 101852765,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.700591, 
-    51.480906, 
-    -3.700591, 
-    51.480906
+    -3.700721, 
+    51.480825, 
+    -3.700721, 
+    51.480825
   ],
-  "geometry": {"coordinates":[-3.700591,51.480906],"type":"Point"}
+  "geometry": {"coordinates":[-3.700721,51.480825],"type":"Point"}
 }

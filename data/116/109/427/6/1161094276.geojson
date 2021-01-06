@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "uuuu",
-    "edtf:inception": "2020-01-01",
+    "edtf:inception": "2020-09-01",
     "geom:area": 0,
     "geom:bbox": "-2.139959,51.372918,-2.139959,51.372918",
     "geom:latitude": 51.372918,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      101852723, 
-      404227469, 
-      1360698611, 
       85633159, 
       1360698937, 
-      404434849
+      404434849, 
+      101852723, 
+      404227469, 
+      1360698611
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1161094276,
-    "wof:lastmodified": 1595712318,
+    "wof:lastmodified": 1609875828,
     "wof:name": "SN12 9BJ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

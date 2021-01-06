@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.543191,51.831680,0.543191,51.831680",
-    "geom:latitude": 51.83168,
-    "geom:longitude": 0.543191,
+    "geom:bbox": "0.543622,51.831338,0.543622,51.831338",
+    "geom:latitude": 51.831338,
+    "geom:longitude": 0.543622,
     "gp:parent_id": "19872",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360754301, 
       404227469, 
       1360698551, 
       85633159, 
       1360698979, 
-      404438483
+      404438483, 
+      1360754301
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701317,
-    "wof:geomhash": "9ecd317bdf88f6d3ddb1deaa491bb233",
+    "wof:geomhash": "62435d759fdbf5907ff428a597d0dc1c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454154025,
-    "wof:lastmodified": 1583786452,
+    "wof:lastmodified": 1609874412,
     "wof:name": "CM3 2BH",
     "wof:parent_id": 404438483,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.543191, 
-    51.83168, 
-    0.543191, 
-    51.83168
+    0.543622, 
+    51.831338, 
+    0.543622, 
+    51.831338
   ],
-  "geometry": {"coordinates":[0.543191,51.83168],"type":"Point"}
+  "geometry": {"coordinates":[0.543622,51.831338],"type":"Point"}
 }

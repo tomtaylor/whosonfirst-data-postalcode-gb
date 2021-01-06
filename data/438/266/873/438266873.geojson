@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.691837,51.505259,-2.691837,51.505259",
-    "geom:latitude": 51.505259,
-    "geom:longitude": -2.691837,
+    "geom:bbox": "-2.690882,51.504968,-2.690882,51.504968",
+    "geom:latitude": 51.504968,
+    "geom:longitude": -2.690882,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,13 +18,13 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698531, 
+      85633159, 
+      1360698747, 
       404431949, 
       1175612699, 
       404227469, 
-      85785419, 
-      1360698531, 
-      85633159, 
-      1360698747
+      85785419
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701454,
-    "wof:geomhash": "70708053d26dc01f95e727ec8580c939",
+    "wof:geomhash": "6a0c60f63fe454d4d555292eb662e4ec",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 438266873,
-    "wof:lastmodified": 1583786592,
+    "wof:lastmodified": 1609882888,
     "wof:name": "BS11 9YS",
     "wof:parent_id": 404431949,
     "wof:placetype": "postalcode",
@@ -55,10 +55,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.691837, 
-    51.505259, 
-    -2.691837, 
-    51.505259
+    -2.690882, 
+    51.504968, 
+    -2.690882, 
+    51.504968
   ],
-  "geometry": {"coordinates":[-2.691837,51.505259],"type":"Point"}
+  "geometry": {"coordinates":[-2.690882,51.504968],"type":"Point"}
 }

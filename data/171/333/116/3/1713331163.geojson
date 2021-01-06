@@ -2,7 +2,7 @@
   "id": 1713331163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-10-01",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
     "geom:bbox": "-2.216947,52.196683,-2.216947,52.196683",
@@ -10,7 +10,7 @@
     "geom:longitude": -2.216947,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000034",
     "os:district_code": "E07000237",
@@ -18,11 +18,11 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698613, 
       85633159, 
       1360699043, 
-      101751607, 
-      404227469, 
-      1360698613
+      101751607
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1713331163,
-    "wof:lastmodified": 1595753467,
+    "wof:lastmodified": 1609875463,
     "wof:name": "WR4 4HX",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

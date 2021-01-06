@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.980999,55.864564,-4.980999,55.864564",
-    "geom:latitude": 55.864564,
-    "geom:longitude": -4.980999,
+    "geom:bbox": "-4.980764,55.864285,-4.980764,55.864285",
+    "geom:latitude": 55.864285,
+    "geom:longitude": -4.980764,
     "gp:parent_id": "37875",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698863, 
       404439789, 
       404227471, 
       1360698695, 
-      85633159, 
-      1360698863
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701455,
-    "wof:geomhash": "68cd05245ba8445844cb955f27800335",
+    "wof:geomhash": "d890bb5750e8c61677e2a435b366c39b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488440283,
-    "wof:lastmodified": 1583786662,
+    "wof:lastmodified": 1609891842,
     "wof:name": "PA23 7UB",
     "wof:parent_id": 404439789,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.980999, 
-    55.864564, 
-    -4.980999, 
-    55.864564
+    -4.980764, 
+    55.864285, 
+    -4.980764, 
+    55.864285
   ],
-  "geometry": {"coordinates":[-4.980999,55.864564],"type":"Point"}
+  "geometry": {"coordinates":[-4.980764,55.864285],"type":"Point"}
 }

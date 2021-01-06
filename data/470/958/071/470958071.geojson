@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.610042,51.364750,0.610042,51.364750",
-    "geom:latitude": 51.36475,
-    "geom:longitude": 0.610042,
+    "geom:bbox": "0.610116,51.364794,0.610116,51.364794",
+    "geom:latitude": 51.364794,
+    "geom:longitude": 0.610116,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698565, 
-      85633159, 
-      1360699105, 
       1360817083, 
       101750327, 
-      404227469
+      404227469, 
+      1360698565, 
+      85633159, 
+      1360699105
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701336,
-    "wof:geomhash": "0b25446a5611ecc536213f71a747026d",
+    "wof:geomhash": "03f15260f986ca4f2ef111ccd1611ba3",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 470958071,
-    "wof:lastmodified": 1583786469,
+    "wof:lastmodified": 1609876930,
     "wof:name": "ME8 7SB",
     "wof:parent_id": 101750329,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.610042, 
-    51.36475, 
-    0.610042, 
-    51.36475
+    0.610116, 
+    51.364794, 
+    0.610116, 
+    51.364794
   ],
-  "geometry": {"coordinates":[0.610042,51.36475],"type":"Point"}
+  "geometry": {"coordinates":[0.610116,51.364794],"type":"Point"}
 }

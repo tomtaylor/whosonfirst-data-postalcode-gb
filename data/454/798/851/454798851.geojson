@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.721320,51.987599,-2.721320,51.987599",
-    "geom:latitude": 51.987599,
-    "geom:longitude": -2.72132,
+    "geom:bbox": "-2.721224,51.987842,-2.721224,51.987842",
+    "geom:latitude": 51.987842,
+    "geom:longitude": -2.721224,
     "gp:parent_id": "11935",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699053, 
       404437699, 
       1360753015, 
       404227469, 
       1360698617, 
-      85633159
+      85633159, 
+      1360699053
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701719,
-    "wof:geomhash": "fc469a52b0cb1f5d7f52936fb68d99d7",
+    "wof:geomhash": "910e89b21d22138318f1e2a0dfd10d22",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454798851,
-    "wof:lastmodified": 1583786859,
+    "wof:lastmodified": 1609902545,
     "wof:name": "HR2 8AZ",
     "wof:parent_id": 404437699,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.72132, 
-    51.987599, 
-    -2.72132, 
-    51.987599
+    -2.721224, 
+    51.987842, 
+    -2.721224, 
+    51.987842
   ],
-  "geometry": {"coordinates":[-2.72132,51.987599],"type":"Point"}
+  "geometry": {"coordinates":[-2.721224,51.987842],"type":"Point"}
 }

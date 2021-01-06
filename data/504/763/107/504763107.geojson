@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.265982,55.864374,-4.265982,55.864374",
-    "geom:latitude": 55.864374,
-    "geom:longitude": -4.265982,
+    "geom:bbox": "-4.265868,55.864307,-4.265868,55.864307",
+    "geom:latitude": 55.864307,
+    "geom:longitude": -4.265868,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1175612707, 
-      404227471, 
       85792619, 
       1360698707, 
       85633159, 
       1360698797, 
-      404430153
+      404430153, 
+      1175612707, 
+      404227471
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701559,
-    "wof:geomhash": "48fb18e95bd32b963eed23441f1cc49a",
+    "wof:geomhash": "0deac81a82f7b8410be2847ef341c324",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 504763107,
-    "wof:lastmodified": 1583786709,
+    "wof:lastmodified": 1609889671,
     "wof:name": "G2 4DQ",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.265982, 
-    55.864374, 
-    -4.265982, 
-    55.864374
+    -4.265868, 
+    55.864307, 
+    -4.265868, 
+    55.864307
   ],
-  "geometry": {"coordinates":[-4.265982,55.864374],"type":"Point"}
+  "geometry": {"coordinates":[-4.265868,55.864307],"type":"Point"}
 }

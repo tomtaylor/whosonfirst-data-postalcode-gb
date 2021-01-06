@@ -2,45 +2,45 @@
   "id": 1161109492,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "1990-12-01",
-    "edtf:inception": "1980-01-01",
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-07-01",
     "geom:area": 0,
-    "geom:bbox": "-2.994249,53.406271,-2.994249,53.406271",
-    "geom:latitude": 53.406271,
-    "geom:longitude": -2.994249,
+    "geom:bbox": "-3.000742,53.415672,-3.000742,53.415672",
+    "geom:latitude": 53.415672,
+    "geom:longitude": -3.000742,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E08000012",
-    "os:positional_quality_indicator": "8",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
       1360698971, 
       101750547, 
       404227469, 
-      85793275, 
+      85861599, 
       1360698573, 
       85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583804289,
-    "wof:geomhash": "4ce7ef04ed35889b07366ba69d7e19ad",
+    "wof:geomhash": "4600aa01965f321072552c9f7f5df025",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360698971,
         "locality_id": 101750547,
         "macroregion_id": 404227469,
-        "neighbourhood_id": 85793275,
+        "neighbourhood_id": 85861599,
         "region_id": 1360698573
       }
     ],
     "wof:id": 1161109492,
-    "wof:lastmodified": 1583804289,
+    "wof:lastmodified": 1609876320,
     "wof:name": "L3 0AQ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.994249, 
-    53.406271, 
-    -2.994249, 
-    53.406271
+    -3.000742, 
+    53.415672, 
+    -3.000742, 
+    53.415672
   ],
-  "geometry": {"coordinates":[-2.994249,53.406271],"type":"Point"}
+  "geometry": {"coordinates":[-3.000742,53.415672],"type":"Point"}
 }

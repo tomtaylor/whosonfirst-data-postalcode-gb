@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.910029,55.548578,-1.910029,55.548578",
-    "geom:latitude": 55.548578,
-    "geom:longitude": -1.910029,
+    "geom:bbox": "-1.909707,55.548649,-1.909707,55.548649",
+    "geom:latitude": 55.548649,
+    "geom:longitude": -1.909707,
     "gp:parent_id": "15736",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      404448207, 
       1125979265, 
       404227469, 
       1360698727, 
       85633159, 
-      1360698769
+      1360698769, 
+      404448207
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701282,
-    "wof:geomhash": "93a52ecf074a3aebf9b17e9d86acc68c",
+    "wof:geomhash": "3aeb38ecd86e0ffeeccb9294b6becfdd",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471094993,
-    "wof:lastmodified": 1583786427,
+    "wof:lastmodified": 1609872640,
     "wof:name": "NE66 5PX",
     "wof:parent_id": 404448207,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.910029, 
-    55.548578, 
-    -1.910029, 
-    55.548578
+    -1.909707, 
+    55.548649, 
+    -1.909707, 
+    55.548649
   ],
-  "geometry": {"coordinates":[-1.910029,55.548578],"type":"Point"}
+  "geometry": {"coordinates":[-1.909707,55.548649],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.917377,50.857678,-0.917377,50.857678",
-    "geom:latitude": 50.857678,
-    "geom:longitude": -0.917377,
+    "geom:bbox": "-0.917545,50.857769,-0.917545,50.857769",
+    "geom:latitude": 50.857769,
+    "geom:longitude": -0.917545,
     "gp:parent_id": "19601",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698607, 
       85633159, 
       1360698757, 
       404453483, 
       1125863853, 
-      404227469
+      404227469, 
+      1360698607
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701611,
-    "wof:geomhash": "aab245562ea18b1bfdfc937a96c5bdf0",
+    "wof:geomhash": "ea04b1d1acc9c7deffbe926e488b69c3",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471442299,
-    "wof:lastmodified": 1583786746,
+    "wof:lastmodified": 1609892287,
     "wof:name": "PO10 8RX",
     "wof:parent_id": 404453483,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.917377, 
-    50.857678, 
-    -0.917377, 
-    50.857678
+    -0.917545, 
+    50.857769, 
+    -0.917545, 
+    50.857769
   ],
-  "geometry": {"coordinates":[-0.917377,50.857678],"type":"Point"}
+  "geometry": {"coordinates":[-0.917545,50.857769],"type":"Point"}
 }

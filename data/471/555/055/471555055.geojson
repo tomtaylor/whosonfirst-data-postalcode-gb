@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1995-07-01",
     "geom:area": 0,
-    "geom:bbox": "-0.866476,51.431720,-0.866476,51.431720",
-    "geom:latitude": 51.43172,
-    "geom:longitude": -0.866476,
+    "geom:bbox": "-0.866474,51.431801,-0.866474,51.431801",
+    "geom:latitude": 51.431801,
+    "geom:longitude": -0.866474,
     "gp:parent_id": "40671",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1125928983, 
+      404227469, 
       1360698529, 
       85633159, 
       1360698967, 
-      404433233, 
-      1125928983, 
-      404227469
+      404433233
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701670,
-    "wof:geomhash": "3769fbe3d95d6501040378e4c221fb75",
+    "wof:geomhash": "286e8bfc6422acc345d09553ca9bb1c0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471555055,
-    "wof:lastmodified": 1583786803,
+    "wof:lastmodified": 1609896754,
     "wof:name": "RG41 5LE",
     "wof:parent_id": 404433233,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.866476, 
-    51.43172, 
-    -0.866476, 
-    51.43172
+    -0.866474, 
+    51.431801, 
+    -0.866474, 
+    51.431801
   ],
-  "geometry": {"coordinates":[-0.866476,51.43172],"type":"Point"}
+  "geometry": {"coordinates":[-0.866474,51.431801],"type":"Point"}
 }

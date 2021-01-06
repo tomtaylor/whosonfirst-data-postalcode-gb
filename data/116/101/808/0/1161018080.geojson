@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-04-01",
     "geom:area": 0,
-    "geom:bbox": "0.092924,52.152803,0.092924,52.152803",
-    "geom:latitude": 52.152803,
-    "geom:longitude": 0.092924,
+    "geom:bbox": "0.092850,52.152787,0.092850,52.152787",
+    "geom:latitude": 52.152787,
+    "geom:longitude": 0.09285,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698535, 
       85633159, 
       1360698845, 
       404432763, 
       1209242107, 
-      404227469, 
-      1360698535
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583800229,
-    "wof:geomhash": "5fa7e38b71ab36d0b747d1ed4df0a82f",
+    "wof:geomhash": "8437a243d737fec9f37e418e6b4cd73e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1161018080,
-    "wof:lastmodified": 1595711431,
+    "wof:lastmodified": 1609875020,
     "wof:name": "CB22 5GE",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.092924, 
-    52.152803, 
-    0.092924, 
-    52.152803
+    0.09285, 
+    52.152787, 
+    0.09285, 
+    52.152787
   ],
-  "geometry": {"coordinates":[0.092924,52.152803],"type":"Point"}
+  "geometry": {"coordinates":[0.09285,52.152787],"type":"Point"}
 }

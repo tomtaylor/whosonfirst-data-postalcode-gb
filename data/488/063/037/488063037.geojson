@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.431955,53.391849,-2.431955,53.391849",
-    "geom:latitude": 53.391849,
-    "geom:longitude": -2.431955,
+    "geom:bbox": "-2.431943,53.392110,-2.431943,53.392110",
+    "geom:latitude": 53.39211,
+    "geom:longitude": -2.431943,
     "gp:parent_id": "39144",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698935, 
       404453441, 
       1125844337, 
       404227469, 
-      1360698555
+      1360698555, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701222,
-    "wof:geomhash": "6ace86091b75f6e0b20d1eba81af0a41",
+    "wof:geomhash": "dbec0f019a02157a01a9c4d99d2e0063",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488063037,
-    "wof:lastmodified": 1595728037,
+    "wof:lastmodified": 1609870705,
     "wof:name": "WA13 9UN",
     "wof:parent_id": 404453441,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.431955, 
-    53.391849, 
-    -2.431955, 
-    53.391849
+    -2.431943, 
+    53.39211, 
+    -2.431943, 
+    53.39211
   ],
-  "geometry": {"coordinates":[-2.431955,53.391849],"type":"Point"}
+  "geometry": {"coordinates":[-2.431943,53.39211],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1983-03-01",
     "geom:area": 0,
-    "geom:bbox": "-0.676907,53.553270,-0.676907,53.553270",
-    "geom:latitude": 53.55327,
-    "geom:longitude": -0.676907,
+    "geom:bbox": "-0.676944,53.553540,-0.676944,53.553540",
+    "geom:latitude": 53.55354,
+    "geom:longitude": -0.676944,
     "gp:parent_id": "34260",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360698901, 
       404446871, 
       1125882545, 
       404227469, 
-      1360698571, 
-      85633159
+      1360698571
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701558,
-    "wof:geomhash": "05113ec50e378bff1a0b262f34a89fb0",
+    "wof:geomhash": "93229d16804b98ce182cf5ee436861c7",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454425055,
-    "wof:lastmodified": 1583786687,
+    "wof:lastmodified": 1609889030,
     "wof:name": "DN17 2AZ",
     "wof:parent_id": 101750557,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.676907, 
-    53.55327, 
-    -0.676907, 
-    53.55327
+    -0.676944, 
+    53.55354, 
+    -0.676944, 
+    53.55354
   ],
-  "geometry": {"coordinates":[-0.676907,53.55327],"type":"Point"}
+  "geometry": {"coordinates":[-0.676944,53.55354],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1993-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.675723,53.853417,-1.675723,53.853417",
-    "geom:latitude": 53.853417,
-    "geom:longitude": -1.675723,
+    "geom:bbox": "-1.675803,53.853522,-1.675803,53.853522",
+    "geom:latitude": 53.853522,
+    "geom:longitude": -1.675803,
     "gp:parent_id": "32982",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698609, 
       85633159, 
       1360698749, 
       101750579, 
-      404227469
+      404227469, 
+      1360698609
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701091,
-    "wof:geomhash": "46a6f5fdd10fd3e328b4686c5637dc82",
+    "wof:geomhash": "5fc7d105b392c881e18f428eecebe2bb",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 470818085,
-    "wof:lastmodified": 1583786345,
+    "wof:lastmodified": 1609868754,
     "wof:name": "LS19 6RN",
     "wof:parent_id": 404432293,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.675723, 
-    53.853417, 
-    -1.675723, 
-    53.853417
+    -1.675803, 
+    53.853522, 
+    -1.675803, 
+    53.853522
   ],
-  "geometry": {"coordinates":[-1.675723,53.853417],"type":"Point"}
+  "geometry": {"coordinates":[-1.675803,53.853522],"type":"Point"}
 }

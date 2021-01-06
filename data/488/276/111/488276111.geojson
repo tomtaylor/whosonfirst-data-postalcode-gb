@@ -2,7 +2,7 @@
   "id": 488276111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-07-01",
     "edtf:inception": "2008-06-01",
     "geom:area": 0,
     "geom:bbox": "-2.957023,51.343881,-2.957023,51.343881",
@@ -11,7 +11,7 @@
     "gp:parent_id": "40016",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000024",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360699111, 
       404444501, 
       101751595, 
       404227469, 
-      1360698589, 
-      85633159
+      1360698589
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488276111,
-    "wof:lastmodified": 1583786483,
+    "wof:lastmodified": 1609884067,
     "wof:name": "BS23 9HJ",
     "wof:parent_id": 101751595,
     "wof:placetype": "postalcode",

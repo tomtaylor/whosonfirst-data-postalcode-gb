@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-09-01",
     "geom:area": 0,
-    "geom:bbox": "-2.740169,50.809117,-2.740169,50.809117",
-    "geom:latitude": 50.809117,
-    "geom:longitude": -2.740169,
+    "geom:bbox": "-2.740252,50.808999,-2.740252,50.808999",
+    "geom:latitude": 50.808999,
+    "geom:longitude": -2.740252,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698545, 
-      85633159, 
-      1360698745, 
       404449409, 
       101852363, 
-      404227469
+      404227469, 
+      1360698545, 
+      85633159, 
+      1360698745
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583790642,
-    "wof:geomhash": "c7366e132c50bdbdd1d2d561477f8815",
+    "wof:geomhash": "71cdb9cf6d14a620818609c046a68b5d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160802956,
-    "wof:lastmodified": 1583790642,
+    "wof:lastmodified": 1609870042,
     "wof:name": "DT8 3FP",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.740169, 
-    50.809117, 
-    -2.740169, 
-    50.809117
+    -2.740252, 
+    50.808999, 
+    -2.740252, 
+    50.808999
   ],
-  "geometry": {"coordinates":[-2.740169,50.809117],"type":"Point"}
+  "geometry": {"coordinates":[-2.740252,50.808999],"type":"Point"}
 }

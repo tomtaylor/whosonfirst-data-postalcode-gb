@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.282428,52.031622,0.282428,52.031622",
-    "geom:latitude": 52.031622,
-    "geom:longitude": 0.282428,
+    "geom:bbox": "0.294222,52.033317,0.294222,52.033317",
+    "geom:latitude": 52.033317,
+    "geom:longitude": 0.294222,
     "gp:parent_id": "34403",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698979, 
-      404430665, 
-      1276794161, 
       404227469, 
       1360698551, 
-      85633159
+      85633159, 
+      1360698979, 
+      404429629, 
+      1125854557
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,19 +32,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701166,
-    "wof:geomhash": "b0c8c1a6fced71d6244834d94575c7c0",
+    "wof:geomhash": "bdbbf81a81a197a2d7902f5f066a4198",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360698979,
-        "localadmin_id": 404430665,
-        "locality_id": 1276794161,
+        "localadmin_id": 404429629,
+        "locality_id": 1125854557,
         "macroregion_id": 404227469,
         "region_id": 1360698551
       }
     ],
     "wof:id": 454079085,
-    "wof:lastmodified": 1583786309,
+    "wof:lastmodified": 1609869868,
     "wof:name": "CB10 2LP",
     "wof:parent_id": 404430665,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.282428, 
-    52.031622, 
-    0.282428, 
-    52.031622
+    0.294222, 
+    52.033317, 
+    0.294222, 
+    52.033317
   ],
-  "geometry": {"coordinates":[0.282428,52.031622],"type":"Point"}
+  "geometry": {"coordinates":[0.294222,52.033317],"type":"Point"}
 }

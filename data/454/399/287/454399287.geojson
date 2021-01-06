@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.492975,54.487583,-1.492975,54.487583",
-    "geom:latitude": 54.487583,
-    "geom:longitude": -1.492975,
+    "geom:bbox": "-1.492603,54.487716,-1.492603,54.487716",
+    "geom:latitude": 54.487716,
+    "geom:longitude": -1.492603,
     "gp:parent_id": "29732",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698621, 
       85633159, 
       1360698889, 
       404447531, 
-      1293321883
+      1293321883, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701540,
-    "wof:geomhash": "f23d363779b821a26b269611e71c2535",
+    "wof:geomhash": "0a0c4f919259bbd8623e1ff1885809a1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454399287,
-    "wof:lastmodified": 1595715016,
+    "wof:lastmodified": 1609887525,
     "wof:name": "DL2 1QX",
     "wof:parent_id": 404447531,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.492975, 
-    54.487583, 
-    -1.492975, 
-    54.487583
+    -1.492603, 
+    54.487716, 
+    -1.492603, 
+    54.487716
   ],
-  "geometry": {"coordinates":[-1.492975,54.487583],"type":"Point"}
+  "geometry": {"coordinates":[-1.492603,54.487716],"type":"Point"}
 }

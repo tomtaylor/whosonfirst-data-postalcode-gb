@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.996605,51.955902,0.996605,51.955902",
-    "geom:latitude": 51.955902,
-    "geom:longitude": 0.996605,
+    "geom:bbox": "0.996336,51.955796,0.996336,51.955796",
+    "geom:latitude": 51.955796,
+    "geom:longitude": 0.996336,
     "gp:parent_id": "18016",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698551, 
       85633159, 
       1360698979, 
       404447943, 
       1125879213, 
-      404227469
+      404227469, 
+      1360698551
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701358,
-    "wof:geomhash": "3cf654cbc6a8c94218bb417613a382bf",
+    "wof:geomhash": "ad4d86eee926e34ba8251d9a5548f1ba",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454192133,
-    "wof:lastmodified": 1583786485,
+    "wof:lastmodified": 1609877339,
     "wof:name": "CO7 6AG",
     "wof:parent_id": 404447943,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.996605, 
-    51.955902, 
-    0.996605, 
-    51.955902
+    0.996336, 
+    51.955796, 
+    0.996336, 
+    51.955796
   ],
-  "geometry": {"coordinates":[0.996605,51.955902],"type":"Point"}
+  "geometry": {"coordinates":[0.996336,51.955796],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2007-11-01",
     "geom:area": 0,
-    "geom:bbox": "-0.392934,51.657900,-0.392934,51.657900",
-    "geom:latitude": 51.6579,
-    "geom:longitude": -0.392934,
+    "geom:bbox": "-0.392979,51.657828,-0.392979,51.657828",
+    "geom:latitude": 51.657828,
+    "geom:longitude": -0.392979,
     "gp:parent_id": "39321",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360698763, 
       101751603, 
       404227469, 
-      1360698559, 
-      85633159
+      1360698559
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701391,
-    "wof:geomhash": "48d1640917a60842d44320148b5593e4",
+    "wof:geomhash": "9b0422fa77a1cf12607dba3495da5064",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488379531,
-    "wof:lastmodified": 1595733261,
+    "wof:lastmodified": 1609889052,
     "wof:name": "WD17 2AB",
     "wof:parent_id": 101751603,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.392934, 
-    51.6579, 
-    -0.392934, 
-    51.6579
+    -0.392979, 
+    51.657828, 
+    -0.392979, 
+    51.657828
   ],
-  "geometry": {"coordinates":[-0.392934,51.6579],"type":"Point"}
+  "geometry": {"coordinates":[-0.392979,51.657828],"type":"Point"}
 }

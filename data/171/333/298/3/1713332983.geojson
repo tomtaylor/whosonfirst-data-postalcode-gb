@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-02-01",
     "geom:area": 0,
-    "geom:bbox": "0.415131,51.047138,0.415131,51.047138",
-    "geom:latitude": 51.047138,
-    "geom:longitude": 0.415131,
+    "geom:bbox": "0.414830,51.047387,0.414830,51.047387",
+    "geom:latitude": 51.047387,
+    "geom:longitude": 0.41483,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698815, 
       404447051, 
       1125973289, 
       404227469, 
-      1360698549
+      1360698549, 
+      85633159, 
+      1360698815
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735724,
-    "wof:geomhash": "694845e17729037348305b2643424e0c",
+    "wof:geomhash": "3b10f8c99707f7c68504958155d105f4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1713332983,
-    "wof:lastmodified": 1595753552,
+    "wof:lastmodified": 1609875627,
     "wof:name": "TN5 7FH",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.415131, 
-    51.047138, 
-    0.415131, 
-    51.047138
+    0.41483, 
+    51.047387, 
+    0.41483, 
+    51.047387
   ],
-  "geometry": {"coordinates":[0.415131,51.047138],"type":"Point"}
+  "geometry": {"coordinates":[0.41483,51.047387],"type":"Point"}
 }

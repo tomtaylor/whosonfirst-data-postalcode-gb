@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.207722,51.887039,-2.207722,51.887039",
-    "geom:latitude": 51.887039,
-    "geom:longitude": -2.207722,
+    "geom:bbox": "-2.207591,51.887030,-2.207591,51.887030",
+    "geom:latitude": 51.88703,
+    "geom:longitude": -2.207591,
     "gp:parent_id": "24434",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698553, 
       85633159, 
       1360698927, 
       404430185, 
-      1125844293, 
-      404227469, 
-      1360698553
+      1125844293
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701675,
-    "wof:geomhash": "d0dd08f88f9c9f0cfc91fa1a539f6cce",
+    "wof:geomhash": "14216c74ffc9604f05483aaa7ad3df1d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454642249,
-    "wof:lastmodified": 1583786814,
+    "wof:lastmodified": 1609897922,
     "wof:name": "GL3 1BQ",
     "wof:parent_id": 101750437,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.207722, 
-    51.887039, 
-    -2.207722, 
-    51.887039
+    -2.207591, 
+    51.88703, 
+    -2.207591, 
+    51.88703
   ],
-  "geometry": {"coordinates":[-2.207722,51.887039],"type":"Point"}
+  "geometry": {"coordinates":[-2.207591,51.88703],"type":"Point"}
 }

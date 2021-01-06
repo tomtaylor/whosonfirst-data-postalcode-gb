@@ -5,29 +5,29 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-10-01",
     "geom:area": 0,
-    "geom:bbox": "-3.961430,56.196855,-3.961430,56.196855",
-    "geom:latitude": 56.196855,
-    "geom:longitude": -3.96143,
+    "geom:bbox": "-3.956573,56.200553,-3.956573,56.200553",
+    "geom:latitude": 56.200553,
+    "geom:longitude": -3.956573,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "os:country_code": "S92000003",
     "os:county_code": "S99999999",
     "os:district_code": "S12000030",
-    "os:positional_quality_indicator": "5",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698655, 
       85633159, 
       1360699003, 
       404433721, 
-      404227471
+      404227471, 
+      1360698655
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583794606,
-    "wof:geomhash": "b1850ae97d4a67446613fe346540c97c",
+    "wof:geomhash": "e70b25e0e5133d029466cafe97ead941",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1160891436,
-    "wof:lastmodified": 1583794606,
+    "wof:lastmodified": 1609871535,
     "wof:name": "FK15 0FT",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.96143, 
-    56.196855, 
-    -3.96143, 
-    56.196855
+    -3.956573, 
+    56.200553, 
+    -3.956573, 
+    56.200553
   ],
-  "geometry": {"coordinates":[-3.96143,56.196855],"type":"Point"}
+  "geometry": {"coordinates":[-3.956573,56.200553],"type":"Point"}
 }

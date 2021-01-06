@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.527141,52.020421,-1.527141,52.020421",
-    "geom:latitude": 52.020421,
-    "geom:longitude": -1.527141,
+    "geom:bbox": "-1.522109,52.023610,-1.522109,52.023610",
+    "geom:latitude": 52.02361,
+    "geom:longitude": -1.522109,
     "gp:parent_id": "40153",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698603, 
       85633159, 
       1360698891, 
       404451835, 
-      1125905353
+      1125905353, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701431,
-    "wof:geomhash": "3ddf50b133916c0057a1bae9d29b041a",
+    "wof:geomhash": "fd02e4e4c47c19edbf8d0b369dfff2ee",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454273189,
-    "wof:lastmodified": 1595713906,
+    "wof:lastmodified": 1609881099,
     "wof:name": "CV36 5PR",
     "wof:parent_id": 404451835,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.527141, 
-    52.020421, 
-    -1.527141, 
-    52.020421
+    -1.522109, 
+    52.02361, 
+    -1.522109, 
+    52.02361
   ],
-  "geometry": {"coordinates":[-1.527141,52.020421],"type":"Point"}
+  "geometry": {"coordinates":[-1.522109,52.02361],"type":"Point"}
 }

@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.189746,51.450298,-0.189746,51.450298",
-    "geom:latitude": 51.450298,
-    "geom:longitude": -0.189746,
+    "geom:bbox": "-0.189663,51.450306,-0.189663,51.450306",
+    "geom:latitude": 51.450306,
+    "geom:longitude": -0.189663,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      1158894057, 
+      1360698645, 
       1158857251, 
       85633159, 
       101750367, 
-      404227469, 
-      1158894057, 
-      1360698645
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701147,
-    "wof:geomhash": "36a1e668cd1e5aa2e5e17458ca8b61d5",
+    "wof:geomhash": "1835ccb14144e303f0a57accc683a8dc",
     "wof:hierarchy": [
       {
         "borough_id": 1158857251,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487743857,
-    "wof:lastmodified": 1583786248,
+    "wof:lastmodified": 1609877479,
     "wof:name": "SW18 4DR",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.189746, 
-    51.450298, 
-    -0.189746, 
-    51.450298
+    -0.189663, 
+    51.450306, 
+    -0.189663, 
+    51.450306
   ],
-  "geometry": {"coordinates":[-0.189746,51.450298],"type":"Point"}
+  "geometry": {"coordinates":[-0.189663,51.450306],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1995-07-01",
     "geom:area": 0,
-    "geom:bbox": "-6.766848,57.852208,-6.766848,57.852208",
-    "geom:latitude": 57.852208,
-    "geom:longitude": -6.766848,
+    "geom:bbox": "-6.768341,57.852794,-6.768341,57.852794",
+    "geom:latitude": 57.852794,
+    "geom:longitude": -6.768341,
     "gp:parent_id": "12696213",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227471, 
-      1360698685, 
       85633159, 
       1360699007, 
-      404429199
+      404429199, 
+      404227471, 
+      1360698685
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701245,
-    "wof:geomhash": "30c6266d30352e8d104a509ed18ada39",
+    "wof:geomhash": "2d96e1865e2c2945f19035ea57a89707",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504433041,
-    "wof:lastmodified": 1583786363,
+    "wof:lastmodified": 1609871011,
     "wof:name": "HS3 3DX",
     "wof:parent_id": 404429199,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -6.766848, 
-    57.852208, 
-    -6.766848, 
-    57.852208
+    -6.768341, 
+    57.852794, 
+    -6.768341, 
+    57.852794
   ],
-  "geometry": {"coordinates":[-6.766848,57.852208],"type":"Point"}
+  "geometry": {"coordinates":[-6.768341,57.852794],"type":"Point"}
 }

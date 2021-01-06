@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.487487,51.714082,-0.487487,51.714082",
-    "geom:latitude": 51.714082,
-    "geom:longitude": -0.487487,
+    "geom:bbox": "-0.487325,51.713987,-0.487325,51.713987",
+    "geom:latitude": 51.713987,
+    "geom:longitude": -0.487325,
     "gp:parent_id": "15954",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360698763, 
       404454581, 
       1125846915, 
       404227469, 
-      1360698559, 
-      85633159
+      1360698559
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701252,
-    "wof:geomhash": "8ba122ed2fe5888f06db1c68df4396ba",
+    "wof:geomhash": "840624f3664951455b7edf24669d1bf7",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488112523,
-    "wof:lastmodified": 1583786410,
+    "wof:lastmodified": 1609873844,
     "wof:name": "WD4 9EY",
     "wof:parent_id": 404454581,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.487487, 
-    51.714082, 
-    -0.487487, 
-    51.714082
+    -0.487325, 
+    51.713987, 
+    -0.487325, 
+    51.713987
   ],
-  "geometry": {"coordinates":[-0.487487,51.714082],"type":"Point"}
+  "geometry": {"coordinates":[-0.487325,51.713987],"type":"Point"}
 }

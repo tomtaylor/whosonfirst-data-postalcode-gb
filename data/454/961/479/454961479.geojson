@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.791300,53.374870,-2.791300,53.374870",
-    "geom:latitude": 53.37487,
-    "geom:longitude": -2.7913,
+    "geom:bbox": "-2.791194,53.374853,-2.791194,53.374853",
+    "geom:latitude": 53.374853,
+    "geom:longitude": -2.791194,
     "gp:parent_id": "36974",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      404440377, 
       1360756155, 
       404227469, 
       1360698573, 
       85633159, 
-      1360698941
+      1360698941, 
+      404440377
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701763,
-    "wof:geomhash": "84525cbcea6a4edcb6392e8e46a9634e",
+    "wof:geomhash": "449cf5bc88d2a48ee8de1faffc6c2fcc",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454961479,
-    "wof:lastmodified": 1583786898,
+    "wof:lastmodified": 1609905329,
     "wof:name": "L35 1RT",
     "wof:parent_id": 404440377,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.7913, 
-    53.37487, 
-    -2.7913, 
-    53.37487
+    -2.791194, 
+    53.374853, 
+    -2.791194, 
+    53.374853
   ],
-  "geometry": {"coordinates":[-2.7913,53.37487],"type":"Point"}
+  "geometry": {"coordinates":[-2.791194,53.374853],"type":"Point"}
 }

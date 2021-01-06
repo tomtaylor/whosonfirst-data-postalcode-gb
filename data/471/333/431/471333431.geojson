@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2001-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.399896,51.824718,-1.399896,51.824718",
-    "geom:latitude": 51.824718,
-    "geom:longitude": -1.399896,
+    "geom:bbox": "-1.400563,51.824521,-1.400563,51.824521",
+    "geom:latitude": 51.824521,
+    "geom:longitude": -1.400563,
     "gp:parent_id": "27337",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404436945, 
-      1360759079, 
       404227469, 
-      1360698585, 
       85633159, 
-      1360698839
+      1360698839, 
+      404436945, 
+      1360759079
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,19 +31,18 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701509,
-    "wof:geomhash": "7843321b89997597b9d865cffd566421",
+    "wof:geomhash": "d827fe62fe92790917607cf44d81690e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360698839,
         "localadmin_id": 404436945,
         "locality_id": 1360759079,
-        "macroregion_id": 404227469,
-        "region_id": 1360698585
+        "macroregion_id": 404227469
       }
     ],
     "wof:id": 471333431,
-    "wof:lastmodified": 1583786659,
+    "wof:lastmodified": 1609886880,
     "wof:name": "OX29 8BH",
     "wof:parent_id": 404436945,
     "wof:placetype": "postalcode",
@@ -54,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.399896, 
-    51.824718, 
-    -1.399896, 
-    51.824718
+    -1.400563, 
+    51.824521, 
+    -1.400563, 
+    51.824521
   ],
-  "geometry": {"coordinates":[-1.399896,51.824718],"type":"Point"}
+  "geometry": {"coordinates":[-1.400563,51.824521],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.760935,54.999929,-1.760935,54.999929",
-    "geom:latitude": 54.999929,
-    "geom:longitude": -1.760935,
+    "geom:bbox": "-1.761233,54.999750,-1.761233,54.999750",
+    "geom:latitude": 54.99975,
+    "geom:longitude": -1.761233,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698601, 
       85633159, 
       1360698961, 
-      101750617
+      101750617, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583801944,
-    "wof:geomhash": "e542c158583d67bc8b3fa4d62b66f0d6",
+    "wof:geomhash": "882cfc9aaab7b573a0ef92fd78e21dbf",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1161055650,
-    "wof:lastmodified": 1583801944,
+    "wof:lastmodified": 1609875546,
     "wof:name": "NE15 9DF",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.760935, 
-    54.999929, 
-    -1.760935, 
-    54.999929
+    -1.761233, 
+    54.99975, 
+    -1.761233, 
+    54.99975
   ],
-  "geometry": {"coordinates":[-1.760935,54.999929],"type":"Point"}
+  "geometry": {"coordinates":[-1.761233,54.99975],"type":"Point"}
 }

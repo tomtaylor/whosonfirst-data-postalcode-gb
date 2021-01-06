@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1999-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.565450,55.022189,-1.565450,55.022189",
-    "geom:latitude": 55.022189,
-    "geom:longitude": -1.56545,
+    "geom:bbox": "-1.565558,55.022197,-1.565558,55.022197",
+    "geom:latitude": 55.022197,
+    "geom:longitude": -1.565558,
     "gp:parent_id": "20429",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360699037, 
       1360817045, 
       1360832421, 
       404227469, 
-      1360698601, 
-      85633159, 
-      1360699037
+      1360698601
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701137,
-    "wof:geomhash": "303ce3c5e799bd9f491d4c74d3307505",
+    "wof:geomhash": "2c939e79659f1c8312954887b4cb065c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471033853,
-    "wof:lastmodified": 1583786264,
+    "wof:lastmodified": 1609869476,
     "wof:name": "NE12 7LJ",
     "wof:parent_id": 101750617,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.56545, 
-    55.022189, 
-    -1.56545, 
-    55.022189
+    -1.565558, 
+    55.022197, 
+    -1.565558, 
+    55.022197
   ],
-  "geometry": {"coordinates":[-1.56545,55.022189],"type":"Point"}
+  "geometry": {"coordinates":[-1.565558,55.022197],"type":"Point"}
 }

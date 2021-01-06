@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.166238,51.893982,-1.166238,51.893982",
-    "geom:latitude": 51.893982,
-    "geom:longitude": -1.166238,
+    "geom:bbox": "-1.167646,51.894064,-1.167646,51.894064",
+    "geom:latitude": 51.894064,
+    "geom:longitude": -1.167646,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      101852925, 
-      404227469, 
       1360698585, 
       85633159, 
       1360698839, 
-      404454093
+      404454093, 
+      101852925, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583797545,
-    "wof:geomhash": "db292ea9475ccf0f8b84bf9b48adb742",
+    "wof:geomhash": "53e2a946e7d9065b79bdc96c957aeb0e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160957636,
-    "wof:lastmodified": 1583797545,
+    "wof:lastmodified": 1609873384,
     "wof:name": "OX26 1DU",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.166238, 
-    51.893982, 
-    -1.166238, 
-    51.893982
+    -1.167646, 
+    51.894064, 
+    -1.167646, 
+    51.894064
   ],
-  "geometry": {"coordinates":[-1.166238,51.893982],"type":"Point"}
+  "geometry": {"coordinates":[-1.167646,51.894064],"type":"Point"}
 }

@@ -2,7 +2,7 @@
   "id": 874431671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-09-01",
     "edtf:inception": "2010-11-01",
     "geom:area": 0,
     "geom:bbox": "-3.065906,53.365688,-3.065906,53.365688",
@@ -10,7 +10,7 @@
     "geom:longitude": -3.065906,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E08000015",
@@ -18,11 +18,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      101750549, 
       404227469, 
       1360698573, 
       85633159, 
-      1360699049
+      1360699049, 
+      101750549
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 874431671,
-    "wof:lastmodified": 1583786191,
+    "wof:lastmodified": 1609869051,
     "wof:name": "CH26 9DU",
     "wof:parent_id": 404452723,
     "wof:placetype": "postalcode",

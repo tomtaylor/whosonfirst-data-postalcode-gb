@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.277439,55.830993,-4.277439,55.830993",
-    "geom:latitude": 55.830993,
-    "geom:longitude": -4.277439,
+    "geom:bbox": "-4.276420,55.831030,-4.276420,55.831030",
+    "geom:latitude": 55.83103,
+    "geom:longitude": -4.27642,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      404227471, 
       85861549, 
       1360698707, 
       85633159, 
       1360698797, 
       404430153, 
-      1175612707, 
-      404227471
+      1175612707
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701407,
-    "wof:geomhash": "2ec4b8106686a6fc5edefa2cf0419355",
+    "wof:geomhash": "ca6a14fae7dc7ace40b3d931e9fbda78",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 488396539,
-    "wof:lastmodified": 1595733503,
+    "wof:lastmodified": 1609889875,
     "wof:name": "G41 2QR",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.277439, 
-    55.830993, 
-    -4.277439, 
-    55.830993
+    -4.27642, 
+    55.83103, 
+    -4.27642, 
+    55.83103
   ],
-  "geometry": {"coordinates":[-4.277439,55.830993],"type":"Point"}
+  "geometry": {"coordinates":[-4.27642,55.83103],"type":"Point"}
 }

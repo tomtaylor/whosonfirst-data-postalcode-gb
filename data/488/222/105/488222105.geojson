@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1995-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.287506,52.650039,-2.287506,52.650039",
+    "geom:bbox": "-2.287580,52.650039,-2.287580,52.650039",
     "geom:latitude": 52.650039,
-    "geom:longitude": -2.287506,
+    "geom:longitude": -2.28758,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      1360757801, 
       404227469, 
       1360698587, 
       85633159, 
       1360698821, 
-      404442413, 
-      1360757801
+      404442413
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701149,
-    "wof:geomhash": "a57e6be106ef42b40579f0e5fa0f34cf",
+    "wof:geomhash": "4a1d119846d69a00b31ee5c428ec0eea",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 488222105,
-    "wof:lastmodified": 1595730708,
+    "wof:lastmodified": 1609880991,
     "wof:name": "WV7 3RJ",
     "wof:parent_id": 404442413,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.287506, 
+    -2.28758, 
     52.650039, 
-    -2.287506, 
+    -2.28758, 
     52.650039
   ],
-  "geometry": {"coordinates":[-2.287506,52.650039],"type":"Point"}
+  "geometry": {"coordinates":[-2.28758,52.650039],"type":"Point"}
 }

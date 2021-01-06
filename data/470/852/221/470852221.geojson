@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.504787,51.894650,-0.504787,51.894650",
-    "geom:latitude": 51.89465,
-    "geom:longitude": -0.504787,
+    "geom:bbox": "-0.504647,51.894630,-0.504647,51.894630",
+    "geom:latitude": 51.89463,
+    "geom:longitude": -0.504647,
     "gp:parent_id": "18718",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698767, 
       404451575, 
       1126031347, 
       404227469, 
-      1360698527
+      1360698527, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701131,
-    "wof:geomhash": "c6e9a98734f2c1143888f7280a5cd8e8",
+    "wof:geomhash": "aa7cd3a077f55eed7a0d804bf4e7f2dc",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470852221,
-    "wof:lastmodified": 1583786252,
+    "wof:lastmodified": 1609869751,
     "wof:name": "LU5 4QW",
     "wof:parent_id": 404451575,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.504787, 
-    51.89465, 
-    -0.504787, 
-    51.89465
+    -0.504647, 
+    51.89463, 
+    -0.504647, 
+    51.89463
   ],
-  "geometry": {"coordinates":[-0.504787,51.89465],"type":"Point"}
+  "geometry": {"coordinates":[-0.504647,51.89463],"type":"Point"}
 }

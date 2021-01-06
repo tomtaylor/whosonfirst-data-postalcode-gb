@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1994-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.297487,50.850369,-1.297487,50.850369",
-    "geom:latitude": 50.850369,
-    "geom:longitude": -1.297487,
+    "geom:bbox": "-1.297177,50.850528,-1.297177,50.850528",
+    "geom:latitude": 50.850528,
+    "geom:longitude": -1.297177,
     "gp:parent_id": "39214",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698557, 
-      85633159, 
       1360698827, 
       101750353, 
-      404227469
+      404227469, 
+      1360698557, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701086,
-    "wof:geomhash": "9d0ca386e8e0c97569f47f1b676cb66c",
+    "wof:geomhash": "9d9e03dfaacd2cb318e5cd692400c8e4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 487614531,
-    "wof:lastmodified": 1583786183,
+    "wof:lastmodified": 1609869230,
     "wof:name": "SO31 9GL",
     "wof:parent_id": 404437055,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.297487, 
-    50.850369, 
-    -1.297487, 
-    50.850369
+    -1.297177, 
+    50.850528, 
+    -1.297177, 
+    50.850528
   ],
-  "geometry": {"coordinates":[-1.297487,50.850369],"type":"Point"}
+  "geometry": {"coordinates":[-1.297177,50.850528],"type":"Point"}
 }

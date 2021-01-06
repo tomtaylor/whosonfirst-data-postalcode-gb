@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.249742,53.488039,-1.249742,53.488039",
-    "geom:latitude": 53.488039,
-    "geom:longitude": -1.249742,
+    "geom:bbox": "-1.249787,53.488130,-1.249787,53.488130",
+    "geom:latitude": 53.48813,
+    "geom:longitude": -1.249787,
     "gp:parent_id": "18059",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360817103, 
-      1125846339, 
-      404227469, 
       1360698591, 
       85633159, 
-      1360698973
+      1360698973, 
+      1360817103, 
+      1125846339, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701555,
-    "wof:geomhash": "2f40eeb6e5479cbcc4a5e881b0dbafee",
+    "wof:geomhash": "6199731b36bd4856ce37f420c9db03de",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454417023,
-    "wof:lastmodified": 1583786678,
+    "wof:lastmodified": 1609888677,
     "wof:name": "DN12 4AW",
     "wof:parent_id": 404441303,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.249742, 
-    53.488039, 
-    -1.249742, 
-    53.488039
+    -1.249787, 
+    53.48813, 
+    -1.249787, 
+    53.48813
   ],
-  "geometry": {"coordinates":[-1.249742,53.488039],"type":"Point"}
+  "geometry": {"coordinates":[-1.249787,53.48813],"type":"Point"}
 }

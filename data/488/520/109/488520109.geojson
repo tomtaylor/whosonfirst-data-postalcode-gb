@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.868904,55.754630,-3.868904,55.754630",
-    "geom:latitude": 55.75463,
-    "geom:longitude": -3.868904,
+    "geom:bbox": "-3.869432,55.754666,-3.869432,55.754666",
+    "geom:latitude": 55.754666,
+    "geom:longitude": -3.869432,
     "gp:parent_id": "12696210",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227471, 
-      1360698703, 
       85633159, 
       1360698969, 
-      404453929
+      404453929, 
+      404227471, 
+      1360698703
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701533,
-    "wof:geomhash": "7278c1fd681080e6328ff3ae1c26a532",
+    "wof:geomhash": "2209cdb7dd8af2cc63cf4689b7ebe463",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488520109,
-    "wof:lastmodified": 1583786731,
+    "wof:lastmodified": 1609895105,
     "wof:name": "ML8 5EX",
     "wof:parent_id": 404453929,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.868904, 
-    55.75463, 
-    -3.868904, 
-    55.75463
+    -3.869432, 
+    55.754666, 
+    -3.869432, 
+    55.754666
   ],
-  "geometry": {"coordinates":[-3.868904,55.75463],"type":"Point"}
+  "geometry": {"coordinates":[-3.869432,55.754666],"type":"Point"}
 }

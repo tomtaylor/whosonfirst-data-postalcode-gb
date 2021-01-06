@@ -2,7 +2,7 @@
   "id": 471633441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-09-01",
     "edtf:inception": "2017-01-01",
     "geom:area": 0,
     "geom:bbox": "-1.452694,53.300045,-1.452694,53.300045",
@@ -11,7 +11,7 @@
     "gp:parent_id": "18507",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000007",
     "os:district_code": "E07000038",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698765, 
-      404432025, 
       1125947719, 
       404227469, 
       1360698539, 
-      85633159
+      85633159, 
+      1360698765, 
+      404432025
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471633441,
-    "wof:lastmodified": 1583786857,
+    "wof:lastmodified": 1609899947,
     "wof:name": "S18 8BR",
     "wof:parent_id": 404432025,
     "wof:placetype": "postalcode",

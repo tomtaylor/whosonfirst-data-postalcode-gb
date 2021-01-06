@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.522322,52.416525,0.522322,52.416525",
-    "geom:latitude": 52.416525,
-    "geom:longitude": 0.522322,
+    "geom:bbox": "0.522793,52.416363,0.522793,52.416363",
+    "geom:latitude": 52.416363,
+    "geom:longitude": 0.522793,
     "gp:parent_id": "25666",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      101854843, 
       404227469, 
       1360698595, 
       85633159, 
       1360699041, 
-      404443639
+      404443639, 
+      101854843
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701745,
-    "wof:geomhash": "471ec87e416399655cf81b1f348ce933",
+    "wof:geomhash": "a48e874dcdce20cae78c9efaebef94ed",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454884185,
-    "wof:lastmodified": 1583786875,
+    "wof:lastmodified": 1609904176,
     "wof:name": "IP27 9HY",
     "wof:parent_id": 101854843,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.522322, 
-    52.416525, 
-    0.522322, 
-    52.416525
+    0.522793, 
+    52.416363, 
+    0.522793, 
+    52.416363
   ],
-  "geometry": {"coordinates":[0.522322,52.416525],"type":"Point"}
+  "geometry": {"coordinates":[0.522793,52.416363],"type":"Point"}
 }

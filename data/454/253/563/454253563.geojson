@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.424585,52.601502,-1.424585,52.601502",
-    "geom:latitude": 52.601502,
-    "geom:longitude": -1.424585,
+    "geom:bbox": "-1.427691,52.600375,-1.427691,52.600375",
+    "geom:latitude": 52.600375,
+    "geom:longitude": -1.427691,
     "gp:parent_id": "34552",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698871, 
       404453585, 
       1125883771, 
       404227469, 
-      1360698569
+      1360698569, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701420,
-    "wof:geomhash": "6b11f0d1c6c3b8ff83660de536e3a121",
+    "wof:geomhash": "1474d4d47cd990d4b1c1a3f2f92b9fe7",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454253563,
-    "wof:lastmodified": 1583786549,
+    "wof:lastmodified": 1609880293,
     "wof:name": "CV13 6DP",
     "wof:parent_id": 404453585,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.424585, 
-    52.601502, 
-    -1.424585, 
-    52.601502
+    -1.427691, 
+    52.600375, 
+    -1.427691, 
+    52.600375
   ],
-  "geometry": {"coordinates":[-1.424585,52.601502],"type":"Point"}
+  "geometry": {"coordinates":[-1.427691,52.600375],"type":"Point"}
 }

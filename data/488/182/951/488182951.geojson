@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.028730,52.551788,-2.028730,52.551788",
-    "geom:latitude": 52.551788,
-    "geom:longitude": -2.02873,
+    "geom:bbox": "-2.027324,52.551570,-2.027324,52.551570",
+    "geom:latitude": 52.55157,
+    "geom:longitude": -2.027324,
     "gp:parent_id": "39388",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698605, 
-      85633159, 
       1360699035, 
       1360817335, 
-      1125939577
+      1125939577, 
+      404227469, 
+      1360698605, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701298,
-    "wof:geomhash": "f9947187d97eac3efc86215533010410",
+    "wof:geomhash": "7e81be5af87f6ad66fc74b466415b0b7",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488182951,
-    "wof:lastmodified": 1583786299,
+    "wof:lastmodified": 1609878953,
     "wof:name": "WS10 7DZ",
     "wof:parent_id": 101914045,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.02873, 
-    52.551788, 
-    -2.02873, 
-    52.551788
+    -2.027324, 
+    52.55157, 
+    -2.027324, 
+    52.55157
   ],
-  "geometry": {"coordinates":[-2.02873,52.551788],"type":"Point"}
+  "geometry": {"coordinates":[-2.027324,52.55157],"type":"Point"}
 }

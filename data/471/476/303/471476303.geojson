@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.179039,50.617237,-1.179039,50.617237",
-    "geom:latitude": 50.617237,
-    "geom:longitude": -1.179039,
+    "geom:bbox": "-1.178375,50.617205,-1.178375,50.617205",
+    "geom:latitude": 50.617205,
+    "geom:longitude": -1.178375,
     "gp:parent_id": "27904",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698563, 
-      85633159, 
       1360699089, 
       404444633, 
       1125995749, 
-      404227469
+      404227469, 
+      1360698563, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701634,
-    "wof:geomhash": "c833a89336bcb024080eeec72b56ab22",
+    "wof:geomhash": "5efbf0828f1e0b2f2097512c1400e511",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471476303,
-    "wof:lastmodified": 1583786758,
+    "wof:lastmodified": 1609893441,
     "wof:name": "PO37 6RA",
     "wof:parent_id": 404444633,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.179039, 
-    50.617237, 
-    -1.179039, 
-    50.617237
+    -1.178375, 
+    50.617205, 
+    -1.178375, 
+    50.617205
   ],
-  "geometry": {"coordinates":[-1.179039,50.617237],"type":"Point"}
+  "geometry": {"coordinates":[-1.178375,50.617205],"type":"Point"}
 }

@@ -2,7 +2,7 @@
   "id": 471323195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-10-01",
     "edtf:inception": "1991-09-01",
     "geom:area": 0,
     "geom:bbox": "-1.597308,51.761768,-1.597308,51.761768",
@@ -10,7 +10,7 @@
     "geom:longitude": -1.597308,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000025",
     "os:district_code": "E07000181",
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698585, 
+      85633159, 
       1360698839, 
       404447673, 
       101852947, 
-      404227469, 
-      1360698585, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471323195,
-    "wof:lastmodified": 1583786651,
+    "wof:lastmodified": 1609886341,
     "wof:name": "OX18 3BX",
     "wof:parent_id": 101852947,
     "wof:placetype": "postalcode",

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.923857,55.367912,-3.923857,55.367912",
-    "geom:latitude": 55.367912,
-    "geom:longitude": -3.923857,
+    "geom:bbox": "-3.923864,55.367905,-3.923864,55.367905",
+    "geom:latitude": 55.367905,
+    "geom:longitude": -3.923864,
     "gp:parent_id": "12696189",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227471, 
-      1360698719, 
       85633159, 
       1360699039, 
-      404444245
+      404444245, 
+      404227471, 
+      1360698719
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701531,
-    "wof:geomhash": "1a9a050acdc15712b775a47299b03382",
+    "wof:geomhash": "0e425c884efc85472a85d4c3bdab3654",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488521165,
-    "wof:lastmodified": 1583786731,
+    "wof:lastmodified": 1609895112,
     "wof:name": "DG4 6DJ",
     "wof:parent_id": 101873423,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.923857, 
-    55.367912, 
-    -3.923857, 
-    55.367912
+    -3.923864, 
+    55.367905, 
+    -3.923864, 
+    55.367905
   ],
-  "geometry": {"coordinates":[-3.923857,55.367912],"type":"Point"}
+  "geometry": {"coordinates":[-3.923864,55.367905],"type":"Point"}
 }

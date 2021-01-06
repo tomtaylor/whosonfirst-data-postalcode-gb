@@ -20,12 +20,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      101750367, 
       404227469, 
       85787481, 
       1360698645, 
-      1158857287
+      1158857291, 
+      85633159, 
+      101750367
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -36,7 +36,7 @@
     "wof:geomhash": "736e2b1d915009e87c40a8f0e6b8c476",
     "wof:hierarchy": [
       {
-        "borough_id": 1158857287,
+        "borough_id": 1158857291,
         "country_id": 85633159,
         "locality_id": 101750367,
         "macroregion_id": 404227469,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 454529337,
-    "wof:lastmodified": 1595716205,
+    "wof:lastmodified": 1609893406,
     "wof:name": "E7 0AG",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",

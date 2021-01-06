@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.447333,52.270582,1.447333,52.270582",
-    "geom:latitude": 52.270582,
-    "geom:longitude": 1.447333,
+    "geom:bbox": "1.447563,52.270719,1.447563,52.270719",
+    "geom:latitude": 52.270719,
+    "geom:longitude": 1.447563,
     "gp:parent_id": "31547",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698595, 
-      85633159, 
       1360699041, 
       404455033, 
       1125894563, 
-      404227469
+      404227469, 
+      1360698595, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701743,
-    "wof:geomhash": "811372cda4b5e3e8bca6591e2ed0f6e8",
+    "wof:geomhash": "20d8db9a1fdc0fabe7893390a9b99d52",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454871495,
-    "wof:lastmodified": 1583786873,
+    "wof:lastmodified": 1609903873,
     "wof:name": "IP17 2HS",
     "wof:parent_id": 404455033,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.447333, 
-    52.270582, 
-    1.447333, 
-    52.270582
+    1.447563, 
+    52.270719, 
+    1.447563, 
+    52.270719
   ],
-  "geometry": {"coordinates":[1.447333,52.270582],"type":"Point"}
+  "geometry": {"coordinates":[1.447563,52.270719],"type":"Point"}
 }

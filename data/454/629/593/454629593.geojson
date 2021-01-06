@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.353843,51.636056,-2.353843,51.636056",
-    "geom:latitude": 51.636056,
-    "geom:longitude": -2.353843,
+    "geom:bbox": "-2.354070,51.635976,-2.354070,51.635976",
+    "geom:latitude": 51.635976,
+    "geom:longitude": -2.35407,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698927, 
-      404436145, 
       1226377859, 
       404227469, 
       1360698553, 
-      85633159
+      85633159, 
+      1360698927, 
+      404436145
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701667,
-    "wof:geomhash": "847f45e94ef7bb517ea1a763634f30d5",
+    "wof:geomhash": "82372214dbfd955c6b450e51903b18d4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454629593,
-    "wof:lastmodified": 1583786807,
+    "wof:lastmodified": 1609897363,
     "wof:name": "GL12 7BD",
     "wof:parent_id": 101852887,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.353843, 
-    51.636056, 
-    -2.353843, 
-    51.636056
+    -2.35407, 
+    51.635976, 
+    -2.35407, 
+    51.635976
   ],
-  "geometry": {"coordinates":[-2.353843,51.636056],"type":"Point"}
+  "geometry": {"coordinates":[-2.35407,51.635976],"type":"Point"}
 }

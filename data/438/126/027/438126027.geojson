@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.917043,53.867421,-1.917043,53.867421",
-    "geom:latitude": 53.867421,
+    "geom:bbox": "-1.917043,53.867385,-1.917043,53.867385",
+    "geom:latitude": 53.867385,
     "geom:longitude": -1.917043,
     "gp:parent_id": "24688",
     "iso:country": "GB",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698963, 
       404443145, 
       101872255, 
       404227469, 
-      1360698609
+      1360698609, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701317,
-    "wof:geomhash": "479eb51cff7601e45af3619211194b28",
+    "wof:geomhash": "f63e99343344f2aa0ed0212883b6e54c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438126027,
-    "wof:lastmodified": 1595713103,
+    "wof:lastmodified": 1609874741,
     "wof:name": "BD21 2QN",
     "wof:parent_id": 101872255,
     "wof:placetype": "postalcode",
@@ -55,9 +55,9 @@
   },
   "bbox": [
     -1.917043, 
-    53.867421, 
+    53.867385, 
     -1.917043, 
-    53.867421
+    53.867385
   ],
-  "geometry": {"coordinates":[-1.917043,53.867421],"type":"Point"}
+  "geometry": {"coordinates":[-1.917043,53.867385],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1994-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.380917,50.897404,-1.380917,50.897404",
-    "geom:latitude": 50.897404,
-    "geom:longitude": -1.380917,
+    "geom:bbox": "-1.380850,50.897467,-1.380850,50.897467",
+    "geom:latitude": 50.897467,
+    "geom:longitude": -1.38085,
     "gp:parent_id": "35356",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698557, 
       85633159, 
       1360698907, 
-      101750311, 
-      404227469, 
-      1360698557
+      101750311
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701082,
-    "wof:geomhash": "929f3aeb1a9b6e2af9116a26d63639bd",
+    "wof:geomhash": "03fd475fdfcf0cf45d1b5c235a15e49d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 487603975,
-    "wof:lastmodified": 1583786179,
+    "wof:lastmodified": 1609868947,
     "wof:name": "SO19 9DW",
     "wof:parent_id": 101750311,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.380917, 
-    50.897404, 
-    -1.380917, 
-    50.897404
+    -1.38085, 
+    50.897467, 
+    -1.38085, 
+    50.897467
   ],
-  "geometry": {"coordinates":[-1.380917,50.897404],"type":"Point"}
+  "geometry": {"coordinates":[-1.38085,50.897467],"type":"Point"}
 }

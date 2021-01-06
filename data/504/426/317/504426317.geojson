@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.491538,55.768140,-4.491538,55.768140",
-    "geom:latitude": 55.76814,
-    "geom:longitude": -4.491538,
+    "geom:bbox": "-4.491133,55.768535,-4.491133,55.768535",
+    "geom:latitude": 55.768535,
+    "geom:longitude": -4.491133,
     "gp:parent_id": "12696194",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227471, 
-      1360698699, 
       85633159, 
       1360699117, 
-      404435263
+      404435263, 
+      404227471, 
+      1360698699
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701219,
-    "wof:geomhash": "89ad8979b0c1174e0ba2a7092bcaf40a",
+    "wof:geomhash": "d3b34ccc87e27a8a17ff45930df7f881",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504426317,
-    "wof:lastmodified": 1583786337,
+    "wof:lastmodified": 1609870668,
     "wof:name": "G78 4DG",
     "wof:parent_id": 404435263,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.491538, 
-    55.76814, 
-    -4.491538, 
-    55.76814
+    -4.491133, 
+    55.768535, 
+    -4.491133, 
+    55.768535
   ],
-  "geometry": {"coordinates":[-4.491538,55.76814],"type":"Point"}
+  "geometry": {"coordinates":[-4.491133,55.768535],"type":"Point"}
 }

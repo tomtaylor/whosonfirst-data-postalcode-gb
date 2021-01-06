@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.574275,54.892888,-1.574275,54.892888",
-    "geom:latitude": 54.892888,
-    "geom:longitude": -1.574275,
+    "geom:bbox": "-1.574103,54.892905,-1.574103,54.892905",
+    "geom:latitude": 54.892905,
+    "geom:longitude": -1.574103,
     "gp:parent_id": "12736",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698601, 
       85633159, 
       1360698881, 
-      1126015613
+      1126015613, 
+      404227469, 
+      1360698601
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701519,
-    "wof:geomhash": "cd97a623e07eea18535e4cbfe5e0a0d5",
+    "wof:geomhash": "01bd8fc311f155c9ecf78ee8c382f2b7",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454368703,
-    "wof:lastmodified": 1583786653,
+    "wof:lastmodified": 1609886028,
     "wof:name": "DH3 2LN",
     "wof:parent_id": 404441267,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.574275, 
-    54.892888, 
-    -1.574275, 
-    54.892888
+    -1.574103, 
+    54.892905, 
+    -1.574103, 
+    54.892905
   ],
-  "geometry": {"coordinates":[-1.574275,54.892888],"type":"Point"}
+  "geometry": {"coordinates":[-1.574103,54.892905],"type":"Point"}
 }

@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.478643,54.391622,-3.478643,54.391622",
-    "geom:latitude": 54.391622,
+    "geom:bbox": "-3.478643,54.391631,-3.478643,54.391631",
+    "geom:latitude": 54.391631,
     "geom:longitude": -3.478643,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360698877, 
       404451779, 
       101872351, 
       404227469, 
-      1360698721, 
-      85633159
+      1360698721
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701122,
-    "wof:geomhash": "e321116164a5febfb163e74a8339cab5",
+    "wof:geomhash": "bd0d1e5f28c4a64eea8bad3409b0f563",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454063827,
-    "wof:lastmodified": 1583786264,
+    "wof:lastmodified": 1609869299,
     "wof:name": "CA20 1NX",
     "wof:parent_id": 101872351,
     "wof:placetype": "postalcode",
@@ -54,9 +54,9 @@
   },
   "bbox": [
     -3.478643, 
-    54.391622, 
+    54.391631, 
     -3.478643, 
-    54.391622
+    54.391631
   ],
-  "geometry": {"coordinates":[-3.478643,54.391622],"type":"Point"}
+  "geometry": {"coordinates":[-3.478643,54.391631],"type":"Point"}
 }

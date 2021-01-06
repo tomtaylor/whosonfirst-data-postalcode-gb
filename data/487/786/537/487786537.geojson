@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.697270,52.715537,-2.697270,52.715537",
-    "geom:latitude": 52.715537,
-    "geom:longitude": -2.69727,
+    "geom:bbox": "-2.697375,52.715804,-2.697375,52.715804",
+    "geom:latitude": 52.715804,
+    "geom:longitude": -2.697375,
     "gp:parent_id": "38505",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698821, 
       404437179, 
       1360759341, 
       404227469, 
-      1360698587
+      1360698587, 
+      85633159, 
+      1360698821
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701166,
-    "wof:geomhash": "afd7a682b455f2bfd448d8274fd0cccf",
+    "wof:geomhash": "c2c0d0869d7da90cd0bd661639dab58c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487786537,
-    "wof:lastmodified": 1583786269,
+    "wof:lastmodified": 1609879831,
     "wof:name": "SY4 4ST",
     "wof:parent_id": 404437179,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.69727, 
-    52.715537, 
-    -2.69727, 
-    52.715537
+    -2.697375, 
+    52.715804, 
+    -2.697375, 
+    52.715804
   ],
-  "geometry": {"coordinates":[-2.69727,52.715537],"type":"Point"}
+  "geometry": {"coordinates":[-2.697375,52.715804],"type":"Point"}
 }

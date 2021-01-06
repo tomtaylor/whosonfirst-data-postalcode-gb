@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2010-02-01",
     "geom:area": 0,
-    "geom:bbox": "-0.074554,52.324363,-0.074554,52.324363",
-    "geom:latitude": 52.324363,
-    "geom:longitude": -0.074554,
+    "geom:bbox": "-0.074545,52.324387,-0.074545,52.324387",
+    "geom:latitude": 52.324387,
+    "geom:longitude": -0.074545,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      101854919, 
-      404227469, 
-      1360698535, 
       85633159, 
       1360698845, 
-      404445337
+      404445337, 
+      101854919, 
+      404227469, 
+      1360698535
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468894836,
-    "wof:geomhash": "cf5db75a57bd555ba01f871454bd4131",
+    "wof:geomhash": "be097145a5923cda44f7c6e1b4625519",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 874508745,
-    "wof:lastmodified": 1583786421,
+    "wof:lastmodified": 1609872799,
     "wof:name": "PE27 5DF",
     "wof:parent_id": 101854919,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.074554, 
-    52.324363, 
-    -0.074554, 
-    52.324363
+    -0.074545, 
+    52.324387, 
+    -0.074545, 
+    52.324387
   ],
-  "geometry": {"coordinates":[-0.074554,52.324363],"type":"Point"}
+  "geometry": {"coordinates":[-0.074545,52.324387],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-02-01",
     "geom:area": 0,
-    "geom:bbox": "-3.018557,53.783830,-3.018557,53.783830",
-    "geom:latitude": 53.78383,
-    "geom:longitude": -3.018557,
+    "geom:bbox": "-3.018118,53.783861,-3.018118,53.783861",
+    "geom:latitude": 53.783861,
+    "geom:longitude": -3.018118,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698789, 
       101913927, 
       404227469, 
-      1360698567, 
-      85633159, 
-      1360698789
+      1360698567
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583790746,
-    "wof:geomhash": "a78b9a54b7e324865bc8e85bf366aa3d",
+    "wof:geomhash": "db2420a2f28b3547de29d35dd8dc8a48",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1160804540,
-    "wof:lastmodified": 1583790746,
+    "wof:lastmodified": 1609870113,
     "wof:name": "FY4 5GS",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.018557, 
-    53.78383, 
-    -3.018557, 
-    53.78383
+    -3.018118, 
+    53.783861, 
+    -3.018118, 
+    53.783861
   ],
-  "geometry": {"coordinates":[-3.018557,53.78383],"type":"Point"}
+  "geometry": {"coordinates":[-3.018118,53.783861],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.165330,53.207021,-4.165330,53.207021",
-    "geom:latitude": 53.207021,
-    "geom:longitude": -4.16533,
+    "geom:bbox": "-4.165596,53.206945,-4.165596,53.206945",
+    "geom:latitude": 53.206945,
+    "geom:longitude": -4.165596,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698959, 
       404452411, 
       1125864131, 
       404227475, 
-      1360698635
+      1360698635, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583798524,
-    "wof:geomhash": "396843d12ec97408a768caf1e8def364",
+    "wof:geomhash": "81283a6dde2c06b178ea64d320b34026",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712673841,
-    "wof:lastmodified": 1595710910,
+    "wof:lastmodified": 1609872305,
     "wof:name": "LL57 2QL",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.16533, 
-    53.207021, 
-    -4.16533, 
-    53.207021
+    -4.165596, 
+    53.206945, 
+    -4.165596, 
+    53.206945
   ],
-  "geometry": {"coordinates":[-4.16533,53.207021],"type":"Point"}
+  "geometry": {"coordinates":[-4.165596,53.206945],"type":"Point"}
 }

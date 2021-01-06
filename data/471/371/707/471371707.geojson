@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.003263,53.181081,-0.003263,53.181081",
-    "geom:latitude": 53.181081,
-    "geom:longitude": -0.003263,
+    "geom:bbox": "-0.003462,53.180976,-0.003462,53.180976",
+    "geom:latitude": 53.180976,
+    "geom:longitude": -0.003462,
     "gp:parent_id": "11098",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699067, 
       404445029, 
       1360759155, 
       404227469, 
-      1360698571
+      1360698571, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701536,
-    "wof:geomhash": "1fbfb6ebcff1c4ccbbcfa9c0ac2f37b7",
+    "wof:geomhash": "8e5d0cdc4199ecb37bf4753398653914",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471371707,
-    "wof:lastmodified": 1583786688,
+    "wof:lastmodified": 1609888797,
     "wof:name": "PE23 4HY",
     "wof:parent_id": 404445029,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.003263, 
-    53.181081, 
-    -0.003263, 
-    53.181081
+    -0.003462, 
+    53.180976, 
+    -0.003462, 
+    53.180976
   ],
-  "geometry": {"coordinates":[-0.003263,53.181081],"type":"Point"}
+  "geometry": {"coordinates":[-0.003462,53.180976],"type":"Point"}
 }

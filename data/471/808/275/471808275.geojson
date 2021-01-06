@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.611163,51.479310,-0.611163,51.479310",
-    "geom:latitude": 51.47931,
-    "geom:longitude": -0.611163,
+    "geom:bbox": "-0.611361,51.479350,-0.611361,51.479350",
+    "geom:latitude": 51.47935,
+    "geom:longitude": -0.611361,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,11 +18,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698529, 
       85633159, 
       1360698943, 
-      101854695
+      101854695, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -30,7 +30,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701742,
-    "wof:geomhash": "c7390e644ff460f817bf9ec90471ce99",
+    "wof:geomhash": "97fe18eff0ab78c97f24be1f57b6112e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -41,7 +41,7 @@
       }
     ],
     "wof:id": 471808275,
-    "wof:lastmodified": 1583786913,
+    "wof:lastmodified": 1609903348,
     "wof:name": "SL4 1HQ",
     "wof:parent_id": 101854695,
     "wof:placetype": "postalcode",
@@ -51,10 +51,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.611163, 
-    51.47931, 
-    -0.611163, 
-    51.47931
+    -0.611361, 
+    51.47935, 
+    -0.611361, 
+    51.47935
   ],
-  "geometry": {"coordinates":[-0.611163,51.47931],"type":"Point"}
+  "geometry": {"coordinates":[-0.611361,51.47935],"type":"Point"}
 }

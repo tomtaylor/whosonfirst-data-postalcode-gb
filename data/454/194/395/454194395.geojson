@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.730811,51.962598,0.730811,51.962598",
-    "geom:latitude": 51.962598,
-    "geom:longitude": 0.730811,
+    "geom:bbox": "0.733440,51.959146,0.733440,51.959146",
+    "geom:latitude": 51.959146,
+    "geom:longitude": 0.73344,
     "gp:parent_id": "14521",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698979, 
       404441225, 
       1360756817, 
       404227469, 
       1360698551, 
-      85633159
+      85633159, 
+      1360698979
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701360,
-    "wof:geomhash": "5596cf6f004924914a1007f0068a5bac",
+    "wof:geomhash": "b2b6d9e039373d01de0e60aa7e31074f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454194395,
-    "wof:lastmodified": 1583786486,
+    "wof:lastmodified": 1609877489,
     "wof:name": "CO8 5DR",
     "wof:parent_id": 404441225,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.730811, 
-    51.962598, 
-    0.730811, 
-    51.962598
+    0.73344, 
+    51.959146, 
+    0.73344, 
+    51.959146
   ],
-  "geometry": {"coordinates":[0.730811,51.962598],"type":"Point"}
+  "geometry": {"coordinates":[0.73344,51.959146],"type":"Point"}
 }

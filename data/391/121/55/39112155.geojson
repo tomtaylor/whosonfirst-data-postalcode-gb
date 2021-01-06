@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2017-12-01",
     "geom:area": 0,
-    "geom:bbox": "-4.100593,50.409398,-4.100593,50.409398",
-    "geom:latitude": 50.409398,
-    "geom:longitude": -4.100593,
+    "geom:bbox": "-4.100662,50.409379,-4.100662,50.409379",
+    "geom:latitude": 50.409379,
+    "geom:longitude": -4.100662,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698541, 
       85633159, 
       1360698841, 
       101750297, 
-      404227469
+      404227469, 
+      1360698541
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583797854,
-    "wof:geomhash": "650ca74e4df5bcf2213cb416757bcede",
+    "wof:geomhash": "7108a063b5952d397a4b5cde436500d9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 39112155,
-    "wof:lastmodified": 1583797854,
+    "wof:lastmodified": 1609868452,
     "wof:name": "PL6 8EE",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.100593, 
-    50.409398, 
-    -4.100593, 
-    50.409398
+    -4.100662, 
+    50.409379, 
+    -4.100662, 
+    50.409379
   ],
-  "geometry": {"coordinates":[-4.100593,50.409398],"type":"Point"}
+  "geometry": {"coordinates":[-4.100662,50.409379],"type":"Point"}
 }

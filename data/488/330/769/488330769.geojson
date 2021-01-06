@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2009-05-01",
     "geom:area": 0,
-    "geom:bbox": "-1.202440,53.204206,-1.202440,53.204206",
-    "geom:latitude": 53.204206,
+    "geom:bbox": "-1.202440,53.204224,-1.202440,53.204224",
+    "geom:latitude": 53.204224,
     "geom:longitude": -1.20244,
     "gp:parent_id": "12695907",
     "iso:country": "GB",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698765, 
       404450653, 
       101872101, 
       404227469, 
-      1360698539
+      1360698539, 
+      85633159, 
+      1360698765
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701346,
-    "wof:geomhash": "e7db5c69aa5fc18219acf86de6ce54e2",
+    "wof:geomhash": "29c5333c1702942b4d3eff018a87785f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488330769,
-    "wof:lastmodified": 1583786540,
+    "wof:lastmodified": 1609886852,
     "wof:name": "NG20 8TB",
     "wof:parent_id": 101872101,
     "wof:placetype": "postalcode",
@@ -55,9 +55,9 @@
   },
   "bbox": [
     -1.20244, 
-    53.204206, 
+    53.204224, 
     -1.20244, 
-    53.204206
+    53.204224
   ],
-  "geometry": {"coordinates":[-1.20244,53.204206],"type":"Point"}
+  "geometry": {"coordinates":[-1.20244,53.204224],"type":"Point"}
 }

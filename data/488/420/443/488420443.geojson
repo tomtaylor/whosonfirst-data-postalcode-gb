@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.240725,51.496557,-3.240725,51.496557",
-    "geom:latitude": 51.496557,
-    "geom:longitude": -3.240725,
+    "geom:bbox": "-3.241076,51.496410,-3.241076,51.496410",
+    "geom:latitude": 51.49641,
+    "geom:longitude": -3.241076,
     "gp:parent_id": "12696132",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      101750397, 
+      404227475, 
       1360698627, 
       1360887581, 
       85633159, 
-      1360699107, 
-      101750397, 
-      404227475
+      1360699107
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701432,
-    "wof:geomhash": "31f71f6a210b0bb7b0b8953e5d138f3f",
+    "wof:geomhash": "eb70c74f45564051c7f5b3d166a22d71",
     "wof:hierarchy": [
       {
         "borough_id": 1360887581,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488420443,
-    "wof:lastmodified": 1583786636,
+    "wof:lastmodified": 1609891076,
     "wof:name": "CF5 3NB",
     "wof:parent_id": 101750397,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.240725, 
-    51.496557, 
-    -3.240725, 
-    51.496557
+    -3.241076, 
+    51.49641, 
+    -3.241076, 
+    51.49641
   ],
-  "geometry": {"coordinates":[-3.240725,51.496557],"type":"Point"}
+  "geometry": {"coordinates":[-3.241076,51.49641],"type":"Point"}
 }

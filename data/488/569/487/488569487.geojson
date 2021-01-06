@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1991-09-01",
     "geom:area": 0,
-    "geom:bbox": "-3.500319,51.538612,-3.500319,51.538612",
-    "geom:latitude": 51.538612,
-    "geom:longitude": -3.500319,
+    "geom:bbox": "-3.498157,51.535133,-3.498157,51.535133",
+    "geom:latitude": 51.535133,
+    "geom:longitude": -3.498157,
     "gp:parent_id": "31637",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699051, 
-      404435303, 
-      1360711443, 
+      404438561, 
+      1126014655, 
       404227475, 
-      1360698631
+      1360698631, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,19 +32,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701599,
-    "wof:geomhash": "58e8fa2016eb4c6ecf7dd5582069cc7e",
+    "wof:geomhash": "5ac8d2698edde4bb6cc39b9d553ca07b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360699051,
-        "localadmin_id": 404435303,
-        "locality_id": 1360711443,
+        "localadmin_id": 404438561,
+        "locality_id": 1126014655,
         "macroregion_id": 404227475,
         "region_id": 1360698631
       }
     ],
     "wof:id": 488569487,
-    "wof:lastmodified": 1583786783,
+    "wof:lastmodified": 1609897088,
     "wof:name": "CF35 6NA",
     "wof:parent_id": 404435303,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.500319, 
-    51.538612, 
-    -3.500319, 
-    51.538612
+    -3.498157, 
+    51.535133, 
+    -3.498157, 
+    51.535133
   ],
-  "geometry": {"coordinates":[-3.500319,51.538612],"type":"Point"}
+  "geometry": {"coordinates":[-3.498157,51.535133],"type":"Point"}
 }

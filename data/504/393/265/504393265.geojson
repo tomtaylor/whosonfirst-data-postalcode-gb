@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.277203,55.878559,-4.277203,55.878559",
-    "geom:latitude": 55.878559,
-    "geom:longitude": -4.277203,
+    "geom:bbox": "-4.277608,55.878650,-4.277608,55.878650",
+    "geom:latitude": 55.87865,
+    "geom:longitude": -4.277608,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1175612707, 
+      404227471, 
+      85792649, 
       1360698707, 
       85633159, 
       1360698797, 
-      404430153, 
-      1175612707, 
-      404227471, 
-      85792649
+      404430153
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701132,
-    "wof:geomhash": "76bf5bda959ed82f6b7068f583d7be3e",
+    "wof:geomhash": "183cdd05eb38c51e27025fb292766603",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 504393265,
-    "wof:lastmodified": 1583786228,
+    "wof:lastmodified": 1609869294,
     "wof:name": "G20 6DG",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.277203, 
-    55.878559, 
-    -4.277203, 
-    55.878559
+    -4.277608, 
+    55.87865, 
+    -4.277608, 
+    55.87865
   ],
-  "geometry": {"coordinates":[-4.277203,55.878559],"type":"Point"}
+  "geometry": {"coordinates":[-4.277608,55.87865],"type":"Point"}
 }

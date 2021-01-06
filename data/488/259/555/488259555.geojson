@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.433974,54.171681,-1.433974,54.171681",
-    "geom:latitude": 54.171681,
-    "geom:longitude": -1.433974,
+    "geom:bbox": "-1.434021,54.171636,-1.434021,54.171636",
+    "geom:latitude": 54.171636,
+    "geom:longitude": -1.434021,
     "gp:parent_id": "32872",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698753, 
-      404429641, 
-      1360753159, 
       404227469, 
       1360698619, 
-      85633159
+      85633159, 
+      1360698753, 
+      404429641, 
+      1360753159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701241,
-    "wof:geomhash": "275317959fce01e43eced3848a4eccc2",
+    "wof:geomhash": "d0ab80017a2e1cf3ff0303596b01574b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488259555,
-    "wof:lastmodified": 1595731204,
+    "wof:lastmodified": 1609882845,
     "wof:name": "YO7 3PW",
     "wof:parent_id": 404429641,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.433974, 
-    54.171681, 
-    -1.433974, 
-    54.171681
+    -1.434021, 
+    54.171636, 
+    -1.434021, 
+    54.171636
   ],
-  "geometry": {"coordinates":[-1.433974,54.171681],"type":"Point"}
+  "geometry": {"coordinates":[-1.434021,54.171636],"type":"Point"}
 }

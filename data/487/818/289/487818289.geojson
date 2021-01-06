@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1991-09-01",
     "geom:area": 0,
-    "geom:bbox": "-2.963581,51.226153,-2.963581,51.226153",
-    "geom:latitude": 51.226153,
-    "geom:longitude": -2.963581,
+    "geom:bbox": "-2.963531,51.227169,-2.963531,51.227169",
+    "geom:latitude": 51.227169,
+    "geom:longitude": -2.963531,
     "gp:parent_id": "23300",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698589, 
       85633159, 
       1360699059, 
       404438743, 
       1360754741, 
-      404227469
+      404227469, 
+      1360698589
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701186,
-    "wof:geomhash": "e981a04c24520ef5a8d59ccf4f4cd35f",
+    "wof:geomhash": "e5ac09e6138d86bf21388f792bbb7d6d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487818289,
-    "wof:lastmodified": 1583786288,
+    "wof:lastmodified": 1609881498,
     "wof:name": "TA9 4JP",
     "wof:parent_id": 404438743,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.963581, 
-    51.226153, 
-    -2.963581, 
-    51.226153
+    -2.963531, 
+    51.227169, 
+    -2.963531, 
+    51.227169
   ],
-  "geometry": {"coordinates":[-2.963581,51.226153],"type":"Point"}
+  "geometry": {"coordinates":[-2.963531,51.227169],"type":"Point"}
 }

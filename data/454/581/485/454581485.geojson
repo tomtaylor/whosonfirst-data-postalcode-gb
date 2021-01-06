@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.994891,50.750919,-3.994891,50.750919",
-    "geom:latitude": 50.750919,
-    "geom:longitude": -3.994891,
+    "geom:bbox": "-3.994828,50.751255,-3.994828,50.751255",
+    "geom:latitude": 50.751255,
+    "geom:longitude": -3.994828,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360753735, 
-      404227469, 
       1360698541, 
       85633159, 
       1360699081, 
-      404430001
+      404430001, 
+      1360753735, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701649,
-    "wof:geomhash": "6ae8f368967f418b3bc7b1ce99299e1f",
+    "wof:geomhash": "d5adac9d5077249bb54739851bee3892",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454581485,
-    "wof:lastmodified": 1583786782,
+    "wof:lastmodified": 1609895449,
     "wof:name": "EX20 1RH",
     "wof:parent_id": 404430001,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.994891, 
-    50.750919, 
-    -3.994891, 
-    50.750919
+    -3.994828, 
+    50.751255, 
+    -3.994828, 
+    50.751255
   ],
-  "geometry": {"coordinates":[-3.994891,50.750919],"type":"Point"}
+  "geometry": {"coordinates":[-3.994828,50.751255],"type":"Point"}
 }

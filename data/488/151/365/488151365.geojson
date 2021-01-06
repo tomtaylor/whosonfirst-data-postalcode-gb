@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1991-09-01",
     "geom:area": 0,
-    "geom:bbox": "-2.634570,53.543596,-2.634570,53.543596",
-    "geom:latitude": 53.543596,
-    "geom:longitude": -2.63457,
+    "geom:bbox": "-2.634584,53.543560,-2.634584,53.543560",
+    "geom:latitude": 53.54356,
+    "geom:longitude": -2.634584,
     "gp:parent_id": "40445",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360699023, 
       1360817301, 
       1125871869, 
       404227469, 
-      1360698555, 
-      85633159, 
-      1360699023
+      1360698555
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701278,
-    "wof:geomhash": "cdf9051c0c644deac1cca516450d9899",
+    "wof:geomhash": "fd71cf0a5380068d3d4200eb1c32caff",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488151365,
-    "wof:lastmodified": 1583786210,
+    "wof:lastmodified": 1609877285,
     "wof:name": "WN3 4AB",
     "wof:parent_id": 101750563,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.63457, 
-    53.543596, 
-    -2.63457, 
-    53.543596
+    -2.634584, 
+    53.54356, 
+    -2.634584, 
+    53.54356
   ],
-  "geometry": {"coordinates":[-2.63457,53.543596],"type":"Point"}
+  "geometry": {"coordinates":[-2.634584,53.54356],"type":"Point"}
 }

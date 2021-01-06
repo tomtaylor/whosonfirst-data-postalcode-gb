@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1995-12-01",
     "geom:area": 0,
-    "geom:bbox": "-2.374099,53.131496,-2.374099,53.131496",
-    "geom:latitude": 53.131496,
-    "geom:longitude": -2.374099,
+    "geom:bbox": "-2.374114,53.131504,-2.374114,53.131504",
+    "geom:latitude": 53.131504,
+    "geom:longitude": -2.374114,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      404432155, 
-      101871987, 
       404227469, 
       1360698537, 
       85633159, 
-      1360698929
+      1360698929, 
+      404432155, 
+      101871987
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701451,
-    "wof:geomhash": "ccdce15dc15f23269984fc137161ed15",
+    "wof:geomhash": "05d9fb6f64d93ceef61dd0e36df7d33f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454293227,
-    "wof:lastmodified": 1583786583,
+    "wof:lastmodified": 1609881824,
     "wof:name": "CW11 4QQ",
     "wof:parent_id": 404432155,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.374099, 
-    53.131496, 
-    -2.374099, 
-    53.131496
+    -2.374114, 
+    53.131504, 
+    -2.374114, 
+    53.131504
   ],
-  "geometry": {"coordinates":[-2.374099,53.131496],"type":"Point"}
+  "geometry": {"coordinates":[-2.374114,53.131504],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2015-04-01",
     "geom:area": 0,
-    "geom:bbox": "-3.042726,52.953351,-3.042726,52.953351",
-    "geom:latitude": 52.953351,
-    "geom:longitude": -3.042726,
+    "geom:bbox": "-3.042425,52.953821,-3.042425,52.953821",
+    "geom:latitude": 52.953821,
+    "geom:longitude": -3.042425,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698743, 
       404439693, 
       101871913, 
       404227475, 
-      1360698637
+      1360698637, 
+      85633159, 
+      1360698743
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468887246,
-    "wof:geomhash": "b55bd9af22ba3efc653d3360d8a4bebc",
+    "wof:geomhash": "d1c05dc1a67a922007130217db614310",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 874479223,
-    "wof:lastmodified": 1583786327,
+    "wof:lastmodified": 1609870987,
     "wof:name": "LL14 5AX",
     "wof:parent_id": 404439693,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.042726, 
-    52.953351, 
-    -3.042726, 
-    52.953351
+    -3.042425, 
+    52.953821, 
+    -3.042425, 
+    52.953821
   ],
-  "geometry": {"coordinates":[-3.042726,52.953351],"type":"Point"}
+  "geometry": {"coordinates":[-3.042425,52.953821],"type":"Point"}
 }

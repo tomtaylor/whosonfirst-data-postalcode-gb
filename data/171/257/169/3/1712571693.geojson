@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.252128,50.930380,0.252128,50.930380",
-    "geom:latitude": 50.93038,
-    "geom:longitude": 0.252128,
+    "geom:bbox": "0.252045,50.930435,0.252045,50.930435",
+    "geom:latitude": 50.930435,
+    "geom:longitude": 0.252045,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404448269, 
-      1125863283, 
-      404227469, 
       1360698549, 
       85633159, 
-      1360698815
+      1360698815, 
+      404448269, 
+      1125863283, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583793980,
-    "wof:geomhash": "f04bdf1ab6a43a5a1bef72fcb39c79d7",
+    "wof:geomhash": "2da48073e9e2f388b077b50c1f1817fc",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712571693,
-    "wof:lastmodified": 1583793980,
+    "wof:lastmodified": 1609870709,
     "wof:name": "TN21 9BL",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.252128, 
-    50.93038, 
-    0.252128, 
-    50.93038
+    0.252045, 
+    50.930435, 
+    0.252045, 
+    50.930435
   ],
-  "geometry": {"coordinates":[0.252128,50.93038],"type":"Point"}
+  "geometry": {"coordinates":[0.252045,50.930435],"type":"Point"}
 }

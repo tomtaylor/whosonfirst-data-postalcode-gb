@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-12-01",
     "geom:area": 0,
-    "geom:bbox": "-2.549195,51.403464,-2.549195,51.403464",
-    "geom:latitude": 51.403464,
-    "geom:longitude": -2.549195,
+    "geom:bbox": "-2.549267,51.403473,-2.549267,51.403473",
+    "geom:latitude": 51.403473,
+    "geom:longitude": -2.549267,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,31 +18,31 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1175612725, 
-      1360698531, 
+      1225879917, 
+      404227469, 
+      85790759, 
+      1360698589, 
       85633159, 
-      1360698747, 
-      404431949, 
-      1175612699, 
-      404227469
+      1360698775, 
+      404439701
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583803675,
-    "wof:geomhash": "1bbdb190e5ee756a0300012a4797ac15",
+    "wof:geomhash": "ae3f1d3614e64df0297a3b925c9d43ae",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
-        "county_id": 1360698747,
-        "localadmin_id": 404431949,
-        "locality_id": 1175612699,
+        "county_id": 1360698775,
+        "localadmin_id": 404439701,
+        "locality_id": 1225879917,
         "macroregion_id": 404227469,
-        "neighbourhood_id": 1175612725,
-        "region_id": 1360698531
+        "neighbourhood_id": 85790759,
+        "region_id": 1360698589
       }
     ],
     "wof:id": 1712789759,
-    "wof:lastmodified": 1595712703,
+    "wof:lastmodified": 1609874563,
     "wof:name": "BS14 0FN",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.549195, 
-    51.403464, 
-    -2.549195, 
-    51.403464
+    -2.549267, 
+    51.403473, 
+    -2.549267, 
+    51.403473
   ],
-  "geometry": {"coordinates":[-2.549195,51.403464],"type":"Point"}
+  "geometry": {"coordinates":[-2.549267,51.403473],"type":"Point"}
 }

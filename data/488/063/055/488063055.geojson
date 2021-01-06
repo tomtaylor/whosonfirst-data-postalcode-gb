@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.433813,53.398512,-2.433813,53.398512",
-    "geom:latitude": 53.398512,
-    "geom:longitude": -2.433813,
+    "geom:bbox": "-2.434692,53.399183,-2.434692,53.399183",
+    "geom:latitude": 53.399183,
+    "geom:longitude": -2.434692,
     "gp:parent_id": "39144",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698555, 
-      85633159, 
       1360698935, 
       404453441, 
-      1125844337
+      1125844337, 
+      404227469, 
+      1360698555, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701222,
-    "wof:geomhash": "996c828dccff369abff2e3b92a2bda88",
+    "wof:geomhash": "cf2e789b7912bd72fd755affd4166e6d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488063055,
-    "wof:lastmodified": 1583786391,
+    "wof:lastmodified": 1609870706,
     "wof:name": "WA13 9UY",
     "wof:parent_id": 404453441,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.433813, 
-    53.398512, 
-    -2.433813, 
-    53.398512
+    -2.434692, 
+    53.399183, 
+    -2.434692, 
+    53.399183
   ],
-  "geometry": {"coordinates":[-2.433813,53.398512],"type":"Point"}
+  "geometry": {"coordinates":[-2.434692,53.399183],"type":"Point"}
 }

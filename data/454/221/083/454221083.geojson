@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.351827,51.310996,1.351827,51.310996",
-    "geom:latitude": 51.310996,
-    "geom:longitude": 1.351827,
+    "geom:bbox": "1.352690,51.311025,1.352690,51.311025",
+    "geom:latitude": 51.311025,
+    "geom:longitude": 1.35269,
     "gp:parent_id": "34024",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1125774635, 
-      404227469, 
-      1360698565, 
       85633159, 
       1360698811, 
-      404450173
+      404450173, 
+      1125774635, 
+      404227469, 
+      1360698565
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701386,
-    "wof:geomhash": "80b63436c39c37b925118d6dd9760780",
+    "wof:geomhash": "f0569d67dd6316588eb5bfe02d54410f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454221083,
-    "wof:lastmodified": 1583786517,
+    "wof:lastmodified": 1609878891,
     "wof:name": "CT13 9QL",
     "wof:parent_id": 404450173,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.351827, 
-    51.310996, 
-    1.351827, 
-    51.310996
+    1.35269, 
+    51.311025, 
+    1.35269, 
+    51.311025
   ],
-  "geometry": {"coordinates":[1.351827,51.310996],"type":"Point"}
+  "geometry": {"coordinates":[1.35269,51.311025],"type":"Point"}
 }

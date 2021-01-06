@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1993-08-01",
     "geom:area": 0,
-    "geom:bbox": "-1.186332,52.152310,-1.186332,52.152310",
-    "geom:latitude": 52.15231,
-    "geom:longitude": -1.186332,
+    "geom:bbox": "-1.183873,52.156482,-1.183873,52.156482",
+    "geom:latitude": 52.156482,
+    "geom:longitude": -1.183873,
     "gp:parent_id": "19808",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698755, 
       404430755, 
       1125782441, 
       404227469, 
-      1360698577, 
-      85633159, 
-      1360698755
+      1360698577
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701361,
-    "wof:geomhash": "476e7a39ab557d87beddc0cb4de214da",
+    "wof:geomhash": "3601b97072861c3c160959b09d85004a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471166791,
-    "wof:lastmodified": 1583786509,
+    "wof:lastmodified": 1609877896,
     "wof:name": "NN11 3QA",
     "wof:parent_id": 404430755,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.186332, 
-    52.15231, 
-    -1.186332, 
-    52.15231
+    -1.183873, 
+    52.156482, 
+    -1.183873, 
+    52.156482
   ],
-  "geometry": {"coordinates":[-1.186332,52.15231],"type":"Point"}
+  "geometry": {"coordinates":[-1.183873,52.156482],"type":"Point"}
 }

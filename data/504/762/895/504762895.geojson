@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.259867,55.863339,-4.259867,55.863339",
-    "geom:latitude": 55.863339,
+    "geom:bbox": "-4.259867,55.863348,-4.259867,55.863348",
+    "geom:latitude": 55.863348,
     "geom:longitude": -4.259867,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85792621, 
       1360698707, 
       85633159, 
       1360698797, 
       404430153, 
       1175612707, 
-      404227471
+      404227471, 
+      85792621
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701556,
-    "wof:geomhash": "26674f0e725f15dacf606ace5fed515a",
+    "wof:geomhash": "2528ced3c87390c74d4a46c3d2033c43",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 504762895,
-    "wof:lastmodified": 1595733289,
+    "wof:lastmodified": 1609889652,
     "wof:name": "G2 2SD",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -57,9 +57,9 @@
   },
   "bbox": [
     -4.259867, 
-    55.863339, 
+    55.863348, 
     -4.259867, 
-    55.863339
+    55.863348
   ],
-  "geometry": {"coordinates":[-4.259867,55.863339],"type":"Point"}
+  "geometry": {"coordinates":[-4.259867,55.863348],"type":"Point"}
 }

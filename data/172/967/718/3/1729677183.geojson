@@ -1,0 +1,59 @@
+{
+  "id": 1729677183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-06-01",
+    "geom:area": 0,
+    "geom:bbox": "-4.152001,55.807433,-4.152001,55.807433",
+    "geom:latitude": 55.807433,
+    "geom:longitude": -4.152001,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "S92000003",
+    "os:county_code": "S99999999",
+    "os:district_code": "S12000029",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "S99999999",
+    "src:geom": "os",
+    "wof:belongsto": [
+      1360698969, 
+      404453929, 
+      404227471, 
+      85786177, 
+      1360698703, 
+      85633159
+    ],
+    "wof:breaches": [],
+    "wof:country": "GB",
+    "wof:created": 1609905866,
+    "wof:geomhash": "234eef65bedd2434a3add5ef88d28faf",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698969,
+        "localadmin_id": 404453929,
+        "macroregion_id": 404227471,
+        "neighbourhood_id": 85786177,
+        "region_id": 1360698703
+      }
+    ],
+    "wof:id": 1729677183,
+    "wof:lastmodified": 1609905866,
+    "wof:name": "G72 8FR",
+    "wof:parent_id": -1,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -4.152001, 
+    55.807433, 
+    -4.152001, 
+    55.807433
+  ],
+  "geometry": {"coordinates":[-4.152001,55.807433],"type":"Point"}
+}

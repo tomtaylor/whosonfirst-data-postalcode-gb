@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.067751,51.097988,-3.067751,51.097988",
-    "geom:latitude": 51.097988,
-    "geom:longitude": -3.067751,
+    "geom:bbox": "-3.067777,51.097844,-3.067777,51.097844",
+    "geom:latitude": 51.097844,
+    "geom:longitude": -3.067777,
     "gp:parent_id": "21277",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      404449151, 
       1126002525, 
       404227469, 
       1360698589, 
       85633159, 
-      1360699059, 
-      404449151
+      1360699059
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701180,
-    "wof:geomhash": "02491af5a54c7c1306813d66fef6564a",
+    "wof:geomhash": "e709f6304696f6051c5e010c51b28c0e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487812457,
-    "wof:lastmodified": 1583786284,
+    "wof:lastmodified": 1609881113,
     "wof:name": "TA5 2DH",
     "wof:parent_id": 404449151,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.067751, 
-    51.097988, 
-    -3.067751, 
-    51.097988
+    -3.067777, 
+    51.097844, 
+    -3.067777, 
+    51.097844
   ],
-  "geometry": {"coordinates":[-3.067751,51.097988],"type":"Point"}
+  "geometry": {"coordinates":[-3.067777,51.097844],"type":"Point"}
 }

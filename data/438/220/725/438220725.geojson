@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.026073,50.801083,-0.026073,50.801083",
-    "geom:latitude": 50.801083,
-    "geom:longitude": -0.026073,
+    "geom:bbox": "-0.026190,50.800999,-0.026190,50.800999",
+    "geom:latitude": 50.800999,
+    "geom:longitude": -0.02619,
     "gp:parent_id": "33910",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360698815, 
       404447639, 
       1125786301, 
       404227469, 
-      1360698549, 
-      85633159
+      1360698549
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701410,
-    "wof:geomhash": "8a8bdd2e6c9a944545c9425c45e8529e",
+    "wof:geomhash": "06d0ea029d34967b979495965e662730",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438220725,
-    "wof:lastmodified": 1583786539,
+    "wof:lastmodified": 1609880294,
     "wof:name": "BN2 8DR",
     "wof:parent_id": 404447639,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.026073, 
-    50.801083, 
-    -0.026073, 
-    50.801083
+    -0.02619, 
+    50.800999, 
+    -0.02619, 
+    50.800999
   ],
-  "geometry": {"coordinates":[-0.026073,50.801083],"type":"Point"}
+  "geometry": {"coordinates":[-0.02619,50.800999],"type":"Point"}
 }

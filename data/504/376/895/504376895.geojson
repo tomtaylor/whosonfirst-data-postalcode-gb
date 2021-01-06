@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1984-06-01",
     "geom:area": 0,
-    "geom:bbox": "-3.183556,55.979312,-3.183556,55.979312",
-    "geom:latitude": 55.979312,
-    "geom:longitude": -3.183556,
+    "geom:bbox": "-3.183512,55.979387,-3.183512,55.979387",
+    "geom:latitude": 55.979387,
+    "geom:longitude": -3.183512,
     "gp:parent_id": "12696195",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698761, 
       404437279, 
       101750629, 
       404227471, 
       85788727, 
-      1360698673, 
-      85633159, 
-      1360698761
+      1360698673
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701091,
-    "wof:geomhash": "8c3134d4647e2ca150186d9894d0d471",
+    "wof:geomhash": "083aac628d6bc7e9a7b04870292ec5e9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 504376895,
-    "wof:lastmodified": 1583786182,
+    "wof:lastmodified": 1609868863,
     "wof:name": "EH6 4ER",
     "wof:parent_id": 101750629,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.183556, 
-    55.979312, 
-    -3.183556, 
-    55.979312
+    -3.183512, 
+    55.979387, 
+    -3.183512, 
+    55.979387
   ],
-  "geometry": {"coordinates":[-3.183556,55.979312],"type":"Point"}
+  "geometry": {"coordinates":[-3.183512,55.979387],"type":"Point"}
 }

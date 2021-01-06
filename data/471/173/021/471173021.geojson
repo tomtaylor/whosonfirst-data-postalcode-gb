@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1992-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.526268,52.391791,-0.526268,52.391791",
-    "geom:latitude": 52.391791,
-    "geom:longitude": -0.526268,
+    "geom:bbox": "-0.525430,52.391780,-0.525430,52.391780",
+    "geom:latitude": 52.39178,
+    "geom:longitude": -0.52543,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360698755, 
       404442973, 
       101854885, 
       404227469, 
-      1360698577, 
-      85633159
+      1360698577
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701370,
-    "wof:geomhash": "9b8c3d6d1b5c961327174d8488cfcb04",
+    "wof:geomhash": "ce74f559db42033a1ce248e4ad5f0c84",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471173021,
-    "wof:lastmodified": 1583786517,
+    "wof:lastmodified": 1609878191,
     "wof:name": "NN14 4UR",
     "wof:parent_id": 101854885,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.526268, 
-    52.391791, 
-    -0.526268, 
-    52.391791
+    -0.52543, 
+    52.39178, 
+    -0.52543, 
+    52.39178
   ],
-  "geometry": {"coordinates":[-0.526268,52.391791],"type":"Point"}
+  "geometry": {"coordinates":[-0.52543,52.39178],"type":"Point"}
 }

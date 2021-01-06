@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.517219,51.186161,0.517219,51.186161",
-    "geom:latitude": 51.186161,
-    "geom:longitude": 0.517219,
+    "geom:bbox": "0.517107,51.186200,0.517107,51.186200",
+    "geom:latitude": 51.1862,
+    "geom:longitude": 0.517107,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698811, 
       404451021, 
       1209134711, 
       404227469, 
-      1360698565
+      1360698565, 
+      85633159, 
+      1360698811
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701299,
-    "wof:geomhash": "96b1eb18820ae1c9ed3ddd00575d4a5e",
+    "wof:geomhash": "0370234092f71d044e260084c53ae11f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 487839581,
-    "wof:lastmodified": 1583786298,
+    "wof:lastmodified": 1609882536,
     "wof:name": "TN12 9AJ",
     "wof:parent_id": 404451021,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.517219, 
-    51.186161, 
-    0.517219, 
-    51.186161
+    0.517107, 
+    51.1862, 
+    0.517107, 
+    51.1862
   ],
-  "geometry": {"coordinates":[0.517219,51.186161],"type":"Point"}
+  "geometry": {"coordinates":[0.517107,51.1862],"type":"Point"}
 }

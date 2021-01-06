@@ -2,33 +2,33 @@
   "id": 1712765361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "1990-12-01",
-    "edtf:inception": "1980-01-01",
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.474500,52.463576,-1.474500,52.463576",
-    "geom:latitude": 52.463576,
-    "geom:longitude": -1.4745,
+    "geom:bbox": "-1.512700,52.461014,-1.512700,52.461014",
+    "geom:latitude": 52.461014,
+    "geom:longitude": -1.5127,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000031",
     "os:district_code": "E07000219",
-    "os:positional_quality_indicator": "8",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698891, 
-      1360817293, 
-      101750469, 
       404227469, 
       1360698603, 
-      85633159
+      85633159, 
+      1360698891, 
+      1360817293, 
+      101750469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583802593,
-    "wof:geomhash": "26fef44e8f8f63963ddddc89058bdc8a",
+    "wof:geomhash": "73772d9d9188ae5d19def35304bcfc12",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712765361,
-    "wof:lastmodified": 1583802593,
+    "wof:lastmodified": 1609874135,
     "wof:name": "CV7 9DT",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.4745, 
-    52.463576, 
-    -1.4745, 
-    52.463576
+    -1.5127, 
+    52.461014, 
+    -1.5127, 
+    52.461014
   ],
-  "geometry": {"coordinates":[-1.4745,52.463576],"type":"Point"}
+  "geometry": {"coordinates":[-1.5127,52.461014],"type":"Point"}
 }

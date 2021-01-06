@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.847491,52.440731,-1.847491,52.440731",
-    "geom:latitude": 52.440731,
-    "geom:longitude": -1.847491,
+    "geom:bbox": "-1.848000,52.440863,-1.848000,52.440863",
+    "geom:latitude": 52.440863,
+    "geom:longitude": -1.848,
     "gp:parent_id": "22185",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699077, 
-      101750467, 
       404227469, 
       85790563, 
       1360698605, 
-      85633159
+      85633159, 
+      1360699077, 
+      101750467
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701662,
-    "wof:geomhash": "fd881ba83e2bfe95023d019a9ec66991",
+    "wof:geomhash": "2a37884baa38ee81c181dd046aa5ac40",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 437976973,
-    "wof:lastmodified": 1583786830,
+    "wof:lastmodified": 1609898159,
     "wof:name": "B28 8BE",
     "wof:parent_id": 101750467,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.847491, 
-    52.440731, 
-    -1.847491, 
-    52.440731
+    -1.848, 
+    52.440863, 
+    -1.848, 
+    52.440863
   ],
-  "geometry": {"coordinates":[-1.847491,52.440731],"type":"Point"}
+  "geometry": {"coordinates":[-1.848,52.440863],"type":"Point"}
 }

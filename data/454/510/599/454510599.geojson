@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.026908,51.515144,-0.026908,51.515144",
-    "geom:latitude": 51.515144,
-    "geom:longitude": -0.026908,
+    "geom:bbox": "-0.027040,51.515101,-0.027040,51.515101",
+    "geom:latitude": 51.515101,
+    "geom:longitude": -0.02704,
     "gp:parent_id": "20094316",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -20,12 +20,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      85860179, 
-      1360698645, 
       1158857269, 
       85633159, 
       101750367, 
-      404227469
+      404227469, 
+      85860179, 
+      1360698645
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701610,
-    "wof:geomhash": "93c2c512efb5453d095b4000e2234abb",
+    "wof:geomhash": "1dd7fd457a3803d6617382abbfc6f10b",
     "wof:hierarchy": [
       {
         "borough_id": 1158857269,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 454510599,
-    "wof:lastmodified": 1583786744,
+    "wof:lastmodified": 1609892670,
     "wof:name": "E14 7BJ",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -55,10 +55,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.026908, 
-    51.515144, 
-    -0.026908, 
-    51.515144
+    -0.02704, 
+    51.515101, 
+    -0.02704, 
+    51.515101
   ],
-  "geometry": {"coordinates":[-0.026908,51.515144],"type":"Point"}
+  "geometry": {"coordinates":[-0.02704,51.515101],"type":"Point"}
 }

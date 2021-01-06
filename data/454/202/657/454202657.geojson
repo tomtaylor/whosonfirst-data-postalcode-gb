@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.103897,51.345992,-0.103897,51.345992",
-    "geom:latitude": 51.345992,
-    "geom:longitude": -0.103897,
+    "geom:bbox": "-0.103826,51.346027,-0.103826,51.346027",
+    "geom:latitude": 51.346027,
+    "geom:longitude": -0.103826,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      85790427, 
-      1360698645, 
       1158857301, 
       85633159, 
-      101750367
+      101750367, 
+      404227469, 
+      85790427, 
+      1360698645
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701370,
-    "wof:geomhash": "c5fea51cde6d20d98641564bd7e04f82",
+    "wof:geomhash": "8d8651e9a32f0974588476ff7abf2cf9",
     "wof:hierarchy": [
       {
         "borough_id": 1158857301,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454202657,
-    "wof:lastmodified": 1583786501,
+    "wof:lastmodified": 1609877990,
     "wof:name": "CR2 6AW",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.103897, 
-    51.345992, 
-    -0.103897, 
-    51.345992
+    -0.103826, 
+    51.346027, 
+    -0.103826, 
+    51.346027
   ],
-  "geometry": {"coordinates":[-0.103897,51.345992],"type":"Point"}
+  "geometry": {"coordinates":[-0.103826,51.346027],"type":"Point"}
 }

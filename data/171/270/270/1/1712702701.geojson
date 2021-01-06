@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.815268,51.664410,0.815268,51.664410",
-    "geom:latitude": 51.66441,
-    "geom:longitude": 0.815268,
+    "geom:bbox": "0.815263,51.664563,0.815263,51.664563",
+    "geom:latitude": 51.664563,
+    "geom:longitude": 0.815263,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      101853525, 
       404227469, 
       1360698551, 
       85633159, 
       1360698979, 
-      404454079
+      404454079, 
+      101853525
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583799812,
-    "wof:geomhash": "f1030b39d3e8147583cc2a093a2564bd",
+    "wof:geomhash": "74db710b744fdda817854b14e4339a1a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712702701,
-    "wof:lastmodified": 1583799812,
+    "wof:lastmodified": 1609872530,
     "wof:name": "CM0 7XW",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.815268, 
-    51.66441, 
-    0.815268, 
-    51.66441
+    0.815263, 
+    51.664563, 
+    0.815263, 
+    51.664563
   ],
-  "geometry": {"coordinates":[0.815268,51.66441],"type":"Point"}
+  "geometry": {"coordinates":[0.815263,51.664563],"type":"Point"}
 }

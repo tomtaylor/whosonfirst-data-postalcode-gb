@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.705938,51.526283,-0.705938,51.526283",
-    "geom:latitude": 51.526283,
-    "geom:longitude": -0.705938,
+    "geom:bbox": "-0.706155,51.526249,-0.706155,51.526249",
+    "geom:latitude": 51.526249,
+    "geom:longitude": -0.706155,
     "gp:parent_id": "28159",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698943, 
-      101750385, 
       404227469, 
       1360698529, 
-      85633159
+      85633159, 
+      1360698943, 
+      101750385
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701750,
-    "wof:geomhash": "a136f3fdc2644bd2592a86415b8567eb",
+    "wof:geomhash": "22f6ee96b5a1fc45b5f44af6a6fc34a8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 471817525,
-    "wof:lastmodified": 1583786915,
+    "wof:lastmodified": 1609903772,
     "wof:name": "SL6 8QY",
     "wof:parent_id": 101750385,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.705938, 
-    51.526283, 
-    -0.705938, 
-    51.526283
+    -0.706155, 
+    51.526249, 
+    -0.706155, 
+    51.526249
   ],
-  "geometry": {"coordinates":[-0.705938,51.526283],"type":"Point"}
+  "geometry": {"coordinates":[-0.706155,51.526249],"type":"Point"}
 }

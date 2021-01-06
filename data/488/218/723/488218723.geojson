@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.308977,52.510214,-2.308977,52.510214",
-    "geom:latitude": 52.510214,
-    "geom:longitude": -2.308977,
+    "geom:bbox": "-2.307644,52.509791,-2.307644,52.509791",
+    "geom:latitude": 52.509791,
+    "geom:longitude": -2.307644,
     "gp:parent_id": "20913",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698821, 
       404452941, 
       1125886171, 
       404227469, 
-      1360698587
+      1360698587, 
+      85633159, 
+      1360698821
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701140,
-    "wof:geomhash": "d6fb9efc73578297bf958f2c56a19430",
+    "wof:geomhash": "64a6b4605b2616db0e53b75047df535d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488218723,
-    "wof:lastmodified": 1583786393,
+    "wof:lastmodified": 1609880935,
     "wof:name": "WV5 7AW",
     "wof:parent_id": 404452941,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.308977, 
-    52.510214, 
-    -2.308977, 
-    52.510214
+    -2.307644, 
+    52.509791, 
+    -2.307644, 
+    52.509791
   ],
-  "geometry": {"coordinates":[-2.308977,52.510214],"type":"Point"}
+  "geometry": {"coordinates":[-2.307644,52.509791],"type":"Point"}
 }

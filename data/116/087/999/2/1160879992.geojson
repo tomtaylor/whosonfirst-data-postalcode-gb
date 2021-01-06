@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "uuuu",
-    "edtf:inception": "2019-06-01",
+    "edtf:inception": "2020-08-01",
     "geom:area": 0,
     "geom:bbox": "-1.211042,50.810374,-1.211042,50.810374",
     "geom:latitude": 50.810374,
@@ -18,11 +18,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698557, 
-      85633159, 
       1360698827, 
       101750359, 
-      404227469
+      404227469, 
+      1360698557, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1160879992,
-    "wof:lastmodified": 1583794100,
+    "wof:lastmodified": 1609871547,
     "wof:name": "PO13 9FG",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

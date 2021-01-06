@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1993-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.868086,52.019905,0.868086,52.019905",
-    "geom:latitude": 52.019905,
+    "geom:bbox": "0.868086,52.019896,0.868086,52.019896",
+    "geom:latitude": 52.019896,
     "geom:longitude": 0.868086,
     "gp:parent_id": "13465",
     "iso:country": "GB",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699041, 
-      404446665, 
       1125885337, 
       404227469, 
-      1360698595
+      1360698595, 
+      85633159, 
+      1360699041, 
+      404446665
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701331,
-    "wof:geomhash": "5226c36f331ef4b178a0003296c01e50",
+    "wof:geomhash": "62edfa24dba7d03233d8e7469d05cb5a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454171197,
-    "wof:lastmodified": 1595712663,
+    "wof:lastmodified": 1609875892,
     "wof:name": "CO10 5JE",
     "wof:parent_id": 404446665,
     "wof:placetype": "postalcode",
@@ -55,9 +55,9 @@
   },
   "bbox": [
     0.868086, 
-    52.019905, 
+    52.019896, 
     0.868086, 
-    52.019905
+    52.019896
   ],
-  "geometry": {"coordinates":[0.868086,52.019905],"type":"Point"}
+  "geometry": {"coordinates":[0.868086,52.019896],"type":"Point"}
 }

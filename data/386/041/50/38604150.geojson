@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-04-01",
     "geom:area": 0,
-    "geom:bbox": "-3.445552,55.336360,-3.445552,55.336360",
-    "geom:latitude": 55.33636,
-    "geom:longitude": -3.445552,
+    "geom:bbox": "-3.445516,55.336252,-3.445516,55.336252",
+    "geom:latitude": 55.336252,
+    "geom:longitude": -3.445516,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      404444245, 
+      404227471, 
       1360698719, 
       85633159, 
-      1360699039, 
-      404444245, 
-      404227471
+      1360699039
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583792185,
-    "wof:geomhash": "c56048918d28333404dbdcd38b94cd6e",
+    "wof:geomhash": "56973d1a34d166cba3eb89682e9f4c58",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 38604150,
-    "wof:lastmodified": 1583792185,
+    "wof:lastmodified": 1609876680,
     "wof:name": "DG10 9FA",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.445552, 
-    55.33636, 
-    -3.445552, 
-    55.33636
+    -3.445516, 
+    55.336252, 
+    -3.445516, 
+    55.336252
   ],
-  "geometry": {"coordinates":[-3.445552,55.33636],"type":"Point"}
+  "geometry": {"coordinates":[-3.445516,55.336252],"type":"Point"}
 }

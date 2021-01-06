@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1987-04-01",
     "geom:area": 0,
-    "geom:bbox": "-1.005703,50.887223,-1.005703,50.887223",
-    "geom:latitude": 50.887223,
-    "geom:longitude": -1.005703,
+    "geom:bbox": "-1.005719,50.887115,-1.005719,50.887115",
+    "geom:latitude": 50.887115,
+    "geom:longitude": -1.005719,
     "gp:parent_id": "39301",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698827, 
-      1360817467, 
-      1125973077, 
       404227469, 
       1360698557, 
-      85633159
+      85633159, 
+      1360698827, 
+      1360817467, 
+      1125973077
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701641,
-    "wof:geomhash": "7950dabc436d2f012138418ad5dc36c3",
+    "wof:geomhash": "3f0b39ff7d0df10b5562055f96d3f87e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471486683,
-    "wof:lastmodified": 1583786769,
+    "wof:lastmodified": 1609893747,
     "wof:name": "PO7 8QD",
     "wof:parent_id": 101913909,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.005703, 
-    50.887223, 
-    -1.005703, 
-    50.887223
+    -1.005719, 
+    50.887115, 
+    -1.005719, 
+    50.887115
   ],
-  "geometry": {"coordinates":[-1.005703,50.887223],"type":"Point"}
+  "geometry": {"coordinates":[-1.005719,50.887115],"type":"Point"}
 }

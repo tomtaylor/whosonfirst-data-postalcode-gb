@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.005680,53.466779,-3.005680,53.466779",
-    "geom:latitude": 53.466779,
-    "geom:longitude": -3.00568,
+    "geom:bbox": "-3.005771,53.466866,-3.005771,53.466866",
+    "geom:latitude": 53.466866,
+    "geom:longitude": -3.005771,
     "gp:parent_id": "26734",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698573, 
       85633159, 
       1360698771, 
       1360817501, 
       1126041051, 
       404227469, 
-      85790225
+      85790225, 
+      1360698573
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701761,
-    "wof:geomhash": "d6720d52948eab214a30aa6f30526b13",
+    "wof:geomhash": "4e5b59baaef4b6e65c3ebeaad468952a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 454947619,
-    "wof:lastmodified": 1583786896,
+    "wof:lastmodified": 1609905244,
     "wof:name": "L21 6PL",
     "wof:parent_id": 101913935,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.00568, 
-    53.466779, 
-    -3.00568, 
-    53.466779
+    -3.005771, 
+    53.466866, 
+    -3.005771, 
+    53.466866
   ],
-  "geometry": {"coordinates":[-3.00568,53.466779],"type":"Point"}
+  "geometry": {"coordinates":[-3.005771,53.466866],"type":"Point"}
 }

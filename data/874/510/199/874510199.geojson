@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2010-04-01",
     "geom:area": 0,
-    "geom:bbox": "-3.994796,56.355944,-3.994796,56.355944",
-    "geom:latitude": 56.355944,
-    "geom:longitude": -3.994796,
+    "geom:bbox": "-3.994887,56.355206,-3.994887,56.355206",
+    "geom:latitude": 56.355206,
+    "geom:longitude": -3.994887,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698691, 
-      85633159, 
       1360698829, 
       404451983, 
-      404227471
+      404227471, 
+      1360698691, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468896503,
-    "wof:geomhash": "99ca865e8536e430de35ace35e0e4c52",
+    "wof:geomhash": "e40c00817e06c4a7aabad9bf29084f4e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 874510199,
-    "wof:lastmodified": 1583786408,
+    "wof:lastmodified": 1609872901,
     "wof:name": "PH6 2AB",
     "wof:parent_id": 404451983,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.994796, 
-    56.355944, 
-    -3.994796, 
-    56.355944
+    -3.994887, 
+    56.355206, 
+    -3.994887, 
+    56.355206
   ],
-  "geometry": {"coordinates":[-3.994796,56.355944],"type":"Point"}
+  "geometry": {"coordinates":[-3.994887,56.355206],"type":"Point"}
 }

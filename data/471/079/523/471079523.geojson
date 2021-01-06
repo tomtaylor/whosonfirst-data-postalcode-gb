@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.256786,55.078447,-2.256786,55.078447",
-    "geom:latitude": 55.078447,
-    "geom:longitude": -2.256786,
+    "geom:bbox": "-2.263800,55.075574,-2.263800,55.075574",
+    "geom:latitude": 55.075574,
+    "geom:longitude": -2.2638,
     "gp:parent_id": "39176",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698727, 
       85633159, 
       1360698769, 
       404446515, 
       1125942713, 
-      404227469, 
-      1360698727
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701246,
-    "wof:geomhash": "4816df655e4108a2d62b75bea04f6d55",
+    "wof:geomhash": "167d5d5f72b12fdd40a10178cf65f867",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471079523,
-    "wof:lastmodified": 1583786387,
+    "wof:lastmodified": 1609871649,
     "wof:name": "NE48 3DL",
     "wof:parent_id": 404446515,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.256786, 
-    55.078447, 
-    -2.256786, 
-    55.078447
+    -2.2638, 
+    55.075574, 
+    -2.2638, 
+    55.075574
   ],
-  "geometry": {"coordinates":[-2.256786,55.078447],"type":"Point"}
+  "geometry": {"coordinates":[-2.2638,55.075574],"type":"Point"}
 }

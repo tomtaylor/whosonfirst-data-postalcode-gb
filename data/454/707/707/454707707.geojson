@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.520016,51.228277,-0.520016,51.228277",
-    "geom:latitude": 51.228277,
-    "geom:longitude": -0.520016,
+    "geom:bbox": "-0.520945,51.227444,-0.520945,51.227444",
+    "geom:latitude": 51.227444,
+    "geom:longitude": -0.520945,
     "gp:parent_id": "10521",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698599, 
       85633159, 
       1360698887, 
-      404429303, 
-      1125803971, 
-      404227469
+      404431045, 
+      1360755307, 
+      404227469, 
+      1360698599
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,19 +32,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701702,
-    "wof:geomhash": "57e38a308567ba9fcd4b836a08ae4f45",
+    "wof:geomhash": "e94c05c357409370c7006fd98ad49812",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360698887,
-        "localadmin_id": 404429303,
-        "locality_id": 1125803971,
+        "localadmin_id": 404431045,
+        "locality_id": 1360755307,
         "macroregion_id": 404227469,
         "region_id": 1360698599
       }
     ],
     "wof:id": 454707707,
-    "wof:lastmodified": 1583786843,
+    "wof:lastmodified": 1609900043,
     "wof:name": "GU5 9BQ",
     "wof:parent_id": 404429303,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.520016, 
-    51.228277, 
-    -0.520016, 
-    51.228277
+    -0.520945, 
+    51.227444, 
+    -0.520945, 
+    51.227444
   ],
-  "geometry": {"coordinates":[-0.520016,51.228277],"type":"Point"}
+  "geometry": {"coordinates":[-0.520945,51.227444],"type":"Point"}
 }

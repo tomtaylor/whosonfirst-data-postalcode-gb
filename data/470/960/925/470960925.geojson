@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.796821,51.328737,0.796821,51.328737",
-    "geom:latitude": 51.328737,
-    "geom:longitude": 0.796821,
+    "geom:bbox": "0.796659,51.328660,0.796659,51.328660",
+    "geom:latitude": 51.32866,
+    "geom:longitude": 0.796659,
     "gp:parent_id": "37142",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698565, 
       85633159, 
       1360698811, 
       404434747, 
       1125880833, 
-      404227469
+      404227469, 
+      1360698565
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701341,
-    "wof:geomhash": "a16545db7763da34318d5e8bc7e34303",
+    "wof:geomhash": "9e0ca3efe00beac4580dcf5965f177d6",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470960925,
-    "wof:lastmodified": 1583786474,
+    "wof:lastmodified": 1609877065,
     "wof:name": "ME9 9QJ",
     "wof:parent_id": 404434747,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.796821, 
-    51.328737, 
-    0.796821, 
-    51.328737
+    0.796659, 
+    51.32866, 
+    0.796659, 
+    51.32866
   ],
-  "geometry": {"coordinates":[0.796821,51.328737],"type":"Point"}
+  "geometry": {"coordinates":[0.796659,51.32866],"type":"Point"}
 }

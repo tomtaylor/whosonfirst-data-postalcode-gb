@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.520519,50.867686,-0.520519,50.867686",
-    "geom:latitude": 50.867686,
-    "geom:longitude": -0.520519,
+    "geom:bbox": "-0.520449,50.867667,-0.520449,50.867667",
+    "geom:latitude": 50.867667,
+    "geom:longitude": -0.520449,
     "gp:parent_id": "39521",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1126028337, 
       404227469, 
       1360698607, 
       85633159, 
       1360698757, 
-      404436641
+      404436641, 
+      1126028337
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701407,
-    "wof:geomhash": "4169519f2fb9323a00176c25550f87b0",
+    "wof:geomhash": "369ac9d2db3e8fd027c9aa925f0c90e3",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438217747,
-    "wof:lastmodified": 1595713767,
+    "wof:lastmodified": 1609880231,
     "wof:name": "BN18 9RB",
     "wof:parent_id": 404436641,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.520519, 
-    50.867686, 
-    -0.520519, 
-    50.867686
+    -0.520449, 
+    50.867667, 
+    -0.520449, 
+    50.867667
   ],
-  "geometry": {"coordinates":[-0.520519,50.867686],"type":"Point"}
+  "geometry": {"coordinates":[-0.520449,50.867667],"type":"Point"}
 }

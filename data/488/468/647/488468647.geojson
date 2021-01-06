@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1999-06-01",
     "geom:area": 0,
-    "geom:bbox": "-3.208574,51.529884,-3.208574,51.529884",
+    "geom:bbox": "-3.208685,51.529884,-3.208685,51.529884",
     "geom:latitude": 51.529884,
-    "geom:longitude": -3.208574,
+    "geom:longitude": -3.208685,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699107, 
-      101750397, 
-      404227475, 
       1360698627, 
       1360887617, 
-      85633159
+      85633159, 
+      1360699107, 
+      101750397, 
+      404227475
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701482,
-    "wof:geomhash": "80c89337735cd7de6cec601a512b6c77",
+    "wof:geomhash": "992c1447eb941f5f0eab75bf022b65f9",
     "wof:hierarchy": [
       {
         "borough_id": 1360887617,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 488468647,
-    "wof:lastmodified": 1583786688,
+    "wof:lastmodified": 1609893041,
     "wof:name": "CF14 6RE",
     "wof:parent_id": 101750397,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.208574, 
+    -3.208685, 
     51.529884, 
-    -3.208574, 
+    -3.208685, 
     51.529884
   ],
-  "geometry": {"coordinates":[-3.208574,51.529884],"type":"Point"}
+  "geometry": {"coordinates":[-3.208685,51.529884],"type":"Point"}
 }

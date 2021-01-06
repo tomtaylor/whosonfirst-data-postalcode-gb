@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.416609,56.772150,-2.416609,56.772150",
-    "geom:latitude": 56.77215,
-    "geom:longitude": -2.416609,
+    "geom:bbox": "-2.416511,56.772177,-2.416511,56.772177",
+    "geom:latitude": 56.772177,
+    "geom:longitude": -2.416511,
     "gp:parent_id": "35612",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227471, 
       1360698711, 
       85633159, 
       1360699031, 
-      404448747
+      404448747, 
+      404227471
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701613,
-    "wof:geomhash": "96194e2902a0f2a07bdd5aada2ceefb3",
+    "wof:geomhash": "0bfa23f7b260baca879b91d143bd8fba",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488596605,
-    "wof:lastmodified": 1583786805,
+    "wof:lastmodified": 1609898312,
     "wof:name": "DD10 0BB",
     "wof:parent_id": 404448747,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.416609, 
-    56.77215, 
-    -2.416609, 
-    56.77215
+    -2.416511, 
+    56.772177, 
+    -2.416511, 
+    56.772177
   ],
-  "geometry": {"coordinates":[-2.416609,56.77215],"type":"Point"}
+  "geometry": {"coordinates":[-2.416511,56.772177],"type":"Point"}
 }

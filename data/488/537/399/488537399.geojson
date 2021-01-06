@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1996-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.170551,57.156753,-2.170551,57.156753",
+    "geom:bbox": "-2.170452,57.156753,-2.170452,57.156753",
     "geom:latitude": 57.156753,
-    "geom:longitude": -2.170551,
+    "geom:longitude": -2.170452,
     "gp:parent_id": "12696182",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227471, 
-      1360698709, 
-      85633159, 
       1360698989, 
       404429183, 
-      101750639
+      101750639, 
+      404227471, 
+      1360698709, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701549,
-    "wof:geomhash": "22a3c15cec56cc2c313664ac7b900c72",
+    "wof:geomhash": "056689e3c3447d1308e79c6fb52b4031",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488537399,
-    "wof:lastmodified": 1583786750,
+    "wof:lastmodified": 1609895856,
     "wof:name": "AB16 6PY",
     "wof:parent_id": 101750639,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.170551, 
+    -2.170452, 
     57.156753, 
-    -2.170551, 
+    -2.170452, 
     57.156753
   ],
-  "geometry": {"coordinates":[-2.170551,57.156753],"type":"Point"}
+  "geometry": {"coordinates":[-2.170452,57.156753],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.312107,51.686530,-0.312107,51.686530",
-    "geom:latitude": 51.68653,
-    "geom:longitude": -0.312107,
+    "geom:bbox": "-0.312400,51.686408,-0.312400,51.686408",
+    "geom:latitude": 51.686408,
+    "geom:longitude": -0.3124,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1125977863, 
-      404227469, 
       1360698559, 
       85633159, 
       1360698763, 
-      404448125
+      404448125, 
+      1125977863, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701253,
-    "wof:geomhash": "985a84bc3a5acd3bea4b511d76196ee4",
+    "wof:geomhash": "5d1d84c2b6ae9c78aa924febdae9b6ef",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 488115715,
-    "wof:lastmodified": 1583786411,
+    "wof:lastmodified": 1609874096,
     "wof:name": "WD7 7AU",
     "wof:parent_id": 101854793,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.312107, 
-    51.68653, 
-    -0.312107, 
-    51.68653
+    -0.3124, 
+    51.686408, 
+    -0.3124, 
+    51.686408
   ],
-  "geometry": {"coordinates":[-0.312107,51.68653],"type":"Point"}
+  "geometry": {"coordinates":[-0.3124,51.686408],"type":"Point"}
 }

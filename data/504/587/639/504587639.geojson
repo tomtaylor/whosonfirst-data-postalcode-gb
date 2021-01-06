@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.231613,51.719004,-4.231613,51.719004",
-    "geom:latitude": 51.719004,
-    "geom:longitude": -4.231613,
+    "geom:bbox": "-4.228857,51.720082,-4.228857,51.720082",
+    "geom:latitude": 51.720082,
+    "geom:longitude": -4.228857,
     "gp:parent_id": "12696118",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227475, 
-      1360698639, 
       85633159, 
       1360698785, 
       404455253, 
-      1125872005
+      1125872005, 
+      404227475, 
+      1360698639
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701458,
-    "wof:geomhash": "1554b1e47f9e36c63d73a362643a4782",
+    "wof:geomhash": "c38941602894e6a1a4b89daa23d3d950",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504587639,
-    "wof:lastmodified": 1595730711,
+    "wof:lastmodified": 1609881034,
     "wof:name": "SA17 4AS",
     "wof:parent_id": 404455253,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.231613, 
-    51.719004, 
-    -4.231613, 
-    51.719004
+    -4.228857, 
+    51.720082, 
+    -4.228857, 
+    51.720082
   ],
-  "geometry": {"coordinates":[-4.231613,51.719004],"type":"Point"}
+  "geometry": {"coordinates":[-4.228857,51.720082],"type":"Point"}
 }

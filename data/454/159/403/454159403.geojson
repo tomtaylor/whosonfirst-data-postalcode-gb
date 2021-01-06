@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1983-07-01",
     "geom:area": 0,
-    "geom:bbox": "0.283443,51.869420,0.283443,51.869420",
-    "geom:latitude": 51.86942,
-    "geom:longitude": 0.283443,
+    "geom:bbox": "0.283367,51.869062,0.283367,51.869062",
+    "geom:latitude": 51.869062,
+    "geom:longitude": 0.283367,
     "gp:parent_id": "26421",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698551, 
       85633159, 
       1360698979, 
       404437003, 
-      1125920341
+      1125920341, 
+      404227469, 
+      1360698551
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701322,
-    "wof:geomhash": "60fcbf0ca79d97148f37b1b10d0c2d16",
+    "wof:geomhash": "e62149f1b217d80c2473e722e3cd93ed",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454159403,
-    "wof:lastmodified": 1583786459,
+    "wof:lastmodified": 1609874855,
     "wof:name": "CM6 1TJ",
     "wof:parent_id": 404437003,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.283443, 
-    51.86942, 
-    0.283443, 
-    51.86942
+    0.283367, 
+    51.869062, 
+    0.283367, 
+    51.869062
   ],
-  "geometry": {"coordinates":[0.283443,51.86942],"type":"Point"}
+  "geometry": {"coordinates":[0.283367,51.869062],"type":"Point"}
 }

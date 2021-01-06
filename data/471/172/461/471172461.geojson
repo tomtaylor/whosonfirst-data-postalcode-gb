@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2000-12-01",
     "geom:area": 0,
-    "geom:bbox": "-0.497803,52.422901,-0.497803,52.422901",
-    "geom:latitude": 52.422901,
-    "geom:longitude": -0.497803,
+    "geom:bbox": "-0.497729,52.423349,-0.497729,52.423349",
+    "geom:latitude": 52.423349,
+    "geom:longitude": -0.497729,
     "gp:parent_id": "37430",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698755, 
+      404453541, 
       1360759269, 
       404227469, 
       1360698577, 
-      85633159, 
-      1360698755, 
-      404453541
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701368,
-    "wof:geomhash": "b2219dcb479b3dc7f0f7ca91bf05e235",
+    "wof:geomhash": "df3c646960b56d41027ec7940b892075",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471172461,
-    "wof:lastmodified": 1595720547,
+    "wof:lastmodified": 1609878191,
     "wof:name": "NN14 3NZ",
     "wof:parent_id": 404453541,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.497803, 
-    52.422901, 
-    -0.497803, 
-    52.422901
+    -0.497729, 
+    52.423349, 
+    -0.497729, 
+    52.423349
   ],
-  "geometry": {"coordinates":[-0.497803,52.422901],"type":"Point"}
+  "geometry": {"coordinates":[-0.497729,52.423349],"type":"Point"}
 }

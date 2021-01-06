@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.360400,55.814976,-4.360400,55.814976",
-    "geom:latitude": 55.814976,
-    "geom:longitude": -4.3604,
+    "geom:bbox": "-4.360305,55.814996,-4.360305,55.814996",
+    "geom:latitude": 55.814996,
+    "geom:longitude": -4.360305,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698797, 
       404430153, 
       1175612707, 
       404227471, 
       85789427, 
-      1360698707
+      1360698707, 
+      85633159, 
+      1360698797
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701170,
-    "wof:geomhash": "7e69f658a60e8dda5d076b4676308344",
+    "wof:geomhash": "b4b07b6ce8bc7b8318e4d03ade7faae3",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 504406423,
-    "wof:lastmodified": 1583786276,
+    "wof:lastmodified": 1609869774,
     "wof:name": "G53 6SF",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.3604, 
-    55.814976, 
-    -4.3604, 
-    55.814976
+    -4.360305, 
+    55.814996, 
+    -4.360305, 
+    55.814996
   ],
-  "geometry": {"coordinates":[-4.3604,55.814976],"type":"Point"}
+  "geometry": {"coordinates":[-4.360305,55.814996],"type":"Point"}
 }

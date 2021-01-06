@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1999-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.388589,52.169599,-1.388589,52.169599",
-    "geom:latitude": 52.169599,
-    "geom:longitude": -1.388589,
+    "geom:bbox": "-1.388529,52.169661,-1.388529,52.169661",
+    "geom:latitude": 52.169661,
+    "geom:longitude": -1.388529,
     "gp:parent_id": "20072",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698891, 
-      404448305, 
       1125810073, 
       404227469, 
       1360698603, 
-      85633159
+      85633159, 
+      1360698891, 
+      404448305
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701435,
-    "wof:geomhash": "5037db4dc8c4be4ad2db0d8f3471c312",
+    "wof:geomhash": "858c94442e685eec2163a468fc2dc6aa",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454278107,
-    "wof:lastmodified": 1583786569,
+    "wof:lastmodified": 1609881238,
     "wof:name": "CV47 2FT",
     "wof:parent_id": 404448305,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.388589, 
-    52.169599, 
-    -1.388589, 
-    52.169599
+    -1.388529, 
+    52.169661, 
+    -1.388529, 
+    52.169661
   ],
-  "geometry": {"coordinates":[-1.388589,52.169599],"type":"Point"}
+  "geometry": {"coordinates":[-1.388529,52.169661],"type":"Point"}
 }

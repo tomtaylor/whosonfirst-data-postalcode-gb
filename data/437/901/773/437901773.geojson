@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "-2.282774,53.098712,-2.282774,53.098712",
-    "geom:latitude": 53.098712,
-    "geom:longitude": -2.282774,
+    "geom:bbox": "-2.282847,53.098604,-2.282847,53.098604",
+    "geom:latitude": 53.098604,
+    "geom:longitude": -2.282847,
     "gp:parent_id": "34183",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698929, 
-      404445719, 
-      1360759641, 
       404227469, 
       1360698537, 
-      85633159
+      85633159, 
+      1360698929, 
+      404445719, 
+      1360759641
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701623,
-    "wof:geomhash": "fbe9833387cf40975c05b6a84276ad67",
+    "wof:geomhash": "ace56531f02ee42c0d846862d34ed60b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 437901773,
-    "wof:lastmodified": 1595715556,
+    "wof:lastmodified": 1609894977,
     "wof:name": "ST7 3DJ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.282774, 
-    53.098712, 
-    -2.282774, 
-    53.098712
+    -2.282847, 
+    53.098604, 
+    -2.282847, 
+    53.098604
   ],
-  "geometry": {"coordinates":[-2.282774,53.098712],"type":"Point"}
+  "geometry": {"coordinates":[-2.282847,53.098604],"type":"Point"}
 }

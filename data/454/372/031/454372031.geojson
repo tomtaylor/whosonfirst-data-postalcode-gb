@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.429805,54.815040,-1.429805,54.815040",
-    "geom:latitude": 54.81504,
-    "geom:longitude": -1.429805,
+    "geom:bbox": "-1.429820,54.814888,-1.429820,54.814888",
+    "geom:latitude": 54.814888,
+    "geom:longitude": -1.42982,
     "gp:parent_id": "23127",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      404434817, 
       1360756383, 
       404227469, 
       1360698601, 
       85633159, 
-      1360698987
+      1360698987, 
+      404434817
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701522,
-    "wof:geomhash": "de48270c7f86b023c51bddfe9f6e6829",
+    "wof:geomhash": "c1d63ce0bee57921f069dee3fb73d0c5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454372031,
-    "wof:lastmodified": 1583786656,
+    "wof:lastmodified": 1609886350,
     "wof:name": "DH5 0QZ",
     "wof:parent_id": 101872325,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.429805, 
-    54.81504, 
-    -1.429805, 
-    54.81504
+    -1.42982, 
+    54.814888, 
+    -1.42982, 
+    54.814888
   ],
-  "geometry": {"coordinates":[-1.429805,54.81504],"type":"Point"}
+  "geometry": {"coordinates":[-1.42982,54.814888],"type":"Point"}
 }

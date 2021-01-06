@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.558937,51.412511,-2.558937,51.412511",
-    "geom:latitude": 51.412511,
-    "geom:longitude": -2.558937,
+    "geom:bbox": "-2.558864,51.412429,-2.558864,51.412429",
+    "geom:latitude": 51.412429,
+    "geom:longitude": -2.558864,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,13 +18,13 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      1175612699, 
+      404227469, 
+      85790759, 
       1360698531, 
       85633159, 
       1360698747, 
-      404431949, 
-      1175612699, 
-      404227469, 
-      85790759
+      404431949
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701455,
-    "wof:geomhash": "6fb07b211e873904aeae7d40553f29e5",
+    "wof:geomhash": "e4e1f9ee2c1f997b6125047e0c791dce",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 438268841,
-    "wof:lastmodified": 1583786596,
+    "wof:lastmodified": 1609882884,
     "wof:name": "BS14 0PA",
     "wof:parent_id": 101750389,
     "wof:placetype": "postalcode",
@@ -55,10 +55,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.558937, 
-    51.412511, 
-    -2.558937, 
-    51.412511
+    -2.558864, 
+    51.412429, 
+    -2.558864, 
+    51.412429
   ],
-  "geometry": {"coordinates":[-2.558937,51.412511],"type":"Point"}
+  "geometry": {"coordinates":[-2.558864,51.412429],"type":"Point"}
 }

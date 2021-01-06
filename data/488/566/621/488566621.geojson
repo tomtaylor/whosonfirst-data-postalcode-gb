@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.553388,51.497660,-3.553388,51.497660",
-    "geom:latitude": 51.49766,
-    "geom:longitude": -3.553388,
+    "geom:bbox": "-3.553462,51.497696,-3.553462,51.497696",
+    "geom:latitude": 51.497696,
+    "geom:longitude": -3.553462,
     "gp:parent_id": "12696127",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227475, 
-      1360698631, 
       85633159, 
       1360699051, 
       404451003, 
-      1360711633
+      1360711633, 
+      404227475, 
+      1360698631
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701593,
-    "wof:geomhash": "a054436e25ba02051ca55637342cd116",
+    "wof:geomhash": "e2055013080f4b0388e586da8aeaf489",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488566621,
-    "wof:lastmodified": 1583786782,
+    "wof:lastmodified": 1609897102,
     "wof:name": "CF31 3UR",
     "wof:parent_id": 404451003,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.553388, 
-    51.49766, 
-    -3.553388, 
-    51.49766
+    -3.553462, 
+    51.497696, 
+    -3.553462, 
+    51.497696
   ],
-  "geometry": {"coordinates":[-3.553388,51.49766],"type":"Point"}
+  "geometry": {"coordinates":[-3.553462,51.497696],"type":"Point"}
 }

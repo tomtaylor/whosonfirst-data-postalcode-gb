@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.650077,50.536470,-3.650077,50.536470",
-    "geom:latitude": 50.53647,
-    "geom:longitude": -3.650077,
+    "geom:bbox": "-3.650388,50.536484,-3.650388,50.536484",
+    "geom:latitude": 50.536484,
+    "geom:longitude": -3.650388,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      101852597, 
-      404227469, 
       1360698541, 
       85633159, 
       1360699081, 
-      404452193
+      404452193, 
+      101852597, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583794245,
-    "wof:geomhash": "3b455cabcb0069ab7d04c80701fb705e",
+    "wof:geomhash": "fb99441824c8aebe8320a8509121faff",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160883978,
-    "wof:lastmodified": 1595711224,
+    "wof:lastmodified": 1609871363,
     "wof:name": "TQ12 1FA",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.650077, 
-    50.53647, 
-    -3.650077, 
-    50.53647
+    -3.650388, 
+    50.536484, 
+    -3.650388, 
+    50.536484
   ],
-  "geometry": {"coordinates":[-3.650077,50.53647],"type":"Point"}
+  "geometry": {"coordinates":[-3.650388,50.536484],"type":"Point"}
 }

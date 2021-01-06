@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.137582,53.213141,-0.137582,53.213141",
-    "geom:latitude": 53.213141,
-    "geom:longitude": -0.137582,
+    "geom:bbox": "-0.137624,53.213184,-0.137624,53.213184",
+    "geom:latitude": 53.213184,
+    "geom:longitude": -0.137624,
     "gp:parent_id": "37269",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1293127703, 
-      404227469, 
       1360698571, 
       85633159, 
       1360699067, 
-      404439161
+      404439161, 
+      1293127703, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701182,
-    "wof:geomhash": "ed2684e712827fda1d4ce476d57a8045",
+    "wof:geomhash": "c2c8faecfd3d01a7b3e1e8eecd22fbba",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 455069063,
-    "wof:lastmodified": 1583786309,
+    "wof:lastmodified": 1609870945,
     "wof:name": "LN9 5RB",
     "wof:parent_id": 404439161,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.137582, 
-    53.213141, 
-    -0.137582, 
-    53.213141
+    -0.137624, 
+    53.213184, 
+    -0.137624, 
+    53.213184
   ],
-  "geometry": {"coordinates":[-0.137582,53.213141],"type":"Point"}
+  "geometry": {"coordinates":[-0.137624,53.213184],"type":"Point"}
 }

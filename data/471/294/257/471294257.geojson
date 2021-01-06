@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.010101,53.538084,-2.010101,53.538084",
-    "geom:latitude": 53.538084,
-    "geom:longitude": -2.010101,
+    "geom:bbox": "-2.010174,53.538020,-2.010174,53.538020",
+    "geom:latitude": 53.53802,
+    "geom:longitude": -2.010174,
     "gp:parent_id": "21790",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698555, 
-      85633159, 
       1360698953, 
       404446855, 
       1360754417, 
-      404227469
+      404227469, 
+      1360698555, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701476,
-    "wof:geomhash": "15f6f5b515d8639b6c9074baadbd0706",
+    "wof:geomhash": "6cc764ee4f0a8ec41368bb4c88dcd910",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471294257,
-    "wof:lastmodified": 1583786633,
+    "wof:lastmodified": 1609885092,
     "wof:name": "OL3 7AG",
     "wof:parent_id": 404446855,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.010101, 
-    53.538084, 
-    -2.010101, 
-    53.538084
+    -2.010174, 
+    53.53802, 
+    -2.010174, 
+    53.53802
   ],
-  "geometry": {"coordinates":[-2.010101,53.538084],"type":"Point"}
+  "geometry": {"coordinates":[-2.010174,53.53802],"type":"Point"}
 }

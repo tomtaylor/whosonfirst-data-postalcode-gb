@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.588389,51.923829,-2.588389,51.923829",
-    "geom:latitude": 51.923829,
-    "geom:longitude": -2.588389,
+    "geom:bbox": "-2.588258,51.923720,-2.588258,51.923720",
+    "geom:latitude": 51.92372,
+    "geom:longitude": -2.588258,
     "gp:parent_id": "21875",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698617, 
+      85633159, 
       1360699053, 
       404444237, 
       1360758757, 
-      404227469, 
-      1360698617, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701725,
-    "wof:geomhash": "b2f11e1488c576ad94cd475a86201904",
+    "wof:geomhash": "3601b300dc6843d3a34798d2519f9818",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454807559,
-    "wof:lastmodified": 1583786862,
+    "wof:lastmodified": 1609902488,
     "wof:name": "HR9 7HP",
     "wof:parent_id": 101853007,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.588389, 
-    51.923829, 
-    -2.588389, 
-    51.923829
+    -2.588258, 
+    51.92372, 
+    -2.588258, 
+    51.92372
   ],
-  "geometry": {"coordinates":[-2.588389,51.923829],"type":"Point"}
+  "geometry": {"coordinates":[-2.588258,51.92372],"type":"Point"}
 }

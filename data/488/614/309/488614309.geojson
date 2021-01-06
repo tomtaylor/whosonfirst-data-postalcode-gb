@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.753585,54.998398,-3.753585,54.998398",
-    "geom:latitude": 54.998398,
-    "geom:longitude": -3.753585,
+    "geom:bbox": "-3.758074,55.001772,-3.758074,55.001772",
+    "geom:latitude": 55.001772,
+    "geom:longitude": -3.758074,
     "gp:parent_id": "25390",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699039, 
       404444245, 
       404227471, 
-      1360698647
+      1360698647, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701617,
-    "wof:geomhash": "a24b51156d1fb223b7d41dae8ab0c83e",
+    "wof:geomhash": "4e3069b576e390231061911f51ddb2bd",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488614309,
-    "wof:lastmodified": 1583786814,
+    "wof:lastmodified": 1609898804,
     "wof:name": "DG2 8PD",
     "wof:parent_id": 404444245,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.753585, 
-    54.998398, 
-    -3.753585, 
-    54.998398
+    -3.758074, 
+    55.001772, 
+    -3.758074, 
+    55.001772
   ],
-  "geometry": {"coordinates":[-3.753585,54.998398],"type":"Point"}
+  "geometry": {"coordinates":[-3.758074,55.001772],"type":"Point"}
 }

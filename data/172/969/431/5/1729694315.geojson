@@ -1,0 +1,59 @@
+{
+  "id": 1729694315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-07-01",
+    "geom:area": 0,
+    "geom:bbox": "-2.462970,53.120575,-2.462970,53.120575",
+    "geom:latitude": 53.120575,
+    "geom:longitude": -2.46297,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E99999999",
+    "os:district_code": "E06000049",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000002",
+    "src:geom": "os",
+    "wof:belongsto": [
+      404227469, 
+      1360698537, 
+      85633159, 
+      1360698929, 
+      404444773, 
+      1360759021
+    ],
+    "wof:breaches": [],
+    "wof:country": "GB",
+    "wof:created": 1609906620,
+    "wof:geomhash": "e362ba470e4b10856ba2cccee756b871",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698929,
+        "localadmin_id": 404444773,
+        "locality_id": 1360759021,
+        "macroregion_id": 404227469,
+        "region_id": 1360698537
+      }
+    ],
+    "wof:id": 1729694315,
+    "wof:lastmodified": 1609906620,
+    "wof:name": "CW1 4UL",
+    "wof:parent_id": -1,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -2.46297, 
+    53.120575, 
+    -2.46297, 
+    53.120575
+  ],
+  "geometry": {"coordinates":[-2.46297,53.120575],"type":"Point"}
+}

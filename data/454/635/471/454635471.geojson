@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.518537,51.854900,-2.518537,51.854900",
-    "geom:latitude": 51.8549,
-    "geom:longitude": -2.518537,
+    "geom:bbox": "-2.518727,51.854925,-2.518727,51.854925",
+    "geom:latitude": 51.854925,
+    "geom:longitude": -2.518727,
     "gp:parent_id": "18552",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1125863643, 
-      404227469, 
-      1360698553, 
       85633159, 
       1360698927, 
-      404445485
+      404445485, 
+      1125863643, 
+      404227469, 
+      1360698553
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701676,
-    "wof:geomhash": "c5f9c5e416a2a9f33504c7019fb37429",
+    "wof:geomhash": "91809a3cb971f6e199e15a5873c84fcf",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454635471,
-    "wof:lastmodified": 1583786811,
+    "wof:lastmodified": 1609897692,
     "wof:name": "GL17 9AF",
     "wof:parent_id": 404445485,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.518537, 
-    51.8549, 
-    -2.518537, 
-    51.8549
+    -2.518727, 
+    51.854925, 
+    -2.518727, 
+    51.854925
   ],
-  "geometry": {"coordinates":[-2.518537,51.8549],"type":"Point"}
+  "geometry": {"coordinates":[-2.518727,51.854925],"type":"Point"}
 }

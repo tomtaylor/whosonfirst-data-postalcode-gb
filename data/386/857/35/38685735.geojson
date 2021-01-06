@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-05-01",
     "geom:area": 0,
-    "geom:bbox": "-3.221896,51.481118,-3.221896,51.481118",
-    "geom:latitude": 51.481118,
-    "geom:longitude": -3.221896,
+    "geom:bbox": "-3.221968,51.481136,-3.221968,51.481136",
+    "geom:latitude": 51.481136,
+    "geom:longitude": -3.221968,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699107, 
-      101750397, 
-      404227475, 
       1360698627, 
       1360887569, 
-      85633159
+      85633159, 
+      1360699107, 
+      101750397, 
+      404227475
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583793183,
-    "wof:geomhash": "badac6ea233a4fc812b48e18f0898c74",
+    "wof:geomhash": "4b790b6fb2f5882fcd4238811d03475f",
     "wof:hierarchy": [
       {
         "borough_id": 1360887569,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 38685735,
-    "wof:lastmodified": 1595710971,
+    "wof:lastmodified": 1609868549,
     "wof:name": "CF11 8FX",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.221896, 
-    51.481118, 
-    -3.221896, 
-    51.481118
+    -3.221968, 
+    51.481136, 
+    -3.221968, 
+    51.481136
   ],
-  "geometry": {"coordinates":[-3.221896,51.481118],"type":"Point"}
+  "geometry": {"coordinates":[-3.221968,51.481136],"type":"Point"}
 }

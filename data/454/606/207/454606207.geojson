@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2003-09-01",
     "geom:area": 0,
-    "geom:bbox": "-3.478503,50.580163,-3.478503,50.580163",
-    "geom:latitude": 50.580163,
+    "geom:bbox": "-3.478503,50.580172,-3.478503,50.580172",
+    "geom:latitude": 50.580172,
     "geom:longitude": -3.478503,
     "gp:parent_id": "17980",
     "iso:country": "GB",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699081, 
       404436419, 
       1125891889, 
       404227469, 
-      1360698541
+      1360698541, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701661,
-    "wof:geomhash": "ce634cfe8bbb3232f00995bc8028eda5",
+    "wof:geomhash": "b6519b69d6fffd34c209de8155dfe1ec",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454606207,
-    "wof:lastmodified": 1583786791,
+    "wof:lastmodified": 1609896709,
     "wof:name": "EX7 9SX",
     "wof:parent_id": 404436419,
     "wof:placetype": "postalcode",
@@ -55,9 +55,9 @@
   },
   "bbox": [
     -3.478503, 
-    50.580163, 
+    50.580172, 
     -3.478503, 
-    50.580163
+    50.580172
   ],
-  "geometry": {"coordinates":[-3.478503,50.580163],"type":"Point"}
+  "geometry": {"coordinates":[-3.478503,50.580172],"type":"Point"}
 }

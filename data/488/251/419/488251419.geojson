@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1998-06-01",
     "geom:area": 0,
-    "geom:bbox": "-0.921426,53.999473,-0.921426,53.999473",
-    "geom:latitude": 53.999473,
-    "geom:longitude": -0.921426,
+    "geom:bbox": "-0.921032,53.999937,-0.921032,53.999937",
+    "geom:latitude": 53.999937,
+    "geom:longitude": -0.921032,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698753, 
       404433975, 
       1360755083, 
       404227469, 
       1360698619, 
-      85633159
+      85633159, 
+      1360698753
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701220,
-    "wof:geomhash": "5af937407d069f4c60cc8f81400955c9",
+    "wof:geomhash": "0e5c282684948f918684ebf6d3f4377a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 488251419,
-    "wof:lastmodified": 1583786452,
+    "wof:lastmodified": 1609882611,
     "wof:name": "YO41 1AP",
     "wof:parent_id": 404433975,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.921426, 
-    53.999473, 
-    -0.921426, 
-    53.999473
+    -0.921032, 
+    53.999937, 
+    -0.921032, 
+    53.999937
   ],
-  "geometry": {"coordinates":[-0.921426,53.999473],"type":"Point"}
+  "geometry": {"coordinates":[-0.921032,53.999937],"type":"Point"}
 }

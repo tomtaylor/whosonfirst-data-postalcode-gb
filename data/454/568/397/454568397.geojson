@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1998-12-01",
     "geom:area": 0,
-    "geom:bbox": "-2.993605,50.764975,-2.993605,50.764975",
-    "geom:latitude": 50.764975,
-    "geom:longitude": -2.993605,
+    "geom:bbox": "-2.993367,50.765129,-2.993367,50.765129",
+    "geom:latitude": 50.765129,
+    "geom:longitude": -2.993367,
     "gp:parent_id": "41264",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698541, 
-      85633159, 
       1360699081, 
       404436809, 
-      1360758943
+      1360758943, 
+      404227469, 
+      1360698541, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701640,
-    "wof:geomhash": "03e892bbb50ed8dc25d5e43e7bfd8889",
+    "wof:geomhash": "605634182afdbccff77e5b4418cf3d44",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454568397,
-    "wof:lastmodified": 1583786769,
+    "wof:lastmodified": 1609894693,
     "wof:name": "EX13 8TN",
     "wof:parent_id": 404436809,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.993605, 
-    50.764975, 
-    -2.993605, 
-    50.764975
+    -2.993367, 
+    50.765129, 
+    -2.993367, 
+    50.765129
   ],
-  "geometry": {"coordinates":[-2.993605,50.764975],"type":"Point"}
+  "geometry": {"coordinates":[-2.993367,50.765129],"type":"Point"}
 }

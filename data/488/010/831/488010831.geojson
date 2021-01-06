@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.223258,51.516438,-0.223258,51.516438",
-    "geom:latitude": 51.516438,
-    "geom:longitude": -0.223258,
+    "geom:bbox": "-0.223304,51.516485,-0.223304,51.516485",
+    "geom:latitude": 51.516485,
+    "geom:longitude": -0.223304,
     "gp:parent_id": "12695809",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -20,12 +20,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      101750367, 
-      404227469, 
       85789461, 
       1360698645, 
       1158857317, 
-      85633159
+      85633159, 
+      101750367, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701188,
-    "wof:geomhash": "627616f9981bf34fc04ef10c71b99b09",
+    "wof:geomhash": "02a7ac5864b43223625e26a624b032b3",
     "wof:hierarchy": [
       {
         "borough_id": 1158857317,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 488010831,
-    "wof:lastmodified": 1583786374,
+    "wof:lastmodified": 1609868820,
     "wof:name": "W10 6RA",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -55,10 +55,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.223258, 
-    51.516438, 
-    -0.223258, 
-    51.516438
+    -0.223304, 
+    51.516485, 
+    -0.223304, 
+    51.516485
   ],
-  "geometry": {"coordinates":[-0.223258,51.516438],"type":"Point"}
+  "geometry": {"coordinates":[-0.223304,51.516485],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.253695,52.353042,1.253695,52.353042",
+    "geom:bbox": "1.253710,52.353042,1.253710,52.353042",
     "geom:latitude": 52.353042,
-    "geom:longitude": 1.253695,
+    "geom:longitude": 1.25371,
     "gp:parent_id": "36848",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698595, 
       85633159, 
       1360699041, 
       404444373, 
-      1326965477, 
-      404227469, 
-      1360698595
+      1326965477
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701745,
-    "wof:geomhash": "c66b7ce8c8572761b143223dcb97f079",
+    "wof:geomhash": "be5e7b26ee25334e5ed407a015efc176",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454876577,
-    "wof:lastmodified": 1583786875,
+    "wof:lastmodified": 1609903977,
     "wof:name": "IP21 4LU",
     "wof:parent_id": 404444373,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.253695, 
+    1.25371, 
     52.353042, 
-    1.253695, 
+    1.25371, 
     52.353042
   ],
-  "geometry": {"coordinates":[1.253695,52.353042],"type":"Point"}
+  "geometry": {"coordinates":[1.25371,52.353042],"type":"Point"}
 }

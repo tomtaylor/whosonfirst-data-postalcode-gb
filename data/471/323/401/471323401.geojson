@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1991-09-01",
     "geom:area": 0,
-    "geom:bbox": "-1.591135,51.776285,-1.591135,51.776285",
-    "geom:latitude": 51.776285,
-    "geom:longitude": -1.591135,
+    "geom:bbox": "-1.590318,51.775300,-1.590318,51.775300",
+    "geom:latitude": 51.7753,
+    "geom:longitude": -1.590318,
     "gp:parent_id": "13983",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698839, 
-      404444039, 
       1125878865, 
       404227469, 
-      1360698585
+      1360698585, 
+      85633159, 
+      1360698839, 
+      404444039
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701499,
-    "wof:geomhash": "885567977616bb52a1854745d0746459",
+    "wof:geomhash": "6c3f5e0834b715f3e6f2854d99f3af0f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471323401,
-    "wof:lastmodified": 1583786652,
+    "wof:lastmodified": 1609886314,
     "wof:name": "OX18 3NU",
     "wof:parent_id": 101852947,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.591135, 
-    51.776285, 
-    -1.591135, 
-    51.776285
+    -1.590318, 
+    51.7753, 
+    -1.590318, 
+    51.7753
   ],
-  "geometry": {"coordinates":[-1.591135,51.776285],"type":"Point"}
+  "geometry": {"coordinates":[-1.590318,51.7753],"type":"Point"}
 }

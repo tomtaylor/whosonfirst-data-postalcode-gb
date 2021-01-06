@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.085173,58.445924,-3.085173,58.445924",
-    "geom:latitude": 58.445924,
-    "geom:longitude": -3.085173,
+    "geom:bbox": "-3.085145,58.445928,-3.085145,58.445928",
+    "geom:latitude": 58.445928,
+    "geom:longitude": -3.085145,
     "gp:parent_id": "12696199",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699045, 
-      404436073, 
       404227471, 
       1360698663, 
-      85633159
+      85633159, 
+      1360699045, 
+      404436073
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701439,
-    "wof:geomhash": "82968191cf82b21ae2037d09489f55a8",
+    "wof:geomhash": "d7206cb4241bd0c1dd8d5bef504c59ae",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488425501,
-    "wof:lastmodified": 1583786647,
+    "wof:lastmodified": 1609891350,
     "wof:name": "KW1 4HR",
     "wof:parent_id": 404436073,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.085173, 
-    58.445924, 
-    -3.085173, 
-    58.445924
+    -3.085145, 
+    58.445928, 
+    -3.085145, 
+    58.445928
   ],
-  "geometry": {"coordinates":[-3.085173,58.445924],"type":"Point"}
+  "geometry": {"coordinates":[-3.085145,58.445928],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.311409,52.017198,-1.311409,52.017198",
-    "geom:latitude": 52.017198,
-    "geom:longitude": -1.311409,
+    "geom:bbox": "-1.310967,52.017377,-1.310967,52.017377",
+    "geom:latitude": 52.017377,
+    "geom:longitude": -1.310967,
     "gp:parent_id": "18885",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404442593, 
-      1125861913, 
-      404227469, 
       1360698585, 
       85633159, 
-      1360698839
+      1360698839, 
+      404442593, 
+      1125861913, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701497,
-    "wof:geomhash": "00e7007cff260eb817989cd979e2cbad",
+    "wof:geomhash": "9b7466e23d3776b604290daf54185074",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471322093,
-    "wof:lastmodified": 1583786649,
+    "wof:lastmodified": 1609886251,
     "wof:name": "OX17 3ND",
     "wof:parent_id": 404442593,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.311409, 
-    52.017198, 
-    -1.311409, 
-    52.017198
+    -1.310967, 
+    52.017377, 
+    -1.310967, 
+    52.017377
   ],
-  "geometry": {"coordinates":[-1.311409,52.017198],"type":"Point"}
+  "geometry": {"coordinates":[-1.310967,52.017377],"type":"Point"}
 }

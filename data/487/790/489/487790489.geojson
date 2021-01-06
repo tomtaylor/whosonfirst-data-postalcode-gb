@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.878261,52.375204,-2.878261,52.375204",
-    "geom:latitude": 52.375204,
-    "geom:longitude": -2.878261,
+    "geom:bbox": "-2.876190,52.374491,-2.876190,52.374491",
+    "geom:latitude": 52.374491,
+    "geom:longitude": -2.87619,
     "gp:parent_id": "26092",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698617, 
+      85633159, 
       1360699053, 
       404433343, 
       1125927349, 
-      404227469, 
-      1360698617, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701168,
-    "wof:geomhash": "fce8d6cdfb7e93ef94263a6a7499329e",
+    "wof:geomhash": "40ec50920b7333cbf1ae6f5aec6e2178",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487790489,
-    "wof:lastmodified": 1595723065,
+    "wof:lastmodified": 1609879995,
     "wof:name": "SY7 0JR",
     "wof:parent_id": 404433343,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.878261, 
-    52.375204, 
-    -2.878261, 
-    52.375204
+    -2.87619, 
+    52.374491, 
+    -2.87619, 
+    52.374491
   ],
-  "geometry": {"coordinates":[-2.878261,52.375204],"type":"Point"}
+  "geometry": {"coordinates":[-2.87619,52.374491],"type":"Point"}
 }

@@ -5,30 +5,30 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-12-01",
     "geom:area": 0,
-    "geom:bbox": "-0.206699,51.082814,-0.206699,51.082814",
-    "geom:latitude": 51.082814,
-    "geom:longitude": -0.206699,
+    "geom:bbox": "-0.195584,51.083731,-0.195584,51.083731",
+    "geom:latitude": 51.083731,
+    "geom:longitude": -0.195584,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000032",
     "os:district_code": "E07000228",
-    "os:positional_quality_indicator": "5",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698607, 
       85633159, 
       1360698757, 
       404441549, 
       1125996205, 
-      404227469
+      404227469, 
+      1360698607
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583801313,
-    "wof:geomhash": "7d8f8cba345a5d339347b7fb292ccbeb",
+    "wof:geomhash": "10d1dd469fa836fdeb7b32a48d1bc816",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712736651,
-    "wof:lastmodified": 1583801313,
+    "wof:lastmodified": 1609873525,
     "wof:name": "RH11 9GU",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.206699, 
-    51.082814, 
-    -0.206699, 
-    51.082814
+    -0.195584, 
+    51.083731, 
+    -0.195584, 
+    51.083731
   ],
-  "geometry": {"coordinates":[-0.206699,51.082814],"type":"Point"}
+  "geometry": {"coordinates":[-0.195584,51.083731],"type":"Point"}
 }

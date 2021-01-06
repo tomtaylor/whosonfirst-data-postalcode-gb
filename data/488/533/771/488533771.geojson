@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1996-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.128198,57.122155,-2.128198,57.122155",
-    "geom:latitude": 57.122155,
-    "geom:longitude": -2.128198,
+    "geom:bbox": "-2.128032,57.122182,-2.128032,57.122182",
+    "geom:latitude": 57.122182,
+    "geom:longitude": -2.128032,
     "gp:parent_id": "12696182",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      101750639, 
-      404227471, 
       1360698709, 
       85633159, 
       1360698989, 
-      404429183
+      404429183, 
+      101750639, 
+      404227471
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701547,
-    "wof:geomhash": "bafabb334466e690b03b3748ec805384",
+    "wof:geomhash": "910871e7c68d9848761cc0b1fee2f81e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488533771,
-    "wof:lastmodified": 1583786746,
+    "wof:lastmodified": 1609895596,
     "wof:name": "AB10 7DB",
     "wof:parent_id": 101750639,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.128198, 
-    57.122155, 
-    -2.128198, 
-    57.122155
+    -2.128032, 
+    57.122182, 
+    -2.128032, 
+    57.122182
   ],
-  "geometry": {"coordinates":[-2.128198,57.122155],"type":"Point"}
+  "geometry": {"coordinates":[-2.128032,57.122182],"type":"Point"}
 }

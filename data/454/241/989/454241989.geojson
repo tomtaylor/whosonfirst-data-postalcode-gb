@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.107806,51.366420,1.107806,51.366420",
-    "geom:latitude": 51.36642,
-    "geom:longitude": 1.107806,
+    "geom:bbox": "1.107848,51.366388,1.107848,51.366388",
+    "geom:latitude": 51.366388,
+    "geom:longitude": 1.107848,
     "gp:parent_id": "23078",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      404434003, 
+      1360755123, 
       404227469, 
       1360698565, 
       85633159, 
-      1360698811, 
-      404434003, 
-      1360755123
+      1360698811
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701407,
-    "wof:geomhash": "bca4bc197f7126f4c015b463ee9d2b4c",
+    "wof:geomhash": "38ee9e00449d6d9ac7f1ab3831e36d43",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454241989,
-    "wof:lastmodified": 1583786535,
+    "wof:lastmodified": 1609879820,
     "wof:name": "CT6 8LH",
     "wof:parent_id": 404434003,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.107806, 
-    51.36642, 
-    1.107806, 
-    51.36642
+    1.107848, 
+    51.366388, 
+    1.107848, 
+    51.366388
   ],
-  "geometry": {"coordinates":[1.107806,51.36642],"type":"Point"}
+  "geometry": {"coordinates":[1.107848,51.366388],"type":"Point"}
 }

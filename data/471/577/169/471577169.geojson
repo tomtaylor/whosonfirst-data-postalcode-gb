@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.199976,51.077612,-0.199976,51.077612",
-    "geom:latitude": 51.077612,
-    "geom:longitude": -0.199976,
+    "geom:bbox": "-0.200000,51.077729,-0.200000,51.077729",
+    "geom:latitude": 51.077729,
+    "geom:longitude": -0.2,
     "gp:parent_id": "31544",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1125996205, 
       404227469, 
       1360698607, 
       85633159, 
       1360698757, 
-      404441549, 
-      1125996205
+      404441549
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701670,
-    "wof:geomhash": "b4bece7bab49d60bcf948fedf0f26c9b",
+    "wof:geomhash": "495dfe529e719749ee384f079ae21f53",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471577169,
-    "wof:lastmodified": 1583786820,
+    "wof:lastmodified": 1609897466,
     "wof:name": "RH11 9AB",
     "wof:parent_id": 404441549,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.199976, 
-    51.077612, 
-    -0.199976, 
-    51.077612
+    -0.2, 
+    51.077729, 
+    -0.2, 
+    51.077729
   ],
-  "geometry": {"coordinates":[-0.199976,51.077612],"type":"Point"}
+  "geometry": {"coordinates":[-0.2,51.077729],"type":"Point"}
 }

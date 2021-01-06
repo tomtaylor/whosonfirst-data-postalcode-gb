@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-03-01",
     "geom:area": 0,
-    "geom:bbox": "-3.716626,55.895960,-3.716626,55.895960",
-    "geom:latitude": 55.89596,
-    "geom:longitude": -3.716626,
+    "geom:bbox": "-3.716497,55.895566,-3.716497,55.895566",
+    "geom:latitude": 55.895566,
+    "geom:longitude": -3.716497,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699027, 
       404447005, 
       404227471, 
-      1360698679
+      1360698679, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583799403,
-    "wof:geomhash": "1d449353f0cb43eda261e5a88e49aab8",
+    "wof:geomhash": "95866f24bc9759a4f8842e7909f6c519",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1712693663,
-    "wof:lastmodified": 1583799403,
+    "wof:lastmodified": 1609872541,
     "wof:name": "EH48 3EE",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.716626, 
-    55.89596, 
-    -3.716626, 
-    55.89596
+    -3.716497, 
+    55.895566, 
+    -3.716497, 
+    55.895566
   ],
-  "geometry": {"coordinates":[-3.716626,55.89596],"type":"Point"}
+  "geometry": {"coordinates":[-3.716497,55.895566],"type":"Point"}
 }

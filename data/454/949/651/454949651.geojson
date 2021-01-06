@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.052494,53.490295,-3.052494,53.490295",
-    "geom:latitude": 53.490295,
-    "geom:longitude": -3.052494,
+    "geom:bbox": "-3.052507,53.490320,-3.052507,53.490320",
+    "geom:latitude": 53.49032,
+    "geom:longitude": -3.052507,
     "gp:parent_id": "17413",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698771, 
+      1360817501, 
       1125942385, 
       404227469, 
       85785853, 
-      1360698573, 
-      85633159, 
-      1360698771, 
-      1360817501
+      1360698573
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701761,
-    "wof:geomhash": "a6686b5cf5700e507122210de12968d9",
+    "wof:geomhash": "12fb6a8a933f074cabd65c008ce609ca",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 454949651,
-    "wof:lastmodified": 1583786897,
+    "wof:lastmodified": 1609905251,
     "wof:name": "L23 6TD",
     "wof:parent_id": 404449645,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.052494, 
-    53.490295, 
-    -3.052494, 
-    53.490295
+    -3.052507, 
+    53.49032, 
+    -3.052507, 
+    53.49032
   ],
-  "geometry": {"coordinates":[-3.052494,53.490295],"type":"Point"}
+  "geometry": {"coordinates":[-3.052507,53.49032],"type":"Point"}
 }

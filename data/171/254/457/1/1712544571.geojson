@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-09-01",
     "geom:area": 0,
-    "geom:bbox": "0.057595,52.287828,0.057595,52.287828",
-    "geom:latitude": 52.287828,
-    "geom:longitude": 0.057595,
+    "geom:bbox": "0.057805,52.287609,0.057805,52.287609",
+    "geom:latitude": 52.287609,
+    "geom:longitude": 0.057805,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698535, 
-      85633159, 
-      1360698845, 
       404443849, 
       1125764627, 
-      404227469
+      404227469, 
+      1360698535, 
+      85633159, 
+      1360698845
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583792784,
-    "wof:geomhash": "dde5bae960222699a5787555d990bc26",
+    "wof:geomhash": "8d6d72605976117483bd82e16e15c8fa",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712544571,
-    "wof:lastmodified": 1595711010,
+    "wof:lastmodified": 1609870236,
     "wof:name": "CB24 1BW",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.057595, 
-    52.287828, 
-    0.057595, 
-    52.287828
+    0.057805, 
+    52.287609, 
+    0.057805, 
+    52.287609
   ],
-  "geometry": {"coordinates":[0.057595,52.287828],"type":"Point"}
+  "geometry": {"coordinates":[0.057805,52.287609],"type":"Point"}
 }

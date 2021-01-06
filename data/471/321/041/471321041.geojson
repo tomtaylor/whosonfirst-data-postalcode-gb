@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.272812,52.135486,-1.272812,52.135486",
-    "geom:latitude": 52.135486,
-    "geom:longitude": -1.272812,
+    "geom:bbox": "-1.272680,52.135503,-1.272680,52.135503",
+    "geom:latitude": 52.135503,
+    "geom:longitude": -1.27268,
     "gp:parent_id": "15961",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360698755, 
       404450071, 
       1360754617, 
       404227469, 
-      1360698577, 
-      85633159
+      1360698577
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701499,
-    "wof:geomhash": "bb77938613f920172f6080cb733e6a23",
+    "wof:geomhash": "dd08657cf81c2c861fe285560bb718d4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471321041,
-    "wof:lastmodified": 1583786650,
+    "wof:lastmodified": 1609886230,
     "wof:name": "OX17 1LF",
     "wof:parent_id": 404450071,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.272812, 
-    52.135486, 
-    -1.272812, 
-    52.135486
+    -1.27268, 
+    52.135503, 
+    -1.27268, 
+    52.135503
   ],
-  "geometry": {"coordinates":[-1.272812,52.135486],"type":"Point"}
+  "geometry": {"coordinates":[-1.27268,52.135503],"type":"Point"}
 }

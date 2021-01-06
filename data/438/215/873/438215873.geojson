@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.541201,50.812412,-0.541201,50.812412",
-    "geom:latitude": 50.812412,
-    "geom:longitude": -0.541201,
+    "geom:bbox": "-0.540511,50.812233,-0.540511,50.812233",
+    "geom:latitude": 50.812233,
+    "geom:longitude": -0.540511,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698757, 
-      404431529, 
       101750323, 
       404227469, 
-      1360698607
+      1360698607, 
+      85633159, 
+      1360698757, 
+      404431529
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701406,
-    "wof:geomhash": "41fff7715ac4878bf021942b7494450e",
+    "wof:geomhash": "16c8d2dbb003ddf7e8831c7ed96f91fe",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 438215873,
-    "wof:lastmodified": 1595713743,
+    "wof:lastmodified": 1609880122,
     "wof:name": "BN17 6EW",
     "wof:parent_id": 101750323,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.541201, 
-    50.812412, 
-    -0.541201, 
-    50.812412
+    -0.540511, 
+    50.812233, 
+    -0.540511, 
+    50.812233
   ],
-  "geometry": {"coordinates":[-0.541201,50.812412],"type":"Point"}
+  "geometry": {"coordinates":[-0.540511,50.812233],"type":"Point"}
 }

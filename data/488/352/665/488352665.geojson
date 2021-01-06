@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2008-09-01",
     "geom:area": 0,
-    "geom:bbox": "-1.462793,53.386059,-1.462793,53.386059",
-    "geom:latitude": 53.386059,
-    "geom:longitude": -1.462793,
+    "geom:bbox": "-1.462839,53.386060,-1.462839,53.386060",
+    "geom:latitude": 53.38606,
+    "geom:longitude": -1.462839,
     "gp:parent_id": "34503",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      1360699075, 
       101750529, 
       404227469, 
       85789265, 
       1360698591, 
-      85633159, 
-      1360699075
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701365,
-    "wof:geomhash": "eb7bc84eab383c270277ef38aeaa7675",
+    "wof:geomhash": "92f40b167fefa93a9d1046acfbcfa900",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488352665,
-    "wof:lastmodified": 1595732851,
+    "wof:lastmodified": 1609887862,
     "wof:name": "S3 8JY",
     "wof:parent_id": 101750529,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.462793, 
-    53.386059, 
-    -1.462793, 
-    53.386059
+    -1.462839, 
+    53.38606, 
+    -1.462839, 
+    53.38606
   ],
-  "geometry": {"coordinates":[-1.462793,53.386059],"type":"Point"}
+  "geometry": {"coordinates":[-1.462839,53.38606],"type":"Point"}
 }

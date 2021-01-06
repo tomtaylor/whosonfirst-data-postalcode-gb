@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1997-12-01",
     "geom:area": 0,
-    "geom:bbox": "-3.007996,51.115340,-3.007996,51.115340",
-    "geom:latitude": 51.11534,
-    "geom:longitude": -3.007996,
+    "geom:bbox": "-3.007989,51.115334,-3.007989,51.115334",
+    "geom:latitude": 51.115334,
+    "geom:longitude": -3.007989,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698589, 
       85633159, 
       1360699059, 
       404434771, 
-      1360756329
+      1360756329, 
+      404227469, 
+      1360698589
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701184,
-    "wof:geomhash": "f95419cec731ab701250343099a0d490",
+    "wof:geomhash": "0edc7f5dc305c7f8a5845e1f44ee7281",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 487814789,
-    "wof:lastmodified": 1583786286,
+    "wof:lastmodified": 1609881286,
     "wof:name": "TA6 6RU",
     "wof:parent_id": 404434771,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.007996, 
-    51.11534, 
-    -3.007996, 
-    51.11534
+    -3.007989, 
+    51.115334, 
+    -3.007989, 
+    51.115334
   ],
-  "geometry": {"coordinates":[-3.007996,51.11534],"type":"Point"}
+  "geometry": {"coordinates":[-3.007989,51.115334],"type":"Point"}
 }

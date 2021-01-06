@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.077763,51.723230,-0.077763,51.723230",
-    "geom:latitude": 51.72323,
-    "geom:longitude": -0.077763,
+    "geom:bbox": "-0.077521,51.723460,-0.077521,51.723460",
+    "geom:latitude": 51.72346,
+    "geom:longitude": -0.077521,
     "gp:parent_id": "15824",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698763, 
       1360817279, 
       1125770317, 
       404227469, 
-      1360698559, 
-      85633159, 
-      1360698763
+      1360698559
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701635,
-    "wof:geomhash": "2245ec8d823ffeb9651642ae2d52971b",
+    "wof:geomhash": "6ffbeb47670c919d041de553f056ccae",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454558089,
-    "wof:lastmodified": 1595716275,
+    "wof:lastmodified": 1609894158,
     "wof:name": "EN7 6PD",
     "wof:parent_id": 404452545,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.077763, 
-    51.72323, 
-    -0.077763, 
-    51.72323
+    -0.077521, 
+    51.72346, 
+    -0.077521, 
+    51.72346
   ],
-  "geometry": {"coordinates":[-0.077763,51.72323],"type":"Point"}
+  "geometry": {"coordinates":[-0.077521,51.72346],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.506786,51.209086,0.506786,51.209086",
-    "geom:latitude": 51.209086,
-    "geom:longitude": 0.506786,
+    "geom:bbox": "0.506886,51.209083,0.506886,51.209083",
+    "geom:latitude": 51.209083,
+    "geom:longitude": 0.506886,
     "gp:parent_id": "26334",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      404444545, 
+      1360758909, 
       404227469, 
       1360698565, 
       85633159, 
-      1360698811, 
-      404444545, 
-      1360758909
+      1360698811
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701321,
-    "wof:geomhash": "a90177ff29bdedee378b0c2860ce10fe",
+    "wof:geomhash": "1eb21f7c666dbb4050f2dd0e3f0c7a14",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470942861,
-    "wof:lastmodified": 1583786450,
+    "wof:lastmodified": 1609875530,
     "wof:name": "ME17 4AY",
     "wof:parent_id": 404444545,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.506786, 
-    51.209086, 
-    0.506786, 
-    51.209086
+    0.506886, 
+    51.209083, 
+    0.506886, 
+    51.209083
   ],
-  "geometry": {"coordinates":[0.506786,51.209086],"type":"Point"}
+  "geometry": {"coordinates":[0.506886,51.209083],"type":"Point"}
 }

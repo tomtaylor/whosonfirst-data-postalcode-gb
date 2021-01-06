@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2001-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.492096,52.908763,-2.492096,52.908763",
-    "geom:latitude": 52.908763,
-    "geom:longitude": -2.492096,
+    "geom:bbox": "-2.491280,52.908988,-2.491280,52.908988",
+    "geom:latitude": 52.908988,
+    "geom:longitude": -2.49128,
     "gp:parent_id": "28345",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      404444687, 
       1226681525, 
       404227469, 
       1360698587, 
       85633159, 
-      1360698821, 
-      404444687
+      1360698821
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701198,
-    "wof:geomhash": "67c85741b4eb351f799a69f6060c121c",
+    "wof:geomhash": "c6663f14f55cfb6603f7efbceec78125",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487833719,
-    "wof:lastmodified": 1583786297,
+    "wof:lastmodified": 1609882236,
     "wof:name": "TF9 3QR",
     "wof:parent_id": 101871877,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.492096, 
-    52.908763, 
-    -2.492096, 
-    52.908763
+    -2.49128, 
+    52.908988, 
+    -2.49128, 
+    52.908988
   ],
-  "geometry": {"coordinates":[-2.492096,52.908763],"type":"Point"}
+  "geometry": {"coordinates":[-2.49128,52.908988],"type":"Point"}
 }

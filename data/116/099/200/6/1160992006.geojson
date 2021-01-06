@@ -2,15 +2,15 @@
   "id": 1160992006,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2015-03-01",
-    "edtf:inception": "2015-02-01",
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-10-01",
     "geom:area": 0,
-    "geom:bbox": "-2.837951,57.332932,-2.837951,57.332932",
-    "geom:latitude": 57.332932,
-    "geom:longitude": -2.837951,
+    "geom:bbox": "-2.837952,57.332918,-2.837952,57.332918",
+    "geom:latitude": 57.332918,
+    "geom:longitude": -2.837952,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "S92000003",
     "os:county_code": "S99999999",
     "os:district_code": "S12000034",
@@ -18,16 +18,16 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699031, 
       404448747, 
       404227471, 
-      1360698713
+      1360698713, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583799069,
-    "wof:geomhash": "a6d334bbb028564d39aff45a74c01e0f",
+    "wof:geomhash": "bc8b635fe8af13927a2779d5217963a3",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1160992006,
-    "wof:lastmodified": 1583799069,
+    "wof:lastmodified": 1609873712,
     "wof:name": "AB54 4GE",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.837951, 
-    57.332932, 
-    -2.837951, 
-    57.332932
+    -2.837952, 
+    57.332918, 
+    -2.837952, 
+    57.332918
   ],
-  "geometry": {"coordinates":[-2.837951,57.332932],"type":"Point"}
+  "geometry": {"coordinates":[-2.837952,57.332918],"type":"Point"}
 }

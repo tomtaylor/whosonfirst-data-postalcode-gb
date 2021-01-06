@@ -5,30 +5,30 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.310952,50.921050,-1.310952,50.921050",
-    "geom:latitude": 50.92105,
-    "geom:longitude": -1.310952,
+    "geom:bbox": "-1.302902,50.923736,-1.302902,50.923736",
+    "geom:latitude": 50.923736,
+    "geom:longitude": -1.302902,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000014",
     "os:district_code": "E07000086",
-    "os:positional_quality_indicator": "5",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698557, 
-      85633159, 
       1360698827, 
       404448879, 
       101852445, 
-      404227469
+      404227469, 
+      1360698557, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583794659,
-    "wof:geomhash": "52f5ce4bfc66537e286ef568804c2b1e",
+    "wof:geomhash": "f3a5f4f7101b3c73a3561aa8298613d4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160892598,
-    "wof:lastmodified": 1583794659,
+    "wof:lastmodified": 1609871603,
     "wof:name": "SO30 2YU",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.310952, 
-    50.92105, 
-    -1.310952, 
-    50.92105
+    -1.302902, 
+    50.923736, 
+    -1.302902, 
+    50.923736
   ],
-  "geometry": {"coordinates":[-1.310952,50.92105],"type":"Point"}
+  "geometry": {"coordinates":[-1.302902,50.923736],"type":"Point"}
 }

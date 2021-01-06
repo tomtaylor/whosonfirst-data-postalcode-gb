@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.397158,51.082945,-0.397158,51.082945",
-    "geom:latitude": 51.082945,
-    "geom:longitude": -0.397158,
+    "geom:bbox": "-0.397385,51.082552,-0.397385,51.082552",
+    "geom:latitude": 51.082552,
+    "geom:longitude": -0.397385,
     "gp:parent_id": "14003",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698607, 
       85633159, 
       1360698757, 
       404432761, 
-      1125843097
+      1125843097, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701676,
-    "wof:geomhash": "0294a4b595eae2afc5bd72f486e50c96",
+    "wof:geomhash": "ba743e1d9aa744b4e723da79197f1fde",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471579125,
-    "wof:lastmodified": 1583786820,
+    "wof:lastmodified": 1609897484,
     "wof:name": "RH12 3PP",
     "wof:parent_id": 404432761,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.397158, 
-    51.082945, 
-    -0.397158, 
-    51.082945
+    -0.397385, 
+    51.082552, 
+    -0.397385, 
+    51.082552
   ],
-  "geometry": {"coordinates":[-0.397158,51.082945],"type":"Point"}
+  "geometry": {"coordinates":[-0.397385,51.082552],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2000-06-01",
     "geom:area": 0,
-    "geom:bbox": "-3.322458,54.766110,-3.322458,54.766110",
-    "geom:latitude": 54.76611,
-    "geom:longitude": -3.322458,
+    "geom:bbox": "-3.322643,54.766567,-3.322643,54.766567",
+    "geom:latitude": 54.766567,
+    "geom:longitude": -3.322643,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698721, 
-      85633159, 
       1360698877, 
       404430605, 
       101873407, 
-      404227469
+      404227469, 
+      1360698721, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701148,
-    "wof:geomhash": "4f7fe23ea4e12159ec604d26f4e11f1f",
+    "wof:geomhash": "a3af0fc9647bd3d12bec3b5e45e5190e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454072623,
-    "wof:lastmodified": 1595711078,
+    "wof:lastmodified": 1609869613,
     "wof:name": "CA7 3BQ",
     "wof:parent_id": 404430605,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.322458, 
-    54.76611, 
-    -3.322458, 
-    54.76611
+    -3.322643, 
+    54.766567, 
+    -3.322643, 
+    54.766567
   ],
-  "geometry": {"coordinates":[-3.322458,54.76611],"type":"Point"}
+  "geometry": {"coordinates":[-3.322643,54.766567],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.698611,50.762563,-1.698611,50.762563",
-    "geom:latitude": 50.762563,
-    "geom:longitude": -1.698611,
+    "geom:bbox": "-1.698647,50.762562,-1.698647,50.762562",
+    "geom:latitude": 50.762562,
+    "geom:longitude": -1.698647,
     "gp:parent_id": "23537",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698827, 
+      404452819, 
       1125956821, 
       404227469, 
       1360698557, 
-      85633159, 
-      1360698827, 
-      404452819
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701359,
-    "wof:geomhash": "91137b071a67dd2266611981a7d460f3",
+    "wof:geomhash": "b93795200067ba44f6c77df3697b5628",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438166073,
-    "wof:lastmodified": 1583786492,
+    "wof:lastmodified": 1609877738,
     "wof:name": "BH23 7DX",
     "wof:parent_id": 404452819,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.698611, 
-    50.762563, 
-    -1.698611, 
-    50.762563
+    -1.698647, 
+    50.762562, 
+    -1.698647, 
+    50.762562
   ],
-  "geometry": {"coordinates":[-1.698611,50.762563],"type":"Point"}
+  "geometry": {"coordinates":[-1.698647,50.762562],"type":"Point"}
 }

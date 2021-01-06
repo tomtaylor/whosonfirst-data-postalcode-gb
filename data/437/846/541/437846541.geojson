@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2013-09-01",
     "geom:area": 0,
-    "geom:bbox": "-0.772723,53.042519,-0.772723,53.042519",
-    "geom:latitude": 53.042519,
-    "geom:longitude": -0.772723,
+    "geom:bbox": "-0.773940,53.042615,-0.773940,53.042615",
+    "geom:latitude": 53.042615,
+    "geom:longitude": -0.77394,
     "gp:parent_id": "11641",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      1360756813, 
+      404227469, 
       1360698583, 
       85633159, 
       1360698809, 
-      404448413, 
-      1360756813, 
-      404227469
+      404448413
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701594,
-    "wof:geomhash": "af86752610c8652a99d3c813533f6ebb",
+    "wof:geomhash": "d1d9228d77a05211f8fca33ab43d49b4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 437846541,
-    "wof:lastmodified": 1583786744,
+    "wof:lastmodified": 1609892552,
     "wof:name": "NG24 3NH",
     "wof:parent_id": 404448413,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.772723, 
-    53.042519, 
-    -0.772723, 
-    53.042519
+    -0.77394, 
+    53.042615, 
+    -0.77394, 
+    53.042615
   ],
-  "geometry": {"coordinates":[-0.772723,53.042519],"type":"Point"}
+  "geometry": {"coordinates":[-0.77394,53.042615],"type":"Point"}
 }

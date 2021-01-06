@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.042501,53.062277,-2.042501,53.062277",
-    "geom:latitude": 53.062277,
-    "geom:longitude": -2.042501,
+    "geom:bbox": "-2.042350,53.062430,-2.042350,53.062430",
+    "geom:latitude": 53.06243,
+    "geom:longitude": -2.04235,
     "gp:parent_id": "15760",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      404435131, 
-      1125782755, 
-      404227469, 
       1360698593, 
       85633159, 
-      1360698947
+      1360698947, 
+      404435131, 
+      1125782755, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701125,
-    "wof:geomhash": "12a310637f195bb7e5ec715a75c832cb",
+    "wof:geomhash": "df63e65c6e26fef1920972ff322437d1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487694423,
-    "wof:lastmodified": 1583786219,
+    "wof:lastmodified": 1609873444,
     "wof:name": "ST13 7BB",
     "wof:parent_id": 404435131,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.042501, 
-    53.062277, 
-    -2.042501, 
-    53.062277
+    -2.04235, 
+    53.06243, 
+    -2.04235, 
+    53.06243
   ],
-  "geometry": {"coordinates":[-2.042501,53.062277],"type":"Point"}
+  "geometry": {"coordinates":[-2.04235,53.06243],"type":"Point"}
 }

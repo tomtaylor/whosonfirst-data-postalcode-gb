@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1988-03-01",
     "geom:area": 0,
-    "geom:bbox": "-1.514914,51.215468,-1.514914,51.215468",
-    "geom:latitude": 51.215468,
-    "geom:longitude": -1.514914,
+    "geom:bbox": "-1.514796,51.215782,-1.514796,51.215782",
+    "geom:latitude": 51.215782,
+    "geom:longitude": -1.514796,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698557, 
-      85633159, 
       1360698827, 
       404442543, 
       101750345, 
-      404227469
+      404227469, 
+      1360698557, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701095,
-    "wof:geomhash": "60cbebc762454b86285ba5d0fc21f387",
+    "wof:geomhash": "0e9b805ee62ba6adb4a1a93ea745db2f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 487633177,
-    "wof:lastmodified": 1583786190,
+    "wof:lastmodified": 1609869915,
     "wof:name": "SP10 3TU",
     "wof:parent_id": 101750345,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.514914, 
-    51.215468, 
-    -1.514914, 
-    51.215468
+    -1.514796, 
+    51.215782, 
+    -1.514796, 
+    51.215782
   ],
-  "geometry": {"coordinates":[-1.514914,51.215468],"type":"Point"}
+  "geometry": {"coordinates":[-1.514796,51.215782],"type":"Point"}
 }

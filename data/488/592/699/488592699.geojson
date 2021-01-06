@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.070469,53.166839,-3.070469,53.166839",
-    "geom:latitude": 53.166839,
-    "geom:longitude": -3.070469,
+    "geom:bbox": "-3.070455,53.166884,-3.070455,53.166884",
+    "geom:latitude": 53.166884,
+    "geom:longitude": -3.070455,
     "gp:parent_id": "12696124",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1125941237, 
-      404227475, 
       1360698637, 
       85633159, 
       1360698799, 
-      404437701
+      404437701, 
+      1125941237, 
+      404227475
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701611,
-    "wof:geomhash": "72c6bce0707fb6186825442b2c5f05df",
+    "wof:geomhash": "e5e345708c81ec4128329915a5489b25",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488592699,
-    "wof:lastmodified": 1595735086,
+    "wof:lastmodified": 1609898288,
     "wof:name": "CH7 2EU",
     "wof:parent_id": 404437701,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.070469, 
-    53.166839, 
-    -3.070469, 
-    53.166839
+    -3.070455, 
+    53.166884, 
+    -3.070455, 
+    53.166884
   ],
-  "geometry": {"coordinates":[-3.070469,53.166839],"type":"Point"}
+  "geometry": {"coordinates":[-3.070455,53.166884],"type":"Point"}
 }

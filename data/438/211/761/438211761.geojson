@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.325144,50.837669,-0.325144,50.837669",
-    "geom:latitude": 50.837669,
-    "geom:longitude": -0.325144,
+    "geom:bbox": "-0.323982,50.837655,-0.323982,50.837655",
+    "geom:latitude": 50.837655,
+    "geom:longitude": -0.323982,
     "gp:parent_id": "25704",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698607, 
+      85633159, 
       1360698757, 
       404433635, 
       1125843731, 
-      404227469, 
-      1360698607, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701404,
-    "wof:geomhash": "1201d64b16ee1c6d17eacbc27c3e4222",
+    "wof:geomhash": "f3969b47379ba75d94697604c42e12b9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438211761,
-    "wof:lastmodified": 1583786541,
+    "wof:lastmodified": 1609880094,
     "wof:name": "BN15 0HG",
     "wof:parent_id": 404433635,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.325144, 
-    50.837669, 
-    -0.325144, 
-    50.837669
+    -0.323982, 
+    50.837655, 
+    -0.323982, 
+    50.837655
   ],
-  "geometry": {"coordinates":[-0.325144,50.837669],"type":"Point"}
+  "geometry": {"coordinates":[-0.323982,50.837655],"type":"Point"}
 }

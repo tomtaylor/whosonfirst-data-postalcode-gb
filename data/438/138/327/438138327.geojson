@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.771933,53.767593,-1.771933,53.767593",
-    "geom:latitude": 53.767593,
-    "geom:longitude": -1.771933,
+    "geom:bbox": "-1.772100,53.767576,-1.772100,53.767576",
+    "geom:latitude": 53.767576,
+    "geom:longitude": -1.7721,
     "gp:parent_id": "13527",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      101750581, 
       404227469, 
       1360698609, 
       85633159, 
-      1360698963
+      1360698963, 
+      101750581
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701332,
-    "wof:geomhash": "fc3c2c01db32769ce89b595abd7919ea",
+    "wof:geomhash": "0e67b12a3df34bafab9436d1b8412c77",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 438138327,
-    "wof:lastmodified": 1583786467,
+    "wof:lastmodified": 1609875823,
     "wof:name": "BD6 1JZ",
     "wof:parent_id": 101750581,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.771933, 
-    53.767593, 
-    -1.771933, 
-    53.767593
+    -1.7721, 
+    53.767576, 
+    -1.7721, 
+    53.767576
   ],
-  "geometry": {"coordinates":[-1.771933,53.767593],"type":"Point"}
+  "geometry": {"coordinates":[-1.7721,53.767576],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.641388,55.445601,-4.641388,55.445601",
-    "geom:latitude": 55.445601,
-    "geom:longitude": -4.641388,
+    "geom:bbox": "-4.641653,55.445308,-4.641653,55.445308",
+    "geom:latitude": 55.445308,
+    "geom:longitude": -4.641653,
     "gp:parent_id": "12696209",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699021, 
       404430343, 
       404227471, 
       1360698697, 
-      85633159
+      85633159, 
+      1360699021
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701338,
-    "wof:geomhash": "1bebfce33d7ca811ab452390605d0bdf",
+    "wof:geomhash": "bfccc9569589c23a53bcea3450336871",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504460465,
-    "wof:lastmodified": 1583786452,
+    "wof:lastmodified": 1609872692,
     "wof:name": "KA7 4AX",
     "wof:parent_id": 101873467,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.641388, 
-    55.445601, 
-    -4.641388, 
-    55.445601
+    -4.641653, 
+    55.445308, 
+    -4.641653, 
+    55.445308
   ],
-  "geometry": {"coordinates":[-4.641388,55.445601],"type":"Point"}
+  "geometry": {"coordinates":[-4.641653,55.445308],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.338320,54.837995,-1.338320,54.837995",
-    "geom:latitude": 54.837995,
-    "geom:longitude": -1.33832,
+    "geom:bbox": "-1.336427,54.837490,-1.336427,54.837490",
+    "geom:latitude": 54.83749,
+    "geom:longitude": -1.336427,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698621, 
       85633159, 
       1360699055, 
       404435787, 
-      101872335, 
-      404227469, 
-      1360698621
+      101872335
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701109,
-    "wof:geomhash": "a1b7c792281592e166f5a5c0cfe58642",
+    "wof:geomhash": "91986aabb2b8977c12ab439a2ae543cd",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 487659435,
-    "wof:lastmodified": 1583786202,
+    "wof:lastmodified": 1609871179,
     "wof:name": "SR7 7SD",
     "wof:parent_id": 101872335,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.33832, 
-    54.837995, 
-    -1.33832, 
-    54.837995
+    -1.336427, 
+    54.83749, 
+    -1.336427, 
+    54.83749
   ],
-  "geometry": {"coordinates":[-1.33832,54.837995],"type":"Point"}
+  "geometry": {"coordinates":[-1.336427,54.83749],"type":"Point"}
 }

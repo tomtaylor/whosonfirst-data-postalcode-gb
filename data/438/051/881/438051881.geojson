@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2001-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.282988,51.283775,-2.282988,51.283775",
-    "geom:latitude": 51.283775,
-    "geom:longitude": -2.282988,
+    "geom:bbox": "-2.283103,51.283828,-2.283103,51.283828",
+    "geom:latitude": 51.283828,
+    "geom:longitude": -2.283103,
     "gp:parent_id": "33463",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1126056941, 
-      404227469, 
       1360698589, 
       85633159, 
       1360699059, 
-      404440333
+      404440333, 
+      1126056941, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701154,
-    "wof:geomhash": "cd08352b2af9252ad04ed86183cbe83b",
+    "wof:geomhash": "9dfb38e3e7b5d0cfb6e0b6163a8c446c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438051881,
-    "wof:lastmodified": 1595712305,
+    "wof:lastmodified": 1609870067,
     "wof:name": "BA11 6PX",
     "wof:parent_id": 404440333,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.282988, 
-    51.283775, 
-    -2.282988, 
-    51.283775
+    -2.283103, 
+    51.283828, 
+    -2.283103, 
+    51.283828
   ],
-  "geometry": {"coordinates":[-2.282988,51.283775],"type":"Point"}
+  "geometry": {"coordinates":[-2.283103,51.283828],"type":"Point"}
 }

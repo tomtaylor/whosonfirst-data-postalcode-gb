@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.969548,50.609253,-1.969548,50.609253",
-    "geom:latitude": 50.609253,
-    "geom:longitude": -1.969548,
+    "geom:bbox": "-1.969570,50.609251,-1.969570,50.609251",
+    "geom:latitude": 50.609251,
+    "geom:longitude": -1.96957,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      101852357, 
       404227469, 
       1360698545, 
       85633159, 
       1360698745, 
-      404447437, 
-      101852357
+      404447437
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701350,
-    "wof:geomhash": "657c4e818b288d054f9c40785dbdb6bf",
+    "wof:geomhash": "629099dd30ca83dd977f31738e3d1d70",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 438155885,
-    "wof:lastmodified": 1583786483,
+    "wof:lastmodified": 1609877304,
     "wof:name": "BH19 2NH",
     "wof:parent_id": 101852357,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.969548, 
-    50.609253, 
-    -1.969548, 
-    50.609253
+    -1.96957, 
+    50.609251, 
+    -1.96957, 
+    50.609251
   ],
-  "geometry": {"coordinates":[-1.969548,50.609253],"type":"Point"}
+  "geometry": {"coordinates":[-1.96957,50.609251],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.411112,52.986510,-4.411112,52.986510",
-    "geom:latitude": 52.98651,
-    "geom:longitude": -4.411112,
+    "geom:bbox": "-4.410977,52.986225,-4.410977,52.986225",
+    "geom:latitude": 52.986225,
+    "geom:longitude": -4.410977,
     "gp:parent_id": "14859",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360711603, 
-      404227475, 
-      1360698635, 
       85633159, 
       1360698959, 
-      404431835
+      404431835, 
+      1360711603, 
+      404227475, 
+      1360698635
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701388,
-    "wof:geomhash": "afd43be77d89ddce26e65e2734366164",
+    "wof:geomhash": "a9adaf1e4a5835337ad01ad0964f3fff",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504507431,
-    "wof:lastmodified": 1583786509,
+    "wof:lastmodified": 1609876543,
     "wof:name": "LL54 5AB",
     "wof:parent_id": 404431835,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.411112, 
-    52.98651, 
-    -4.411112, 
-    52.98651
+    -4.410977, 
+    52.986225, 
+    -4.410977, 
+    52.986225
   ],
-  "geometry": {"coordinates":[-4.411112,52.98651],"type":"Point"}
+  "geometry": {"coordinates":[-4.410977,52.986225],"type":"Point"}
 }

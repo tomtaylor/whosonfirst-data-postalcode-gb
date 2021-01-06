@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.070951,53.537765,-2.070951,53.537765",
-    "geom:latitude": 53.537765,
-    "geom:longitude": -2.070951,
+    "geom:bbox": "-2.070800,53.537783,-2.070800,53.537783",
+    "geom:latitude": 53.537783,
+    "geom:longitude": -2.0708,
     "gp:parent_id": "26053",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698953, 
       1126030435, 
       404227469, 
-      1360698555, 
-      85633159, 
-      1360698953
+      1360698555
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701477,
-    "wof:geomhash": "273c9ad5a63894ff19a9dbc105ca1b9e",
+    "wof:geomhash": "06dc1a0f798ac7c7faadd494e39f8ee4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 471296217,
-    "wof:lastmodified": 1583786633,
+    "wof:lastmodified": 1609885210,
     "wof:name": "OL4 4LY",
     "wof:parent_id": 101913965,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.070951, 
-    53.537765, 
-    -2.070951, 
-    53.537765
+    -2.0708, 
+    53.537783, 
+    -2.0708, 
+    53.537783
   ],
-  "geometry": {"coordinates":[-2.070951,53.537765],"type":"Point"}
+  "geometry": {"coordinates":[-2.0708,53.537783],"type":"Point"}
 }

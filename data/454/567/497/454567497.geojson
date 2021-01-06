@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.003706,50.778811,-3.003706,50.778811",
-    "geom:latitude": 50.778811,
-    "geom:longitude": -3.003706,
+    "geom:bbox": "-3.005036,50.777647,-3.005036,50.777647",
+    "geom:latitude": 50.777647,
+    "geom:longitude": -3.005036,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698541, 
       85633159, 
       1360699081, 
       404436809, 
-      1360758943, 
-      404227469, 
-      1360698541
+      1360758943
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701640,
-    "wof:geomhash": "d1f99e3a8944be47f9ca10134f0711ec",
+    "wof:geomhash": "cbb0227c8559522e9167caf910f597d1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454567497,
-    "wof:lastmodified": 1583786769,
+    "wof:lastmodified": 1609894883,
     "wof:name": "EX13 5PG",
     "wof:parent_id": 101852591,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.003706, 
-    50.778811, 
-    -3.003706, 
-    50.778811
+    -3.005036, 
+    50.777647, 
+    -3.005036, 
+    50.777647
   ],
-  "geometry": {"coordinates":[-3.003706,50.778811],"type":"Point"}
+  "geometry": {"coordinates":[-3.005036,50.777647],"type":"Point"}
 }

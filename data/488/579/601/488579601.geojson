@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.402122,51.760695,-3.402122,51.760695",
-    "geom:latitude": 51.760695,
-    "geom:longitude": -3.402122,
+    "geom:bbox": "-3.402078,51.760669,-3.402078,51.760669",
+    "geom:latitude": 51.760669,
+    "geom:longitude": -3.402078,
     "gp:parent_id": "15514",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698631, 
+      85633159, 
       1360698803, 
       404445593, 
       1125913241, 
-      404227475, 
-      1360698631, 
-      85633159
+      404227475
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701603,
-    "wof:geomhash": "c731277cefad6e33cd171598ffa6f795",
+    "wof:geomhash": "7462bac54820b91e6fb3e2e59bf19e40",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488579601,
-    "wof:lastmodified": 1583786788,
+    "wof:lastmodified": 1609897439,
     "wof:name": "CF48 2RW",
     "wof:parent_id": 404445593,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.402122, 
-    51.760695, 
-    -3.402122, 
-    51.760695
+    -3.402078, 
+    51.760669, 
+    -3.402078, 
+    51.760669
   ],
-  "geometry": {"coordinates":[-3.402122,51.760695],"type":"Point"}
+  "geometry": {"coordinates":[-3.402078,51.760669],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.080153,52.637312,-1.080153,52.637312",
-    "geom:latitude": 52.637312,
-    "geom:longitude": -1.080153,
+    "geom:bbox": "-1.080095,52.637249,-1.080095,52.637249",
+    "geom:latitude": 52.637249,
+    "geom:longitude": -1.080095,
     "gp:parent_id": "26062",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698569, 
       85633159, 
       1360698995, 
-      101750485, 
-      404227469, 
-      1360698569
+      101750485
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701111,
-    "wof:geomhash": "72d1d1da597d4df8276933ecb64218e6",
+    "wof:geomhash": "ad846b502d0762a39270d3ddc0b68991",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 455037833,
-    "wof:lastmodified": 1583786227,
+    "wof:lastmodified": 1609869546,
     "wof:name": "LE5 4EB",
     "wof:parent_id": 101750485,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.080153, 
-    52.637312, 
-    -1.080153, 
-    52.637312
+    -1.080095, 
+    52.637249, 
+    -1.080095, 
+    52.637249
   ],
-  "geometry": {"coordinates":[-1.080153,52.637312],"type":"Point"}
+  "geometry": {"coordinates":[-1.080095,52.637249],"type":"Point"}
 }

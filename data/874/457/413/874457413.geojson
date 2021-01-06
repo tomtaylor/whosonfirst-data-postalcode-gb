@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2014-02-01",
     "geom:area": 0,
-    "geom:bbox": "-4.371720,55.908877,-4.371720,55.908877",
-    "geom:latitude": 55.908877,
-    "geom:longitude": -4.37172,
+    "geom:bbox": "-4.276946,55.889735,-4.276946,55.889735",
+    "geom:latitude": 55.889735,
+    "geom:longitude": -4.276946,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,18 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360698797, 
       404430153, 
       1175612707, 
       404227471, 
-      1360698707, 
-      85633159
+      85792655, 
+      1360698707
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468879655,
-    "wof:geomhash": "f3c6d4ca24b9763d590f90c03781570f",
+    "wof:geomhash": "6d2c1d2e5403e677b2f54b3f1b320bd6",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -36,11 +37,12 @@
         "localadmin_id": 404430153,
         "locality_id": 1175612707,
         "macroregion_id": 404227471,
+        "neighbourhood_id": 85792655,
         "region_id": 1360698707
       }
     ],
     "wof:id": 874457413,
-    "wof:lastmodified": 1583786266,
+    "wof:lastmodified": 1609869949,
     "wof:name": "G15 8PT",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -50,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.37172, 
-    55.908877, 
-    -4.37172, 
-    55.908877
+    -4.276946, 
+    55.889735, 
+    -4.276946, 
+    55.889735
   ],
-  "geometry": {"coordinates":[-4.37172,55.908877],"type":"Point"}
+  "geometry": {"coordinates":[-4.276946,55.889735],"type":"Point"}
 }

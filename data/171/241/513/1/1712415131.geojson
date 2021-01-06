@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-11-01",
     "geom:area": 0,
-    "geom:bbox": "-1.309548,50.996661,-1.309548,50.996661",
-    "geom:latitude": 50.996661,
-    "geom:longitude": -1.309548,
+    "geom:bbox": "-1.309407,50.996579,-1.309407,50.996579",
+    "geom:latitude": 50.996579,
+    "geom:longitude": -1.309407,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404441041, 
-      1125883165, 
-      404227469, 
       1360698557, 
       85633159, 
-      1360698827
+      1360698827, 
+      404441041, 
+      1125883165, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583787020,
-    "wof:geomhash": "5da57566cf9d462b373eb3cdb720d58c",
+    "wof:geomhash": "14d6560407b0202b97612a9e72df96a2",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712415131,
-    "wof:lastmodified": 1595710803,
+    "wof:lastmodified": 1609868684,
     "wof:name": "SO21 1GB",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.309548, 
-    50.996661, 
-    -1.309548, 
-    50.996661
+    -1.309407, 
+    50.996579, 
+    -1.309407, 
+    50.996579
   ],
-  "geometry": {"coordinates":[-1.309548,50.996661],"type":"Point"}
+  "geometry": {"coordinates":[-1.309407,50.996579],"type":"Point"}
 }

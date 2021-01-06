@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.974423,51.178139,-3.974423,51.178139",
+    "geom:bbox": "-3.974444,51.178139,-3.974444,51.178139",
     "geom:latitude": 51.178139,
-    "geom:longitude": -3.974423,
+    "geom:longitude": -3.974444,
     "gp:parent_id": "24805",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1242606795, 
-      404227469, 
-      1360698541, 
       85633159, 
       1360699081, 
-      404441921
+      404441921, 
+      1242606795, 
+      404227469, 
+      1360698541
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701651,
-    "wof:geomhash": "bffc19831e4f74eafb86021495ff16fc",
+    "wof:geomhash": "4ae4bf3cae5b68969ef67590d8d3046f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454589095,
-    "wof:lastmodified": 1583786785,
+    "wof:lastmodified": 1609895699,
     "wof:name": "EX31 4NQ",
     "wof:parent_id": 404441921,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.974423, 
+    -3.974444, 
     51.178139, 
-    -3.974423, 
+    -3.974444, 
     51.178139
   ],
-  "geometry": {"coordinates":[-3.974423,51.178139],"type":"Point"}
+  "geometry": {"coordinates":[-3.974444,51.178139],"type":"Point"}
 }

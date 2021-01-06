@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-5.042389,54.907076,-5.042389,54.907076",
-    "geom:latitude": 54.907076,
-    "geom:longitude": -5.042389,
+    "geom:bbox": "-5.042179,54.906991,-5.042179,54.906991",
+    "geom:latitude": 54.906991,
+    "geom:longitude": -5.042179,
     "gp:parent_id": "12696189",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699039, 
-      404444245, 
       404227471, 
       1360698649, 
-      85633159
+      85633159, 
+      1360699039, 
+      404444245
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701623,
-    "wof:geomhash": "9473af0bcc7f1e6ad2baf4d37a1de144",
+    "wof:geomhash": "bac1093703a93f6142759d369fd545fa",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488619557,
-    "wof:lastmodified": 1583786817,
+    "wof:lastmodified": 1609898900,
     "wof:name": "DG9 0AY",
     "wof:parent_id": 404444245,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -5.042389, 
-    54.907076, 
-    -5.042389, 
-    54.907076
+    -5.042179, 
+    54.906991, 
+    -5.042179, 
+    54.906991
   ],
-  "geometry": {"coordinates":[-5.042389,54.907076],"type":"Point"}
+  "geometry": {"coordinates":[-5.042179,54.906991],"type":"Point"}
 }

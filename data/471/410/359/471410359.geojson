@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2004-02-01",
     "geom:area": 0,
-    "geom:bbox": "-4.371842,50.646416,-4.371842,50.646416",
-    "geom:latitude": 50.646416,
-    "geom:longitude": -4.371842,
+    "geom:bbox": "-4.371564,50.646232,-4.371564,50.646232",
+    "geom:latitude": 50.646232,
+    "geom:longitude": -4.371564,
     "gp:parent_id": "25887",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699085, 
       404446165, 
       101852375, 
       404227469, 
-      1360698623
+      1360698623, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701568,
-    "wof:geomhash": "9b213a14af2c60deff0983877656d8a2",
+    "wof:geomhash": "c036ce700404df0b7d7f889aa28a5bd7",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471410359,
-    "wof:lastmodified": 1583786723,
+    "wof:lastmodified": 1609891139,
     "wof:name": "PL15 8GA",
     "wof:parent_id": 404446165,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.371842, 
-    50.646416, 
-    -4.371842, 
-    50.646416
+    -4.371564, 
+    50.646232, 
+    -4.371564, 
+    50.646232
   ],
-  "geometry": {"coordinates":[-4.371842,50.646416],"type":"Point"}
+  "geometry": {"coordinates":[-4.371564,50.646232],"type":"Point"}
 }

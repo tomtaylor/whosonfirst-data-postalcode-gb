@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.726476,53.178999,-2.726476,53.178999",
-    "geom:latitude": 53.178999,
-    "geom:longitude": -2.726476,
+    "geom:bbox": "-2.726129,53.178866,-2.726129,53.178866",
+    "geom:latitude": 53.178866,
+    "geom:longitude": -2.726129,
     "gp:parent_id": "18574",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      404453699, 
       1293624341, 
       404227469, 
       1360698537, 
       85633159, 
-      1360698923, 
-      404453699
+      1360698923
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701462,
-    "wof:geomhash": "370e57942e2c0ad851d17907cbb1b8a5",
+    "wof:geomhash": "4aadf6b1ed8f73049504b152af6f7f3a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454301063,
-    "wof:lastmodified": 1583786588,
+    "wof:lastmodified": 1609882204,
     "wof:name": "CW6 0HF",
     "wof:parent_id": 404453699,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.726476, 
-    53.178999, 
-    -2.726476, 
-    53.178999
+    -2.726129, 
+    53.178866, 
+    -2.726129, 
+    53.178866
   ],
-  "geometry": {"coordinates":[-2.726476,53.178999],"type":"Point"}
+  "geometry": {"coordinates":[-2.726129,53.178866],"type":"Point"}
 }

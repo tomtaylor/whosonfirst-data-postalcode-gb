@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.328564,52.032628,1.328564,52.032628",
-    "geom:latitude": 52.032628,
-    "geom:longitude": 1.328564,
+    "geom:bbox": "1.328529,52.032548,1.328529,52.032548",
+    "geom:latitude": 52.032548,
+    "geom:longitude": 1.328529,
     "gp:parent_id": "22982",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699041, 
-      404443289, 
       1125775293, 
       404227469, 
-      1360698595
+      1360698595, 
+      85633159, 
+      1360699041, 
+      404443289
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701740,
-    "wof:geomhash": "6635808ac8fef667271b109468b655d6",
+    "wof:geomhash": "eb34d69f544ef7cc53866c6802f4bfde",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454863671,
-    "wof:lastmodified": 1583786872,
+    "wof:lastmodified": 1609903751,
     "wof:name": "IP12 4QD",
     "wof:parent_id": 404443289,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.328564, 
-    52.032628, 
-    1.328564, 
-    52.032628
+    1.328529, 
+    52.032548, 
+    1.328529, 
+    52.032548
   ],
-  "geometry": {"coordinates":[1.328564,52.032628],"type":"Point"}
+  "geometry": {"coordinates":[1.328529,52.032548],"type":"Point"}
 }

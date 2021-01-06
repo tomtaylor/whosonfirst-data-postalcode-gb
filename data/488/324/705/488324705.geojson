@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2009-11-01",
     "geom:area": 0,
-    "geom:bbox": "-0.486720,52.022406,-0.486720,52.022406",
-    "geom:latitude": 52.022406,
-    "geom:longitude": -0.48672,
+    "geom:bbox": "-0.486748,52.022433,-0.486748,52.022433",
+    "geom:latitude": 52.022433,
+    "geom:longitude": -0.486748,
     "gp:parent_id": "12695875",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698527, 
       85633159, 
       1360698767, 
       404454473, 
       101854813, 
-      404227469
+      404227469, 
+      1360698527
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701340,
-    "wof:geomhash": "c0540514690bad5530b6acc30dcbd23a",
+    "wof:geomhash": "afd776ffd93242c34cc7b8dc69f3dcec",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488324705,
-    "wof:lastmodified": 1583786533,
+    "wof:lastmodified": 1609886538,
     "wof:name": "MK45 2FX",
     "wof:parent_id": 101854815,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.48672, 
-    52.022406, 
-    -0.48672, 
-    52.022406
+    -0.486748, 
+    52.022433, 
+    -0.486748, 
+    52.022433
   ],
-  "geometry": {"coordinates":[-0.48672,52.022406],"type":"Point"}
+  "geometry": {"coordinates":[-0.486748,52.022433],"type":"Point"}
 }

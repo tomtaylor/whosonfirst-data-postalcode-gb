@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.544133,54.144835,-1.544133,54.144835",
-    "geom:latitude": 54.144835,
-    "geom:longitude": -1.544133,
+    "geom:bbox": "-1.543965,54.144754,-1.543965,54.144754",
+    "geom:latitude": 54.144754,
+    "geom:longitude": -1.543965,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      101873281, 
       404227469, 
       1360698619, 
       85633159, 
       1360698753, 
-      404451789, 
-      101873281
+      404451789
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701712,
-    "wof:geomhash": "994c7dd778df10efd28ade45c0864a56",
+    "wof:geomhash": "98d0d55485fccd554499bd1207d10710",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454762571,
-    "wof:lastmodified": 1583786851,
+    "wof:lastmodified": 1609901384,
     "wof:name": "HG4 2RF",
     "wof:parent_id": 404451789,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.544133, 
-    54.144835, 
-    -1.544133, 
-    54.144835
+    -1.543965, 
+    54.144754, 
+    -1.543965, 
+    54.144754
   ],
-  "geometry": {"coordinates":[-1.544133,54.144835],"type":"Point"}
+  "geometry": {"coordinates":[-1.543965,54.144754],"type":"Point"}
 }

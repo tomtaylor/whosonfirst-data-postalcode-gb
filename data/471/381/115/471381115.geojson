@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2000-06-01",
     "geom:area": 0,
-    "geom:bbox": "-0.185737,52.331874,-0.185737,52.331874",
-    "geom:latitude": 52.331874,
-    "geom:longitude": -0.185737,
+    "geom:bbox": "-0.185872,52.331804,-0.185872,52.331804",
+    "geom:latitude": 52.331804,
+    "geom:longitude": -0.185872,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      404434281, 
       101875497, 
       404227469, 
       1360698535, 
       85633159, 
-      1360698845, 
-      404434281
+      1360698845
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701543,
-    "wof:geomhash": "a265735a5d88ac53ea0873ecb716d7af",
+    "wof:geomhash": "c998c5a58bd2ec09e0bf1ec3fa17b7e8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471381115,
-    "wof:lastmodified": 1583786695,
+    "wof:lastmodified": 1609889575,
     "wof:name": "PE29 3DP",
     "wof:parent_id": 101875497,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.185737, 
-    52.331874, 
-    -0.185737, 
-    52.331874
+    -0.185872, 
+    52.331804, 
+    -0.185872, 
+    52.331804
   ],
-  "geometry": {"coordinates":[-0.185737,52.331874],"type":"Point"}
+  "geometry": {"coordinates":[-0.185872,52.331804],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-07-01",
     "geom:area": 0,
-    "geom:bbox": "-0.972841,51.738897,-0.972841,51.738897",
-    "geom:latitude": 51.738897,
-    "geom:longitude": -0.972841,
+    "geom:bbox": "-0.973290,51.738874,-0.973290,51.738874",
+    "geom:latitude": 51.738874,
+    "geom:longitude": -0.97329,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698839, 
       404447447, 
       101852945, 
       404227469, 
-      1360698585, 
-      85633159, 
-      1360698839
+      1360698585
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701596,
-    "wof:geomhash": "a5b689ac160f0690e05b2f90392776da",
+    "wof:geomhash": "0dfa055f0731ea5890df4192da410a6d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 437861301,
-    "wof:lastmodified": 1583786752,
+    "wof:lastmodified": 1609893231,
     "wof:name": "OX9 3FD",
     "wof:parent_id": "101875463",
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.972841, 
-    51.738897, 
-    -0.972841, 
-    51.738897
+    -0.97329, 
+    51.738874, 
+    -0.97329, 
+    51.738874
   ],
-  "geometry": {"coordinates":[-0.972841,51.738897],"type":"Point"}
+  "geometry": {"coordinates":[-0.97329,51.738874],"type":"Point"}
 }

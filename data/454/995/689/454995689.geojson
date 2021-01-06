@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.868079,54.072342,-2.868079,54.072342",
-    "geom:latitude": 54.072342,
-    "geom:longitude": -2.868079,
+    "geom:bbox": "-2.867749,54.072605,-2.867749,54.072605",
+    "geom:latitude": 54.072605,
+    "geom:longitude": -2.867749,
     "gp:parent_id": "29313",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698567, 
       85633159, 
       1360698817, 
       404430699, 
-      1125770537
+      1125770537, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701768,
-    "wof:geomhash": "022470b5039426a65df0d4008ec14d50",
+    "wof:geomhash": "e211259d3270a7b634180f03e3040baf",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454995689,
-    "wof:lastmodified": 1583786903,
+    "wof:lastmodified": 1609905778,
     "wof:name": "LA4 4BB",
     "wof:parent_id": 404430699,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.868079, 
-    54.072342, 
-    -2.868079, 
-    54.072342
+    -2.867749, 
+    54.072605, 
+    -2.867749, 
+    54.072605
   ],
-  "geometry": {"coordinates":[-2.868079,54.072342],"type":"Point"}
+  "geometry": {"coordinates":[-2.867749,54.072605],"type":"Point"}
 }

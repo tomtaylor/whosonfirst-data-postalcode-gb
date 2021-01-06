@@ -2,8 +2,8 @@
   "id": 874472935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2020-04-01",
-    "edtf:inception": "2017-05-01",
+    "edtf:cessation": "2020-10-01",
+    "edtf:inception": "2020-05-01",
     "geom:area": 0,
     "geom:bbox": "-0.237022,51.292208,-0.237022,51.292208",
     "geom:latitude": 51.292208,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698887, 
       1360817233, 
       1126060411, 
       404227469, 
-      1360698599, 
-      85633159, 
-      1360698887
+      1360698599
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 874472935,
-    "wof:lastmodified": 1595728096,
+    "wof:lastmodified": 1609870668,
     "wof:name": "KT20 9ET",
     "wof:parent_id": 101914073,
     "wof:placetype": "postalcode",

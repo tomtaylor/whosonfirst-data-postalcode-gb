@@ -2,7 +2,7 @@
   "id": 1160827530,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-10-01",
     "edtf:inception": "2019-03-01",
     "geom:area": 0,
     "geom:bbox": "-0.730969,51.085902,-0.730969,51.085902",
@@ -10,7 +10,7 @@
     "geom:longitude": -0.730969,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000030",
     "os:district_code": "E07000216",
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698887, 
       404437989, 
       101854671, 
       404227469, 
-      1360698599, 
-      85633159, 
-      1360698887
+      1360698599
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160827530,
-    "wof:lastmodified": 1583791744,
+    "wof:lastmodified": 1609870509,
     "wof:name": "GU27 9GR",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

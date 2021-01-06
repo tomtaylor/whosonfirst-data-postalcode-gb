@@ -2,7 +2,7 @@
   "id": 437626383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-06-01",
     "edtf:inception": "2010-11-01",
     "geom:area": 0,
     "geom:bbox": "-1.240355,51.771549,-1.240355,51.771549",
@@ -10,7 +10,7 @@
     "geom:longitude": -1.240355,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000025",
     "os:district_code": "E07000178",
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360754459, 
-      404227469, 
       1360698585, 
       85633159, 
       1360698839, 
-      404449971
+      404449971, 
+      1360754459, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 437626383,
-    "wof:lastmodified": 1583786572,
+    "wof:lastmodified": 1609881590,
     "wof:name": "OX3 0PG",
     "wof:parent_id": 101750439,
     "wof:placetype": "postalcode",

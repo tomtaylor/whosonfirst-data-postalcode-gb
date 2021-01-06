@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.384115,50.642550,-1.384115,50.642550",
-    "geom:latitude": 50.64255,
-    "geom:longitude": -1.384115,
+    "geom:bbox": "-1.383695,50.642609,-1.383695,50.642609",
+    "geom:latitude": 50.642609,
+    "geom:longitude": -1.383695,
     "gp:parent_id": "13906",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1125912457, 
       404227469, 
       1360698563, 
       85633159, 
       1360699089, 
-      404447419
+      404447419, 
+      1125912457
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701629,
-    "wof:geomhash": "f486ffb73ab83c771ab871d043163bb9",
+    "wof:geomhash": "58cba3f32a2266246301a5c9b6bdd945",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471469245,
-    "wof:lastmodified": 1583786758,
+    "wof:lastmodified": 1609893115,
     "wof:name": "PO30 4AE",
     "wof:parent_id": 404447419,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.384115, 
-    50.64255, 
-    -1.384115, 
-    50.64255
+    -1.383695, 
+    50.642609, 
+    -1.383695, 
+    50.642609
   ],
-  "geometry": {"coordinates":[-1.384115,50.64255],"type":"Point"}
+  "geometry": {"coordinates":[-1.383695,50.642609],"type":"Point"}
 }

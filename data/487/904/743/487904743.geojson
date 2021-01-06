@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.671108,50.452774,-3.671108,50.452774",
-    "geom:latitude": 50.452774,
-    "geom:longitude": -3.671108,
+    "geom:bbox": "-3.671024,50.453022,-3.671024,50.453022",
+    "geom:latitude": 50.453022,
+    "geom:longitude": -3.671024,
     "gp:parent_id": "26698",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698541, 
       85633159, 
       1360699081, 
       404450139, 
-      1360754731
+      1360754731, 
+      404227469, 
+      1360698541
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701246,
-    "wof:geomhash": "e74b951c2f852105139d03cfba1c4fb7",
+    "wof:geomhash": "5019733e7c357e05c0d10668e553f16f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487904743,
-    "wof:lastmodified": 1583786330,
+    "wof:lastmodified": 1609885777,
     "wof:name": "TQ9 6LU",
     "wof:parent_id": 404450139,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.671108, 
-    50.452774, 
-    -3.671108, 
-    50.452774
+    -3.671024, 
+    50.453022, 
+    -3.671024, 
+    50.453022
   ],
-  "geometry": {"coordinates":[-3.671108,50.452774],"type":"Point"}
+  "geometry": {"coordinates":[-3.671024,50.453022],"type":"Point"}
 }

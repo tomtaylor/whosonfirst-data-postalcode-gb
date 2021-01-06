@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "uuuu",
-    "edtf:inception": "2019-08-01",
+    "edtf:inception": "2020-07-01",
     "geom:area": 0,
     "geom:bbox": "-1.297333,51.067557,-1.297333,51.067557",
     "geom:latitude": 51.067557,
@@ -18,11 +18,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      101852447, 
       404227469, 
       1360698557, 
       85633159, 
-      1360698827
+      1360698827, 
+      101852447
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1712733133,
-    "wof:lastmodified": 1583801161,
+    "wof:lastmodified": 1609873264,
     "wof:name": "SO23 5DH",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

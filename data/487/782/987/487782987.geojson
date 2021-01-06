@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.769593,52.675571,-2.769593,52.675571",
-    "geom:latitude": 52.675571,
-    "geom:longitude": -2.769593,
+    "geom:bbox": "-2.769591,52.675567,-2.769591,52.675567",
+    "geom:latitude": 52.675567,
+    "geom:longitude": -2.769591,
     "gp:parent_id": "12118",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698821, 
       404431579, 
       1125918439, 
       404227469, 
-      1360698587, 
-      85633159, 
-      1360698821
+      1360698587
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701166,
-    "wof:geomhash": "1352e934dafaddd76072dd4eda58e204",
+    "wof:geomhash": "b368560cf9065490e659d6de14936854",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487782987,
-    "wof:lastmodified": 1583786269,
+    "wof:lastmodified": 1609879618,
     "wof:name": "SY3 0NG",
     "wof:parent_id": 404431579,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.769593, 
-    52.675571, 
-    -2.769593, 
-    52.675571
+    -2.769591, 
+    52.675567, 
+    -2.769591, 
+    52.675567
   ],
-  "geometry": {"coordinates":[-2.769593,52.675571],"type":"Point"}
+  "geometry": {"coordinates":[-2.769591,52.675567],"type":"Point"}
 }

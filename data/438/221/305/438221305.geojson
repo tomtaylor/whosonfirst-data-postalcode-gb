@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2001-12-01",
     "geom:area": 0,
-    "geom:bbox": "-0.128715,50.827183,-0.128715,50.827183",
-    "geom:latitude": 50.827183,
-    "geom:longitude": -0.128715,
+    "geom:bbox": "-0.128522,50.827040,-0.128522,50.827040",
+    "geom:latitude": 50.82704,
+    "geom:longitude": -0.128522,
     "gp:parent_id": "13911",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      101750303, 
       404227469, 
       1360698549, 
       85633159, 
-      1360699019
+      1360699019, 
+      101750303
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701407,
-    "wof:geomhash": "879aadf472c070b4720509dd1ba69615",
+    "wof:geomhash": "8a6a2ae8ce7df75a0e4d77343962dbd4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 438221305,
-    "wof:lastmodified": 1583786540,
+    "wof:lastmodified": 1609880335,
     "wof:name": "BN2 9UZ",
     "wof:parent_id": 101750303,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.128715, 
-    50.827183, 
-    -0.128715, 
-    50.827183
+    -0.128522, 
+    50.82704, 
+    -0.128522, 
+    50.82704
   ],
-  "geometry": {"coordinates":[-0.128715,50.827183],"type":"Point"}
+  "geometry": {"coordinates":[-0.128522,50.82704],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.515632,51.090020,-2.515632,51.090020",
-    "geom:latitude": 51.09002,
-    "geom:longitude": -2.515632,
+    "geom:bbox": "-2.515590,51.090083,-2.515590,51.090083",
+    "geom:latitude": 51.090083,
+    "geom:longitude": -2.51559,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      404452835, 
+      101852525, 
       404227469, 
       1360698589, 
       85633159, 
-      1360699059, 
-      404452835, 
-      101852525
+      1360699059
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701211,
-    "wof:geomhash": "a5fb0c723cef95177c39afde6d01efa9",
+    "wof:geomhash": "30d5ad182783f94395c2b73788cdcffa",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 438076265,
-    "wof:lastmodified": 1583786351,
+    "wof:lastmodified": 1609871267,
     "wof:name": "BA7 7AF",
     "wof:parent_id": 101852525,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.515632, 
-    51.09002, 
-    -2.515632, 
-    51.09002
+    -2.51559, 
+    51.090083, 
+    -2.51559, 
+    51.090083
   ],
-  "geometry": {"coordinates":[-2.515632,51.09002],"type":"Point"}
+  "geometry": {"coordinates":[-2.51559,51.090083],"type":"Point"}
 }

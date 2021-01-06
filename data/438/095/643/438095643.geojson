@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.391765,53.751263,-2.391765,53.751263",
-    "geom:latitude": 53.751263,
-    "geom:longitude": -2.391765,
+    "geom:bbox": "-2.391658,53.751323,-2.391658,53.751323",
+    "geom:latitude": 53.751323,
+    "geom:longitude": -2.391658,
     "gp:parent_id": "16032",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      101750585, 
+      404227469, 
       1360698567, 
       85633159, 
-      1360698817, 
-      101750585, 
-      404227469
+      1360698817
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701262,
-    "wof:geomhash": "b6c5a3ac25caba0ba77e5b2def069dba",
+    "wof:geomhash": "a1f8b1c34924cdd49b97120698d58d9a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 438095643,
-    "wof:lastmodified": 1583786407,
+    "wof:lastmodified": 1609872454,
     "wof:name": "BB5 0DP",
     "wof:parent_id": 101750585,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.391765, 
-    53.751263, 
-    -2.391765, 
-    53.751263
+    -2.391658, 
+    53.751323, 
+    -2.391658, 
+    53.751323
   ],
-  "geometry": {"coordinates":[-2.391765,53.751263],"type":"Point"}
+  "geometry": {"coordinates":[-2.391658,53.751323],"type":"Point"}
 }

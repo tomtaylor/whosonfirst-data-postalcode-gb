@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.902187,56.476492,-2.902187,56.476492",
-    "geom:latitude": 56.476492,
-    "geom:longitude": -2.902187,
+    "geom:bbox": "-2.902152,56.476421,-2.902152,56.476421",
+    "geom:latitude": 56.476421,
+    "geom:longitude": -2.902152,
     "gp:parent_id": "12696190",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698693, 
       85633159, 
       1360698883, 
       404430743, 
       101750641, 
-      404227471
+      404227471, 
+      1360698693
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701614,
-    "wof:geomhash": "b5ff7448de1a07c620abe895e23c0cd0",
+    "wof:geomhash": "1121a5046f07df31e9f6eb3ca4f7206f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488603975,
-    "wof:lastmodified": 1583786806,
+    "wof:lastmodified": 1609898628,
     "wof:name": "DD5 1RA",
     "wof:parent_id": 101750641,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.902187, 
-    56.476492, 
-    -2.902187, 
-    56.476492
+    -2.902152, 
+    56.476421, 
+    -2.902152, 
+    56.476421
   ],
-  "geometry": {"coordinates":[-2.902187,56.476492],"type":"Point"}
+  "geometry": {"coordinates":[-2.902152,56.476421],"type":"Point"}
 }

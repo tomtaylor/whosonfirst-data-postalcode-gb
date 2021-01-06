@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2005-02-01",
     "geom:area": 0,
-    "geom:bbox": "-3.532139,50.468766,-3.532139,50.468766",
-    "geom:latitude": 50.468766,
+    "geom:bbox": "-3.532139,50.468775,-3.532139,50.468775",
+    "geom:latitude": 50.468775,
     "geom:longitude": -3.532139,
     "gp:parent_id": "37818",
     "iso:country": "GB",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699071, 
       1360817197, 
       101751577, 
       404227469, 
       1360698541, 
-      85633159
+      85633159, 
+      1360699071
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701231,
-    "wof:geomhash": "033b0deb70bbc5a6ba2d137e68750d2f",
+    "wof:geomhash": "3e5421eafcf8fb8bf60337fecf412999",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487886025,
-    "wof:lastmodified": 1595725356,
+    "wof:lastmodified": 1609885018,
     "wof:name": "TQ1 9SB",
     "wof:parent_id": 101751577,
     "wof:placetype": "postalcode",
@@ -55,9 +55,9 @@
   },
   "bbox": [
     -3.532139, 
-    50.468766, 
+    50.468775, 
     -3.532139, 
-    50.468766
+    50.468775
   ],
-  "geometry": {"coordinates":[-3.532139,50.468766],"type":"Point"}
+  "geometry": {"coordinates":[-3.532139,50.468775],"type":"Point"}
 }

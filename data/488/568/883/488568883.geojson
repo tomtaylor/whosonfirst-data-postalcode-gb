@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.657997,51.607578,-3.657997,51.607578",
-    "geom:latitude": 51.607578,
-    "geom:longitude": -3.657997,
+    "geom:bbox": "-3.657911,51.607564,-3.657911,51.607564",
+    "geom:latitude": 51.607564,
+    "geom:longitude": -3.657911,
     "gp:parent_id": "12696127",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699051, 
       404445597, 
       101875439, 
       404227475, 
-      1360698631
+      1360698631, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701595,
-    "wof:geomhash": "62e6adb4d9ca0aeadfcc49020bd3ff9c",
+    "wof:geomhash": "76c8fb09119f0d9e0f97739212487fc0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488568883,
-    "wof:lastmodified": 1583786779,
+    "wof:lastmodified": 1609897146,
     "wof:name": "CF34 9DH",
     "wof:parent_id": 101875439,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.657997, 
-    51.607578, 
-    -3.657997, 
-    51.607578
+    -3.657911, 
+    51.607564, 
+    -3.657911, 
+    51.607564
   ],
-  "geometry": {"coordinates":[-3.657997,51.607578],"type":"Point"}
+  "geometry": {"coordinates":[-3.657911,51.607564],"type":"Point"}
 }

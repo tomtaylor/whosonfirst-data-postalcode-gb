@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.198428,51.187848,-4.198428,51.187848",
-    "geom:latitude": 51.187848,
-    "geom:longitude": -4.198428,
+    "geom:bbox": "-4.198383,51.188172,-4.198383,51.188172",
+    "geom:latitude": 51.188172,
+    "geom:longitude": -4.198383,
     "gp:parent_id": "29368",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699081, 
-      404431117, 
       1125880817, 
       404227469, 
       1360698541, 
-      85633159
+      85633159, 
+      1360699081, 
+      404431117
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701655,
-    "wof:geomhash": "11a64cd7ca532fe5c4a1856f6a65054e",
+    "wof:geomhash": "5da875660ed46e47572e0704299a9ed9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454592411,
-    "wof:lastmodified": 1583786786,
+    "wof:lastmodified": 1609895984,
     "wof:name": "EX34 7EH",
     "wof:parent_id": 404431117,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.198428, 
-    51.187848, 
-    -4.198428, 
-    51.187848
+    -4.198383, 
+    51.188172, 
+    -4.198383, 
+    51.188172
   ],
-  "geometry": {"coordinates":[-4.198428,51.187848],"type":"Point"}
+  "geometry": {"coordinates":[-4.198383,51.188172],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.647572,50.793722,-3.647572,50.793722",
-    "geom:latitude": 50.793722,
-    "geom:longitude": -3.647572,
+    "geom:bbox": "-3.647602,50.793749,-3.647602,50.793749",
+    "geom:latitude": 50.793749,
+    "geom:longitude": -3.647602,
     "gp:parent_id": "32511",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698541, 
-      85633159, 
       1360699081, 
       404454695, 
-      101852605
+      101852605, 
+      404227469, 
+      1360698541, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701646,
-    "wof:geomhash": "89707bac7f66cbcfba0f9e58e191b520",
+    "wof:geomhash": "8b7132d69e39f67cd05b592560d0f0cf",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454575297,
-    "wof:lastmodified": 1583786776,
+    "wof:lastmodified": 1609895122,
     "wof:name": "EX17 1EG",
     "wof:parent_id": 101852605,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.647572, 
-    50.793722, 
-    -3.647572, 
-    50.793722
+    -3.647602, 
+    50.793749, 
+    -3.647602, 
+    50.793749
   ],
-  "geometry": {"coordinates":[-3.647572,50.793722],"type":"Point"}
+  "geometry": {"coordinates":[-3.647602,50.793749],"type":"Point"}
 }

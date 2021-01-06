@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.905036,52.481854,-1.905036,52.481854",
-    "geom:latitude": 52.481854,
-    "geom:longitude": -1.905036,
+    "geom:bbox": "-1.905006,52.481836,-1.905006,52.481836",
+    "geom:latitude": 52.481836,
+    "geom:longitude": -1.905006,
     "gp:parent_id": "12723",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698605, 
       85633159, 
       1360699077, 
       101750467, 
       404227469, 
-      85861281
+      85861281, 
+      1360698605
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701664,
-    "wof:geomhash": "3effddde65d0a24966da94ea1beae100",
+    "wof:geomhash": "64db6c9727c2a8f3bd4c5d57a6cbedd5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 437979811,
-    "wof:lastmodified": 1583786832,
+    "wof:lastmodified": 1609898229,
     "wof:name": "B3 3HT",
     "wof:parent_id": 101750467,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.905036, 
-    52.481854, 
-    -1.905036, 
-    52.481854
+    -1.905006, 
+    52.481836, 
+    -1.905006, 
+    52.481836
   ],
-  "geometry": {"coordinates":[-1.905036,52.481854],"type":"Point"}
+  "geometry": {"coordinates":[-1.905006,52.481836],"type":"Point"}
 }

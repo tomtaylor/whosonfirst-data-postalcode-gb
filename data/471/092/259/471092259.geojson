@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.758772,55.253970,-1.758772,55.253970",
-    "geom:latitude": 55.25397,
-    "geom:longitude": -1.758772,
+    "geom:bbox": "-1.758737,55.254000,-1.758737,55.254000",
+    "geom:latitude": 55.254,
+    "geom:longitude": -1.758737,
     "gp:parent_id": "27420",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698769, 
+      404440669, 
       1125896435, 
       404227469, 
       1360698727, 
-      85633159, 
-      1360698769, 
-      404440669
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701276,
-    "wof:geomhash": "f2bcedfd9f5d488761bfe1ad159c4cb4",
+    "wof:geomhash": "7cc20dbdbe281114f86621ddc9d3b81d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471092259,
-    "wof:lastmodified": 1583786420,
+    "wof:lastmodified": 1609872455,
     "wof:name": "NE65 8TB",
     "wof:parent_id": 404440669,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.758772, 
-    55.25397, 
-    -1.758772, 
-    55.25397
+    -1.758737, 
+    55.254, 
+    -1.758737, 
+    55.254
   ],
-  "geometry": {"coordinates":[-1.758772,55.25397],"type":"Point"}
+  "geometry": {"coordinates":[-1.758737,55.254],"type":"Point"}
 }

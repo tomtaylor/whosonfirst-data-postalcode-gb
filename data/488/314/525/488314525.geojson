@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698569, 
       85633159, 
-      1360698871, 
+      1360698765, 
       404444661, 
-      1125874381
+      1125874381, 
+      404227469, 
+      1360698569
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -36,7 +36,7 @@
     "wof:hierarchy": [
       {
         "country_id": 85633159,
-        "county_id": 1360698871,
+        "county_id": 1360698765,
         "localadmin_id": 404444661,
         "locality_id": 1125874381,
         "macroregion_id": 404227469,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488314525,
-    "wof:lastmodified": 1583786522,
+    "wof:lastmodified": 1609885934,
     "wof:name": "LE12 9UR",
     "wof:parent_id": 404444661,
     "wof:placetype": "postalcode",

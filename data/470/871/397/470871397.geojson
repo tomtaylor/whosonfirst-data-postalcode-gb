@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.239246,53.481099,-2.239246,53.481099",
-    "geom:latitude": 53.481099,
-    "geom:longitude": -2.239246,
+    "geom:bbox": "-2.239501,53.480891,-2.239501,53.480891",
+    "geom:latitude": 53.480891,
+    "geom:longitude": -2.239501,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85861843, 
-      1360698555, 
       85633159, 
       1360698893, 
       101750525, 
-      404227469
+      404227469, 
+      85861843, 
+      1360698555
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701178,
-    "wof:geomhash": "ed0be2914fdc185bd5124d07cc82b2e6",
+    "wof:geomhash": "8f4946c6664646f4db87fc0a643dab42",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 470871397,
-    "wof:lastmodified": 1595718683,
+    "wof:lastmodified": 1609870609,
     "wof:name": "M2 3AQ",
     "wof:parent_id": 101750525,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.239246, 
-    53.481099, 
-    -2.239246, 
-    53.481099
+    -2.239501, 
+    53.480891, 
+    -2.239501, 
+    53.480891
   ],
-  "geometry": {"coordinates":[-2.239246,53.481099],"type":"Point"}
+  "geometry": {"coordinates":[-2.239501,53.480891],"type":"Point"}
 }

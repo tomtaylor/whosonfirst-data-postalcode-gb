@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1997-06-01",
     "geom:area": 0,
-    "geom:bbox": "-4.210753,55.839373,-4.210753,55.839373",
-    "geom:latitude": 55.839373,
-    "geom:longitude": -4.210753,
+    "geom:bbox": "-4.210674,55.839402,-4.210674,55.839402",
+    "geom:latitude": 55.839402,
+    "geom:longitude": -4.210674,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85786951, 
-      1360698707, 
       85633159, 
       1360698797, 
       404430153, 
       1175612707, 
-      404227471
+      404227471, 
+      85786951, 
+      1360698707
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701151,
-    "wof:geomhash": "66fb8ade9f9f80c04936a6055f9b3c2f",
+    "wof:geomhash": "37e93adaa0fb66bd82d6e28b1099667d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 504400033,
-    "wof:lastmodified": 1583786252,
+    "wof:lastmodified": 1609869531,
     "wof:name": "G40 4QF",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.210753, 
-    55.839373, 
-    -4.210753, 
-    55.839373
+    -4.210674, 
+    55.839402, 
+    -4.210674, 
+    55.839402
   ],
-  "geometry": {"coordinates":[-4.210753,55.839373],"type":"Point"}
+  "geometry": {"coordinates":[-4.210674,55.839402],"type":"Point"}
 }

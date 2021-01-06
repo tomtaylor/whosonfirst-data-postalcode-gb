@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.235894,54.576545,-1.235894,54.576545",
-    "geom:latitude": 54.576545,
-    "geom:longitude": -1.235894,
+    "geom:bbox": "-1.235987,54.576537,-1.235987,54.576537",
+    "geom:latitude": 54.576537,
+    "geom:longitude": -1.235987,
     "gp:parent_id": "28869",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698853, 
       101750599, 
       404227469, 
-      1360698619
+      1360698619, 
+      85633159, 
+      1360698853
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701269,
-    "wof:geomhash": "ba2e3759d4943652db7c90f56e92846c",
+    "wof:geomhash": "5a24e56f3a31c68f189913027aef3aac",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 487931299,
-    "wof:lastmodified": 1583786342,
+    "wof:lastmodified": 1609887309,
     "wof:name": "TS1 1LJ",
     "wof:parent_id": 101750599,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.235894, 
-    54.576545, 
-    -1.235894, 
-    54.576545
+    -1.235987, 
+    54.576537, 
+    -1.235987, 
+    54.576537
   ],
-  "geometry": {"coordinates":[-1.235894,54.576545],"type":"Point"}
+  "geometry": {"coordinates":[-1.235987,54.576537],"type":"Point"}
 }

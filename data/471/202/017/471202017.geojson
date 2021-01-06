@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1993-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.351674,52.697930,1.351674,52.697930",
-    "geom:latitude": 52.69793,
-    "geom:longitude": 1.351674,
+    "geom:bbox": "1.351766,52.697963,1.351766,52.697963",
+    "geom:latitude": 52.697963,
+    "geom:longitude": 1.351766,
     "gp:parent_id": "17487",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698575, 
       85633159, 
       1360698955, 
       404430259, 
       1125858967, 
-      404227469
+      404227469, 
+      1360698575
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701393,
-    "wof:geomhash": "45c29311816d5c7e5154f5ca6a961916",
+    "wof:geomhash": "5f63286c33cd62fc00ecba0929f2c5e9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471202017,
-    "wof:lastmodified": 1583786549,
+    "wof:lastmodified": 1609879931,
     "wof:name": "NR12 7DA",
     "wof:parent_id": 404430259,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.351674, 
-    52.69793, 
-    1.351674, 
-    52.69793
+    1.351766, 
+    52.697963, 
+    1.351766, 
+    52.697963
   ],
-  "geometry": {"coordinates":[1.351674,52.69793],"type":"Point"}
+  "geometry": {"coordinates":[1.351766,52.697963],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.981835,51.634726,-4.981835,51.634726",
-    "geom:latitude": 51.634726,
-    "geom:longitude": -4.981835,
+    "geom:bbox": "-4.981795,51.634556,-4.981795,51.634556",
+    "geom:latitude": 51.634556,
+    "geom:longitude": -4.981795,
     "gp:parent_id": "28740",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404453067, 
-      1126038767, 
       404227475, 
       1360698639, 
       85633159, 
-      1360698843
+      1360698843, 
+      404453067, 
+      1126038767
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701480,
-    "wof:geomhash": "194430a9bf09ac5831e4e3998a978787",
+    "wof:geomhash": "48182996fdbf0081c6cd0bb11daa09a7",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504610201,
-    "wof:lastmodified": 1583786631,
+    "wof:lastmodified": 1609882210,
     "wof:name": "SA71 5HT",
     "wof:parent_id": 404453067,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.981835, 
-    51.634726, 
-    -4.981835, 
-    51.634726
+    -4.981795, 
+    51.634556, 
+    -4.981795, 
+    51.634556
   ],
-  "geometry": {"coordinates":[-4.981835,51.634726],"type":"Point"}
+  "geometry": {"coordinates":[-4.981795,51.634556],"type":"Point"}
 }

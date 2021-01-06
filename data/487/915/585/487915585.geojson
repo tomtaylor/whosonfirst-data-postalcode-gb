@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-5.244341,50.230417,-5.244341,50.230417",
-    "geom:latitude": 50.230417,
-    "geom:longitude": -5.244341,
+    "geom:bbox": "-5.244599,50.230500,-5.244599,50.230500",
+    "geom:latitude": 50.2305,
+    "geom:longitude": -5.244599,
     "gp:parent_id": "13067",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      404445903, 
       1125934877, 
       404227469, 
       1360698623, 
       85633159, 
-      1360699085, 
-      404445903
+      1360699085
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701258,
-    "wof:geomhash": "b35639661a68000c21323b887d12e33f",
+    "wof:geomhash": "720bbc7f80045ef77beee585f0633255",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487915585,
-    "wof:lastmodified": 1583786334,
+    "wof:lastmodified": 1609886319,
     "wof:name": "TR15 3AS",
     "wof:parent_id": 404445903,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -5.244341, 
-    50.230417, 
-    -5.244341, 
-    50.230417
+    -5.244599, 
+    50.2305, 
+    -5.244599, 
+    50.2305
   ],
-  "geometry": {"coordinates":[-5.244341,50.230417],"type":"Point"}
+  "geometry": {"coordinates":[-5.244599,50.2305],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-02-01",
     "geom:area": 0,
-    "geom:bbox": "-5.083428,50.144986,-5.083428,50.144986",
-    "geom:latitude": 50.144986,
-    "geom:longitude": -5.083428,
+    "geom:bbox": "-5.083026,50.145257,-5.083026,50.145257",
+    "geom:latitude": 50.145257,
+    "geom:longitude": -5.083026,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699085, 
       404438245, 
       101852391, 
       404227469, 
-      1360698623
+      1360698623, 
+      85633159, 
+      1360699085
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735751,
-    "wof:geomhash": "c33847088e14fe59f2a01823caae2259",
+    "wof:geomhash": "22086b864fa4549d98b842aaf0617029",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1713333603,
-    "wof:lastmodified": 1595753593,
+    "wof:lastmodified": 1609875683,
     "wof:name": "TR11 5GP",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -5.083428, 
-    50.144986, 
-    -5.083428, 
-    50.144986
+    -5.083026, 
+    50.145257, 
+    -5.083026, 
+    50.145257
   ],
-  "geometry": {"coordinates":[-5.083428,50.144986],"type":"Point"}
+  "geometry": {"coordinates":[-5.083026,50.145257],"type":"Point"}
 }

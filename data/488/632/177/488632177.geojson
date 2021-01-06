@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.187082,55.869911,-3.187082,55.869911",
-    "geom:latitude": 55.869911,
-    "geom:longitude": -3.187082,
+    "geom:bbox": "-3.184935,55.871298,-3.184935,55.871298",
+    "geom:latitude": 55.871298,
+    "geom:longitude": -3.184935,
     "gp:parent_id": "12696201",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227471, 
       85787337, 
       1360698677, 
       85633159, 
       1360698791, 
-      404436513
+      404436513, 
+      404227471
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701629,
-    "wof:geomhash": "248bf9e09895b41af9a93c930d75377e",
+    "wof:geomhash": "bb422cc4ab0a4ab6b86122ae7292729f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488632177,
-    "wof:lastmodified": 1583786828,
+    "wof:lastmodified": 1609899261,
     "wof:name": "EH25 9RH",
     "wof:parent_id": 404436513,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.187082, 
-    55.869911, 
-    -3.187082, 
-    55.869911
+    -3.184935, 
+    55.871298, 
+    -3.184935, 
+    55.871298
   ],
-  "geometry": {"coordinates":[-3.187082,55.869911],"type":"Point"}
+  "geometry": {"coordinates":[-3.184935,55.871298],"type":"Point"}
 }

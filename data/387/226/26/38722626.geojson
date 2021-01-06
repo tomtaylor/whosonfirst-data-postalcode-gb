@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.903880,53.757777,-1.903880,53.757777",
-    "geom:latitude": 53.757777,
-    "geom:longitude": -1.90388,
+    "geom:bbox": "-1.903713,53.757786,-1.903713,53.757786",
+    "geom:latitude": 53.757786,
+    "geom:longitude": -1.903713,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698833, 
       1360817303, 
       101750577, 
       404227469, 
-      1360698609
+      1360698609, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583793609,
-    "wof:geomhash": "86e62a620bf57b7916947f59c07ffcba",
+    "wof:geomhash": "66a23902fb5968dbf5b566076effae88",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 38722626,
-    "wof:lastmodified": 1583793609,
+    "wof:lastmodified": 1609868459,
     "wof:name": "HX2 8WJ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.90388, 
-    53.757777, 
-    -1.90388, 
-    53.757777
+    -1.903713, 
+    53.757786, 
+    -1.903713, 
+    53.757786
   ],
-  "geometry": {"coordinates":[-1.90388,53.757777],"type":"Point"}
+  "geometry": {"coordinates":[-1.903713,53.757786],"type":"Point"}
 }

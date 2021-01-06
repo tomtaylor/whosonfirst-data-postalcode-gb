@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.130164,51.588207,-0.130164,51.588207",
-    "geom:latitude": 51.588207,
-    "geom:longitude": -0.130164,
+    "geom:bbox": "-0.130136,51.588264,-0.130136,51.588264",
+    "geom:latitude": 51.588264,
+    "geom:longitude": -0.130136,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       85788337, 
       1360698645, 
       1158857279, 
       85633159, 
-      101750367
+      101750367, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701117,
-    "wof:geomhash": "f6db837370a89f835c334018d9d670f6",
+    "wof:geomhash": "1f247ff413e960633a653911f1618286",
     "wof:hierarchy": [
       {
         "borough_id": 1158857279,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471026185,
-    "wof:lastmodified": 1583786239,
+    "wof:lastmodified": 1609869219,
     "wof:name": "N8 7HH",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.130164, 
-    51.588207, 
-    -0.130164, 
-    51.588207
+    -0.130136, 
+    51.588264, 
+    -0.130136, 
+    51.588264
   ],
-  "geometry": {"coordinates":[-0.130164,51.588207],"type":"Point"}
+  "geometry": {"coordinates":[-0.130136,51.588264],"type":"Point"}
 }

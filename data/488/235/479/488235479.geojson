@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.785721,54.246322,-0.785721,54.246322",
-    "geom:latitude": 54.246322,
-    "geom:longitude": -0.785721,
+    "geom:bbox": "-0.785855,54.246402,-0.785855,54.246402",
+    "geom:latitude": 54.246402,
+    "geom:longitude": -0.785855,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      101873283, 
       404227469, 
       1360698619, 
       85633159, 
       1360698753, 
-      404431399
+      404431399, 
+      101873283
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701181,
-    "wof:geomhash": "1d9c2e7e4deeca201c90014ee0dfbd1f",
+    "wof:geomhash": "1bf801448c232d8238be88cfa94ff90f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 488235479,
-    "wof:lastmodified": 1583786429,
+    "wof:lastmodified": 1609881540,
     "wof:name": "YO18 8BB",
     "wof:parent_id": 101873283,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.785721, 
-    54.246322, 
-    -0.785721, 
-    54.246322
+    -0.785855, 
+    54.246402, 
+    -0.785855, 
+    54.246402
   ],
-  "geometry": {"coordinates":[-0.785721,54.246322],"type":"Point"}
+  "geometry": {"coordinates":[-0.785855,54.246402],"type":"Point"}
 }

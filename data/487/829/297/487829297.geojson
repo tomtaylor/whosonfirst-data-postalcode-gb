@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.468788,52.672447,-2.468788,52.672447",
-    "geom:latitude": 52.672447,
-    "geom:longitude": -2.468788,
+    "geom:bbox": "-2.468818,52.672411,-2.468818,52.672411",
+    "geom:latitude": 52.672411,
+    "geom:longitude": -2.468818,
     "gp:parent_id": "17979",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698587, 
-      85633159, 
       1360698911, 
       404430827, 
-      1360754985
+      1360754985, 
+      404227469, 
+      1360698587, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701193,
-    "wof:geomhash": "54dbc4d00ae0a70e6ff9cb73979d2da6",
+    "wof:geomhash": "d7e9a72554cf89847e4dfebe064bc993",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487829297,
-    "wof:lastmodified": 1583786294,
+    "wof:lastmodified": 1609882092,
     "wof:name": "TF4 2LQ",
     "wof:parent_id": 404430827,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.468788, 
-    52.672447, 
-    -2.468788, 
-    52.672447
+    -2.468818, 
+    52.672411, 
+    -2.468818, 
+    52.672411
   ],
-  "geometry": {"coordinates":[-2.468788,52.672447],"type":"Point"}
+  "geometry": {"coordinates":[-2.468818,52.672411],"type":"Point"}
 }

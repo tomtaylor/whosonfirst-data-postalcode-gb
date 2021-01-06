@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1994-05-01",
     "geom:area": 0,
-    "geom:bbox": "-2.285693,53.549255,-2.285693,53.549255",
-    "geom:latitude": 53.549255,
-    "geom:longitude": -2.285693,
+    "geom:bbox": "-2.285527,53.549246,-2.285527,53.549246",
+    "geom:latitude": 53.549246,
+    "geom:longitude": -2.285527,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      85791629, 
       1360698555, 
       85633159, 
       1360698847, 
-      101750567, 
-      404227469, 
-      85791629
+      101750567
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701280,
-    "wof:geomhash": "bbe4d0e1150b2beb6f923282dad14db6",
+    "wof:geomhash": "72fa97e8eb6847840a0a01287e8163a5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 470915233,
-    "wof:lastmodified": 1583786422,
+    "wof:lastmodified": 1609873287,
     "wof:name": "M45 8EH",
     "wof:parent_id": 101913947,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.285693, 
-    53.549255, 
-    -2.285693, 
-    53.549255
+    -2.285527, 
+    53.549246, 
+    -2.285527, 
+    53.549246
   ],
-  "geometry": {"coordinates":[-2.285693,53.549255],"type":"Point"}
+  "geometry": {"coordinates":[-2.285527,53.549246],"type":"Point"}
 }

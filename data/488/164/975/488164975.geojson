@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2001-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.938537,52.089715,-1.938537,52.089715",
-    "geom:latitude": 52.089715,
-    "geom:longitude": -1.938537,
+    "geom:bbox": "-1.938733,52.089870,-1.938733,52.089870",
+    "geom:latitude": 52.08987,
+    "geom:longitude": -1.938733,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698613, 
       85633159, 
       1360699043, 
       404436323, 
       101853029, 
-      404227469, 
-      1360698613
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701288,
-    "wof:geomhash": "f4f260c2d2ba45cd4a9ddf86708a2990",
+    "wof:geomhash": "5302f24b754066c46e5302e6d98ff67f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 488164975,
-    "wof:lastmodified": 1583786250,
+    "wof:lastmodified": 1609877898,
     "wof:name": "WR11 1DS",
     "wof:parent_id": 101853029,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.938537, 
-    52.089715, 
-    -1.938537, 
-    52.089715
+    -1.938733, 
+    52.08987, 
+    -1.938733, 
+    52.08987
   ],
-  "geometry": {"coordinates":[-1.938537,52.089715],"type":"Point"}
+  "geometry": {"coordinates":[-1.938733,52.08987],"type":"Point"}
 }

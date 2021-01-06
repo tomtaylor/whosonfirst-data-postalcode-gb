@@ -2,7 +2,7 @@
   "id": 438152665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-06-01",
     "edtf:inception": "2005-02-01",
     "geom:area": 0,
     "geom:bbox": "-1.962690,50.722731,-1.962690,50.722731",
@@ -11,7 +11,7 @@
     "gp:parent_id": "32326",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000058",
@@ -19,11 +19,11 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698905, 
       101750309, 
       404227469, 
-      1360698545, 
-      85633159, 
-      1360698905
+      1360698545
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 438152665,
-    "wof:lastmodified": 1583786481,
+    "wof:lastmodified": 1609877104,
     "wof:name": "BH15 9SL",
     "wof:parent_id": 101750309,
     "wof:placetype": "postalcode",

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.530359,57.269962,-3.530359,57.269962",
-    "geom:latitude": 57.269962,
-    "geom:longitude": -3.530359,
+    "geom:bbox": "-3.529493,57.269892,-3.529493,57.269892",
+    "geom:latitude": 57.269892,
+    "geom:longitude": -3.529493,
     "gp:parent_id": "12696199",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699045, 
       404436073, 
       404227471, 
-      1360698661
+      1360698661, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701444,
-    "wof:geomhash": "490813f6ee2227f210c81e1bf76c64ba",
+    "wof:geomhash": "30edf6706a86a4648e9e24b186623458",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504575265,
-    "wof:lastmodified": 1583786590,
+    "wof:lastmodified": 1609880250,
     "wof:name": "PH26 3NP",
     "wof:parent_id": 404436073,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.530359, 
-    57.269962, 
-    -3.530359, 
-    57.269962
+    -3.529493, 
+    57.269892, 
+    -3.529493, 
+    57.269892
   ],
-  "geometry": {"coordinates":[-3.530359,57.269962],"type":"Point"}
+  "geometry": {"coordinates":[-3.529493,57.269892],"type":"Point"}
 }

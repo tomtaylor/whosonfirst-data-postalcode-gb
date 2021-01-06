@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1997-12-01",
     "geom:area": 0,
-    "geom:bbox": "-2.975304,53.126701,-2.975304,53.126701",
-    "geom:latitude": 53.126701,
-    "geom:longitude": -2.975304,
+    "geom:bbox": "-2.976958,53.124504,-2.976958,53.124504",
+    "geom:latitude": 53.124504,
+    "geom:longitude": -2.976958,
     "gp:parent_id": "14668",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227475, 
-      1360698637, 
       85633159, 
       1360698743, 
       404433905, 
-      1125983041
+      1125983041, 
+      404227475, 
+      1360698637
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701370,
-    "wof:geomhash": "80b470d348e1b5ef121fcee89d3bd371",
+    "wof:geomhash": "81583a6fd58cc2bdb76355a73db256cb",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504485165,
-    "wof:lastmodified": 1595729153,
+    "wof:lastmodified": 1609874563,
     "wof:name": "LL12 0AF",
     "wof:parent_id": 404433905,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.975304, 
-    53.126701, 
-    -2.975304, 
-    53.126701
+    -2.976958, 
+    53.124504, 
+    -2.976958, 
+    53.124504
   ],
-  "geometry": {"coordinates":[-2.975304,53.126701],"type":"Point"}
+  "geometry": {"coordinates":[-2.976958,53.124504],"type":"Point"}
 }

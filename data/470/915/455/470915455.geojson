@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1994-05-01",
     "geom:area": 0,
-    "geom:bbox": "-2.276607,53.553547,-2.276607,53.553547",
-    "geom:latitude": 53.553547,
-    "geom:longitude": -2.276607,
+    "geom:bbox": "-2.276590,53.553590,-2.276590,53.553590",
+    "geom:latitude": 53.55359,
+    "geom:longitude": -2.27659,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698847, 
-      101750567, 
       404227469, 
       85860957, 
       1360698555, 
-      85633159
+      85633159, 
+      1360698847, 
+      101750567
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701281,
-    "wof:geomhash": "06607dd91075a74bd9a8dd84c3729c7d",
+    "wof:geomhash": "13c6ff14e3ec9815c286906f0932f888",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 470915455,
-    "wof:lastmodified": 1583786423,
+    "wof:lastmodified": 1609873303,
     "wof:name": "M45 8LZ",
     "wof:parent_id": 101913947,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.276607, 
-    53.553547, 
-    -2.276607, 
-    53.553547
+    -2.27659, 
+    53.55359, 
+    -2.27659, 
+    53.55359
   ],
-  "geometry": {"coordinates":[-2.276607,53.553547],"type":"Point"}
+  "geometry": {"coordinates":[-2.27659,53.55359],"type":"Point"}
 }

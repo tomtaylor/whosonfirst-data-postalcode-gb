@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.221000,53.258139,-1.221000,53.258139",
-    "geom:latitude": 53.258139,
-    "geom:longitude": -1.221,
+    "geom:bbox": "-1.221302,53.258024,-1.221302,53.258024",
+    "geom:latitude": 53.258024,
+    "geom:longitude": -1.221302,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698765, 
-      404451753, 
-      1125903337, 
       404227469, 
       1360698539, 
-      85633159
+      85633159, 
+      1360698765, 
+      404451753, 
+      1125903337
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583800099,
-    "wof:geomhash": "0e6c3dff1d62358197d51be43eccec23",
+    "wof:geomhash": "80b438e8d4ea7941239065fdfc0c39a5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712709349,
-    "wof:lastmodified": 1595711451,
+    "wof:lastmodified": 1609872992,
     "wof:name": "S80 4EP",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.221, 
-    53.258139, 
-    -1.221, 
-    53.258139
+    -1.221302, 
+    53.258024, 
+    -1.221302, 
+    53.258024
   ],
-  "geometry": {"coordinates":[-1.221,53.258139],"type":"Point"}
+  "geometry": {"coordinates":[-1.221302,53.258024],"type":"Point"}
 }

@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.202137,51.509742,-0.202137,51.509742",
-    "geom:latitude": 51.509742,
-    "geom:longitude": -0.202137,
+    "geom:bbox": "-0.201394,51.509964,-0.201394,51.509964",
+    "geom:latitude": 51.509964,
+    "geom:longitude": -0.201394,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      101750367, 
+      404227469, 
       85789533, 
       1360698645, 
       1158857317, 
-      85633159, 
-      101750367, 
-      404227469
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701188,
-    "wof:geomhash": "931a5ac435ab870e578d1e377757316a",
+    "wof:geomhash": "8d480b54b49047e1b8b08630fcac83c5",
     "wof:hierarchy": [
       {
         "borough_id": 1158857317,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488012059,
-    "wof:lastmodified": 1583786373,
+    "wof:lastmodified": 1609868846,
     "wof:name": "W11 3PQ",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.202137, 
-    51.509742, 
-    -0.202137, 
-    51.509742
+    -0.201394, 
+    51.509964, 
+    -0.201394, 
+    51.509964
   ],
-  "geometry": {"coordinates":[-0.202137,51.509742],"type":"Point"}
+  "geometry": {"coordinates":[-0.201394,51.509964],"type":"Point"}
 }

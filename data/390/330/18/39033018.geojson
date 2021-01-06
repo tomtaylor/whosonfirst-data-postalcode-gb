@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-05-01",
     "geom:area": 0,
-    "geom:bbox": "-1.525607,53.668849,-1.525607,53.668849",
-    "geom:latitude": 53.668849,
-    "geom:longitude": -1.525607,
+    "geom:bbox": "-1.525535,53.668561,-1.525535,53.668561",
+    "geom:latitude": 53.668561,
+    "geom:longitude": -1.525535,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698609, 
-      85633159, 
       1360698945, 
       1360817491, 
-      101751637
+      101751637, 
+      404227469, 
+      1360698609, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583796978,
-    "wof:geomhash": "9166200a39c47c34112a4aadad00c7af",
+    "wof:geomhash": "f05964589beb3eb6a4914550587db307",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 39033018,
-    "wof:lastmodified": 1583796978,
+    "wof:lastmodified": 1609868472,
     "wof:name": "WF2 8ZA",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.525607, 
-    53.668849, 
-    -1.525607, 
-    53.668849
+    -1.525535, 
+    53.668561, 
+    -1.525535, 
+    53.668561
   ],
-  "geometry": {"coordinates":[-1.525607,53.668849],"type":"Point"}
+  "geometry": {"coordinates":[-1.525535,53.668561],"type":"Point"}
 }

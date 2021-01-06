@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.120957,53.565238,-2.120957,53.565238",
-    "geom:latitude": 53.565238,
-    "geom:longitude": -2.120957,
+    "geom:bbox": "-2.121047,53.565130,-2.121047,53.565130",
+    "geom:latitude": 53.56513,
+    "geom:longitude": -2.121047,
     "gp:parent_id": "33703",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698953, 
       1126030435, 
       404227469, 
-      1360698555
+      1360698555, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701473,
-    "wof:geomhash": "a511b3264e61a9e0b8d37be9f11631e4",
+    "wof:geomhash": "e4e6cd7bb01eaac56ad2e90f0a35cd22",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 471292149,
-    "wof:lastmodified": 1583786632,
+    "wof:lastmodified": 1609885102,
     "wof:name": "OL2 6XY",
     "wof:parent_id": 101913965,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.120957, 
-    53.565238, 
-    -2.120957, 
-    53.565238
+    -2.121047, 
+    53.56513, 
+    -2.121047, 
+    53.56513
   ],
-  "geometry": {"coordinates":[-2.120957,53.565238],"type":"Point"}
+  "geometry": {"coordinates":[-2.121047,53.56513],"type":"Point"}
 }

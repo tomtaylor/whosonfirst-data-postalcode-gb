@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-09-01",
     "geom:area": 0,
-    "geom:bbox": "1.045299,52.304171,1.045299,52.304171",
-    "geom:latitude": 52.304171,
+    "geom:bbox": "1.045299,52.304180,1.045299,52.304180",
+    "geom:latitude": 52.30418,
     "geom:longitude": 1.045299,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360699041, 
       404429799, 
       1125858599, 
       404227469, 
-      1360698595, 
-      85633159
+      1360698595
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583801369,
-    "wof:geomhash": "8220f6f1ecc4a66f592dbbbc2994c319",
+    "wof:geomhash": "407806821ee4486a1938141c8bc824ef",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1161043828,
-    "wof:lastmodified": 1595712001,
+    "wof:lastmodified": 1609875286,
     "wof:name": "IP23 8LA",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -51,9 +51,9 @@
   },
   "bbox": [
     1.045299, 
-    52.304171, 
+    52.30418, 
     1.045299, 
-    52.304171
+    52.30418
   ],
-  "geometry": {"coordinates":[1.045299,52.304171],"type":"Point"}
+  "geometry": {"coordinates":[1.045299,52.30418],"type":"Point"}
 }

@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.260580,51.584038,-0.260580,51.584038",
-    "geom:latitude": 51.584038,
-    "geom:longitude": -0.26058,
+    "geom:bbox": "-0.260549,51.584100,-0.260549,51.584100",
+    "geom:latitude": 51.5841,
+    "geom:longitude": -0.260549,
     "gp:parent_id": "12695823",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -20,12 +20,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      85860473, 
       1360698645, 
       1158857267, 
       85633159, 
       101750367, 
-      404227469, 
-      85860473
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701456,
-    "wof:geomhash": "a807f62dedff108ff0a1be4e65ee4d65",
+    "wof:geomhash": "5784db9a9ec926ae716f39d05a2f2f74",
     "wof:hierarchy": [
       {
         "borough_id": 1158857267,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 471273467,
-    "wof:lastmodified": 1583786610,
+    "wof:lastmodified": 1609883937,
     "wof:name": "NW9 0XJ",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -55,10 +55,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.26058, 
-    51.584038, 
-    -0.26058, 
-    51.584038
+    -0.260549, 
+    51.5841, 
+    -0.260549, 
+    51.5841
   ],
-  "geometry": {"coordinates":[-0.26058,51.584038],"type":"Point"}
+  "geometry": {"coordinates":[-0.260549,51.5841],"type":"Point"}
 }

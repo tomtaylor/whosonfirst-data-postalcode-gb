@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2015-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.477040,53.433259,-1.477040,53.433259",
-    "geom:latitude": 53.433259,
-    "geom:longitude": -1.47704,
+    "geom:bbox": "-1.477041,53.433205,-1.477041,53.433205",
+    "geom:latitude": 53.433205,
+    "geom:longitude": -1.477041,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      85787791, 
       1360698591, 
       85633159, 
       1360699075, 
-      101750529
+      101750529, 
+      404227469, 
+      85787791
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468899145,
-    "wof:geomhash": "5c3c9a1989e074dac6c0a193115b07de",
+    "wof:geomhash": "de09adf1448411c4522b7084df8baeef",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 890251001,
-    "wof:lastmodified": 1583786195,
+    "wof:lastmodified": 1609868826,
     "wof:name": "S5 9BG",
     "wof:parent_id": 101750529,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.47704, 
-    53.433259, 
-    -1.47704, 
-    53.433259
+    -1.477041, 
+    53.433205, 
+    -1.477041, 
+    53.433205
   ],
-  "geometry": {"coordinates":[-1.47704,53.433259],"type":"Point"}
+  "geometry": {"coordinates":[-1.477041,53.433205],"type":"Point"}
 }

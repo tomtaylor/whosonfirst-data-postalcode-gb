@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.087998,52.571500,-2.087998,52.571500",
-    "geom:latitude": 52.5715,
-    "geom:longitude": -2.087998,
+    "geom:bbox": "-2.087830,52.571462,-2.087830,52.571462",
+    "geom:latitude": 52.571462,
+    "geom:longitude": -2.08783,
     "gp:parent_id": "12637",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
       1360698605, 
       85633159, 
       1360698737, 
-      1126027181, 
-      404227469
+      1126027181
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701120,
-    "wof:geomhash": "c1a5ffce8993f6a483bc66cdf784f7fc",
+    "wof:geomhash": "614e592dc24555ee229e1d76ce077b83",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488211019,
-    "wof:lastmodified": 1583786373,
+    "wof:lastmodified": 1609880497,
     "wof:name": "WV14 6RT",
     "wof:parent_id": 101914031,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.087998, 
-    52.5715, 
-    -2.087998, 
-    52.5715
+    -2.08783, 
+    52.571462, 
+    -2.08783, 
+    52.571462
   ],
-  "geometry": {"coordinates":[-2.087998,52.5715],"type":"Point"}
+  "geometry": {"coordinates":[-2.08783,52.571462],"type":"Point"}
 }

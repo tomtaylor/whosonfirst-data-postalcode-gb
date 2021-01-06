@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1995-07-01",
     "geom:area": 0,
-    "geom:bbox": "-0.835592,51.409206,-0.835592,51.409206",
-    "geom:latitude": 51.409206,
-    "geom:longitude": -0.835592,
+    "geom:bbox": "-0.835790,51.409181,-0.835790,51.409181",
+    "geom:latitude": 51.409181,
+    "geom:longitude": -0.83579,
     "gp:parent_id": "40831",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      101852547, 
       404227469, 
       1360698529, 
       85633159, 
       1360698967, 
-      404435875
+      404435875, 
+      101852547
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701670,
-    "wof:geomhash": "cf654c3cc87b659e175570260381359d",
+    "wof:geomhash": "c1806139463a98d98716b8ffbc12226a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471552559,
-    "wof:lastmodified": 1583786800,
+    "wof:lastmodified": 1609896567,
     "wof:name": "RG40 2SL",
     "wof:parent_id": 404435875,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.835592, 
-    51.409206, 
-    -0.835592, 
-    51.409206
+    -0.83579, 
+    51.409181, 
+    -0.83579, 
+    51.409181
   ],
-  "geometry": {"coordinates":[-0.835592,51.409206],"type":"Point"}
+  "geometry": {"coordinates":[-0.83579,51.409181],"type":"Point"}
 }

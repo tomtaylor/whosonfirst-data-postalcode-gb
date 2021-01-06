@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.736498,52.653736,0.736498,52.653736",
-    "geom:latitude": 52.653736,
-    "geom:longitude": 0.736498,
+    "geom:bbox": "0.755398,52.657767,0.755398,52.657767",
+    "geom:latitude": 52.657767,
+    "geom:longitude": 0.755398,
     "gp:parent_id": "29744",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698575, 
       85633159, 
       1360698955, 
-      404442663, 
-      1360757919
+      404447699, 
+      1125942041, 
+      404227469, 
+      1360698575
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,19 +32,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701548,
-    "wof:geomhash": "71fdac7fa9988a9a1961ed5e8977f285",
+    "wof:geomhash": "d0ae5d412302b3c49a68f88eac44a57a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360698955,
-        "localadmin_id": 404442663,
-        "locality_id": 1360757919,
+        "localadmin_id": 404447699,
+        "locality_id": 1125942041,
         "macroregion_id": 404227469,
         "region_id": 1360698575
       }
     ],
     "wof:id": 471392291,
-    "wof:lastmodified": 1583786706,
+    "wof:lastmodified": 1609890406,
     "wof:name": "PE37 8DQ",
     "wof:parent_id": 404447699,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.736498, 
-    52.653736, 
-    0.736498, 
-    52.653736
+    0.755398, 
+    52.657767, 
+    0.755398, 
+    52.657767
   ],
-  "geometry": {"coordinates":[0.736498,52.653736],"type":"Point"}
+  "geometry": {"coordinates":[0.755398,52.657767],"type":"Point"}
 }

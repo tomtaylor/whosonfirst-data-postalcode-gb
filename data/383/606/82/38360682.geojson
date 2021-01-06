@@ -2,33 +2,33 @@
   "id": 38360682,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "1994-12-01",
-    "edtf:inception": "1980-01-01",
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-07-01",
     "geom:area": 0,
-    "geom:bbox": "-2.112913,53.457998,-2.112913,53.457998",
-    "geom:latitude": 53.457998,
-    "geom:longitude": -2.112913,
+    "geom:bbox": "-2.112235,53.458177,-2.112235,53.458177",
+    "geom:latitude": 53.458177,
+    "geom:longitude": -2.112235,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E08000008",
-    "os:positional_quality_indicator": "8",
+    "os:positional_quality_indicator": "5",
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698555, 
-      85633159, 
-      1360698931, 
       1360817329, 
       1125978547, 
-      404227469
+      404227469, 
+      1360698555, 
+      85633159, 
+      1360698931
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583789493,
-    "wof:geomhash": "7029fd95a2ddc650e96a69c99e9e44ed",
+    "wof:geomhash": "e7c7d700c0f478016314b9cf0327bab9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 38360682,
-    "wof:lastmodified": 1583789493,
+    "wof:lastmodified": 1609868473,
     "wof:name": "M34 3FY",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.112913, 
-    53.457998, 
-    -2.112913, 
-    53.457998
+    -2.112235, 
+    53.458177, 
+    -2.112235, 
+    53.458177
   ],
-  "geometry": {"coordinates":[-2.112913,53.457998],"type":"Point"}
+  "geometry": {"coordinates":[-2.112235,53.458177],"type":"Point"}
 }

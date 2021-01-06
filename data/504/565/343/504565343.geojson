@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1992-05-01",
     "geom:area": 0,
-    "geom:bbox": "-4.398896,55.875847,-4.398896,55.875847",
-    "geom:latitude": 55.875847,
-    "geom:longitude": -4.398896,
+    "geom:bbox": "-4.398608,55.875550,-4.398608,55.875550",
+    "geom:latitude": 55.87555,
+    "geom:longitude": -4.398608,
     "gp:parent_id": "12696207",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360699097, 
       404432463, 
       404227471, 
-      1360698699, 
-      85633159
+      1360698699
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701433,
-    "wof:geomhash": "51dd2f14bad727eb708abc1b1c54fa02",
+    "wof:geomhash": "a649aaa844671c6fdeab646da3f10552",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504565343,
-    "wof:lastmodified": 1583786574,
+    "wof:lastmodified": 1609879669,
     "wof:name": "PA4 8HP",
     "wof:parent_id": 101913923,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.398896, 
-    55.875847, 
-    -4.398896, 
-    55.875847
+    -4.398608, 
+    55.87555, 
+    -4.398608, 
+    55.87555
   ],
-  "geometry": {"coordinates":[-4.398896,55.875847],"type":"Point"}
+  "geometry": {"coordinates":[-4.398608,55.87555],"type":"Point"}
 }

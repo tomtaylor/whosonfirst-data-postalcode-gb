@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.695348,54.505977,-0.695348,54.505977",
-    "geom:latitude": 54.505977,
-    "geom:longitude": -0.695348,
+    "geom:bbox": "-0.695194,54.505975,-0.695194,54.505975",
+    "geom:latitude": 54.505975,
+    "geom:longitude": -0.695194,
     "gp:parent_id": "28088",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404444651, 
-      1125837643, 
       404227469, 
       1360698619, 
       85633159, 
-      1360698753
+      1360698753, 
+      404444651, 
+      1125837643
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701188,
-    "wof:geomhash": "939f6be41604aca5e58391b620bd58e4",
+    "wof:geomhash": "0d99debb198f1fd85340b354a64f2b8e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488238215,
-    "wof:lastmodified": 1583786432,
+    "wof:lastmodified": 1609881756,
     "wof:name": "YO21 3RT",
     "wof:parent_id": 404444651,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.695348, 
-    54.505977, 
-    -0.695348, 
-    54.505977
+    -0.695194, 
+    54.505975, 
+    -0.695194, 
+    54.505975
   ],
-  "geometry": {"coordinates":[-0.695348,54.505977],"type":"Point"}
+  "geometry": {"coordinates":[-0.695194,54.505975],"type":"Point"}
 }

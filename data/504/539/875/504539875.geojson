@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1999-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.937779,51.596789,-2.937779,51.596789",
-    "geom:latitude": 51.596789,
-    "geom:longitude": -2.937779,
+    "geom:bbox": "-2.937443,51.596603,-2.937443,51.596603",
+    "geom:latitude": 51.596603,
+    "geom:longitude": -2.937443,
     "gp:parent_id": "12696123",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698735, 
-      404435301, 
-      1126022561, 
       404227475, 
       1360698641, 
-      85633159
+      85633159, 
+      1360698735, 
+      404435301, 
+      1126022561
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701411,
-    "wof:geomhash": "9c49f815ff6a952d4674e581ee225011",
+    "wof:geomhash": "ea79b968d556f79911d3db82544f4848",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504539875,
-    "wof:lastmodified": 1583786546,
+    "wof:lastmodified": 1609878366,
     "wof:name": "NP19 9FL",
     "wof:parent_id": 404435301,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.937779, 
-    51.596789, 
-    -2.937779, 
-    51.596789
+    -2.937443, 
+    51.596603, 
+    -2.937443, 
+    51.596603
   ],
-  "geometry": {"coordinates":[-2.937779,51.596789],"type":"Point"}
+  "geometry": {"coordinates":[-2.937443,51.596603],"type":"Point"}
 }

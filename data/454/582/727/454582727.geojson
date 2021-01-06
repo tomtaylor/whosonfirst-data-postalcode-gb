@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.984986,50.798397,-3.984986,50.798397",
-    "geom:latitude": 50.798397,
-    "geom:longitude": -3.984986,
+    "geom:bbox": "-3.984961,50.798469,-3.984961,50.798469",
+    "geom:latitude": 50.798469,
+    "geom:longitude": -3.984961,
     "gp:parent_id": "19787",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      1326865361, 
+      404227469, 
       1360698541, 
       85633159, 
       1360699081, 
-      404452713, 
-      1326865361, 
-      404227469
+      404452713
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701650,
-    "wof:geomhash": "101f08cb3793b831049d9f0f29e1a02a",
+    "wof:geomhash": "83c64c127b57acde8c6632da949ccfaf",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454582727,
-    "wof:lastmodified": 1583786783,
+    "wof:lastmodified": 1609895478,
     "wof:name": "EX20 3RZ",
     "wof:parent_id": 404452713,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.984986, 
-    50.798397, 
-    -3.984986, 
-    50.798397
+    -3.984961, 
+    50.798469, 
+    -3.984961, 
+    50.798469
   ],
-  "geometry": {"coordinates":[-3.984986,50.798397],"type":"Point"}
+  "geometry": {"coordinates":[-3.984961,50.798469],"type":"Point"}
 }

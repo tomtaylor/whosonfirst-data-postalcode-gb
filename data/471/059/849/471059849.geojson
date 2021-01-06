@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.425426,55.015838,-1.425426,55.015838",
-    "geom:latitude": 55.015838,
-    "geom:longitude": -1.425426,
+    "geom:bbox": "-1.425364,55.015802,-1.425364,55.015802",
+    "geom:latitude": 55.015802,
+    "geom:longitude": -1.425364,
     "gp:parent_id": "30554",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,11 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
       85633159, 
       1360699037, 
       1360817045, 
-      1126021593, 
-      404227469, 
-      1360698601
+      1126021593
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,19 +31,18 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701198,
-    "wof:geomhash": "5269852b8eb48f470ef2cc33a9f3103c",
+    "wof:geomhash": "2c3620957153b67e3dd6f29bef1e4c23",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360699037,
         "localadmin_id": 1360817045,
         "locality_id": 1126021593,
-        "macroregion_id": 404227469,
-        "region_id": 1360698601
+        "macroregion_id": 404227469
       }
     ],
     "wof:id": 471059849,
-    "wof:lastmodified": 1583786334,
+    "wof:lastmodified": 1609870588,
     "wof:name": "NE30 4AZ",
     "wof:parent_id": 101751655,
     "wof:placetype": "postalcode",
@@ -54,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.425426, 
-    55.015838, 
-    -1.425426, 
-    55.015838
+    -1.425364, 
+    55.015802, 
+    -1.425364, 
+    55.015802
   ],
-  "geometry": {"coordinates":[-1.425426,55.015838],"type":"Point"}
+  "geometry": {"coordinates":[-1.425364,55.015802],"type":"Point"}
 }

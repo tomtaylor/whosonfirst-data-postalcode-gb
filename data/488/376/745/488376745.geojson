@@ -6,9 +6,9 @@
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.218011,51.511036,-0.218011,51.511036",
-    "geom:latitude": 51.511036,
-    "geom:longitude": -0.218011,
+    "geom:bbox": "-0.219150,51.511027,-0.219150,51.511027",
+    "geom:latitude": 51.511027,
+    "geom:longitude": -0.21915,
     "gp:parent_id": "12695809",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -20,12 +20,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      101750367, 
       404227469, 
       85789533, 
       1360698645, 
-      1158857317, 
-      85633159, 
-      101750367
+      1158857317
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701386,
-    "wof:geomhash": "f0664b7a055a4d609705e98370b6f892",
+    "wof:geomhash": "682aec11cb370b51e4cea569956687c5",
     "wof:hierarchy": [
       {
         "borough_id": 1158857317,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 488376745,
-    "wof:lastmodified": 1595733189,
+    "wof:lastmodified": 1609888912,
     "wof:name": "W11 4AR",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -55,10 +55,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.218011, 
-    51.511036, 
-    -0.218011, 
-    51.511036
+    -0.21915, 
+    51.511027, 
+    -0.21915, 
+    51.511027
   ],
-  "geometry": {"coordinates":[-0.218011,51.511036],"type":"Point"}
+  "geometry": {"coordinates":[-0.21915,51.511027],"type":"Point"}
 }

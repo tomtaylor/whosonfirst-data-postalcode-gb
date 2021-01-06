@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.440480,55.011884,-1.440480,55.011884",
-    "geom:latitude": 55.011884,
-    "geom:longitude": -1.44048,
+    "geom:bbox": "-1.440370,55.011819,-1.440370,55.011819",
+    "geom:latitude": 55.011819,
+    "geom:longitude": -1.44037,
     "gp:parent_id": "30554",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699037, 
-      1360817045, 
       1126021593, 
       404227469, 
       1360698601, 
-      85633159
+      85633159, 
+      1360699037, 
+      1360817045
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701196,
-    "wof:geomhash": "08e5f7c79d41354acd6ef6fe5112e46f",
+    "wof:geomhash": "21a61eaabc02ca9f6780ccd6c6d07c89",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471058759,
-    "wof:lastmodified": 1583786332,
+    "wof:lastmodified": 1609870536,
     "wof:name": "NE30 1BZ",
     "wof:parent_id": 101751649,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.44048, 
-    55.011884, 
-    -1.44048, 
-    55.011884
+    -1.44037, 
+    55.011819, 
+    -1.44037, 
+    55.011819
   ],
-  "geometry": {"coordinates":[-1.44048,55.011884],"type":"Point"}
+  "geometry": {"coordinates":[-1.44037,55.011819],"type":"Point"}
 }

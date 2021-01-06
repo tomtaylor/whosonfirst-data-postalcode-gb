@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.089332,53.129598,-3.089332,53.129598",
-    "geom:latitude": 53.129598,
-    "geom:longitude": -3.089332,
+    "geom:bbox": "-3.089073,53.129437,-3.089073,53.129437",
+    "geom:latitude": 53.129437,
+    "geom:longitude": -3.089073,
     "gp:parent_id": "38156",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      404227475, 
       1360698637, 
       85633159, 
       1360698799, 
       404443651, 
-      1360711547, 
-      404227475
+      1360711547
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701526,
-    "wof:geomhash": "00271e5a4eabaa560f6d0ec55a071dae",
+    "wof:geomhash": "d07fd4fccc1b19c0370ea6f1837d8b01",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488513891,
-    "wof:lastmodified": 1583786726,
+    "wof:lastmodified": 1609894918,
     "wof:name": "CH7 4RQ",
     "wof:parent_id": 404443651,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.089332, 
-    53.129598, 
-    -3.089332, 
-    53.129598
+    -3.089073, 
+    53.129437, 
+    -3.089073, 
+    53.129437
   ],
-  "geometry": {"coordinates":[-3.089332,53.129598],"type":"Point"}
+  "geometry": {"coordinates":[-3.089073,53.129437],"type":"Point"}
 }

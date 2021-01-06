@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.470403,53.365321,-1.470403,53.365321",
-    "geom:latitude": 53.365321,
-    "geom:longitude": -1.470403,
+    "geom:bbox": "-1.470417,53.365339,-1.470417,53.365339",
+    "geom:latitude": 53.365339,
+    "geom:longitude": -1.470417,
     "gp:parent_id": "34503",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      101750529, 
       404227469, 
       85793113, 
       1360698591, 
       85633159, 
-      1360699075
+      1360699075, 
+      101750529
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701684,
-    "wof:geomhash": "d1a833d24927b760b434b0cf35cc48cb",
+    "wof:geomhash": "3443e7b86a9815f7ccc484fcacbac077",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471635165,
-    "wof:lastmodified": 1583786857,
+    "wof:lastmodified": 1609899907,
     "wof:name": "S2 4DU",
     "wof:parent_id": 101750529,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.470403, 
-    53.365321, 
-    -1.470403, 
-    53.365321
+    -1.470417, 
+    53.365339, 
+    -1.470417, 
+    53.365339
   ],
-  "geometry": {"coordinates":[-1.470403,53.365321],"type":"Point"}
+  "geometry": {"coordinates":[-1.470417,53.365339],"type":"Point"}
 }

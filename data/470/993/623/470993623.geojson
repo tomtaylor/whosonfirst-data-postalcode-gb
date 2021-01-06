@@ -6,9 +6,9 @@
     "edtf:inception": "1993-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.093120,51.542786,-0.093120,51.542786",
-    "geom:latitude": 51.542786,
-    "geom:longitude": -0.09312,
+    "geom:bbox": "-0.093288,51.542906,-0.093288,51.542906",
+    "geom:latitude": 51.542906,
+    "geom:longitude": -0.093288,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      101750367, 
       404227469, 
       85860389, 
       1360698645, 
-      1158857275, 
-      85633159, 
-      101750367
+      1158857275
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701378,
-    "wof:geomhash": "fe246c612c861f64bf666f2864f92813",
+    "wof:geomhash": "77b30e228a8a848f6da222a421eda5bc",
     "wof:hierarchy": [
       {
         "borough_id": 1158857275,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470993623,
-    "wof:lastmodified": 1595719228,
+    "wof:lastmodified": 1609878944,
     "wof:name": "N1 2FF",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.09312, 
-    51.542786, 
-    -0.09312, 
-    51.542786
+    -0.093288, 
+    51.542906, 
+    -0.093288, 
+    51.542906
   ],
-  "geometry": {"coordinates":[-0.09312,51.542786],"type":"Point"}
+  "geometry": {"coordinates":[-0.093288,51.542906],"type":"Point"}
 }

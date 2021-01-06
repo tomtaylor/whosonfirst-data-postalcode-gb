@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-10-01",
     "geom:area": 0,
-    "geom:bbox": "-1.679351,52.811357,-1.679351,52.811357",
-    "geom:latitude": 52.811357,
-    "geom:longitude": -1.679351,
+    "geom:bbox": "-1.679275,52.811591,-1.679275,52.811591",
+    "geom:latitude": 52.811591,
+    "geom:longitude": -1.679275,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698947, 
       404448999, 
       1360757789, 
       404227469, 
-      1360698593
+      1360698593, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583800044,
-    "wof:geomhash": "eb474a9b0b4dd262769e7da101694463",
+    "wof:geomhash": "6d270ef7d73e168726e76afd5042f296",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712708129,
-    "wof:lastmodified": 1583800044,
+    "wof:lastmodified": 1609872905,
     "wof:name": "DE13 9EY",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.679351, 
-    52.811357, 
-    -1.679351, 
-    52.811357
+    -1.679275, 
+    52.811591, 
+    -1.679275, 
+    52.811591
   ],
-  "geometry": {"coordinates":[-1.679351,52.811357],"type":"Point"}
+  "geometry": {"coordinates":[-1.679275,52.811591],"type":"Point"}
 }

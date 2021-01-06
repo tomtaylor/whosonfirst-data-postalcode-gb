@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.548435,55.063632,-1.548435,55.063632",
-    "geom:latitude": 55.063632,
-    "geom:longitude": -1.548435,
+    "geom:bbox": "-1.547851,55.063989,-1.547851,55.063989",
+    "geom:latitude": 55.063989,
+    "geom:longitude": -1.547851,
     "gp:parent_id": "34335",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      1360755805, 
-      404227469, 
-      1360698727, 
       85633159, 
       1360698769, 
-      404431359
+      404431359, 
+      1360755805, 
+      404227469, 
+      1360698727
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701165,
-    "wof:geomhash": "e3c887f3676ce25471f356f3ab0e2852",
+    "wof:geomhash": "bf4a4d2a86b0a758144f0a54229ebbe5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471045875,
-    "wof:lastmodified": 1583786298,
+    "wof:lastmodified": 1609869945,
     "wof:name": "NE23 7EF",
     "wof:parent_id": 404431359,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.548435, 
-    55.063632, 
-    -1.548435, 
-    55.063632
+    -1.547851, 
+    55.063989, 
+    -1.547851, 
+    55.063989
   ],
-  "geometry": {"coordinates":[-1.548435,55.063632],"type":"Point"}
+  "geometry": {"coordinates":[-1.547851,55.063989],"type":"Point"}
 }

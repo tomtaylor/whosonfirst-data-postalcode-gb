@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.584594,52.938966,-1.584594,52.938966",
-    "geom:latitude": 52.938966,
-    "geom:longitude": -1.584594,
+    "geom:bbox": "-1.584831,52.939074,-1.584831,52.939074",
+    "geom:latitude": 52.939074,
+    "geom:longitude": -1.584831,
     "gp:parent_id": "25344",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      404440041, 
+      1125886245, 
       404227469, 
       1360698539, 
       85633159, 
-      1360698765, 
-      404440041, 
-      1125886245
+      1360698765
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701512,
-    "wof:geomhash": "257add5599f8e23c89b9736878ac3acc",
+    "wof:geomhash": "1cc936b5e727504a593be3d351e74a9a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454356611,
-    "wof:lastmodified": 1595714664,
+    "wof:lastmodified": 1609885326,
     "wof:name": "DE6 4LS",
     "wof:parent_id": 404440041,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.584594, 
-    52.938966, 
-    -1.584594, 
-    52.938966
+    -1.584831, 
+    52.939074, 
+    -1.584831, 
+    52.939074
   ],
-  "geometry": {"coordinates":[-1.584594,52.938966],"type":"Point"}
+  "geometry": {"coordinates":[-1.584831,52.939074],"type":"Point"}
 }

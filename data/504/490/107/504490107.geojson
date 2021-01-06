@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.502194,53.210100,-3.502194,53.210100",
-    "geom:latitude": 53.2101,
-    "geom:longitude": -3.502194,
+    "geom:bbox": "-3.502297,53.210045,-3.502297,53.210045",
+    "geom:latitude": 53.210045,
+    "geom:longitude": -3.502297,
     "gp:parent_id": "27046",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1125992051, 
-      404227475, 
-      1360698637, 
       85633159, 
       1360698739, 
-      404439977
+      404439977, 
+      1125992051, 
+      404227475, 
+      1360698637
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701372,
-    "wof:geomhash": "3b0e12658de8852286c538f0028e3a57",
+    "wof:geomhash": "4126224aa29376119ade8305ca843f2a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504490107,
-    "wof:lastmodified": 1583786489,
+    "wof:lastmodified": 1609874977,
     "wof:name": "LL16 5EB",
     "wof:parent_id": 404439977,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.502194, 
-    53.2101, 
-    -3.502194, 
-    53.2101
+    -3.502297, 
+    53.210045, 
+    -3.502297, 
+    53.210045
   ],
-  "geometry": {"coordinates":[-3.502194,53.2101],"type":"Point"}
+  "geometry": {"coordinates":[-3.502297,53.210045],"type":"Point"}
 }

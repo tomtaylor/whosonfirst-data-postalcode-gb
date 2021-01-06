@@ -2,8 +2,8 @@
   "id": 1712845499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2020-04-01",
-    "edtf:inception": "2019-03-01",
+    "edtf:cessation": "2020-10-01",
+    "edtf:inception": "2020-07-01",
     "geom:area": 0,
     "geom:bbox": "0.008840,51.564033,0.008840,51.564033",
     "geom:latitude": 51.564033,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698645, 
+      1158857287, 
       85633159, 
       101750367, 
       404227469, 
-      85793307, 
-      1360698645, 
-      1158857287
+      85793307
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712845499,
-    "wof:lastmodified": 1595713509,
+    "wof:lastmodified": 1609875071,
     "wof:name": "E11 9GL",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

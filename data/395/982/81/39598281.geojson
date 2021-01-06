@@ -2,7 +2,7 @@
   "id": 39598281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-07-01",
     "edtf:inception": "2018-06-01",
     "geom:area": 0,
     "geom:bbox": "-4.276980,55.788967,-4.276980,55.788967",
@@ -10,7 +10,7 @@
     "geom:longitude": -4.27698,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "S92000003",
     "os:county_code": "S99999999",
     "os:district_code": "S12000011",
@@ -18,12 +18,12 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698699, 
+      85633159, 
       1360699117, 
       404435263, 
       404227471, 
-      85792535, 
-      1360698699, 
-      85633159
+      85792535
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 39598281,
-    "wof:lastmodified": 1583803219,
+    "wof:lastmodified": 1609868629,
     "wof:name": "G76 6BJ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

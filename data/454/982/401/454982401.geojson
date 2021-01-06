@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.156793,54.114058,-3.156793,54.114058",
-    "geom:latitude": 54.114058,
-    "geom:longitude": -3.156793,
+    "geom:bbox": "-3.156687,54.114643,-3.156687,54.114643",
+    "geom:latitude": 54.114643,
+    "geom:longitude": -3.156687,
     "gp:parent_id": "26038",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
       1360698721, 
       85633159, 
       1360698877, 
       404430963, 
-      1125902791, 
-      404227469
+      1125902791
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701765,
-    "wof:geomhash": "1797d4414db75467c42ecffb81f9f457",
+    "wof:geomhash": "c26eed6296f7c368015cae8cd13e97af",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454982401,
-    "wof:lastmodified": 1583786902,
+    "wof:lastmodified": 1609905606,
     "wof:name": "LA12 0QY",
     "wof:parent_id": 404430963,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.156793, 
-    54.114058, 
-    -3.156793, 
-    54.114058
+    -3.156687, 
+    54.114643, 
+    -3.156687, 
+    54.114643
   ],
-  "geometry": {"coordinates":[-3.156793,54.114058],"type":"Point"}
+  "geometry": {"coordinates":[-3.156687,54.114643],"type":"Point"}
 }

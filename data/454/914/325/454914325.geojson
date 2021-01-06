@@ -19,11 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698599, 
-      85633159, 
-      1360698887, 
       1126029899, 
-      404227469
+      404227469, 
+      1360698599, 
+      1158857303, 
+      85633159, 
+      1360698887
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -34,6 +35,7 @@
     "wof:geomhash": "b18624c3dc56df9e3a12d88efe619ba3",
     "wof:hierarchy": [
       {
+        "borough_id": 1158857303,
         "country_id": 85633159,
         "county_id": 1360698887,
         "locality_id": 1126029899,
@@ -42,7 +44,7 @@
       }
     ],
     "wof:id": 454914325,
-    "wof:lastmodified": 1583786883,
+    "wof:lastmodified": 1609904767,
     "wof:name": "KT17 2RR",
     "wof:parent_id": 101914077,
     "wof:placetype": "postalcode",

@@ -2,7 +2,7 @@
   "id": 1160999574,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-08-01",
     "edtf:inception": "2019-07-01",
     "geom:area": 0,
     "geom:bbox": "-2.272463,51.036535,-2.272463,51.036535",
@@ -10,7 +10,7 @@
     "geom:longitude": -2.272463,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000059",
@@ -18,12 +18,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698745, 
       404444831, 
       1277104009, 
       404227469, 
       1360698545, 
-      85633159
+      85633159, 
+      1360698745
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160999574,
-    "wof:lastmodified": 1583799404,
+    "wof:lastmodified": 1609874313,
     "wof:name": "SP8 9AX",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

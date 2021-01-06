@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.334415,51.297844,-0.334415,51.297844",
-    "geom:latitude": 51.297844,
-    "geom:longitude": -0.334415,
+    "geom:bbox": "-0.334341,51.298039,-0.334341,51.298039",
+    "geom:latitude": 51.298039,
+    "geom:longitude": -0.334341,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698887, 
       404431517, 
       1360756083, 
       404227469, 
-      1360698599, 
-      85633159, 
-      1360698887
+      1360698599
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701757,
-    "wof:geomhash": "b8aabffa99b431053af370961a890147",
+    "wof:geomhash": "d2409426ae0d87c963f549d881f55977",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454922355,
-    "wof:lastmodified": 1583786884,
+    "wof:lastmodified": 1609905049,
     "wof:name": "KT22 7TB",
     "wof:parent_id": 101853509,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.334415, 
-    51.297844, 
-    -0.334415, 
-    51.297844
+    -0.334341, 
+    51.298039, 
+    -0.334341, 
+    51.298039
   ],
-  "geometry": {"coordinates":[-0.334415,51.297844],"type":"Point"}
+  "geometry": {"coordinates":[-0.334341,51.298039],"type":"Point"}
 }

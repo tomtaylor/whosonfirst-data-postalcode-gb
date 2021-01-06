@@ -20,12 +20,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      101750367, 
-      404227469, 
       85792283, 
       1360698645, 
-      1158857267
+      1158857265, 
+      85633159, 
+      101750367, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -36,7 +36,7 @@
     "wof:geomhash": "089c3934e187fe985353cc41bd21b55a",
     "wof:hierarchy": [
       {
-        "borough_id": 1158857267,
+        "borough_id": 1158857265,
         "country_id": 85633159,
         "locality_id": 101750367,
         "macroregion_id": 404227469,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 471253487,
-    "wof:lastmodified": 1595721167,
+    "wof:lastmodified": 1609882677,
     "wof:name": "NW10 7RE",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",

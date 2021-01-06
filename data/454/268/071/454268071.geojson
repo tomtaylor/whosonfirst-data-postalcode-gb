@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.451639,52.287235,-1.451639,52.287235",
-    "geom:latitude": 52.287235,
-    "geom:longitude": -1.451639,
+    "geom:bbox": "-1.451551,52.287207,-1.451551,52.287207",
+    "geom:latitude": 52.287207,
+    "geom:longitude": -1.451551,
     "gp:parent_id": "30858",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698891, 
       404436791, 
       1125765073, 
       404227469, 
-      1360698603
+      1360698603, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701426,
-    "wof:geomhash": "5cd4325d4d01f442f6f88d35e2db7984",
+    "wof:geomhash": "afac8d0eb4a8ce971e4c6b693ff87e0b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454268071,
-    "wof:lastmodified": 1583786558,
+    "wof:lastmodified": 1609880955,
     "wof:name": "CV33 9AZ",
     "wof:parent_id": 404436791,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.451639, 
-    52.287235, 
-    -1.451639, 
-    52.287235
+    -1.451551, 
+    52.287207, 
+    -1.451551, 
+    52.287207
   ],
-  "geometry": {"coordinates":[-1.451639,52.287235],"type":"Point"}
+  "geometry": {"coordinates":[-1.451551,52.287207],"type":"Point"}
 }

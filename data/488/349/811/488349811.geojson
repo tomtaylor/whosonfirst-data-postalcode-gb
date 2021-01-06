@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2007-07-01",
     "geom:area": 0,
-    "geom:bbox": "-0.182292,51.135027,-0.182292,51.135027",
-    "geom:latitude": 51.135027,
-    "geom:longitude": -0.182292,
+    "geom:bbox": "-0.181850,51.135020,-0.181850,51.135020",
+    "geom:latitude": 51.13502,
+    "geom:longitude": -0.18185,
     "gp:parent_id": "12696106",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698607, 
       85633159, 
       1360698757, 
-      101750321
+      101750321, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701361,
-    "wof:geomhash": "83e08fc2761aa6fe785d8b92d00bea32",
+    "wof:geomhash": "963f64bc014c3823a2d03b9c9ccd1e05",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488349811,
-    "wof:lastmodified": 1583786560,
+    "wof:lastmodified": 1609887725,
     "wof:name": "RH10 9DF",
     "wof:parent_id": 101750321,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.182292, 
-    51.135027, 
-    -0.182292, 
-    51.135027
+    -0.18185, 
+    51.13502, 
+    -0.18185, 
+    51.13502
   ],
-  "geometry": {"coordinates":[-0.182292,51.135027],"type":"Point"}
+  "geometry": {"coordinates":[-0.18185,51.13502],"type":"Point"}
 }

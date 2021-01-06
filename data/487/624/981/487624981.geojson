@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1994-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.297395,50.954062,-1.297395,50.954062",
-    "geom:latitude": 50.954062,
-    "geom:longitude": -1.297395,
+    "geom:bbox": "-1.297266,50.954115,-1.297266,50.954115",
+    "geom:latitude": 50.954115,
+    "geom:longitude": -1.297266,
     "gp:parent_id": "23973",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360759321, 
-      404227469, 
       1360698557, 
       85633159, 
       1360698827, 
-      404453571
+      404453571, 
+      1360759321, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701092,
-    "wof:geomhash": "dec86f7a2517701833c4922b22930986",
+    "wof:geomhash": "eedf82137ca965d89574e95594bef046",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487624981,
-    "wof:lastmodified": 1583786188,
+    "wof:lastmodified": 1609869591,
     "wof:name": "SO50 7DJ",
     "wof:parent_id": 404453571,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.297395, 
-    50.954062, 
-    -1.297395, 
-    50.954062
+    -1.297266, 
+    50.954115, 
+    -1.297266, 
+    50.954115
   ],
-  "geometry": {"coordinates":[-1.297395,50.954062],"type":"Point"}
+  "geometry": {"coordinates":[-1.297266,50.954115],"type":"Point"}
 }

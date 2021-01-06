@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-12-01",
     "geom:area": 0,
-    "geom:bbox": "-3.440459,50.911488,-3.440459,50.911488",
-    "geom:latitude": 50.911488,
-    "geom:longitude": -3.440459,
+    "geom:bbox": "-3.440661,50.911593,-3.440661,50.911593",
+    "geom:latitude": 50.911593,
+    "geom:longitude": -3.440661,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1260212549, 
-      404227469, 
       1360698541, 
       85633159, 
       1360699081, 
-      404443259
+      404443259, 
+      1260212549, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583786963,
-    "wof:geomhash": "a10d01660a8dfee96d763f7b66e7036d",
+    "wof:geomhash": "94ea2877afad5874e139ca64457822c1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 38124873,
-    "wof:lastmodified": 1583786963,
+    "wof:lastmodified": 1609868449,
     "wof:name": "EX16 4FN",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.440459, 
-    50.911488, 
-    -3.440459, 
-    50.911488
+    -3.440661, 
+    50.911593, 
+    -3.440661, 
+    50.911593
   ],
-  "geometry": {"coordinates":[-3.440459,50.911488],"type":"Point"}
+  "geometry": {"coordinates":[-3.440661,50.911593],"type":"Point"}
 }

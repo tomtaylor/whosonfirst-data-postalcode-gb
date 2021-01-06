@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2010-03-01",
     "geom:area": 0,
-    "geom:bbox": "-0.326521,53.747553,-0.326521,53.747553",
-    "geom:latitude": 53.747553,
-    "geom:longitude": -0.326521,
+    "geom:bbox": "-0.326991,53.747542,-0.326991,53.747542",
+    "geom:latitude": 53.747542,
+    "geom:longitude": -0.326991,
     "gp:parent_id": "25211",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698951, 
       101750561, 
       404227469, 
       1360698547, 
-      85633159, 
-      1360698951
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701564,
-    "wof:geomhash": "8cd2bb1ac2e658857febf13f6a1021ad",
+    "wof:geomhash": "29c84af4abc89b21413d98043fb67bba",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 437809821,
-    "wof:lastmodified": 1595715109,
+    "wof:lastmodified": 1609891201,
     "wof:name": "HU9 1AX",
     "wof:parent_id": 101750561,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.326521, 
-    53.747553, 
-    -0.326521, 
-    53.747553
+    -0.326991, 
+    53.747542, 
+    -0.326991, 
+    53.747542
   ],
-  "geometry": {"coordinates":[-0.326521,53.747553],"type":"Point"}
+  "geometry": {"coordinates":[-0.326991,53.747542],"type":"Point"}
 }

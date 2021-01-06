@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1994-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.387609,50.909058,-1.387609,50.909058",
-    "geom:latitude": 50.909058,
-    "geom:longitude": -1.387609,
+    "geom:bbox": "-1.387028,50.908911,-1.387028,50.908911",
+    "geom:latitude": 50.908911,
+    "geom:longitude": -1.387028,
     "gp:parent_id": "35356",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698557, 
       85633159, 
       1360698907, 
       101750311, 
-      404227469
+      404227469, 
+      1360698557
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701074,
-    "wof:geomhash": "138df055122443f94dca199c5a448b78",
+    "wof:geomhash": "4c89e4da46958a3ec412be60edab865d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 487592063,
-    "wof:lastmodified": 1583786172,
+    "wof:lastmodified": 1609868705,
     "wof:name": "SO14 5QR",
     "wof:parent_id": 101750311,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.387609, 
-    50.909058, 
-    -1.387609, 
-    50.909058
+    -1.387028, 
+    50.908911, 
+    -1.387028, 
+    50.908911
   ],
-  "geometry": {"coordinates":[-1.387609,50.909058],"type":"Point"}
+  "geometry": {"coordinates":[-1.387028,50.908911],"type":"Point"}
 }

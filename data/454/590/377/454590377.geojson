@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.877221,51.105141,-3.877221,51.105141",
-    "geom:latitude": 51.105141,
+    "geom:bbox": "-3.877221,51.105132,-3.877221,51.105132",
+    "geom:latitude": 51.105132,
     "geom:longitude": -3.877221,
     "gp:parent_id": "13722",
     "iso:country": "GB",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698541, 
       85633159, 
       1360699081, 
       404434307, 
-      1225879927
+      1225879927, 
+      404227469, 
+      1360698541
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701652,
-    "wof:geomhash": "f3292c1779a5911cceb85dc6c66020e3",
+    "wof:geomhash": "83d201b115596b01c61672d105321718",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454590377,
-    "wof:lastmodified": 1583786785,
+    "wof:lastmodified": 1609895802,
     "wof:name": "EX32 7QG",
     "wof:parent_id": 404434307,
     "wof:placetype": "postalcode",
@@ -55,9 +55,9 @@
   },
   "bbox": [
     -3.877221, 
-    51.105141, 
+    51.105132, 
     -3.877221, 
-    51.105141
+    51.105132
   ],
-  "geometry": {"coordinates":[-3.877221,51.105141],"type":"Point"}
+  "geometry": {"coordinates":[-3.877221,51.105132],"type":"Point"}
 }

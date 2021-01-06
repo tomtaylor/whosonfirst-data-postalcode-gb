@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.777981,55.330695,-4.777981,55.330695",
-    "geom:latitude": 55.330695,
-    "geom:longitude": -4.777981,
+    "geom:bbox": "-4.778035,55.330334,-4.778035,55.330334",
+    "geom:latitude": 55.330334,
+    "geom:longitude": -4.778035,
     "gp:parent_id": "12696209",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698697, 
+      85633159, 
       1360699021, 
       404430343, 
-      404227471, 
-      1360698697, 
-      85633159
+      404227471
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701315,
-    "wof:geomhash": "f5cb168a79e397831c6b7dacef66ba5f",
+    "wof:geomhash": "fbe2a9a71f5e47d6e21e6e54a8d1533c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504451579,
-    "wof:lastmodified": 1583786433,
+    "wof:lastmodified": 1609872100,
     "wof:name": "KA19 8JB",
     "wof:parent_id": 404430343,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.777981, 
-    55.330695, 
-    -4.777981, 
-    55.330695
+    -4.778035, 
+    55.330334, 
+    -4.778035, 
+    55.330334
   ],
-  "geometry": {"coordinates":[-4.777981,55.330695],"type":"Point"}
+  "geometry": {"coordinates":[-4.778035,55.330334],"type":"Point"}
 }

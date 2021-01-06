@@ -2,7 +2,7 @@
   "id": 874504101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-09-01",
     "edtf:inception": "2015-06-01",
     "geom:area": 0,
     "geom:bbox": "-2.099826,53.541494,-2.099826,53.541494",
@@ -10,7 +10,7 @@
     "geom:longitude": -2.099826,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E08000004",
@@ -18,11 +18,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698555, 
       85633159, 
       1360698953, 
       1126030435, 
-      404227469, 
-      1360698555
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 874504101,
-    "wof:lastmodified": 1583786393,
+    "wof:lastmodified": 1609872481,
     "wof:name": "OL1 9NU",
     "wof:parent_id": 101913965,
     "wof:placetype": "postalcode",

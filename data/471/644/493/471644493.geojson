@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1997-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.627363,53.486521,-1.627363,53.486521",
-    "geom:latitude": 53.486521,
-    "geom:longitude": -1.627363,
+    "geom:bbox": "-1.627620,53.486324,-1.627620,53.486324",
+    "geom:latitude": 53.486324,
+    "geom:longitude": -1.62762,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699075, 
       404439461, 
       101872003, 
       404227469, 
-      1360698591
+      1360698591, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701689,
-    "wof:geomhash": "72bd822fd9f6516f2391538b66e70c1b",
+    "wof:geomhash": "9239cde34b38ab7c9f750c5c0b960838",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471644493,
-    "wof:lastmodified": 1583786859,
+    "wof:lastmodified": 1609900076,
     "wof:name": "S36 4GT",
     "wof:parent_id": 404439461,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.627363, 
-    53.486521, 
-    -1.627363, 
-    53.486521
+    -1.62762, 
+    53.486324, 
+    -1.62762, 
+    53.486324
   ],
-  "geometry": {"coordinates":[-1.627363,53.486521],"type":"Point"}
+  "geometry": {"coordinates":[-1.62762,53.486324],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-09-01",
     "geom:area": 0,
-    "geom:bbox": "-1.426333,54.738018,-1.426333,54.738018",
-    "geom:latitude": 54.738018,
-    "geom:longitude": -1.426333,
+    "geom:bbox": "-1.426179,54.737954,-1.426179,54.737954",
+    "geom:latitude": 54.737954,
+    "geom:longitude": -1.426179,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698621, 
       85633159, 
       1360699055, 
       404448221, 
       1126050935, 
-      404227469
+      404227469, 
+      1360698621
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583793765,
-    "wof:geomhash": "cc4ec67154c7a4b3b75051b729361d23",
+    "wof:geomhash": "8e3be9a9e076f2d57599fc1d9840ce19",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160872372,
-    "wof:lastmodified": 1595711120,
+    "wof:lastmodified": 1609871115,
     "wof:name": "DH6 3AX",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.426333, 
-    54.738018, 
-    -1.426333, 
-    54.738018
+    -1.426179, 
+    54.737954, 
+    -1.426179, 
+    54.737954
   ],
-  "geometry": {"coordinates":[-1.426333,54.738018],"type":"Point"}
+  "geometry": {"coordinates":[-1.426179,54.737954],"type":"Point"}
 }

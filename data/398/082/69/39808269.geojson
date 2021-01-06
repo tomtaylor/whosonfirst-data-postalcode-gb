@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2016-06-01",
     "geom:area": 0,
-    "geom:bbox": "-3.168613,55.882317,-3.168613,55.882317",
-    "geom:latitude": 55.882317,
-    "geom:longitude": -3.168613,
+    "geom:bbox": "-3.168055,55.882898,-3.168055,55.882898",
+    "geom:latitude": 55.882898,
+    "geom:longitude": -3.168055,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404436513, 
-      404227471, 
       85787337, 
       1360698677, 
       85633159, 
-      1360698791
+      1360698791, 
+      404436513, 
+      404227471
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583805601,
-    "wof:geomhash": "0684467580c2fdec0a4b9c15ea642e96",
+    "wof:geomhash": "ed55f17b713f490e14935422b68d314c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 39808269,
-    "wof:lastmodified": 1583805601,
+    "wof:lastmodified": 1609868621,
     "wof:name": "EH20 9HW",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.168613, 
-    55.882317, 
-    -3.168613, 
-    55.882317
+    -3.168055, 
+    55.882898, 
+    -3.168055, 
+    55.882898
   ],
-  "geometry": {"coordinates":[-3.168613,55.882317],"type":"Point"}
+  "geometry": {"coordinates":[-3.168055,55.882898],"type":"Point"}
 }

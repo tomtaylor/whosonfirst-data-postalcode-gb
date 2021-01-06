@@ -2,7 +2,7 @@
   "id": 488323623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-06-01",
     "edtf:inception": "2020-02-01",
     "geom:area": 0,
     "geom:bbox": "-0.689958,52.030568,-0.689958,52.030568",
@@ -11,7 +11,7 @@
     "gp:parent_id": "29062",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000042",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698533, 
       85633159, 
       1360698913, 
       404436079, 
-      1360758211
+      1360758211, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488323623,
-    "wof:lastmodified": 1595732255,
+    "wof:lastmodified": 1609886498,
     "wof:name": "MK10 1PG",
     "wof:parent_id": 101750433,
     "wof:placetype": "postalcode",

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1999-06-01",
     "geom:area": 0,
-    "geom:bbox": "-3.027513,53.260320,-3.027513,53.260320",
-    "geom:latitude": 53.26032,
-    "geom:longitude": -3.027513,
+    "geom:bbox": "-3.029219,53.260224,-3.029219,53.260224",
+    "geom:latitude": 53.260224,
+    "geom:longitude": -3.029219,
     "gp:parent_id": "14670",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698537, 
       85633159, 
       1360698923, 
-      101750513
+      101750513, 
+      404227469, 
+      1360698537
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701271,
-    "wof:geomhash": "df47cad41e8fdebbafeeb38fddc235e8",
+    "wof:geomhash": "61e52a38dba173577df73908e76590b1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454125575,
-    "wof:lastmodified": 1583786422,
+    "wof:lastmodified": 1609872321,
     "wof:name": "CH64 5SH",
     "wof:parent_id": 404445445,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.027513, 
-    53.26032, 
-    -3.027513, 
-    53.26032
+    -3.029219, 
+    53.260224, 
+    -3.029219, 
+    53.260224
   ],
-  "geometry": {"coordinates":[-3.027513,53.26032],"type":"Point"}
+  "geometry": {"coordinates":[-3.029219,53.260224],"type":"Point"}
 }

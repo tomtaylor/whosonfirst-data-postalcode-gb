@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1983-03-01",
     "geom:area": 0,
-    "geom:bbox": "-2.103481,53.549956,-2.103481,53.549956",
-    "geom:latitude": 53.549956,
-    "geom:longitude": -2.103481,
+    "geom:bbox": "-2.102782,53.547943,-2.102782,53.547943",
+    "geom:latitude": 53.547943,
+    "geom:longitude": -2.102782,
     "gp:parent_id": "31017",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698555, 
       85633159, 
       1360698953, 
       1126030435, 
-      404227469
+      404227469, 
+      1360698555
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701456,
-    "wof:geomhash": "e37cb4e7ca34b5569bf70dc930733349",
+    "wof:geomhash": "3aba1215b4000bb663627a6e2ea86d21",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 471276631,
-    "wof:lastmodified": 1583786615,
+    "wof:lastmodified": 1609883987,
     "wof:name": "OL1 3JA",
     "wof:parent_id": 101913965,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.103481, 
-    53.549956, 
-    -2.103481, 
-    53.549956
+    -2.102782, 
+    53.547943, 
+    -2.102782, 
+    53.547943
   ],
-  "geometry": {"coordinates":[-2.103481,53.549956],"type":"Point"}
+  "geometry": {"coordinates":[-2.102782,53.547943],"type":"Point"}
 }

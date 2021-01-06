@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.746920,53.910391,-1.746920,53.910391",
-    "geom:latitude": 53.910391,
-    "geom:longitude": -1.74692,
+    "geom:bbox": "-1.745660,53.910431,-1.745660,53.910431",
+    "geom:latitude": 53.910431,
+    "geom:longitude": -1.74566,
     "gp:parent_id": "14562",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360757569, 
-      404227469, 
-      1360698609, 
       85633159, 
       1360698963, 
-      404451971
+      404451971, 
+      1360757569, 
+      404227469, 
+      1360698609
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701085,
-    "wof:geomhash": "a2aef4c3ab3091f10fc272a3178b81a8",
+    "wof:geomhash": "437f0825f96052261937b781656d32a9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470834409,
-    "wof:lastmodified": 1583786200,
+    "wof:lastmodified": 1609869137,
     "wof:name": "LS29 7EJ",
     "wof:parent_id": 404451971,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.74692, 
-    53.910391, 
-    -1.74692, 
-    53.910391
+    -1.74566, 
+    53.910431, 
+    -1.74566, 
+    53.910431
   ],
-  "geometry": {"coordinates":[-1.74692,53.910391],"type":"Point"}
+  "geometry": {"coordinates":[-1.74566,53.910431],"type":"Point"}
 }

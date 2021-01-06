@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.611631,55.067115,-3.611631,55.067115",
-    "geom:latitude": 55.067115,
-    "geom:longitude": -3.611631,
+    "geom:bbox": "-3.611615,55.067116,-3.611615,55.067116",
+    "geom:latitude": 55.067116,
+    "geom:longitude": -3.611615,
     "gp:parent_id": "12696189",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698719, 
       85633159, 
       1360699039, 
       404444245, 
-      404227471
+      404227471, 
+      1360698719
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701616,
-    "wof:geomhash": "c9bc79c802a677003c3827098e32de52",
+    "wof:geomhash": "a4a9ba90fb04ff6ef55c52acdc022aa1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488608981,
-    "wof:lastmodified": 1595735132,
+    "wof:lastmodified": 1609898701,
     "wof:name": "DG1 2RT",
     "wof:parent_id": 101873433,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.611631, 
-    55.067115, 
-    -3.611631, 
-    55.067115
+    -3.611615, 
+    55.067116, 
+    -3.611615, 
+    55.067116
   ],
-  "geometry": {"coordinates":[-3.611631,55.067115],"type":"Point"}
+  "geometry": {"coordinates":[-3.611615,55.067116],"type":"Point"}
 }

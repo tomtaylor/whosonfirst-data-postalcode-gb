@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.436060,54.171556,-1.436060,54.171556",
-    "geom:latitude": 54.171556,
+    "geom:bbox": "-1.436060,54.171502,-1.436060,54.171502",
+    "geom:latitude": 54.171502,
     "geom:longitude": -1.43606,
     "gp:parent_id": "32872",
     "iso:country": "GB",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698619, 
+      85633159, 
       1360698753, 
       404429641, 
       1360753159, 
-      404227469, 
-      1360698619, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701241,
-    "wof:geomhash": "f169ebba5815af162922fb7ca47d119a",
+    "wof:geomhash": "9c0e1e2b8f16986bc006a446e6f67018",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488259563,
-    "wof:lastmodified": 1583786463,
+    "wof:lastmodified": 1609882846,
     "wof:name": "YO7 3QB",
     "wof:parent_id": 404429641,
     "wof:placetype": "postalcode",
@@ -55,9 +55,9 @@
   },
   "bbox": [
     -1.43606, 
-    54.171556, 
+    54.171502, 
     -1.43606, 
-    54.171556
+    54.171502
   ],
-  "geometry": {"coordinates":[-1.43606,54.171556],"type":"Point"}
+  "geometry": {"coordinates":[-1.43606,54.171502],"type":"Point"}
 }

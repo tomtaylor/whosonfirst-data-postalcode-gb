@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.865232,51.557911,-0.865232,51.557911",
-    "geom:latitude": 51.557911,
-    "geom:longitude": -0.865232,
+    "geom:bbox": "-0.865146,51.557883,-0.865146,51.557883",
+    "geom:latitude": 51.557883,
+    "geom:longitude": -0.865146,
     "gp:parent_id": "22262",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1125879895, 
       404227469, 
       1360698533, 
       85633159, 
       1360698997, 
-      404450303
+      404450303, 
+      1125879895
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701674,
-    "wof:geomhash": "9d62a4904986d63ac8b0d72ddc05461a",
+    "wof:geomhash": "bf0a4ae43e04a2700bed301bb12bebbb",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471566725,
-    "wof:lastmodified": 1595723397,
+    "wof:lastmodified": 1609897124,
     "wof:name": "RG9 3BN",
     "wof:parent_id": 404450303,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.865232, 
-    51.557911, 
-    -0.865232, 
-    51.557911
+    -0.865146, 
+    51.557883, 
+    -0.865146, 
+    51.557883
   ],
-  "geometry": {"coordinates":[-0.865232,51.557911],"type":"Point"}
+  "geometry": {"coordinates":[-0.865146,51.557883],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1981-06-01",
     "geom:area": 0,
-    "geom:bbox": "-3.074920,53.563002,-3.074920,53.563002",
-    "geom:latitude": 53.563002,
-    "geom:longitude": -3.07492,
+    "geom:bbox": "-3.074551,53.563347,-3.074551,53.563347",
+    "geom:latitude": 53.563347,
+    "geom:longitude": -3.074551,
     "gp:parent_id": "26734",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698771, 
       404434063, 
       101872227, 
       404227469, 
-      1360698573
+      1360698573, 
+      85633159, 
+      1360698771
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701764,
-    "wof:geomhash": "83a471dca728c745baae8485613008ca",
+    "wof:geomhash": "ccc114a9101232b33a1bcff4cd780efc",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454964951,
-    "wof:lastmodified": 1595717917,
+    "wof:lastmodified": 1609905525,
     "wof:name": "L37 1XY",
     "wof:parent_id": 404434063,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.07492, 
-    53.563002, 
-    -3.07492, 
-    53.563002
+    -3.074551, 
+    53.563347, 
+    -3.074551, 
+    53.563347
   ],
-  "geometry": {"coordinates":[-3.07492,53.563002],"type":"Point"}
+  "geometry": {"coordinates":[-3.074551,53.563347],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.289882,55.890241,-4.289882,55.890241",
-    "geom:latitude": 55.890241,
-    "geom:longitude": -4.289882,
+    "geom:bbox": "-4.289932,55.890276,-4.289932,55.890276",
+    "geom:latitude": 55.890276,
+    "geom:longitude": -4.289932,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1175612707, 
       404227471, 
       85789015, 
       1360698707, 
       85633159, 
       1360698797, 
-      404430153, 
-      1175612707
+      404430153
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701533,
-    "wof:geomhash": "9cf1656e11c46a9108a15359552cf9aa",
+    "wof:geomhash": "d3bba60c0cf30f3270f44ebac0830070",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 488520861,
-    "wof:lastmodified": 1583786733,
+    "wof:lastmodified": 1609895197,
     "wof:name": "G20 9AA",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.289882, 
-    55.890241, 
-    -4.289882, 
-    55.890241
+    -4.289932, 
+    55.890276, 
+    -4.289932, 
+    55.890276
   ],
-  "geometry": {"coordinates":[-4.289882,55.890241],"type":"Point"}
+  "geometry": {"coordinates":[-4.289932,55.890276],"type":"Point"}
 }

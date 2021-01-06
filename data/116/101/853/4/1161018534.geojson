@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-04-01",
     "geom:area": 0,
-    "geom:bbox": "-2.483541,53.065642,-2.483541,53.065642",
-    "geom:latitude": 53.065642,
-    "geom:longitude": -2.483541,
+    "geom:bbox": "-2.483362,53.065679,-2.483362,53.065679",
+    "geom:latitude": 53.065679,
+    "geom:longitude": -2.483362,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698537, 
       85633159, 
       1360698929, 
       404435783, 
-      1125988481
+      1125988481, 
+      404227469, 
+      1360698537
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583800251,
-    "wof:geomhash": "04938e4155ab3c780810d15ecace58e5",
+    "wof:geomhash": "3e55cbf7589e6322d5a092c096cfe491",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1161018534,
-    "wof:lastmodified": 1583800251,
+    "wof:lastmodified": 1609875059,
     "wof:name": "CW5 7TH",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.483541, 
-    53.065642, 
-    -2.483541, 
-    53.065642
+    -2.483362, 
+    53.065679, 
+    -2.483362, 
+    53.065679
   ],
-  "geometry": {"coordinates":[-2.483541,53.065642],"type":"Point"}
+  "geometry": {"coordinates":[-2.483362,53.065679],"type":"Point"}
 }

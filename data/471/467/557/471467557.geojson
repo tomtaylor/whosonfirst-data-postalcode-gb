@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1983-07-01",
     "geom:area": 0,
-    "geom:bbox": "-1.049307,50.823648,-1.049307,50.823648",
-    "geom:latitude": 50.823648,
-    "geom:longitude": -1.049307,
+    "geom:bbox": "-1.049379,50.823575,-1.049379,50.823575",
+    "geom:latitude": 50.823575,
+    "geom:longitude": -1.049379,
     "gp:parent_id": "32452",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699069, 
       101750307, 
       404227469, 
-      1360698557
+      1360698557, 
+      85633159, 
+      1360699069
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701627,
-    "wof:geomhash": "eebc03194cc4b98b14b714506654c0ed",
+    "wof:geomhash": "1e581ff7710372d25fd4dd0675d26656",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 471467557,
-    "wof:lastmodified": 1583786756,
+    "wof:lastmodified": 1609893149,
     "wof:name": "PO3 5SA",
     "wof:parent_id": 101750307,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.049307, 
-    50.823648, 
-    -1.049307, 
-    50.823648
+    -1.049379, 
+    50.823575, 
+    -1.049379, 
+    50.823575
   ],
-  "geometry": {"coordinates":[-1.049307,50.823648],"type":"Point"}
+  "geometry": {"coordinates":[-1.049379,50.823575],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1994-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.485010,54.837286,-1.485010,54.837286",
-    "geom:latitude": 54.837286,
-    "geom:longitude": -1.48501,
+    "geom:bbox": "-1.484870,54.837303,-1.484870,54.837303",
+    "geom:latitude": 54.837303,
+    "geom:longitude": -1.48487,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698987, 
-      404434817, 
       1360756383, 
       404227469, 
-      1360698601
+      1360698601, 
+      85633159, 
+      1360698987, 
+      404434817
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701522,
-    "wof:geomhash": "2374f4a17cd8380ff440025306d2f472",
+    "wof:geomhash": "fad5d447aad1022bfa6b9f3e20359f4a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454370719,
-    "wof:lastmodified": 1583786654,
+    "wof:lastmodified": 1609886193,
     "wof:name": "DH4 5SA",
     "wof:parent_id": 101872327,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.48501, 
-    54.837286, 
-    -1.48501, 
-    54.837286
+    -1.48487, 
+    54.837303, 
+    -1.48487, 
+    54.837303
   ],
-  "geometry": {"coordinates":[-1.48501,54.837286],"type":"Point"}
+  "geometry": {"coordinates":[-1.48487,54.837303],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.635341,53.488259,-2.635341,53.488259",
-    "geom:latitude": 53.488259,
-    "geom:longitude": -2.635341,
+    "geom:bbox": "-2.635450,53.488492,-2.635450,53.488492",
+    "geom:latitude": 53.488492,
+    "geom:longitude": -2.63545,
     "gp:parent_id": "11222",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      1360817301, 
       1126035289, 
       404227469, 
       1360698555, 
       85633159, 
-      1360699023, 
-      1360817301
+      1360699023
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701279,
-    "wof:geomhash": "77bd5051e9464a3836ab3945fa97d174",
+    "wof:geomhash": "ff81761099996dc89abf795dd943bf84",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488153397,
-    "wof:lastmodified": 1583786216,
+    "wof:lastmodified": 1609877239,
     "wof:name": "WN4 8PB",
     "wof:parent_id": 404450053,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.635341, 
-    53.488259, 
-    -2.635341, 
-    53.488259
+    -2.63545, 
+    53.488492, 
+    -2.63545, 
+    53.488492
   ],
-  "geometry": {"coordinates":[-2.635341,53.488259],"type":"Point"}
+  "geometry": {"coordinates":[-2.63545,53.488492],"type":"Point"}
 }

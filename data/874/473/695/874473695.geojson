@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2012-03-01",
     "geom:area": 0,
-    "geom:bbox": "-3.181002,56.352589,-3.181002,56.352589",
-    "geom:latitude": 56.352589,
-    "geom:longitude": -3.181002,
+    "geom:bbox": "-3.180831,56.352833,-3.180831,56.352833",
+    "geom:latitude": 56.352833,
+    "geom:longitude": -3.180831,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699123, 
       404444217, 
       404227471, 
-      1360698659
+      1360698659, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468886318,
-    "wof:geomhash": "d8ebf4ac1120f22c93a5149402a8cb2d",
+    "wof:geomhash": "8a82cbea91e4e6608ba91bdd8e0cbd9c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 874473695,
-    "wof:lastmodified": 1583786312,
+    "wof:lastmodified": 1609870706,
     "wof:name": "KY14 6JS",
     "wof:parent_id": 404444217,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.181002, 
-    56.352589, 
-    -3.181002, 
-    56.352589
+    -3.180831, 
+    56.352833, 
+    -3.180831, 
+    56.352833
   ],
-  "geometry": {"coordinates":[-3.181002,56.352589],"type":"Point"}
+  "geometry": {"coordinates":[-3.180831,56.352833],"type":"Point"}
 }

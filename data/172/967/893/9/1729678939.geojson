@@ -1,0 +1,59 @@
+{
+  "id": 1729678939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-05-01",
+    "geom:area": 0,
+    "geom:bbox": "-0.684625,51.185460,-0.684625,51.185460",
+    "geom:latitude": 51.18546,
+    "geom:longitude": -0.684625,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E10000030",
+    "os:district_code": "E07000216",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000008",
+    "src:geom": "os",
+    "wof:belongsto": [
+      1125912333, 
+      404227469, 
+      1360698599, 
+      85633159, 
+      1360698887, 
+      404432273
+    ],
+    "wof:breaches": [],
+    "wof:country": "GB",
+    "wof:created": 1609905942,
+    "wof:geomhash": "196c8c1141b169c07aa598eed3ec3758",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698887,
+        "localadmin_id": 404432273,
+        "locality_id": 1125912333,
+        "macroregion_id": 404227469,
+        "region_id": 1360698599
+      }
+    ],
+    "wof:id": 1729678939,
+    "wof:lastmodified": 1609905942,
+    "wof:name": "GU8 6FB",
+    "wof:parent_id": -1,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -0.684625, 
+    51.18546, 
+    -0.684625, 
+    51.18546
+  ],
+  "geometry": {"coordinates":[-0.684625,51.18546],"type":"Point"}
+}

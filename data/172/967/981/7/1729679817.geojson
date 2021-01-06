@@ -1,0 +1,59 @@
+{
+  "id": 1729679817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-08-01",
+    "geom:area": 0,
+    "geom:bbox": "-2.933610,54.918018,-2.933610,54.918018",
+    "geom:latitude": 54.918018,
+    "geom:longitude": -2.93361,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E10000006",
+    "os:district_code": "E07000028",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000002",
+    "src:geom": "os",
+    "wof:belongsto": [
+      404227469, 
+      1360698721, 
+      85633159, 
+      1360698877, 
+      404436113, 
+      1360758253
+    ],
+    "wof:breaches": [],
+    "wof:country": "GB",
+    "wof:created": 1609905976,
+    "wof:geomhash": "62992d347dfb7309a3f1edf14c764286",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698877,
+        "localadmin_id": 404436113,
+        "locality_id": 1360758253,
+        "macroregion_id": 404227469,
+        "region_id": 1360698721
+      }
+    ],
+    "wof:id": 1729679817,
+    "wof:lastmodified": 1609905976,
+    "wof:name": "CA3 0FP",
+    "wof:parent_id": -1,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -2.93361, 
+    54.918018, 
+    -2.93361, 
+    54.918018
+  ],
+  "geometry": {"coordinates":[-2.93361,54.918018],"type":"Point"}
+}

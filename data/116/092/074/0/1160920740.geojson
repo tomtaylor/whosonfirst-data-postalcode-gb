@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.448951,50.460600,-4.448951,50.460600",
-    "geom:latitude": 50.4606,
-    "geom:longitude": -4.448951,
+    "geom:bbox": "-4.449697,50.461403,-4.449697,50.461403",
+    "geom:latitude": 50.461403,
+    "geom:longitude": -4.449697,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699085, 
       404431167, 
       101852371, 
       404227469, 
-      1360698623
+      1360698623, 
+      85633159, 
+      1360699085
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583795901,
-    "wof:geomhash": "fa7c39166519d95a62757a53ab9c7feb",
+    "wof:geomhash": "82aca1cd944c2722fe1be12b65113ed8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160920740,
-    "wof:lastmodified": 1583795901,
+    "wof:lastmodified": 1609872209,
     "wof:name": "PL14 3GW",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.448951, 
-    50.4606, 
-    -4.448951, 
-    50.4606
+    -4.449697, 
+    50.461403, 
+    -4.449697, 
+    50.461403
   ],
-  "geometry": {"coordinates":[-4.448951,50.4606],"type":"Point"}
+  "geometry": {"coordinates":[-4.449697,50.461403],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.383722,53.776069,-0.383722,53.776069",
-    "geom:latitude": 53.776069,
-    "geom:longitude": -0.383722,
+    "geom:bbox": "-0.383797,53.776079,-0.383797,53.776079",
+    "geom:latitude": 53.776079,
+    "geom:longitude": -0.383797,
     "gp:parent_id": "25211",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698547, 
       85633159, 
       1360698951, 
       101750561, 
-      404227469
+      404227469, 
+      1360698547
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701728,
-    "wof:geomhash": "3c3229d533777cd62f62dd7718a0e86d",
+    "wof:geomhash": "90348ce612f5551f6541109efde0a2c7",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454825541,
-    "wof:lastmodified": 1583786864,
+    "wof:lastmodified": 1609903018,
     "wof:name": "HU6 8JW",
     "wof:parent_id": 101750561,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.383722, 
-    53.776069, 
-    -0.383722, 
-    53.776069
+    -0.383797, 
+    53.776079, 
+    -0.383797, 
+    53.776079
   ],
-  "geometry": {"coordinates":[-0.383722,53.776069],"type":"Point"}
+  "geometry": {"coordinates":[-0.383797,53.776079],"type":"Point"}
 }

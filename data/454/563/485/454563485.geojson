@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.288134,50.718296,-3.288134,50.718296",
-    "geom:latitude": 50.718296,
-    "geom:longitude": -3.288134,
+    "geom:bbox": "-3.288332,50.718312,-3.288332,50.718312",
+    "geom:latitude": 50.718312,
+    "geom:longitude": -3.288332,
     "gp:parent_id": "37656",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1126009121, 
       404227469, 
       1360698541, 
       85633159, 
       1360699081, 
-      404444461
+      404444461, 
+      1126009121
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701634,
-    "wof:geomhash": "a3abb0eb8371f57a565d09cc42d7436c",
+    "wof:geomhash": "09d0bf99c60c9caee8fdd5097daea1f9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454563485,
-    "wof:lastmodified": 1583786769,
+    "wof:lastmodified": 1609894508,
     "wof:name": "EX10 0AB",
     "wof:parent_id": 404444461,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.288134, 
-    50.718296, 
-    -3.288134, 
-    50.718296
+    -3.288332, 
+    50.718312, 
+    -3.288332, 
+    50.718312
   ],
-  "geometry": {"coordinates":[-3.288134,50.718296],"type":"Point"}
+  "geometry": {"coordinates":[-3.288332,50.718312],"type":"Point"}
 }

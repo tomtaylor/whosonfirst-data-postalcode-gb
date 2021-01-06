@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.477726,52.920746,-1.477726,52.920746",
-    "geom:latitude": 52.920746,
-    "geom:longitude": -1.477726,
+    "geom:bbox": "-1.477578,52.920682,-1.477578,52.920682",
+    "geom:latitude": 52.920682,
+    "geom:longitude": -1.477578,
     "gp:parent_id": "18114",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698539, 
       85633159, 
       1360699093, 
-      101750489
+      101750489, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701491,
-    "wof:geomhash": "222b41eda99fca1bb8c776350d336f32",
+    "wof:geomhash": "39255215073c290d9d75a619b6847557",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454327985,
-    "wof:lastmodified": 1583786619,
+    "wof:lastmodified": 1609883885,
     "wof:name": "DE1 1RS",
     "wof:parent_id": 101750489,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.477726, 
-    52.920746, 
-    -1.477726, 
-    52.920746
+    -1.477578, 
+    52.920682, 
+    -1.477578, 
+    52.920682
   ],
-  "geometry": {"coordinates":[-1.477726,52.920746],"type":"Point"}
+  "geometry": {"coordinates":[-1.477578,52.920682],"type":"Point"}
 }

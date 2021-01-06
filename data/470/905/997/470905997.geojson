@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1991-09-01",
     "geom:area": 0,
-    "geom:bbox": "-2.243383,53.482654,-2.243383,53.482654",
-    "geom:latitude": 53.482654,
-    "geom:longitude": -2.243383,
+    "geom:bbox": "-2.242797,53.482952,-2.242797,53.482952",
+    "geom:latitude": 53.482952,
+    "geom:longitude": -2.242797,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698893, 
-      101750525, 
       404227469, 
       85861843, 
       1360698555, 
-      85633159
+      85633159, 
+      1360698893, 
+      101750525
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701259,
-    "wof:geomhash": "86dede98a3f63694b4f12b8156769711",
+    "wof:geomhash": "6d4816f31b46c57508d4db50e62fa4f6",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 470905997,
-    "wof:lastmodified": 1583786400,
+    "wof:lastmodified": 1609872630,
     "wof:name": "M4 3AT",
     "wof:parent_id": 101750525,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.243383, 
-    53.482654, 
-    -2.243383, 
-    53.482654
+    -2.242797, 
+    53.482952, 
+    -2.242797, 
+    53.482952
   ],
-  "geometry": {"coordinates":[-2.243383,53.482654],"type":"Point"}
+  "geometry": {"coordinates":[-2.242797,53.482952],"type":"Point"}
 }

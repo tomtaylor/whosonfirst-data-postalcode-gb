@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.051175,52.249671,1.051175,52.249671",
-    "geom:latitude": 52.249671,
+    "geom:bbox": "1.051175,52.249680,1.051175,52.249680",
+    "geom:latitude": 52.24968,
     "geom:longitude": 1.051175,
     "gp:parent_id": "28701",
     "iso:country": "GB",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699041, 
-      404452705, 
-      1343987165, 
       404227469, 
       1360698595, 
-      85633159
+      85633159, 
+      1360699041, 
+      404452705, 
+      1343987165
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701742,
-    "wof:geomhash": "1f4af084479096ec2d1fbdc0adfe7816",
+    "wof:geomhash": "79749423a873c3bdb378834744e1ca0b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454869041,
-    "wof:lastmodified": 1583786872,
+    "wof:lastmodified": 1609903741,
     "wof:name": "IP14 5SX",
     "wof:parent_id": 404452705,
     "wof:placetype": "postalcode",
@@ -55,9 +55,9 @@
   },
   "bbox": [
     1.051175, 
-    52.249671, 
+    52.24968, 
     1.051175, 
-    52.249671
+    52.24968
   ],
-  "geometry": {"coordinates":[1.051175,52.249671],"type":"Point"}
+  "geometry": {"coordinates":[1.051175,52.24968],"type":"Point"}
 }

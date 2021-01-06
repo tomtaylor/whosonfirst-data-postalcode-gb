@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2008-09-01",
     "geom:area": 0,
-    "geom:bbox": "1.365811,52.685989,1.365811,52.685989",
-    "geom:latitude": 52.685989,
-    "geom:longitude": 1.365811,
+    "geom:bbox": "1.365786,52.685855,1.365786,52.685855",
+    "geom:latitude": 52.685855,
+    "geom:longitude": 1.365786,
     "gp:parent_id": "12696024",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698575, 
       85633159, 
       1360698955, 
       404445311, 
-      1125772899
+      1125772899, 
+      404227469, 
+      1360698575
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701347,
-    "wof:geomhash": "bfff37d22887efcd5bbec35770cb387d",
+    "wof:geomhash": "0a832c6d072cf0ca5decdbf9f8b04c93",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488334089,
-    "wof:lastmodified": 1583786544,
+    "wof:lastmodified": 1609886954,
     "wof:name": "NR13 6QT",
     "wof:parent_id": 404445311,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.365811, 
-    52.685989, 
-    1.365811, 
-    52.685989
+    1.365786, 
+    52.685855, 
+    1.365786, 
+    52.685855
   ],
-  "geometry": {"coordinates":[1.365811,52.685989],"type":"Point"}
+  "geometry": {"coordinates":[1.365786,52.685855],"type":"Point"}
 }

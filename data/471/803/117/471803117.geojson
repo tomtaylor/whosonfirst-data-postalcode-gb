@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.652135,51.550864,-0.652135,51.550864",
-    "geom:latitude": 51.550864,
-    "geom:longitude": -0.652135,
+    "geom:bbox": "-0.651985,51.551060,-0.651985,51.551060",
+    "geom:latitude": 51.55106,
+    "geom:longitude": -0.651985,
     "gp:parent_id": "14586",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698997, 
       404448483, 
       1125971625, 
       404227469, 
-      1360698533
+      1360698533, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701740,
-    "wof:geomhash": "2548957880ce4180274ab3b44f2a7817",
+    "wof:geomhash": "00ed30c4eb40ea959dd6d3d1eb7d8582",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471803117,
-    "wof:lastmodified": 1595725346,
+    "wof:lastmodified": 1609903237,
     "wof:name": "SL1 8PS",
     "wof:parent_id": 404448483,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.652135, 
-    51.550864, 
-    -0.652135, 
-    51.550864
+    -0.651985, 
+    51.55106, 
+    -0.651985, 
+    51.55106
   ],
-  "geometry": {"coordinates":[-0.652135,51.550864],"type":"Point"}
+  "geometry": {"coordinates":[-0.651985,51.55106],"type":"Point"}
 }

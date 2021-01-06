@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.404461,56.090620,-3.404461,56.090620",
-    "geom:latitude": 56.09062,
-    "geom:longitude": -3.404461,
+    "geom:bbox": "-3.403571,56.090908,-3.403571,56.090908",
+    "geom:latitude": 56.090908,
+    "geom:longitude": -3.403571,
     "gp:parent_id": "12696197",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360699123, 
+      404444217, 
       404227471, 
       1360698659, 
-      85633159, 
-      1360699123, 
-      404444217
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701465,
-    "wof:geomhash": "a5f52044b750c538e76f1379eb25c1bd",
+    "wof:geomhash": "89c9554b641bc65d12e4877b549bd7ab",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488452387,
-    "wof:lastmodified": 1583786674,
+    "wof:lastmodified": 1609892371,
     "wof:name": "KY12 0UA",
     "wof:parent_id": 404444217,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.404461, 
-    56.09062, 
-    -3.404461, 
-    56.09062
+    -3.403571, 
+    56.090908, 
+    -3.403571, 
+    56.090908
   ],
-  "geometry": {"coordinates":[-3.404461,56.09062],"type":"Point"}
+  "geometry": {"coordinates":[-3.403571,56.090908],"type":"Point"}
 }

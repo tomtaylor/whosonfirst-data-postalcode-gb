@@ -19,11 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698809, 
-      101871921, 
+      1360755233, 
       404227469, 
       1360698583, 
-      85633159
+      85633159, 
+      1360698809, 
+      404434079
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -36,13 +37,14 @@
       {
         "country_id": 85633159,
         "county_id": 1360698809,
-        "locality_id": 101871921,
+        "localadmin_id": 404434079,
+        "locality_id": 1360755233,
         "macroregion_id": 404227469,
         "region_id": 1360698583
       }
     ],
     "wof:id": 471690521,
-    "wof:lastmodified": 1595724427,
+    "wof:lastmodified": 1609901006,
     "wof:name": "S80 3AX",
     "wof:parent_id": 404432943,
     "wof:placetype": "postalcode",

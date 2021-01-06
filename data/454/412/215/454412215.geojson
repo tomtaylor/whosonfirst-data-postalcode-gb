@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.137438,53.523472,-1.137438,53.523472",
+    "geom:bbox": "-1.137453,53.523472,-1.137453,53.523472",
     "geom:latitude": 53.523472,
-    "geom:longitude": -1.137438,
+    "geom:longitude": -1.137453,
     "gp:parent_id": "18307",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698591, 
       85633159, 
       1360698973, 
-      101750545, 
-      404227469, 
-      1360698591
+      101750545
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701550,
-    "wof:geomhash": "71385cbec2adc86deeeaa5c842a1ce7d",
+    "wof:geomhash": "5f8f14204e17c2f4d504443784d60241",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454412215,
-    "wof:lastmodified": 1583786677,
+    "wof:lastmodified": 1609888522,
     "wof:name": "DN1 1SY",
     "wof:parent_id": 101750545,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.137438, 
+    -1.137453, 
     53.523472, 
-    -1.137438, 
+    -1.137453, 
     53.523472
   ],
-  "geometry": {"coordinates":[-1.137438,53.523472],"type":"Point"}
+  "geometry": {"coordinates":[-1.137453,53.523472],"type":"Point"}
 }

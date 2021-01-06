@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.732534,53.472458,-2.732534,53.472458",
-    "geom:latitude": 53.472458,
-    "geom:longitude": -2.732534,
+    "geom:bbox": "-2.732745,53.472448,-2.732745,53.472448",
+    "geom:latitude": 53.472448,
+    "geom:longitude": -2.732745,
     "gp:parent_id": "35653",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698793, 
       101750559, 
       404227469, 
-      1360698573
+      1360698573, 
+      85633159, 
+      1360698793
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701220,
-    "wof:geomhash": "cf42ed879921d132e1a062fdbadd871d",
+    "wof:geomhash": "4037e5a8566ac353c7ab262959ab3930",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488059439,
-    "wof:lastmodified": 1595727995,
+    "wof:lastmodified": 1609870532,
     "wof:name": "WA11 7PW",
     "wof:parent_id": 101750559,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.732534, 
-    53.472458, 
-    -2.732534, 
-    53.472458
+    -2.732745, 
+    53.472448, 
+    -2.732745, 
+    53.472448
   ],
-  "geometry": {"coordinates":[-2.732534,53.472458],"type":"Point"}
+  "geometry": {"coordinates":[-2.732745,53.472448],"type":"Point"}
 }

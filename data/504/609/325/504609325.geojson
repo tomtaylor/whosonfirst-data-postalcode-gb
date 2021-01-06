@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.704714,51.676820,-4.704714,51.676820",
-    "geom:latitude": 51.67682,
-    "geom:longitude": -4.704714,
+    "geom:bbox": "-4.704774,51.676819,-4.704774,51.676819",
+    "geom:latitude": 51.676819,
+    "geom:longitude": -4.704774,
     "gp:parent_id": "12696129",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698843, 
       404435111, 
       101852995, 
       404227475, 
-      1360698639
+      1360698639, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701479,
-    "wof:geomhash": "0b3c7daee026d613ba038b8f504f5813",
+    "wof:geomhash": "12dc46876a69a6fc67bb3eb8b96cf14b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504609325,
-    "wof:lastmodified": 1583786632,
+    "wof:lastmodified": 1609882222,
     "wof:name": "SA70 8AE",
     "wof:parent_id": 101852995,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.704714, 
-    51.67682, 
-    -4.704714, 
-    51.67682
+    -4.704774, 
+    51.676819, 
+    -4.704774, 
+    51.676819
   ],
-  "geometry": {"coordinates":[-4.704714,51.67682],"type":"Point"}
+  "geometry": {"coordinates":[-4.704774,51.676819],"type":"Point"}
 }

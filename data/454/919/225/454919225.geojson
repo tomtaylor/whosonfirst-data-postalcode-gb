@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.243676,51.290347,-0.243676,51.290347",
-    "geom:latitude": 51.290347,
-    "geom:longitude": -0.243676,
+    "geom:bbox": "-0.243740,51.290924,-0.243740,51.290924",
+    "geom:latitude": 51.290924,
+    "geom:longitude": -0.24374,
     "gp:parent_id": "36880",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698599, 
       85633159, 
       1360698887, 
       1360817233, 
       1126060411, 
-      404227469, 
-      1360698599
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701756,
-    "wof:geomhash": "5b262c2f028ba7484dacc20458bf51a7",
+    "wof:geomhash": "15c8d0464c3f41056adba7d19a8aa7ac",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454919225,
-    "wof:lastmodified": 1583786884,
+    "wof:lastmodified": 1609904897,
     "wof:name": "KT20 5BA",
     "wof:parent_id": 404431319,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.243676, 
-    51.290347, 
-    -0.243676, 
-    51.290347
+    -0.24374, 
+    51.290924, 
+    -0.24374, 
+    51.290924
   ],
-  "geometry": {"coordinates":[-0.243676,51.290347],"type":"Point"}
+  "geometry": {"coordinates":[-0.24374,51.290924],"type":"Point"}
 }

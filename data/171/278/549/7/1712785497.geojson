@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "uuuu",
-    "edtf:inception": "2019-12-01",
+    "edtf:inception": "2020-08-01",
     "geom:area": 0,
     "geom:bbox": "-0.326567,53.744093,-0.326567,53.744093",
     "geom:latitude": 53.744093,
@@ -18,11 +18,11 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698951, 
       101750561, 
       404227469, 
-      1360698547
+      1360698547, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1712785497,
-    "wof:lastmodified": 1583803491,
+    "wof:lastmodified": 1609874218,
     "wof:name": "HU9 9PQ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

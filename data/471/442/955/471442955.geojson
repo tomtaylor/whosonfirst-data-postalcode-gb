@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2004-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.951121,50.778380,-0.951121,50.778380",
-    "geom:latitude": 50.77838,
-    "geom:longitude": -0.951121,
+    "geom:bbox": "-0.951120,50.778434,-0.951120,50.778434",
+    "geom:latitude": 50.778434,
+    "geom:longitude": -0.95112,
     "gp:parent_id": "22780",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698557, 
-      85633159, 
       1360698827, 
       1360817467, 
-      1125890333
+      1125890333, 
+      404227469, 
+      1360698557, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701611,
-    "wof:geomhash": "7e895749f2d13b2953d4eb0e7fdec9be",
+    "wof:geomhash": "53104c6c12f76d8c1e5cc8febdc6d55f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471442955,
-    "wof:lastmodified": 1583786747,
+    "wof:lastmodified": 1609892401,
     "wof:name": "PO11 9AS",
     "wof:parent_id": 404448349,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.951121, 
-    50.77838, 
-    -0.951121, 
-    50.77838
+    -0.95112, 
+    50.778434, 
+    -0.95112, 
+    50.778434
   ],
-  "geometry": {"coordinates":[-0.951121,50.77838],"type":"Point"}
+  "geometry": {"coordinates":[-0.95112,50.778434],"type":"Point"}
 }

@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.189630,51.475162,-0.189630,51.475162",
-    "geom:latitude": 51.475162,
-    "geom:longitude": -0.18963,
+    "geom:bbox": "-0.189559,51.475143,-0.189559,51.475143",
+    "geom:latitude": 51.475143,
+    "geom:longitude": -0.189559,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      1158857315, 
       85633159, 
       101750367, 
       1158860449, 
       404227469, 
       1158859477, 
-      1360698645, 
-      1158857315
+      1360698645
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701156,
-    "wof:geomhash": "8ef6c5bb3c50a7b35c7fbca5772cae1c",
+    "wof:geomhash": "b2e15bdd5d48e71fb9e9d8177d5bd062",
     "wof:hierarchy": [
       {
         "borough_id": 1158857315,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 487764571,
-    "wof:lastmodified": 1583786259,
+    "wof:lastmodified": 1609878424,
     "wof:name": "SW6 2BA",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.18963, 
-    51.475162, 
-    -0.18963, 
-    51.475162
+    -0.189559, 
+    51.475143, 
+    -0.189559, 
+    51.475143
   ],
-  "geometry": {"coordinates":[-0.18963,51.475162],"type":"Point"}
+  "geometry": {"coordinates":[-0.189559,51.475143],"type":"Point"}
 }

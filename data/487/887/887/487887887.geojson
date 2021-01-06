@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.586990,50.547231,-3.586990,50.547231",
-    "geom:latitude": 50.547231,
-    "geom:longitude": -3.58699,
+    "geom:bbox": "-3.587494,50.547089,-3.587494,50.547089",
+    "geom:latitude": 50.547089,
+    "geom:longitude": -3.587494,
     "gp:parent_id": "25179",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699081, 
       404439703, 
       1125880473, 
       404227469, 
-      1360698541
+      1360698541, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701233,
-    "wof:geomhash": "3633528f0f9f660ea9334c5f32a7a9dc",
+    "wof:geomhash": "f9b9785513d2eb9c63ff60a128ff53b1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487887887,
-    "wof:lastmodified": 1583786321,
+    "wof:lastmodified": 1609885089,
     "wof:name": "TQ12 3BB",
     "wof:parent_id": 404439703,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.58699, 
-    50.547231, 
-    -3.58699, 
-    50.547231
+    -3.587494, 
+    50.547089, 
+    -3.587494, 
+    50.547089
   ],
-  "geometry": {"coordinates":[-3.58699,50.547231],"type":"Point"}
+  "geometry": {"coordinates":[-3.587494,50.547089],"type":"Point"}
 }

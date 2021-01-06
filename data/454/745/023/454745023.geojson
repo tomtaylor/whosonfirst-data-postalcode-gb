@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.794540,53.632813,-1.794540,53.632813",
-    "geom:latitude": 53.632813,
-    "geom:longitude": -1.79454,
+    "geom:bbox": "-1.794480,53.632759,-1.794480,53.632759",
+    "geom:latitude": 53.632759,
+    "geom:longitude": -1.79448,
     "gp:parent_id": "24083",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698917, 
       101750573, 
       404227469, 
-      1360698609
+      1360698609, 
+      85633159, 
+      1360698917
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701706,
-    "wof:geomhash": "0a2d21722f5c267de8d771d7e9d24404",
+    "wof:geomhash": "c0cf445501d8f041d20e4302de984b55",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454745023,
-    "wof:lastmodified": 1583786846,
+    "wof:lastmodified": 1609901012,
     "wof:name": "HD4 6EJ",
     "wof:parent_id": 101750573,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.79454, 
-    53.632813, 
-    -1.79454, 
-    53.632813
+    -1.79448, 
+    53.632759, 
+    -1.79448, 
+    53.632759
   ],
-  "geometry": {"coordinates":[-1.79454,53.632813],"type":"Point"}
+  "geometry": {"coordinates":[-1.79448,53.632759],"type":"Point"}
 }

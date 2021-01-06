@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2017-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.684188,55.174082,-1.684188,55.174082",
-    "geom:latitude": 55.174082,
-    "geom:longitude": -1.684188,
+    "geom:bbox": "-1.684109,55.174090,-1.684109,55.174090",
+    "geom:latitude": 55.17409,
+    "geom:longitude": -1.684109,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698727, 
       85633159, 
       1360698769, 
       404449843, 
-      101873459
+      101873459, 
+      404227469, 
+      1360698727
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583791611,
-    "wof:geomhash": "fdd4be83bd449111eaa2ae1dd3e4582c",
+    "wof:geomhash": "6c5c4bda97abfb62b7db7929562ba7f1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 38555010,
-    "wof:lastmodified": 1583791611,
+    "wof:lastmodified": 1609868491,
     "wof:name": "NE61 2GH",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.684188, 
-    55.174082, 
-    -1.684188, 
-    55.174082
+    -1.684109, 
+    55.17409, 
+    -1.684109, 
+    55.17409
   ],
-  "geometry": {"coordinates":[-1.684188,55.174082],"type":"Point"}
+  "geometry": {"coordinates":[-1.684109,55.17409],"type":"Point"}
 }

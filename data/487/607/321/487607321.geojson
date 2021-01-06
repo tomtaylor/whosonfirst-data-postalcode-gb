@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1983-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.324287,51.063021,-1.324287,51.063021",
-    "geom:latitude": 51.063021,
-    "geom:longitude": -1.324287,
+    "geom:bbox": "-1.324373,51.063004,-1.324373,51.063004",
+    "geom:latitude": 51.063004,
+    "geom:longitude": -1.324373,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,11 +18,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698827, 
+      101852447, 
       404227469, 
       1360698557, 
-      85633159, 
-      1360698827, 
-      101852447
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -30,7 +30,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701082,
-    "wof:geomhash": "5637004882801f9697ff26fedb0caa3b",
+    "wof:geomhash": "3a640c1e018a5475c66cb5c44bc1e63e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -41,7 +41,7 @@
       }
     ],
     "wof:id": 487607321,
-    "wof:lastmodified": 1583786179,
+    "wof:lastmodified": 1609869029,
     "wof:name": "SO22 5EP",
     "wof:parent_id": 101852447,
     "wof:placetype": "postalcode",
@@ -51,10 +51,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.324287, 
-    51.063021, 
-    -1.324287, 
-    51.063021
+    -1.324373, 
+    51.063004, 
+    -1.324373, 
+    51.063004
   ],
-  "geometry": {"coordinates":[-1.324287,51.063021],"type":"Point"}
+  "geometry": {"coordinates":[-1.324373,51.063004],"type":"Point"}
 }

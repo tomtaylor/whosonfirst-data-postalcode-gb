@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1997-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.509226,54.919000,-1.509226,54.919000",
-    "geom:latitude": 54.919,
-    "geom:longitude": -1.509226,
+    "geom:bbox": "-1.510243,54.918734,-1.510243,54.918734",
+    "geom:latitude": 54.918734,
+    "geom:longitude": -1.510243,
     "gp:parent_id": "23097",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -21,7 +21,7 @@
     "wof:belongsto": [
       1360698987, 
       1360817213, 
-      1259612545, 
+      101751645, 
       404227469, 
       1360698601, 
       85633159
@@ -32,19 +32,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701215,
-    "wof:geomhash": "bec81a73df44423a6a20d738f9f09561",
+    "wof:geomhash": "260a633a728ff7e2119363bd097e30d6",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360698987,
         "localadmin_id": 1360817213,
-        "locality_id": 1259612545,
+        "locality_id": 101751645,
         "macroregion_id": 404227469,
         "region_id": 1360698601
       }
     ],
     "wof:id": 471068589,
-    "wof:lastmodified": 1583786356,
+    "wof:lastmodified": 1609871029,
     "wof:name": "NE37 3HN",
     "wof:parent_id": 101751645,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.509226, 
-    54.919, 
-    -1.509226, 
-    54.919
+    -1.510243, 
+    54.918734, 
+    -1.510243, 
+    54.918734
   ],
-  "geometry": {"coordinates":[-1.509226,54.919],"type":"Point"}
+  "geometry": {"coordinates":[-1.510243,54.918734],"type":"Point"}
 }

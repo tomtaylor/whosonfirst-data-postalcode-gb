@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.821319,52.733217,-3.821319,52.733217",
-    "geom:latitude": 52.733217,
-    "geom:longitude": -3.821319,
+    "geom:bbox": "-3.821583,52.737780,-3.821583,52.737780",
+    "geom:latitude": 52.73778,
+    "geom:longitude": -3.821583,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698959, 
-      404431915, 
-      1209650645, 
       404227475, 
       1360698635, 
-      85633159
+      85633159, 
+      1360698959, 
+      404431915, 
+      1209650645
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701382,
-    "wof:geomhash": "fb83b97c809bf5e50c4d855e062e54ff",
+    "wof:geomhash": "95a53dbea4d3cf418607f09e41850df9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 504502705,
-    "wof:lastmodified": 1583786506,
+    "wof:lastmodified": 1609876103,
     "wof:name": "LL40 2SH",
     "wof:parent_id": 404431915,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.821319, 
-    52.733217, 
-    -3.821319, 
-    52.733217
+    -3.821583, 
+    52.73778, 
+    -3.821583, 
+    52.73778
   ],
-  "geometry": {"coordinates":[-3.821319,52.733217],"type":"Point"}
+  "geometry": {"coordinates":[-3.821583,52.73778],"type":"Point"}
 }

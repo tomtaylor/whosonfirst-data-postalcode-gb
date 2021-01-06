@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.664574,56.172238,-3.664574,56.172238",
-    "geom:latitude": 56.172238,
-    "geom:longitude": -3.664574,
+    "geom:bbox": "-3.664553,56.172131,-3.664553,56.172131",
+    "geom:latitude": 56.172131,
+    "geom:longitude": -3.664553,
     "gp:parent_id": "12696187",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227471, 
       1360698657, 
       85633159, 
       1360699079, 
-      404443383
+      404443383, 
+      404227471
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701105,
-    "wof:geomhash": "5f0c5a11cac9bcc1c0dcd57ee9638a0c",
+    "wof:geomhash": "5fe0c14da6c04d88902a06b645d6af53",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504382305,
-    "wof:lastmodified": 1583786195,
+    "wof:lastmodified": 1609868988,
     "wof:name": "FK14 7BT",
     "wof:parent_id": 404443383,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.664574, 
-    56.172238, 
-    -3.664574, 
-    56.172238
+    -3.664553, 
+    56.172131, 
+    -3.664553, 
+    56.172131
   ],
-  "geometry": {"coordinates":[-3.664574,56.172238],"type":"Point"}
+  "geometry": {"coordinates":[-3.664553,56.172131],"type":"Point"}
 }

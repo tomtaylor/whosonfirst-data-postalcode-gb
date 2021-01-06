@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.458930,53.582792,-2.458930,53.582792",
-    "geom:latitude": 53.582792,
-    "geom:longitude": -2.45893,
+    "geom:bbox": "-2.458627,53.582827,-2.458627,53.582827",
+    "geom:latitude": 53.582827,
+    "geom:longitude": -2.458627,
     "gp:parent_id": "13189",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699099, 
       101750551, 
       404227469, 
-      1360698555
+      1360698555, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701372,
-    "wof:geomhash": "96a77278d750d1070307fb0f07b078fa",
+    "wof:geomhash": "236072cd7f98a4067a8c4198687abadb",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 438179611,
-    "wof:lastmodified": 1583786513,
+    "wof:lastmodified": 1609878502,
     "wof:name": "BL1 4EQ",
     "wof:parent_id": 101750551,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.45893, 
-    53.582792, 
-    -2.45893, 
-    53.582792
+    -2.458627, 
+    53.582827, 
+    -2.458627, 
+    53.582827
   ],
-  "geometry": {"coordinates":[-2.45893,53.582792],"type":"Point"}
+  "geometry": {"coordinates":[-2.458627,53.582827],"type":"Point"}
 }

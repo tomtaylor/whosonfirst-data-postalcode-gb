@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1996-12-01",
     "geom:area": 0,
-    "geom:bbox": "-4.483640,55.843943,-4.483640,55.843943",
-    "geom:latitude": 55.843943,
-    "geom:longitude": -4.48364,
+    "geom:bbox": "-4.486252,55.843576,-4.486252,55.843576",
+    "geom:latitude": 55.843576,
+    "geom:longitude": -4.486252,
     "gp:parent_id": "26341",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698699, 
       85633159, 
       1360699097, 
       404432463, 
-      404227471
+      404227471, 
+      1360698699
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701433,
-    "wof:geomhash": "405d515d2a791c6c9d2623159e535766",
+    "wof:geomhash": "327f15abcbc8394c41522027f62478a0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504562729,
-    "wof:lastmodified": 1583786575,
+    "wof:lastmodified": 1609879484,
     "wof:name": "PA3 3BU",
     "wof:parent_id": 404432463,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.48364, 
-    55.843943, 
-    -4.48364, 
-    55.843943
+    -4.486252, 
+    55.843576, 
+    -4.486252, 
+    55.843576
   ],
-  "geometry": {"coordinates":[-4.48364,55.843943],"type":"Point"}
+  "geometry": {"coordinates":[-4.486252,55.843576],"type":"Point"}
 }

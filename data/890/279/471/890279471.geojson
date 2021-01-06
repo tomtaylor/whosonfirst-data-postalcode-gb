@@ -2,7 +2,7 @@
   "id": 890279471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-06-01",
     "edtf:inception": "2016-04-01",
     "geom:area": 0,
     "geom:bbox": "-2.749636,53.325397,-2.749636,53.325397",
@@ -10,7 +10,7 @@
     "geom:longitude": -2.749636,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000006",
@@ -18,11 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698537, 
       85633159, 
       1360698991, 
-      101751623, 
-      404227469, 
-      1360698537
+      1729579505, 
+      1729579503, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -32,13 +33,14 @@
       {
         "country_id": 85633159,
         "county_id": 1360698991,
-        "locality_id": 101751623,
+        "localadmin_id": 1729579505,
+        "locality_id": 1729579503,
         "macroregion_id": 404227469,
         "region_id": 1360698537
       }
     ],
     "wof:id": 890279471,
-    "wof:lastmodified": 1583786276,
+    "wof:lastmodified": 1609869671,
     "wof:name": "WA7 4EJ",
     "wof:parent_id": 101750531,
     "wof:placetype": "postalcode",

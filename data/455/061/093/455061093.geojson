@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.234246,53.006081,-0.234246,53.006081",
-    "geom:latitude": 53.006081,
-    "geom:longitude": -0.234246,
+    "geom:bbox": "-0.213979,53.009959,-0.213979,53.009959",
+    "geom:latitude": 53.009959,
+    "geom:longitude": -0.213979,
     "gp:parent_id": "35262",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      404439647, 
-      1125805321, 
       404227469, 
       1360698571, 
       85633159, 
-      1360699067
+      1360699067, 
+      404439647, 
+      1125805321
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701166,
-    "wof:geomhash": "743aef6deea4e8a13c45e9c560346d13",
+    "wof:geomhash": "8df69e4a059f25f2371151a1996db1da",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 455061093,
-    "wof:lastmodified": 1583786291,
+    "wof:lastmodified": 1609870549,
     "wof:name": "LN4 4AJ",
     "wof:parent_id": 404439647,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.234246, 
-    53.006081, 
-    -0.234246, 
-    53.006081
+    -0.213979, 
+    53.009959, 
+    -0.213979, 
+    53.009959
   ],
-  "geometry": {"coordinates":[-0.234246,53.006081],"type":"Point"}
+  "geometry": {"coordinates":[-0.213979,53.009959],"type":"Point"}
 }

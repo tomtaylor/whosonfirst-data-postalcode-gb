@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "uuuu",
-    "edtf:inception": "2018-04-01",
+    "edtf:inception": "2020-10-01",
     "geom:area": 0,
     "geom:bbox": "-0.451870,51.023015,-0.451870,51.023015",
     "geom:latitude": 51.023015,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698607, 
       85633159, 
       1360698757, 
       404448481, 
-      101854605
+      101854605, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1161002504,
-    "wof:lastmodified": 1583799593,
+    "wof:lastmodified": 1609873976,
     "wof:name": "RH14 4BY",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1997-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.359765,53.320447,-1.359765,53.320447",
-    "geom:latitude": 53.320447,
-    "geom:longitude": -1.359765,
+    "geom:bbox": "-1.358699,53.320486,-1.358699,53.320486",
+    "geom:latitude": 53.320486,
+    "geom:longitude": -1.358699,
     "gp:parent_id": "29397",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698591, 
-      85633159, 
       1360699075, 
       101750529, 
       404227469, 
-      85787845
+      85787845, 
+      1360698591, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701685,
-    "wof:geomhash": "854c2fbbc077085c3527ea85d74d1dc1",
+    "wof:geomhash": "aab201d63cd19fe501ce9baeebb507d4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471636535,
-    "wof:lastmodified": 1583786856,
+    "wof:lastmodified": 1609899963,
     "wof:name": "S20 5EF",
     "wof:parent_id": 404430843,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.359765, 
-    53.320447, 
-    -1.359765, 
-    53.320447
+    -1.358699, 
+    53.320486, 
+    -1.358699, 
+    53.320486
   ],
-  "geometry": {"coordinates":[-1.359765,53.320447],"type":"Point"}
+  "geometry": {"coordinates":[-1.358699,53.320486],"type":"Point"}
 }

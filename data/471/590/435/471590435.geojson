@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.022602,51.137662,-0.022602,51.137662",
-    "geom:latitude": 51.137662,
-    "geom:longitude": -0.022602,
+    "geom:bbox": "-0.022932,51.137649,-0.022932,51.137649",
+    "geom:latitude": 51.137649,
+    "geom:longitude": -0.022932,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698607, 
       85633159, 
       1360698757, 
       404434149, 
       101853483, 
-      404227469
+      404227469, 
+      1360698607
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701677,
-    "wof:geomhash": "61cb28cb1cb3616759d379edcffc85ea",
+    "wof:geomhash": "df980d8087c0e678f762cf70dea3cae4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471590435,
-    "wof:lastmodified": 1583786825,
+    "wof:lastmodified": 1609897861,
     "wof:name": "RH19 2AP",
     "wof:parent_id": 101853483,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.022602, 
-    51.137662, 
-    -0.022602, 
-    51.137662
+    -0.022932, 
+    51.137649, 
+    -0.022932, 
+    51.137649
   ],
-  "geometry": {"coordinates":[-0.022602,51.137662],"type":"Point"}
+  "geometry": {"coordinates":[-0.022932,51.137649],"type":"Point"}
 }

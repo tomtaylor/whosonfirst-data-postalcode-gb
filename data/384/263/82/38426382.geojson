@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-11-01",
     "geom:area": 0,
-    "geom:bbox": "-1.413295,52.570503,-1.413295,52.570503",
-    "geom:latitude": 52.570503,
+    "geom:bbox": "-1.413295,52.570530,-1.413295,52.570530",
+    "geom:latitude": 52.57053,
     "geom:longitude": -1.413295,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      404438451, 
       1126037973, 
       404227469, 
       1360698569, 
       85633159, 
-      1360698871, 
-      404438451
+      1360698871
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583790220,
-    "wof:geomhash": "9d3f09a8121824a7c57536910e2a4d24",
+    "wof:geomhash": "65fbce7b03af9b17bf60f724faae8dde",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 38426382,
-    "wof:lastmodified": 1583790220,
+    "wof:lastmodified": 1609868451,
     "wof:name": "CV13 6JP",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -51,9 +51,9 @@
   },
   "bbox": [
     -1.413295, 
-    52.570503, 
+    52.57053, 
     -1.413295, 
-    52.570503
+    52.57053
   ],
-  "geometry": {"coordinates":[-1.413295,52.570503],"type":"Point"}
+  "geometry": {"coordinates":[-1.413295,52.57053],"type":"Point"}
 }

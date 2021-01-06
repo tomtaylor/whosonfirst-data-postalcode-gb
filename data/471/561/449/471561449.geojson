@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.002642,51.357164,-1.002642,51.357164",
-    "geom:latitude": 51.357164,
-    "geom:longitude": -1.002642,
+    "geom:bbox": "-1.008130,51.348488,-1.008130,51.348488",
+    "geom:latitude": 51.348488,
+    "geom:longitude": -1.00813,
     "gp:parent_id": "36417",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698827, 
-      404430485, 
       1326465777, 
       404227469, 
-      1360698557
+      1360698557, 
+      85633159, 
+      1360698827, 
+      404430485
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701671,
-    "wof:geomhash": "e8840a0bf744a8ae8bf80ac97fe0f137",
+    "wof:geomhash": "28a904c8a985fa171391558c6354641a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471561449,
-    "wof:lastmodified": 1595723375,
+    "wof:lastmodified": 1609896965,
     "wof:name": "RG7 2BY",
     "wof:parent_id": 404430485,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.002642, 
-    51.357164, 
-    -1.002642, 
-    51.357164
+    -1.00813, 
+    51.348488, 
+    -1.00813, 
+    51.348488
   ],
-  "geometry": {"coordinates":[-1.002642,51.357164],"type":"Point"}
+  "geometry": {"coordinates":[-1.00813,51.348488],"type":"Point"}
 }

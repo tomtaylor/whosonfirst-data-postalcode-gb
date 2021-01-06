@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "-1.282677,50.964908,-1.282677,50.964908",
-    "geom:latitude": 50.964908,
-    "geom:longitude": -1.282677,
+    "geom:bbox": "-1.282594,50.964791,-1.282594,50.964791",
+    "geom:latitude": 50.964791,
+    "geom:longitude": -1.282594,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698827, 
       404453571, 
       1360759321, 
       404227469, 
-      1360698557
+      1360698557, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735607,
-    "wof:geomhash": "8fa7b2b8ba4f1005eefacb5716aeb251",
+    "wof:geomhash": "96b265500e73f3b0ed07397ea912489e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1713330327,
-    "wof:lastmodified": 1595753501,
+    "wof:lastmodified": 1609875388,
     "wof:name": "SO50 7QE",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.282677, 
-    50.964908, 
-    -1.282677, 
-    50.964908
+    -1.282594, 
+    50.964791, 
+    -1.282594, 
+    50.964791
   ],
-  "geometry": {"coordinates":[-1.282677,50.964908],"type":"Point"}
+  "geometry": {"coordinates":[-1.282594,50.964791],"type":"Point"}
 }

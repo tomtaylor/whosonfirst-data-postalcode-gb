@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.522304,55.846499,-4.522304,55.846499",
-    "geom:latitude": 55.846499,
-    "geom:longitude": -4.522304,
+    "geom:bbox": "-4.522224,55.846258,-4.522224,55.846258",
+    "geom:latitude": 55.846258,
+    "geom:longitude": -4.522224,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699097, 
       404432463, 
       404227471, 
       1360698699, 
-      85633159
+      85633159, 
+      1360699097
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583799431,
-    "wof:geomhash": "ec79e51602f3cc8cd86a517a3c1b2c8f",
+    "wof:geomhash": "1d75a83906e2a2cc4378586bd1f1ac25",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 39254454,
-    "wof:lastmodified": 1583799431,
+    "wof:lastmodified": 1609868495,
     "wof:name": "PA5 8US",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.522304, 
-    55.846499, 
-    -4.522304, 
-    55.846499
+    -4.522224, 
+    55.846258, 
+    -4.522224, 
+    55.846258
   ],
-  "geometry": {"coordinates":[-4.522304,55.846499],"type":"Point"}
+  "geometry": {"coordinates":[-4.522224,55.846258],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.109052,53.981845,-2.109052,53.981845",
-    "geom:latitude": 53.981845,
-    "geom:longitude": -2.109052,
+    "geom:bbox": "-2.108538,53.981760,-2.108538,53.981760",
+    "geom:latitude": 53.98176,
+    "geom:longitude": -2.108538,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698753, 
-      404442947, 
       101873291, 
       404227469, 
-      1360698619
+      1360698619, 
+      85633159, 
+      1360698753, 
+      404442947
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701325,
-    "wof:geomhash": "fa8906eef2ffc9dc88e40040fdf3b479",
+    "wof:geomhash": "2c6ad0316e97b95c3e57faf0b6b9a845",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 438131065,
-    "wof:lastmodified": 1583786454,
+    "wof:lastmodified": 1609875171,
     "wof:name": "BD23 3PG",
     "wof:parent_id": 101873291,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.109052, 
-    53.981845, 
-    -2.109052, 
-    53.981845
+    -2.108538, 
+    53.98176, 
+    -2.108538, 
+    53.98176
   ],
-  "geometry": {"coordinates":[-2.109052,53.981845],"type":"Point"}
+  "geometry": {"coordinates":[-2.108538,53.98176],"type":"Point"}
 }

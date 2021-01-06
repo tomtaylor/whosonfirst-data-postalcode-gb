@@ -6,9 +6,9 @@
     "edtf:inception": "1998-12-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.050782,51.604037,-0.050782,51.604037",
-    "geom:latitude": 51.604037,
-    "geom:longitude": -0.050782,
+    "geom:bbox": "-0.050984,51.603791,-0.050984,51.603791",
+    "geom:latitude": 51.603791,
+    "geom:longitude": -0.050984,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      101750367, 
+      404227469, 
       85860365, 
       1360698645, 
       1158857279, 
-      85633159, 
-      101750367, 
-      404227469
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701076,
-    "wof:geomhash": "797d60f70def9db3ddf2def86001cf48",
+    "wof:geomhash": "5e5cc76f4ff1afba2b065764f6b3b3cd",
     "wof:hierarchy": [
       {
         "borough_id": 1158857279,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471008651,
-    "wof:lastmodified": 1583786191,
+    "wof:lastmodified": 1609868788,
     "wof:name": "N17 0UL",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.050782, 
-    51.604037, 
-    -0.050782, 
-    51.604037
+    -0.050984, 
+    51.603791, 
+    -0.050984, 
+    51.603791
   ],
-  "geometry": {"coordinates":[-0.050782,51.604037],"type":"Point"}
+  "geometry": {"coordinates":[-0.050984,51.603791],"type":"Point"}
 }

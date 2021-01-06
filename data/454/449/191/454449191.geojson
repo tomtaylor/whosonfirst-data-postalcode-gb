@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.140234,53.499357,-1.140234,53.499357",
-    "geom:latitude": 53.499357,
-    "geom:longitude": -1.140234,
+    "geom:bbox": "-1.140036,53.498691,-1.140036,53.498691",
+    "geom:latitude": 53.498691,
+    "geom:longitude": -1.140036,
     "gp:parent_id": "18307",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698591, 
       85633159, 
       1360698973, 
-      101750545
+      101750545, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701573,
-    "wof:geomhash": "1f6278689e690edd8c3241060b708d81",
+    "wof:geomhash": "2b78c90e340e005f5497631ea35a2abf",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454449191,
-    "wof:lastmodified": 1583786705,
+    "wof:lastmodified": 1609889909,
     "wof:name": "DN4 8ND",
     "wof:parent_id": 101750545,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.140234, 
-    53.499357, 
-    -1.140234, 
-    53.499357
+    -1.140036, 
+    53.498691, 
+    -1.140036, 
+    53.498691
   ],
-  "geometry": {"coordinates":[-1.140234,53.499357],"type":"Point"}
+  "geometry": {"coordinates":[-1.140036,53.498691],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-05-01",
     "geom:area": 0,
-    "geom:bbox": "-1.581163,54.790800,-1.581163,54.790800",
-    "geom:latitude": 54.7908,
-    "geom:longitude": -1.581163,
+    "geom:bbox": "-1.580961,54.790808,-1.580961,54.790808",
+    "geom:latitude": 54.790808,
+    "geom:longitude": -1.580961,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698621, 
       85633159, 
       1360699055, 
       404448031, 
-      1360756237
+      1360756237, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583806194,
-    "wof:geomhash": "65a3bf22c791fdcf972f3f0740649faf",
+    "wof:geomhash": "0401bb0c082bb7028e6f28465a627fc7",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1161150944,
-    "wof:lastmodified": 1595713186,
+    "wof:lastmodified": 1609876375,
     "wof:name": "DH1 5ZJ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.581163, 
-    54.7908, 
-    -1.581163, 
-    54.7908
+    -1.580961, 
+    54.790808, 
+    -1.580961, 
+    54.790808
   ],
-  "geometry": {"coordinates":[-1.581163,54.7908],"type":"Point"}
+  "geometry": {"coordinates":[-1.580961,54.790808],"type":"Point"}
 }

@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "uuuu",
-    "edtf:inception": "2017-05-01",
+    "edtf:inception": "2020-07-01",
     "geom:area": 0,
     "geom:bbox": "-3.835203,51.017647,-3.835203,51.017647",
     "geom:latitude": 51.017647,
@@ -14,16 +14,16 @@
     "os:country_code": "E92000001",
     "os:county_code": "E10000008",
     "os:district_code": "E07000043",
-    "os:positional_quality_indicator": "1",
+    "os:positional_quality_indicator": "5",
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698541, 
       85633159, 
       1360699081, 
       404451097, 
-      101852621, 
-      404227469, 
-      1360698541
+      101852621
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 38951244,
-    "wof:lastmodified": 1583796126,
+    "wof:lastmodified": 1609868501,
     "wof:name": "EX36 9AN",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-02-01",
     "geom:area": 0,
-    "geom:bbox": "-1.310111,50.996197,-1.310111,50.996197",
-    "geom:latitude": 50.996197,
-    "geom:longitude": -1.310111,
+    "geom:bbox": "-1.309880,50.996357,-1.309880,50.996357",
+    "geom:latitude": 50.996357,
+    "geom:longitude": -1.30988,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698827, 
-      404441041, 
       1125883165, 
       404227469, 
-      1360698557
+      1360698557, 
+      85633159, 
+      1360698827, 
+      404441041
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735655,
-    "wof:geomhash": "5ee3cf896489723fc0cfc51d04e38004",
+    "wof:geomhash": "349afe5a9828b829b87afcc12db5da81",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1713331117,
-    "wof:lastmodified": 1595753465,
+    "wof:lastmodified": 1609875459,
     "wof:name": "SO21 1FZ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.310111, 
-    50.996197, 
-    -1.310111, 
-    50.996197
+    -1.30988, 
+    50.996357, 
+    -1.30988, 
+    50.996357
   ],
-  "geometry": {"coordinates":[-1.310111,50.996197],"type":"Point"}
+  "geometry": {"coordinates":[-1.30988,50.996357],"type":"Point"}
 }

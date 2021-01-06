@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.964810,55.969164,-2.964810,55.969164",
-    "geom:latitude": 55.969164,
-    "geom:longitude": -2.96481,
+    "geom:bbox": "-2.964634,55.969193,-2.964634,55.969193",
+    "geom:latitude": 55.969193,
+    "geom:longitude": -2.964634,
     "gp:parent_id": "16468",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698675, 
       85633159, 
       1360699017, 
       404447595, 
-      404227471
+      404227471, 
+      1360698675
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701630,
-    "wof:geomhash": "2f64ce5460be071a22d7041b1a49b887",
+    "wof:geomhash": "cfb73094082b80190b4e2fd8208de9e1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488634461,
-    "wof:lastmodified": 1595735459,
+    "wof:lastmodified": 1609899422,
     "wof:name": "EH32 0HZ",
     "wof:parent_id": 404447595,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.96481, 
-    55.969164, 
-    -2.96481, 
-    55.969164
+    -2.964634, 
+    55.969193, 
+    -2.964634, 
+    55.969193
   ],
-  "geometry": {"coordinates":[-2.96481,55.969164],"type":"Point"}
+  "geometry": {"coordinates":[-2.964634,55.969193],"type":"Point"}
 }

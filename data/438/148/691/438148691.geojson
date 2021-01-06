@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.925235,50.748882,-1.925235,50.748882",
-    "geom:latitude": 50.748882,
-    "geom:longitude": -1.925235,
+    "geom:bbox": "-1.925042,50.748790,-1.925042,50.748790",
+    "geom:latitude": 50.74879,
+    "geom:longitude": -1.925042,
     "gp:parent_id": "32326",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      101750309, 
       404227469, 
       1360698545, 
       85633159, 
-      1360698905
+      1360698905, 
+      101750309
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701342,
-    "wof:geomhash": "7c4837e8d1e3faa088408c502611ba01",
+    "wof:geomhash": "01fe0d74bbdc82cd768eb7d4e11be945",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 438148691,
-    "wof:lastmodified": 1583786480,
+    "wof:lastmodified": 1609876792,
     "wof:name": "BH12 5AH",
     "wof:parent_id": 101750309,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.925235, 
-    50.748882, 
-    -1.925235, 
-    50.748882
+    -1.925042, 
+    50.74879, 
+    -1.925042, 
+    50.74879
   ],
-  "geometry": {"coordinates":[-1.925235,50.748882],"type":"Point"}
+  "geometry": {"coordinates":[-1.925042,50.74879],"type":"Point"}
 }

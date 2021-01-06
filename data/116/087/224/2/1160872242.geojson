@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-06-01",
     "geom:area": 0,
-    "geom:bbox": "-0.527438,52.091347,-0.527438,52.091347",
-    "geom:latitude": 52.091347,
-    "geom:longitude": -0.527438,
+    "geom:bbox": "-0.527423,52.091346,-0.527423,52.091346",
+    "geom:latitude": 52.091346,
+    "geom:longitude": -0.527423,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698527, 
-      85633159, 
       1360699073, 
       404450751, 
       1326859469, 
-      404227469
+      404227469, 
+      1360698527, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583793765,
-    "wof:geomhash": "dd257fb756408d06fdd9d5ef727da384",
+    "wof:geomhash": "31b197c3b75da51de29cc9e215abb136",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160872242,
-    "wof:lastmodified": 1595711118,
+    "wof:lastmodified": 1609871108,
     "wof:name": "MK43 9RB",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.527438, 
-    52.091347, 
-    -0.527438, 
-    52.091347
+    -0.527423, 
+    52.091346, 
+    -0.527423, 
+    52.091346
   ],
-  "geometry": {"coordinates":[-0.527438,52.091347],"type":"Point"}
+  "geometry": {"coordinates":[-0.527423,52.091346],"type":"Point"}
 }

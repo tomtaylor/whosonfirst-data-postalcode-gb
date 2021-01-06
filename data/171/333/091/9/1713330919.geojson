@@ -5,30 +5,30 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "0.704781,51.928782,0.704781,51.928782",
-    "geom:latitude": 51.928782,
-    "geom:longitude": 0.704781,
+    "geom:bbox": "0.695367,51.930203,0.695367,51.930203",
+    "geom:latitude": 51.930203,
+    "geom:longitude": 0.695367,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000012",
     "os:district_code": "E07000067",
-    "os:positional_quality_indicator": "5",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698979, 
-      404450177, 
       101854711, 
       404227469, 
-      1360698551
+      1360698551, 
+      85633159, 
+      1360698979, 
+      404450177
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735632,
-    "wof:geomhash": "118c31ff99b71fe3083b0c414e843149",
+    "wof:geomhash": "114fdc9664cda9b648f3fabd66cd93df",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1713330919,
-    "wof:lastmodified": 1595753457,
+    "wof:lastmodified": 1609875441,
     "wof:name": "CO6 2FG",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.704781, 
-    51.928782, 
-    0.704781, 
-    51.928782
+    0.695367, 
+    51.930203, 
+    0.695367, 
+    51.930203
   ],
-  "geometry": {"coordinates":[0.704781,51.928782],"type":"Point"}
+  "geometry": {"coordinates":[0.695367,51.930203],"type":"Point"}
 }

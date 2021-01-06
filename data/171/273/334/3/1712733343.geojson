@@ -5,30 +5,30 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-12-01",
     "geom:area": 0,
-    "geom:bbox": "0.502229,52.272480,0.502229,52.272480",
-    "geom:latitude": 52.27248,
-    "geom:longitude": 0.502229,
+    "geom:bbox": "0.500414,52.270702,0.500414,52.270702",
+    "geom:latitude": 52.270702,
+    "geom:longitude": 0.500414,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000029",
     "os:district_code": "E07000245",
-    "os:positional_quality_indicator": "5",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698595, 
       85633159, 
       1360699041, 
       404448235, 
-      1125978033
+      1125978033, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583801181,
-    "wof:geomhash": "4ff2391693618a2891b4385cde671ac6",
+    "wof:geomhash": "0b3528099e7d48d27e0b6c85f4ec76c5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712733343,
-    "wof:lastmodified": 1583801181,
+    "wof:lastmodified": 1609873279,
     "wof:name": "CB8 7GH",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.502229, 
-    52.27248, 
-    0.502229, 
-    52.27248
+    0.500414, 
+    52.270702, 
+    0.500414, 
+    52.270702
   ],
-  "geometry": {"coordinates":[0.502229,52.27248],"type":"Point"}
+  "geometry": {"coordinates":[0.500414,52.270702],"type":"Point"}
 }

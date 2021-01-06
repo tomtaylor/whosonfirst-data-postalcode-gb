@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-05-01",
     "geom:area": 0,
-    "geom:bbox": "1.332859,52.585003,1.332859,52.585003",
-    "geom:latitude": 52.585003,
-    "geom:longitude": 1.332859,
+    "geom:bbox": "1.332901,52.584786,1.332901,52.584786",
+    "geom:latitude": 52.584786,
+    "geom:longitude": 1.332901,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698575, 
-      85633159, 
       1360698955, 
       404447033, 
       1360754707, 
-      404227469
+      404227469, 
+      1360698575, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583793748,
-    "wof:geomhash": "d0058de4ea85ce94dfd28e66e02417d5",
+    "wof:geomhash": "5d15d9837c0140388dbdde7f7b7736ba",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 38738016,
-    "wof:lastmodified": 1583793748,
+    "wof:lastmodified": 1609868476,
     "wof:name": "NR14 7FL",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.332859, 
-    52.585003, 
-    1.332859, 
-    52.585003
+    1.332901, 
+    52.584786, 
+    1.332901, 
+    52.584786
   ],
-  "geometry": {"coordinates":[1.332859,52.585003],"type":"Point"}
+  "geometry": {"coordinates":[1.332901,52.584786],"type":"Point"}
 }

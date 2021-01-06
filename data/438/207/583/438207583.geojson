@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.449647,50.809371,-0.449647,50.809371",
-    "geom:latitude": 50.809371,
-    "geom:longitude": -0.449647,
+    "geom:bbox": "-0.449650,50.809281,-0.449650,50.809281",
+    "geom:latitude": 50.809281,
+    "geom:longitude": -0.44965,
     "gp:parent_id": "20106",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698607, 
-      85633159, 
       1360698757, 
       404430629, 
       1125769747, 
-      404227469
+      404227469, 
+      1360698607, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701399,
-    "wof:geomhash": "c7f80284d8d0bf40c9fdb8ab25e4fcbc",
+    "wof:geomhash": "aec6201799793411a8203bd22dc7af88",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438207583,
-    "wof:lastmodified": 1595713706,
+    "wof:lastmodified": 1609879744,
     "wof:name": "BN12 5LX",
     "wof:parent_id": 101751581,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.449647, 
-    50.809371, 
-    -0.449647, 
-    50.809371
+    -0.44965, 
+    50.809281, 
+    -0.44965, 
+    50.809281
   ],
-  "geometry": {"coordinates":[-0.449647,50.809371],"type":"Point"}
+  "geometry": {"coordinates":[-0.44965,50.809281],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.265308,52.935432,1.265308,52.935432",
-    "geom:latitude": 52.935432,
-    "geom:longitude": 1.265308,
+    "geom:bbox": "1.265829,52.935435,1.265829,52.935435",
+    "geom:latitude": 52.935435,
+    "geom:longitude": 1.265829,
     "gp:parent_id": "19079",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698575, 
-      85633159, 
       1360698955, 
       404440503, 
       1360756273, 
-      404227469
+      404227469, 
+      1360698575, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701410,
-    "wof:geomhash": "9be7fc0ddcd71f0e8707e45145f36f8e",
+    "wof:geomhash": "cfa445ac3ea5ba3a8cfcc776c7a1bdd8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471221621,
-    "wof:lastmodified": 1583786564,
+    "wof:lastmodified": 1609880821,
     "wof:name": "NR27 9PD",
     "wof:parent_id": 404440503,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.265308, 
-    52.935432, 
-    1.265308, 
-    52.935432
+    1.265829, 
+    52.935435, 
+    1.265829, 
+    52.935435
   ],
-  "geometry": {"coordinates":[1.265308,52.935432],"type":"Point"}
+  "geometry": {"coordinates":[1.265829,52.935435],"type":"Point"}
 }

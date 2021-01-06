@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-12-01",
     "geom:area": 0,
-    "geom:bbox": "-3.268495,51.510045,-3.268495,51.510045",
-    "geom:latitude": 51.510045,
-    "geom:longitude": -3.268495,
+    "geom:bbox": "-3.268567,51.510053,-3.268567,51.510053",
+    "geom:latitude": 51.510053,
+    "geom:longitude": -3.268567,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698627, 
-      1360887627, 
-      85633159, 
       1360699107, 
       101750397, 
-      404227475
+      404227475, 
+      1360698627, 
+      1360887627, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583802295,
-    "wof:geomhash": "48a5a9d60b6243364bfe4f5222928fe5",
+    "wof:geomhash": "c1b43abc5fcdad586bde8b262e06a537",
     "wof:hierarchy": [
       {
         "borough_id": 1360887627,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1161064354,
-    "wof:lastmodified": 1583802295,
+    "wof:lastmodified": 1609875723,
     "wof:name": "CF5 6FP",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.268495, 
-    51.510045, 
-    -3.268495, 
-    51.510045
+    -3.268567, 
+    51.510053, 
+    -3.268567, 
+    51.510053
   ],
-  "geometry": {"coordinates":[-3.268495,51.510045],"type":"Point"}
+  "geometry": {"coordinates":[-3.268567,51.510053],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.190747,54.561136,-1.190747,54.561136",
-    "geom:latitude": 54.561136,
-    "geom:longitude": -1.190747,
+    "geom:bbox": "-1.191042,54.561093,-1.191042,54.561093",
+    "geom:latitude": 54.561093,
+    "geom:longitude": -1.191042,
     "gp:parent_id": "28869",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698619, 
       85633159, 
       1360698853, 
-      101750599
+      101750599, 
+      404227469, 
+      1360698619
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701288,
-    "wof:geomhash": "25a4627487fd64f98d974c7ee44e3dcb",
+    "wof:geomhash": "7b0822f8bcd3d9c864d88cef9df6c904",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 487960095,
-    "wof:lastmodified": 1595726184,
+    "wof:lastmodified": 1609888926,
     "wof:name": "TS3 8NP",
     "wof:parent_id": 101750599,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.190747, 
-    54.561136, 
-    -1.190747, 
-    54.561136
+    -1.191042, 
+    54.561093, 
+    -1.191042, 
+    54.561093
   ],
-  "geometry": {"coordinates":[-1.190747,54.561136],"type":"Point"}
+  "geometry": {"coordinates":[-1.191042,54.561093],"type":"Point"}
 }

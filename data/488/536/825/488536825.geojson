@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1996-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.159399,57.123180,-2.159399,57.123180",
-    "geom:latitude": 57.12318,
-    "geom:longitude": -2.159399,
+    "geom:bbox": "-2.153774,57.124875,-2.153774,57.124875",
+    "geom:latitude": 57.124875,
+    "geom:longitude": -2.153774,
     "gp:parent_id": "12696182",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,12 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698989, 
+      404429183, 
+      101750639, 
       404227471, 
       1360698709, 
-      85633159, 
-      1360698989, 
-      404429183
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,18 +32,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701549,
-    "wof:geomhash": "bf8e8eddf55596c8f174b83c823ba89e",
+    "wof:geomhash": "9bc1bc655d09648c81772fb9a1acb9e2",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360698989,
         "localadmin_id": 404429183,
+        "locality_id": 101750639,
         "macroregion_id": 404227471,
         "region_id": 1360698709
       }
     ],
     "wof:id": 488536825,
-    "wof:lastmodified": 1583786752,
+    "wof:lastmodified": 1609895766,
     "wof:name": "AB15 9PN",
     "wof:parent_id": 101750639,
     "wof:placetype": "postalcode",
@@ -52,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.159399, 
-    57.12318, 
-    -2.159399, 
-    57.12318
+    -2.153774, 
+    57.124875, 
+    -2.153774, 
+    57.124875
   ],
-  "geometry": {"coordinates":[-2.159399,57.12318],"type":"Point"}
+  "geometry": {"coordinates":[-2.153774,57.124875],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2015-12-01",
     "geom:area": 0,
-    "geom:bbox": "-0.618814,52.323749,-0.618814,52.323749",
-    "geom:latitude": 52.323749,
-    "geom:longitude": -0.618814,
+    "geom:bbox": "-0.618772,52.323695,-0.618772,52.323695",
+    "geom:latitude": 52.323695,
+    "geom:longitude": -0.618772,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698577, 
-      85633159, 
       1360698755, 
       404448195, 
       101853571, 
-      404227469
+      404227469, 
+      1360698577, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701358,
-    "wof:geomhash": "2b468cca7c390f873d364b05a240320b",
+    "wof:geomhash": "8860010146a86013533d15dcd89c64e3",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 437542719,
-    "wof:lastmodified": 1595713438,
+    "wof:lastmodified": 1609877877,
     "wof:name": "NN9 5WJ",
     "wof:parent_id": 404448195,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.618814, 
-    52.323749, 
-    -0.618814, 
-    52.323749
+    -0.618772, 
+    52.323695, 
+    -0.618772, 
+    52.323695
   ],
-  "geometry": {"coordinates":[-0.618814,52.323749],"type":"Point"}
+  "geometry": {"coordinates":[-0.618772,52.323695],"type":"Point"}
 }

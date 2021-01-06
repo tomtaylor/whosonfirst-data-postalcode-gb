@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.883642,52.131072,0.883642,52.131072",
-    "geom:latitude": 52.131072,
-    "geom:longitude": 0.883642,
+    "geom:bbox": "0.883572,52.131128,0.883572,52.131128",
+    "geom:latitude": 52.131128,
+    "geom:longitude": 0.883572,
     "gp:parent_id": "23572",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698595, 
       85633159, 
       1360699041, 
       404429483, 
-      1125765631, 
-      404227469, 
-      1360698595
+      1125765631
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701745,
-    "wof:geomhash": "badf499b2373a0f9a8c5fb87fe7e617c",
+    "wof:geomhash": "3d6315e7365661507695f42dd7f9907f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454899479,
-    "wof:lastmodified": 1595717643,
+    "wof:lastmodified": 1609904563,
     "wof:name": "IP7 7PS",
     "wof:parent_id": 404429483,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.883642, 
-    52.131072, 
-    0.883642, 
-    52.131072
+    0.883572, 
+    52.131128, 
+    0.883572, 
+    52.131128
   ],
-  "geometry": {"coordinates":[0.883642,52.131072],"type":"Point"}
+  "geometry": {"coordinates":[0.883572,52.131128],"type":"Point"}
 }

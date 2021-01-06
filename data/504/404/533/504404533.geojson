@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.334231,55.858301,-4.334231,55.858301",
-    "geom:latitude": 55.858301,
-    "geom:longitude": -4.334231,
+    "geom:bbox": "-4.334203,55.858356,-4.334203,55.858356",
+    "geom:latitude": 55.858356,
+    "geom:longitude": -4.334203,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698797, 
       404430153, 
       1175612707, 
       404227471, 
-      85861561, 
+      85786247, 
       1360698707, 
-      85633159
+      85633159, 
+      1360698797
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701165,
-    "wof:geomhash": "e7b497e39e46d7502851f74fb3a2e4ba",
+    "wof:geomhash": "d16a0957fc7419fae2c160fade388e48",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -41,12 +41,12 @@
         "localadmin_id": 404430153,
         "locality_id": 1175612707,
         "macroregion_id": 404227471,
-        "neighbourhood_id": 85861561,
+        "neighbourhood_id": 85786247,
         "region_id": 1360698707
       }
     ],
     "wof:id": 504404533,
-    "wof:lastmodified": 1595727607,
+    "wof:lastmodified": 1609869700,
     "wof:name": "G51 4NJ",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.334231, 
-    55.858301, 
-    -4.334231, 
-    55.858301
+    -4.334203, 
+    55.858356, 
+    -4.334203, 
+    55.858356
   ],
-  "geometry": {"coordinates":[-4.334231,55.858301],"type":"Point"}
+  "geometry": {"coordinates":[-4.334203,55.858356],"type":"Point"}
 }

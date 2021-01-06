@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.302884,55.873260,-4.302884,55.873260",
-    "geom:latitude": 55.87326,
-    "geom:longitude": -4.302884,
+    "geom:bbox": "-4.302644,55.873232,-4.302644,55.873232",
+    "geom:latitude": 55.873232,
+    "geom:longitude": -4.302644,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      85792459, 
+      1360698707, 
+      85633159, 
       1360698797, 
       404430153, 
       1175612707, 
-      404227471, 
-      85792459, 
-      1360698707, 
-      85633159
+      404227471
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701122,
-    "wof:geomhash": "253d89108bf7ecf1c59ca459caaacd78",
+    "wof:geomhash": "e19ac73934273a8b4af576953e3b9cb9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 504389693,
-    "wof:lastmodified": 1583786217,
+    "wof:lastmodified": 1609869186,
     "wof:name": "G11 5DZ",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.302884, 
-    55.87326, 
-    -4.302884, 
-    55.87326
+    -4.302644, 
+    55.873232, 
+    -4.302644, 
+    55.873232
   ],
-  "geometry": {"coordinates":[-4.302884,55.87326],"type":"Point"}
+  "geometry": {"coordinates":[-4.302644,55.873232],"type":"Point"}
 }

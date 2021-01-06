@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-03-01",
     "geom:area": 0,
-    "geom:bbox": "-0.047029,53.523566,-0.047029,53.523566",
-    "geom:latitude": 53.523566,
-    "geom:longitude": -0.047029,
+    "geom:bbox": "-0.046893,53.523573,-0.046893,53.523573",
+    "geom:latitude": 53.523573,
+    "geom:longitude": -0.046893,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404443409, 
-      1125882539, 
       404227469, 
       1360698571, 
       85633159, 
-      1360698837
+      1360698837, 
+      404443409, 
+      1125882539
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583787115,
-    "wof:geomhash": "6a2cc2bb240e115943bd439bbcbb6b94",
+    "wof:geomhash": "7454d3d56089691aacc3a63dbe6fbd0b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712417035,
-    "wof:lastmodified": 1583787115,
+    "wof:lastmodified": 1609868716,
     "wof:name": "DN36 4ZP",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.047029, 
-    53.523566, 
-    -0.047029, 
-    53.523566
+    -0.046893, 
+    53.523573, 
+    -0.046893, 
+    53.523573
   ],
-  "geometry": {"coordinates":[-0.047029,53.523566],"type":"Point"}
+  "geometry": {"coordinates":[-0.046893,53.523573],"type":"Point"}
 }

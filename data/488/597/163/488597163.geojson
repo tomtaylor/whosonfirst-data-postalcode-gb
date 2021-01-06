@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.462489,56.714405,-2.462489,56.714405",
-    "geom:latitude": 56.714405,
-    "geom:longitude": -2.462489,
+    "geom:bbox": "-2.462527,56.714331,-2.462527,56.714331",
+    "geom:latitude": 56.714331,
+    "geom:longitude": -2.462527,
     "gp:parent_id": "12696184",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404446035, 
-      404227471, 
       1360698689, 
       85633159, 
-      1360698807
+      1360698807, 
+      404446035, 
+      404227471
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701612,
-    "wof:geomhash": "78037df0b84759c2f865c949627e3459",
+    "wof:geomhash": "aeedc7d5a631a724a274402561bd8688",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488597163,
-    "wof:lastmodified": 1583786804,
+    "wof:lastmodified": 1609898353,
     "wof:name": "DD10 8RN",
     "wof:parent_id": 101872633,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.462489, 
-    56.714405, 
-    -2.462489, 
-    56.714405
+    -2.462527, 
+    56.714331, 
+    -2.462527, 
+    56.714331
   ],
-  "geometry": {"coordinates":[-2.462489,56.714405],"type":"Point"}
+  "geometry": {"coordinates":[-2.462527,56.714331],"type":"Point"}
 }

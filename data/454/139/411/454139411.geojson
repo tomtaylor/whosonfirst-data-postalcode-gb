@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1998-12-01",
     "geom:area": 0,
-    "geom:bbox": "0.292408,51.682418,0.292408,51.682418",
-    "geom:latitude": 51.682418,
-    "geom:longitude": 0.292408,
+    "geom:bbox": "0.292397,51.682490,0.292397,51.682490",
+    "geom:latitude": 51.68249,
+    "geom:longitude": 0.292397,
     "gp:parent_id": "36271",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698979, 
       404453009, 
       1125957261, 
       404227469, 
-      1360698551, 
-      85633159, 
-      1360698979
+      1360698551
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701302,
-    "wof:geomhash": "52c7e60fd7fcf2b4a56e872a284691bb",
+    "wof:geomhash": "c6628e408ed8188bf4474553dc7e8200",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454139411,
-    "wof:lastmodified": 1583786435,
+    "wof:lastmodified": 1609873282,
     "wof:name": "CM15 0EN",
     "wof:parent_id": 404453009,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.292408, 
-    51.682418, 
-    0.292408, 
-    51.682418
+    0.292397, 
+    51.68249, 
+    0.292397, 
+    51.68249
   ],
-  "geometry": {"coordinates":[0.292408,51.682418],"type":"Point"}
+  "geometry": {"coordinates":[0.292397,51.68249],"type":"Point"}
 }

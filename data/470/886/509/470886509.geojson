@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1994-05-01",
     "geom:area": 0,
-    "geom:bbox": "-2.334593,53.568236,-2.334593,53.568236",
-    "geom:latitude": 53.568236,
-    "geom:longitude": -2.334593,
+    "geom:bbox": "-2.334623,53.568218,-2.334623,53.568218",
+    "geom:latitude": 53.568218,
+    "geom:longitude": -2.334623,
     "gp:parent_id": "32818",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698555, 
-      85633159, 
       1360698847, 
       101750567, 
       404227469, 
-      85791629
+      85791629, 
+      1360698555, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701212,
-    "wof:geomhash": "b2ad890c3849244272a342a19a1ce9e5",
+    "wof:geomhash": "ab0ec50a0ff96c44bd68f33e45216fd7",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470886509,
-    "wof:lastmodified": 1583786349,
+    "wof:lastmodified": 1609871408,
     "wof:name": "M26 4FT",
     "wof:parent_id": 101913947,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.334593, 
-    53.568236, 
-    -2.334593, 
-    53.568236
+    -2.334623, 
+    53.568218, 
+    -2.334623, 
+    53.568218
   ],
-  "geometry": {"coordinates":[-2.334593,53.568236],"type":"Point"}
+  "geometry": {"coordinates":[-2.334623,53.568218],"type":"Point"}
 }

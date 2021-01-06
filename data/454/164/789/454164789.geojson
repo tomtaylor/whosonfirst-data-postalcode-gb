@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.603576,51.815618,0.603576,51.815618",
-    "geom:latitude": 51.815618,
-    "geom:longitude": 0.603576,
+    "geom:bbox": "0.603444,51.815585,0.603444,51.815585",
+    "geom:latitude": 51.815585,
+    "geom:longitude": 0.603444,
     "gp:parent_id": "19987",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
       1360698551, 
       85633159, 
       1360698979, 
       404433619, 
-      1310628221, 
-      404227469
+      1310628221
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701327,
-    "wof:geomhash": "2937dc76d9482937609633ac7329a9f9",
+    "wof:geomhash": "b930d0a929a28f90660908a56ec9763e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454164789,
-    "wof:lastmodified": 1583786465,
+    "wof:lastmodified": 1609875312,
     "wof:name": "CM8 1SN",
     "wof:parent_id": 404433619,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.603576, 
-    51.815618, 
-    0.603576, 
-    51.815618
+    0.603444, 
+    51.815585, 
+    0.603444, 
+    51.815585
   ],
-  "geometry": {"coordinates":[0.603576,51.815618],"type":"Point"}
+  "geometry": {"coordinates":[0.603444,51.815585],"type":"Point"}
 }

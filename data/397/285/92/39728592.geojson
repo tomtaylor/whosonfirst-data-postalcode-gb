@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.669160,50.830624,-0.669160,50.830624",
-    "geom:latitude": 50.830624,
-    "geom:longitude": -0.66916,
+    "geom:bbox": "-0.669259,50.830652,-0.669259,50.830652",
+    "geom:latitude": 50.830652,
+    "geom:longitude": -0.669259,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698757, 
-      404434151, 
-      1360755335, 
       404227469, 
       1360698607, 
-      85633159
+      85633159, 
+      1360698757, 
+      404434151, 
+      1360755335
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583804637,
-    "wof:geomhash": "0721c38197dabcecf68580608ef34990",
+    "wof:geomhash": "e45b64c2d0aaffd506e05e5ce5155fa1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 39728592,
-    "wof:lastmodified": 1583804637,
+    "wof:lastmodified": 1609868655,
     "wof:name": "PO20 3AG",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.66916, 
-    50.830624, 
-    -0.66916, 
-    50.830624
+    -0.669259, 
+    50.830652, 
+    -0.669259, 
+    50.830652
   ],
-  "geometry": {"coordinates":[-0.66916,50.830624],"type":"Point"}
+  "geometry": {"coordinates":[-0.669259,50.830652],"type":"Point"}
 }

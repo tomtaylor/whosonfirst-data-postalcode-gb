@@ -2,7 +2,7 @@
   "id": 504570729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-08-01",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:bbox": "-3.547303,56.748477,-3.547303,56.748477",
@@ -11,7 +11,7 @@
     "gp:parent_id": "19627",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "S92000003",
     "os:county_code": "S99999999",
     "os:district_code": "S12000048",
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698691, 
-      85633159, 
       1360698829, 
       404451983, 
-      404227471
+      404227471, 
+      1360698691, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504570729,
-    "wof:lastmodified": 1583786579,
+    "wof:lastmodified": 1609880040,
     "wof:name": "PH10 7PG",
     "wof:parent_id": 404451983,
     "wof:placetype": "postalcode",

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.481676,53.336651,-1.481676,53.336651",
-    "geom:latitude": 53.336651,
-    "geom:longitude": -1.481676,
+    "geom:bbox": "-1.481660,53.336660,-1.481660,53.336660",
+    "geom:latitude": 53.33666,
+    "geom:longitude": -1.48166,
     "gp:parent_id": "34503",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360699075, 
       101750529, 
       404227469, 
       85791787, 
-      1360698591, 
-      85633159
+      1360698591
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701701,
-    "wof:geomhash": "eaffec3490d1e6d262dfcf6707cd6e9a",
+    "wof:geomhash": "e3589e57cf953be010bd2880be633738",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471688519,
-    "wof:lastmodified": 1583786883,
+    "wof:lastmodified": 1609900758,
     "wof:name": "S8 7UE",
     "wof:parent_id": 404430843,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.481676, 
-    53.336651, 
-    -1.481676, 
-    53.336651
+    -1.48166, 
+    53.33666, 
+    -1.48166, 
+    53.33666
   ],
-  "geometry": {"coordinates":[-1.481676,53.336651],"type":"Point"}
+  "geometry": {"coordinates":[-1.48166,53.33666],"type":"Point"}
 }

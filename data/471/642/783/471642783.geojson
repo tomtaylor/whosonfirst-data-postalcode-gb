@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1997-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.461482,53.473333,-1.461482,53.473333",
-    "geom:latitude": 53.473333,
-    "geom:longitude": -1.461482,
+    "geom:bbox": "-1.461662,53.473415,-1.461662,53.473415",
+    "geom:latitude": 53.473415,
+    "geom:longitude": -1.461662,
     "gp:parent_id": "15635",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699075, 
       404451341, 
       1125852303, 
       404227469, 
       85787791, 
-      1360698591
+      1360698591, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701688,
-    "wof:geomhash": "4dae96e3576489ae5093faf9afc732bc",
+    "wof:geomhash": "49d7b732722acc5bd1eed533cc70c28d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 471642783,
-    "wof:lastmodified": 1583786857,
+    "wof:lastmodified": 1609900165,
     "wof:name": "S35 2YA",
     "wof:parent_id": 404451341,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.461482, 
-    53.473333, 
-    -1.461482, 
-    53.473333
+    -1.461662, 
+    53.473415, 
+    -1.461662, 
+    53.473415
   ],
-  "geometry": {"coordinates":[-1.461482,53.473333],"type":"Point"}
+  "geometry": {"coordinates":[-1.461662,53.473415],"type":"Point"}
 }

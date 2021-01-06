@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.571319,53.807017,-1.571319,53.807017",
-    "geom:latitude": 53.807017,
-    "geom:longitude": -1.571319,
+    "geom:bbox": "-1.571095,53.806997,-1.571095,53.806997",
+    "geom:latitude": 53.806997,
+    "geom:longitude": -1.571095,
     "gp:parent_id": "26042",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      101750579, 
       404227469, 
       85792899, 
       1360698609, 
       85633159, 
-      1360698749, 
-      101750579
+      1360698749
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701093,
-    "wof:geomhash": "31c41d8de060693b2811b81df103c2cf",
+    "wof:geomhash": "b60a1700f28897226ea4e583b90a4a46",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470837399,
-    "wof:lastmodified": 1583786209,
+    "wof:lastmodified": 1609869223,
     "wof:name": "LS6 1RH",
     "wof:parent_id": 101750579,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.571319, 
-    53.807017, 
-    -1.571319, 
-    53.807017
+    -1.571095, 
+    53.806997, 
+    -1.571095, 
+    53.806997
   ],
-  "geometry": {"coordinates":[-1.571319,53.807017],"type":"Point"}
+  "geometry": {"coordinates":[-1.571095,53.806997],"type":"Point"}
 }

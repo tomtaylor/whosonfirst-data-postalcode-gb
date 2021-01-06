@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.752632,56.028216,-3.752632,56.028216",
-    "geom:latitude": 56.028216,
-    "geom:longitude": -3.752632,
+    "geom:bbox": "-3.752441,56.028237,-3.752441,56.028237",
+    "geom:latitude": 56.028237,
+    "geom:longitude": -3.752441,
     "gp:parent_id": "34927",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404451599, 
       404227471, 
       1360698655, 
       85633159, 
-      1360698865
+      1360698865, 
+      404451599
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701110,
-    "wof:geomhash": "837b1d99b937d63300d43e9c3abf6f78",
+    "wof:geomhash": "c392f7ec5d350051e6eeb5668ae74138",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504384509,
-    "wof:lastmodified": 1583786201,
+    "wof:lastmodified": 1609869044,
     "wof:name": "FK2 8NW",
     "wof:parent_id": 404451599,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.752632, 
-    56.028216, 
-    -3.752632, 
-    56.028216
+    -3.752441, 
+    56.028237, 
+    -3.752441, 
+    56.028237
   ],
-  "geometry": {"coordinates":[-3.752632,56.028216],"type":"Point"}
+  "geometry": {"coordinates":[-3.752441,56.028237],"type":"Point"}
 }

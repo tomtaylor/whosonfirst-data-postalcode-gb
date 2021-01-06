@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1996-06-01",
     "geom:area": 0,
-    "geom:bbox": "-4.802114,55.956045,-4.802114,55.956045",
-    "geom:latitude": 55.956045,
-    "geom:longitude": -4.802114,
+    "geom:bbox": "-4.801582,55.956209,-4.801582,55.956209",
+    "geom:latitude": 55.956209,
+    "geom:longitude": -4.801582,
     "gp:parent_id": "12696200",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      404455299, 
+      101750635, 
       404227471, 
       1360698699, 
       85633159, 
-      1360699121, 
-      404455299, 
-      101750635
+      1360699121
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701427,
-    "wof:geomhash": "1c204c9faf4fe5ab9e50cd76e126c663",
+    "wof:geomhash": "1e052f6ee2968fa2560f272cd7353955",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504558651,
-    "wof:lastmodified": 1583786569,
+    "wof:lastmodified": 1609879395,
     "wof:name": "PA19 1TZ",
     "wof:parent_id": 101750635,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.802114, 
-    55.956045, 
-    -4.802114, 
-    55.956045
+    -4.801582, 
+    55.956209, 
+    -4.801582, 
+    55.956209
   ],
-  "geometry": {"coordinates":[-4.802114,55.956045],"type":"Point"}
+  "geometry": {"coordinates":[-4.801582,55.956209],"type":"Point"}
 }

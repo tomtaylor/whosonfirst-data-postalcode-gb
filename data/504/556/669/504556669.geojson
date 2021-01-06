@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.749830,55.934039,-4.749830,55.934039",
-    "geom:latitude": 55.934039,
-    "geom:longitude": -4.74983,
+    "geom:bbox": "-4.749811,55.934033,-4.749811,55.934033",
+    "geom:latitude": 55.934033,
+    "geom:longitude": -4.749811,
     "gp:parent_id": "12696200",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      404227471, 
       1360698699, 
       85633159, 
       1360699121, 
       404455299, 
-      101750635, 
-      404227471
+      101750635
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701425,
-    "wof:geomhash": "b5ca90801ac306c6c5c038bbda8ea673",
+    "wof:geomhash": "49ceda755ede796da52e33e3b17ff4d0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504556669,
-    "wof:lastmodified": 1583786566,
+    "wof:lastmodified": 1609879271,
     "wof:name": "PA15 3DR",
     "wof:parent_id": 101750635,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.74983, 
-    55.934039, 
-    -4.74983, 
-    55.934039
+    -4.749811, 
+    55.934033, 
+    -4.749811, 
+    55.934033
   ],
-  "geometry": {"coordinates":[-4.74983,55.934039],"type":"Point"}
+  "geometry": {"coordinates":[-4.749811,55.934033],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.497813,53.992150,-0.497813,53.992150",
-    "geom:latitude": 53.99215,
-    "geom:longitude": -0.497813,
+    "geom:bbox": "-0.497036,53.993390,-0.497036,53.993390",
+    "geom:latitude": 53.99339,
+    "geom:longitude": -0.497036,
     "gp:parent_id": "25359",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404445211, 
       1125868559, 
       404227469, 
       1360698547, 
       85633159, 
-      1360699001
+      1360699001, 
+      404445211
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701202,
-    "wof:geomhash": "815946ad2c60af9ea5e5b4a0ba38eace",
+    "wof:geomhash": "940c6daa36493685125a78a14469f1ef",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488244107,
-    "wof:lastmodified": 1583786441,
+    "wof:lastmodified": 1609881954,
     "wof:name": "YO25 9DR",
     "wof:parent_id": 404445211,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.497813, 
-    53.99215, 
-    -0.497813, 
-    53.99215
+    -0.497036, 
+    53.99339, 
+    -0.497036, 
+    53.99339
   ],
-  "geometry": {"coordinates":[-0.497813,53.99215],"type":"Point"}
+  "geometry": {"coordinates":[-0.497036,53.99339],"type":"Point"}
 }

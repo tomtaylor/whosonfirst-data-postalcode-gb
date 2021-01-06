@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1995-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.579185,51.381155,0.579185,51.381155",
-    "geom:latitude": 51.381155,
-    "geom:longitude": 0.579185,
+    "geom:bbox": "0.579913,51.380824,0.579913,51.380824",
+    "geom:latitude": 51.380824,
+    "geom:longitude": 0.579913,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      101750327, 
+      404227469, 
       1360698565, 
       85633159, 
       1360699105, 
-      1360817083, 
-      101750327, 
-      404227469
+      1360817083
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701335,
-    "wof:geomhash": "1d99544d23fe0ee5cf5e8f29ce567a5c",
+    "wof:geomhash": "bb30f65fe2f4c99ca4c7bc6f5f883b4b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 470957501,
-    "wof:lastmodified": 1595719085,
+    "wof:lastmodified": 1609876893,
     "wof:name": "ME8 6PL",
     "wof:parent_id": 101750329,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.579185, 
-    51.381155, 
-    0.579185, 
-    51.381155
+    0.579913, 
+    51.380824, 
+    0.579913, 
+    51.380824
   ],
-  "geometry": {"coordinates":[0.579185,51.381155],"type":"Point"}
+  "geometry": {"coordinates":[0.579913,51.380824],"type":"Point"}
 }

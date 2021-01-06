@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.949302,55.863301,-3.949302,55.863301",
-    "geom:latitude": 55.863301,
-    "geom:longitude": -3.949302,
+    "geom:bbox": "-3.948329,55.863537,-3.948329,55.863537",
+    "geom:latitude": 55.863537,
+    "geom:longitude": -3.948329,
     "gp:parent_id": "12696204",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404435713, 
-      404227471, 
       1360698703, 
       85633159, 
-      1360698949
+      1360698949, 
+      404435713, 
+      404227471
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701403,
-    "wof:geomhash": "e2c2580ea253b16d814fa92532698bf2",
+    "wof:geomhash": "fa930d0f76cba2a1db2f17519d290f0d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504527959,
-    "wof:lastmodified": 1583786533,
+    "wof:lastmodified": 1609877817,
     "wof:name": "ML6 8BH",
     "wof:parent_id": 404435713,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.949302, 
-    55.863301, 
-    -3.949302, 
-    55.863301
+    -3.948329, 
+    55.863537, 
+    -3.948329, 
+    55.863537
   ],
-  "geometry": {"coordinates":[-3.949302,55.863301],"type":"Point"}
+  "geometry": {"coordinates":[-3.948329,55.863537],"type":"Point"}
 }

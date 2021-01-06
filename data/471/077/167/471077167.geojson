@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.097349,55.034849,-2.097349,55.034849",
-    "geom:latitude": 55.034849,
-    "geom:longitude": -2.097349,
+    "geom:bbox": "-2.095729,55.034505,-2.095729,55.034505",
+    "geom:latitude": 55.034505,
+    "geom:longitude": -2.095729,
     "gp:parent_id": "24124",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698769, 
       404449259, 
       1125878073, 
       404227469, 
-      1360698727
+      1360698727, 
+      85633159, 
+      1360698769
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701239,
-    "wof:geomhash": "3f7275dc974a2fdcaece2f92ee1c3af1",
+    "wof:geomhash": "087517c92be1956082d2f919b4e1c94f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471077167,
-    "wof:lastmodified": 1583786381,
+    "wof:lastmodified": 1609871511,
     "wof:name": "NE46 4HN",
     "wof:parent_id": 404449259,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.097349, 
-    55.034849, 
-    -2.097349, 
-    55.034849
+    -2.095729, 
+    55.034505, 
+    -2.095729, 
+    55.034505
   ],
-  "geometry": {"coordinates":[-2.097349,55.034849],"type":"Point"}
+  "geometry": {"coordinates":[-2.095729,55.034505],"type":"Point"}
 }

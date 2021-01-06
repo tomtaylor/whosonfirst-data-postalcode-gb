@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.129959,51.589121,-1.129959,51.589121",
-    "geom:latitude": 51.589121,
-    "geom:longitude": -1.129959,
+    "geom:bbox": "-1.129665,51.588349,-1.129665,51.588349",
+    "geom:latitude": 51.588349,
+    "geom:longitude": -1.129665,
     "gp:parent_id": "39023",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698839, 
       404438897, 
       1125937765, 
       404227469, 
       1360698585, 
-      85633159
+      85633159, 
+      1360698839
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701489,
-    "wof:geomhash": "d7bc26b8b464b0af8b26d7e359ea4e25",
+    "wof:geomhash": "0415ab093714f0d998d264cd9368b220",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471308309,
-    "wof:lastmodified": 1583786639,
+    "wof:lastmodified": 1609885782,
     "wof:name": "OX10 9EG",
     "wof:parent_id": 404438897,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.129959, 
-    51.589121, 
-    -1.129959, 
-    51.589121
+    -1.129665, 
+    51.588349, 
+    -1.129665, 
+    51.588349
   ],
-  "geometry": {"coordinates":[-1.129959,51.589121],"type":"Point"}
+  "geometry": {"coordinates":[-1.129665,51.588349],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1999-06-01",
     "geom:area": 0,
-    "geom:bbox": "-3.058627,51.550845,-3.058627,51.550845",
-    "geom:latitude": 51.550845,
-    "geom:longitude": -3.058627,
+    "geom:bbox": "-3.058630,51.549354,-3.058630,51.549354",
+    "geom:latitude": 51.549354,
+    "geom:longitude": -3.05863,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1125974177, 
-      404227475, 
-      1360698641, 
       85633159, 
       1360698735, 
-      404448279
+      404448279, 
+      1125974177, 
+      404227475, 
+      1360698641
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701407,
-    "wof:geomhash": "8137d2cbf70c52eb3e368b36ba49eb50",
+    "wof:geomhash": "d395ae58ccd0509291dbd1814f62ed26",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 504531375,
-    "wof:lastmodified": 1583786537,
+    "wof:lastmodified": 1609877988,
     "wof:name": "NP10 8UD",
     "wof:parent_id": 404448279,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.058627, 
-    51.550845, 
-    -3.058627, 
-    51.550845
+    -3.05863, 
+    51.549354, 
+    -3.05863, 
+    51.549354
   ],
-  "geometry": {"coordinates":[-3.058627,51.550845],"type":"Point"}
+  "geometry": {"coordinates":[-3.05863,51.549354],"type":"Point"}
 }

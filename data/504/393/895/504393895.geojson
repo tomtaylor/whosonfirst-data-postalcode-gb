@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.248483,55.876279,-4.248483,55.876279",
-    "geom:latitude": 55.876279,
-    "geom:longitude": -4.248483,
+    "geom:bbox": "-4.248473,55.876346,-4.248473,55.876346",
+    "geom:latitude": 55.876346,
+    "geom:longitude": -4.248473,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1175612707, 
-      404227471, 
       85792605, 
       1360698707, 
       85633159, 
       1360698797, 
-      404430153
+      404430153, 
+      1175612707, 
+      404227471
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701134,
-    "wof:geomhash": "82f81fc29d677e4e7a4610c51b96df24",
+    "wof:geomhash": "810d497599b41f705c011b6007085a61",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 504393895,
-    "wof:lastmodified": 1583786231,
+    "wof:lastmodified": 1609869317,
     "wof:name": "G21 1HZ",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.248483, 
-    55.876279, 
-    -4.248483, 
-    55.876279
+    -4.248473, 
+    55.876346, 
+    -4.248473, 
+    55.876346
   ],
-  "geometry": {"coordinates":[-4.248483,55.876279],"type":"Point"}
+  "geometry": {"coordinates":[-4.248473,55.876346],"type":"Point"}
 }

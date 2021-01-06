@@ -2,7 +2,7 @@
   "id": 504733135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-06-01",
     "edtf:inception": "2019-01-01",
     "geom:area": 0,
     "geom:bbox": "-2.944688,51.572114,-2.944688,51.572114",
@@ -11,7 +11,7 @@
     "gp:parent_id": "12696123",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "W92000004",
     "os:county_code": "W99999999",
     "os:district_code": "W06000022",
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698641, 
-      85633159, 
-      1360698735, 
       404442367, 
       1126015943, 
-      404227475
+      404227475, 
+      1360698641, 
+      85633159, 
+      1360698735
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504733135,
-    "wof:lastmodified": 1583786690,
+    "wof:lastmodified": 1609887876,
     "wof:name": "NP18 1WY",
     "wof:parent_id": 404442367,
     "wof:placetype": "postalcode",

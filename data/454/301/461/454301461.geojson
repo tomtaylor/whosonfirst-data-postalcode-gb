@@ -2,7 +2,7 @@
   "id": 454301461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-10-01",
     "edtf:inception": "2001-12-01",
     "geom:area": 0,
     "geom:bbox": "-2.668241,53.158773,-2.668241,53.158773",
@@ -11,7 +11,7 @@
     "gp:parent_id": "36986",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000050",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
       1360698537, 
       85633159, 
       1360698923, 
       404431501, 
-      1126034995, 
-      404227469
+      1126034995
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454301461,
-    "wof:lastmodified": 1583786589,
+    "wof:lastmodified": 1609882240,
     "wof:name": "CW6 0YZ",
     "wof:parent_id": 404431501,
     "wof:placetype": "postalcode",

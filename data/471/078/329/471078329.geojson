@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.308335,54.825071,-2.308335,54.825071",
-    "geom:latitude": 54.825071,
-    "geom:longitude": -2.308335,
+    "geom:bbox": "-2.308358,54.825186,-2.308358,54.825186",
+    "geom:latitude": 54.825186,
+    "geom:longitude": -2.308358,
     "gp:parent_id": "15280",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698727, 
-      85633159, 
-      1360698769, 
       404440419, 
       1360756205, 
-      404227469
+      404227469, 
+      1360698727, 
+      85633159, 
+      1360698769
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701242,
-    "wof:geomhash": "48005f3fc0922d5449b775c5bfbc3f50",
+    "wof:geomhash": "baf704cbc8a8406a10ed75271dcee2f0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471078329,
-    "wof:lastmodified": 1583786384,
+    "wof:lastmodified": 1609871579,
     "wof:name": "NE47 8AD",
     "wof:parent_id": 404440419,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.308335, 
-    54.825071, 
-    -2.308335, 
-    54.825071
+    -2.308358, 
+    54.825186, 
+    -2.308358, 
+    54.825186
   ],
-  "geometry": {"coordinates":[-2.308335,54.825071],"type":"Point"}
+  "geometry": {"coordinates":[-2.308358,54.825186],"type":"Point"}
 }

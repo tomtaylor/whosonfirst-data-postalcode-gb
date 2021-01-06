@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "-4.229030,50.516398,-4.229030,50.516398",
-    "geom:latitude": 50.516398,
-    "geom:longitude": -4.22903,
+    "geom:bbox": "-4.228071,50.516102,-4.228071,50.516102",
+    "geom:latitude": 50.516102,
+    "geom:longitude": -4.228071,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699085, 
       404448865, 
       1125986563, 
       404227469, 
-      1360698623
+      1360698623, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735612,
-    "wof:geomhash": "57f84f649a634cb2610ee61308391104",
+    "wof:geomhash": "3134473b7e70ad21a496ff5d68a145de",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1713330471,
-    "wof:lastmodified": 1595753439,
+    "wof:lastmodified": 1609875401,
     "wof:name": "PL18 9FP",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.22903, 
-    50.516398, 
-    -4.22903, 
-    50.516398
+    -4.228071, 
+    50.516102, 
+    -4.228071, 
+    50.516102
   ],
-  "geometry": {"coordinates":[-4.22903,50.516398],"type":"Point"}
+  "geometry": {"coordinates":[-4.228071,50.516102],"type":"Point"}
 }

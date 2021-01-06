@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.538291,53.962203,-1.538291,53.962203",
-    "geom:latitude": 53.962203,
-    "geom:longitude": -1.538291,
+    "geom:bbox": "-1.538945,53.962332,-1.538945,53.962332",
+    "geom:latitude": 53.962332,
+    "geom:longitude": -1.538945,
     "gp:parent_id": "31375",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
       1360698619, 
       85633159, 
       1360698753, 
-      101750597, 
-      404227469
+      101750597
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701709,
-    "wof:geomhash": "048c67f08843a444cd40cd3bb50d4cff",
+    "wof:geomhash": "e48f9aec5737242d517ff014fbf8715c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454759421,
-    "wof:lastmodified": 1583786850,
+    "wof:lastmodified": 1609901325,
     "wof:name": "HG3 1NN",
     "wof:parent_id": 404444119,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.538291, 
-    53.962203, 
-    -1.538291, 
-    53.962203
+    -1.538945, 
+    53.962332, 
+    -1.538945, 
+    53.962332
   ],
-  "geometry": {"coordinates":[-1.538291,53.962203],"type":"Point"}
+  "geometry": {"coordinates":[-1.538945,53.962332],"type":"Point"}
 }

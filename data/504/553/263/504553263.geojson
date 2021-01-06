@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.089856,51.811153,-3.089856,51.811153",
-    "geom:latitude": 51.811153,
-    "geom:longitude": -3.089856,
+    "geom:bbox": "-3.089648,51.811276,-3.089648,51.811276",
+    "geom:latitude": 51.811276,
+    "geom:longitude": -3.089648,
     "gp:parent_id": "21433",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699109, 
       404436587, 
       1360711595, 
       404227475, 
-      1360698641
+      1360698641, 
+      85633159, 
+      1360699109
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701422,
-    "wof:geomhash": "48f86f61ab230d0c8305e69c2c4b6649",
+    "wof:geomhash": "1cac7b4fa585ae7ba7ad7f02c2d503f0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504553263,
-    "wof:lastmodified": 1583786560,
+    "wof:lastmodified": 1609879126,
     "wof:name": "NP7 9RU",
     "wof:parent_id": 404436587,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.089856, 
-    51.811153, 
-    -3.089856, 
-    51.811153
+    -3.089648, 
+    51.811276, 
+    -3.089648, 
+    51.811276
   ],
-  "geometry": {"coordinates":[-3.089856,51.811153],"type":"Point"}
+  "geometry": {"coordinates":[-3.089648,51.811276],"type":"Point"}
 }

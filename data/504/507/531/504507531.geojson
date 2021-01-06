@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.343376,53.045849,-4.343376,53.045849",
-    "geom:latitude": 53.045849,
-    "geom:longitude": -4.343376,
+    "geom:bbox": "-4.342914,53.046416,-4.342914,53.046416",
+    "geom:latitude": 53.046416,
+    "geom:longitude": -4.342914,
     "gp:parent_id": "32294",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227475, 
-      1360698635, 
       85633159, 
       1360698959, 
       404447459, 
-      1360711605
+      1360711605, 
+      404227475, 
+      1360698635
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701388,
-    "wof:geomhash": "ed028824101ba014cb10fd3e4458f829",
+    "wof:geomhash": "5d3d2a5b7b30482612838742ab421a13",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504507531,
-    "wof:lastmodified": 1583786511,
+    "wof:lastmodified": 1609876553,
     "wof:name": "LL54 5EH",
     "wof:parent_id": 404447459,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.343376, 
-    53.045849, 
-    -4.343376, 
-    53.045849
+    -4.342914, 
+    53.046416, 
+    -4.342914, 
+    53.046416
   ],
-  "geometry": {"coordinates":[-4.343376,53.045849],"type":"Point"}
+  "geometry": {"coordinates":[-4.342914,53.046416],"type":"Point"}
 }

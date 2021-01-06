@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1983-02-01",
     "geom:area": 0,
-    "geom:bbox": "-3.534886,55.896743,-3.534886,55.896743",
-    "geom:latitude": 55.896743,
-    "geom:longitude": -3.534886,
+    "geom:bbox": "-3.533622,55.896318,-3.533622,55.896318",
+    "geom:latitude": 55.896318,
+    "geom:longitude": -3.533622,
     "gp:parent_id": "12696212",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698679, 
-      85633159, 
       1360699027, 
       404447005, 
       101750631, 
-      404227471
+      404227471, 
+      1360698679, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701089,
-    "wof:geomhash": "3f2a3b44e431dbec1e42c0a97f1378f2",
+    "wof:geomhash": "ac41dc73871ad0b4ee71ffec318522bb",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504375713,
-    "wof:lastmodified": 1595726813,
+    "wof:lastmodified": 1609868838,
     "wof:name": "EH54 6RA",
     "wof:parent_id": 101750631,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.534886, 
-    55.896743, 
-    -3.534886, 
-    55.896743
+    -3.533622, 
+    55.896318, 
+    -3.533622, 
+    55.896318
   ],
-  "geometry": {"coordinates":[-3.534886,55.896743],"type":"Point"}
+  "geometry": {"coordinates":[-3.533622,55.896318],"type":"Point"}
 }

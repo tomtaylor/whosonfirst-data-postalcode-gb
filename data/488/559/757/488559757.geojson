@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1999-06-01",
     "geom:area": 0,
-    "geom:bbox": "-3.144778,51.469578,-3.144778,51.469578",
-    "geom:latitude": 51.469578,
-    "geom:longitude": -3.144778,
+    "geom:bbox": "-3.144549,51.470192,-3.144549,51.470192",
+    "geom:latitude": 51.470192,
+    "geom:longitude": -3.144549,
     "gp:parent_id": "12696132",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699107, 
       101750397, 
       404227475, 
       1360698627, 
       1360887565, 
-      85633159
+      85633159, 
+      1360699107
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701579,
-    "wof:geomhash": "781459076a9b5e82a61daf47cb279f70",
+    "wof:geomhash": "ef7caeb0d76c9485103367e66f11e121",
     "wof:hierarchy": [
       {
         "borough_id": 1360887565,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488559757,
-    "wof:lastmodified": 1583786773,
+    "wof:lastmodified": 1609896746,
     "wof:name": "CF10 4EW",
     "wof:parent_id": 404452481,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.144778, 
-    51.469578, 
-    -3.144778, 
-    51.469578
+    -3.144549, 
+    51.470192, 
+    -3.144549, 
+    51.470192
   ],
-  "geometry": {"coordinates":[-3.144778,51.469578],"type":"Point"}
+  "geometry": {"coordinates":[-3.144549,51.470192],"type":"Point"}
 }

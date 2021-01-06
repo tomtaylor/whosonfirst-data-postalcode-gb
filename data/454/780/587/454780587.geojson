@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.814924,51.816817,-0.814924,51.816817",
-    "geom:latitude": 51.816817,
-    "geom:longitude": -0.814924,
+    "geom:bbox": "-0.815056,51.816773,-0.815056,51.816773",
+    "geom:latitude": 51.816773,
+    "geom:longitude": -0.815056,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      101750423, 
+      404227469, 
       1360698533, 
       85633159, 
       1360698997, 
-      404442821, 
-      101750423, 
-      404227469
+      404442821
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701714,
-    "wof:geomhash": "4a61d31acf30a67bedf3a4e34430b951",
+    "wof:geomhash": "3dcda3ca8f7392aa3e8ae13bae57daac",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454780587,
-    "wof:lastmodified": 1595717134,
+    "wof:lastmodified": 1609901626,
     "wof:name": "HP20 2QL",
     "wof:parent_id": 101750423,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.814924, 
-    51.816817, 
-    -0.814924, 
-    51.816817
+    -0.815056, 
+    51.816773, 
+    -0.815056, 
+    51.816773
   ],
-  "geometry": {"coordinates":[-0.814924,51.816817],"type":"Point"}
+  "geometry": {"coordinates":[-0.815056,51.816773],"type":"Point"}
 }

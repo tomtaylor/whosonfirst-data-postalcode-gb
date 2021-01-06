@@ -19,9 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      404227475, 
+      1360698629, 
+      85633159, 
+      1360698825, 
       404444189, 
-      1126028933, 
-      1360698629
+      1126028933
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,13 +35,16 @@
     "wof:geomhash": "51f0d9f56f73654549aa95c40f28e485",
     "wof:hierarchy": [
       {
+        "country_id": 85633159,
+        "county_id": 1360698825,
         "localadmin_id": 404444189,
         "locality_id": 1126028933,
+        "macroregion_id": 404227475,
         "region_id": 1360698629
       }
     ],
     "wof:id": 504581077,
-    "wof:lastmodified": 1595730574,
+    "wof:lastmodified": 1609880510,
     "wof:name": "SA11 2LW",
     "wof:parent_id": 404444189,
     "wof:placetype": "postalcode",

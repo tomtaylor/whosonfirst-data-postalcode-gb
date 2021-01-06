@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1994-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.356295,50.929257,-1.356295,50.929257",
-    "geom:latitude": 50.929257,
-    "geom:longitude": -1.356295,
+    "geom:bbox": "-1.356839,50.929009,-1.356839,50.929009",
+    "geom:latitude": 50.929009,
+    "geom:longitude": -1.356839,
     "gp:parent_id": "35356",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      101750311, 
+      404227469, 
       1360698557, 
       85633159, 
-      1360698907, 
-      101750311, 
-      404227469
+      1360698907
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701080,
-    "wof:geomhash": "cbe539c12d28b2d8dc4d2ad0c4ae0758",
+    "wof:geomhash": "cd6d1d25d69361a45eb62ab9a28d4838",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 487600385,
-    "wof:lastmodified": 1583786178,
+    "wof:lastmodified": 1609868865,
     "wof:name": "SO18 2FF",
     "wof:parent_id": 101750311,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.356295, 
-    50.929257, 
-    -1.356295, 
-    50.929257
+    -1.356839, 
+    50.929009, 
+    -1.356839, 
+    50.929009
   ],
-  "geometry": {"coordinates":[-1.356295,50.929257],"type":"Point"}
+  "geometry": {"coordinates":[-1.356839,50.929009],"type":"Point"}
 }

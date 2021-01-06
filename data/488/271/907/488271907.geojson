@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2007-09-01",
     "geom:area": 0,
-    "geom:bbox": "-2.413159,53.567092,-2.413159,53.567092",
-    "geom:latitude": 53.567092,
-    "geom:longitude": -2.413159,
+    "geom:bbox": "-2.413235,53.567164,-2.413235,53.567164",
+    "geom:latitude": 53.567164,
+    "geom:longitude": -2.413235,
     "gp:parent_id": "13189",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699099, 
       101750551, 
       404227469, 
-      1360698555
+      1360698555, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701270,
-    "wof:geomhash": "8663d0db8849c9e6e986e45013dae8cf",
+    "wof:geomhash": "c7e946463e895000cd2cf226c4cdcfbd",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488271907,
-    "wof:lastmodified": 1583786479,
+    "wof:lastmodified": 1609883683,
     "wof:name": "BL3 2NB",
     "wof:parent_id": 101750551,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.413159, 
-    53.567092, 
-    -2.413159, 
-    53.567092
+    -2.413235, 
+    53.567164, 
+    -2.413235, 
+    53.567164
   ],
-  "geometry": {"coordinates":[-2.413159,53.567092],"type":"Point"}
+  "geometry": {"coordinates":[-2.413235,53.567164],"type":"Point"}
 }

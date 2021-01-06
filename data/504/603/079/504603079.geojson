@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.908666,51.687035,-3.908666,51.687035",
-    "geom:latitude": 51.687035,
-    "geom:longitude": -3.908666,
+    "geom:bbox": "-3.908736,51.686998,-3.908736,51.686998",
+    "geom:latitude": 51.686998,
+    "geom:longitude": -3.908736,
     "gp:parent_id": "16403",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698629, 
+      85633159, 
       1360699095, 
       404449473, 
       1125882461, 
-      404227475, 
-      1360698629, 
-      85633159
+      404227475
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701470,
-    "wof:geomhash": "abd5ea953fe7b0ea3d0f3adce30211fb",
+    "wof:geomhash": "31f67281d68253b1c4511071b69009d3",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504603079,
-    "wof:lastmodified": 1583786627,
+    "wof:lastmodified": 1609881873,
     "wof:name": "SA6 5AH",
     "wof:parent_id": 404449473,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.908666, 
-    51.687035, 
-    -3.908666, 
-    51.687035
+    -3.908736, 
+    51.686998, 
+    -3.908736, 
+    51.686998
   ],
-  "geometry": {"coordinates":[-3.908666,51.687035],"type":"Point"}
+  "geometry": {"coordinates":[-3.908736,51.686998],"type":"Point"}
 }

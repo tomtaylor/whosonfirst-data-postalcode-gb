@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.261759,55.935347,-3.261759,55.935347",
-    "geom:latitude": 55.935347,
-    "geom:longitude": -3.261759,
+    "geom:bbox": "-3.261861,55.935526,-3.261861,55.935526",
+    "geom:latitude": 55.935526,
+    "geom:longitude": -3.261861,
     "gp:parent_id": "12696195",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85790721, 
-      1360698673, 
-      85633159, 
       1360698761, 
       404437279, 
       101750629, 
-      404227471
+      404227471, 
+      85790721, 
+      1360698673, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701625,
-    "wof:geomhash": "ecda009c94c1c3cd7064743fe3fa67fe",
+    "wof:geomhash": "f9cd1f847e8b8b51010eaeeceafd2dfb",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 488622597,
-    "wof:lastmodified": 1583786819,
+    "wof:lastmodified": 1609899054,
     "wof:name": "EH11 3EX",
     "wof:parent_id": 101750629,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.261759, 
-    55.935347, 
-    -3.261759, 
-    55.935347
+    -3.261861, 
+    55.935526, 
+    -3.261861, 
+    55.935526
   ],
-  "geometry": {"coordinates":[-3.261759,55.935347],"type":"Point"}
+  "geometry": {"coordinates":[-3.261861,55.935526],"type":"Point"}
 }

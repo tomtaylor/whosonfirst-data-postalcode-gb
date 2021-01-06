@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-05-01",
     "geom:area": 0,
-    "geom:bbox": "1.042722,51.058357,1.042722,51.058357",
-    "geom:latitude": 51.058357,
-    "geom:longitude": 1.042722,
+    "geom:bbox": "1.042515,51.058246,1.042515,51.058246",
+    "geom:latitude": 51.058246,
+    "geom:longitude": 1.042515,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698565, 
       85633159, 
       1360698811, 
       404454909, 
       1125959217, 
-      404227469
+      404227469, 
+      1360698565
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583799135,
-    "wof:geomhash": "aefef83328653138b555abfb9d57963e",
+    "wof:geomhash": "53826f44d13c0bb727fb291b893924fa",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712687619,
-    "wof:lastmodified": 1595711053,
+    "wof:lastmodified": 1609872805,
     "wof:name": "CT21 4AA",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.042722, 
-    51.058357, 
-    1.042722, 
-    51.058357
+    1.042515, 
+    51.058246, 
+    1.042515, 
+    51.058246
   ],
-  "geometry": {"coordinates":[1.042722,51.058357],"type":"Point"}
+  "geometry": {"coordinates":[1.042515,51.058246],"type":"Point"}
 }

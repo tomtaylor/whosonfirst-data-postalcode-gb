@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.253396,55.898401,-4.253396,55.898401",
-    "geom:latitude": 55.898401,
-    "geom:longitude": -4.253396,
+    "geom:bbox": "-4.253376,55.898329,-4.253376,55.898329",
+    "geom:latitude": 55.898329,
+    "geom:longitude": -4.253376,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      404227471, 
+      85861545, 
       1360698707, 
       85633159, 
       1360698797, 
       404430153, 
-      1175612707, 
-      404227471, 
-      85861545
+      1175612707
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701138,
-    "wof:geomhash": "4bc7cd898ed1c1012db9e6fc72a81efe",
+    "wof:geomhash": "843bae4a6298817529c090ca5192b8db",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 504395437,
-    "wof:lastmodified": 1583786236,
+    "wof:lastmodified": 1609869369,
     "wof:name": "G22 7RD",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.253396, 
-    55.898401, 
-    -4.253396, 
-    55.898401
+    -4.253376, 
+    55.898329, 
+    -4.253376, 
+    55.898329
   ],
-  "geometry": {"coordinates":[-4.253396,55.898401],"type":"Point"}
+  "geometry": {"coordinates":[-4.253376,55.898329],"type":"Point"}
 }

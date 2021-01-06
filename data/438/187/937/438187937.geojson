@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.411038,53.549017,-2.411038,53.549017",
-    "geom:latitude": 53.549017,
-    "geom:longitude": -2.411038,
+    "geom:bbox": "-2.411323,53.549086,-2.411323,53.549086",
+    "geom:latitude": 53.549086,
+    "geom:longitude": -2.411323,
     "gp:parent_id": "19964",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      101750551, 
       404227469, 
       1360698555, 
       85633159, 
-      1360699099
+      1360699099, 
+      101750551
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701385,
-    "wof:geomhash": "ff08e04bc924d410f0125713f71fef4a",
+    "wof:geomhash": "92ae709b79e426e0f2d911e962bc3bf2",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 438187937,
-    "wof:lastmodified": 1583786520,
+    "wof:lastmodified": 1609878913,
     "wof:name": "BL4 0BZ",
     "wof:parent_id": 101750551,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.411038, 
-    53.549017, 
-    -2.411038, 
-    53.549017
+    -2.411323, 
+    53.549086, 
+    -2.411323, 
+    53.549086
   ],
-  "geometry": {"coordinates":[-2.411038,53.549017],"type":"Point"}
+  "geometry": {"coordinates":[-2.411323,53.549086],"type":"Point"}
 }

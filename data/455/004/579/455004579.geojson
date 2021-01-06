@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.136334,52.632988,-1.136334,52.632988",
-    "geom:latitude": 52.632988,
-    "geom:longitude": -1.136334,
+    "geom:bbox": "-1.136558,52.632846,-1.136558,52.632846",
+    "geom:latitude": 52.632846,
+    "geom:longitude": -1.136558,
     "gp:parent_id": "26062",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360698995, 
       101750485, 
       404227469, 
-      1360698569, 
-      85633159
+      1360698569
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701065,
-    "wof:geomhash": "807eac04541af8f739fb8b7bd12030ff",
+    "wof:geomhash": "0bf52282098f6331ba79d32579f58be4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 455004579,
-    "wof:lastmodified": 1583786173,
+    "wof:lastmodified": 1609868680,
     "wof:name": "LE1 5RA",
     "wof:parent_id": 101750485,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.136334, 
-    52.632988, 
-    -1.136334, 
-    52.632988
+    -1.136558, 
+    52.632846, 
+    -1.136558, 
+    52.632846
   ],
-  "geometry": {"coordinates":[-1.136334,52.632988],"type":"Point"}
+  "geometry": {"coordinates":[-1.136558,52.632846],"type":"Point"}
 }

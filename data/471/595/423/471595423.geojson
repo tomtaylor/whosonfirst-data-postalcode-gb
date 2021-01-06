@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2002-06-01",
     "geom:area": 0,
-    "geom:bbox": "-0.389649,50.932693,-0.389649,50.932693",
-    "geom:latitude": 50.932693,
-    "geom:longitude": -0.389649,
+    "geom:bbox": "-0.389638,50.932585,-0.389638,50.932585",
+    "geom:latitude": 50.932585,
+    "geom:longitude": -0.389638,
     "gp:parent_id": "11176",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698607, 
-      85633159, 
-      1360698757, 
       404446969, 
       1226171811, 
-      404227469
+      404227469, 
+      1360698607, 
+      85633159, 
+      1360698757
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701677,
-    "wof:geomhash": "d79b4bb1375e966eeaf2ba4f7dc73564",
+    "wof:geomhash": "08cb8d40caa666eeafa7ef8660ccc327",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471595423,
-    "wof:lastmodified": 1583786831,
+    "wof:lastmodified": 1609898105,
     "wof:name": "RH20 3RB",
     "wof:parent_id": 404446969,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.389649, 
-    50.932693, 
-    -0.389649, 
-    50.932693
+    -0.389638, 
+    50.932585, 
+    -0.389638, 
+    50.932585
   ],
-  "geometry": {"coordinates":[-0.389649,50.932693],"type":"Point"}
+  "geometry": {"coordinates":[-0.389638,50.932585],"type":"Point"}
 }

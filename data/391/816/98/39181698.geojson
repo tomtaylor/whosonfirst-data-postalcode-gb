@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-09-01",
     "geom:area": 0,
-    "geom:bbox": "-1.797628,55.030063,-1.797628,55.030063",
-    "geom:latitude": 55.030063,
-    "geom:longitude": -1.797628,
+    "geom:bbox": "-1.797487,55.030062,-1.797487,55.030062",
+    "geom:latitude": 55.030062,
+    "geom:longitude": -1.797487,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698769, 
-      404439405, 
-      101873461, 
       404227469, 
       1360698727, 
-      85633159
+      85633159, 
+      1360698769, 
+      404439405, 
+      101873461
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583798609,
-    "wof:geomhash": "ef6c42fb3627258aaaa055ac0d306e0e",
+    "wof:geomhash": "fd888d28009df3a57ac9ebb7d6bdc3d2",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 39181698,
-    "wof:lastmodified": 1583798609,
+    "wof:lastmodified": 1609868584,
     "wof:name": "NE20 0BT",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.797628, 
-    55.030063, 
-    -1.797628, 
-    55.030063
+    -1.797487, 
+    55.030062, 
+    -1.797487, 
+    55.030062
   ],
-  "geometry": {"coordinates":[-1.797628,55.030063],"type":"Point"}
+  "geometry": {"coordinates":[-1.797487,55.030062],"type":"Point"}
 }

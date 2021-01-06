@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.500802,51.153783,-0.500802,51.153783",
-    "geom:latitude": 51.153783,
-    "geom:longitude": -0.500802,
+    "geom:bbox": "-0.500995,51.153746,-0.500995,51.153746",
+    "geom:latitude": 51.153746,
+    "geom:longitude": -0.500995,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698887, 
+      404443939, 
       101854687, 
       404227469, 
       1360698599, 
-      85633159, 
-      1360698887, 
-      404443939
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701702,
-    "wof:geomhash": "b150458813c4aff53c3762e1c5ea5079",
+    "wof:geomhash": "80a9feecf8a05691871c5a684c1ccf6e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454711441,
-    "wof:lastmodified": 1583786842,
+    "wof:lastmodified": 1609899743,
     "wof:name": "GU6 8PD",
     "wof:parent_id": 404443939,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.500802, 
-    51.153783, 
-    -0.500802, 
-    51.153783
+    -0.500995, 
+    51.153746, 
+    -0.500995, 
+    51.153746
   ],
-  "geometry": {"coordinates":[-0.500802,51.153783],"type":"Point"}
+  "geometry": {"coordinates":[-0.500995,51.153746],"type":"Point"}
 }

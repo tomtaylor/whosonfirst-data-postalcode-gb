@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2005-05-01",
     "geom:area": 0,
-    "geom:bbox": "-2.188301,53.017684,-2.188301,53.017684",
-    "geom:latitude": 53.017684,
-    "geom:longitude": -2.188301,
+    "geom:bbox": "-2.188019,53.017783,-2.188019,53.017783",
+    "geom:latitude": 53.017783,
+    "geom:longitude": -2.188019,
     "gp:parent_id": "36240",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698805, 
       1175612703, 
       404227469, 
       1360698593, 
-      85633159
+      85633159, 
+      1360698805
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701123,
-    "wof:geomhash": "b65ec5dde2da38719f9668cc2c9533f7",
+    "wof:geomhash": "fae29e94c516c1ec26162fad3aae6bdd",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 487690061,
-    "wof:lastmodified": 1583786217,
+    "wof:lastmodified": 1609873125,
     "wof:name": "ST1 4PZ",
     "wof:parent_id": 101750495,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.188301, 
-    53.017684, 
-    -2.188301, 
-    53.017684
+    -2.188019, 
+    53.017783, 
+    -2.188019, 
+    53.017783
   ],
-  "geometry": {"coordinates":[-2.188301,53.017684],"type":"Point"}
+  "geometry": {"coordinates":[-2.188019,53.017783],"type":"Point"}
 }

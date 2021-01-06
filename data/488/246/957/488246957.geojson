@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1998-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.098041,53.986079,-1.098041,53.986079",
+    "geom:bbox": "-1.098056,53.986079,-1.098056,53.986079",
     "geom:latitude": 53.986079,
-    "geom:longitude": -1.098041,
+    "geom:longitude": -1.098056,
     "gp:parent_id": "41415",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404433141, 
-      1360753807, 
-      404227469, 
       1360698619, 
       85633159, 
-      1360698977
+      1360698977, 
+      404433141, 
+      1360753807, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701209,
-    "wof:geomhash": "4a1e6c1021291c7257fbcd8d7f16a241",
+    "wof:geomhash": "c55c97424f505a0b554bfd5f46a4203b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488246957,
-    "wof:lastmodified": 1583786444,
+    "wof:lastmodified": 1609882205,
     "wof:name": "YO30 4XE",
     "wof:parent_id": 404433141,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.098041, 
+    -1.098056, 
     53.986079, 
-    -1.098041, 
+    -1.098056, 
     53.986079
   ],
-  "geometry": {"coordinates":[-1.098041,53.986079],"type":"Point"}
+  "geometry": {"coordinates":[-1.098056,53.986079],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.363598,55.898212,-4.363598,55.898212",
-    "geom:latitude": 55.898212,
-    "geom:longitude": -4.363598,
+    "geom:bbox": "-4.363309,55.898182,-4.363309,55.898182",
+    "geom:latitude": 55.898182,
+    "geom:longitude": -4.363309,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698797, 
-      404430153, 
-      1175612707, 
       404227471, 
       1360698707, 
-      85633159
+      85633159, 
+      1360698797, 
+      404430153, 
+      1175612707
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701128,
-    "wof:geomhash": "c20b7b5b90ddd4d5643876fa21a36c19",
+    "wof:geomhash": "832c3c9bd0078881344f6d9c860c775e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504391901,
-    "wof:lastmodified": 1583786225,
+    "wof:lastmodified": 1609869251,
     "wof:name": "G13 4TW",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.363598, 
-    55.898212, 
-    -4.363598, 
-    55.898212
+    -4.363309, 
+    55.898182, 
+    -4.363309, 
+    55.898182
   ],
-  "geometry": {"coordinates":[-4.363598,55.898212],"type":"Point"}
+  "geometry": {"coordinates":[-4.363309,55.898182],"type":"Point"}
 }

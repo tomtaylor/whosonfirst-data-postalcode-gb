@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.374990,51.405688,-2.374990,51.405688",
-    "geom:latitude": 51.405688,
-    "geom:longitude": -2.37499,
+    "geom:bbox": "-2.374833,51.405869,-2.374833,51.405869",
+    "geom:latitude": 51.405869,
+    "geom:longitude": -2.374833,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698775, 
       101750387, 
       404227469, 
-      1360698589
+      1360698589, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583793007,
-    "wof:geomhash": "2ce1de47edf5bdf8272ea0c8d8f4f31d",
+    "wof:geomhash": "ba17d59205e7e527cae61e22d8be0ac5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1160855906,
-    "wof:lastmodified": 1595711090,
+    "wof:lastmodified": 1609870879,
     "wof:name": "BA1 9AX",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.37499, 
-    51.405688, 
-    -2.37499, 
-    51.405688
+    -2.374833, 
+    51.405869, 
+    -2.374833, 
+    51.405869
   ],
-  "geometry": {"coordinates":[-2.37499,51.405688],"type":"Point"}
+  "geometry": {"coordinates":[-2.374833,51.405869],"type":"Point"}
 }

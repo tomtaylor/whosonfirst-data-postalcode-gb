@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.244624,52.146331,-0.244624,52.146331",
-    "geom:latitude": 52.146331,
-    "geom:longitude": -0.244624,
+    "geom:bbox": "-0.244364,52.146438,-0.244364,52.146438",
+    "geom:latitude": 52.146438,
+    "geom:longitude": -0.244364,
     "gp:parent_id": "19761",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698767, 
       404437639, 
       1343986649, 
       404227469, 
-      1360698527
+      1360698527, 
+      85633159, 
+      1360698767
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701727,
-    "wof:geomhash": "00d46650b0915224d4f0dd168fdf944d",
+    "wof:geomhash": "0d2999b068e055b9011a8cb1c000c3db",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471749677,
-    "wof:lastmodified": 1583786906,
+    "wof:lastmodified": 1609902118,
     "wof:name": "SG19 2JY",
     "wof:parent_id": 404437639,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.244624, 
-    52.146331, 
-    -0.244624, 
-    52.146331
+    -0.244364, 
+    52.146438, 
+    -0.244364, 
+    52.146438
   ],
-  "geometry": {"coordinates":[-0.244624,52.146331],"type":"Point"}
+  "geometry": {"coordinates":[-0.244364,52.146438],"type":"Point"}
 }

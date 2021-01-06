@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1994-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.313690,50.861391,-1.313690,50.861391",
-    "geom:latitude": 50.861391,
-    "geom:longitude": -1.31369,
+    "geom:bbox": "-1.313378,50.862576,-1.313378,50.862576",
+    "geom:latitude": 50.862576,
+    "geom:longitude": -1.313378,
     "gp:parent_id": "22261",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698827, 
       404448191, 
       1360756461, 
       404227469, 
-      1360698557
+      1360698557, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701086,
-    "wof:geomhash": "e949a36041df94ad8a1bad58cb52b7d4",
+    "wof:geomhash": "1dc0ed0581d681082e5381e126afeb3e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487612707,
-    "wof:lastmodified": 1583786182,
+    "wof:lastmodified": 1609869177,
     "wof:name": "SO31 4QD",
     "wof:parent_id": 404448191,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.31369, 
-    50.861391, 
-    -1.31369, 
-    50.861391
+    -1.313378, 
+    50.862576, 
+    -1.313378, 
+    50.862576
   ],
-  "geometry": {"coordinates":[-1.31369,50.861391],"type":"Point"}
+  "geometry": {"coordinates":[-1.313378,50.862576],"type":"Point"}
 }

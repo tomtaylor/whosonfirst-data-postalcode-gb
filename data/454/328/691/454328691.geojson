@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1999-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.482099,52.928199,-1.482099,52.928199",
-    "geom:latitude": 52.928199,
-    "geom:longitude": -1.482099,
+    "geom:bbox": "-1.482337,52.928227,-1.482337,52.928227",
+    "geom:latitude": 52.928227,
+    "geom:longitude": -1.482337,
     "gp:parent_id": "18114",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698539, 
-      85633159, 
       1360699093, 
       101750489, 
-      404227469
+      404227469, 
+      1360698539, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701492,
-    "wof:geomhash": "737b81c454152a5eb6e2354dbd457046",
+    "wof:geomhash": "1c7907203f906365e776622e98643af3",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454328691,
-    "wof:lastmodified": 1583786620,
+    "wof:lastmodified": 1609883796,
     "wof:name": "DE1 3JG",
     "wof:parent_id": 101750489,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.482099, 
-    52.928199, 
-    -1.482099, 
-    52.928199
+    -1.482337, 
+    52.928227, 
+    -1.482337, 
+    52.928227
   ],
-  "geometry": {"coordinates":[-1.482099,52.928199],"type":"Point"}
+  "geometry": {"coordinates":[-1.482337,52.928227],"type":"Point"}
 }

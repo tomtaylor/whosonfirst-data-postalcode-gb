@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.156349,51.458043,-0.156349,51.458043",
-    "geom:latitude": 51.458043,
-    "geom:longitude": -0.156349,
+    "geom:bbox": "-0.156350,51.458025,-0.156350,51.458025",
+    "geom:latitude": 51.458025,
+    "geom:longitude": -0.15635,
     "gp:parent_id": "12695818",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -20,12 +20,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      1158857251, 
       85633159, 
       101750367, 
       404227469, 
       85785537, 
-      1360698645, 
-      1158857251
+      1360698645
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701156,
-    "wof:geomhash": "09a552a9fed5c02045aa5ea6b77db4e6",
+    "wof:geomhash": "22145040cbd2db1db96cf619fad634cc",
     "wof:hierarchy": [
       {
         "borough_id": 1158857251,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 487762887,
-    "wof:lastmodified": 1583786259,
+    "wof:lastmodified": 1609878475,
     "wof:name": "SW4 9AY",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -55,10 +55,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.156349, 
-    51.458043, 
-    -0.156349, 
-    51.458043
+    -0.15635, 
+    51.458025, 
+    -0.15635, 
+    51.458025
   ],
-  "geometry": {"coordinates":[-0.156349,51.458043],"type":"Point"}
+  "geometry": {"coordinates":[-0.15635,51.458025],"type":"Point"}
 }

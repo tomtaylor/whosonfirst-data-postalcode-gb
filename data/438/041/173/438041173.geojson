@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.779112,52.294890,-1.779112,52.294890",
-    "geom:latitude": 52.29489,
-    "geom:longitude": -1.779112,
+    "geom:bbox": "-1.779127,52.294854,-1.779127,52.294854",
+    "geom:latitude": 52.294854,
+    "geom:longitude": -1.779127,
     "gp:parent_id": "23032",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698891, 
-      404445047, 
-      101853085, 
       404227469, 
       1360698603, 
-      85633159
+      85633159, 
+      1360698891, 
+      404445047, 
+      101853085
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701125,
-    "wof:geomhash": "770de52b2915b4da4dba5b6406fc4455",
+    "wof:geomhash": "686fae5407eb86c7db20b6ac78fe67e4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438041173,
-    "wof:lastmodified": 1583786252,
+    "wof:lastmodified": 1609869628,
     "wof:name": "B95 5AN",
     "wof:parent_id": 101853085,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.779112, 
-    52.29489, 
-    -1.779112, 
-    52.29489
+    -1.779127, 
+    52.294854, 
+    -1.779127, 
+    52.294854
   ],
-  "geometry": {"coordinates":[-1.779112,52.29489],"type":"Point"}
+  "geometry": {"coordinates":[-1.779127,52.294854],"type":"Point"}
 }

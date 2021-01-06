@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.507325,53.404552,-1.507325,53.404552",
-    "geom:latitude": 53.404552,
-    "geom:longitude": -1.507325,
+    "geom:bbox": "-1.507295,53.404624,-1.507295,53.404624",
+    "geom:latitude": 53.404624,
+    "geom:longitude": -1.507295,
     "gp:parent_id": "34503",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699075, 
-      101750529, 
       404227469, 
       85788231, 
-      1360698591
+      1360698591, 
+      85633159, 
+      1360699075, 
+      101750529
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701686,
-    "wof:geomhash": "2b4bdc9afe2f1c7e6cc728d6484710ba",
+    "wof:geomhash": "a3f9d2185f2b1800a1c93cf98fa17d39",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471660403,
-    "wof:lastmodified": 1583786871,
+    "wof:lastmodified": 1609900396,
     "wof:name": "S6 4QA",
     "wof:parent_id": 101750529,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.507325, 
-    53.404552, 
-    -1.507325, 
-    53.404552
+    -1.507295, 
+    53.404624, 
+    -1.507295, 
+    53.404624
   ],
-  "geometry": {"coordinates":[-1.507325,53.404552],"type":"Point"}
+  "geometry": {"coordinates":[-1.507295,53.404624],"type":"Point"}
 }

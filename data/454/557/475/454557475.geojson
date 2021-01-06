@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.085946,51.710136,-0.085946,51.710136",
-    "geom:latitude": 51.710136,
-    "geom:longitude": -0.085946,
+    "geom:bbox": "-0.085846,51.710107,-0.085846,51.710107",
+    "geom:latitude": 51.710107,
+    "geom:longitude": -0.085846,
     "gp:parent_id": "21298",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698763, 
+      1360817279, 
       1125770317, 
       404227469, 
       85786877, 
       1360698559, 
-      85633159, 
-      1360698763, 
-      1360817279
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701635,
-    "wof:geomhash": "1e99e0d7ba6977bfa8f11a48869fdeaa",
+    "wof:geomhash": "2d911993f50673d4b52839ba6862285a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 454557475,
-    "wof:lastmodified": 1583786767,
+    "wof:lastmodified": 1609894236,
     "wof:name": "EN7 5ET",
     "wof:parent_id": 404452545,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.085946, 
-    51.710136, 
-    -0.085946, 
-    51.710136
+    -0.085846, 
+    51.710107, 
+    -0.085846, 
+    51.710107
   ],
-  "geometry": {"coordinates":[-0.085946,51.710136],"type":"Point"}
+  "geometry": {"coordinates":[-0.085846,51.710107],"type":"Point"}
 }

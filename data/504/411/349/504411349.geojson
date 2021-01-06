@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.108079,55.975142,-4.108079,55.975142",
-    "geom:latitude": 55.975142,
-    "geom:longitude": -4.108079,
+    "geom:bbox": "-4.108679,55.975172,-4.108679,55.975172",
+    "geom:latitude": 55.975172,
+    "geom:longitude": -4.108679,
     "gp:parent_id": "12696204",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227471, 
-      1360698701, 
       85633159, 
       1360698949, 
-      404435713
+      404435713, 
+      404227471, 
+      1360698701
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701183,
-    "wof:geomhash": "c8762d7ff1aaac71aee7010b1b95b5e0",
+    "wof:geomhash": "6953d462d8521c1af6b901f4226e9000",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504411349,
-    "wof:lastmodified": 1583786290,
+    "wof:lastmodified": 1609869977,
     "wof:name": "G65 9LF",
     "wof:parent_id": 404435713,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.108079, 
-    55.975142, 
-    -4.108079, 
-    55.975142
+    -4.108679, 
+    55.975172, 
+    -4.108679, 
+    55.975172
   ],
-  "geometry": {"coordinates":[-4.108079,55.975142],"type":"Point"}
+  "geometry": {"coordinates":[-4.108679,55.975172],"type":"Point"}
 }

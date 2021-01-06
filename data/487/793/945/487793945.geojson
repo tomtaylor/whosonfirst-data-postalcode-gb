@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.102327,51.021452,-3.102327,51.021452",
-    "geom:latitude": 51.021452,
-    "geom:longitude": -3.102327,
+    "geom:bbox": "-3.102406,51.021420,-3.102406,51.021420",
+    "geom:latitude": 51.02142,
+    "geom:longitude": -3.102406,
     "gp:parent_id": "37024",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      1360699059, 
+      101751591, 
       404227469, 
       1360698589, 
-      85633159, 
-      1360699059, 
-      101751591
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701171,
-    "wof:geomhash": "dd23e6f691ca6d4962b1a298a13e3e01",
+    "wof:geomhash": "b4d1049f6db4a16dace831c7e5cf2d8f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 487793945,
-    "wof:lastmodified": 1583786274,
+    "wof:lastmodified": 1609880218,
     "wof:name": "TA1 1PQ",
     "wof:parent_id": 101751591,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.102327, 
-    51.021452, 
-    -3.102327, 
-    51.021452
+    -3.102406, 
+    51.02142, 
+    -3.102406, 
+    51.02142
   ],
-  "geometry": {"coordinates":[-3.102327,51.021452],"type":"Point"}
+  "geometry": {"coordinates":[-3.102406,51.02142],"type":"Point"}
 }

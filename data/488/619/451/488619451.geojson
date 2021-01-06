@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.600808,54.817968,-4.600808,54.817968",
-    "geom:latitude": 54.817968,
-    "geom:longitude": -4.600808,
+    "geom:bbox": "-4.598951,54.816920,-4.598951,54.816920",
+    "geom:latitude": 54.81692,
+    "geom:longitude": -4.598951,
     "gp:parent_id": "32385",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360699039, 
+      404444245, 
       404227471, 
       1360698649, 
-      85633159, 
-      1360699039, 
-      404444245
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701623,
-    "wof:geomhash": "3d5cc0a34f35a7c22ea808a1ce9e48a9",
+    "wof:geomhash": "d52a7b2b141fdd757fccf4e7bc7834f0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488619451,
-    "wof:lastmodified": 1595735329,
+    "wof:lastmodified": 1609898882,
     "wof:name": "DG8 9RH",
     "wof:parent_id": 404444245,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.600808, 
-    54.817968, 
-    -4.600808, 
-    54.817968
+    -4.598951, 
+    54.81692, 
+    -4.598951, 
+    54.81692
   ],
-  "geometry": {"coordinates":[-4.600808,54.817968],"type":"Point"}
+  "geometry": {"coordinates":[-4.598951,54.81692],"type":"Point"}
 }

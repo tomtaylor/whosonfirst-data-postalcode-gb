@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.783706,54.085408,-1.783706,54.085408",
-    "geom:latitude": 54.085408,
-    "geom:longitude": -1.783706,
+    "geom:bbox": "-1.782106,54.085554,-1.782106,54.085554",
+    "geom:latitude": 54.085554,
+    "geom:longitude": -1.782106,
     "gp:parent_id": "12516",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360759767, 
-      404227469, 
-      1360698619, 
       85633159, 
       1360698753, 
-      404429447
+      404429447, 
+      1360759767, 
+      404227469, 
+      1360698619
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701711,
-    "wof:geomhash": "8798f7b2b665020966cc5cb2e276729b",
+    "wof:geomhash": "08b3e1f7b8a60d922d73dd70b1064217",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454761233,
-    "wof:lastmodified": 1583786850,
+    "wof:lastmodified": 1609901239,
     "wof:name": "HG3 5BQ",
     "wof:parent_id": 404429447,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.783706, 
-    54.085408, 
-    -1.783706, 
-    54.085408
+    -1.782106, 
+    54.085554, 
+    -1.782106, 
+    54.085554
   ],
-  "geometry": {"coordinates":[-1.783706,54.085408],"type":"Point"}
+  "geometry": {"coordinates":[-1.782106,54.085554],"type":"Point"}
 }

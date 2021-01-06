@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.372466,53.594441,-1.372466,53.594441",
-    "geom:latitude": 53.594441,
-    "geom:longitude": -1.372466,
+    "geom:bbox": "-1.372617,53.594450,-1.372617,53.594450",
+    "geom:latitude": 53.59445,
+    "geom:longitude": -1.372617,
     "gp:parent_id": "13889",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698591, 
+      85633159, 
       1360699091, 
       404444019, 
       1276258465, 
-      404227469, 
-      1360698591, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701698,
-    "wof:geomhash": "4f00b20a578fe4113413a9e43e91ff8f",
+    "wof:geomhash": "684392c3a6452c1162fc5ebeca1efa6d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471681939,
-    "wof:lastmodified": 1583786879,
+    "wof:lastmodified": 1609900903,
     "wof:name": "S72 9EP",
     "wof:parent_id": 404444019,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.372466, 
-    53.594441, 
-    -1.372466, 
-    53.594441
+    -1.372617, 
+    53.59445, 
+    -1.372617, 
+    53.59445
   ],
-  "geometry": {"coordinates":[-1.372466,53.594441],"type":"Point"}
+  "geometry": {"coordinates":[-1.372617,53.59445],"type":"Point"}
 }

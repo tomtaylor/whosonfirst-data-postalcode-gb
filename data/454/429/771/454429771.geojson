@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.497680,53.551144,-0.497680,53.551144",
-    "geom:latitude": 53.551144,
-    "geom:longitude": -0.49768,
+    "geom:bbox": "-0.497589,53.551161,-0.497589,53.551161",
+    "geom:latitude": 53.551161,
+    "geom:longitude": -0.497589,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698901, 
-      404435359, 
       101874147, 
       404227469, 
       1360698571, 
-      85633159
+      85633159, 
+      1360698901, 
+      404435359
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701564,
-    "wof:geomhash": "fcecbb640e8f1367f24b1860fb60385a",
+    "wof:geomhash": "3c905984c01b35e5f05bce515cfd0de6",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454429771,
-    "wof:lastmodified": 1583786690,
+    "wof:lastmodified": 1609889149,
     "wof:name": "DN20 8NJ",
     "wof:parent_id": 404435359,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.49768, 
-    53.551144, 
-    -0.49768, 
-    53.551144
+    -0.497589, 
+    53.551161, 
+    -0.497589, 
+    53.551161
   ],
-  "geometry": {"coordinates":[-0.49768,53.551144],"type":"Point"}
+  "geometry": {"coordinates":[-0.497589,53.551161],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1995-07-01",
     "geom:area": 0,
-    "geom:bbox": "-0.743446,51.426868,-0.743446,51.426868",
-    "geom:latitude": 51.426868,
-    "geom:longitude": -0.743446,
+    "geom:bbox": "-0.743401,51.426832,-0.743401,51.426832",
+    "geom:latitude": 51.426832,
+    "geom:longitude": -0.743401,
     "gp:parent_id": "13505",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      101750375, 
       404227469, 
       1360698529, 
       85633159, 
       1360699013, 
-      404432267
+      404432267, 
+      101750375
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701671,
-    "wof:geomhash": "1d8a8675a953d262ae9fa991eabd301a",
+    "wof:geomhash": "ab115a342c740cc8eeb4cc4f3239660c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471555741,
-    "wof:lastmodified": 1583786803,
+    "wof:lastmodified": 1609896749,
     "wof:name": "RG42 2JU",
     "wof:parent_id": 101750375,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.743446, 
-    51.426868, 
-    -0.743446, 
-    51.426868
+    -0.743401, 
+    51.426832, 
+    -0.743401, 
+    51.426832
   ],
-  "geometry": {"coordinates":[-0.743446,51.426868],"type":"Point"}
+  "geometry": {"coordinates":[-0.743401,51.426832],"type":"Point"}
 }

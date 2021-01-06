@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.949198,52.219574,-1.949198,52.219574",
-    "geom:latitude": 52.219574,
-    "geom:longitude": -1.949198,
+    "geom:bbox": "-1.948993,52.219987,-1.948993,52.219987",
+    "geom:latitude": 52.219987,
+    "geom:longitude": -1.948993,
     "gp:parent_id": "24423",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      404448863, 
-      1126058631, 
       404227469, 
       1360698613, 
       85633159, 
-      1360699043
+      1360699043, 
+      404448863, 
+      1126058631
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701294,
-    "wof:geomhash": "1c35148b916bbfd44197a9590f3244c1",
+    "wof:geomhash": "3ba25ae5066b2bb81c3601f06b65442d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488178123,
-    "wof:lastmodified": 1583786286,
+    "wof:lastmodified": 1609878618,
     "wof:name": "WR7 4HR",
     "wof:parent_id": 404448863,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.949198, 
-    52.219574, 
-    -1.949198, 
-    52.219574
+    -1.948993, 
+    52.219987, 
+    -1.948993, 
+    52.219987
   ],
-  "geometry": {"coordinates":[-1.949198,52.219574],"type":"Point"}
+  "geometry": {"coordinates":[-1.948993,52.219987],"type":"Point"}
 }

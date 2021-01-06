@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.308656,55.842005,-4.308656,55.842005",
-    "geom:latitude": 55.842005,
-    "geom:longitude": -4.308656,
+    "geom:bbox": "-4.308622,55.842239,-4.308622,55.842239",
+    "geom:latitude": 55.842239,
+    "geom:longitude": -4.308622,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698707, 
+      85633159, 
       1360698797, 
       404430153, 
       1175612707, 
       404227471, 
-      85861553, 
-      1360698707, 
-      85633159
+      85861553
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701463,
-    "wof:geomhash": "05c09c91edb14e514ad339dfc9ec3815",
+    "wof:geomhash": "44610aea0ba135827ac6d0139875dc37",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 488449713,
-    "wof:lastmodified": 1583786671,
+    "wof:lastmodified": 1609892098,
     "wof:name": "G41 5NU",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.308656, 
-    55.842005, 
-    -4.308656, 
-    55.842005
+    -4.308622, 
+    55.842239, 
+    -4.308622, 
+    55.842239
   ],
-  "geometry": {"coordinates":[-4.308656,55.842005],"type":"Point"}
+  "geometry": {"coordinates":[-4.308622,55.842239],"type":"Point"}
 }

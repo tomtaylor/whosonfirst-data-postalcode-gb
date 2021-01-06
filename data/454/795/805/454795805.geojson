@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.702520,52.060134,-2.702520,52.060134",
-    "geom:latitude": 52.060134,
-    "geom:longitude": -2.70252,
+    "geom:bbox": "-2.703105,52.060148,-2.703105,52.060148",
+    "geom:latitude": 52.060148,
+    "geom:longitude": -2.703105,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698617, 
-      85633159, 
       1360699053, 
       404449477, 
       101750451, 
-      404227469
+      404227469, 
+      1360698617, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701717,
-    "wof:geomhash": "4ced204d522f33621f3e1b5db1da8e6f",
+    "wof:geomhash": "b661235575dc45575d5d2c7feb522e8a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454795805,
-    "wof:lastmodified": 1583786858,
+    "wof:lastmodified": 1609902534,
     "wof:name": "HR1 2TJ",
     "wof:parent_id": 101750451,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.70252, 
-    52.060134, 
-    -2.70252, 
-    52.060134
+    -2.703105, 
+    52.060148, 
+    -2.703105, 
+    52.060148
   ],
-  "geometry": {"coordinates":[-2.70252,52.060134],"type":"Point"}
+  "geometry": {"coordinates":[-2.703105,52.060148],"type":"Point"}
 }

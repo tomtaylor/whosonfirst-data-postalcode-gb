@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.807053,56.001460,-3.807053,56.001460",
-    "geom:latitude": 56.00146,
-    "geom:longitude": -3.807053,
+    "geom:bbox": "-3.805573,56.002038,-3.805573,56.002038",
+    "geom:latitude": 56.002038,
+    "geom:longitude": -3.805573,
     "gp:parent_id": "14993",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698865, 
       404451599, 
       404227471, 
-      1360698655, 
-      85633159, 
-      1360698865
+      1360698655
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701100,
-    "wof:geomhash": "84c2edb54b347b2d5993fdce1218b4ba",
+    "wof:geomhash": "c4586d0a3799edb5e8f719d8c379c7a7",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504380301,
-    "wof:lastmodified": 1583786190,
+    "wof:lastmodified": 1609868940,
     "wof:name": "FK1 4DN",
     "wof:parent_id": 404451599,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.807053, 
-    56.00146, 
-    -3.807053, 
-    56.00146
+    -3.805573, 
+    56.002038, 
+    -3.805573, 
+    56.002038
   ],
-  "geometry": {"coordinates":[-3.807053,56.00146],"type":"Point"}
+  "geometry": {"coordinates":[-3.805573,56.002038],"type":"Point"}
 }

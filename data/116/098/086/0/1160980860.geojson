@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-05-01",
     "geom:area": 0,
-    "geom:bbox": "-2.666692,51.216360,-2.666692,51.216360",
-    "geom:latitude": 51.21636,
-    "geom:longitude": -2.666692,
+    "geom:bbox": "-2.666748,51.216279,-2.666748,51.216279",
+    "geom:latitude": 51.216279,
+    "geom:longitude": -2.666748,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360758923, 
-      404227469, 
       1360698589, 
       85633159, 
       1360699059, 
-      404436787
+      404436787, 
+      1360758923, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583798578,
-    "wof:geomhash": "af7fa0e19cc4d48da7a2a65ac1a922f8",
+    "wof:geomhash": "76b272ab079f34ea7f558f88cffa28d7",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160980860,
-    "wof:lastmodified": 1583798578,
+    "wof:lastmodified": 1609873425,
     "wof:name": "BA5 2GY",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.666692, 
-    51.21636, 
-    -2.666692, 
-    51.21636
+    -2.666748, 
+    51.216279, 
+    -2.666748, 
+    51.216279
   ],
-  "geometry": {"coordinates":[-2.666692,51.21636],"type":"Point"}
+  "geometry": {"coordinates":[-2.666748,51.216279],"type":"Point"}
 }

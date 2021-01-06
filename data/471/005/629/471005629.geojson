@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.067702,51.579660,-0.067702,51.579660",
-    "geom:latitude": 51.57966,
-    "geom:longitude": -0.067702,
+    "geom:bbox": "-0.067676,51.579662,-0.067676,51.579662",
+    "geom:latitude": 51.579662,
+    "geom:longitude": -0.067676,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      101750367, 
       404227469, 
       85860357, 
       1360698645, 
       1158857279, 
-      85633159
+      85633159, 
+      101750367
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701070,
-    "wof:geomhash": "ebff3ab90174737370e74b7f2d8f07ea",
+    "wof:geomhash": "2c0b9d1ff83bae6b97a305694ae45782",
     "wof:hierarchy": [
       {
         "borough_id": 1158857279,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471005629,
-    "wof:lastmodified": 1583786184,
+    "wof:lastmodified": 1609868731,
     "wof:name": "N15 6UN",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.067702, 
-    51.57966, 
-    -0.067702, 
-    51.57966
+    -0.067676, 
+    51.579662, 
+    -0.067676, 
+    51.579662
   ],
-  "geometry": {"coordinates":[-0.067702,51.57966],"type":"Point"}
+  "geometry": {"coordinates":[-0.067676,51.579662],"type":"Point"}
 }

@@ -2,7 +2,7 @@
   "id": 1161030812,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-09-01",
     "edtf:inception": "2016-05-01",
     "geom:area": 0,
     "geom:bbox": "-1.701624,51.991410,-1.701624,51.991410",
@@ -10,7 +10,7 @@
     "geom:longitude": -1.701624,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000013",
     "os:district_code": "E07000079",
@@ -18,12 +18,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698927, 
+      404434559, 
       101852853, 
       404227469, 
       1360698553, 
-      85633159, 
-      1360698927, 
-      404434559
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1161030812,
-    "wof:lastmodified": 1583800826,
+    "wof:lastmodified": 1609874649,
     "wof:name": "GL56 0UT",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

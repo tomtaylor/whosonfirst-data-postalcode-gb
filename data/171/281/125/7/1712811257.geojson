@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2017-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.100092,51.527747,-0.100092,51.527747",
-    "geom:latitude": 51.527747,
-    "geom:longitude": -0.100092,
+    "geom:bbox": "-0.100323,51.527741,-0.100323,51.527741",
+    "geom:latitude": 51.527741,
+    "geom:longitude": -0.100323,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      101750367, 
       404227469, 
       85792171, 
       1360698645, 
-      1158857275
+      1158857275, 
+      85633159, 
+      101750367
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583804637,
-    "wof:geomhash": "a1345dc2330b2aac1e4a758bd07f4f9a",
+    "wof:geomhash": "4e108f1c4d88b5e41b93071075f38c66",
     "wof:hierarchy": [
       {
         "borough_id": 1158857275,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712811257,
-    "wof:lastmodified": 1583804637,
+    "wof:lastmodified": 1609874319,
     "wof:name": "EC1V 7AP",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.100092, 
-    51.527747, 
-    -0.100092, 
-    51.527747
+    -0.100323, 
+    51.527741, 
+    -0.100323, 
+    51.527741
   ],
-  "geometry": {"coordinates":[-0.100092,51.527747],"type":"Point"}
+  "geometry": {"coordinates":[-0.100323,51.527741],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "-1.384011,51.782725,-1.384011,51.782725",
-    "geom:latitude": 51.782725,
-    "geom:longitude": -1.384011,
+    "geom:bbox": "-1.384430,51.782898,-1.384430,51.782898",
+    "geom:latitude": 51.782898,
+    "geom:longitude": -1.38443,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698839, 
       404443821, 
       101852921, 
       404227469, 
-      1360698585
+      1360698585, 
+      85633159, 
+      1360698839
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595736131,
-    "wof:geomhash": "bc67b20d77ef3c8c37c1ee5a6d42f0ee",
+    "wof:geomhash": "9e237daf612473c15d891d20472acce9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1713342171,
-    "wof:lastmodified": 1595753567,
+    "wof:lastmodified": 1609875368,
     "wof:name": "OX29 4FX",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.384011, 
-    51.782725, 
-    -1.384011, 
-    51.782725
+    -1.38443, 
+    51.782898, 
+    -1.38443, 
+    51.782898
   ],
-  "geometry": {"coordinates":[-1.384011,51.782725],"type":"Point"}
+  "geometry": {"coordinates":[-1.38443,51.782898],"type":"Point"}
 }

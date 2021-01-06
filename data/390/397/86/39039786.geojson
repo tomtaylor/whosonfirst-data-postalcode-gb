@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "uuuu",
-    "edtf:inception": "2018-08-01",
+    "edtf:inception": "2020-10-01",
     "geom:area": 0,
     "geom:bbox": "-0.898231,52.245285,-0.898231,52.245285",
     "geom:latitude": 52.245285,
@@ -18,11 +18,11 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698577, 
       85633159, 
       1360698755, 
-      101750459
+      101750459, 
+      404227469, 
+      1360698577
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 39039786,
-    "wof:lastmodified": 1583797068,
+    "wof:lastmodified": 1609868481,
     "wof:name": "NN1 9HL",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

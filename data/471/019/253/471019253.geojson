@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.193290,51.599604,-0.193290,51.599604",
-    "geom:latitude": 51.599604,
-    "geom:longitude": -0.19329,
+    "geom:bbox": "-0.193219,51.599567,-0.193219,51.599567",
+    "geom:latitude": 51.599567,
+    "geom:longitude": -0.193219,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      101750367, 
       404227469, 
       85792227, 
       1360698645, 
-      1158857285, 
-      85633159, 
-      101750367
+      1158857285
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701102,
-    "wof:geomhash": "a248fb6fda59e8f0d611815470cfd63f",
+    "wof:geomhash": "32d13d473cfe42ba954a4e801b619b28",
     "wof:hierarchy": [
       {
         "borough_id": 1158857285,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471019253,
-    "wof:lastmodified": 1583786219,
+    "wof:lastmodified": 1609869028,
     "wof:name": "N3 2JP",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.19329, 
-    51.599604, 
-    -0.19329, 
-    51.599604
+    -0.193219, 
+    51.599567, 
+    -0.193219, 
+    51.599567
   ],
-  "geometry": {"coordinates":[-0.19329,51.599604],"type":"Point"}
+  "geometry": {"coordinates":[-0.193219,51.599567],"type":"Point"}
 }

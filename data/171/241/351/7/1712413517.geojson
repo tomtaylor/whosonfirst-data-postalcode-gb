@@ -2,15 +2,15 @@
   "id": 1712413517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2020-04-01",
-    "edtf:inception": "2020-01-01",
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-10-01",
     "geom:area": 0,
-    "geom:bbox": "-1.198403,53.371545,-1.198403,53.371545",
-    "geom:latitude": 53.371545,
-    "geom:longitude": -1.198403,
+    "geom:bbox": "-1.198180,53.371454,-1.198180,53.371454",
+    "geom:latitude": 53.371454,
+    "geom:longitude": -1.19818,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E08000018",
@@ -18,17 +18,17 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698591, 
       85633159, 
       1360698851, 
       404448631, 
       1360757173, 
-      404227469, 
-      1360698591
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583786951,
-    "wof:geomhash": "f3e78174c2aca873ba0c8a046243eec4",
+    "wof:geomhash": "77a3e1b2a51ff7c0649241aac2660976",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712413517,
-    "wof:lastmodified": 1595711337,
+    "wof:lastmodified": 1609868658,
     "wof:name": "S25 2JT",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.198403, 
-    53.371545, 
-    -1.198403, 
-    53.371545
+    -1.19818, 
+    53.371454, 
+    -1.19818, 
+    53.371454
   ],
-  "geometry": {"coordinates":[-1.198403,53.371545],"type":"Point"}
+  "geometry": {"coordinates":[-1.19818,53.371454],"type":"Point"}
 }

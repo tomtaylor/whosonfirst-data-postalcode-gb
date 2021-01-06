@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2002-07-01",
     "geom:area": 0,
-    "geom:bbox": "-1.779958,53.645325,-1.779958,53.645325",
-    "geom:latitude": 53.645325,
-    "geom:longitude": -1.779958,
+    "geom:bbox": "-1.779851,53.645433,-1.779851,53.645433",
+    "geom:latitude": 53.645433,
+    "geom:longitude": -1.779851,
     "gp:parent_id": "24083",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698609, 
       85633159, 
       1360698917, 
       101750573, 
-      404227469
+      404227469, 
+      1360698609
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701708,
-    "wof:geomhash": "9f5021d90267de2a974929f471330ac7",
+    "wof:geomhash": "ec502cf6ec17ac5619dfa0b00d940cb5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454739971,
-    "wof:lastmodified": 1583786848,
+    "wof:lastmodified": 1609900709,
     "wof:name": "HD1 2QR",
     "wof:parent_id": 101750573,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.779958, 
-    53.645325, 
-    -1.779958, 
-    53.645325
+    -1.779851, 
+    53.645433, 
+    -1.779851, 
+    53.645433
   ],
-  "geometry": {"coordinates":[-1.779958,53.645325],"type":"Point"}
+  "geometry": {"coordinates":[-1.779851,53.645433],"type":"Point"}
 }

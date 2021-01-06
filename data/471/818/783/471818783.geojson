@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.777411,51.560775,-0.777411,51.560775",
-    "geom:latitude": 51.560775,
-    "geom:longitude": -0.777411,
+    "geom:bbox": "-0.777695,51.560808,-0.777695,51.560808",
+    "geom:latitude": 51.560808,
+    "geom:longitude": -0.777695,
     "gp:parent_id": "12743",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698529, 
-      85633159, 
       1360698943, 
       404439571, 
       1125882575, 
-      404227469
+      404227469, 
+      1360698529, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701750,
-    "wof:geomhash": "cadcd4e23737ad67014c16fce54fec8f",
+    "wof:geomhash": "3f1df8b61c47ae0bce62d0f50418b4db",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471818783,
-    "wof:lastmodified": 1583786916,
+    "wof:lastmodified": 1609903845,
     "wof:name": "SL7 1RW",
     "wof:parent_id": 101852803,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.777411, 
-    51.560775, 
-    -0.777411, 
-    51.560775
+    -0.777695, 
+    51.560808, 
+    -0.777695, 
+    51.560808
   ],
-  "geometry": {"coordinates":[-0.777411,51.560775],"type":"Point"}
+  "geometry": {"coordinates":[-0.777695,51.560808],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.815279,54.901948,-2.815279,54.901948",
+    "geom:bbox": "-2.815264,54.901948,-2.815264,54.901948",
     "geom:latitude": 54.901948,
-    "geom:longitude": -2.815279,
+    "geom:longitude": -2.815264,
     "gp:parent_id": "39230",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1125905565, 
       404227469, 
       1360698721, 
       85633159, 
       1360698877, 
-      404448487
+      404448487, 
+      1125905565
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701138,
-    "wof:geomhash": "87a5639f0aea4130fbc18d47e40c3a0d",
+    "wof:geomhash": "9f9850f8dbe0620f25315f1a2551a0d3",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454069695,
-    "wof:lastmodified": 1583786280,
+    "wof:lastmodified": 1609869504,
     "wof:name": "CA4 8RR",
     "wof:parent_id": 404448487,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.815279, 
+    -2.815264, 
     54.901948, 
-    -2.815279, 
+    -2.815264, 
     54.901948
   ],
-  "geometry": {"coordinates":[-2.815279,54.901948],"type":"Point"}
+  "geometry": {"coordinates":[-2.815264,54.901948],"type":"Point"}
 }

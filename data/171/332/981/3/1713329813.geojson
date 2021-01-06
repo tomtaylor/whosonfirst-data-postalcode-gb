@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "-2.535493,51.439000,-2.535493,51.439000",
-    "geom:latitude": 51.439,
-    "geom:longitude": -2.535493,
+    "geom:bbox": "-2.535377,51.438884,-2.535377,51.438884",
+    "geom:latitude": 51.438884,
+    "geom:longitude": -2.535377,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,18 +18,18 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698747, 
-      404431949, 
       1175612699, 
       404227469, 
       85786019, 
-      1360698531
+      1360698531, 
+      85633159, 
+      1360698747, 
+      404431949
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735586,
-    "wof:geomhash": "b51fc3ce718c776fca5fe775d043c394",
+    "wof:geomhash": "4fb90ef3362e0709c18f129c5dede925",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 1713329813,
-    "wof:lastmodified": 1595753475,
+    "wof:lastmodified": 1609875429,
     "wof:name": "BS4 4FT",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.535493, 
-    51.439, 
-    -2.535493, 
-    51.439
+    -2.535377, 
+    51.438884, 
+    -2.535377, 
+    51.438884
   ],
-  "geometry": {"coordinates":[-2.535493,51.439],"type":"Point"}
+  "geometry": {"coordinates":[-2.535377,51.438884],"type":"Point"}
 }

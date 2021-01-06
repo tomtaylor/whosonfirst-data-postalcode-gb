@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.121454,51.530627,-0.121454,51.530627",
-    "geom:latitude": 51.530627,
-    "geom:longitude": -0.121454,
+    "geom:bbox": "-0.121225,51.530596,-0.121225,51.530596",
+    "geom:latitude": 51.530596,
+    "geom:longitude": -0.121225,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      101750367, 
       404227469, 
       85790643, 
       1360698645, 
       1158857277, 
-      85633159, 
-      101750367
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701246,
-    "wof:geomhash": "8f3e3307b5d048748372bfce095c531e",
+    "wof:geomhash": "a17098ca65f690d2d572b0e97fea9108",
     "wof:hierarchy": [
       {
         "borough_id": 1158857277,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488096815,
-    "wof:lastmodified": 1595728734,
+    "wof:lastmodified": 1609872699,
     "wof:name": "WC1X 8BB",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.121454, 
-    51.530627, 
-    -0.121454, 
-    51.530627
+    -0.121225, 
+    51.530596, 
+    -0.121225, 
+    51.530596
   ],
-  "geometry": {"coordinates":[-0.121454,51.530627],"type":"Point"}
+  "geometry": {"coordinates":[-0.121225,51.530596],"type":"Point"}
 }

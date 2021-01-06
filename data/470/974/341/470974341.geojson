@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2000-06-01",
     "geom:area": 0,
-    "geom:bbox": "-0.802914,52.001640,-0.802914,52.001640",
-    "geom:latitude": 52.00164,
-    "geom:longitude": -0.802914,
+    "geom:bbox": "-0.802741,52.001593,-0.802741,52.001593",
+    "geom:latitude": 52.001593,
+    "geom:longitude": -0.802741,
     "gp:parent_id": "25174",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698913, 
-      404441907, 
       1125905101, 
       404227469, 
-      1360698533
+      1360698533, 
+      85633159, 
+      1360698913, 
+      404441907
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701352,
-    "wof:geomhash": "a38ce1c9eae76053a9dacb227c57bedb",
+    "wof:geomhash": "b54ecb1c44118e584798c5551b84f2c6",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470974341,
-    "wof:lastmodified": 1583786489,
+    "wof:lastmodified": 1609877921,
     "wof:name": "MK4 4BF",
     "wof:parent_id": 101750433,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.802914, 
-    52.00164, 
-    -0.802914, 
-    52.00164
+    -0.802741, 
+    52.001593, 
+    -0.802741, 
+    52.001593
   ],
-  "geometry": {"coordinates":[-0.802914,52.00164],"type":"Point"}
+  "geometry": {"coordinates":[-0.802741,52.001593],"type":"Point"}
 }

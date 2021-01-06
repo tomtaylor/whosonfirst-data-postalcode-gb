@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.793732,50.276053,-4.793732,50.276053",
-    "geom:latitude": 50.276053,
-    "geom:longitude": -4.793732,
+    "geom:bbox": "-4.795546,50.274426,-4.795546,50.274426",
+    "geom:latitude": 50.274426,
+    "geom:longitude": -4.795546,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      101852367, 
-      404227469, 
       1360698623, 
       85633159, 
       1360699085, 
-      404438359
+      404438359, 
+      101852367, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701588,
-    "wof:geomhash": "a41d209e34ceb89d80e158c427019aee",
+    "wof:geomhash": "2c38766dcbf15388855bf628e37a6943",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471421419,
-    "wof:lastmodified": 1595722405,
+    "wof:lastmodified": 1609891450,
     "wof:name": "PL26 6SA",
     "wof:parent_id": 404438359,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.793732, 
-    50.276053, 
-    -4.793732, 
-    50.276053
+    -4.795546, 
+    50.274426, 
+    -4.795546, 
+    50.274426
   ],
-  "geometry": {"coordinates":[-4.793732,50.276053],"type":"Point"}
+  "geometry": {"coordinates":[-4.795546,50.274426],"type":"Point"}
 }

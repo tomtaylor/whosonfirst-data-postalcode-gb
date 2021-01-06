@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2011-05-01",
     "geom:area": 0,
-    "geom:bbox": "-1.391757,53.350995,-1.391757,53.350995",
-    "geom:latitude": 53.350995,
-    "geom:longitude": -1.391757,
+    "geom:bbox": "-1.391771,53.351005,-1.391771,53.351005",
+    "geom:latitude": 53.351005,
+    "geom:longitude": -1.391771,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699075, 
       101750529, 
       404227469, 
       85787511, 
-      1360698591
+      1360698591, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468899068,
-    "wof:geomhash": "bba1b220dd6a017c19ec78e793d227f0",
+    "wof:geomhash": "b5d033416d45083825a5f220b8fb3aae",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 890250061,
-    "wof:lastmodified": 1583786192,
+    "wof:lastmodified": 1609868807,
     "wof:name": "S12 4TG",
     "wof:parent_id": 101750529,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.391757, 
-    53.350995, 
-    -1.391757, 
-    53.350995
+    -1.391771, 
+    53.351005, 
+    -1.391771, 
+    53.351005
   ],
-  "geometry": {"coordinates":[-1.391757,53.350995],"type":"Point"}
+  "geometry": {"coordinates":[-1.391771,53.351005],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.721622,52.291328,-1.721622,52.291328",
-    "geom:latitude": 52.291328,
-    "geom:longitude": -1.721622,
+    "geom:bbox": "-1.720326,52.292913,-1.720326,52.292913",
+    "geom:latitude": 52.292913,
+    "geom:longitude": -1.720326,
     "gp:parent_id": "41332",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698891, 
-      404439557, 
-      1125881787, 
       404227469, 
       1360698603, 
-      85633159
+      85633159, 
+      1360698891, 
+      404439557, 
+      1125881787
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701430,
-    "wof:geomhash": "c8696a403acb7a4478abef9b898a918b",
+    "wof:geomhash": "21f9f5432b786343c22beb05e7e6d836",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454271537,
-    "wof:lastmodified": 1583786563,
+    "wof:lastmodified": 1609880999,
     "wof:name": "CV35 8HP",
     "wof:parent_id": 404439557,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.721622, 
-    52.291328, 
-    -1.721622, 
-    52.291328
+    -1.720326, 
+    52.292913, 
+    -1.720326, 
+    52.292913
   ],
-  "geometry": {"coordinates":[-1.721622,52.291328],"type":"Point"}
+  "geometry": {"coordinates":[-1.720326,52.292913],"type":"Point"}
 }

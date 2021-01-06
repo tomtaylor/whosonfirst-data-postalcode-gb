@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.768712,55.245762,-1.768712,55.245762",
-    "geom:latitude": 55.245762,
-    "geom:longitude": -1.768712,
+    "geom:bbox": "-1.768994,55.245924,-1.768994,55.245924",
+    "geom:latitude": 55.245924,
+    "geom:longitude": -1.768994,
     "gp:parent_id": "27420",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      1125896435, 
-      404227469, 
       1360698727, 
       85633159, 
       1360698769, 
-      404440669
+      404440669, 
+      1125896435, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701276,
-    "wof:geomhash": "246f429a209d9ec32486cabee49d7142",
+    "wof:geomhash": "1f17f922588f0b1c8aab86ca16b65642",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471092279,
-    "wof:lastmodified": 1583786420,
+    "wof:lastmodified": 1609872457,
     "wof:name": "NE65 8UL",
     "wof:parent_id": 404440669,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.768712, 
-    55.245762, 
-    -1.768712, 
-    55.245762
+    -1.768994, 
+    55.245924, 
+    -1.768994, 
+    55.245924
   ],
-  "geometry": {"coordinates":[-1.768712,55.245762],"type":"Point"}
+  "geometry": {"coordinates":[-1.768994,55.245924],"type":"Point"}
 }

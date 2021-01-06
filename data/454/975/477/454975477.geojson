@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2002-09-01",
     "geom:area": 0,
-    "geom:bbox": "-2.980310,53.393442,-2.980310,53.393442",
-    "geom:latitude": 53.393442,
-    "geom:longitude": -2.98031,
+    "geom:bbox": "-2.980777,53.393474,-2.980777,53.393474",
+    "geom:latitude": 53.393474,
+    "geom:longitude": -2.980777,
     "gp:parent_id": "26734",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698971, 
       101750547, 
       404227469, 
       85861595, 
-      1360698573, 
-      85633159, 
-      1360698971
+      1360698573
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701764,
-    "wof:geomhash": "1d64534023e6eea17e3247a5fb62352f",
+    "wof:geomhash": "ef616fc3d1843746a2d7b0d8c375af59",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454975477,
-    "wof:lastmodified": 1595717996,
+    "wof:lastmodified": 1609905622,
     "wof:name": "L8 5SH",
     "wof:parent_id": 101750547,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.98031, 
-    53.393442, 
-    -2.98031, 
-    53.393442
+    -2.980777, 
+    53.393474, 
+    -2.980777, 
+    53.393474
   ],
-  "geometry": {"coordinates":[-2.98031,53.393442],"type":"Point"}
+  "geometry": {"coordinates":[-2.980777,53.393474],"type":"Point"}
 }

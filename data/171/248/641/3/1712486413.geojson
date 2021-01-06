@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-07-01",
     "geom:area": 0,
-    "geom:bbox": "-0.839413,52.045937,-0.839413,52.045937",
-    "geom:latitude": 52.045937,
-    "geom:longitude": -0.839413,
+    "geom:bbox": "-0.839385,52.045901,-0.839385,52.045901",
+    "geom:latitude": 52.045901,
+    "geom:longitude": -0.839385,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360758661, 
-      404227469, 
-      1360698533, 
       85633159, 
       1360698913, 
-      404452933
+      404452933, 
+      1360758661, 
+      404227469, 
+      1360698533
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583790189,
-    "wof:geomhash": "3fb08af10d173b31be6043f86d74d3e1",
+    "wof:geomhash": "0dab0e3d96492968c446936e3ddde48d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712486413,
-    "wof:lastmodified": 1583790189,
+    "wof:lastmodified": 1609869162,
     "wof:name": "MK11 4BY",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.839413, 
-    52.045937, 
-    -0.839413, 
-    52.045937
+    -0.839385, 
+    52.045901, 
+    -0.839385, 
+    52.045901
   ],
-  "geometry": {"coordinates":[-0.839413,52.045937],"type":"Point"}
+  "geometry": {"coordinates":[-0.839385,52.045901],"type":"Point"}
 }

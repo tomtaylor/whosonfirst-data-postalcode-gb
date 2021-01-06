@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.102021,51.452895,-0.102021,51.452895",
-    "geom:latitude": 51.452895,
-    "geom:longitude": -0.102021,
+    "geom:bbox": "-0.101979,51.452867,-0.101979,51.452867",
+    "geom:latitude": 51.452867,
+    "geom:longitude": -0.101979,
     "gp:parent_id": "12695813",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -20,12 +20,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      101750367, 
+      404227469, 
       85786023, 
       1360698645, 
       1158857249, 
-      85633159, 
-      101750367, 
-      404227469
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701722,
-    "wof:geomhash": "861d371286a5dc3a080079f90b1391ec",
+    "wof:geomhash": "6a422100c7f9c9a470218f0418b942cb",
     "wof:hierarchy": [
       {
         "borough_id": 1158857249,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 471721901,
-    "wof:lastmodified": 1583786893,
+    "wof:lastmodified": 1609901701,
     "wof:name": "SE24 0JN",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -55,10 +55,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.102021, 
-    51.452895, 
-    -0.102021, 
-    51.452895
+    -0.101979, 
+    51.452867, 
+    -0.101979, 
+    51.452867
   ],
-  "geometry": {"coordinates":[-0.102021,51.452895],"type":"Point"}
+  "geometry": {"coordinates":[-0.101979,51.452867],"type":"Point"}
 }

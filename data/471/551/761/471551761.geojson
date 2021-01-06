@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.984370,51.519795,-0.984370,51.519795",
-    "geom:latitude": 51.519795,
-    "geom:longitude": -0.98437,
+    "geom:bbox": "-0.984578,51.519880,-0.984578,51.519880",
+    "geom:latitude": 51.51988,
+    "geom:longitude": -0.984578,
     "gp:parent_id": "12602175",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698585, 
       85633159, 
       1360698839, 
       404451053, 
       1125915969, 
-      404227469
+      404227469, 
+      1360698585
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701668,
-    "wof:geomhash": "9b1405f2ab46e2567bd01671acd53afb",
+    "wof:geomhash": "5f048ec4f0467c96b187a163a3f0a1ad",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471551761,
-    "wof:lastmodified": 1583786803,
+    "wof:lastmodified": 1609896597,
     "wof:name": "RG4 9TE",
     "wof:parent_id": 404451053,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.98437, 
-    51.519795, 
-    -0.98437, 
-    51.519795
+    -0.984578, 
+    51.51988, 
+    -0.984578, 
+    51.51988
   ],
-  "geometry": {"coordinates":[-0.98437,51.519795],"type":"Point"}
+  "geometry": {"coordinates":[-0.984578,51.51988],"type":"Point"}
 }

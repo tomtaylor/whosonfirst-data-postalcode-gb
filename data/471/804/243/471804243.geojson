@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.616150,51.538027,-0.616150,51.538027",
-    "geom:latitude": 51.538027,
-    "geom:longitude": -0.61615,
+    "geom:bbox": "-0.616193,51.538018,-0.616193,51.538018",
+    "geom:latitude": 51.538018,
+    "geom:longitude": -0.616193,
     "gp:parent_id": "19956",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1126035339, 
-      404227469, 
-      1360698533, 
       85633159, 
       1360698997, 
-      404451617
+      404451617, 
+      1126035339, 
+      404227469, 
+      1360698533
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701740,
-    "wof:geomhash": "7279b6d634bd720f80506bd3ad77d6cc",
+    "wof:geomhash": "94c095c0862018f24b4a2ed279864786",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471804243,
-    "wof:lastmodified": 1595725342,
+    "wof:lastmodified": 1609903311,
     "wof:name": "SL2 3BA",
     "wof:parent_id": 404451617,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.61615, 
-    51.538027, 
-    -0.61615, 
-    51.538027
+    -0.616193, 
+    51.538018, 
+    -0.616193, 
+    51.538018
   ],
-  "geometry": {"coordinates":[-0.61615,51.538027],"type":"Point"}
+  "geometry": {"coordinates":[-0.616193,51.538018],"type":"Point"}
 }

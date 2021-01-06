@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-12-01",
     "geom:area": 0,
-    "geom:bbox": "-2.156178,51.646225,-2.156178,51.646225",
-    "geom:latitude": 51.646225,
-    "geom:longitude": -2.156178,
+    "geom:bbox": "-2.155932,51.645938,-2.155932,51.645938",
+    "geom:latitude": 51.645938,
+    "geom:longitude": -2.155932,
     "gp:parent_id": "37125",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698553, 
       85633159, 
       1360698927, 
       404438573, 
-      1360754467
+      1360754467, 
+      404227469, 
+      1360698553
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701561,
-    "wof:geomhash": "50979a4ddec6813f005d70c235782c91",
+    "wof:geomhash": "8caf8f656eba91cd21d28c4591d8f9c3",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 437799061,
-    "wof:lastmodified": 1583786713,
+    "wof:lastmodified": 1609890827,
     "wof:name": "GL8 8WD",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.156178, 
-    51.646225, 
-    -2.156178, 
-    51.646225
+    -2.155932, 
+    51.645938, 
+    -2.155932, 
+    51.645938
   ],
-  "geometry": {"coordinates":[-2.156178,51.646225],"type":"Point"}
+  "geometry": {"coordinates":[-2.155932,51.645938],"type":"Point"}
 }

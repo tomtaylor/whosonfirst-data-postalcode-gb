@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.466245,52.828518,1.466245,52.828518",
-    "geom:latitude": 52.828518,
-    "geom:longitude": 1.466245,
+    "geom:bbox": "1.468920,52.827612,1.468920,52.827612",
+    "geom:latitude": 52.827612,
+    "geom:longitude": 1.46892,
     "gp:parent_id": "40812",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698955, 
-      404443745, 
       1310628229, 
       404227469, 
       1360698575, 
-      85633159
+      85633159, 
+      1360698955, 
+      404443745
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701410,
-    "wof:geomhash": "bdbbc2db5e07f778b736ad7a3d6086ee",
+    "wof:geomhash": "659c55831d98e15d4294f219eb292a2a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471222911,
-    "wof:lastmodified": 1583786564,
+    "wof:lastmodified": 1609880927,
     "wof:name": "NR28 9TU",
     "wof:parent_id": 404443745,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.466245, 
-    52.828518, 
-    1.466245, 
-    52.828518
+    1.46892, 
+    52.827612, 
+    1.46892, 
+    52.827612
   ],
-  "geometry": {"coordinates":[1.466245,52.828518],"type":"Point"}
+  "geometry": {"coordinates":[1.46892,52.827612],"type":"Point"}
 }

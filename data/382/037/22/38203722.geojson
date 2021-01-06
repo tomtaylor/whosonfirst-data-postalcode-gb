@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "uuuu",
-    "edtf:inception": "2019-03-01",
+    "edtf:inception": "2020-07-01",
     "geom:area": 0,
     "geom:bbox": "-1.949314,53.442948,-1.949314,53.442948",
     "geom:latitude": 53.442948,
@@ -18,11 +18,11 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698765, 
-      1125944783, 
       404227469, 
       1360698539, 
-      85633159
+      85633159, 
+      1360698765, 
+      1125944783
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 38203722,
-    "wof:lastmodified": 1583787752,
+    "wof:lastmodified": 1609868445,
     "wof:name": "SK13 9FU",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

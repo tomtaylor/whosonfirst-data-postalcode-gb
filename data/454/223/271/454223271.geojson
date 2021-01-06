@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.374511,51.215832,1.374511,51.215832",
-    "geom:latitude": 51.215832,
+    "geom:bbox": "1.374511,51.215823,1.374511,51.215823",
+    "geom:latitude": 51.215823,
     "geom:longitude": 1.374511,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698565, 
-      85633159, 
-      1360698811, 
       404429983, 
       101854637, 
-      404227469
+      404227469, 
+      1360698565, 
+      85633159, 
+      1360698811
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701390,
-    "wof:geomhash": "0aba041a5b41cc56dffa04f327706a4e",
+    "wof:geomhash": "8c1bd37104bd86d3ecf95edcbb52363c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454223271,
-    "wof:lastmodified": 1583786520,
+    "wof:lastmodified": 1609879030,
     "wof:name": "CT14 9NS",
     "wof:parent_id": 404429983,
     "wof:placetype": "postalcode",
@@ -54,9 +54,9 @@
   },
   "bbox": [
     1.374511, 
-    51.215832, 
+    51.215823, 
     1.374511, 
-    51.215832
+    51.215823
   ],
-  "geometry": {"coordinates":[1.374511,51.215832],"type":"Point"}
+  "geometry": {"coordinates":[1.374511,51.215823],"type":"Point"}
 }

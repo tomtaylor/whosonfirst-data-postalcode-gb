@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.094547,52.353955,1.094547,52.353955",
-    "geom:latitude": 52.353955,
-    "geom:longitude": 1.094547,
+    "geom:bbox": "1.094572,52.353920,1.094572,52.353920",
+    "geom:latitude": 52.35392,
+    "geom:longitude": 1.094572,
     "gp:parent_id": "31348",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698595, 
       85633159, 
       1360699041, 
       404450315, 
-      1125847879, 
-      404227469, 
-      1360698595
+      1125847879
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701745,
-    "wof:geomhash": "36c7e25bd546d6bb92c46de316b0b2ad",
+    "wof:geomhash": "8331b0d29e220301cc299a27f18ef4a1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454877447,
-    "wof:lastmodified": 1583786875,
+    "wof:lastmodified": 1609904079,
     "wof:name": "IP22 1AZ",
     "wof:parent_id": 404450315,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.094547, 
-    52.353955, 
-    1.094547, 
-    52.353955
+    1.094572, 
+    52.35392, 
+    1.094572, 
+    52.35392
   ],
-  "geometry": {"coordinates":[1.094547,52.353955],"type":"Point"}
+  "geometry": {"coordinates":[1.094572,52.35392],"type":"Point"}
 }

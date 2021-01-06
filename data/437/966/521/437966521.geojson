@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.923388,52.490006,-1.923388,52.490006",
-    "geom:latitude": 52.490006,
-    "geom:longitude": -1.923388,
+    "geom:bbox": "-1.923265,52.490093,-1.923265,52.490093",
+    "geom:latitude": 52.490093,
+    "geom:longitude": -1.923265,
     "gp:parent_id": "12723",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699077, 
       101750467, 
       404227469, 
       85792845, 
-      1360698605
+      1360698605, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701654,
-    "wof:geomhash": "a833473f39d3013091e5e699cd6ab7f5",
+    "wof:geomhash": "2ebb098b63941c835098b28adfa041e7",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 437966521,
-    "wof:lastmodified": 1583786819,
+    "wof:lastmodified": 1609897868,
     "wof:name": "B18 7HL",
     "wof:parent_id": 101750467,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.923388, 
-    52.490006, 
-    -1.923388, 
-    52.490006
+    -1.923265, 
+    52.490093, 
+    -1.923265, 
+    52.490093
   ],
-  "geometry": {"coordinates":[-1.923388,52.490006],"type":"Point"}
+  "geometry": {"coordinates":[-1.923265,52.490093],"type":"Point"}
 }

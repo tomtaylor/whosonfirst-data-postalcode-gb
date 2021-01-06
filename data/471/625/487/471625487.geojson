@@ -2,7 +2,7 @@
   "id": 471625487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-06-01",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:bbox": "-1.493589,53.374293,-1.493589,53.374293",
@@ -11,7 +11,7 @@
     "gp:parent_id": "34503",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E08000019",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698591, 
       85633159, 
       1360699075, 
       101750529, 
       404227469, 
-      85793117
+      85793123, 
+      1360698591
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -39,12 +39,12 @@
         "county_id": 1360699075,
         "locality_id": 101750529,
         "macroregion_id": 404227469,
-        "neighbourhood_id": 85793117,
+        "neighbourhood_id": 85793123,
         "region_id": 1360698591
       }
     ],
     "wof:id": 471625487,
-    "wof:lastmodified": 1583786844,
+    "wof:lastmodified": 1609899633,
     "wof:name": "S10 2LX",
     "wof:parent_id": 101750529,
     "wof:placetype": "postalcode",

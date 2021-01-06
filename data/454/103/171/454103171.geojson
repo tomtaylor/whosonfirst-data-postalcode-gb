@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1997-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.854778,53.098952,-2.854778,53.098952",
-    "geom:latitude": 53.098952,
-    "geom:longitude": -2.854778,
+    "geom:bbox": "-2.854694,53.097002,-2.854694,53.097002",
+    "geom:latitude": 53.097002,
+    "geom:longitude": -2.854694,
     "gp:parent_id": "16087",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698923, 
-      404451163, 
       1360756295, 
       404227469, 
-      1360698537
+      1360698537, 
+      85633159, 
+      1360698923, 
+      404451163
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701218,
-    "wof:geomhash": "b15de140ef33d19b84e9fea900a23bd6",
+    "wof:geomhash": "47e98d6ee721a0736ef66df656c8d3a2",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454103171,
-    "wof:lastmodified": 1583786370,
+    "wof:lastmodified": 1609870995,
     "wof:name": "CH3 6NG",
     "wof:parent_id": 404451163,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.854778, 
-    53.098952, 
-    -2.854778, 
-    53.098952
+    -2.854694, 
+    53.097002, 
+    -2.854694, 
+    53.097002
   ],
-  "geometry": {"coordinates":[-2.854778,53.098952],"type":"Point"}
+  "geometry": {"coordinates":[-2.854694,53.097002],"type":"Point"}
 }

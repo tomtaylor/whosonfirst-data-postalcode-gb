@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1996-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.785161,57.511596,-2.785161,57.511596",
-    "geom:latitude": 57.511596,
-    "geom:longitude": -2.785161,
+    "geom:bbox": "-2.784459,57.509993,-2.784459,57.509993",
+    "geom:latitude": 57.509993,
+    "geom:longitude": -2.784459,
     "gp:parent_id": "33599",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,10 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698869, 
-      404446793, 
       404227471, 
-      1360698715, 
-      85633159
+      85633159, 
+      1360698869, 
+      404446793
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,18 +30,17 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701577,
-    "wof:geomhash": "1a6817dfdc9189d19a017fc5caee87cd",
+    "wof:geomhash": "deca7785f52404e47059da37493416d5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360698869,
         "localadmin_id": 404446793,
-        "macroregion_id": 404227471,
-        "region_id": 1360698715
+        "macroregion_id": 404227471
       }
     ],
     "wof:id": 488556775,
-    "wof:lastmodified": 1595734814,
+    "wof:lastmodified": 1609896708,
     "wof:name": "AB54 7JQ",
     "wof:parent_id": 404446793,
     "wof:placetype": "postalcode",
@@ -52,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.785161, 
-    57.511596, 
-    -2.785161, 
-    57.511596
+    -2.784459, 
+    57.509993, 
+    -2.784459, 
+    57.509993
   ],
-  "geometry": {"coordinates":[-2.785161,57.511596],"type":"Point"}
+  "geometry": {"coordinates":[-2.784459,57.509993],"type":"Point"}
 }

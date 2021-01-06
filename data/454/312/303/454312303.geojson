@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.336696,51.442173,0.336696,51.442173",
-    "geom:latitude": 51.442173,
-    "geom:longitude": 0.336696,
+    "geom:bbox": "0.336660,51.442308,0.336660,51.442308",
+    "geom:latitude": 51.442308,
+    "geom:longitude": 0.33666,
     "gp:parent_id": "30622",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698811, 
       1126050113, 
       404227469, 
-      1360698565
+      1360698565, 
+      85633159, 
+      1360698811
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701474,
-    "wof:geomhash": "1e3aa300ebffd4cf685a8a4bd2c89c5f",
+    "wof:geomhash": "83312bd9377a0edb54a16904677b592c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454312303,
-    "wof:lastmodified": 1583786601,
+    "wof:lastmodified": 1609882867,
     "wof:name": "DA11 9ES",
     "wof:parent_id": 101914069,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.336696, 
-    51.442173, 
-    0.336696, 
-    51.442173
+    0.33666, 
+    51.442308, 
+    0.33666, 
+    51.442308
   ],
-  "geometry": {"coordinates":[0.336696,51.442173],"type":"Point"}
+  "geometry": {"coordinates":[0.33666,51.442308],"type":"Point"}
 }

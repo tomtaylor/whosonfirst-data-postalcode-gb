@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.418504,51.432629,-0.418504,51.432629",
-    "geom:latitude": 51.432629,
-    "geom:longitude": -0.418504,
+    "geom:bbox": "-0.418534,51.432584,-0.418534,51.432584",
+    "geom:latitude": 51.432584,
+    "geom:longitude": -0.418534,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       101750367, 
       404227469, 
       85861733, 
       1360698645, 
-      1158857259
+      1158857259, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701063,
-    "wof:geomhash": "46e17c71e03f52420c3047160cc62986",
+    "wof:geomhash": "3d276e715ff86f644c282eb46dfb89e2",
     "wof:hierarchy": [
       {
         "borough_id": 1158857259,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487974655,
-    "wof:lastmodified": 1583786360,
+    "wof:lastmodified": 1609889735,
     "wof:name": "TW13 4PJ",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.418504, 
-    51.432629, 
-    -0.418504, 
-    51.432629
+    -0.418534, 
+    51.432584, 
+    -0.418534, 
+    51.432584
   ],
-  "geometry": {"coordinates":[-0.418504,51.432629],"type":"Point"}
+  "geometry": {"coordinates":[-0.418534,51.432584],"type":"Point"}
 }

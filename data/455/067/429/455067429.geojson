@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1996-12-01",
     "geom:area": 0,
-    "geom:bbox": "-0.529993,53.358492,-0.529993,53.358492",
-    "geom:latitude": 53.358492,
-    "geom:longitude": -0.529993,
+    "geom:bbox": "-0.529902,53.358509,-0.529902,53.358509",
+    "geom:latitude": 53.358509,
+    "geom:longitude": -0.529902,
     "gp:parent_id": "34115",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698571, 
-      85633159, 
       1360699067, 
       404446163, 
-      1327058769
+      1327058769, 
+      404227469, 
+      1360698571, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701178,
-    "wof:geomhash": "5ef16a66f94d36ff22c6cb78b383ab99",
+    "wof:geomhash": "f0c3917520691cb71e6853c4e40fcdaf",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 455067429,
-    "wof:lastmodified": 1583786306,
+    "wof:lastmodified": 1609870860,
     "wof:name": "LN8 2DJ",
     "wof:parent_id": 404446163,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.529993, 
-    53.358492, 
-    -0.529993, 
-    53.358492
+    -0.529902, 
+    53.358509, 
+    -0.529902, 
+    53.358509
   ],
-  "geometry": {"coordinates":[-0.529993,53.358492],"type":"Point"}
+  "geometry": {"coordinates":[-0.529902,53.358509],"type":"Point"}
 }

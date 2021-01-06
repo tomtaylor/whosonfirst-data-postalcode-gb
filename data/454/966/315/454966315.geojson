@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.053366,53.529216,-3.053366,53.529216",
-    "geom:latitude": 53.529216,
-    "geom:longitude": -3.053366,
+    "geom:bbox": "-3.053858,53.527765,-3.053858,53.527765",
+    "geom:latitude": 53.527765,
+    "geom:longitude": -3.053858,
     "gp:parent_id": "23420",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1125903163, 
-      404227469, 
       1360698573, 
       85633159, 
       1360698771, 
-      404443127
+      404443127, 
+      1125903163, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701763,
-    "wof:geomhash": "32fbf77dd8157f7940a4b4e4b76c07ef",
+    "wof:geomhash": "1df48637099144aa14f06f3f43a77bb3",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454966315,
-    "wof:lastmodified": 1583786899,
+    "wof:lastmodified": 1609905401,
     "wof:name": "L38 3RF",
     "wof:parent_id": 404443127,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.053366, 
-    53.529216, 
-    -3.053366, 
-    53.529216
+    -3.053858, 
+    53.527765, 
+    -3.053858, 
+    53.527765
   ],
-  "geometry": {"coordinates":[-3.053366,53.529216],"type":"Point"}
+  "geometry": {"coordinates":[-3.053858,53.527765],"type":"Point"}
 }

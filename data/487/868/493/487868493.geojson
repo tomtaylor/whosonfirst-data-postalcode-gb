@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.513123,50.923150,0.513123,50.923150",
-    "geom:latitude": 50.92315,
-    "geom:longitude": 0.513123,
+    "geom:bbox": "0.513344,50.923259,0.513344,50.923259",
+    "geom:latitude": 50.923259,
+    "geom:longitude": 0.513344,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698815, 
-      404443631, 
       101853471, 
       404227469, 
-      1360698549
+      1360698549, 
+      85633159, 
+      1360698815, 
+      404443631
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701220,
-    "wof:geomhash": "19619e32c478a5a3c664e7f654d2491a",
+    "wof:geomhash": "6cfc1df2878f9cb407325ee6e06cf965",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 487868493,
-    "wof:lastmodified": 1583786311,
+    "wof:lastmodified": 1609884246,
     "wof:name": "TN33 0RB",
     "wof:parent_id": 404443631,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.513123, 
-    50.92315, 
-    0.513123, 
-    50.92315
+    0.513344, 
+    50.923259, 
+    0.513344, 
+    50.923259
   ],
-  "geometry": {"coordinates":[0.513123,50.92315],"type":"Point"}
+  "geometry": {"coordinates":[0.513344,50.923259],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.152921,50.950188,-4.152921,50.950188",
-    "geom:latitude": 50.950188,
-    "geom:longitude": -4.152921,
+    "geom:bbox": "-4.153370,50.950112,-4.153370,50.950112",
+    "geom:latitude": 50.950112,
+    "geom:longitude": -4.15337,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698541, 
-      85633159, 
       1360699081, 
       404437103, 
       101852607, 
-      404227469
+      404227469, 
+      1360698541, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701656,
-    "wof:geomhash": "8ebcc188701b8c25b06e52b25f71b38a",
+    "wof:geomhash": "38554612e4c6e885691a0776e1da0a66",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454595189,
-    "wof:lastmodified": 1583786787,
+    "wof:lastmodified": 1609896169,
     "wof:name": "EX38 8AY",
     "wof:parent_id": 404437103,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.152921, 
-    50.950188, 
-    -4.152921, 
-    50.950188
+    -4.15337, 
+    50.950112, 
+    -4.15337, 
+    50.950112
   ],
-  "geometry": {"coordinates":[-4.152921,50.950188],"type":"Point"}
+  "geometry": {"coordinates":[-4.15337,50.950112],"type":"Point"}
 }

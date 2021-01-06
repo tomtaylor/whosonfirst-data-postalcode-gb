@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.217357,51.411055,-0.217357,51.411055",
-    "geom:latitude": 51.411055,
-    "geom:longitude": -0.217357,
+    "geom:bbox": "-0.217384,51.411082,-0.217384,51.411082",
+    "geom:latitude": 51.411082,
+    "geom:longitude": -0.217384,
     "gp:parent_id": "32991",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -20,12 +20,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      101750367, 
-      404227469, 
       85791675, 
       1360698645, 
-      1158857305
+      1158857305, 
+      85633159, 
+      101750367, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701154,
-    "wof:geomhash": "f72a246f10cc878c713e1930cacd62ef",
+    "wof:geomhash": "2c1e7f9d64747e8f37a6c30e9318e46d",
     "wof:hierarchy": [
       {
         "borough_id": 1158857305,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 487758691,
-    "wof:lastmodified": 1583786257,
+    "wof:lastmodified": 1609878078,
     "wof:name": "SW20 8SU",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -55,10 +55,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.217357, 
-    51.411055, 
-    -0.217357, 
-    51.411055
+    -0.217384, 
+    51.411082, 
+    -0.217384, 
+    51.411082
   ],
-  "geometry": {"coordinates":[-0.217357,51.411055],"type":"Point"}
+  "geometry": {"coordinates":[-0.217384,51.411082],"type":"Point"}
 }

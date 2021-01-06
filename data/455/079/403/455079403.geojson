@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.451962,53.827302,-1.451962,53.827302",
-    "geom:latitude": 53.827302,
-    "geom:longitude": -1.451962,
+    "geom:bbox": "-1.451916,53.827266,-1.451916,53.827266",
+    "geom:latitude": 53.827266,
+    "geom:longitude": -1.451916,
     "gp:parent_id": "26042",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698749, 
-      101750579, 
       404227469, 
       85791611, 
-      1360698609
+      1360698609, 
+      85633159, 
+      1360698749, 
+      101750579
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701208,
-    "wof:geomhash": "1c9660947b74e8d9eb164ac6c02b896f",
+    "wof:geomhash": "10ffee2ef5c329cfad9e5c198678b302",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 455079403,
-    "wof:lastmodified": 1583786339,
+    "wof:lastmodified": 1609871518,
     "wof:name": "LS14 2AB",
     "wof:parent_id": 101750579,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.451962, 
-    53.827302, 
-    -1.451962, 
-    53.827302
+    -1.451916, 
+    53.827266, 
+    -1.451916, 
+    53.827266
   ],
-  "geometry": {"coordinates":[-1.451962,53.827302],"type":"Point"}
+  "geometry": {"coordinates":[-1.451916,53.827266],"type":"Point"}
 }

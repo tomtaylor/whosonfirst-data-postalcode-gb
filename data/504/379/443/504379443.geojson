@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.179694,55.926096,-3.179694,55.926096",
-    "geom:latitude": 55.926096,
-    "geom:longitude": -3.179694,
+    "geom:bbox": "-3.179978,55.925968,-3.179978,55.925968",
+    "geom:latitude": 55.925968,
+    "geom:longitude": -3.179978,
     "gp:parent_id": "12696195",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      101750629, 
       404227471, 
       85792691, 
       1360698673, 
       85633159, 
       1360698761, 
-      404437279
+      404437279, 
+      101750629
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701098,
-    "wof:geomhash": "41f60cda96abed8df83caa50aee0fff2",
+    "wof:geomhash": "15fd693eba7a88c0f7565bb456763ee3",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 504379443,
-    "wof:lastmodified": 1583786188,
+    "wof:lastmodified": 1609868919,
     "wof:name": "EH9 3DH",
     "wof:parent_id": 101750629,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.179694, 
-    55.926096, 
-    -3.179694, 
-    55.926096
+    -3.179978, 
+    55.925968, 
+    -3.179978, 
+    55.925968
   ],
-  "geometry": {"coordinates":[-3.179694,55.926096],"type":"Point"}
+  "geometry": {"coordinates":[-3.179978,55.925968],"type":"Point"}
 }

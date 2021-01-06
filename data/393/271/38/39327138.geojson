@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.754038,50.815004,-3.754038,50.815004",
-    "geom:latitude": 50.815004,
-    "geom:longitude": -3.754038,
+    "geom:bbox": "-3.754109,50.814985,-3.754109,50.814985",
+    "geom:latitude": 50.814985,
+    "geom:longitude": -3.754109,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,29 +18,29 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
       1360698541, 
       85633159, 
       1360699081, 
-      404443509, 
-      1125899003, 
-      404227469
+      404449799, 
+      1126053861
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583800225,
-    "wof:geomhash": "2e0b8dcca301dde63b22a9d434cfee52",
+    "wof:geomhash": "b9c62f45d12e3409d4643b348a284f59",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360699081,
-        "localadmin_id": 404443509,
-        "locality_id": 1125899003,
+        "localadmin_id": 404449799,
+        "locality_id": 1126053861,
         "macroregion_id": 404227469,
         "region_id": 1360698541
       }
     ],
     "wof:id": 39327138,
-    "wof:lastmodified": 1595711175,
+    "wof:lastmodified": 1609868463,
     "wof:name": "EX17 5EQ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.754038, 
-    50.815004, 
-    -3.754038, 
-    50.815004
+    -3.754109, 
+    50.814985, 
+    -3.754109, 
+    50.814985
   ],
-  "geometry": {"coordinates":[-3.754038,50.815004],"type":"Point"}
+  "geometry": {"coordinates":[-3.754109,50.814985],"type":"Point"}
 }

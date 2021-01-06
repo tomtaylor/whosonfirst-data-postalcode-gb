@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1997-12-01",
     "geom:area": 0,
-    "geom:bbox": "-2.536048,51.523215,-2.536048,51.523215",
-    "geom:latitude": 51.523215,
-    "geom:longitude": -2.536048,
+    "geom:bbox": "-2.536020,51.523169,-2.536020,51.523169",
+    "geom:latitude": 51.523169,
+    "geom:longitude": -2.53602,
     "gp:parent_id": "13559",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698895, 
       404450247, 
       1125770613, 
       404227469, 
       85788815, 
-      1360698553, 
-      85633159, 
-      1360698895
+      1360698553
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701480,
-    "wof:geomhash": "6dd656047097eb9a1feaec997285fdda",
+    "wof:geomhash": "229b30d5a4a33623e424eaaa1ef447cb",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 438294995,
-    "wof:lastmodified": 1583786618,
+    "wof:lastmodified": 1609884188,
     "wof:name": "BS32 8AP",
     "wof:parent_id": 404450247,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.536048, 
-    51.523215, 
-    -2.536048, 
-    51.523215
+    -2.53602, 
+    51.523169, 
+    -2.53602, 
+    51.523169
   ],
-  "geometry": {"coordinates":[-2.536048,51.523215],"type":"Point"}
+  "geometry": {"coordinates":[-2.53602,51.523169],"type":"Point"}
 }

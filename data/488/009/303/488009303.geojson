@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.475759,51.601956,-0.475759,51.601956",
-    "geom:latitude": 51.601956,
-    "geom:longitude": -0.475759,
+    "geom:bbox": "-0.475801,51.601975,-0.475801,51.601975",
+    "geom:latitude": 51.601975,
+    "geom:longitude": -0.475801,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      85787923, 
-      1360698645, 
-      1158857261, 
       85633159, 
       101750367, 
-      404227469
+      404227469, 
+      85787923, 
+      1360698645, 
+      1158857261
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701185,
-    "wof:geomhash": "465a28cdeedc4fa2632382575a5df656",
+    "wof:geomhash": "a62c90565456b368bf18393f18044e4d",
     "wof:hierarchy": [
       {
         "borough_id": 1158857261,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488009303,
-    "wof:lastmodified": 1583786373,
+    "wof:lastmodified": 1609868790,
     "wof:name": "UB9 6ND",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.475759, 
-    51.601956, 
-    -0.475759, 
-    51.601956
+    -0.475801, 
+    51.601975, 
+    -0.475801, 
+    51.601975
   ],
-  "geometry": {"coordinates":[-0.475759,51.601956],"type":"Point"}
+  "geometry": {"coordinates":[-0.475801,51.601975],"type":"Point"}
 }

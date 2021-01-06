@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.791294,50.748817,-1.791294,50.748817",
-    "geom:latitude": 50.748817,
-    "geom:longitude": -1.791294,
+    "geom:bbox": "-1.791450,50.748700,-1.791450,50.748700",
+    "geom:latitude": 50.7487,
+    "geom:longitude": -1.79145,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360817095, 
       101874047, 
       404227469, 
       1360698545, 
       85633159, 
-      1360698745
+      1360698745, 
+      1360817095
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701356,
-    "wof:geomhash": "d30f5cf5752dc2fe65b570014e29ecb8",
+    "wof:geomhash": "3a7bcc0343071bca911b8d804a4b34f1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 438164157,
-    "wof:lastmodified": 1583786489,
+    "wof:lastmodified": 1609877639,
     "wof:name": "BH23 2SJ",
     "wof:parent_id": 404451611,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.791294, 
-    50.748817, 
-    -1.791294, 
-    50.748817
+    -1.79145, 
+    50.7487, 
+    -1.79145, 
+    50.7487
   ],
-  "geometry": {"coordinates":[-1.791294,50.748817],"type":"Point"}
+  "geometry": {"coordinates":[-1.79145,50.7487],"type":"Point"}
 }

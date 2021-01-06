@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1995-12-01",
     "geom:area": 0,
-    "geom:bbox": "-3.776762,55.240268,-3.776762,55.240268",
-    "geom:latitude": 55.240268,
-    "geom:longitude": -3.776762,
+    "geom:bbox": "-3.776053,55.239533,-3.776053,55.239533",
+    "geom:latitude": 55.239533,
+    "geom:longitude": -3.776053,
     "gp:parent_id": "12696189",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698719, 
-      85633159, 
       1360699039, 
       404444245, 
-      404227471
+      404227471, 
+      1360698719, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701618,
-    "wof:geomhash": "4a19c79ec120fa3cecf1dd8ba8001927",
+    "wof:geomhash": "b8ae6eb7af46044b60a2bfb874c0caad",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488614771,
-    "wof:lastmodified": 1583786814,
+    "wof:lastmodified": 1609898874,
     "wof:name": "DG3 4AB",
     "wof:parent_id": 404444245,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.776762, 
-    55.240268, 
-    -3.776762, 
-    55.240268
+    -3.776053, 
+    55.239533, 
+    -3.776053, 
+    55.239533
   ],
-  "geometry": {"coordinates":[-3.776762,55.240268],"type":"Point"}
+  "geometry": {"coordinates":[-3.776053,55.239533],"type":"Point"}
 }

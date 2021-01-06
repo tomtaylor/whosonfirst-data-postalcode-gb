@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1995-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.665485,50.792154,-0.665485,50.792154",
-    "geom:latitude": 50.792154,
-    "geom:longitude": -0.665485,
+    "geom:bbox": "-0.665428,50.792181,-0.665428,50.792181",
+    "geom:latitude": 50.792181,
+    "geom:longitude": -0.665428,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698607, 
-      85633159, 
       1360698757, 
       404430465, 
-      101750317
+      101750317, 
+      404227469, 
+      1360698607, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701626,
-    "wof:geomhash": "2c8e442244c68ddb6a9dfadc091591d9",
+    "wof:geomhash": "cce899310c497022e1e3887db07587ce",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471466559,
-    "wof:lastmodified": 1583786756,
+    "wof:lastmodified": 1609893144,
     "wof:name": "PO22 8PL",
     "wof:parent_id": 101750317,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.665485, 
-    50.792154, 
-    -0.665485, 
-    50.792154
+    -0.665428, 
+    50.792181, 
+    -0.665428, 
+    50.792181
   ],
-  "geometry": {"coordinates":[-0.665485,50.792154],"type":"Point"}
+  "geometry": {"coordinates":[-0.665428,50.792181],"type":"Point"}
 }

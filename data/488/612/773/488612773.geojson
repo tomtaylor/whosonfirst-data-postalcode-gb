@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.234809,55.325623,-3.234809,55.325623",
-    "geom:latitude": 55.325623,
-    "geom:longitude": -3.234809,
+    "geom:bbox": "-3.263095,55.335839,-3.263095,55.335839",
+    "geom:latitude": 55.335839,
+    "geom:longitude": -3.263095,
     "gp:parent_id": "19695",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699039, 
       404444245, 
       404227471, 
-      1360698719
+      1360698719, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701617,
-    "wof:geomhash": "97e5c1b46c314da7e8410194c4129497",
+    "wof:geomhash": "c8a528c1377bb9deeb11d06dfd7821e2",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488612773,
-    "wof:lastmodified": 1583786813,
+    "wof:lastmodified": 1609898871,
     "wof:name": "DG13 0QR",
     "wof:parent_id": 404444245,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.234809, 
-    55.325623, 
-    -3.234809, 
-    55.325623
+    -3.263095, 
+    55.335839, 
+    -3.263095, 
+    55.335839
   ],
-  "geometry": {"coordinates":[-3.234809,55.325623],"type":"Point"}
+  "geometry": {"coordinates":[-3.263095,55.335839],"type":"Point"}
 }

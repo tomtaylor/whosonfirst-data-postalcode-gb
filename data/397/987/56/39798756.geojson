@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-08-01",
     "geom:area": 0,
-    "geom:bbox": "-2.344576,53.203855,-2.344576,53.203855",
-    "geom:latitude": 53.203855,
-    "geom:longitude": -2.344576,
+    "geom:bbox": "-2.344861,53.203872,-2.344861,53.203872",
+    "geom:latitude": 53.203872,
+    "geom:longitude": -2.344861,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698537, 
       85633159, 
       1360698929, 
       404439173, 
-      1276264947
+      1276264947, 
+      404227469, 
+      1360698537
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583805417,
-    "wof:geomhash": "1c130d49e1bcd446430ae0b7d9e861f6",
+    "wof:geomhash": "471aed6440c7933ebdf41f1db700c4f9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 39798756,
-    "wof:lastmodified": 1595711914,
+    "wof:lastmodified": 1609869011,
     "wof:name": "CW4 8AD",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.344576, 
-    53.203855, 
-    -2.344576, 
-    53.203855
+    -2.344861, 
+    53.203872, 
+    -2.344861, 
+    53.203872
   ],
-  "geometry": {"coordinates":[-2.344576,53.203855],"type":"Point"}
+  "geometry": {"coordinates":[-2.344861,53.203872],"type":"Point"}
 }

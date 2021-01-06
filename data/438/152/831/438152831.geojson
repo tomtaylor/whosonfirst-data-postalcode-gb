@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.028219,50.737355,-2.028219,50.737355",
-    "geom:latitude": 50.737355,
-    "geom:longitude": -2.028219,
+    "geom:bbox": "-2.028128,50.737265,-2.028128,50.737265",
+    "geom:latitude": 50.737265,
+    "geom:longitude": -2.028128,
     "gp:parent_id": "32326",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698745, 
       404445565, 
       1360759465, 
       404227469, 
-      1360698545, 
-      85633159, 
-      1360698745
+      1360698545
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701344,
-    "wof:geomhash": "8534f7508e9c110e7b1ace4253aa44f1",
+    "wof:geomhash": "e4a811ec9dbe51cbba044dadef623fc6",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438152831,
-    "wof:lastmodified": 1583786482,
+    "wof:lastmodified": 1609877115,
     "wof:name": "BH16 5ET",
     "wof:parent_id": 404445565,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.028219, 
-    50.737355, 
-    -2.028219, 
-    50.737355
+    -2.028128, 
+    50.737265, 
+    -2.028128, 
+    50.737265
   ],
-  "geometry": {"coordinates":[-2.028219,50.737355],"type":"Point"}
+  "geometry": {"coordinates":[-2.028128,50.737265],"type":"Point"}
 }

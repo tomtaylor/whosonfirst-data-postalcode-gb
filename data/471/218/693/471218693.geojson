@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.932570,52.947728,0.932570,52.947728",
-    "geom:latitude": 52.947728,
-    "geom:longitude": 0.93257,
+    "geom:bbox": "0.932587,52.947782,0.932587,52.947782",
+    "geom:latitude": 52.947782,
+    "geom:longitude": 0.932587,
     "gp:parent_id": "36120",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1125995199, 
-      404227469, 
       1360698575, 
       85633159, 
       1360698955, 
-      404453099
+      404453099, 
+      1125995199, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701407,
-    "wof:geomhash": "d97cbde8b96602932447a574036d658f",
+    "wof:geomhash": "b4f46fb0f3a88b3e933acd1d25ac3912",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471218693,
-    "wof:lastmodified": 1583786562,
+    "wof:lastmodified": 1609880756,
     "wof:name": "NR23 1QP",
     "wof:parent_id": 404453099,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.93257, 
-    52.947728, 
-    0.93257, 
-    52.947728
+    0.932587, 
+    52.947782, 
+    0.932587, 
+    52.947782
   ],
-  "geometry": {"coordinates":[0.93257,52.947728],"type":"Point"}
+  "geometry": {"coordinates":[0.932587,52.947782],"type":"Point"}
 }

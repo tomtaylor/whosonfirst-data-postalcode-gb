@@ -5,29 +5,29 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-08-01",
     "geom:area": 0,
-    "geom:bbox": "-1.378635,50.957040,-1.378635,50.957040",
-    "geom:latitude": 50.95704,
-    "geom:longitude": -1.378635,
+    "geom:bbox": "-1.383408,50.962128,-1.383408,50.962128",
+    "geom:latitude": 50.962128,
+    "geom:longitude": -1.383408,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000014",
     "os:district_code": "E07000086",
-    "os:positional_quality_indicator": "5",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698827, 
       101750347, 
       404227469, 
-      1360698557
+      1360698557, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583787802,
-    "wof:geomhash": "dcb18d5e0219d614f2e9abc8ab56bfe7",
+    "wof:geomhash": "fd2fdf2b33672dd94385c6a150b77041",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1712432743,
-    "wof:lastmodified": 1583787802,
+    "wof:lastmodified": 1609868692,
     "wof:name": "SO50 9RW",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.378635, 
-    50.95704, 
-    -1.378635, 
-    50.95704
+    -1.383408, 
+    50.962128, 
+    -1.383408, 
+    50.962128
   ],
-  "geometry": {"coordinates":[-1.378635,50.95704],"type":"Point"}
+  "geometry": {"coordinates":[-1.383408,50.962128],"type":"Point"}
 }

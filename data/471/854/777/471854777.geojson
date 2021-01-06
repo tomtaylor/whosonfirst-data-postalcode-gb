@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.791555,51.522494,-1.791555,51.522494",
-    "geom:latitude": 51.522494,
+    "geom:bbox": "-1.791555,51.522440,-1.791555,51.522440",
+    "geom:latitude": 51.52244,
     "geom:longitude": -1.791555,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698611, 
       85633159, 
       1360699033, 
       404449703, 
       101852689, 
-      404227469, 
-      1360698611
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701757,
-    "wof:geomhash": "d63a33d9916cf5aa12e05a358981f748",
+    "wof:geomhash": "8802f976da9976a6ff5ee7ed695bcf79",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471854777,
-    "wof:lastmodified": 1583786921,
+    "wof:lastmodified": 1609904655,
     "wof:name": "SN4 9JW",
     "wof:parent_id": 101852689,
     "wof:placetype": "postalcode",
@@ -54,9 +54,9 @@
   },
   "bbox": [
     -1.791555, 
-    51.522494, 
+    51.52244, 
     -1.791555, 
-    51.522494
+    51.52244
   ],
-  "geometry": {"coordinates":[-1.791555,51.522494],"type":"Point"}
+  "geometry": {"coordinates":[-1.791555,51.52244],"type":"Point"}
 }

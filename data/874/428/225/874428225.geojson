@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2012-08-01",
     "geom:area": 0,
-    "geom:bbox": "-3.544854,54.515251,-3.544854,54.515251",
-    "geom:latitude": 54.515251,
-    "geom:longitude": -3.544854,
+    "geom:bbox": "-3.544287,54.514961,-3.544287,54.514961",
+    "geom:latitude": 54.514961,
+    "geom:longitude": -3.544287,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698877, 
       404435251, 
       1126011927, 
       404227469, 
-      1360698721
+      1360698721, 
+      85633159, 
+      1360698877
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468875584,
-    "wof:geomhash": "774e90e866effbaf73c81bbeb2502c94",
+    "wof:geomhash": "1a1a5143d2b39ba23b6079049d867f23",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 874428225,
-    "wof:lastmodified": 1583786184,
+    "wof:lastmodified": 1609868964,
     "wof:name": "CA24 3LT",
     "wof:parent_id": 404435251,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.544854, 
-    54.515251, 
-    -3.544854, 
-    54.515251
+    -3.544287, 
+    54.514961, 
+    -3.544287, 
+    54.514961
   ],
-  "geometry": {"coordinates":[-3.544854,54.515251],"type":"Point"}
+  "geometry": {"coordinates":[-3.544287,54.514961],"type":"Point"}
 }

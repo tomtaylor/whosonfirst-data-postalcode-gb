@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.895070,55.114968,-1.895070,55.114968",
-    "geom:latitude": 55.114968,
+    "geom:bbox": "-1.895070,55.114905,-1.895070,55.114905",
+    "geom:latitude": 55.114905,
     "geom:longitude": -1.89507,
     "gp:parent_id": "12331",
     "iso:country": "GB",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698727, 
       85633159, 
       1360698769, 
       404451559, 
       1125799589, 
-      404227469
+      404227469, 
+      1360698727
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701155,
-    "wof:geomhash": "81aa6fc9fbea79cbd422f48815011f82",
+    "wof:geomhash": "44a09a3e91b4f7ef71827f2297d3c1bd",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471041359,
-    "wof:lastmodified": 1583786285,
+    "wof:lastmodified": 1609869759,
     "wof:name": "NE20 0HJ",
     "wof:parent_id": 404451559,
     "wof:placetype": "postalcode",
@@ -55,9 +55,9 @@
   },
   "bbox": [
     -1.89507, 
-    55.114968, 
+    55.114905, 
     -1.89507, 
-    55.114968
+    55.114905
   ],
-  "geometry": {"coordinates":[-1.89507,55.114968],"type":"Point"}
+  "geometry": {"coordinates":[-1.89507,55.114905],"type":"Point"}
 }

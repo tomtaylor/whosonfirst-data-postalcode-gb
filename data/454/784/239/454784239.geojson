@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2005-11-01",
     "geom:area": 0,
-    "geom:bbox": "-0.679775,51.795192,-0.679775,51.795192",
-    "geom:latitude": 51.795192,
-    "geom:longitude": -0.679775,
+    "geom:bbox": "-0.679851,51.795076,-0.679851,51.795076",
+    "geom:latitude": 51.795076,
+    "geom:longitude": -0.679851,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404438867, 
       101853537, 
       404227469, 
       1360698559, 
       85633159, 
-      1360698763
+      1360698763, 
+      404438867
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701712,
-    "wof:geomhash": "9eada8b9b9704906f55ba840339c1a3c",
+    "wof:geomhash": "eea6db829f48c0c78532e25b30333e8f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454784239,
-    "wof:lastmodified": 1583786846,
+    "wof:lastmodified": 1609901814,
     "wof:name": "HP23 4JY",
     "wof:parent_id": 404438867,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.679775, 
-    51.795192, 
-    -0.679775, 
-    51.795192
+    -0.679851, 
+    51.795076, 
+    -0.679851, 
+    51.795076
   ],
-  "geometry": {"coordinates":[-0.679775,51.795192],"type":"Point"}
+  "geometry": {"coordinates":[-0.679851,51.795076],"type":"Point"}
 }

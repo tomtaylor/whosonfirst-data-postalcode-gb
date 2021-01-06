@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.610807,53.829519,-2.610807,53.829519",
-    "geom:latitude": 53.829519,
-    "geom:longitude": -2.610807,
+    "geom:bbox": "-2.610765,53.829780,-2.610765,53.829780",
+    "geom:latitude": 53.82978,
+    "geom:longitude": -2.610765,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1126050953, 
       404227469, 
       1360698567, 
       85633159, 
       1360698817, 
-      404452653
+      404452653, 
+      1126050953
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583799553,
-    "wof:geomhash": "0fd3a760bdd17763f36c13cd1b8144f3",
+    "wof:geomhash": "f2e39f79e8385ca9e4b62a060d10181a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 39259746,
-    "wof:lastmodified": 1583799553,
+    "wof:lastmodified": 1609868506,
     "wof:name": "PR3 2DD",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.610807, 
-    53.829519, 
-    -2.610807, 
-    53.829519
+    -2.610765, 
+    53.82978, 
+    -2.610765, 
+    53.82978
   ],
-  "geometry": {"coordinates":[-2.610807,53.829519],"type":"Point"}
+  "geometry": {"coordinates":[-2.610765,53.82978],"type":"Point"}
 }

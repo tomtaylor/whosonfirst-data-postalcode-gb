@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.302873,53.055812,-2.302873,53.055812",
-    "geom:latitude": 53.055812,
+    "geom:bbox": "-2.302873,53.055794,-2.302873,53.055794",
+    "geom:latitude": 53.055794,
     "geom:longitude": -2.302873,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698593, 
-      85633159, 
       1360698947, 
       404439153, 
-      1360755235
+      1360755235, 
+      404227469, 
+      1360698593, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701140,
-    "wof:geomhash": "7e8527f684ec703163a5dae6578a1f64",
+    "wof:geomhash": "afdbf4683f84c9c4d11ac45b19421a20",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 487724979,
-    "wof:lastmodified": 1583786238,
+    "wof:lastmodified": 1609875993,
     "wof:name": "ST7 8DH",
     "wof:parent_id": 404439153,
     "wof:placetype": "postalcode",
@@ -54,9 +54,9 @@
   },
   "bbox": [
     -2.302873, 
-    53.055812, 
+    53.055794, 
     -2.302873, 
-    53.055812
+    53.055794
   ],
-  "geometry": {"coordinates":[-2.302873,53.055812],"type":"Point"}
+  "geometry": {"coordinates":[-2.302873,53.055794],"type":"Point"}
 }

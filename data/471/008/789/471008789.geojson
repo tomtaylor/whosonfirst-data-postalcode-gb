@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.081483,51.592044,-0.081483,51.592044",
-    "geom:latitude": 51.592044,
-    "geom:longitude": -0.081483,
+    "geom:bbox": "-0.080831,51.592197,-0.080831,51.592197",
+    "geom:latitude": 51.592197,
+    "geom:longitude": -0.080831,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      101750367, 
-      404227469, 
-      85791099, 
       1360698645, 
       1158857279, 
-      85633159
+      85633159, 
+      101750367, 
+      404227469, 
+      85791099
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701077,
-    "wof:geomhash": "b81b2126c411fcf110cc6f3c37c3d855",
+    "wof:geomhash": "e011267f51dfcc494e60ec252d2b2475",
     "wof:hierarchy": [
       {
         "borough_id": 1158857279,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471008789,
-    "wof:lastmodified": 1583786192,
+    "wof:lastmodified": 1609868790,
     "wof:name": "N17 6BZ",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.081483, 
-    51.592044, 
-    -0.081483, 
-    51.592044
+    -0.080831, 
+    51.592197, 
+    -0.080831, 
+    51.592197
   ],
-  "geometry": {"coordinates":[-0.081483,51.592044],"type":"Point"}
+  "geometry": {"coordinates":[-0.080831,51.592197],"type":"Point"}
 }

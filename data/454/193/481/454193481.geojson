@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.032433,51.844413,1.032433,51.844413",
-    "geom:latitude": 51.844413,
-    "geom:longitude": 1.032433,
+    "geom:bbox": "1.032825,51.844622,1.032825,51.844622",
+    "geom:latitude": 51.844622,
+    "geom:longitude": 1.032825,
     "gp:parent_id": "37436",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1126060167, 
-      404227469, 
       1360698551, 
       85633159, 
       1360698979, 
-      404433599
+      404433599, 
+      1126060167, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701359,
-    "wof:geomhash": "170e25edf1d96c09b262f9bc799d3d60",
+    "wof:geomhash": "c597d1230bdf14579ae266c524c3b28c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454193481,
-    "wof:lastmodified": 1583786485,
+    "wof:lastmodified": 1609877431,
     "wof:name": "CO7 8JA",
     "wof:parent_id": 404433599,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.032433, 
-    51.844413, 
-    1.032433, 
-    51.844413
+    1.032825, 
+    51.844622, 
+    1.032825, 
+    51.844622
   ],
-  "geometry": {"coordinates":[1.032433,51.844413],"type":"Point"}
+  "geometry": {"coordinates":[1.032825,51.844622],"type":"Point"}
 }

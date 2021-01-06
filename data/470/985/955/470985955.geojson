@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1985-04-01",
     "geom:area": 0,
-    "geom:bbox": "-0.476772,52.063663,-0.476772,52.063663",
-    "geom:latitude": 52.063663,
-    "geom:longitude": -0.476772,
+    "geom:bbox": "-0.476777,52.063684,-0.476777,52.063684",
+    "geom:latitude": 52.063684,
+    "geom:longitude": -0.476777,
     "gp:parent_id": "24006",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      1125875189, 
+      404227469, 
       1360698527, 
       85633159, 
       1360698767, 
-      404447547, 
-      1125875189, 
-      404227469
+      404447547
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701369,
-    "wof:geomhash": "cc8cdbe553cf178326a36e96ecdce497",
+    "wof:geomhash": "08d324ae0497e9e32a9401e4a49c6f4a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470985955,
-    "wof:lastmodified": 1583786506,
+    "wof:lastmodified": 1609878599,
     "wof:name": "MK45 3LY",
     "wof:parent_id": 404447547,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.476772, 
-    52.063663, 
-    -0.476772, 
-    52.063663
+    -0.476777, 
+    52.063684, 
+    -0.476777, 
+    52.063684
   ],
-  "geometry": {"coordinates":[-0.476772,52.063663],"type":"Point"}
+  "geometry": {"coordinates":[-0.476777,52.063684],"type":"Point"}
 }

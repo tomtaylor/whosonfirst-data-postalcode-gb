@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.701713,50.936251,-2.701713,50.936251",
-    "geom:latitude": 50.936251,
-    "geom:longitude": -2.701713,
+    "geom:bbox": "-2.701856,50.936277,-2.701856,50.936277",
+    "geom:latitude": 50.936277,
+    "geom:longitude": -2.701856,
     "gp:parent_id": "23357",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699059, 
-      404434109, 
-      1360755283, 
       404227469, 
       1360698589, 
-      85633159
+      85633159, 
+      1360699059, 
+      404434109, 
+      1360755283
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701194,
-    "wof:geomhash": "93882960c3e18374bb9441e7804e479b",
+    "wof:geomhash": "946532034b94cc1ed8f9350789629e86",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438068579,
-    "wof:lastmodified": 1595712511,
+    "wof:lastmodified": 1609870857,
     "wof:name": "BA22 8UH",
     "wof:parent_id": 404434109,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.701713, 
-    50.936251, 
-    -2.701713, 
-    50.936251
+    -2.701856, 
+    50.936277, 
+    -2.701856, 
+    50.936277
   ],
-  "geometry": {"coordinates":[-2.701713,50.936251],"type":"Point"}
+  "geometry": {"coordinates":[-2.701856,50.936277],"type":"Point"}
 }

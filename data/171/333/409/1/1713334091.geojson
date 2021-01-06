@@ -5,42 +5,42 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "-0.881841,52.981506,-0.881841,52.981506",
-    "geom:latitude": 52.981506,
-    "geom:longitude": -0.881841,
+    "geom:bbox": "-0.863846,52.975303,-0.863846,52.975303",
+    "geom:latitude": 52.975303,
+    "geom:longitude": -0.863846,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000024",
     "os:district_code": "E07000176",
-    "os:positional_quality_indicator": "5",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698583, 
       85633159, 
       1360698809, 
-      404441989, 
-      1327461101, 
-      404227469, 
-      1360698583
+      404440899, 
+      1226578669, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735772,
-    "wof:geomhash": "2f4ba41262e947bed7f5af1915956564",
+    "wof:geomhash": "53cd86946837b66545138c48340b9660",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360698809,
-        "localadmin_id": 404441989,
-        "locality_id": 1327461101,
+        "localadmin_id": 404440899,
+        "locality_id": 1226578669,
         "macroregion_id": 404227469,
         "region_id": 1360698583
       }
     ],
     "wof:id": 1713334091,
-    "wof:lastmodified": 1595753562,
+    "wof:lastmodified": 1609875728,
     "wof:name": "NG13 9DR",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.881841, 
-    52.981506, 
-    -0.881841, 
-    52.981506
+    -0.863846, 
+    52.975303, 
+    -0.863846, 
+    52.975303
   ],
-  "geometry": {"coordinates":[-0.881841,52.981506],"type":"Point"}
+  "geometry": {"coordinates":[-0.863846,52.975303],"type":"Point"}
 }

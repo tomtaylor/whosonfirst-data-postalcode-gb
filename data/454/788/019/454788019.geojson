@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1996-06-01",
     "geom:area": 0,
-    "geom:bbox": "-0.566618,51.761858,-0.566618,51.761858",
-    "geom:latitude": 51.761858,
-    "geom:longitude": -0.566618,
+    "geom:bbox": "-0.566579,51.761901,-0.566579,51.761901",
+    "geom:latitude": 51.761901,
+    "geom:longitude": -0.566579,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360698763, 
       404431337, 
       101854795, 
       404227469, 
-      1360698559, 
-      85633159
+      1360698559
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701714,
-    "wof:geomhash": "87a6cf81fce4277184337f905ad7e0a3",
+    "wof:geomhash": "762a8cf2e5689b002a521465388f61e6",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454788019,
-    "wof:lastmodified": 1583786855,
+    "wof:lastmodified": 1609902183,
     "wof:name": "HP4 1HS",
     "wof:parent_id": 101854795,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.566618, 
-    51.761858, 
-    -0.566618, 
-    51.761858
+    -0.566579, 
+    51.761901, 
+    -0.566579, 
+    51.761901
   ],
-  "geometry": {"coordinates":[-0.566618,51.761858],"type":"Point"}
+  "geometry": {"coordinates":[-0.566579,51.761901],"type":"Point"}
 }

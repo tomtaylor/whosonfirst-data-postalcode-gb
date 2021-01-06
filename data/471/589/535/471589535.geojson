@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.033757,51.097155,0.033757,51.097155",
-    "geom:latitude": 51.097155,
-    "geom:longitude": 0.033757,
+    "geom:bbox": "0.033770,51.097170,0.033770,51.097170",
+    "geom:latitude": 51.09717,
+    "geom:longitude": 0.03377,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698815, 
       404430603, 
       101854595, 
       404227469, 
-      1360698549
+      1360698549, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701677,
-    "wof:geomhash": "1f77b4383081d3e954498aff5ca69d09",
+    "wof:geomhash": "6e104fa3cc37954c12ce87d013e698b6",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471589535,
-    "wof:lastmodified": 1583786830,
+    "wof:lastmodified": 1609897939,
     "wof:name": "RH18 5AA",
     "wof:parent_id": 101854595,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.033757, 
-    51.097155, 
-    0.033757, 
-    51.097155
+    0.03377, 
+    51.09717, 
+    0.03377, 
+    51.09717
   ],
-  "geometry": {"coordinates":[0.033757,51.097155],"type":"Point"}
+  "geometry": {"coordinates":[0.03377,51.09717],"type":"Point"}
 }

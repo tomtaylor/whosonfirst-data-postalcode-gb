@@ -2,7 +2,7 @@
   "id": 890244147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-06-01",
     "edtf:inception": "2019-08-01",
     "geom:area": 0,
     "geom:bbox": "-1.322045,51.400070,-1.322045,51.400070",
@@ -10,7 +10,7 @@
     "geom:longitude": -1.322045,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000037",
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      101852663, 
       404227469, 
       1360698529, 
       85633159, 
       1360698857, 
-      404449013
+      404449013, 
+      101852663
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 890244147,
-    "wof:lastmodified": 1583786178,
+    "wof:lastmodified": 1609868698,
     "wof:name": "RG14 9LJ",
     "wof:parent_id": 101852663,
     "wof:placetype": "postalcode",

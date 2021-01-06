@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.549480,55.598386,-4.549480,55.598386",
-    "geom:latitude": 55.598386,
-    "geom:longitude": -4.54948,
+    "geom:bbox": "-4.549704,55.598408,-4.549704,55.598408",
+    "geom:latitude": 55.598408,
+    "geom:longitude": -4.549704,
     "gp:parent_id": "17469",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698697, 
-      85633159, 
       1360698779, 
       404451413, 
-      404227471
+      404227471, 
+      1360698697, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701316,
-    "wof:geomhash": "0449f23b8299f8979929c6754ca21ec3",
+    "wof:geomhash": "7d4bdd6007a9bbaacf86ed4ce4ee4e5e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504451695,
-    "wof:lastmodified": 1595728555,
+    "wof:lastmodified": 1609872108,
     "wof:name": "KA2 0BU",
     "wof:parent_id": 404451413,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.54948, 
-    55.598386, 
-    -4.54948, 
-    55.598386
+    -4.549704, 
+    55.598408, 
+    -4.549704, 
+    55.598408
   ],
-  "geometry": {"coordinates":[-4.54948,55.598386],"type":"Point"}
+  "geometry": {"coordinates":[-4.549704,55.598408],"type":"Point"}
 }

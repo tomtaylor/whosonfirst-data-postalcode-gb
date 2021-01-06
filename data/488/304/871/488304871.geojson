@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2007-07-01",
     "geom:area": 0,
-    "geom:bbox": "-0.692714,51.636071,-0.692714,51.636071",
-    "geom:latitude": 51.636071,
-    "geom:longitude": -0.692714,
+    "geom:bbox": "-0.693063,51.636021,-0.693063,51.636021",
+    "geom:latitude": 51.636021,
+    "geom:longitude": -0.693063,
     "gp:parent_id": "12695881",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      404435459, 
+      1360757397, 
       404227469, 
       1360698533, 
       85633159, 
-      1360698997, 
-      404435459, 
-      1360757397
+      1360698997
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701324,
-    "wof:geomhash": "40348e95fa259ec1b5a70db7fed176d9",
+    "wof:geomhash": "c067e11e3fb615d43a05796e750d05b5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488304871,
-    "wof:lastmodified": 1595732027,
+    "wof:lastmodified": 1609885435,
     "wof:name": "HP10 8AY",
     "wof:parent_id": 404435459,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.692714, 
-    51.636071, 
-    -0.692714, 
-    51.636071
+    -0.693063, 
+    51.636021, 
+    -0.693063, 
+    51.636021
   ],
-  "geometry": {"coordinates":[-0.692714,51.636071],"type":"Point"}
+  "geometry": {"coordinates":[-0.693063,51.636021],"type":"Point"}
 }

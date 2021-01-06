@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1999-06-01",
     "geom:area": 0,
-    "geom:bbox": "-3.001797,51.583177,-3.001797,51.583177",
-    "geom:latitude": 51.583177,
-    "geom:longitude": -3.001797,
+    "geom:bbox": "-3.001871,51.583221,-3.001871,51.583221",
+    "geom:latitude": 51.583221,
+    "geom:longitude": -3.001871,
     "gp:parent_id": "12696123",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227475, 
-      1360698641, 
       85633159, 
       1360698735, 
       404454095, 
-      1360711915
+      1360711915, 
+      404227475, 
+      1360698641
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701475,
-    "wof:geomhash": "95aed5e0b722f185325da5bce0cbbf70",
+    "wof:geomhash": "62a6544115c88e5968fc95e7a0d89458",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488464427,
-    "wof:lastmodified": 1583786685,
+    "wof:lastmodified": 1609892746,
     "wof:name": "NP20 4GB",
     "wof:parent_id": 101750399,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.001797, 
-    51.583177, 
-    -3.001797, 
-    51.583177
+    -3.001871, 
+    51.583221, 
+    -3.001871, 
+    51.583221
   ],
-  "geometry": {"coordinates":[-3.001797,51.583177],"type":"Point"}
+  "geometry": {"coordinates":[-3.001871,51.583221],"type":"Point"}
 }

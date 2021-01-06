@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1994-05-01",
     "geom:area": 0,
-    "geom:bbox": "-2.277921,53.396864,-2.277921,53.396864",
-    "geom:latitude": 53.396864,
-    "geom:longitude": -2.277921,
+    "geom:bbox": "-2.277920,53.396793,-2.277920,53.396793",
+    "geom:latitude": 53.396793,
+    "geom:longitude": -2.27792,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698893, 
-      101750525, 
-      404227469, 
       85785441, 
       1360698555, 
-      85633159
+      85633159, 
+      1360698893, 
+      101750525, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701197,
-    "wof:geomhash": "5a42adee516ac76b9d1724a0b5fa2d22",
+    "wof:geomhash": "31cde9fdab2f9c3fba7a80e1c10d33ed",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 470879551,
-    "wof:lastmodified": 1583786328,
+    "wof:lastmodified": 1609871022,
     "wof:name": "M23 1NF",
     "wof:parent_id": 101913961,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.277921, 
-    53.396864, 
-    -2.277921, 
-    53.396864
+    -2.27792, 
+    53.396793, 
+    -2.27792, 
+    53.396793
   ],
-  "geometry": {"coordinates":[-2.277921,53.396864],"type":"Point"}
+  "geometry": {"coordinates":[-2.27792,53.396793],"type":"Point"}
 }

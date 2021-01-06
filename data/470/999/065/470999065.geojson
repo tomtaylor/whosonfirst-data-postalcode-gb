@@ -20,12 +20,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       85792235, 
       1360698645, 
-      1158857279, 
+      1158857281, 
       85633159, 
-      101750367
+      101750367, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -36,7 +36,7 @@
     "wof:geomhash": "27740509b09719af47b690a3000d276e",
     "wof:hierarchy": [
       {
-        "borough_id": 1158857279,
+        "borough_id": 1158857281,
         "country_id": 85633159,
         "locality_id": 101750367,
         "macroregion_id": 404227469,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 470999065,
-    "wof:lastmodified": 1583786523,
+    "wof:lastmodified": 1609879277,
     "wof:name": "N11 2NS",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",

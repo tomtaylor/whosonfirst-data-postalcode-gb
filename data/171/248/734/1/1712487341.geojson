@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-11-01",
     "geom:area": 0,
-    "geom:bbox": "-2.486716,52.658225,-2.486716,52.658225",
-    "geom:latitude": 52.658225,
-    "geom:longitude": -2.486716,
+    "geom:bbox": "-2.486349,52.658424,-2.486349,52.658424",
+    "geom:latitude": 52.658424,
+    "geom:longitude": -2.486349,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698911, 
       404432697, 
       1360753081, 
       404227469, 
       1360698587, 
-      85633159
+      85633159, 
+      1360698911
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583790245,
-    "wof:geomhash": "e668434d24ea3d42007ccc38fc1ae413",
+    "wof:geomhash": "5832afe9e3a15bec373082bba1671bf2",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712487341,
-    "wof:lastmodified": 1595710860,
+    "wof:lastmodified": 1609869188,
     "wof:name": "TF4 3FW",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.486716, 
-    52.658225, 
-    -2.486716, 
-    52.658225
+    -2.486349, 
+    52.658424, 
+    -2.486349, 
+    52.658424
   ],
-  "geometry": {"coordinates":[-2.486716,52.658225],"type":"Point"}
+  "geometry": {"coordinates":[-2.486349,52.658424],"type":"Point"}
 }

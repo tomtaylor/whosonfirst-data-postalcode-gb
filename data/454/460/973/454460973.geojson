@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.319882,50.965248,-2.319882,50.965248",
-    "geom:latitude": 50.965248,
-    "geom:longitude": -2.319882,
+    "geom:bbox": "-2.320035,50.965097,-2.320035,50.965097",
+    "geom:latitude": 50.965097,
+    "geom:longitude": -2.320035,
     "gp:parent_id": "28384",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698545, 
-      85633159, 
-      1360698745, 
       404433067, 
       1125800707, 
-      404227469
+      404227469, 
+      1360698545, 
+      85633159, 
+      1360698745
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701577,
-    "wof:geomhash": "8322bc4375bb285c66f57e9855c91c4f",
+    "wof:geomhash": "913f293a292176e2324910c36033a2df",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454460973,
-    "wof:lastmodified": 1583786714,
+    "wof:lastmodified": 1609890382,
     "wof:name": "DT10 1PX",
     "wof:parent_id": 404433067,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.319882, 
-    50.965248, 
-    -2.319882, 
-    50.965248
+    -2.320035, 
+    50.965097, 
+    -2.320035, 
+    50.965097
   ],
-  "geometry": {"coordinates":[-2.319882,50.965248],"type":"Point"}
+  "geometry": {"coordinates":[-2.320035,50.965097],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.402252,51.360661,1.402252,51.360661",
-    "geom:latitude": 51.360661,
-    "geom:longitude": 1.402252,
+    "geom:bbox": "1.401180,51.360583,1.401180,51.360583",
+    "geom:latitude": 51.360583,
+    "geom:longitude": 1.40118,
     "gp:parent_id": "35765",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698565, 
       85633159, 
       1360698811, 
       404447271, 
       1360755035, 
-      404227469
+      404227469, 
+      1360698565
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701384,
-    "wof:geomhash": "b8207856a8af3c831609a5759117d927",
+    "wof:geomhash": "9e1f8a5e89cdd4d6594c378ac9e55e47",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454216657,
-    "wof:lastmodified": 1583786517,
+    "wof:lastmodified": 1609878627,
     "wof:name": "CT10 2NR",
     "wof:parent_id": 101750333,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.402252, 
-    51.360661, 
-    1.402252, 
-    51.360661
+    1.40118, 
+    51.360583, 
+    1.40118, 
+    51.360583
   ],
-  "geometry": {"coordinates":[1.402252,51.360661],"type":"Point"}
+  "geometry": {"coordinates":[1.40118,51.360583],"type":"Point"}
 }

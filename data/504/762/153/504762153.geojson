@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.249914,55.855379,-4.249914,55.855379",
-    "geom:latitude": 55.855379,
-    "geom:longitude": -4.249914,
+    "geom:bbox": "-4.249971,55.855262,-4.249971,55.855262",
+    "geom:latitude": 55.855262,
+    "geom:longitude": -4.249971,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      404430153, 
+      1175612707, 
+      404227471, 
       85792625, 
       1360698707, 
       85633159, 
-      1360698797, 
-      404430153, 
-      1175612707, 
-      404227471
+      1360698797
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701555,
-    "wof:geomhash": "dc020bad7169f177e6632ae9e7ae1696",
+    "wof:geomhash": "e40e66db02e85a540409badc7ef2e54e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 504762153,
-    "wof:lastmodified": 1595733234,
+    "wof:lastmodified": 1609889596,
     "wof:name": "G1 4LT",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.249914, 
-    55.855379, 
-    -4.249914, 
-    55.855379
+    -4.249971, 
+    55.855262, 
+    -4.249971, 
+    55.855262
   ],
-  "geometry": {"coordinates":[-4.249914,55.855379],"type":"Point"}
+  "geometry": {"coordinates":[-4.249971,55.855262],"type":"Point"}
 }

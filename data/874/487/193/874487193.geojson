@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2011-06-01",
     "geom:area": 0,
-    "geom:bbox": "0.553241,51.375428,0.553241,51.375428",
-    "geom:latitude": 51.375428,
-    "geom:longitude": 0.553241,
+    "geom:bbox": "0.552839,51.375446,0.552839,51.375446",
+    "geom:latitude": 51.375446,
+    "geom:longitude": 0.552839,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698565, 
       85633159, 
       1360699105, 
       1360817083, 
-      101750327
+      101750327, 
+      404227469, 
+      1360698565
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468888650,
-    "wof:geomhash": "e78bcee812bdf82b4f7441d45288cb78",
+    "wof:geomhash": "fa40b3222a3ebb9b6313438e85c0629e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 874487193,
-    "wof:lastmodified": 1595728379,
+    "wof:lastmodified": 1609871429,
     "wof:name": "ME7 5AY",
     "wof:parent_id": 101750329,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.553241, 
-    51.375428, 
-    0.553241, 
-    51.375428
+    0.552839, 
+    51.375446, 
+    0.552839, 
+    51.375446
   ],
-  "geometry": {"coordinates":[0.553241,51.375428],"type":"Point"}
+  "geometry": {"coordinates":[0.552839,51.375446],"type":"Point"}
 }

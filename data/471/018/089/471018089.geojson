@@ -6,9 +6,9 @@
     "edtf:inception": "1998-06-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.117813,51.604133,-0.117813,51.604133",
-    "geom:latitude": 51.604133,
-    "geom:longitude": -0.117813,
+    "geom:bbox": "-0.117787,51.604145,-0.117787,51.604145",
+    "geom:latitude": 51.604145,
+    "geom:longitude": -0.117787,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      85791751, 
+      1360698645, 
       1158857279, 
       85633159, 
       101750367, 
-      404227469, 
-      85791751, 
-      1360698645
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701100,
-    "wof:geomhash": "2bb15d623f9253dddbfa20c1c92cddf2",
+    "wof:geomhash": "7498affd340d3ec65b6188dc5da99470",
     "wof:hierarchy": [
       {
         "borough_id": 1158857279,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471018089,
-    "wof:lastmodified": 1583786216,
+    "wof:lastmodified": 1609868998,
     "wof:name": "N22 8DR",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.117813, 
-    51.604133, 
-    -0.117813, 
-    51.604133
+    -0.117787, 
+    51.604145, 
+    -0.117787, 
+    51.604145
   ],
-  "geometry": {"coordinates":[-0.117813,51.604133],"type":"Point"}
+  "geometry": {"coordinates":[-0.117787,51.604145],"type":"Point"}
 }

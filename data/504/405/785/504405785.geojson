@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1996-06-01",
     "geom:area": 0,
-    "geom:bbox": "-4.382134,55.860807,-4.382134,55.860807",
-    "geom:latitude": 55.860807,
-    "geom:longitude": -4.382134,
+    "geom:bbox": "-4.382344,55.860075,-4.382344,55.860075",
+    "geom:latitude": 55.860075,
+    "geom:longitude": -4.382344,
     "gp:parent_id": "12696207",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698699, 
       85633159, 
       1360699097, 
       404432463, 
       404227471, 
-      85788221, 
-      1360698699
+      85788221
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701169,
-    "wof:geomhash": "a8e09c205c7b0dae34a28a05c6427164",
+    "wof:geomhash": "a3f1480a87dd957a98f9790b7a86f8d8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504405785,
-    "wof:lastmodified": 1583786273,
+    "wof:lastmodified": 1609869749,
     "wof:name": "G52 4UU",
     "wof:parent_id": 101913923,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.382134, 
-    55.860807, 
-    -4.382134, 
-    55.860807
+    -4.382344, 
+    55.860075, 
+    -4.382344, 
+    55.860075
   ],
-  "geometry": {"coordinates":[-4.382134,55.860807],"type":"Point"}
+  "geometry": {"coordinates":[-4.382344,55.860075],"type":"Point"}
 }

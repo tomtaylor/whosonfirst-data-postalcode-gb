@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2002-12-01",
     "geom:area": 0,
-    "geom:bbox": "-2.640026,57.507467,-2.640026,57.507467",
+    "geom:bbox": "-2.639942,57.507467,-2.639942,57.507467",
     "geom:latitude": 57.507467,
-    "geom:longitude": -2.640026,
+    "geom:longitude": -2.639942,
     "gp:parent_id": "20445",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404448747, 
       404227471, 
       1360698715, 
       85633159, 
-      1360699031
+      1360699031, 
+      404448747
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701576,
-    "wof:geomhash": "40e376cb57434e5a684735d9a19f1cba",
+    "wof:geomhash": "8b275a9009295df393af5a5cdd003951",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488556609,
-    "wof:lastmodified": 1583786770,
+    "wof:lastmodified": 1609896687,
     "wof:name": "AB54 6BX",
     "wof:parent_id": 404448747,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.640026, 
+    -2.639942, 
     57.507467, 
-    -2.640026, 
+    -2.639942, 
     57.507467
   ],
-  "geometry": {"coordinates":[-2.640026,57.507467],"type":"Point"}
+  "geometry": {"coordinates":[-2.639942,57.507467],"type":"Point"}
 }

@@ -2,7 +2,7 @@
   "id": 1161008822,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-09-01",
     "edtf:inception": "2019-08-01",
     "geom:area": 0,
     "geom:bbox": "-2.333903,51.234284,-2.333903,51.234284",
@@ -10,7 +10,7 @@
     "geom:longitude": -2.333903,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000027",
     "os:district_code": "E07000187",
@@ -18,12 +18,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699059, 
       404446789, 
       101852533, 
       404227469, 
       1360698589, 
-      85633159
+      85633159, 
+      1360699059
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1161008822,
-    "wof:lastmodified": 1583799812,
+    "wof:lastmodified": 1609874486,
     "wof:name": "BA11 9DW",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

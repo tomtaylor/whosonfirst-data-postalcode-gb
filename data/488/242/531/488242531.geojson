@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1998-06-01",
     "geom:area": 0,
-    "geom:bbox": "-0.381151,54.064495,-0.381151,54.064495",
-    "geom:latitude": 54.064495,
-    "geom:longitude": -0.381151,
+    "geom:bbox": "-0.381045,54.064485,-0.381045,54.064485",
+    "geom:latitude": 54.064485,
+    "geom:longitude": -0.381045,
     "gp:parent_id": "24962",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699001, 
-      404441833, 
       1125954455, 
       404227469, 
-      1360698547
+      1360698547, 
+      85633159, 
+      1360699001, 
+      404441833
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701198,
-    "wof:geomhash": "799208830db11b96b0146ec33540ef55",
+    "wof:geomhash": "9b3c40b3dca1e180e0f997fe36ad69f9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488242531,
-    "wof:lastmodified": 1583786439,
+    "wof:lastmodified": 1609881967,
     "wof:name": "YO25 4RL",
     "wof:parent_id": 404441833,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.381151, 
-    54.064495, 
-    -0.381151, 
-    54.064495
+    -0.381045, 
+    54.064485, 
+    -0.381045, 
+    54.064485
   ],
-  "geometry": {"coordinates":[-0.381151,54.064495],"type":"Point"}
+  "geometry": {"coordinates":[-0.381045,54.064485],"type":"Point"}
 }

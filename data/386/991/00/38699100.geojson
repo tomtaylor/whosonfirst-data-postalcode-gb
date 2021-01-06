@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.942447,53.703711,-1.942447,53.703711",
-    "geom:latitude": 53.703711,
-    "geom:longitude": -1.942447,
+    "geom:bbox": "-1.942432,53.703846,-1.942432,53.703846",
+    "geom:latitude": 53.703846,
+    "geom:longitude": -1.942432,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698609, 
       85633159, 
       1360698833, 
       1360817303, 
-      101750577
+      101750577, 
+      404227469, 
+      1360698609
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583793285,
-    "wof:geomhash": "d7029e8827ab43b5e68f21b19af655ab",
+    "wof:geomhash": "240ac00f1c7b555ec4bcd4ad30fc4642",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 38699100,
-    "wof:lastmodified": 1595711008,
+    "wof:lastmodified": 1609868591,
     "wof:name": "HX6 1LR",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.942447, 
-    53.703711, 
-    -1.942447, 
-    53.703711
+    -1.942432, 
+    53.703846, 
+    -1.942432, 
+    53.703846
   ],
-  "geometry": {"coordinates":[-1.942447,53.703711],"type":"Point"}
+  "geometry": {"coordinates":[-1.942432,53.703846],"type":"Point"}
 }

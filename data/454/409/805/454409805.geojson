@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.031244,54.265861,-2.031244,54.265861",
-    "geom:latitude": 54.265861,
-    "geom:longitude": -2.031244,
+    "geom:bbox": "-2.032119,54.265330,-2.032119,54.265330",
+    "geom:latitude": 54.26533,
+    "geom:longitude": -2.032119,
     "gp:parent_id": "37292",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360755305, 
-      404227469, 
-      1360698619, 
       85633159, 
       1360698753, 
-      404439267
+      404439267, 
+      1360755305, 
+      404227469, 
+      1360698619
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701549,
-    "wof:geomhash": "535c8565f38a985cac8c065828374154",
+    "wof:geomhash": "c7ebbfb1415934cfe23e4bd6c8fab95b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454409805,
-    "wof:lastmodified": 1583786675,
+    "wof:lastmodified": 1609888274,
     "wof:name": "DL8 3BE",
     "wof:parent_id": 404439267,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.031244, 
-    54.265861, 
-    -2.031244, 
-    54.265861
+    -2.032119, 
+    54.26533, 
+    -2.032119, 
+    54.26533
   ],
-  "geometry": {"coordinates":[-2.031244,54.265861],"type":"Point"}
+  "geometry": {"coordinates":[-2.032119,54.26533],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "-3.471339,56.410267,-3.471339,56.410267",
+    "geom:bbox": "-3.471323,56.410267,-3.471323,56.410267",
     "geom:latitude": 56.410267,
-    "geom:longitude": -3.471339,
+    "geom:longitude": -3.471323,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698829, 
       404451983, 
       404227471, 
-      1360698691
+      1360698691, 
+      85633159, 
+      1360698829
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735591,
-    "wof:geomhash": "b295631c305f759824c7aaa517daa9e0",
+    "wof:geomhash": "a6c0f21bc9d8daf8e794e56f63841de2",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1713329993,
-    "wof:lastmodified": 1595753419,
+    "wof:lastmodified": 1609875445,
     "wof:name": "PH1 2AR",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.471339, 
+    -3.471323, 
     56.410267, 
-    -3.471339, 
+    -3.471323, 
     56.410267
   ],
-  "geometry": {"coordinates":[-3.471339,56.410267],"type":"Point"}
+  "geometry": {"coordinates":[-3.471323,56.410267],"type":"Point"}
 }

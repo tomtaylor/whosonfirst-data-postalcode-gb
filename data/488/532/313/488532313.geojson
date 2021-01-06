@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2003-07-01",
     "geom:area": 0,
-    "geom:bbox": "-3.234661,56.611967,-3.234661,56.611967",
-    "geom:latitude": 56.611967,
-    "geom:longitude": -3.234661,
+    "geom:bbox": "-3.234354,56.612042,-3.234354,56.612042",
+    "geom:latitude": 56.612042,
+    "geom:longitude": -3.234354,
     "gp:parent_id": "29875",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698829, 
-      404451983, 
       404227471, 
       1360698691, 
-      85633159
+      85633159, 
+      1360698829, 
+      404451983
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701544,
-    "wof:geomhash": "0ffab75d1162285f5cb42b2e873c0ddc",
+    "wof:geomhash": "2fc7c7116b5760c9b274ac51ca16abd2",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488532313,
-    "wof:lastmodified": 1583786744,
+    "wof:lastmodified": 1609895604,
     "wof:name": "PH11 8PB",
     "wof:parent_id": 404451983,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.234661, 
-    56.611967, 
-    -3.234661, 
-    56.611967
+    -3.234354, 
+    56.612042, 
+    -3.234354, 
+    56.612042
   ],
-  "geometry": {"coordinates":[-3.234661,56.611967],"type":"Point"}
+  "geometry": {"coordinates":[-3.234354,56.612042],"type":"Point"}
 }

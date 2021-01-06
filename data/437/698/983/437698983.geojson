@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-02-01",
     "geom:area": 0,
-    "geom:bbox": "-1.283363,52.778759,-1.283363,52.778759",
-    "geom:latitude": 52.778759,
-    "geom:longitude": -1.283363,
+    "geom:bbox": "-1.282935,52.778693,-1.282935,52.778693",
+    "geom:latitude": 52.778693,
+    "geom:longitude": -1.282935,
     "gp:parent_id": "34562",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698569, 
       85633159, 
       1360698871, 
       404444661, 
-      1125874381
+      1125874381, 
+      404227469, 
+      1360698569
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701495,
-    "wof:geomhash": "d511595c3fb3dd5aaa4a6f4796407334",
+    "wof:geomhash": "54b3f3a7ea1ea928807254148b529e6f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 437698983,
-    "wof:lastmodified": 1583786630,
+    "wof:lastmodified": 1609885364,
     "wof:name": "LE12 9WG",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.283363, 
-    52.778759, 
-    -1.283363, 
-    52.778759
+    -1.282935, 
+    52.778693, 
+    -1.282935, 
+    52.778693
   ],
-  "geometry": {"coordinates":[-1.283363,52.778759],"type":"Point"}
+  "geometry": {"coordinates":[-1.282935,52.778693],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.679332,50.261480,-3.679332,50.261480",
-    "geom:latitude": 50.26148,
-    "geom:longitude": -3.679332,
+    "geom:bbox": "-3.679192,50.261679,-3.679192,50.261679",
+    "geom:latitude": 50.261679,
+    "geom:longitude": -3.679192,
     "gp:parent_id": "16959",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698541, 
       85633159, 
       1360699081, 
       404433973, 
       1125799921, 
-      404227469
+      404227469, 
+      1360698541
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701242,
-    "wof:geomhash": "1d11c9c34319bb07da583f3ca992791f",
+    "wof:geomhash": "1533ae4750b1a45616c0942760f31c7f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487902115,
-    "wof:lastmodified": 1583786325,
+    "wof:lastmodified": 1609885648,
     "wof:name": "TQ7 2LR",
     "wof:parent_id": 404433973,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.679332, 
-    50.26148, 
-    -3.679332, 
-    50.26148
+    -3.679192, 
+    50.261679, 
+    -3.679192, 
+    50.261679
   ],
-  "geometry": {"coordinates":[-3.679332,50.26148],"type":"Point"}
+  "geometry": {"coordinates":[-3.679192,50.261679],"type":"Point"}
 }

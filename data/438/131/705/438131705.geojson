@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.301374,53.990822,-2.301374,53.990822",
-    "geom:latitude": 53.990822,
-    "geom:longitude": -2.301374,
+    "geom:bbox": "-2.301937,53.990650,-2.301937,53.990650",
+    "geom:latitude": 53.99065,
+    "geom:longitude": -2.301937,
     "gp:parent_id": "40457",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698619, 
       85633159, 
       1360698753, 
       404454631, 
       1126058693, 
-      404227469
+      404227469, 
+      1360698619
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701325,
-    "wof:geomhash": "6e0dee637531d9ba911584dbb9c7d527",
+    "wof:geomhash": "1ecb1d7549ea2fc693e4b96aeaba6241",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438131705,
-    "wof:lastmodified": 1583786457,
+    "wof:lastmodified": 1609875226,
     "wof:name": "BD23 4SP",
     "wof:parent_id": 404454631,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.301374, 
-    53.990822, 
-    -2.301374, 
-    53.990822
+    -2.301937, 
+    53.99065, 
+    -2.301937, 
+    53.99065
   ],
-  "geometry": {"coordinates":[-2.301374,53.990822],"type":"Point"}
+  "geometry": {"coordinates":[-2.301937,53.99065],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-11-01",
     "geom:area": 0,
-    "geom:bbox": "-0.105675,51.458170,-0.105675,51.458170",
-    "geom:latitude": 51.45817,
-    "geom:longitude": -0.105675,
+    "geom:bbox": "-0.105650,51.459456,-0.105650,51.459456",
+    "geom:latitude": 51.459456,
+    "geom:longitude": -0.10565,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      85786023, 
-      1360698645, 
-      1158857249, 
       85633159, 
       101750367, 
-      404227469
+      404227469, 
+      85786023, 
+      1360698645, 
+      1158857249
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583790220,
-    "wof:geomhash": "85ade876e670940bab446d401f0fa4d9",
+    "wof:geomhash": "c100e4cd2b7c04bae1a1ec743ad14db2",
     "wof:hierarchy": [
       {
         "borough_id": 1158857249,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 38426499,
-    "wof:lastmodified": 1583790220,
+    "wof:lastmodified": 1609868451,
     "wof:name": "SW9 8FY",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.105675, 
-    51.45817, 
-    -0.105675, 
-    51.45817
+    -0.10565, 
+    51.459456, 
+    -0.10565, 
+    51.459456
   ],
-  "geometry": {"coordinates":[-0.105675,51.45817],"type":"Point"}
+  "geometry": {"coordinates":[-0.10565,51.459456],"type":"Point"}
 }

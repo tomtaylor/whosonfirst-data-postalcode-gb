@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.299353,51.590436,0.299353,51.590436",
-    "geom:latitude": 51.590436,
-    "geom:longitude": 0.299353,
+    "geom:bbox": "0.297240,51.590334,0.297240,51.590334",
+    "geom:latitude": 51.590334,
+    "geom:longitude": 0.29724,
     "gp:parent_id": "26662",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698979, 
-      101854697, 
       404227469, 
       85791217, 
       1360698551, 
-      85633159
+      85633159, 
+      1360698979, 
+      101854697
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701300,
-    "wof:geomhash": "936911a9120e038af5aff574db591aad",
+    "wof:geomhash": "c41dd46d2effcdf072f1f91086f21401",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454137647,
-    "wof:lastmodified": 1583786435,
+    "wof:lastmodified": 1609873153,
     "wof:name": "CM13 3DS",
     "wof:parent_id": 404450913,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.299353, 
-    51.590436, 
-    0.299353, 
-    51.590436
+    0.29724, 
+    51.590334, 
+    0.29724, 
+    51.590334
   ],
-  "geometry": {"coordinates":[0.299353,51.590436],"type":"Point"}
+  "geometry": {"coordinates":[0.29724,51.590334],"type":"Point"}
 }

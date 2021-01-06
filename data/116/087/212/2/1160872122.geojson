@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-12-01",
     "geom:area": 0,
-    "geom:bbox": "0.567522,51.421847,0.567522,51.421847",
-    "geom:latitude": 51.421847,
-    "geom:longitude": 0.567522,
+    "geom:bbox": "0.567449,51.421561,0.567449,51.421561",
+    "geom:latitude": 51.421561,
+    "geom:longitude": 0.567449,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699105, 
-      404441321, 
       1125930715, 
       404227469, 
-      1360698565
+      1360698565, 
+      85633159, 
+      1360699105, 
+      404441321
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583793752,
-    "wof:geomhash": "e1718f5bfb1547eb5603e9c6e73c792c",
+    "wof:geomhash": "9aa0205e756897b34688a6d55fadf1d5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160872122,
-    "wof:lastmodified": 1595711116,
+    "wof:lastmodified": 1609871101,
     "wof:name": "ME3 9UT",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.567522, 
-    51.421847, 
-    0.567522, 
-    51.421847
+    0.567449, 
+    51.421561, 
+    0.567449, 
+    51.421561
   ],
-  "geometry": {"coordinates":[0.567522,51.421847],"type":"Point"}
+  "geometry": {"coordinates":[0.567449,51.421561],"type":"Point"}
 }

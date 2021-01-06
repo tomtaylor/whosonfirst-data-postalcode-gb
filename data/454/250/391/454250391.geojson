@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.470341,52.523601,-1.470341,52.523601",
-    "geom:latitude": 52.523601,
-    "geom:longitude": -1.470341,
+    "geom:bbox": "-1.470517,52.523674,-1.470517,52.523674",
+    "geom:latitude": 52.523674,
+    "geom:longitude": -1.470517,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,13 +18,13 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698603, 
+      85633159, 
+      1360698891, 
       1360817293, 
       101750471, 
       404227469, 
-      85785407, 
-      1360698603, 
-      85633159, 
-      1360698891
+      85785407
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701415,
-    "wof:geomhash": "1a2fb737c674bb9aa9504bcd87a438f2",
+    "wof:geomhash": "97752a86c126bb64f345cc002cf10365",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 454250391,
-    "wof:lastmodified": 1583786545,
+    "wof:lastmodified": 1609880137,
     "wof:name": "CV11 5BT",
     "wof:parent_id": 101750471,
     "wof:placetype": "postalcode",
@@ -55,10 +55,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.470341, 
-    52.523601, 
-    -1.470341, 
-    52.523601
+    -1.470517, 
+    52.523674, 
+    -1.470517, 
+    52.523674
   ],
-  "geometry": {"coordinates":[-1.470341,52.523601],"type":"Point"}
+  "geometry": {"coordinates":[-1.470517,52.523674],"type":"Point"}
 }

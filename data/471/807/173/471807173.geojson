@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.546178,51.503592,-0.546178,51.503592",
-    "geom:latitude": 51.503592,
-    "geom:longitude": -0.546178,
+    "geom:bbox": "-0.546059,51.503593,-0.546059,51.503593",
+    "geom:latitude": 51.503593,
+    "geom:longitude": -0.546059,
     "gp:parent_id": "35009",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      101750381, 
+      404227469, 
       1360698529, 
       85633159, 
-      1360699061, 
-      101750381, 
-      404227469
+      1360699061
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701741,
-    "wof:geomhash": "5205517e9dfa8a29d0dd8a78cf41d87b",
+    "wof:geomhash": "e7167e196ea5fa83ba8a32bc21635155",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 471807173,
-    "wof:lastmodified": 1583786912,
+    "wof:lastmodified": 1609903448,
     "wof:name": "SL3 8BS",
     "wof:parent_id": 101750381,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.546178, 
-    51.503592, 
-    -0.546178, 
-    51.503592
+    -0.546059, 
+    51.503593, 
+    -0.546059, 
+    51.503593
   ],
-  "geometry": {"coordinates":[-0.546178,51.503592],"type":"Point"}
+  "geometry": {"coordinates":[-0.546059,51.503593],"type":"Point"}
 }

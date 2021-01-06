@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2004-11-01",
     "geom:area": 0,
-    "geom:bbox": "0.941384,52.683331,0.941384,52.683331",
-    "geom:latitude": 52.683331,
-    "geom:longitude": 0.941384,
+    "geom:bbox": "0.941478,52.683185,0.941478,52.683185",
+    "geom:latitude": 52.683185,
+    "geom:longitude": 0.941478,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404433001, 
-      101854947, 
       404227469, 
       1360698575, 
       85633159, 
-      1360698955
+      1360698955, 
+      404433001, 
+      101854947
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701403,
-    "wof:geomhash": "a200429ceab75a123dc78ec4f206269e",
+    "wof:geomhash": "f7b2cc6e49f6f261b7d4df89f1e15c42",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471212693,
-    "wof:lastmodified": 1583786560,
+    "wof:lastmodified": 1609880458,
     "wof:name": "NR19 2NJ",
     "wof:parent_id": 101854947,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.941384, 
-    52.683331, 
-    0.941384, 
-    52.683331
+    0.941478, 
+    52.683185, 
+    0.941478, 
+    52.683185
   ],
-  "geometry": {"coordinates":[0.941384,52.683331],"type":"Point"}
+  "geometry": {"coordinates":[0.941478,52.683185],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.153305,52.724377,-1.153305,52.724377",
-    "geom:latitude": 52.724377,
-    "geom:longitude": -1.153305,
+    "geom:bbox": "-1.152977,52.724510,-1.152977,52.724510",
+    "geom:latitude": 52.72451,
+    "geom:longitude": -1.152977,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      101875503, 
-      404227469, 
       1360698569, 
       85633159, 
       1360698871, 
-      404452019
+      404452019, 
+      101875503, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701352,
-    "wof:geomhash": "a57086feab5105e73c07b5ddc0ec75f9",
+    "wof:geomhash": "3673e0dc177d8f7bd2cc514d4f628a35",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 437540275,
-    "wof:lastmodified": 1583786473,
+    "wof:lastmodified": 1609877786,
     "wof:name": "LE12 7XS",
     "wof:parent_id": "101871879",
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.153305, 
-    52.724377, 
-    -1.153305, 
-    52.724377
+    -1.152977, 
+    52.72451, 
+    -1.152977, 
+    52.72451
   ],
-  "geometry": {"coordinates":[-1.153305,52.724377],"type":"Point"}
+  "geometry": {"coordinates":[-1.152977,52.72451],"type":"Point"}
 }

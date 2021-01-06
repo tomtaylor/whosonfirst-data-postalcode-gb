@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.189898,51.025791,-2.189898,51.025791",
-    "geom:latitude": 51.025791,
-    "geom:longitude": -2.189898,
+    "geom:bbox": "-2.188810,51.024642,-2.188810,51.024642",
+    "geom:latitude": 51.024642,
+    "geom:longitude": -2.18881,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404447587, 
-      1126031387, 
-      404227469, 
       1360698545, 
       85633159, 
-      1360698745
+      1360698745, 
+      404447587, 
+      1126031387, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701102,
-    "wof:geomhash": "5fc98350f834f183af58ece399e50857",
+    "wof:geomhash": "aed4f9192aa6130d9957835d6cc49714",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 487646299,
-    "wof:lastmodified": 1595719972,
+    "wof:lastmodified": 1609870512,
     "wof:name": "SP7 9HE",
     "wof:parent_id": 404447587,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.189898, 
-    51.025791, 
-    -2.189898, 
-    51.025791
+    -2.18881, 
+    51.024642, 
+    -2.18881, 
+    51.024642
   ],
-  "geometry": {"coordinates":[-2.189898,51.025791],"type":"Point"}
+  "geometry": {"coordinates":[-2.18881,51.024642],"type":"Point"}
 }

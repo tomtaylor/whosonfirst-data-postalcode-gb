@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.731583,54.194897,-2.731583,54.194897",
-    "geom:latitude": 54.194897,
-    "geom:longitude": -2.731583,
+    "geom:bbox": "-2.731886,54.194688,-2.731886,54.194688",
+    "geom:latitude": 54.194688,
+    "geom:longitude": -2.731886,
     "gp:parent_id": "23707",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698877, 
-      404447381, 
-      1126028353, 
       404227469, 
       1360698721, 
-      85633159
+      85633159, 
+      1360698877, 
+      404447381, 
+      1126028353
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701766,
-    "wof:geomhash": "d2a6949a43b4d508b7b080a8c68a4b55",
+    "wof:geomhash": "84d3d3a3dfcb7c0ba82f2973796c9970",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454999053,
-    "wof:lastmodified": 1595718015,
+    "wof:lastmodified": 1609905836,
     "wof:name": "LA6 1RD",
     "wof:parent_id": 404447381,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.731583, 
-    54.194897, 
-    -2.731583, 
-    54.194897
+    -2.731886, 
+    54.194688, 
+    -2.731886, 
+    54.194688
   ],
-  "geometry": {"coordinates":[-2.731583,54.194897],"type":"Point"}
+  "geometry": {"coordinates":[-2.731886,54.194688],"type":"Point"}
 }

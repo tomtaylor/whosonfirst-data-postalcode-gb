@@ -5,42 +5,42 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-08-01",
     "geom:area": 0,
-    "geom:bbox": "-5.116970,50.204570,-5.116970,50.204570",
-    "geom:latitude": 50.20457,
-    "geom:longitude": -5.11697,
+    "geom:bbox": "-5.124465,50.209227,-5.124465,50.209227",
+    "geom:latitude": 50.209227,
+    "geom:longitude": -5.124465,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000052",
-    "os:positional_quality_indicator": "5",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360753685, 
       404227469, 
       1360698623, 
       85633159, 
       1360699085, 
-      404449471
+      404446949, 
+      1125849075
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583787740,
-    "wof:geomhash": "267ef99658458df4c727d97fc5080544",
+    "wof:geomhash": "65c30b21a52c132a8d5718a3425f7723",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360699085,
-        "localadmin_id": 404449471,
-        "locality_id": 1360753685,
+        "localadmin_id": 404446949,
+        "locality_id": 1125849075,
         "macroregion_id": 404227469,
         "region_id": 1360698623
       }
     ],
     "wof:id": 1160737330,
-    "wof:lastmodified": 1583787740,
+    "wof:lastmodified": 1609869274,
     "wof:name": "TR3 7FP",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -5.11697, 
-    50.20457, 
-    -5.11697, 
-    50.20457
+    -5.124465, 
+    50.209227, 
+    -5.124465, 
+    50.209227
   ],
-  "geometry": {"coordinates":[-5.11697,50.20457],"type":"Point"}
+  "geometry": {"coordinates":[-5.124465,50.209227],"type":"Point"}
 }

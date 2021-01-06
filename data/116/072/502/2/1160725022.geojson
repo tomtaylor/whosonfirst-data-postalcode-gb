@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.619187,54.593246,-1.619187,54.593246",
-    "geom:latitude": 54.593246,
-    "geom:longitude": -1.619187,
+    "geom:bbox": "-1.619964,54.592889,-1.619964,54.592889",
+    "geom:latitude": 54.592889,
+    "geom:longitude": -1.619964,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      1125907683, 
-      404227469, 
       1360698621, 
       85633159, 
       1360698889, 
-      404431445
+      404431445, 
+      1125907683, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583787158,
-    "wof:geomhash": "72b41e20c7d005ec869f763b482092d2",
+    "wof:geomhash": "195c3ac6c579fd4bf96b0a46b6daed5e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160725022,
-    "wof:lastmodified": 1583787158,
+    "wof:lastmodified": 1609869204,
     "wof:name": "DL5 6AN",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.619187, 
-    54.593246, 
-    -1.619187, 
-    54.593246
+    -1.619964, 
+    54.592889, 
+    -1.619964, 
+    54.592889
   ],
-  "geometry": {"coordinates":[-1.619187,54.593246],"type":"Point"}
+  "geometry": {"coordinates":[-1.619964,54.592889],"type":"Point"}
 }

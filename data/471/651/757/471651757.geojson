@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.493792,53.255597,-1.493792,53.255597",
-    "geom:latitude": 53.255597,
-    "geom:longitude": -1.493792,
+    "geom:bbox": "-1.492267,53.255276,-1.492267,53.255276",
+    "geom:latitude": 53.255276,
+    "geom:longitude": -1.492267,
     "gp:parent_id": "17694",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698539, 
       85633159, 
       1360698765, 
       404437641, 
-      1360759837
+      1360759837, 
+      404227469, 
+      1360698539
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701692,
-    "wof:geomhash": "025b697dee43737c8d83d617195dff77",
+    "wof:geomhash": "25f728df32a64b070ebae61449de9eed",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471651757,
-    "wof:lastmodified": 1583786860,
+    "wof:lastmodified": 1609900299,
     "wof:name": "S42 7AS",
     "wof:parent_id": 404437641,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.493792, 
-    53.255597, 
-    -1.493792, 
-    53.255597
+    -1.492267, 
+    53.255276, 
+    -1.492267, 
+    53.255276
   ],
-  "geometry": {"coordinates":[-1.493792,53.255597],"type":"Point"}
+  "geometry": {"coordinates":[-1.492267,53.255276],"type":"Point"}
 }

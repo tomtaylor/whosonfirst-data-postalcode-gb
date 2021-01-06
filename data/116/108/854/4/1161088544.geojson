@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-12-01",
     "geom:area": 0,
-    "geom:bbox": "-3.407267,50.858950,-3.407267,50.858950",
-    "geom:latitude": 50.85895,
-    "geom:longitude": -3.407267,
+    "geom:bbox": "-3.407166,50.858906,-3.407166,50.858906",
+    "geom:latitude": 50.858906,
+    "geom:longitude": -3.407166,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698541, 
+      85633159, 
       1360699081, 
       404433557, 
       101852633, 
-      404227469, 
-      1360698541, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583803325,
-    "wof:geomhash": "55491c99af5321e964d386b05dfcefe8",
+    "wof:geomhash": "7b1b3521aa33d54a6d7b3f8bb22ff163",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1161088544,
-    "wof:lastmodified": 1595712224,
+    "wof:lastmodified": 1609876224,
     "wof:name": "EX15 1TX",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.407267, 
-    50.85895, 
-    -3.407267, 
-    50.85895
+    -3.407166, 
+    50.858906, 
+    -3.407166, 
+    50.858906
   ],
-  "geometry": {"coordinates":[-3.407267,50.85895],"type":"Point"}
+  "geometry": {"coordinates":[-3.407166,50.858906],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.570097,53.764992,-1.570097,53.764992",
-    "geom:latitude": 53.764992,
-    "geom:longitude": -1.570097,
+    "geom:bbox": "-1.570173,53.764965,-1.570173,53.764965",
+    "geom:latitude": 53.764965,
+    "geom:longitude": -1.570173,
     "gp:parent_id": "26042",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      85785585, 
+      1360698609, 
       85633159, 
       1360698749, 
       101750579, 
-      404227469, 
-      85785585, 
-      1360698609
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701195,
-    "wof:geomhash": "8b0a3c2f26436b56d4d221c246a43f45",
+    "wof:geomhash": "793aa1e2c8ba1fd5eed20b582a3083a7",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 455074073,
-    "wof:lastmodified": 1583786324,
+    "wof:lastmodified": 1609871213,
     "wof:name": "LS11 8HW",
     "wof:parent_id": 101750579,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.570097, 
-    53.764992, 
-    -1.570097, 
-    53.764992
+    -1.570173, 
+    53.764965, 
+    -1.570173, 
+    53.764965
   ],
-  "geometry": {"coordinates":[-1.570097,53.764992],"type":"Point"}
+  "geometry": {"coordinates":[-1.570173,53.764965],"type":"Point"}
 }

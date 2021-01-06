@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.397180,51.930159,-2.397180,51.930159",
-    "geom:latitude": 51.930159,
-    "geom:longitude": -2.39718,
+    "geom:bbox": "-2.397267,51.930158,-2.397267,51.930158",
+    "geom:latitude": 51.930158,
+    "geom:longitude": -2.397267,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      101852859, 
-      404227469, 
       1360698553, 
       85633159, 
       1360698927, 
-      404441993
+      404441993, 
+      101852859, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701676,
-    "wof:geomhash": "ce87374ed2a29193f2b0b8110facedb2",
+    "wof:geomhash": "124b8ca84d35813ac74cc3af09f8fb78",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454636469,
-    "wof:lastmodified": 1583786808,
+    "wof:lastmodified": 1609897869,
     "wof:name": "GL18 1SB",
     "wof:parent_id": 404441993,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.39718, 
-    51.930159, 
-    -2.39718, 
-    51.930159
+    -2.397267, 
+    51.930158, 
+    -2.397267, 
+    51.930158
   ],
-  "geometry": {"coordinates":[-2.39718,51.930159],"type":"Point"}
+  "geometry": {"coordinates":[-2.397267,51.930158],"type":"Point"}
 }

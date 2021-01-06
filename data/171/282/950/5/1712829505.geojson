@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-04-01",
     "geom:area": 0,
-    "geom:bbox": "-0.565777,51.751532,-0.565777,51.751532",
-    "geom:latitude": 51.751532,
-    "geom:longitude": -0.565777,
+    "geom:bbox": "-0.566083,51.751500,-0.566083,51.751500",
+    "geom:latitude": 51.7515,
+    "geom:longitude": -0.566083,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698763, 
-      404431337, 
       101854795, 
       404227469, 
       1360698559, 
-      85633159
+      85633159, 
+      1360698763, 
+      404431337
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583805441,
-    "wof:geomhash": "c204bf80c6d9199f3695058f0b437eb4",
+    "wof:geomhash": "ee9c5b54c35d1fca912da801c756db75",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712829505,
-    "wof:lastmodified": 1583805441,
+    "wof:lastmodified": 1609875315,
     "wof:name": "HP4 2GE",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.565777, 
-    51.751532, 
-    -0.565777, 
-    51.751532
+    -0.566083, 
+    51.7515, 
+    -0.566083, 
+    51.7515
   ],
-  "geometry": {"coordinates":[-0.565777,51.751532],"type":"Point"}
+  "geometry": {"coordinates":[-0.566083,51.7515],"type":"Point"}
 }

@@ -2,15 +2,15 @@
   "id": 454791251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2018-12-01",
-    "edtf:inception": "1996-06-01",
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-06-01",
     "geom:area": 0,
-    "geom:bbox": "-0.607310,51.675531,-0.607310,51.675531",
-    "geom:latitude": 51.675531,
-    "geom:longitude": -0.60731,
+    "geom:bbox": "-0.607287,51.675536,-0.607287,51.675536",
+    "geom:latitude": 51.675536,
+    "geom:longitude": -0.607287,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000060",
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      101854803, 
       404227469, 
       1360698533, 
       85633159, 
       1360698997, 
-      404441987, 
-      101854803
+      404441987
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701715,
-    "wof:geomhash": "6547c6f39dadb2e4bb804e5fe025b012",
+    "wof:geomhash": "08a6e8041d8e952efc25a485f95b39ac",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454791251,
-    "wof:lastmodified": 1595717154,
+    "wof:lastmodified": 1609902279,
     "wof:name": "HP6 5EA",
     "wof:parent_id": 101854803,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.60731, 
-    51.675531, 
-    -0.60731, 
-    51.675531
+    -0.607287, 
+    51.675536, 
+    -0.607287, 
+    51.675536
   ],
-  "geometry": {"coordinates":[-0.60731,51.675531],"type":"Point"}
+  "geometry": {"coordinates":[-0.607287,51.675536],"type":"Point"}
 }

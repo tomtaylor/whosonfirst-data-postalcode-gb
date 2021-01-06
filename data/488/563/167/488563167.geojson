@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1999-06-01",
     "geom:area": 0,
-    "geom:bbox": "-3.166906,51.502306,-3.166906,51.502306",
-    "geom:latitude": 51.502306,
-    "geom:longitude": -3.166906,
+    "geom:bbox": "-3.166793,51.502361,-3.166793,51.502361",
+    "geom:latitude": 51.502361,
+    "geom:longitude": -3.166793,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699107, 
-      101750397, 
       404227475, 
       1360698627, 
-      1360887609
+      1360887609, 
+      85633159, 
+      1360699107, 
+      101750397
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701591,
-    "wof:geomhash": "9fc746e38764c66d3d3643218b649035",
+    "wof:geomhash": "218f8cb4b4fc134a8aff8f7af64de2ad",
     "wof:hierarchy": [
       {
         "borough_id": 1360887609,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 488563167,
-    "wof:lastmodified": 1583786777,
+    "wof:lastmodified": 1609896804,
     "wof:name": "CF23 5LT",
     "wof:parent_id": 101750397,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.166906, 
-    51.502306, 
-    -3.166906, 
-    51.502306
+    -3.166793, 
+    51.502361, 
+    -3.166793, 
+    51.502361
   ],
-  "geometry": {"coordinates":[-3.166906,51.502306],"type":"Point"}
+  "geometry": {"coordinates":[-3.166793,51.502361],"type":"Point"}
 }

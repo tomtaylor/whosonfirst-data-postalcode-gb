@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-04-01",
     "geom:area": 0,
-    "geom:bbox": "-2.361930,52.666133,-2.361930,52.666133",
-    "geom:latitude": 52.666133,
-    "geom:longitude": -2.36193,
+    "geom:bbox": "-2.361664,52.666053,-2.361664,52.666053",
+    "geom:latitude": 52.666053,
+    "geom:longitude": -2.361664,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698821, 
-      404443037, 
       101853641, 
       404227469, 
       1360698587, 
-      85633159
+      85633159, 
+      1360698821, 
+      404443037
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583792931,
-    "wof:geomhash": "c66f0f1e043129a5cfead77bf1e23797",
+    "wof:geomhash": "09a810ebd897e6d23ad98d044da4d544",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 38671065,
-    "wof:lastmodified": 1595710936,
+    "wof:lastmodified": 1609868512,
     "wof:name": "TF11 8GS",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.36193, 
-    52.666133, 
-    -2.36193, 
-    52.666133
+    -2.361664, 
+    52.666053, 
+    -2.361664, 
+    52.666053
   ],
-  "geometry": {"coordinates":[-2.36193,52.666133],"type":"Point"}
+  "geometry": {"coordinates":[-2.361664,52.666053],"type":"Point"}
 }

@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.201969,51.580103,-0.201969,51.580103",
-    "geom:latitude": 51.580103,
-    "geom:longitude": -0.201969,
+    "geom:bbox": "-0.201843,51.580105,-0.201843,51.580105",
+    "geom:latitude": 51.580105,
+    "geom:longitude": -0.201843,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698645, 
+      1158857285, 
       85633159, 
       101750367, 
       404227469, 
-      85787621, 
-      1360698645, 
-      1158857285
+      85787621
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701443,
-    "wof:geomhash": "0d57942de4e1bfc8f5983fd7da8eb00a",
+    "wof:geomhash": "f7af6d46d1c6147e7a4fcf75a4138789",
     "wof:hierarchy": [
       {
         "borough_id": 1158857285,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471254653,
-    "wof:lastmodified": 1583786593,
+    "wof:lastmodified": 1609882766,
     "wof:name": "NW11 0LR",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.201969, 
-    51.580103, 
-    -0.201969, 
-    51.580103
+    -0.201843, 
+    51.580105, 
+    -0.201843, 
+    51.580105
   ],
-  "geometry": {"coordinates":[-0.201969,51.580103],"type":"Point"}
+  "geometry": {"coordinates":[-0.201843,51.580105],"type":"Point"}
 }

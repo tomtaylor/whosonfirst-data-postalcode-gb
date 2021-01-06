@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "-1.516437,54.860087,-1.516437,54.860087",
-    "geom:latitude": 54.860087,
-    "geom:longitude": -1.516437,
+    "geom:bbox": "-1.516300,54.859826,-1.516300,54.859826",
+    "geom:latitude": 54.859826,
+    "geom:longitude": -1.5163,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698621, 
       85633159, 
       1360699055, 
       404434265, 
-      1126059539, 
-      404227469, 
-      1360698621
+      1126059539
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735708,
-    "wof:geomhash": "5512faf24a36e1bb1188f4a266643f5b",
+    "wof:geomhash": "6e4794e5e19637d15a5cbb6fe205e247",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1713332317,
-    "wof:lastmodified": 1595753507,
+    "wof:lastmodified": 1609875567,
     "wof:name": "DH3 4DS",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.516437, 
-    54.860087, 
-    -1.516437, 
-    54.860087
+    -1.5163, 
+    54.859826, 
+    -1.5163, 
+    54.859826
   ],
-  "geometry": {"coordinates":[-1.516437,54.860087],"type":"Point"}
+  "geometry": {"coordinates":[-1.5163,54.859826],"type":"Point"}
 }

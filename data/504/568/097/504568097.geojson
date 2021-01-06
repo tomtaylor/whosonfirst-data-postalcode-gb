@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.556500,55.810119,-4.556500,55.810119",
-    "geom:latitude": 55.810119,
-    "geom:longitude": -4.5565,
+    "geom:bbox": "-4.556126,55.810271,-4.556126,55.810271",
+    "geom:latitude": 55.810271,
+    "geom:longitude": -4.556126,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,11 +18,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699097, 
       404432463, 
       404227471, 
-      1360698699
+      1360698699, 
+      85633159, 
+      1360699097
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -30,7 +30,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701436,
-    "wof:geomhash": "560189344ad343b4cc584ab60566877a",
+    "wof:geomhash": "895042e7301ee63090cfc791b9351c7d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -41,7 +41,7 @@
       }
     ],
     "wof:id": 504568097,
-    "wof:lastmodified": 1583786575,
+    "wof:lastmodified": 1609879925,
     "wof:name": "PA9 1AN",
     "wof:parent_id": 101873537,
     "wof:placetype": "postalcode",
@@ -51,10 +51,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.5565, 
-    55.810119, 
-    -4.5565, 
-    55.810119
+    -4.556126, 
+    55.810271, 
+    -4.556126, 
+    55.810271
   ],
-  "geometry": {"coordinates":[-4.5565,55.810119],"type":"Point"}
+  "geometry": {"coordinates":[-4.556126,55.810271],"type":"Point"}
 }

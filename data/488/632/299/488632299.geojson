@@ -19,11 +19,12 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698677, 
       85633159, 
       1360698791, 
-      404436513, 
-      404227471, 
-      1360698677
+      404437279, 
+      101750629, 
+      404227471
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -36,13 +37,14 @@
       {
         "country_id": 85633159,
         "county_id": 1360698791,
-        "localadmin_id": 404436513,
+        "localadmin_id": 404437279,
+        "locality_id": 101750629,
         "macroregion_id": 404227471,
         "region_id": 1360698677
       }
     ],
     "wof:id": 488632299,
-    "wof:lastmodified": 1583786829,
+    "wof:lastmodified": 1609899303,
     "wof:name": "EH26 0DU",
     "wof:parent_id": 101872437,
     "wof:placetype": "postalcode",

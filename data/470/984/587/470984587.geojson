@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.488808,52.005248,-0.488808,52.005248",
-    "geom:latitude": 52.005248,
-    "geom:longitude": -0.488808,
+    "geom:bbox": "-0.488741,52.005240,-0.488741,52.005240",
+    "geom:latitude": 52.00524,
+    "geom:longitude": -0.488741,
     "gp:parent_id": "20322",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698527, 
-      85633159, 
       1360698767, 
       404435155, 
-      101854815
+      101854815, 
+      404227469, 
+      1360698527, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701366,
-    "wof:geomhash": "b139335e177a65e50969aff76652d6ad",
+    "wof:geomhash": "1e5d4d880638c52b52dd975362bd8278",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470984587,
-    "wof:lastmodified": 1583786503,
+    "wof:lastmodified": 1609878561,
     "wof:name": "MK45 1HE",
     "wof:parent_id": 101854815,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.488808, 
-    52.005248, 
-    -0.488808, 
-    52.005248
+    -0.488741, 
+    52.00524, 
+    -0.488741, 
+    52.00524
   ],
-  "geometry": {"coordinates":[-0.488808,52.005248],"type":"Point"}
+  "geometry": {"coordinates":[-0.488741,52.00524],"type":"Point"}
 }

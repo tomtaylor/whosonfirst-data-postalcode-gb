@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2016-11-01",
     "geom:area": 0,
-    "geom:bbox": "-2.553525,53.246600,-2.553525,53.246600",
-    "geom:latitude": 53.2466,
-    "geom:longitude": -2.553525,
+    "geom:bbox": "-2.553644,53.246491,-2.553644,53.246491",
+    "geom:latitude": 53.246491,
+    "geom:longitude": -2.553644,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698923, 
       404431053, 
       1226776511, 
       404227469, 
-      1360698537
+      1360698537, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583802620,
-    "wof:geomhash": "1c31cffab2ce09456a69bb61bb649078",
+    "wof:geomhash": "31a46c3d85cdfd1a5b30a6d7d2abaf2e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712766023,
-    "wof:lastmodified": 1583802620,
+    "wof:lastmodified": 1609874189,
     "wof:name": "CW8 1HU",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.553525, 
-    53.2466, 
-    -2.553525, 
-    53.2466
+    -2.553644, 
+    53.246491, 
+    -2.553644, 
+    53.246491
   ],
-  "geometry": {"coordinates":[-2.553525,53.2466],"type":"Point"}
+  "geometry": {"coordinates":[-2.553644,53.246491],"type":"Point"}
 }

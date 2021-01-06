@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.947182,55.000940,-2.947182,55.000940",
-    "geom:latitude": 55.00094,
-    "geom:longitude": -2.947182,
+    "geom:bbox": "-2.949287,55.000726,-2.949287,55.000726",
+    "geom:latitude": 55.000726,
+    "geom:longitude": -2.949287,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698721, 
-      85633159, 
       1360698877, 
       404431309, 
       1360755721, 
-      404227469
+      404227469, 
+      1360698721, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701144,
-    "wof:geomhash": "2b8d4f58a972a570558a3631cedc9cb0",
+    "wof:geomhash": "5dca862bc19ed179c1c6cd0999dc5a2e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454071305,
-    "wof:lastmodified": 1595711060,
+    "wof:lastmodified": 1609869563,
     "wof:name": "CA6 5TP",
     "wof:parent_id": 404431309,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.947182, 
-    55.00094, 
-    -2.947182, 
-    55.00094
+    -2.949287, 
+    55.000726, 
+    -2.949287, 
+    55.000726
   ],
-  "geometry": {"coordinates":[-2.947182,55.00094],"type":"Point"}
+  "geometry": {"coordinates":[-2.949287,55.000726],"type":"Point"}
 }

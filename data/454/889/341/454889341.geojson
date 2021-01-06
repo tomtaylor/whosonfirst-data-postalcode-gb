@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.853229,52.241827,0.853229,52.241827",
-    "geom:latitude": 52.241827,
-    "geom:longitude": 0.853229,
+    "geom:bbox": "0.853780,52.241751,0.853780,52.241751",
+    "geom:latitude": 52.241751,
+    "geom:longitude": 0.85378,
     "gp:parent_id": "37844",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698595, 
       85633159, 
       1360699041, 
       404432077, 
-      1243489739
+      1243489739, 
+      404227469, 
+      1360698595
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701745,
-    "wof:geomhash": "da62606ac8143ab45ec03038e066d443",
+    "wof:geomhash": "cd7d5ecaca8e418c0cfb3b0182757550",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454889341,
-    "wof:lastmodified": 1595717556,
+    "wof:lastmodified": 1609904361,
     "wof:name": "IP30 9PS",
     "wof:parent_id": 404432077,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.853229, 
-    52.241827, 
-    0.853229, 
-    52.241827
+    0.85378, 
+    52.241751, 
+    0.85378, 
+    52.241751
   ],
-  "geometry": {"coordinates":[0.853229,52.241827],"type":"Point"}
+  "geometry": {"coordinates":[0.85378,52.241751],"type":"Point"}
 }

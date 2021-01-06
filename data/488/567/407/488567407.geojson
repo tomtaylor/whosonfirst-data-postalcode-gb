@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.543244,51.605878,-3.543244,51.605878",
-    "geom:latitude": 51.605878,
-    "geom:longitude": -3.543244,
+    "geom:bbox": "-3.543179,51.605672,-3.543179,51.605672",
+    "geom:latitude": 51.605672,
+    "geom:longitude": -3.543179,
     "gp:parent_id": "30872",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699051, 
       404451197, 
       1360711747, 
       404227475, 
       1360698631, 
-      85633159
+      85633159, 
+      1360699051
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701593,
-    "wof:geomhash": "737493e453c27041bfa19d0ecb2d6172",
+    "wof:geomhash": "9da8b785c4731eeee8b167c716c7e0b7",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488567407,
-    "wof:lastmodified": 1583786782,
+    "wof:lastmodified": 1609897196,
     "wof:name": "CF32 7EL",
     "wof:parent_id": 404451197,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.543244, 
-    51.605878, 
-    -3.543244, 
-    51.605878
+    -3.543179, 
+    51.605672, 
+    -3.543179, 
+    51.605672
   ],
-  "geometry": {"coordinates":[-3.543244,51.605878],"type":"Point"}
+  "geometry": {"coordinates":[-3.543179,51.605672],"type":"Point"}
 }

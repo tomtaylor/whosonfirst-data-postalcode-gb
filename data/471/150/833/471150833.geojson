@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.129076,53.003115,-1.129076,53.003115",
-    "geom:latitude": 53.003115,
-    "geom:longitude": -1.129076,
+    "geom:bbox": "-1.129106,53.003080,-1.129106,53.003080",
+    "geom:latitude": 53.00308,
+    "geom:longitude": -1.129106,
     "gp:parent_id": "11061",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698809, 
       1360817357, 
       1125994433, 
       404227469, 
       1360698583, 
-      85633159
+      85633159, 
+      1360698809
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701344,
-    "wof:geomhash": "6a18d53b16e27428f0890278108470de",
+    "wof:geomhash": "dcb2aa1f04cdcbcc0ef9d7bb6b945c3e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471150833,
-    "wof:lastmodified": 1583786489,
+    "wof:lastmodified": 1609877075,
     "wof:name": "NG5 7DZ",
     "wof:parent_id": 101913991,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.129076, 
-    53.003115, 
-    -1.129076, 
-    53.003115
+    -1.129106, 
+    53.00308, 
+    -1.129106, 
+    53.00308
   ],
-  "geometry": {"coordinates":[-1.129076,53.003115],"type":"Point"}
+  "geometry": {"coordinates":[-1.129106,53.00308],"type":"Point"}
 }

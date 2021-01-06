@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1981-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.046567,52.590679,-2.046567,52.590679",
-    "geom:latitude": 52.590679,
-    "geom:longitude": -2.046567,
+    "geom:bbox": "-2.046109,52.590670,-2.046109,52.590670",
+    "geom:latitude": 52.59067,
+    "geom:longitude": -2.046109,
     "gp:parent_id": "40511",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698605, 
       85633159, 
       1360698875, 
-      1125853123, 
-      404227469, 
-      1360698605
+      1125853123
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701116,
-    "wof:geomhash": "dc330b0ae2c97cf2afef13a62ede8e71",
+    "wof:geomhash": "cd5423d4c21d5f1d65b8db2e0a075079",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488209359,
-    "wof:lastmodified": 1583786369,
+    "wof:lastmodified": 1609880385,
     "wof:name": "WV13 1JR",
     "wof:parent_id": 101914035,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.046567, 
-    52.590679, 
-    -2.046567, 
-    52.590679
+    -2.046109, 
+    52.59067, 
+    -2.046109, 
+    52.59067
   ],
-  "geometry": {"coordinates":[-2.046567,52.590679],"type":"Point"}
+  "geometry": {"coordinates":[-2.046109,52.59067],"type":"Point"}
 }

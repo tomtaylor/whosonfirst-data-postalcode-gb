@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.177260,51.417956,-0.177260,51.417956",
-    "geom:latitude": 51.417956,
-    "geom:longitude": -0.17726,
+    "geom:bbox": "-0.177275,51.418028,-0.177275,51.418028",
+    "geom:latitude": 51.418028,
+    "geom:longitude": -0.177275,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      85860669, 
       1360698645, 
       1158857305, 
       85633159, 
-      101750367, 
-      404227469, 
-      85860669
+      101750367
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701148,
-    "wof:geomhash": "fb92c57ea45312e14607324a21299148",
+    "wof:geomhash": "927f8823b21af17e8b60a14d418f3d4b",
     "wof:hierarchy": [
       {
         "borough_id": 1158857305,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487745605,
-    "wof:lastmodified": 1583786249,
+    "wof:lastmodified": 1609877453,
     "wof:name": "SW19 2NS",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.17726, 
-    51.417956, 
-    -0.17726, 
-    51.417956
+    -0.177275, 
+    51.418028, 
+    -0.177275, 
+    51.418028
   ],
-  "geometry": {"coordinates":[-0.17726,51.417956],"type":"Point"}
+  "geometry": {"coordinates":[-0.177275,51.418028],"type":"Point"}
 }

@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1990-07-01",
     "geom:area": 0,
-    "geom:bbox": "-1.168246,51.664356,-1.168246,51.664356",
-    "geom:latitude": 51.664356,
+    "geom:bbox": "-1.168246,51.664338,-1.168246,51.664338",
+    "geom:latitude": 51.664338,
     "geom:longitude": -1.168246,
     "gp:parent_id": "12400",
     "iso:country": "GB",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698585, 
       85633159, 
       1360698839, 
       404447775, 
       1293912559, 
-      404227469, 
-      1360698585
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701488,
-    "wof:geomhash": "2ffc8f38cd4476522d08f3f526723b7b",
+    "wof:geomhash": "b129f1371b3fee182f7e4afe8d454a20",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471307721,
-    "wof:lastmodified": 1583786638,
+    "wof:lastmodified": 1609885811,
     "wof:name": "OX10 7NH",
     "wof:parent_id": 404447775,
     "wof:placetype": "postalcode",
@@ -55,9 +55,9 @@
   },
   "bbox": [
     -1.168246, 
-    51.664356, 
+    51.664338, 
     -1.168246, 
-    51.664356
+    51.664338
   ],
-  "geometry": {"coordinates":[-1.168246,51.664356],"type":"Point"}
+  "geometry": {"coordinates":[-1.168246,51.664338],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.528016,55.131632,-1.528016,55.131632",
-    "geom:latitude": 55.131632,
-    "geom:longitude": -1.528016,
+    "geom:bbox": "-1.528765,55.131941,-1.528765,55.131941",
+    "geom:latitude": 55.131941,
+    "geom:longitude": -1.528765,
     "gp:parent_id": "13098",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698769, 
-      404433399, 
       101873451, 
       404227469, 
-      1360698727
+      1360698727, 
+      85633159, 
+      1360698769, 
+      404433399
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701172,
-    "wof:geomhash": "6c9dcf05012719e802c5c7e2ddf30f93",
+    "wof:geomhash": "19dfc7f53b6df03f372fde6d1fc0d73f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471048607,
-    "wof:lastmodified": 1583786306,
+    "wof:lastmodified": 1609870065,
     "wof:name": "NE24 5SU",
     "wof:parent_id": 404433399,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.528016, 
-    55.131632, 
-    -1.528016, 
-    55.131632
+    -1.528765, 
+    55.131941, 
+    -1.528765, 
+    55.131941
   ],
-  "geometry": {"coordinates":[-1.528016,55.131632],"type":"Point"}
+  "geometry": {"coordinates":[-1.528765,55.131941],"type":"Point"}
 }

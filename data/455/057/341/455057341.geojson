@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1999-12-01",
     "geom:area": 0,
-    "geom:bbox": "-0.445762,53.283813,-0.445762,53.283813",
-    "geom:latitude": 53.283813,
-    "geom:longitude": -0.445762,
+    "geom:bbox": "-0.445805,53.283505,-0.445805,53.283505",
+    "geom:latitude": 53.283505,
+    "geom:longitude": -0.445805,
     "gp:parent_id": "34212",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
       1360698571, 
       85633159, 
       1360699067, 
       404437507, 
-      1360213395, 
-      404227469
+      1360213395
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701158,
-    "wof:geomhash": "36257fed6343641cd7950590624ca9a7",
+    "wof:geomhash": "aa70229dca507b0afe437b12b809779a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 455057341,
-    "wof:lastmodified": 1583786283,
+    "wof:lastmodified": 1609870371,
     "wof:name": "LN2 2WP",
     "wof:parent_id": 404437507,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.445762, 
-    53.283813, 
-    -0.445762, 
-    53.283813
+    -0.445805, 
+    53.283505, 
+    -0.445805, 
+    53.283505
   ],
-  "geometry": {"coordinates":[-0.445762,53.283813],"type":"Point"}
+  "geometry": {"coordinates":[-0.445805,53.283505],"type":"Point"}
 }

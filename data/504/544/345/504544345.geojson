@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1999-06-01",
     "geom:area": 0,
-    "geom:bbox": "-3.216412,51.779115,-3.216412,51.779115",
-    "geom:latitude": 51.779115,
-    "geom:longitude": -3.216412,
+    "geom:bbox": "-3.216463,51.779075,-3.216463,51.779075",
+    "geom:latitude": 51.779075,
+    "geom:longitude": -3.216463,
     "gp:parent_id": "12696120",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404433105, 
-      1360711493, 
       404227475, 
       1360698641, 
       85633159, 
-      1360699009
+      1360699009, 
+      404433105, 
+      1360711493
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701413,
-    "wof:geomhash": "59dae2c138632e05090de6b51e24c446",
+    "wof:geomhash": "30c93df440b49b8268b6b4a64281e77f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504544345,
-    "wof:lastmodified": 1583786548,
+    "wof:lastmodified": 1609878544,
     "wof:name": "NP23 6PX",
     "wof:parent_id": 101875459,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.216412, 
-    51.779115, 
-    -3.216412, 
-    51.779115
+    -3.216463, 
+    51.779075, 
+    -3.216463, 
+    51.779075
   ],
-  "geometry": {"coordinates":[-3.216412,51.779115],"type":"Point"}
+  "geometry": {"coordinates":[-3.216463,51.779075],"type":"Point"}
 }

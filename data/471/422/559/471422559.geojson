@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.792477,50.398870,-4.792477,50.398870",
-    "geom:latitude": 50.39887,
-    "geom:longitude": -4.792477,
+    "geom:bbox": "-4.792984,50.398876,-4.792984,50.398876",
+    "geom:latitude": 50.398876,
+    "geom:longitude": -4.792984,
     "gp:parent_id": "14447",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698623, 
+      85633159, 
       1360699085, 
       404435355, 
       1360757237, 
-      404227469, 
-      1360698623, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701590,
-    "wof:geomhash": "17eab86af08e83860341acdcc81ca4de",
+    "wof:geomhash": "593cf6439a065d68286289efb23cd48f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471422559,
-    "wof:lastmodified": 1583786735,
+    "wof:lastmodified": 1609891535,
     "wof:name": "PL26 8QF",
     "wof:parent_id": 404435355,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.792477, 
-    50.39887, 
-    -4.792477, 
-    50.39887
+    -4.792984, 
+    50.398876, 
+    -4.792984, 
+    50.398876
   ],
-  "geometry": {"coordinates":[-4.792477,50.39887],"type":"Point"}
+  "geometry": {"coordinates":[-4.792984,50.398876],"type":"Point"}
 }

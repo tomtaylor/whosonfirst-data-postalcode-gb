@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1992-08-01",
     "geom:area": 0,
-    "geom:bbox": "-1.296543,52.866181,-1.296543,52.866181",
-    "geom:latitude": 52.866181,
-    "geom:longitude": -1.296543,
+    "geom:bbox": "-1.296234,52.865954,-1.296234,52.865954",
+    "geom:latitude": 52.865954,
+    "geom:longitude": -1.296234,
     "gp:parent_id": "27268",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1360757285, 
-      404227469, 
       1360698569, 
       85633159, 
       1360698871, 
-      404441795
+      404441795, 
+      1360757285, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701515,
-    "wof:geomhash": "93d2268bf160f0db0ff88e46cc92ac89",
+    "wof:geomhash": "689de475a479dc8130d54a9eec116590",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454362773,
-    "wof:lastmodified": 1583786646,
+    "wof:lastmodified": 1609885786,
     "wof:name": "DE74 2RG",
     "wof:parent_id": 404441795,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.296543, 
-    52.866181, 
-    -1.296543, 
-    52.866181
+    -1.296234, 
+    52.865954, 
+    -1.296234, 
+    52.865954
   ],
-  "geometry": {"coordinates":[-1.296543,52.866181],"type":"Point"}
+  "geometry": {"coordinates":[-1.296234,52.865954],"type":"Point"}
 }

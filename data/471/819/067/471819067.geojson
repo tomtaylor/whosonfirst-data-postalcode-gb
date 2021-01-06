@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.802230,51.553415,-0.802230,51.553415",
-    "geom:latitude": 51.553415,
-    "geom:longitude": -0.80223,
+    "geom:bbox": "-0.802267,51.553499,-0.802267,51.553499",
+    "geom:latitude": 51.553499,
+    "geom:longitude": -0.802267,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698533, 
       85633159, 
       1360698997, 
       404452589, 
-      1360758317, 
-      404227469, 
-      1360698533
+      1360758317
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701749,
-    "wof:geomhash": "4e69256f89fad705f6a01931f6501fb7",
+    "wof:geomhash": "d7390f5ae147935dc288150c8a46ccd4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471819067,
-    "wof:lastmodified": 1595725491,
+    "wof:lastmodified": 1609903705,
     "wof:name": "SL7 2DX",
     "wof:parent_id": 404452589,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.80223, 
-    51.553415, 
-    -0.80223, 
-    51.553415
+    -0.802267, 
+    51.553499, 
+    -0.802267, 
+    51.553499
   ],
-  "geometry": {"coordinates":[-0.80223,51.553415],"type":"Point"}
+  "geometry": {"coordinates":[-0.802267,51.553499],"type":"Point"}
 }

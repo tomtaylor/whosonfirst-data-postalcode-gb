@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1992-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.692830,53.905265,-1.692830,53.905265",
-    "geom:latitude": 53.905265,
-    "geom:longitude": -1.69283,
+    "geom:bbox": "-1.692815,53.905193,-1.692815,53.905193",
+    "geom:latitude": 53.905193,
+    "geom:longitude": -1.692815,
     "gp:parent_id": "31147",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404432585, 
-      101873235, 
       404227469, 
       1360698609, 
       85633159, 
-      1360698749
+      1360698749, 
+      404432585, 
+      101873235
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701196,
-    "wof:geomhash": "cafcc84f858cef20fa5306ca8bbc6884",
+    "wof:geomhash": "c4f8203bd024f9b5177c4b6d04992dbc",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470821681,
-    "wof:lastmodified": 1583786392,
+    "wof:lastmodified": 1609868825,
     "wof:name": "LS21 3NX",
     "wof:parent_id": 404432585,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.69283, 
-    53.905265, 
-    -1.69283, 
-    53.905265
+    -1.692815, 
+    53.905193, 
+    -1.692815, 
+    53.905193
   ],
-  "geometry": {"coordinates":[-1.69283,53.905265],"type":"Point"}
+  "geometry": {"coordinates":[-1.692815,53.905193],"type":"Point"}
 }

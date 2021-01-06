@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "uuuu",
-    "edtf:inception": "2018-06-01",
+    "edtf:inception": "2020-09-01",
     "geom:area": 0,
     "geom:bbox": "0.191735,51.270281,0.191735,51.270281",
     "geom:latitude": 51.270281,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698565, 
-      85633159, 
       1360698811, 
       404454891, 
-      101875411
+      101875411, 
+      404227469, 
+      1360698565, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712493701,
-    "wof:lastmodified": 1583790528,
+    "wof:lastmodified": 1609869494,
     "wof:name": "TN13 9TJ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

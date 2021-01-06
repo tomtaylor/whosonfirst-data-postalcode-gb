@@ -2,7 +2,7 @@
   "id": 471544635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-08-01",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:bbox": "-0.960982,51.278966,-0.960982,51.278966",
@@ -10,7 +10,7 @@
     "geom:longitude": -0.960982,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000014",
     "os:district_code": "E07000089",
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1326659339, 
-      404227469, 
       1360698557, 
       85633159, 
       1360698827, 
-      404431271
+      404431271, 
+      1326659339, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471544635,
-    "wof:lastmodified": 1595723239,
+    "wof:lastmodified": 1609896269,
     "wof:name": "RG27 9HU",
     "wof:parent_id": 101852435,
     "wof:placetype": "postalcode",

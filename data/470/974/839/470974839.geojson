@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.466959,52.135898,-0.466959,52.135898",
-    "geom:latitude": 52.135898,
-    "geom:longitude": -0.466959,
+    "geom:bbox": "-0.466937,52.135919,-0.466937,52.135919",
+    "geom:latitude": 52.135919,
+    "geom:longitude": -0.466937,
     "gp:parent_id": "12215",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699073, 
       101750441, 
       404227469, 
       1360698527, 
-      85633159
+      85633159, 
+      1360699073
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701353,
-    "wof:geomhash": "42f6803b6cc64d4bedd1ef0fceb1ee2d",
+    "wof:geomhash": "fcaac7885d59c378f97243d885e244aa",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 470974839,
-    "wof:lastmodified": 1583786491,
+    "wof:lastmodified": 1609878006,
     "wof:name": "MK40 1SL",
     "wof:parent_id": 101750441,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.466959, 
-    52.135898, 
-    -0.466959, 
-    52.135898
+    -0.466937, 
+    52.135919, 
+    -0.466937, 
+    52.135919
   ],
-  "geometry": {"coordinates":[-0.466959,52.135898],"type":"Point"}
+  "geometry": {"coordinates":[-0.466937,52.135919],"type":"Point"}
 }

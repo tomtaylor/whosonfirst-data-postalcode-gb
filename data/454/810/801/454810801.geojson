@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.054913,53.728280,-0.054913,53.728280",
-    "geom:latitude": 53.72828,
-    "geom:longitude": -0.054913,
+    "geom:bbox": "-0.054791,53.728287,-0.054791,53.728287",
+    "geom:latitude": 53.728287,
+    "geom:longitude": -0.054791,
     "gp:parent_id": "22215",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699001, 
-      404445095, 
       1326658947, 
       404227469, 
       1360698547, 
-      85633159
+      85633159, 
+      1360699001, 
+      404445095
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701726,
-    "wof:geomhash": "b4fea5deb99d48181db34f36a6243110",
+    "wof:geomhash": "6695cd03edb7e1137794c35287f097f7",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454810801,
-    "wof:lastmodified": 1595717163,
+    "wof:lastmodified": 1609902739,
     "wof:name": "HU12 0BZ",
     "wof:parent_id": 404445095,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.054913, 
-    53.72828, 
-    -0.054913, 
-    53.72828
+    -0.054791, 
+    53.728287, 
+    -0.054791, 
+    53.728287
   ],
-  "geometry": {"coordinates":[-0.054913,53.72828],"type":"Point"}
+  "geometry": {"coordinates":[-0.054791,53.728287],"type":"Point"}
 }

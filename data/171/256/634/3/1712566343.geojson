@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2016-05-01",
     "geom:area": 0,
-    "geom:bbox": "-0.195677,50.919660,-0.195677,50.919660",
-    "geom:latitude": 50.91966,
-    "geom:longitude": -0.195677,
+    "geom:bbox": "-0.195624,50.919578,-0.195624,50.919578",
+    "geom:latitude": 50.919578,
+    "geom:longitude": -0.195624,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698607, 
-      85633159, 
       1360698757, 
       404449817, 
-      1125864577
+      1125864577, 
+      404227469, 
+      1360698607, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583793740,
-    "wof:geomhash": "a045d4716ad36f4904165b4103898ae0",
+    "wof:geomhash": "e7ef61b5844faa56e3ef87dce9a66092",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712566343,
-    "wof:lastmodified": 1595711103,
+    "wof:lastmodified": 1609870666,
     "wof:name": "BN6 9FT",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.195677, 
-    50.91966, 
-    -0.195677, 
-    50.91966
+    -0.195624, 
+    50.919578, 
+    -0.195624, 
+    50.919578
   ],
-  "geometry": {"coordinates":[-0.195677,50.91966],"type":"Point"}
+  "geometry": {"coordinates":[-0.195624,50.919578],"type":"Point"}
 }

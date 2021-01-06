@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.563833,51.571100,-0.563833,51.571100",
-    "geom:latitude": 51.5711,
-    "geom:longitude": -0.563833,
+    "geom:bbox": "-0.563380,51.570807,-0.563380,51.570807",
+    "geom:latitude": 51.570807,
+    "geom:longitude": -0.56338,
     "gp:parent_id": "21012",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1125999965, 
-      404227469, 
       1360698533, 
       85633159, 
       1360698997, 
-      404450799
+      404450799, 
+      1125999965, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701749,
-    "wof:geomhash": "6b719390148ddc137582e447d5f5e5d9",
+    "wof:geomhash": "76929a5a25ffbd37935ef81404f16c38",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471821185,
-    "wof:lastmodified": 1595725518,
+    "wof:lastmodified": 1609903988,
     "wof:name": "SL9 7HP",
     "wof:parent_id": 404450799,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.563833, 
-    51.5711, 
-    -0.563833, 
-    51.5711
+    -0.56338, 
+    51.570807, 
+    -0.56338, 
+    51.570807
   ],
-  "geometry": {"coordinates":[-0.563833,51.5711],"type":"Point"}
+  "geometry": {"coordinates":[-0.56338,51.570807],"type":"Point"}
 }

@@ -1,0 +1,59 @@
+{
+  "id": 1729688239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-09-01",
+    "geom:area": 0,
+    "geom:bbox": "0.242624,51.825323,0.242624,51.825323",
+    "geom:latitude": 51.825323,
+    "geom:longitude": 0.242624,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E10000012",
+    "os:district_code": "E07000077",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000006",
+    "src:geom": "os",
+    "wof:belongsto": [
+      1360698551, 
+      85633159, 
+      1360698979, 
+      404451985, 
+      1125801583, 
+      404227469
+    ],
+    "wof:breaches": [],
+    "wof:country": "GB",
+    "wof:created": 1609906353,
+    "wof:geomhash": "3e331ecd80c78c87f6f89415b7e7fd34",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698979,
+        "localadmin_id": 404451985,
+        "locality_id": 1125801583,
+        "macroregion_id": 404227469,
+        "region_id": 1360698551
+      }
+    ],
+    "wof:id": 1729688239,
+    "wof:lastmodified": 1609906353,
+    "wof:name": "CM22 7FH",
+    "wof:parent_id": -1,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    0.242624, 
+    51.825323, 
+    0.242624, 
+    51.825323
+  ],
+  "geometry": {"coordinates":[0.242624,51.825323],"type":"Point"}
+}

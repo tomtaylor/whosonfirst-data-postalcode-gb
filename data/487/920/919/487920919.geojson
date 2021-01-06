@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.944021,50.288705,-4.944021,50.288705",
-    "geom:latitude": 50.288705,
-    "geom:longitude": -4.944021,
+    "geom:bbox": "-4.943610,50.288634,-4.943610,50.288634",
+    "geom:latitude": 50.288634,
+    "geom:longitude": -4.94361,
     "gp:parent_id": "32641",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699085, 
-      404441105, 
-      1126031845, 
       404227469, 
       1360698623, 
-      85633159
+      85633159, 
+      1360699085, 
+      404441105, 
+      1126031845
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701263,
-    "wof:geomhash": "2f9543a212d57f53d5f42628f23fff77",
+    "wof:geomhash": "73164fedccc1d991afc55b45f62d1615",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487920919,
-    "wof:lastmodified": 1583786338,
+    "wof:lastmodified": 1609886645,
     "wof:name": "TR2 4HH",
     "wof:parent_id": 404441105,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.944021, 
-    50.288705, 
-    -4.944021, 
-    50.288705
+    -4.94361, 
+    50.288634, 
+    -4.94361, 
+    50.288634
   ],
-  "geometry": {"coordinates":[-4.944021,50.288705],"type":"Point"}
+  "geometry": {"coordinates":[-4.94361,50.288634],"type":"Point"}
 }

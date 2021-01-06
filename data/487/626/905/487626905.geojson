@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1986-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.574752,51.012015,-1.574752,51.012015",
-    "geom:latitude": 51.012015,
-    "geom:longitude": -1.574752,
+    "geom:bbox": "-1.574680,51.012467,-1.574680,51.012467",
+    "geom:latitude": 51.012467,
+    "geom:longitude": -1.57468,
     "gp:parent_id": "34579",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698827, 
       404445981, 
       1125863569, 
       404227469, 
       1360698557, 
-      85633159, 
-      1360698827
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701094,
-    "wof:geomhash": "dda52e68db0df449008498a57636db89",
+    "wof:geomhash": "91501010f0642f56c9bce57bc0665937",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487626905,
-    "wof:lastmodified": 1583786188,
+    "wof:lastmodified": 1609869664,
     "wof:name": "SO51 6JW",
     "wof:parent_id": 404445981,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.574752, 
-    51.012015, 
-    -1.574752, 
-    51.012015
+    -1.57468, 
+    51.012467, 
+    -1.57468, 
+    51.012467
   ],
-  "geometry": {"coordinates":[-1.574752,51.012015],"type":"Point"}
+  "geometry": {"coordinates":[-1.57468,51.012467],"type":"Point"}
 }

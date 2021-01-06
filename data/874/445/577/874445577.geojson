@@ -2,7 +2,7 @@
   "id": 874445577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-10-01",
     "edtf:inception": "2010-08-01",
     "geom:area": 0,
     "geom:bbox": "-0.774065,53.400841,-0.774065,53.400841",
@@ -10,7 +10,7 @@
     "geom:longitude": -0.774065,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000019",
     "os:district_code": "E07000142",
@@ -18,12 +18,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698571, 
       85633159, 
       1360699067, 
       404443021, 
       101871997, 
-      404227469, 
-      1360698571
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 874445577,
-    "wof:lastmodified": 1583786230,
+    "wof:lastmodified": 1609869485,
     "wof:name": "DN21 9DU",
     "wof:parent_id": 101871997,
     "wof:placetype": "postalcode",

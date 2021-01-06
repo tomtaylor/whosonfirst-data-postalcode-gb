@@ -1,0 +1,57 @@
+{
+  "id": 1729686531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-08-01",
+    "geom:area": 0,
+    "geom:bbox": "-2.902653,56.493371,-2.902653,56.493371",
+    "geom:latitude": 56.493371,
+    "geom:longitude": -2.902653,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "S92000003",
+    "os:county_code": "S99999999",
+    "os:district_code": "S12000042",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "S99999999",
+    "src:geom": "os",
+    "wof:belongsto": [
+      85633159, 
+      1360698883, 
+      404430743, 
+      404227471, 
+      1360698693
+    ],
+    "wof:breaches": [],
+    "wof:country": "GB",
+    "wof:created": 1609906276,
+    "wof:geomhash": "ed4e28478248a06d814de9ff062603f2",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698883,
+        "localadmin_id": 404430743,
+        "macroregion_id": 404227471,
+        "region_id": 1360698693
+      }
+    ],
+    "wof:id": 1729686531,
+    "wof:lastmodified": 1609906276,
+    "wof:name": "DD4 0FR",
+    "wof:parent_id": -1,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -2.902653, 
+    56.493371, 
+    -2.902653, 
+    56.493371
+  ],
+  "geometry": {"coordinates":[-2.902653,56.493371],"type":"Point"}
+}

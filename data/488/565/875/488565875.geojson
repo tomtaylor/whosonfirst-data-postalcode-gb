@@ -19,12 +19,11 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227475, 
-      1360698627, 
       1360887603, 
-      85633159, 
       1360699107, 
-      101750397
+      101750397, 
+      404227475, 
+      1360698627
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -36,7 +35,6 @@
     "wof:hierarchy": [
       {
         "borough_id": 1360887603,
-        "country_id": 85633159,
         "county_id": 1360699107,
         "locality_id": 101750397,
         "macroregion_id": 404227475,
@@ -44,7 +42,7 @@
       }
     ],
     "wof:id": 488565875,
-    "wof:lastmodified": 1583786779,
+    "wof:lastmodified": 1609896975,
     "wof:name": "CF3 5PY",
     "wof:parent_id": 404446649,
     "wof:placetype": "postalcode",

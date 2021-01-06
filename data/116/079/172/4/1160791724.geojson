@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.565111,54.772132,-1.565111,54.772132",
-    "geom:latitude": 54.772132,
-    "geom:longitude": -1.565111,
+    "geom:bbox": "-1.565067,54.771863,-1.565067,54.771863",
+    "geom:latitude": 54.771863,
+    "geom:longitude": -1.565067,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699055, 
       404448031, 
       1360756237, 
       404227469, 
-      1360698621
+      1360698621, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583790170,
-    "wof:geomhash": "7df3813efb20b589deafbf6b3c15e978",
+    "wof:geomhash": "999e3bcbcf42c4ea48a7f0c6fc577189",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160791724,
-    "wof:lastmodified": 1583790170,
+    "wof:lastmodified": 1609869800,
     "wof:name": "DH1 3BL",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.565111, 
-    54.772132, 
-    -1.565111, 
-    54.772132
+    -1.565067, 
+    54.771863, 
+    -1.565067, 
+    54.771863
   ],
-  "geometry": {"coordinates":[-1.565111,54.772132],"type":"Point"}
+  "geometry": {"coordinates":[-1.565067,54.771863],"type":"Point"}
 }

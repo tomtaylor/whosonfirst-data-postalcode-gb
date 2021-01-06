@@ -6,8 +6,8 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.480102,51.512486,-0.480102,51.512486",
-    "geom:latitude": 51.512486,
+    "geom:bbox": "-0.480102,51.512495,-0.480102,51.512495",
+    "geom:latitude": 51.512495,
     "geom:longitude": -0.480102,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      85791881, 
       1360698645, 
       1158857261, 
       85633159, 
-      101750367, 
-      404227469, 
-      85791881
+      101750367
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701184,
-    "wof:geomhash": "310c52afb442436ca2afe81104ee0669",
+    "wof:geomhash": "3f0018aeb4113d7797f9bf5181d72509",
     "wof:hierarchy": [
       {
         "borough_id": 1158857261,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488005969,
-    "wof:lastmodified": 1583786373,
+    "wof:lastmodified": 1609868727,
     "wof:name": "UB7 7RS",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -55,9 +55,9 @@
   },
   "bbox": [
     -0.480102, 
-    51.512486, 
+    51.512495, 
     -0.480102, 
-    51.512486
+    51.512495
   ],
-  "geometry": {"coordinates":[-0.480102,51.512486],"type":"Point"}
+  "geometry": {"coordinates":[-0.480102,51.512495],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-5.180191,50.230582,-5.180191,50.230582",
-    "geom:latitude": 50.230582,
-    "geom:longitude": -5.180191,
+    "geom:bbox": "-5.180137,50.230610,-5.180137,50.230610",
+    "geom:latitude": 50.23061,
+    "geom:longitude": -5.180137,
     "gp:parent_id": "15155",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699085, 
       404450323, 
       1360754975, 
       404227469, 
-      1360698623
+      1360698623, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701259,
-    "wof:geomhash": "135c6684d39c46a08bc86411daee160c",
+    "wof:geomhash": "4a9ccf361d5dc7ad14a0d94f1ce0b87a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487916819,
-    "wof:lastmodified": 1583786336,
+    "wof:lastmodified": 1609886408,
     "wof:name": "TR16 5QW",
     "wof:parent_id": 404450323,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -5.180191, 
-    50.230582, 
-    -5.180191, 
-    50.230582
+    -5.180137, 
+    50.23061, 
+    -5.180137, 
+    50.23061
   ],
-  "geometry": {"coordinates":[-5.180191,50.230582],"type":"Point"}
+  "geometry": {"coordinates":[-5.180137,50.23061],"type":"Point"}
 }

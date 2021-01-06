@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.600499,55.272177,-1.600499,55.272177",
-    "geom:latitude": 55.272177,
-    "geom:longitude": -1.600499,
+    "geom:bbox": "-1.600420,55.272195,-1.600420,55.272195",
+    "geom:latitude": 55.272195,
+    "geom:longitude": -1.60042,
     "gp:parent_id": "20091750",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360698769, 
       404435347, 
       1360757225, 
       404227469, 
-      1360698727, 
-      85633159
+      1360698727
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701263,
-    "wof:geomhash": "08bc107691ae45157a136e9b8b614c27",
+    "wof:geomhash": "68b57705eaeb81fc1a50be265ee7957b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471087021,
-    "wof:lastmodified": 1583786408,
+    "wof:lastmodified": 1609872113,
     "wof:name": "NE61 5EL",
     "wof:parent_id": 404435347,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.600499, 
-    55.272177, 
-    -1.600499, 
-    55.272177
+    -1.60042, 
+    55.272195, 
+    -1.60042, 
+    55.272195
   ],
-  "geometry": {"coordinates":[-1.600499,55.272177],"type":"Point"}
+  "geometry": {"coordinates":[-1.60042,55.272195],"type":"Point"}
 }

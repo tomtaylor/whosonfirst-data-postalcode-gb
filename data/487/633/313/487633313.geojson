@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.504664,51.221813,-1.504664,51.221813",
-    "geom:latitude": 51.221813,
-    "geom:longitude": -1.504664,
+    "geom:bbox": "-1.504681,51.221773,-1.504681,51.221773",
+    "geom:latitude": 51.221773,
+    "geom:longitude": -1.504681,
     "gp:parent_id": "15684",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698827, 
       404431927, 
       1360756689, 
       404227469, 
-      1360698557, 
-      85633159, 
-      1360698827
+      1360698557
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701095,
-    "wof:geomhash": "f46f8ebde6cdbf45160716a68205e6fe",
+    "wof:geomhash": "230fa2dd3dad94d156a178b1d6f41eca",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487633313,
-    "wof:lastmodified": 1583786190,
+    "wof:lastmodified": 1609869921,
     "wof:name": "SP10 4AT",
     "wof:parent_id": 404431927,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.504664, 
-    51.221813, 
-    -1.504664, 
-    51.221813
+    -1.504681, 
+    51.221773, 
+    -1.504681, 
+    51.221773
   ],
-  "geometry": {"coordinates":[-1.504664,51.221813],"type":"Point"}
+  "geometry": {"coordinates":[-1.504681,51.221773],"type":"Point"}
 }

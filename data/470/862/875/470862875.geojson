@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.242144,53.458110,-2.242144,53.458110",
-    "geom:latitude": 53.45811,
-    "geom:longitude": -2.242144,
+    "geom:bbox": "-2.240756,53.457528,-2.240756,53.457528",
+    "geom:latitude": 53.457528,
+    "geom:longitude": -2.240756,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85789203, 
       1360698555, 
       85633159, 
       1360698893, 
       101750525, 
-      404227469
+      404227469, 
+      85789203
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701157,
-    "wof:geomhash": "32e4c8c1776e282b2f033a126ed78faf",
+    "wof:geomhash": "a90fc719c730b54582f8a2f45f6d59e7",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 470862875,
-    "wof:lastmodified": 1583786284,
+    "wof:lastmodified": 1609870209,
     "wof:name": "M14 4SS",
     "wof:parent_id": 101750525,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.242144, 
-    53.45811, 
-    -2.242144, 
-    53.45811
+    -2.240756, 
+    53.457528, 
+    -2.240756, 
+    53.457528
   ],
-  "geometry": {"coordinates":[-2.242144,53.45811],"type":"Point"}
+  "geometry": {"coordinates":[-2.240756,53.457528],"type":"Point"}
 }

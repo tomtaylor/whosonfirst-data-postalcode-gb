@@ -19,12 +19,10 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      101750367, 
-      404227469, 
-      85787869, 
-      1360698645, 
       1158857277, 
-      85633159
+      85633159, 
+      404227469, 
+      85787869
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -37,14 +35,12 @@
       {
         "borough_id": 1158857277,
         "country_id": 85633159,
-        "locality_id": 101750367,
         "macroregion_id": 404227469,
-        "neighbourhood_id": 85787869,
-        "region_id": 1360698645
+        "neighbourhood_id": 85787869
       }
     ],
     "wof:id": 471260213,
-    "wof:lastmodified": 1583786597,
+    "wof:lastmodified": 1609883277,
     "wof:name": "NW3 1QB",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",

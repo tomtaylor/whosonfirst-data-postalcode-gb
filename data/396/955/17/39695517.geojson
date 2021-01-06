@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.191585,54.559434,-1.191585,54.559434",
-    "geom:latitude": 54.559434,
-    "geom:longitude": -1.191585,
+    "geom:bbox": "-1.191492,54.559415,-1.191492,54.559415",
+    "geom:latitude": 54.559415,
+    "geom:longitude": -1.191492,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698619, 
-      85633159, 
       1360698853, 
       101750599, 
-      404227469
+      404227469, 
+      1360698619, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583804289,
-    "wof:geomhash": "d01b00f753473a2d22ca41472d5ee60a",
+    "wof:geomhash": "1a15c24a7a5f264ad8c5d600af68e91b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 39695517,
-    "wof:lastmodified": 1583804289,
+    "wof:lastmodified": 1609868631,
     "wof:name": "TS3 8AE",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.191585, 
-    54.559434, 
-    -1.191585, 
-    54.559434
+    -1.191492, 
+    54.559415, 
+    -1.191492, 
+    54.559415
   ],
-  "geometry": {"coordinates":[-1.191585,54.559434],"type":"Point"}
+  "geometry": {"coordinates":[-1.191492,54.559415],"type":"Point"}
 }

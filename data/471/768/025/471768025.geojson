@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2005-02-01",
     "geom:area": 0,
-    "geom:bbox": "-2.124188,53.255940,-2.124188,53.255940",
-    "geom:latitude": 53.25594,
-    "geom:longitude": -2.124188,
+    "geom:bbox": "-2.124367,53.255670,-2.124367,53.255670",
+    "geom:latitude": 53.25567,
+    "geom:longitude": -2.124367,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      101750519, 
-      404227469, 
-      1360698537, 
       85633159, 
       1360698929, 
-      404442911
+      404442911, 
+      101750519, 
+      404227469, 
+      1360698537
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701735,
-    "wof:geomhash": "3557e638f47cb10551cc0b43dca589d6",
+    "wof:geomhash": "bf66654cca025fb9e5989935a98aae93",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471768025,
-    "wof:lastmodified": 1583786907,
+    "wof:lastmodified": 1609902790,
     "wof:name": "SK11 7GY",
     "wof:parent_id": 101750519,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.124188, 
-    53.25594, 
-    -2.124188, 
-    53.25594
+    -2.124367, 
+    53.25567, 
+    -2.124367, 
+    53.25567
   ],
-  "geometry": {"coordinates":[-2.124188,53.25594],"type":"Point"}
+  "geometry": {"coordinates":[-2.124367,53.25567],"type":"Point"}
 }

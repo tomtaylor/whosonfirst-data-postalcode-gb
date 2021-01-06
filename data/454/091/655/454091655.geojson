@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.106136,52.415295,0.106136,52.415295",
-    "geom:latitude": 52.415295,
-    "geom:longitude": 0.106136,
+    "geom:bbox": "0.097031,52.420510,0.097031,52.420510",
+    "geom:latitude": 52.42051,
+    "geom:longitude": 0.097031,
     "gp:parent_id": "28720",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404430689, 
       1125913125, 
       404227469, 
       1360698535, 
       85633159, 
-      1360698845
+      1360698845, 
+      404430689
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701191,
-    "wof:geomhash": "31940d45d002c400e0548859f27cab86",
+    "wof:geomhash": "c8add97844e9432aebaaffd8856e1636",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454091655,
-    "wof:lastmodified": 1583786339,
+    "wof:lastmodified": 1609870427,
     "wof:name": "CB6 2AZ",
     "wof:parent_id": 404430689,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.106136, 
-    52.415295, 
-    0.106136, 
-    52.415295
+    0.097031, 
+    52.42051, 
+    0.097031, 
+    52.42051
   ],
-  "geometry": {"coordinates":[0.106136,52.415295],"type":"Point"}
+  "geometry": {"coordinates":[0.097031,52.42051],"type":"Point"}
 }

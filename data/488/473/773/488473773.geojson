@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.287744,55.816664,-4.287744,55.816664",
-    "geom:latitude": 55.816664,
-    "geom:longitude": -4.287744,
+    "geom:bbox": "-4.287685,55.816737,-4.287685,55.816737",
+    "geom:latitude": 55.816737,
+    "geom:longitude": -4.287685,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      85788971, 
+      1360698707, 
+      85633159, 
       1360698797, 
       404430153, 
       1175612707, 
-      404227471, 
-      85788971, 
-      1360698707, 
-      85633159
+      404227471
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701486,
-    "wof:geomhash": "fc7a2e7c71559c8156049a5c2bd05668",
+    "wof:geomhash": "ca5b19b5b83469c54e0ea50edcb0a6e1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 488473773,
-    "wof:lastmodified": 1583786693,
+    "wof:lastmodified": 1609893321,
     "wof:name": "G43 2RS",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.287744, 
-    55.816664, 
-    -4.287744, 
-    55.816664
+    -4.287685, 
+    55.816737, 
+    -4.287685, 
+    55.816737
   ],
-  "geometry": {"coordinates":[-4.287744,55.816664],"type":"Point"}
+  "geometry": {"coordinates":[-4.287685,55.816737],"type":"Point"}
 }

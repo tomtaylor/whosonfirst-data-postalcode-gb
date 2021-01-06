@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2008-09-01",
     "geom:area": 0,
-    "geom:bbox": "-3.187803,55.945274,-3.187803,55.945274",
-    "geom:latitude": 55.945274,
-    "geom:longitude": -3.187803,
+    "geom:bbox": "-3.187652,55.945069,-3.187652,55.945069",
+    "geom:latitude": 55.945069,
+    "geom:longitude": -3.187652,
     "gp:parent_id": "12696195",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227471, 
       85861505, 
       1360698673, 
       85633159, 
       1360698761, 
       404437279, 
-      101750629
+      101750629, 
+      404227471
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701553,
-    "wof:geomhash": "187095db323d105b97549615089d3087",
+    "wof:geomhash": "0d8cf90cdd90baec9c650bf52a98beff",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 504760865,
-    "wof:lastmodified": 1583786709,
+    "wof:lastmodified": 1609889575,
     "wof:name": "EH8 9AD",
     "wof:parent_id": 101750629,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.187803, 
-    55.945274, 
-    -3.187803, 
-    55.945274
+    -3.187652, 
+    55.945069, 
+    -3.187652, 
+    55.945069
   ],
-  "geometry": {"coordinates":[-3.187803,55.945274],"type":"Point"}
+  "geometry": {"coordinates":[-3.187652,55.945069],"type":"Point"}
 }

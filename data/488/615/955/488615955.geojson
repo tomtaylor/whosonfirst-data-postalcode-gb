@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.770375,54.871975,-3.770375,54.871975",
-    "geom:latitude": 54.871975,
-    "geom:longitude": -3.770375,
+    "geom:bbox": "-3.772825,54.872415,-3.772825,54.872415",
+    "geom:latitude": 54.872415,
+    "geom:longitude": -3.772825,
     "gp:parent_id": "12696189",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404444245, 
-      404227471, 
       1360698647, 
       85633159, 
-      1360699039
+      1360699039, 
+      404444245, 
+      404227471
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701619,
-    "wof:geomhash": "c06ddaccd77d3285089d18f2d5af9d7a",
+    "wof:geomhash": "34914e1f57a4e6da2f6155d6b816d610",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488615955,
-    "wof:lastmodified": 1583786814,
+    "wof:lastmodified": 1609898901,
     "wof:name": "DG5 4QN",
     "wof:parent_id": 404444245,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.770375, 
-    54.871975, 
-    -3.770375, 
-    54.871975
+    -3.772825, 
+    54.872415, 
+    -3.772825, 
+    54.872415
   ],
-  "geometry": {"coordinates":[-3.770375,54.871975],"type":"Point"}
+  "geometry": {"coordinates":[-3.772825,54.872415],"type":"Point"}
 }

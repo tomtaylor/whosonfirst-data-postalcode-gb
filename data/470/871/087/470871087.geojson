@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1983-03-01",
     "geom:area": 0,
-    "geom:bbox": "-2.177805,53.446969,-2.177805,53.446969",
-    "geom:latitude": 53.446969,
-    "geom:longitude": -2.177805,
+    "geom:bbox": "-2.177820,53.446978,-2.177820,53.446978",
+    "geom:latitude": 53.446978,
+    "geom:longitude": -2.17782,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      101750525, 
-      404227469, 
-      85788745, 
       1360698555, 
       85633159, 
-      1360698893
+      1360698893, 
+      101750525, 
+      404227469, 
+      85788745
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701177,
-    "wof:geomhash": "d67b5dd1c3ca17c725dae35ce00638cf",
+    "wof:geomhash": "064e72e084baec0e5d58325a900eea1e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 470871087,
-    "wof:lastmodified": 1583786306,
+    "wof:lastmodified": 1609870594,
     "wof:name": "M19 3JP",
     "wof:parent_id": 101750525,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.177805, 
-    53.446969, 
-    -2.177805, 
-    53.446969
+    -2.17782, 
+    53.446978, 
+    -2.17782, 
+    53.446978
   ],
-  "geometry": {"coordinates":[-2.177805,53.446969],"type":"Point"}
+  "geometry": {"coordinates":[-2.17782,53.446978],"type":"Point"}
 }

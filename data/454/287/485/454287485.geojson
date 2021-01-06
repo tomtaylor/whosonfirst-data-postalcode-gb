@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.539429,52.578694,-1.539429,52.578694",
-    "geom:latitude": 52.578694,
-    "geom:longitude": -1.539429,
+    "geom:bbox": "-1.539274,52.578630,-1.539274,52.578630",
+    "geom:latitude": 52.57863,
+    "geom:longitude": -1.539274,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      101853065, 
-      404227469, 
-      1360698603, 
       85633159, 
       1360698891, 
-      404442771
+      404442771, 
+      101853065, 
+      404227469, 
+      1360698603
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701448,
-    "wof:geomhash": "5cd22353e60ed9c02344b180a5e98684",
+    "wof:geomhash": "6d104f907459a9cf80daf3039847e8bd",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454287485,
-    "wof:lastmodified": 1583786580,
+    "wof:lastmodified": 1609881663,
     "wof:name": "CV9 1LD",
     "wof:parent_id": 101853065,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.539429, 
-    52.578694, 
-    -1.539429, 
-    52.578694
+    -1.539274, 
+    52.57863, 
+    -1.539274, 
+    52.57863
   ],
-  "geometry": {"coordinates":[-1.539429,52.578694],"type":"Point"}
+  "geometry": {"coordinates":[-1.539274,52.57863],"type":"Point"}
 }

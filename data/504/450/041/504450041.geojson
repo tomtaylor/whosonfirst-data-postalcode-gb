@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1989-07-01",
     "geom:area": 0,
-    "geom:bbox": "-4.266694,55.454782,-4.266694,55.454782",
-    "geom:latitude": 55.454782,
-    "geom:longitude": -4.266694,
+    "geom:bbox": "-4.266179,55.454900,-4.266179,55.454900",
+    "geom:latitude": 55.4549,
+    "geom:longitude": -4.266179,
     "gp:parent_id": "12696191",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404451413, 
       404227471, 
       1360698697, 
       85633159, 
-      1360698779
+      1360698779, 
+      404451413
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701313,
-    "wof:geomhash": "4e30f466d124b5ab01c799faa891fd95",
+    "wof:geomhash": "52276a02db4f541e8e58be5da8079612",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504450041,
-    "wof:lastmodified": 1583786430,
+    "wof:lastmodified": 1609872003,
     "wof:name": "KA18 1PA",
     "wof:parent_id": 404451413,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.266694, 
-    55.454782, 
-    -4.266694, 
-    55.454782
+    -4.266179, 
+    55.4549, 
+    -4.266179, 
+    55.4549
   ],
-  "geometry": {"coordinates":[-4.266694,55.454782],"type":"Point"}
+  "geometry": {"coordinates":[-4.266179,55.4549],"type":"Point"}
 }

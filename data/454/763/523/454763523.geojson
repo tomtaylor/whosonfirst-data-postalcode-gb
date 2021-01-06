@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.439974,54.093698,-1.439974,54.093698",
-    "geom:latitude": 54.093698,
-    "geom:longitude": -1.439974,
+    "geom:bbox": "-1.445001,54.095088,-1.445001,54.095088",
+    "geom:latitude": 54.095088,
+    "geom:longitude": -1.445001,
     "gp:parent_id": "34908",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -21,8 +21,8 @@
     "wof:belongsto": [
       85633159, 
       1360698753, 
-      404451425, 
-      1126053003, 
+      404450707, 
+      1360755569, 
       404227469, 
       1360698619
     ],
@@ -32,19 +32,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701712,
-    "wof:geomhash": "f4eeb56e26ed5556974e373703594ee0",
+    "wof:geomhash": "d3436ccdd8591434ab093a3500a8d1fd",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360698753,
-        "localadmin_id": 404451425,
-        "locality_id": 1126053003,
+        "localadmin_id": 404450707,
+        "locality_id": 1360755569,
         "macroregion_id": 404227469,
         "region_id": 1360698619
       }
     ],
     "wof:id": 454763523,
-    "wof:lastmodified": 1583786851,
+    "wof:lastmodified": 1609901341,
     "wof:name": "HG4 5AW",
     "wof:parent_id": 404451425,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.439974, 
-    54.093698, 
-    -1.439974, 
-    54.093698
+    -1.445001, 
+    54.095088, 
+    -1.445001, 
+    54.095088
   ],
-  "geometry": {"coordinates":[-1.439974,54.093698],"type":"Point"}
+  "geometry": {"coordinates":[-1.445001,54.095088],"type":"Point"}
 }

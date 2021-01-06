@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.369059,50.877182,0.369059,50.877182",
-    "geom:latitude": 50.877182,
-    "geom:longitude": 0.369059,
+    "geom:bbox": "0.368656,50.877077,0.368656,50.877077",
+    "geom:latitude": 50.877077,
+    "geom:longitude": 0.368656,
     "gp:parent_id": "13266",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404440201, 
-      1125913391, 
       404227469, 
       1360698549, 
       85633159, 
-      1360698815
+      1360698815, 
+      404440201, 
+      1125913391
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701418,
-    "wof:geomhash": "c46a81b5c740cc2ff0094c44b99d88eb",
+    "wof:geomhash": "b1be2a23ebdd3dabb45e68fe60ec863d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438234247,
-    "wof:lastmodified": 1583786552,
+    "wof:lastmodified": 1609880979,
     "wof:name": "BN27 4SQ",
     "wof:parent_id": 404440201,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.369059, 
-    50.877182, 
-    0.369059, 
-    50.877182
+    0.368656, 
+    50.877077, 
+    0.368656, 
+    50.877077
   ],
-  "geometry": {"coordinates":[0.369059,50.877182],"type":"Point"}
+  "geometry": {"coordinates":[0.368656,50.877077],"type":"Point"}
 }

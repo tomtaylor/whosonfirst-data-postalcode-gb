@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "0.006886,51.453679,0.006886,51.453679",
-    "geom:latitude": 51.453679,
-    "geom:longitude": 0.006886,
+    "geom:bbox": "0.006782,51.453673,0.006782,51.453673",
+    "geom:latitude": 51.453673,
+    "geom:longitude": 0.006782,
     "gp:parent_id": "20089470",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -20,12 +20,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      101750367, 
       404227469, 
       1158865991, 
       1360698645, 
-      1158857299
+      1158857299, 
+      85633159, 
+      101750367
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701711,
-    "wof:geomhash": "67c6534fc917a43296dd3c358b747f15",
+    "wof:geomhash": "5183b6250ca94c0324e3e5d89b75a75a",
     "wof:hierarchy": [
       {
         "borough_id": 1158857299,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 471702935,
-    "wof:lastmodified": 1583786888,
+    "wof:lastmodified": 1609901257,
     "wof:name": "SE12 8NT",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -55,10 +55,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.006886, 
-    51.453679, 
-    0.006886, 
-    51.453679
+    0.006782, 
+    51.453673, 
+    0.006782, 
+    51.453673
   ],
-  "geometry": {"coordinates":[0.006886,51.453679],"type":"Point"}
+  "geometry": {"coordinates":[0.006782,51.453673],"type":"Point"}
 }

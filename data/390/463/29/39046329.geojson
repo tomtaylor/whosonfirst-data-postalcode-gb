@@ -5,30 +5,30 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-04-01",
     "geom:area": 0,
-    "geom:bbox": "1.701872,52.509324,1.701872,52.509324",
-    "geom:latitude": 52.509324,
-    "geom:longitude": 1.701872,
+    "geom:bbox": "1.703071,52.510429,1.703071,52.510429",
+    "geom:latitude": 52.510429,
+    "geom:longitude": 1.703071,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000029",
     "os:district_code": "E07000244",
-    "os:positional_quality_indicator": "5",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699041, 
-      404429365, 
-      1343887273, 
       404227469, 
       1360698595, 
-      85633159
+      85633159, 
+      1360699041, 
+      404429365, 
+      1343887273
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583797100,
-    "wof:geomhash": "dcc8276c46a1d75a7b6163dbe931c224",
+    "wof:geomhash": "5e1c9778c99613d673652a9c285789a4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 39046329,
-    "wof:lastmodified": 1583797100,
+    "wof:lastmodified": 1609868491,
     "wof:name": "NR32 5BF",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.701872, 
-    52.509324, 
-    1.701872, 
-    52.509324
+    1.703071, 
+    52.510429, 
+    1.703071, 
+    52.510429
   ],
-  "geometry": {"coordinates":[1.701872,52.509324],"type":"Point"}
+  "geometry": {"coordinates":[1.703071,52.510429],"type":"Point"}
 }

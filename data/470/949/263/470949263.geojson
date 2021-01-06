@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.488768,51.417925,0.488768,51.417925",
-    "geom:latitude": 51.417925,
-    "geom:longitude": 0.488768,
+    "geom:bbox": "0.488757,51.417979,0.488757,51.417979",
+    "geom:latitude": 51.417979,
+    "geom:longitude": 0.488757,
     "gp:parent_id": "20093539",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698811, 
-      404453867, 
-      1360759661, 
       404227469, 
       1360698565, 
-      85633159
+      85633159, 
+      1360698811, 
+      404453867, 
+      1360759661
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701328,
-    "wof:geomhash": "7f7392353e573f7dee13be67f866ff8b",
+    "wof:geomhash": "0563fcd1cbf43c0ef5cf662f77359918",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470949263,
-    "wof:lastmodified": 1583786459,
+    "wof:lastmodified": 1609876119,
     "wof:name": "ME3 8EP",
     "wof:parent_id": 404453867,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.488768, 
-    51.417925, 
-    0.488768, 
-    51.417925
+    0.488757, 
+    51.417979, 
+    0.488757, 
+    51.417979
   ],
-  "geometry": {"coordinates":[0.488768,51.417925],"type":"Point"}
+  "geometry": {"coordinates":[0.488757,51.417979],"type":"Point"}
 }

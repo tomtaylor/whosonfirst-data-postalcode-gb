@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2009-03-01",
     "geom:area": 0,
-    "geom:bbox": "-4.267836,55.875331,-4.267836,55.875331",
-    "geom:latitude": 55.875331,
-    "geom:longitude": -4.267836,
+    "geom:bbox": "-4.267842,55.875406,-4.267842,55.875406",
+    "geom:latitude": 55.875406,
+    "geom:longitude": -4.267842,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698797, 
       404430153, 
       1175612707, 
       404227471, 
       85792605, 
       1360698707, 
-      85633159
+      85633159, 
+      1360698797
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701559,
-    "wof:geomhash": "9183d8262ec94882f9249235f293a5cd",
+    "wof:geomhash": "e6624d7d1608d1ee7ec0273a5dea7c0d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 504764137,
-    "wof:lastmodified": 1583786711,
+    "wof:lastmodified": 1609889850,
     "wof:name": "G20 7NF",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.267836, 
-    55.875331, 
-    -4.267836, 
-    55.875331
+    -4.267842, 
+    55.875406, 
+    -4.267842, 
+    55.875406
   ],
-  "geometry": {"coordinates":[-4.267836,55.875331],"type":"Point"}
+  "geometry": {"coordinates":[-4.267842,55.875406],"type":"Point"}
 }

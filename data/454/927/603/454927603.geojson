@@ -6,9 +6,9 @@
     "edtf:inception": "1995-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.238642,51.377285,-0.238642,51.377285",
-    "geom:latitude": 51.377285,
-    "geom:longitude": -0.238642,
+    "geom:bbox": "-0.238672,51.377259,-0.238672,51.377259",
+    "geom:latitude": 51.377259,
+    "geom:longitude": -0.238672,
     "gp:parent_id": "41118",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -20,12 +20,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      1158857303, 
-      85633159, 
-      101750367, 
       404227469, 
       1158857437, 
-      1360698645
+      1360698645, 
+      1158857303, 
+      85633159, 
+      101750367
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701757,
-    "wof:geomhash": "b19dff294a9e764defe3338c41930a87",
+    "wof:geomhash": "830fa73aad731c9804e43d8e2eb72bdc",
     "wof:hierarchy": [
       {
         "borough_id": 1158857303,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 454927603,
-    "wof:lastmodified": 1583786889,
+    "wof:lastmodified": 1609904891,
     "wof:name": "KT4 8JB",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -55,10 +55,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.238642, 
-    51.377285, 
-    -0.238642, 
-    51.377285
+    -0.238672, 
+    51.377259, 
+    -0.238672, 
+    51.377259
   ],
-  "geometry": {"coordinates":[-0.238642,51.377285],"type":"Point"}
+  "geometry": {"coordinates":[-0.238672,51.377259],"type":"Point"}
 }

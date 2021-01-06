@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.306627,53.601121,-2.306627,53.601121",
-    "geom:latitude": 53.601121,
-    "geom:longitude": -2.306627,
+    "geom:bbox": "-2.306655,53.601119,-2.306655,53.601119",
+    "geom:latitude": 53.601119,
+    "geom:longitude": -2.306655,
     "gp:parent_id": "14711",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698847, 
       101750567, 
       404227469, 
-      1360698555
+      1360698555, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701389,
-    "wof:geomhash": "d1e604b9ef8d9a4674471b36cf39483e",
+    "wof:geomhash": "cfd5abb7c17fd60273cd4227299b683b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 438194481,
-    "wof:lastmodified": 1583786525,
+    "wof:lastmodified": 1609879230,
     "wof:name": "BL8 1BJ",
     "wof:parent_id": 101750567,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.306627, 
-    53.601121, 
-    -2.306627, 
-    53.601121
+    -2.306655, 
+    53.601119, 
+    -2.306655, 
+    53.601119
   ],
-  "geometry": {"coordinates":[-2.306627,53.601121],"type":"Point"}
+  "geometry": {"coordinates":[-2.306655,53.601119],"type":"Point"}
 }

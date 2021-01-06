@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.505211,52.416852,-1.505211,52.416852",
-    "geom:latitude": 52.416852,
-    "geom:longitude": -1.505211,
+    "geom:bbox": "-1.505143,52.416887,-1.505143,52.416887",
+    "geom:latitude": 52.416887,
+    "geom:longitude": -1.505143,
     "gp:parent_id": "17044",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699115, 
       101750449, 
       404227469, 
-      1360698605
+      1360698605, 
+      85633159, 
+      1360699115
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701414,
-    "wof:geomhash": "082c6d7fd82489a58f3835ad0d507ad0",
+    "wof:geomhash": "39275c8eef2777d3ac48e50ac5d71cdc",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454247143,
-    "wof:lastmodified": 1583786541,
+    "wof:lastmodified": 1609879972,
     "wof:name": "CV1 4GU",
     "wof:parent_id": 101750449,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.505211, 
-    52.416852, 
-    -1.505211, 
-    52.416852
+    -1.505143, 
+    52.416887, 
+    -1.505143, 
+    52.416887
   ],
-  "geometry": {"coordinates":[-1.505211,52.416852],"type":"Point"}
+  "geometry": {"coordinates":[-1.505143,52.416887],"type":"Point"}
 }

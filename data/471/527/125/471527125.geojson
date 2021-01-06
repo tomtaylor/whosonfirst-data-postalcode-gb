@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1986-07-01",
     "geom:area": 0,
-    "geom:bbox": "-1.351908,51.376275,-1.351908,51.376275",
-    "geom:latitude": 51.376275,
-    "geom:longitude": -1.351908,
+    "geom:bbox": "-1.352705,51.378860,-1.352705,51.378860",
+    "geom:latitude": 51.37886,
+    "geom:longitude": -1.352705,
     "gp:parent_id": "30061",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698857, 
       404434901, 
       1125974363, 
       404227469, 
-      1360698529
+      1360698529, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701659,
-    "wof:geomhash": "f8514fd0d0127a3228ce58d6b17c5fed",
+    "wof:geomhash": "a6d7036b259c2a539ea11bffaf71d3aa",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471527125,
-    "wof:lastmodified": 1595723118,
+    "wof:lastmodified": 1609895436,
     "wof:name": "RG14 6TW",
     "wof:parent_id": 404434901,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.351908, 
-    51.376275, 
-    -1.351908, 
-    51.376275
+    -1.352705, 
+    51.37886, 
+    -1.352705, 
+    51.37886
   ],
-  "geometry": {"coordinates":[-1.351908,51.376275],"type":"Point"}
+  "geometry": {"coordinates":[-1.352705,51.37886],"type":"Point"}
 }

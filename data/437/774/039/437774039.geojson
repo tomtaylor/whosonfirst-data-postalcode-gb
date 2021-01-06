@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2012-07-01",
     "geom:area": 0,
-    "geom:bbox": "-1.577243,52.970043,-1.577243,52.970043",
-    "geom:latitude": 52.970043,
-    "geom:longitude": -1.577243,
+    "geom:bbox": "-1.576793,52.969978,-1.576793,52.969978",
+    "geom:latitude": 52.969978,
+    "geom:longitude": -1.576793,
     "gp:parent_id": "20092807",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      404449539, 
-      1360753783, 
       404227469, 
       1360698539, 
       85633159, 
-      1360698765
+      1360698765, 
+      404449539, 
+      1360753783
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701547,
-    "wof:geomhash": "3c55abd0475ca1e77f535549fe4338be",
+    "wof:geomhash": "0b68651fa97747615bc253d0333f7aec",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 437774039,
-    "wof:lastmodified": 1583786691,
+    "wof:lastmodified": 1609889421,
     "wof:name": "DE6 3DZ",
     "wof:parent_id": 404449539,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.577243, 
-    52.970043, 
-    -1.577243, 
-    52.970043
+    -1.576793, 
+    52.969978, 
+    -1.576793, 
+    52.969978
   ],
-  "geometry": {"coordinates":[-1.577243,52.970043],"type":"Point"}
+  "geometry": {"coordinates":[-1.576793,52.969978],"type":"Point"}
 }

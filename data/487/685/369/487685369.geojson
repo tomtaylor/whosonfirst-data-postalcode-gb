@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1983-03-01",
     "geom:area": 0,
-    "geom:bbox": "0.608356,51.527028,0.608356,51.527028",
-    "geom:latitude": 51.527028,
-    "geom:longitude": 0.608356,
+    "geom:bbox": "0.608239,51.526994,0.608239,51.526994",
+    "geom:latitude": 51.526994,
+    "geom:longitude": 0.608239,
     "gp:parent_id": "15063",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698979, 
-      404450287, 
       101853535, 
       404227469, 
-      1360698551
+      1360698551, 
+      85633159, 
+      1360698979, 
+      404450287
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701119,
-    "wof:geomhash": "c7a0b72c0b4a1b694cc4cf6909338f07",
+    "wof:geomhash": "ba95bfc777864775b68756f4e36fbc5a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487685369,
-    "wof:lastmodified": 1583786215,
+    "wof:lastmodified": 1609872792,
     "wof:name": "SS8 8HY",
     "wof:parent_id": 101853535,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.608356, 
-    51.527028, 
-    0.608356, 
-    51.527028
+    0.608239, 
+    51.526994, 
+    0.608239, 
+    51.526994
   ],
-  "geometry": {"coordinates":[0.608356,51.527028],"type":"Point"}
+  "geometry": {"coordinates":[0.608239,51.526994],"type":"Point"}
 }

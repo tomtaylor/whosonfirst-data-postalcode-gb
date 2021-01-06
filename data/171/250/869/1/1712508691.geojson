@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2016-08-01",
     "geom:area": 0,
-    "geom:bbox": "-0.876390,52.208198,-0.876390,52.208198",
-    "geom:latitude": 52.208198,
-    "geom:longitude": -0.87639,
+    "geom:bbox": "-0.876217,52.208115,-0.876217,52.208115",
+    "geom:latitude": 52.208115,
+    "geom:longitude": -0.876217,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698577, 
       85633159, 
       1360698755, 
       404437459, 
-      1125839423
+      1125839423, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583791178,
-    "wof:geomhash": "c5ec7f26279f24a64db2db87794e9dc3",
+    "wof:geomhash": "c567ce1623bfd57f50ef1524c0b5985d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712508691,
-    "wof:lastmodified": 1583791178,
+    "wof:lastmodified": 1609869860,
     "wof:name": "NN4 6FA",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.87639, 
-    52.208198, 
-    -0.87639, 
-    52.208198
+    -0.876217, 
+    52.208115, 
+    -0.876217, 
+    52.208115
   ],
-  "geometry": {"coordinates":[-0.87639,52.208198],"type":"Point"}
+  "geometry": {"coordinates":[-0.876217,52.208115],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.968718,51.023943,-2.968718,51.023943",
-    "geom:latitude": 51.023943,
-    "geom:longitude": -2.968718,
+    "geom:bbox": "-2.969905,51.024095,-2.969905,51.024095",
+    "geom:latitude": 51.024095,
+    "geom:longitude": -2.969905,
     "gp:parent_id": "30452",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699059, 
-      404439517, 
-      1126016045, 
       404227469, 
       1360698589, 
-      85633159
+      85633159, 
+      1360699059, 
+      404439517, 
+      1126016045
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701177,
-    "wof:geomhash": "cd30e11cabcd156038839c87f37c4aa1",
+    "wof:geomhash": "5d7d784d51655ec49b0974a163c12164",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487809181,
-    "wof:lastmodified": 1583786280,
+    "wof:lastmodified": 1609880941,
     "wof:name": "TA3 6LN",
     "wof:parent_id": 404439517,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.968718, 
-    51.023943, 
-    -2.968718, 
-    51.023943
+    -2.969905, 
+    51.024095, 
+    -2.969905, 
+    51.024095
   ],
-  "geometry": {"coordinates":[-2.968718,51.023943],"type":"Point"}
+  "geometry": {"coordinates":[-2.969905,51.024095],"type":"Point"}
 }

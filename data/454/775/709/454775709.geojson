@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.992594,51.862637,-0.992594,51.862637",
-    "geom:latitude": 51.862637,
-    "geom:longitude": -0.992594,
+    "geom:bbox": "-0.992269,51.862877,-0.992269,51.862877",
+    "geom:latitude": 51.862877,
+    "geom:longitude": -0.992269,
     "gp:parent_id": "25226",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698533, 
       85633159, 
       1360698997, 
       404437327, 
       1360759505, 
-      404227469
+      404227469, 
+      1360698533
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701716,
-    "wof:geomhash": "e7803f00db8e0f73ebb2b40a0c821d84",
+    "wof:geomhash": "79b798226abb8dbcae9cc9912cb00ba3",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454775709,
-    "wof:lastmodified": 1595717118,
+    "wof:lastmodified": 1609901689,
     "wof:name": "HP18 0QJ",
     "wof:parent_id": 404437327,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.992594, 
-    51.862637, 
-    -0.992594, 
-    51.862637
+    -0.992269, 
+    51.862877, 
+    -0.992269, 
+    51.862877
   ],
-  "geometry": {"coordinates":[-0.992594,51.862637],"type":"Point"}
+  "geometry": {"coordinates":[-0.992269,51.862877],"type":"Point"}
 }

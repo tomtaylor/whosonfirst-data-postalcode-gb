@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.465607,50.498530,-4.465607,50.498530",
-    "geom:latitude": 50.49853,
-    "geom:longitude": -4.465607,
+    "geom:bbox": "-4.465522,50.498514,-4.465522,50.498514",
+    "geom:latitude": 50.498514,
+    "geom:longitude": -4.465522,
     "gp:parent_id": "23375",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
       1360698623, 
       85633159, 
       1360699085, 
       404436407, 
-      1125972911, 
-      404227469
+      1125972911
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701566,
-    "wof:geomhash": "d607bc5a66f2a30ca15e741b0f1fd752",
+    "wof:geomhash": "b052452497e168e48456d79159a17024",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471408891,
-    "wof:lastmodified": 1595722294,
+    "wof:lastmodified": 1609891060,
     "wof:name": "PL14 5HN",
     "wof:parent_id": 404436407,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.465607, 
-    50.49853, 
-    -4.465607, 
-    50.49853
+    -4.465522, 
+    50.498514, 
+    -4.465522, 
+    50.498514
   ],
-  "geometry": {"coordinates":[-4.465607,50.49853],"type":"Point"}
+  "geometry": {"coordinates":[-4.465522,50.498514],"type":"Point"}
 }

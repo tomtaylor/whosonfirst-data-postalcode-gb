@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.054388,51.182577,1.054388,51.182577",
-    "geom:latitude": 51.182577,
-    "geom:longitude": 1.054388,
+    "geom:bbox": "1.054772,51.183187,1.054772,51.183187",
+    "geom:latitude": 51.183187,
+    "geom:longitude": 1.054772,
     "gp:parent_id": "36072",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698811, 
       404436347, 
       1125789159, 
       404227469, 
-      1360698565
+      1360698565, 
+      85633159, 
+      1360698811
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701403,
-    "wof:geomhash": "5bd58f0258830f944c43fc29fda8b085",
+    "wof:geomhash": "d8d29ac1afe1c49a52b800c68fce4f2f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454236585,
-    "wof:lastmodified": 1583786531,
+    "wof:lastmodified": 1609879569,
     "wof:name": "CT4 6BU",
     "wof:parent_id": 404436347,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.054388, 
-    51.182577, 
-    1.054388, 
-    51.182577
+    1.054772, 
+    51.183187, 
+    1.054772, 
+    51.183187
   ],
-  "geometry": {"coordinates":[1.054388,51.182577],"type":"Point"}
+  "geometry": {"coordinates":[1.054772,51.183187],"type":"Point"}
 }

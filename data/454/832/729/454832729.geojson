@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.881781,53.719873,-1.881781,53.719873",
-    "geom:latitude": 53.719873,
+    "geom:bbox": "-1.881781,53.719927,-1.881781,53.719927",
+    "geom:latitude": 53.719927,
     "geom:longitude": -1.881781,
     "gp:parent_id": "22179",
     "iso:country": "GB",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360817303, 
-      101750577, 
       404227469, 
       1360698609, 
       85633159, 
-      1360698833
+      1360698833, 
+      1360817303, 
+      101750577
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701731,
-    "wof:geomhash": "dcc7b8f1315fdf9852c3562846bf2915",
+    "wof:geomhash": "a352e7ef55d3ecd78ba3692ff7c38f40",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454832729,
-    "wof:lastmodified": 1583786865,
+    "wof:lastmodified": 1609903096,
     "wof:name": "HX1 3XZ",
     "wof:parent_id": 101750577,
     "wof:placetype": "postalcode",
@@ -55,9 +55,9 @@
   },
   "bbox": [
     -1.881781, 
-    53.719873, 
+    53.719927, 
     -1.881781, 
-    53.719873
+    53.719927
   ],
-  "geometry": {"coordinates":[-1.881781,53.719873],"type":"Point"}
+  "geometry": {"coordinates":[-1.881781,53.719927],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-09-01",
     "geom:area": 0,
-    "geom:bbox": "-2.499381,52.907426,-2.499381,52.907426",
-    "geom:latitude": 52.907426,
-    "geom:longitude": -2.499381,
+    "geom:bbox": "-2.499217,52.907400,-2.499217,52.907400",
+    "geom:latitude": 52.9074,
+    "geom:longitude": -2.499217,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      404444687, 
-      1226681525, 
       404227469, 
       1360698587, 
       85633159, 
-      1360698821
+      1360698821, 
+      404444687, 
+      1226681525
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583793247,
-    "wof:geomhash": "1495393aa25b5caf1af9eb000da1325e",
+    "wof:geomhash": "ee776a51cfe856d9374a0031f1592990",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 38691270,
-    "wof:lastmodified": 1583793247,
+    "wof:lastmodified": 1609868566,
     "wof:name": "TF9 3FU",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.499381, 
-    52.907426, 
-    -2.499381, 
-    52.907426
+    -2.499217, 
+    52.9074, 
+    -2.499217, 
+    52.9074
   ],
-  "geometry": {"coordinates":[-2.499381,52.907426],"type":"Point"}
+  "geometry": {"coordinates":[-2.499217,52.9074],"type":"Point"}
 }

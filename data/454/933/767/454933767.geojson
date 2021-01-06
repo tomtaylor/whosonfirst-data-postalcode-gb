@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2008-03-01",
     "geom:area": 0,
-    "geom:bbox": "-2.975512,53.397994,-2.975512,53.397994",
-    "geom:latitude": 53.397994,
-    "geom:longitude": -2.975512,
+    "geom:bbox": "-2.975208,53.398508,-2.975208,53.398508",
+    "geom:latitude": 53.398508,
+    "geom:longitude": -2.975208,
     "gp:parent_id": "26734",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698573, 
-      85633159, 
-      1360698971, 
       101750547, 
       404227469, 
-      85787241
+      85787241, 
+      1360698573, 
+      85633159, 
+      1360698971
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701760,
-    "wof:geomhash": "8b5ed32a63a8e676c6f08eef2c85cdf4",
+    "wof:geomhash": "e0b4bdbf0494745f4bcbc6cace7f1c12",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454933767,
-    "wof:lastmodified": 1583786894,
+    "wof:lastmodified": 1609905101,
     "wof:name": "L1 7BT",
     "wof:parent_id": 101750547,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.975512, 
-    53.397994, 
-    -2.975512, 
-    53.397994
+    -2.975208, 
+    53.398508, 
+    -2.975208, 
+    53.398508
   ],
-  "geometry": {"coordinates":[-2.975512,53.397994],"type":"Point"}
+  "geometry": {"coordinates":[-2.975208,53.398508],"type":"Point"}
 }

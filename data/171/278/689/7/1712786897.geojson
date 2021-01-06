@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-08-01",
     "geom:area": 0,
-    "geom:bbox": "-6.069159,56.614710,-6.069159,56.614710",
-    "geom:latitude": 56.61471,
-    "geom:longitude": -6.069159,
+    "geom:bbox": "-6.069157,56.614692,-6.069157,56.614692",
+    "geom:latitude": 56.614692,
+    "geom:longitude": -6.069157,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698695, 
       85633159, 
       1360698863, 
       404439789, 
-      404227471
+      404227471, 
+      1360698695
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583803551,
-    "wof:geomhash": "34e5c4820e7bbe71eb1ae39d9104b54b",
+    "wof:geomhash": "2d026f85100cb3d4675d312f778502b7",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1712786897,
-    "wof:lastmodified": 1583803551,
+    "wof:lastmodified": 1609874330,
     "wof:name": "PA75 6AL",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -6.069159, 
-    56.61471, 
-    -6.069159, 
-    56.61471
+    -6.069157, 
+    56.614692, 
+    -6.069157, 
+    56.614692
   ],
-  "geometry": {"coordinates":[-6.069159,56.61471],"type":"Point"}
+  "geometry": {"coordinates":[-6.069157,56.614692],"type":"Point"}
 }

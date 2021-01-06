@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "0.619155,51.789767,0.619155,51.789767",
-    "geom:latitude": 51.789767,
-    "geom:longitude": 0.619155,
+    "geom:bbox": "0.619035,51.789959,0.619035,51.789959",
+    "geom:latitude": 51.789959,
+    "geom:longitude": 0.619035,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698979, 
-      404455375, 
       101854735, 
       404227469, 
-      1360698551
+      1360698551, 
+      85633159, 
+      1360698979, 
+      404455375
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735505,
-    "wof:geomhash": "4d51d9aac98cbbf86bf35972c0cfce4b",
+    "wof:geomhash": "152dff74ea1e9963a6d6adbb8a76115a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1713327763,
-    "wof:lastmodified": 1595753341,
+    "wof:lastmodified": 1609875247,
     "wof:name": "CM8 1ZD",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.619155, 
-    51.789767, 
-    0.619155, 
-    51.789767
+    0.619035, 
+    51.789959, 
+    0.619035, 
+    51.789959
   ],
-  "geometry": {"coordinates":[0.619155,51.789767],"type":"Point"}
+  "geometry": {"coordinates":[0.619035,51.789959],"type":"Point"}
 }

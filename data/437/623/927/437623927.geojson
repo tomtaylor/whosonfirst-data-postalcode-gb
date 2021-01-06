@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-02-01",
     "geom:area": 0,
-    "geom:bbox": "0.971512,52.470162,0.971512,52.470162",
-    "geom:latitude": 52.470162,
-    "geom:longitude": 0.971512,
+    "geom:bbox": "0.971306,52.470159,0.971306,52.470159",
+    "geom:latitude": 52.470159,
+    "geom:longitude": 0.971306,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      404451995, 
+      1125972397, 
+      404227469, 
       1360698575, 
       85633159, 
-      1360698955, 
-      404430625, 
-      101854941, 
-      404227469
+      1360698955
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,19 +31,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701433,
-    "wof:geomhash": "795d8bee57126cdf98c38ae875ce43ce",
+    "wof:geomhash": "a938e6b6f628966c4cc364303b2e5bc1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360698955,
-        "localadmin_id": 404430625,
-        "locality_id": 101854941,
+        "localadmin_id": 404451995,
+        "locality_id": 1125972397,
         "macroregion_id": 404227469,
         "region_id": 1360698575
       }
     ],
     "wof:id": 437623927,
-    "wof:lastmodified": 1595713998,
+    "wof:lastmodified": 1609881459,
     "wof:name": "NR16 2JX",
     "wof:parent_id": "101852895",
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.971512, 
-    52.470162, 
-    0.971512, 
-    52.470162
+    0.971306, 
+    52.470159, 
+    0.971306, 
+    52.470159
   ],
-  "geometry": {"coordinates":[0.971512,52.470162],"type":"Point"}
+  "geometry": {"coordinates":[0.971306,52.470159],"type":"Point"}
 }

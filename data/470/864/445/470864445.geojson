@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.237369,53.446840,-2.237369,53.446840",
-    "geom:latitude": 53.44684,
-    "geom:longitude": -2.237369,
+    "geom:bbox": "-2.237458,53.446731,-2.237458,53.446731",
+    "geom:latitude": 53.446731,
+    "geom:longitude": -2.237458,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      85787341, 
-      1360698555, 
       85633159, 
       1360698893, 
-      101750525
+      101750525, 
+      404227469, 
+      85787341, 
+      1360698555
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701161,
-    "wof:geomhash": "746119d8f68490ec62c33314bc24deb6",
+    "wof:geomhash": "d9900385fffd454d2e121683396ea42f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 470864445,
-    "wof:lastmodified": 1583786288,
+    "wof:lastmodified": 1609870283,
     "wof:name": "M14 7FB",
     "wof:parent_id": 101750525,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.237369, 
-    53.44684, 
-    -2.237369, 
-    53.44684
+    -2.237458, 
+    53.446731, 
+    -2.237458, 
+    53.446731
   ],
-  "geometry": {"coordinates":[-2.237369,53.44684],"type":"Point"}
+  "geometry": {"coordinates":[-2.237458,53.446731],"type":"Point"}
 }

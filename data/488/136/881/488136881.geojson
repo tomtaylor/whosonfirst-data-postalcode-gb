@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.423429,53.636368,-1.423429,53.636368",
-    "geom:latitude": 53.636368,
-    "geom:longitude": -1.423429,
+    "geom:bbox": "-1.423477,53.636322,-1.423477,53.636322",
+    "geom:latitude": 53.636322,
+    "geom:longitude": -1.423477,
     "gp:parent_id": "40725",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698609, 
-      85633159, 
-      1360698945, 
       404453517, 
       1125912345, 
-      404227469
+      404227469, 
+      1360698609, 
+      85633159, 
+      1360698945
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701269,
-    "wof:geomhash": "ff6c3fd629c1178783143aa8534a2315",
+    "wof:geomhash": "3cf014e9888e432a6a93cbb2c1ebee3f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488136881,
-    "wof:lastmodified": 1583786172,
+    "wof:lastmodified": 1609875904,
     "wof:name": "WF4 2EB",
     "wof:parent_id": 404453517,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.423429, 
-    53.636368, 
-    -1.423429, 
-    53.636368
+    -1.423477, 
+    53.636322, 
+    -1.423477, 
+    53.636322
   ],
-  "geometry": {"coordinates":[-1.423429,53.636368],"type":"Point"}
+  "geometry": {"coordinates":[-1.423477,53.636322],"type":"Point"}
 }

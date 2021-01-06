@@ -6,9 +6,9 @@
     "edtf:inception": "2002-06-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.192108,51.363555,-0.192108,51.363555",
-    "geom:latitude": 51.363555,
-    "geom:longitude": -0.192108,
+    "geom:bbox": "-0.192094,51.363564,-0.192094,51.363564",
+    "geom:latitude": 51.363564,
+    "geom:longitude": -0.192094,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      101750367, 
-      404227469, 
-      1158857445, 
       1360698645, 
       1158857303, 
-      85633159
+      85633159, 
+      101750367, 
+      404227469, 
+      1158857445
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701749,
-    "wof:geomhash": "e1389c2438262b386521cad2025aed96",
+    "wof:geomhash": "1b072e97ee4e673f2caa6e8838355759",
     "wof:hierarchy": [
       {
         "borough_id": 1158857303,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471824133,
-    "wof:lastmodified": 1583786915,
+    "wof:lastmodified": 1609903975,
     "wof:name": "SM1 4JQ",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.192108, 
-    51.363555, 
-    -0.192108, 
-    51.363555
+    -0.192094, 
+    51.363564, 
+    -0.192094, 
+    51.363564
   ],
-  "geometry": {"coordinates":[-0.192108,51.363555],"type":"Point"}
+  "geometry": {"coordinates":[-0.192094,51.363564],"type":"Point"}
 }

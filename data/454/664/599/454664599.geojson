@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.952309,51.714574,-1.952309,51.714574",
-    "geom:latitude": 51.714574,
-    "geom:longitude": -1.952309,
+    "geom:bbox": "-1.952381,51.714691,-1.952381,51.714691",
+    "geom:latitude": 51.714691,
+    "geom:longitude": -1.952381,
     "gp:parent_id": "16119",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698553, 
       85633159, 
       1360698927, 
       404453915, 
-      1125962769
+      1125962769, 
+      404227469, 
+      1360698553
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701691,
-    "wof:geomhash": "4fa1450a4ec36e94197704729becff3a",
+    "wof:geomhash": "756e00a3a9902b3bb057199f5ff339a7",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454664599,
-    "wof:lastmodified": 1583786827,
+    "wof:lastmodified": 1609899076,
     "wof:name": "GL7 1DB",
     "wof:parent_id": 404453915,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.952309, 
-    51.714574, 
-    -1.952309, 
-    51.714574
+    -1.952381, 
+    51.714691, 
+    -1.952381, 
+    51.714691
   ],
-  "geometry": {"coordinates":[-1.952309,51.714574],"type":"Point"}
+  "geometry": {"coordinates":[-1.952381,51.714691],"type":"Point"}
 }

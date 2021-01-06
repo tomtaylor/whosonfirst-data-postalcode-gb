@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2000-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.806724,52.708215,-2.806724,52.708215",
-    "geom:latitude": 52.708215,
-    "geom:longitude": -2.806724,
+    "geom:bbox": "-2.814320,52.714707,-2.814320,52.714707",
+    "geom:latitude": 52.714707,
+    "geom:longitude": -2.81432,
     "gp:parent_id": "34757",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698587, 
       85633159, 
       1360698821, 
       404449337, 
-      1260008845
+      1260008845, 
+      404227469, 
+      1360698587
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701165,
-    "wof:geomhash": "35d4603fd94ef7ca65953b8baa745354",
+    "wof:geomhash": "863eb26175e4f4a5c8f82d5be6688255",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487783289,
-    "wof:lastmodified": 1583786267,
+    "wof:lastmodified": 1609879807,
     "wof:name": "SY3 5HT",
     "wof:parent_id": 404449337,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.806724, 
-    52.708215, 
-    -2.806724, 
-    52.708215
+    -2.81432, 
+    52.714707, 
+    -2.81432, 
+    52.714707
   ],
-  "geometry": {"coordinates":[-2.806724,52.708215],"type":"Point"}
+  "geometry": {"coordinates":[-2.81432,52.714707],"type":"Point"}
 }

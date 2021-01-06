@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.026806,52.934033,-0.026806,52.934033",
-    "geom:latitude": 52.934033,
-    "geom:longitude": -0.026806,
+    "geom:bbox": "-0.027682,52.934065,-0.027682,52.934065",
+    "geom:latitude": 52.934065,
+    "geom:longitude": -0.027682,
     "gp:parent_id": "20580",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      404432393, 
+      1242813217, 
       404227469, 
       1360698571, 
       85633159, 
-      1360699067, 
-      404432393, 
-      1242813217
+      1360699067
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701532,
-    "wof:geomhash": "23ad654a2412c7023c49ced92bc915df",
+    "wof:geomhash": "b95f4c9cc434c917a6dbf3cb55830450",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471366255,
-    "wof:lastmodified": 1595722005,
+    "wof:lastmodified": 1609888494,
     "wof:name": "PE20 1AD",
     "wof:parent_id": 404432393,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.026806, 
-    52.934033, 
-    -0.026806, 
-    52.934033
+    -0.027682, 
+    52.934065, 
+    -0.027682, 
+    52.934065
   ],
-  "geometry": {"coordinates":[-0.026806,52.934033],"type":"Point"}
+  "geometry": {"coordinates":[-0.027682,52.934065],"type":"Point"}
 }

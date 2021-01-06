@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2003-09-01",
     "geom:area": 0,
-    "geom:bbox": "-4.116273,57.069080,-4.116273,57.069080",
-    "geom:latitude": 57.06908,
-    "geom:longitude": -4.116273,
+    "geom:bbox": "-4.115588,57.069218,-4.115588,57.069218",
+    "geom:latitude": 57.069218,
+    "geom:longitude": -4.115588,
     "gp:parent_id": "12696199",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360699045, 
+      404436073, 
       404227471, 
       1360698661, 
-      85633159, 
-      1360699045, 
-      404436073
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701527,
-    "wof:geomhash": "d883c08c9b750dede06af35f0aa78b8f",
+    "wof:geomhash": "1f29e92f84926dc984b8d3a3c2a9f899",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504728597,
-    "wof:lastmodified": 1583786688,
+    "wof:lastmodified": 1609887780,
     "wof:name": "PH20 1EH",
     "wof:parent_id": 101872717,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.116273, 
-    57.06908, 
-    -4.116273, 
-    57.06908
+    -4.115588, 
+    57.069218, 
+    -4.115588, 
+    57.069218
   ],
-  "geometry": {"coordinates":[-4.116273,57.06908],"type":"Point"}
+  "geometry": {"coordinates":[-4.115588,57.069218],"type":"Point"}
 }

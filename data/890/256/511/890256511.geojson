@@ -2,15 +2,15 @@
   "id": 890256511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2016-08-01",
-    "edtf:inception": "2016-02-01",
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-08-01",
     "geom:area": 0,
-    "geom:bbox": "-0.333450,52.038382,-0.333450,52.038382",
-    "geom:latitude": 52.038382,
-    "geom:longitude": -0.33345,
+    "geom:bbox": "-0.301055,52.032283,-0.301055,52.032283",
+    "geom:latitude": 52.032283,
+    "geom:longitude": -0.301055,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000056",
@@ -18,29 +18,29 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404444471, 
-      1126060401, 
+      1360698767, 
+      404435485, 
+      1125858073, 
       404227469, 
       1360698527, 
-      85633159, 
-      1360698767
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468899871,
-    "wof:geomhash": "6d75dd222659b3ce0513c10ae08593ed",
+    "wof:geomhash": "284c521a9074fc49ff4452c4f5deb084",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360698767,
-        "localadmin_id": 404444471,
-        "locality_id": 1126060401,
+        "localadmin_id": 404435485,
+        "locality_id": 1125858073,
         "macroregion_id": 404227469,
         "region_id": 1360698527
       }
     ],
     "wof:id": 890256511,
-    "wof:lastmodified": 1583786210,
+    "wof:lastmodified": 1609868949,
     "wof:name": "SG17 5QN",
     "wof:parent_id": 404444471,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.33345, 
-    52.038382, 
-    -0.33345, 
-    52.038382
+    -0.301055, 
+    52.032283, 
+    -0.301055, 
+    52.032283
   ],
-  "geometry": {"coordinates":[-0.33345,52.038382],"type":"Point"}
+  "geometry": {"coordinates":[-0.301055,52.032283],"type":"Point"}
 }

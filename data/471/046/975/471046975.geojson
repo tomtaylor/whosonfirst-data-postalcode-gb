@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.510480,55.122793,-1.510480,55.122793",
-    "geom:latitude": 55.122793,
-    "geom:longitude": -1.51048,
+    "geom:bbox": "-1.510511,55.122829,-1.510511,55.122829",
+    "geom:latitude": 55.122829,
+    "geom:longitude": -1.510511,
     "gp:parent_id": "13098",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698769, 
-      404433399, 
-      101873451, 
       404227469, 
       1360698727, 
-      85633159
+      85633159, 
+      1360698769, 
+      404433399, 
+      101873451
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701168,
-    "wof:geomhash": "e42b0eefcd8922c1560dcfbfc34f7839",
+    "wof:geomhash": "2a024251febfd5f00c0334229e43cad8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471046975,
-    "wof:lastmodified": 1583786301,
+    "wof:lastmodified": 1609869993,
     "wof:name": "NE24 2HW",
     "wof:parent_id": 101873451,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.51048, 
-    55.122793, 
-    -1.51048, 
-    55.122793
+    -1.510511, 
+    55.122829, 
+    -1.510511, 
+    55.122829
   ],
-  "geometry": {"coordinates":[-1.51048,55.122793],"type":"Point"}
+  "geometry": {"coordinates":[-1.510511,55.122829],"type":"Point"}
 }

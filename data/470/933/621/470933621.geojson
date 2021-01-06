@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.898950,51.313945,0.898950,51.313945",
-    "geom:latitude": 51.313945,
-    "geom:longitude": 0.89895,
+    "geom:bbox": "0.898670,51.314028,0.898670,51.314028",
+    "geom:latitude": 51.314028,
+    "geom:longitude": 0.89867,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      404435365, 
+      101854627, 
       404227469, 
       1360698565, 
       85633159, 
-      1360698811, 
-      404435365, 
-      101854627
+      1360698811
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701313,
-    "wof:geomhash": "a3b39cd93a63def4475daa9097f28d6d",
+    "wof:geomhash": "aafd28b6463d722e1f86023da92ba178",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 470933621,
-    "wof:lastmodified": 1583786444,
+    "wof:lastmodified": 1609874731,
     "wof:name": "ME13 8BE",
     "wof:parent_id": 101854627,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.89895, 
-    51.313945, 
-    0.89895, 
-    51.313945
+    0.89867, 
+    51.314028, 
+    0.89867, 
+    51.314028
   ],
-  "geometry": {"coordinates":[0.89895,51.313945],"type":"Point"}
+  "geometry": {"coordinates":[0.89867,51.314028],"type":"Point"}
 }

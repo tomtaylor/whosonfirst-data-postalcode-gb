@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1993-08-01",
     "geom:area": 0,
-    "geom:bbox": "-1.213618,53.213512,-1.213618,53.213512",
-    "geom:latitude": 53.213512,
-    "geom:longitude": -1.213618,
+    "geom:bbox": "-1.213139,53.213509,-1.213139,53.213509",
+    "geom:latitude": 53.213509,
+    "geom:longitude": -1.213139,
     "gp:parent_id": "25818",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698539, 
       85633159, 
       1360698765, 
       404430257, 
-      1226371317
+      1226371317, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701322,
-    "wof:geomhash": "1b8a77e233bc88c03f577e8e75497640",
+    "wof:geomhash": "758b5ca6c1f3dee5f51d93cb8cfd3f30",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471128279,
-    "wof:lastmodified": 1583786464,
+    "wof:lastmodified": 1609875225,
     "wof:name": "NG20 9AL",
     "wof:parent_id": 101872101,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.213618, 
-    53.213512, 
-    -1.213618, 
-    53.213512
+    -1.213139, 
+    53.213509, 
+    -1.213139, 
+    53.213509
   ],
-  "geometry": {"coordinates":[-1.213618,53.213512],"type":"Point"}
+  "geometry": {"coordinates":[-1.213139,53.213509],"type":"Point"}
 }

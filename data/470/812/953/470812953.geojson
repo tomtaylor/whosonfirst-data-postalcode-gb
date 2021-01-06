@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698749, 
-      101750579, 
       404227469, 
       85861581, 
       1360698609, 
-      85633159
+      85633159, 
+      1360698753, 
+      101750579
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -36,7 +36,7 @@
     "wof:hierarchy": [
       {
         "country_id": 85633159,
-        "county_id": 1360698749,
+        "county_id": 1360698753,
         "locality_id": 101750579,
         "macroregion_id": 404227469,
         "neighbourhood_id": 85861581,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470812953,
-    "wof:lastmodified": 1583786192,
+    "wof:lastmodified": 1609868665,
     "wof:name": "LS16 7QJ",
     "wof:parent_id": 101750579,
     "wof:placetype": "postalcode",

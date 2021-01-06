@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.277702,55.868273,-4.277702,55.868273",
-    "geom:latitude": 55.868273,
-    "geom:longitude": -4.277702,
+    "geom:bbox": "-4.277606,55.868252,-4.277606,55.868252",
+    "geom:latitude": 55.868252,
+    "geom:longitude": -4.277606,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85792601, 
       1360698707, 
       85633159, 
       1360698797, 
       404430153, 
       1175612707, 
-      404227471
+      404227471, 
+      85792601
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701557,
-    "wof:geomhash": "f44ddb887388c8be6a8cfa4d1470a213",
+    "wof:geomhash": "974550e612aba58c2be0e7f809a47364",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 504764269,
-    "wof:lastmodified": 1583786711,
+    "wof:lastmodified": 1609889819,
     "wof:name": "G3 6DD",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.277702, 
-    55.868273, 
-    -4.277702, 
-    55.868273
+    -4.277606, 
+    55.868252, 
+    -4.277606, 
+    55.868252
   ],
-  "geometry": {"coordinates":[-4.277702,55.868273],"type":"Point"}
+  "geometry": {"coordinates":[-4.277606,55.868252],"type":"Point"}
 }

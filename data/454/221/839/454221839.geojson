@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.399158,51.232119,1.399158,51.232119",
-    "geom:latitude": 51.232119,
+    "geom:bbox": "1.399158,51.232128,1.399158,51.232128",
+    "geom:latitude": 51.232128,
     "geom:longitude": 1.399158,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      101854637, 
       404227469, 
       1360698565, 
       85633159, 
       1360698811, 
-      404429983
+      404429983, 
+      101854637
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701387,
-    "wof:geomhash": "f95cab2c12b48e5f86d38bde554ed827",
+    "wof:geomhash": "94d8391005af682c484b894a2da6179e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454221839,
-    "wof:lastmodified": 1583786519,
+    "wof:lastmodified": 1609878951,
     "wof:name": "CT14 6QB",
     "wof:parent_id": 101854637,
     "wof:placetype": "postalcode",
@@ -54,9 +54,9 @@
   },
   "bbox": [
     1.399158, 
-    51.232119, 
+    51.232128, 
     1.399158, 
-    51.232119
+    51.232128
   ],
-  "geometry": {"coordinates":[1.399158,51.232119],"type":"Point"}
+  "geometry": {"coordinates":[1.399158,51.232128],"type":"Point"}
 }

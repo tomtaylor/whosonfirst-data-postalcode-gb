@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.584401,53.798927,-1.584401,53.798927",
-    "geom:latitude": 53.798927,
-    "geom:longitude": -1.584401,
+    "geom:bbox": "-1.584477,53.798918,-1.584477,53.798918",
+    "geom:latitude": 53.798918,
+    "geom:longitude": -1.584477,
     "gp:parent_id": "26042",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      85785343, 
-      1360698609, 
       85633159, 
       1360698749, 
       101750579, 
-      404227469
+      404227469, 
+      85785343, 
+      1360698609
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701198,
-    "wof:geomhash": "be32ab90b6f75f5125527f73d6782809",
+    "wof:geomhash": "14dd93b1d1d05c19823446448bd8706a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 455075153,
-    "wof:lastmodified": 1583786327,
+    "wof:lastmodified": 1609871274,
     "wof:name": "LS12 2LY",
     "wof:parent_id": 101750579,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.584401, 
-    53.798927, 
-    -1.584401, 
-    53.798927
+    -1.584477, 
+    53.798918, 
+    -1.584477, 
+    53.798918
   ],
-  "geometry": {"coordinates":[-1.584401,53.798927],"type":"Point"}
+  "geometry": {"coordinates":[-1.584477,53.798918],"type":"Point"}
 }

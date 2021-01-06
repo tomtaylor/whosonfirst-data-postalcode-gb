@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1992-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.246300,53.484077,-2.246300,53.484077",
-    "geom:latitude": 53.484077,
-    "geom:longitude": -2.2463,
+    "geom:bbox": "-2.246853,53.483348,-2.246853,53.483348",
+    "geom:latitude": 53.483348,
+    "geom:longitude": -2.246853,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      85793003, 
       1360698555, 
       85633159, 
       1360698893, 
       101750525, 
-      404227469, 
-      85793003
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701227,
-    "wof:geomhash": "4488b324c3283c2d26454f01cc05f817",
+    "wof:geomhash": "d41985512fdf2cd6e195e91bde00400a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 470892803,
-    "wof:lastmodified": 1583786364,
+    "wof:lastmodified": 1609871779,
     "wof:name": "M3 2EQ",
     "wof:parent_id": 101750525,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.2463, 
-    53.484077, 
-    -2.2463, 
-    53.484077
+    -2.246853, 
+    53.483348, 
+    -2.246853, 
+    53.483348
   ],
-  "geometry": {"coordinates":[-2.2463,53.484077],"type":"Point"}
+  "geometry": {"coordinates":[-2.246853,53.483348],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.364771,54.717059,-1.364771,54.717059",
-    "geom:latitude": 54.717059,
-    "geom:longitude": -1.364771,
+    "geom:bbox": "-1.365009,54.717636,-1.365009,54.717636",
+    "geom:latitude": 54.717636,
+    "geom:longitude": -1.365009,
     "gp:parent_id": "36017",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699055, 
-      404452871, 
-      1125975693, 
       404227469, 
       1360698621, 
-      85633159
+      85633159, 
+      1360699055, 
+      404452871, 
+      1125975693
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701287,
-    "wof:geomhash": "d86f0de7b0a4d9c1181c15b8feaa8e60",
+    "wof:geomhash": "8150339d52a0bcd8945381b74c7e7ced",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487958051,
-    "wof:lastmodified": 1583786353,
+    "wof:lastmodified": 1609888697,
     "wof:name": "TS28 5HA",
     "wof:parent_id": 404452871,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.364771, 
-    54.717059, 
-    -1.364771, 
-    54.717059
+    -1.365009, 
+    54.717636, 
+    -1.365009, 
+    54.717636
   ],
-  "geometry": {"coordinates":[-1.364771,54.717059],"type":"Point"}
+  "geometry": {"coordinates":[-1.365009,54.717636],"type":"Point"}
 }

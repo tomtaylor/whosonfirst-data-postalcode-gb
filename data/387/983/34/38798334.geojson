@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-11-01",
     "geom:area": 0,
-    "geom:bbox": "-1.409469,51.682521,-1.409469,51.682521",
-    "geom:latitude": 51.682521,
-    "geom:longitude": -1.409469,
+    "geom:bbox": "-1.409206,51.682735,-1.409206,51.682735",
+    "geom:latitude": 51.682735,
+    "geom:longitude": -1.409206,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698585, 
-      85633159, 
       1360698839, 
       404430155, 
-      1360753995
+      1360753995, 
+      404227469, 
+      1360698585, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583794394,
-    "wof:geomhash": "f102adcd2a92332afba4baa94add9ae3",
+    "wof:geomhash": "c4c3f811490f22133b08cdc9019dec02",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 38798334,
-    "wof:lastmodified": 1583794394,
+    "wof:lastmodified": 1609868634,
     "wof:name": "OX13 5GX",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.409469, 
-    51.682521, 
-    -1.409469, 
-    51.682521
+    -1.409206, 
+    51.682735, 
+    -1.409206, 
+    51.682735
   ],
-  "geometry": {"coordinates":[-1.409469,51.682521],"type":"Point"}
+  "geometry": {"coordinates":[-1.409206,51.682735],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "-0.506572,52.649345,-0.506572,52.649345",
-    "geom:latitude": 52.649345,
-    "geom:longitude": -0.506572,
+    "geom:bbox": "-0.506361,52.649460,-0.506361,52.649460",
+    "geom:latitude": 52.64946,
+    "geom:longitude": -0.506361,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698571, 
       85633159, 
       1360699067, 
       404447237, 
-      101855001, 
-      404227469, 
-      1360698571
+      101855001
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735766,
-    "wof:geomhash": "d13ca3cf3e2312b4108f97c2fa99f4e4",
+    "wof:geomhash": "1b2a231daae5a3d288a5cffa0f98a2e4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1713333723,
-    "wof:lastmodified": 1595753549,
+    "wof:lastmodified": 1609875694,
     "wof:name": "PE9 3DH",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.506572, 
-    52.649345, 
-    -0.506572, 
-    52.649345
+    -0.506361, 
+    52.64946, 
+    -0.506361, 
+    52.64946
   ],
-  "geometry": {"coordinates":[-0.506572,52.649345],"type":"Point"}
+  "geometry": {"coordinates":[-0.506361,52.64946],"type":"Point"}
 }

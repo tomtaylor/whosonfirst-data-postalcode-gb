@@ -2,16 +2,16 @@
   "id": 488527563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2017-07-01",
-    "edtf:inception": "1993-08-01",
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-10-01",
     "geom:area": 0,
-    "geom:bbox": "-3.266316,51.412558,-3.266316,51.412558",
-    "geom:latitude": 51.412558,
-    "geom:longitude": -3.266316,
+    "geom:bbox": "-3.266923,51.412812,-3.266923,51.412812",
+    "geom:latitude": 51.412812,
+    "geom:longitude": -3.266923,
     "gp:parent_id": "12696121",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "W92000004",
     "os:county_code": "W99999999",
     "os:district_code": "W06000014",
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227475, 
-      1360698627, 
       85633159, 
       1360698899, 
       404433843, 
-      1243583119
+      1243583119, 
+      404227475, 
+      1360698627
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701539,
-    "wof:geomhash": "dffdc84696655d95eab7fdeb69de1ef0",
+    "wof:geomhash": "cfd390c9fc575fdafe78faef956e1809",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488527563,
-    "wof:lastmodified": 1583786739,
+    "wof:lastmodified": 1609895468,
     "wof:name": "CF62 9AU",
     "wof:parent_id": 101750395,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.266316, 
-    51.412558, 
-    -3.266316, 
-    51.412558
+    -3.266923, 
+    51.412812, 
+    -3.266923, 
+    51.412812
   ],
-  "geometry": {"coordinates":[-3.266316,51.412558],"type":"Point"}
+  "geometry": {"coordinates":[-3.266923,51.412812],"type":"Point"}
 }

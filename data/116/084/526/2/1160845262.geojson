@@ -2,19 +2,19 @@
   "id": 1160845262,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "1982-12-01",
-    "edtf:inception": "1980-01-01",
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-09-01",
     "geom:area": 0,
-    "geom:bbox": "-3.504660,54.519119,-3.504660,54.519119",
-    "geom:latitude": 54.519119,
-    "geom:longitude": -3.50466,
+    "geom:bbox": "-3.511035,54.524342,-3.511035,54.524342",
+    "geom:latitude": 54.524342,
+    "geom:longitude": -3.511035,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000006",
     "os:district_code": "E07000029",
-    "os:positional_quality_indicator": "8",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
@@ -28,7 +28,7 @@
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583792571,
-    "wof:geomhash": "2e96bcaa1d05308d25da6b96d526e59f",
+    "wof:geomhash": "adb6b7be50d3082ac6b53d4b7e6c9f6f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160845262,
-    "wof:lastmodified": 1583792571,
+    "wof:lastmodified": 1609870745,
     "wof:name": "CA25 5EG",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.50466, 
-    54.519119, 
-    -3.50466, 
-    54.519119
+    -3.511035, 
+    54.524342, 
+    -3.511035, 
+    54.524342
   ],
-  "geometry": {"coordinates":[-3.50466,54.519119],"type":"Point"}
+  "geometry": {"coordinates":[-3.511035,54.524342],"type":"Point"}
 }

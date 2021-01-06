@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.530063,51.382235,0.530063,51.382235",
-    "geom:latitude": 51.382235,
-    "geom:longitude": 0.530063,
+    "geom:bbox": "0.529649,51.382541,0.529649,51.382541",
+    "geom:latitude": 51.382541,
+    "geom:longitude": 0.529649,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699105, 
-      1360817083, 
-      101750327, 
       404227469, 
       1360698565, 
-      85633159
+      85633159, 
+      1360699105, 
+      1360817083, 
+      101750327
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583793730,
-    "wof:geomhash": "9d53e2cdb4348c5c94282bbca90aa3ef",
+    "wof:geomhash": "4eb7bee6cf390b470e69236ce2eced53",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 38734092,
-    "wof:lastmodified": 1583793730,
+    "wof:lastmodified": 1609868471,
     "wof:name": "ME4 4FR",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.530063, 
-    51.382235, 
-    0.530063, 
-    51.382235
+    0.529649, 
+    51.382541, 
+    0.529649, 
+    51.382541
   ],
-  "geometry": {"coordinates":[0.530063,51.382235],"type":"Point"}
+  "geometry": {"coordinates":[0.529649,51.382541],"type":"Point"}
 }

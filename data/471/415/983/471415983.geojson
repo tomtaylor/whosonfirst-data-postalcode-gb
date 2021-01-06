@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1986-07-01",
     "geom:area": 0,
-    "geom:bbox": "-4.090170,50.494574,-4.090170,50.494574",
-    "geom:latitude": 50.494574,
-    "geom:longitude": -4.09017,
+    "geom:bbox": "-4.090019,50.494352,-4.090019,50.494352",
+    "geom:latitude": 50.494352,
+    "geom:longitude": -4.090019,
     "gp:parent_id": "41374",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1126010411, 
       404227469, 
       1360698541, 
       85633159, 
       1360699081, 
-      404439053
+      404439053, 
+      1126010411
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701574,
-    "wof:geomhash": "cc2124cc7d904b518267957539fd2588",
+    "wof:geomhash": "11afea4c9db951d3a4350b0717c71080",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471415983,
-    "wof:lastmodified": 1583786733,
+    "wof:lastmodified": 1609891214,
     "wof:name": "PL20 6HT",
     "wof:parent_id": 404439053,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.09017, 
-    50.494574, 
-    -4.09017, 
-    50.494574
+    -4.090019, 
+    50.494352, 
+    -4.090019, 
+    50.494352
   ],
-  "geometry": {"coordinates":[-4.09017,50.494574],"type":"Point"}
+  "geometry": {"coordinates":[-4.090019,50.494352],"type":"Point"}
 }

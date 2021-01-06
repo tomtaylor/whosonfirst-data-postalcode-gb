@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1999-06-01",
     "geom:area": 0,
-    "geom:bbox": "-3.049627,51.555224,-3.049627,51.555224",
-    "geom:latitude": 51.555224,
-    "geom:longitude": -3.049627,
+    "geom:bbox": "-3.049978,51.555079,-3.049978,51.555079",
+    "geom:latitude": 51.555079,
+    "geom:longitude": -3.049978,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698641, 
-      85633159, 
-      1360698735, 
       404448279, 
       1125974177, 
-      404227475
+      404227475, 
+      1360698641, 
+      85633159, 
+      1360698735
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701407,
-    "wof:geomhash": "e3707e2ce25c13cc5cbe31584724050a",
+    "wof:geomhash": "d2b4f0ecee0efc71c5be22c230565aae",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 504531355,
-    "wof:lastmodified": 1583786535,
+    "wof:lastmodified": 1609877987,
     "wof:name": "NP10 8TR",
     "wof:parent_id": 404448279,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.049627, 
-    51.555224, 
-    -3.049627, 
-    51.555224
+    -3.049978, 
+    51.555079, 
+    -3.049978, 
+    51.555079
   ],
-  "geometry": {"coordinates":[-3.049627,51.555224],"type":"Point"}
+  "geometry": {"coordinates":[-3.049978,51.555079],"type":"Point"}
 }

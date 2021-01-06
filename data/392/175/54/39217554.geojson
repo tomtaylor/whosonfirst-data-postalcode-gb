@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-05-01",
     "geom:area": 0,
-    "geom:bbox": "-2.436691,53.112099,-2.436691,53.112099",
-    "geom:latitude": 53.112099,
-    "geom:longitude": -2.436691,
+    "geom:bbox": "-2.436378,53.112244,-2.436378,53.112244",
+    "geom:latitude": 53.112244,
+    "geom:longitude": -2.436378,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      101750515, 
-      404227469, 
       1360698537, 
       85633159, 
       1360698929, 
-      404441439
+      404441439, 
+      101750515, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583799008,
-    "wof:geomhash": "34e3d2e01e4a8f69add372b8e2d906fb",
+    "wof:geomhash": "aba00d1328721a74f3154260a02061a8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 39217554,
-    "wof:lastmodified": 1595711072,
+    "wof:lastmodified": 1609868451,
     "wof:name": "CW1 4SJ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.436691, 
-    53.112099, 
-    -2.436691, 
-    53.112099
+    -2.436378, 
+    53.112244, 
+    -2.436378, 
+    53.112244
   ],
-  "geometry": {"coordinates":[-2.436691,53.112099],"type":"Point"}
+  "geometry": {"coordinates":[-2.436378,53.112244],"type":"Point"}
 }

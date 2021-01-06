@@ -6,9 +6,9 @@
     "edtf:inception": "2014-05-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.221711,51.520632,-0.221711,51.520632",
-    "geom:latitude": 51.520632,
-    "geom:longitude": -0.221711,
+    "geom:bbox": "-0.221673,51.520606,-0.221673,51.520606",
+    "geom:latitude": 51.520606,
+    "geom:longitude": -0.221673,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,17 +19,17 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      85789461, 
-      1360698645, 
       1158857317, 
       85633159, 
-      101750367
+      101750367, 
+      404227469, 
+      85789461, 
+      1360698645
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468903657,
-    "wof:geomhash": "00ef5bdf6d767dbcd06ec150cf9601f3",
+    "wof:geomhash": "2b5f1c6c719ab591a9a07f0f715237e5",
     "wof:hierarchy": [
       {
         "borough_id": 1158857317,
@@ -41,7 +41,7 @@
       }
     ],
     "wof:id": 890279997,
-    "wof:lastmodified": 1583786277,
+    "wof:lastmodified": 1609869691,
     "wof:name": "W10 6BT",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -51,10 +51,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.221711, 
-    51.520632, 
-    -0.221711, 
-    51.520632
+    -0.221673, 
+    51.520606, 
+    -0.221673, 
+    51.520606
   ],
-  "geometry": {"coordinates":[-0.221711,51.520632],"type":"Point"}
+  "geometry": {"coordinates":[-0.221673,51.520606],"type":"Point"}
 }

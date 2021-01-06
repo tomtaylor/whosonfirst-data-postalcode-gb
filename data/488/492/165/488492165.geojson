@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1996-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.041352,57.576620,-2.041352,57.576620",
-    "geom:latitude": 57.57662,
-    "geom:longitude": -2.041352,
+    "geom:bbox": "-2.049504,57.579800,-2.049504,57.579800",
+    "geom:latitude": 57.5798,
+    "geom:longitude": -2.049504,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,11 +18,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227471, 
-      1360698713, 
       85633159, 
       1360699031, 
-      404448747
+      404448747, 
+      404227471, 
+      1360698713
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -30,7 +30,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701505,
-    "wof:geomhash": "671d76040a94b8cb2e5c79048a9b4744",
+    "wof:geomhash": "447573abbaa0a4f32f8d9ff095ce0cc0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -41,7 +41,7 @@
       }
     ],
     "wof:id": 488492165,
-    "wof:lastmodified": 1583786708,
+    "wof:lastmodified": 1609894204,
     "wof:name": "AB43 6RJ",
     "wof:parent_id": 404448747,
     "wof:placetype": "postalcode",
@@ -51,10 +51,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.041352, 
-    57.57662, 
-    -2.041352, 
-    57.57662
+    -2.049504, 
+    57.5798, 
+    -2.049504, 
+    57.5798
   ],
-  "geometry": {"coordinates":[-2.041352,57.57662],"type":"Point"}
+  "geometry": {"coordinates":[-2.049504,57.5798],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.852875,54.302992,-2.852875,54.302992",
-    "geom:latitude": 54.302992,
-    "geom:longitude": -2.852875,
+    "geom:bbox": "-2.853214,54.302998,-2.853214,54.302998",
+    "geom:latitude": 54.302998,
+    "geom:longitude": -2.853214,
     "gp:parent_id": "28085",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698721, 
-      85633159, 
       1360698877, 
       404450841, 
       1360755773, 
-      404227469
+      404227469, 
+      1360698721, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701063,
-    "wof:geomhash": "681e505ecf0d0ae342cc1274f14b09a5",
+    "wof:geomhash": "9c6c28b06e8fb4a517594d6e2d48a20c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 455000899,
-    "wof:lastmodified": 1583786172,
+    "wof:lastmodified": 1609876968,
     "wof:name": "LA8 8DA",
     "wof:parent_id": 404450841,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.852875, 
-    54.302992, 
-    -2.852875, 
-    54.302992
+    -2.853214, 
+    54.302998, 
+    -2.853214, 
+    54.302998
   ],
-  "geometry": {"coordinates":[-2.852875,54.302992],"type":"Point"}
+  "geometry": {"coordinates":[-2.853214,54.302998],"type":"Point"}
 }

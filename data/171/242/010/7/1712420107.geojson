@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-06-01",
     "geom:area": 0,
-    "geom:bbox": "-0.632189,51.919992,-0.632189,51.919992",
-    "geom:latitude": 51.919992,
-    "geom:longitude": -0.632189,
+    "geom:bbox": "-0.632174,51.920000,-0.632174,51.920000",
+    "geom:latitude": 51.92,
+    "geom:longitude": -0.632174,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698527, 
       85633159, 
       1360698767, 
       404436667, 
-      1360758783
+      1360758783, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583787246,
-    "wof:geomhash": "3cf41d7ccf3cf03c0553cb4d9f183f75",
+    "wof:geomhash": "eecb990c6dd80262e0e7b0a2bab27349",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712420107,
-    "wof:lastmodified": 1595710923,
+    "wof:lastmodified": 1609868649,
     "wof:name": "LU7 3FZ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.632189, 
-    51.919992, 
-    -0.632189, 
-    51.919992
+    -0.632174, 
+    51.92, 
+    -0.632174, 
+    51.92
   ],
-  "geometry": {"coordinates":[-0.632189,51.919992],"type":"Point"}
+  "geometry": {"coordinates":[-0.632174,51.92],"type":"Point"}
 }

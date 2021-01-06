@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.375054,55.921976,-3.375054,55.921976",
-    "geom:latitude": 55.921976,
-    "geom:longitude": -3.375054,
+    "geom:bbox": "-3.375213,55.921956,-3.375213,55.921956",
+    "geom:latitude": 55.921956,
+    "geom:longitude": -3.375213,
     "gp:parent_id": "12696195",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85861497, 
-      1360698673, 
       85633159, 
       1360698761, 
       404437279, 
       101750629, 
-      404227471
+      404227471, 
+      85861497, 
+      1360698673
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701628,
-    "wof:geomhash": "a5c8e25df4b3e95bc6061c21d9022f06",
+    "wof:geomhash": "8c5a4dee25aaf3d948fb5cd793c7ad78",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 488633095,
-    "wof:lastmodified": 1583786828,
+    "wof:lastmodified": 1609899365,
     "wof:name": "EH28 8PE",
     "wof:parent_id": 404437279,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.375054, 
-    55.921976, 
-    -3.375054, 
-    55.921976
+    -3.375213, 
+    55.921956, 
+    -3.375213, 
+    55.921956
   ],
-  "geometry": {"coordinates":[-3.375054,55.921976],"type":"Point"}
+  "geometry": {"coordinates":[-3.375213,55.921956],"type":"Point"}
 }

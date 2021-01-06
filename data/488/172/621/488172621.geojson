@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.252639,52.244604,-2.252639,52.244604",
-    "geom:latitude": 52.244604,
-    "geom:longitude": -2.252639,
+    "geom:bbox": "-2.252335,52.245108,-2.252335,52.245108",
+    "geom:latitude": 52.245108,
+    "geom:longitude": -2.252335,
     "gp:parent_id": "22201",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699043, 
       404444045, 
       1125908349, 
       404227469, 
-      1360698613
+      1360698613, 
+      85633159, 
+      1360699043
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701291,
-    "wof:geomhash": "9a1d9d34ce18868b5d6525e9331d25a0",
+    "wof:geomhash": "50d184ebe80fcc9e8a22939f6363f352",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488172621,
-    "wof:lastmodified": 1583786272,
+    "wof:lastmodified": 1609878332,
     "wof:name": "WR2 6LS",
     "wof:parent_id": 404447961,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.252639, 
-    52.244604, 
-    -2.252639, 
-    52.244604
+    -2.252335, 
+    52.245108, 
+    -2.252335, 
+    52.245108
   ],
-  "geometry": {"coordinates":[-2.252639,52.244604],"type":"Point"}
+  "geometry": {"coordinates":[-2.252335,52.245108],"type":"Point"}
 }

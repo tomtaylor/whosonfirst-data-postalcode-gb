@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1987-04-01",
     "geom:area": 0,
-    "geom:bbox": "-2.806719,52.542380,-2.806719,52.542380",
-    "geom:latitude": 52.54238,
-    "geom:longitude": -2.806719,
+    "geom:bbox": "-2.806690,52.542404,-2.806690,52.542404",
+    "geom:latitude": 52.542404,
+    "geom:longitude": -2.80669,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698587, 
       85633159, 
       1360698821, 
       404435613, 
-      1209850909, 
-      404227469, 
-      1360698587
+      1209850909
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701168,
-    "wof:geomhash": "d794eaa8f8992f4289175a98fa0417fd",
+    "wof:geomhash": "acccdc5b9ea4d842c5edcc16a1a80c43",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 487789715,
-    "wof:lastmodified": 1583786271,
+    "wof:lastmodified": 1609879939,
     "wof:name": "SY6 6EW",
     "wof:parent_id": 101853633,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.806719, 
-    52.54238, 
-    -2.806719, 
-    52.54238
+    -2.80669, 
+    52.542404, 
+    -2.80669, 
+    52.542404
   ],
-  "geometry": {"coordinates":[-2.806719,52.54238],"type":"Point"}
+  "geometry": {"coordinates":[-2.80669,52.542404],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.208816,51.417282,-0.208816,51.417282",
-    "geom:latitude": 51.417282,
-    "geom:longitude": -0.208816,
+    "geom:bbox": "-0.208958,51.417320,-0.208958,51.417320",
+    "geom:latitude": 51.41732,
+    "geom:longitude": -0.208958,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698645, 
-      1158857305, 
-      85633159, 
       101750367, 
       404227469, 
-      85791675
+      85791675, 
+      1360698645, 
+      1158857305, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701147,
-    "wof:geomhash": "f603b7463e735c131cf943d5c3d56d00",
+    "wof:geomhash": "0caf4b8588d222d855e86989d6e8706f",
     "wof:hierarchy": [
       {
         "borough_id": 1158857305,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 487746123,
-    "wof:lastmodified": 1583786249,
+    "wof:lastmodified": 1609877569,
     "wof:name": "SW19 3QL",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.208816, 
-    51.417282, 
-    -0.208816, 
-    51.417282
+    -0.208958, 
+    51.41732, 
+    -0.208958, 
+    51.41732
   ],
-  "geometry": {"coordinates":[-0.208816,51.417282],"type":"Point"}
+  "geometry": {"coordinates":[-0.208958,51.41732],"type":"Point"}
 }

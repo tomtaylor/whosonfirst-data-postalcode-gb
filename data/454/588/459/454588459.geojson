@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.078110,51.005330,-4.078110,51.005330",
-    "geom:latitude": 51.00533,
-    "geom:longitude": -4.07811,
+    "geom:bbox": "-4.069907,51.006780,-4.069907,51.006780",
+    "geom:latitude": 51.00678,
+    "geom:longitude": -4.069907,
     "gp:parent_id": "41333",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404440205, 
-      1360756043, 
-      404227469, 
       1360698541, 
       85633159, 
-      1360699081
+      1360699081, 
+      404440205, 
+      1360756043, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701650,
-    "wof:geomhash": "87d4d7dfe85e51bb11419b9d16b5f91b",
+    "wof:geomhash": "0a31c27319fd36d75bbef2d6b2dcb42d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454588459,
-    "wof:lastmodified": 1583786785,
+    "wof:lastmodified": 1609895768,
     "wof:name": "EX31 3LJ",
     "wof:parent_id": 404440205,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.07811, 
-    51.00533, 
-    -4.07811, 
-    51.00533
+    -4.069907, 
+    51.00678, 
+    -4.069907, 
+    51.00678
   ],
-  "geometry": {"coordinates":[-4.07811,51.00533],"type":"Point"}
+  "geometry": {"coordinates":[-4.069907,51.00678],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.507731,52.190485,-2.507731,52.190485",
-    "geom:latitude": 52.190485,
-    "geom:longitude": -2.507731,
+    "geom:bbox": "-2.507436,52.190297,-2.507436,52.190297",
+    "geom:latitude": 52.190297,
+    "geom:longitude": -2.507436,
     "gp:parent_id": "14130",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699053, 
       404444441, 
       1360758837, 
       404227469, 
-      1360698617
+      1360698617, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701718,
-    "wof:geomhash": "a69ddca8638d800ca0ae53793e0cda37",
+    "wof:geomhash": "735059aa7310e373cfbb324caa96140b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454804591,
-    "wof:lastmodified": 1583786859,
+    "wof:lastmodified": 1609902496,
     "wof:name": "HR7 4DY",
     "wof:parent_id": 404444441,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.507731, 
-    52.190485, 
-    -2.507731, 
-    52.190485
+    -2.507436, 
+    52.190297, 
+    -2.507436, 
+    52.190297
   ],
-  "geometry": {"coordinates":[-2.507731,52.190485],"type":"Point"}
+  "geometry": {"coordinates":[-2.507436,52.190297],"type":"Point"}
 }

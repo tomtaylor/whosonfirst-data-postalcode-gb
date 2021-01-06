@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.862597,51.946971,0.862597,51.946971",
-    "geom:latitude": 51.946971,
-    "geom:longitude": 0.862597,
+    "geom:bbox": "0.862490,51.946851,0.862490,51.946851",
+    "geom:latitude": 51.946851,
+    "geom:longitude": 0.86249,
     "gp:parent_id": "21659",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698551, 
       85633159, 
       1360698979, 
       404441579, 
-      1125966365
+      1125966365, 
+      404227469, 
+      1360698551
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701355,
-    "wof:geomhash": "08791a7a9c444514690f863c2126a154",
+    "wof:geomhash": "a0990c28d8837e11a66f72b2b4585dab",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454191053,
-    "wof:lastmodified": 1583786485,
+    "wof:lastmodified": 1609877254,
     "wof:name": "CO6 4BZ",
     "wof:parent_id": 404441579,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.862597, 
-    51.946971, 
-    0.862597, 
-    51.946971
+    0.86249, 
+    51.946851, 
+    0.86249, 
+    51.946851
   ],
-  "geometry": {"coordinates":[0.862597,51.946971],"type":"Point"}
+  "geometry": {"coordinates":[0.86249,51.946851],"type":"Point"}
 }

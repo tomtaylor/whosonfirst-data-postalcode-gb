@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "0.226884,51.620108,0.226884,51.620108",
-    "geom:latitude": 51.620108,
-    "geom:longitude": 0.226884,
+    "geom:bbox": "0.226809,51.620055,0.226809,51.620055",
+    "geom:latitude": 51.620055,
+    "geom:longitude": 0.226809,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,11 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      1158857313, 
       85633159, 
       101750367, 
       404227469, 
-      85787951, 
-      1360698645, 
-      1158857313
+      1360698645
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,19 +31,18 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701682,
-    "wof:geomhash": "6a2de4d58cea7c2e9a7a5b96863ae742",
+    "wof:geomhash": "c768c30c8106b8e88859e3d8d3a3f2e6",
     "wof:hierarchy": [
       {
         "borough_id": 1158857313,
         "country_id": 85633159,
         "locality_id": 101750367,
         "macroregion_id": 404227469,
-        "neighbourhood_id": 85787951,
         "region_id": 1360698645
       }
     ],
     "wof:id": 471616751,
-    "wof:lastmodified": 1583786838,
+    "wof:lastmodified": 1609899162,
     "wof:name": "RM3 7LU",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.226884, 
-    51.620108, 
-    0.226884, 
-    51.620108
+    0.226809, 
+    51.620055, 
+    0.226809, 
+    51.620055
   ],
-  "geometry": {"coordinates":[0.226884,51.620108],"type":"Point"}
+  "geometry": {"coordinates":[0.226809,51.620055],"type":"Point"}
 }

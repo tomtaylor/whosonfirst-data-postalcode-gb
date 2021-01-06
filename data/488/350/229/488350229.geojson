@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2008-04-01",
     "geom:area": 0,
-    "geom:bbox": "-0.096519,51.004116,-0.096519,51.004116",
-    "geom:latitude": 51.004116,
-    "geom:longitude": -0.096519,
+    "geom:bbox": "-0.096735,51.004075,-0.096735,51.004075",
+    "geom:latitude": 51.004075,
+    "geom:longitude": -0.096735,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1293524743, 
-      404227469, 
-      1360698607, 
       85633159, 
       1360698757, 
-      404445831
+      404445831, 
+      1293524743, 
+      404227469, 
+      1360698607
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701363,
-    "wof:geomhash": "056358b03c8c6cedbaf719ad3189590b",
+    "wof:geomhash": "181bd3a95c8b01df0750f13311b5ca74",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 488350229,
-    "wof:lastmodified": 1583786559,
+    "wof:lastmodified": 1609887762,
     "wof:name": "RH16 3EW",
     "wof:parent_id": 101854599,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.096519, 
-    51.004116, 
-    -0.096519, 
-    51.004116
+    -0.096735, 
+    51.004075, 
+    -0.096735, 
+    51.004075
   ],
-  "geometry": {"coordinates":[-0.096519,51.004116],"type":"Point"}
+  "geometry": {"coordinates":[-0.096735,51.004075],"type":"Point"}
 }

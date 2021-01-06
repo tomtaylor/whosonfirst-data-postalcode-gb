@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-09-01",
     "geom:area": 0,
-    "geom:bbox": "0.834737,52.478142,0.834737,52.478142",
-    "geom:latitude": 52.478142,
-    "geom:longitude": 0.834737,
+    "geom:bbox": "0.834670,52.478252,0.834670,52.478252",
+    "geom:latitude": 52.478252,
+    "geom:longitude": 0.83467,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698575, 
       85633159, 
       1360698955, 
       404442113, 
-      1360757533
+      1360757533, 
+      404227469, 
+      1360698575
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583790559,
-    "wof:geomhash": "0183a316174f669dff346d976984a890",
+    "wof:geomhash": "910321ef67aa5bd1ebc5ec5fcbf1fb56",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160800234,
-    "wof:lastmodified": 1583790559,
+    "wof:lastmodified": 1609869924,
     "wof:name": "IP24 1FP",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.834737, 
-    52.478142, 
-    0.834737, 
-    52.478142
+    0.83467, 
+    52.478252, 
+    0.83467, 
+    52.478252
   ],
-  "geometry": {"coordinates":[0.834737,52.478142],"type":"Point"}
+  "geometry": {"coordinates":[0.83467,52.478252],"type":"Point"}
 }

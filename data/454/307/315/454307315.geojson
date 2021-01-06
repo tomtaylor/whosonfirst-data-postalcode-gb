@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1982-03-01",
     "geom:area": 0,
-    "geom:bbox": "-2.458881,53.224943,-2.458881,53.224943",
-    "geom:latitude": 53.224943,
-    "geom:longitude": -2.458881,
+    "geom:bbox": "-2.463876,53.224205,-2.463876,53.224205",
+    "geom:latitude": 53.224205,
+    "geom:longitude": -2.463876,
     "gp:parent_id": "40102",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -20,8 +20,8 @@
     "src:geom": "os",
     "wof:belongsto": [
       1360698923, 
-      404445355, 
-      1125863875, 
+      404448685, 
+      1125788657, 
       404227469, 
       1360698537, 
       85633159
@@ -32,19 +32,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701469,
-    "wof:geomhash": "5604179a5b21ccc128cdf96bfc9d07e2",
+    "wof:geomhash": "caa39830117c7d35dbfd2635ad7490f8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360698923,
-        "localadmin_id": 404445355,
-        "locality_id": 1125863875,
+        "localadmin_id": 404448685,
+        "locality_id": 1125788657,
         "macroregion_id": 404227469,
         "region_id": 1360698537
       }
     ],
     "wof:id": 454307315,
-    "wof:lastmodified": 1583786595,
+    "wof:lastmodified": 1609882544,
     "wof:name": "CW9 7SF",
     "wof:parent_id": 404448685,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.458881, 
-    53.224943, 
-    -2.458881, 
-    53.224943
+    -2.463876, 
+    53.224205, 
+    -2.463876, 
+    53.224205
   ],
-  "geometry": {"coordinates":[-2.458881,53.224943],"type":"Point"}
+  "geometry": {"coordinates":[-2.463876,53.224205],"type":"Point"}
 }

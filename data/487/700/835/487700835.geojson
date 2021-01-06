@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2000-12-01",
     "geom:area": 0,
-    "geom:bbox": "-2.014707,52.791607,-2.014707,52.791607",
-    "geom:latitude": 52.791607,
-    "geom:longitude": -2.014707,
+    "geom:bbox": "-2.013657,52.799670,-2.013657,52.799670",
+    "geom:latitude": 52.79967,
+    "geom:longitude": -2.013657,
     "gp:parent_id": "34766",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1125972237, 
-      404227469, 
       1360698593, 
       85633159, 
       1360698947, 
-      404443177
+      404443177, 
+      1125972237, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701128,
-    "wof:geomhash": "890c70f6f53c3407c8d29c628a4e97d7",
+    "wof:geomhash": "4f6a569708cfa4be148b42fa12d4015d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487700835,
-    "wof:lastmodified": 1583786224,
+    "wof:lastmodified": 1609873934,
     "wof:name": "ST17 0XB",
     "wof:parent_id": 404443177,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.014707, 
-    52.791607, 
-    -2.014707, 
-    52.791607
+    -2.013657, 
+    52.79967, 
+    -2.013657, 
+    52.79967
   ],
-  "geometry": {"coordinates":[-2.014707,52.791607],"type":"Point"}
+  "geometry": {"coordinates":[-2.013657,52.79967],"type":"Point"}
 }

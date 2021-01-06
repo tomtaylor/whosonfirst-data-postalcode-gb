@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.360858,51.873027,0.360858,51.873027",
-    "geom:latitude": 51.873027,
-    "geom:longitude": 0.360858,
+    "geom:bbox": "0.360294,51.873100,0.360294,51.873100",
+    "geom:latitude": 51.8731,
+    "geom:longitude": 0.360294,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404440363, 
       101853519, 
       404227469, 
       1360698551, 
       85633159, 
-      1360698979
+      1360698979, 
+      404440363
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701324,
-    "wof:geomhash": "5e148d11e91af0fec032dceed8b3361b",
+    "wof:geomhash": "0596adb70e524ea2a15a8288aafbaafe",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454158943,
-    "wof:lastmodified": 1583786459,
+    "wof:lastmodified": 1609874816,
     "wof:name": "CM6 1DA",
     "wof:parent_id": 101853519,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.360858, 
-    51.873027, 
-    0.360858, 
-    51.873027
+    0.360294, 
+    51.8731, 
+    0.360294, 
+    51.8731
   ],
-  "geometry": {"coordinates":[0.360858,51.873027],"type":"Point"}
+  "geometry": {"coordinates":[0.360294,51.8731],"type":"Point"}
 }

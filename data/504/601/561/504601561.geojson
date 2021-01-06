@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.316310,52.211870,-4.316310,52.211870",
-    "geom:latitude": 52.21187,
-    "geom:longitude": -4.31631,
+    "geom:bbox": "-4.314563,52.211499,-4.314563,52.211499",
+    "geom:latitude": 52.211499,
+    "geom:longitude": -4.314563,
     "gp:parent_id": "12696114",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699113, 
-      404448397, 
-      1293912543, 
       404227475, 
       1360698639, 
-      85633159
+      85633159, 
+      1360699113, 
+      404448397, 
+      1293912543
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701472,
-    "wof:geomhash": "1055d83fb78f58dd71c53c03c989942f",
+    "wof:geomhash": "58b50f1abcd862d305543dc68dce3245",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504601561,
-    "wof:lastmodified": 1583786624,
+    "wof:lastmodified": 1609881830,
     "wof:name": "SA47 0QE",
     "wof:parent_id": 404448397,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.31631, 
-    52.21187, 
-    -4.31631, 
-    52.21187
+    -4.314563, 
+    52.211499, 
+    -4.314563, 
+    52.211499
   ],
-  "geometry": {"coordinates":[-4.31631,52.21187],"type":"Point"}
+  "geometry": {"coordinates":[-4.314563,52.211499],"type":"Point"}
 }

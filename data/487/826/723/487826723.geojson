@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.432943,52.722027,-2.432943,52.722027",
-    "geom:latitude": 52.722027,
-    "geom:longitude": -2.432943,
+    "geom:bbox": "-2.432942,52.721955,-2.432942,52.721955",
+    "geom:latitude": 52.721955,
+    "geom:longitude": -2.432942,
     "gp:parent_id": "18321",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698587, 
       85633159, 
       1360698911, 
       404432301, 
-      1360757307
+      1360757307, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701193,
-    "wof:geomhash": "38f144b43deca55ba848fb116b20e821",
+    "wof:geomhash": "3c8bda0355105456d2540e6df95e2ed5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487826723,
-    "wof:lastmodified": 1583786292,
+    "wof:lastmodified": 1609882006,
     "wof:name": "TF2 8JE",
     "wof:parent_id": 101751611,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.432943, 
-    52.722027, 
-    -2.432943, 
-    52.722027
+    -2.432942, 
+    52.721955, 
+    -2.432942, 
+    52.721955
   ],
-  "geometry": {"coordinates":[-2.432943,52.722027],"type":"Point"}
+  "geometry": {"coordinates":[-2.432942,52.721955],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.966212,51.178828,-0.966212,51.178828",
-    "geom:latitude": 51.178828,
-    "geom:longitude": -0.966212,
+    "geom:bbox": "-0.965839,51.178878,-0.965839,51.178878",
+    "geom:latitude": 51.178878,
+    "geom:longitude": -0.965839,
     "gp:parent_id": "20705",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698557, 
-      85633159, 
-      1360698827, 
       404449819, 
       1343797541, 
-      404227469
+      404227469, 
+      1360698557, 
+      85633159, 
+      1360698827
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701699,
-    "wof:geomhash": "d5cde32957756a749d96b7d2c71c4335",
+    "wof:geomhash": "a78e0030b99b5d93d98c22318ca1c492",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454702123,
-    "wof:lastmodified": 1583786840,
+    "wof:lastmodified": 1609899740,
     "wof:name": "GU34 4DH",
     "wof:parent_id": 404449819,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.966212, 
-    51.178828, 
-    -0.966212, 
-    51.178828
+    -0.965839, 
+    51.178878, 
+    -0.965839, 
+    51.178878
   ],
-  "geometry": {"coordinates":[-0.966212,51.178828],"type":"Point"}
+  "geometry": {"coordinates":[-0.965839,51.178878],"type":"Point"}
 }

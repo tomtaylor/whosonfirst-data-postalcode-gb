@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.033303,54.531770,-1.033303,54.531770",
-    "geom:latitude": 54.53177,
-    "geom:longitude": -1.033303,
+    "geom:bbox": "-1.033649,54.532168,-1.033649,54.532168",
+    "geom:latitude": 54.532168,
+    "geom:longitude": -1.033649,
     "gp:parent_id": "21995",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698859, 
       404435015, 
       1125985893, 
       404227469, 
-      1360698619
+      1360698619, 
+      85633159, 
+      1360698859
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701274,
-    "wof:geomhash": "3d3f387a92bd0dcf434d0aed368c6f94",
+    "wof:geomhash": "87ef5294e55c94a243f842376efc64d3",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487938559,
-    "wof:lastmodified": 1583786347,
+    "wof:lastmodified": 1609887615,
     "wof:name": "TS14 7DA",
     "wof:parent_id": 404435015,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.033303, 
-    54.53177, 
-    -1.033303, 
-    54.53177
+    -1.033649, 
+    54.532168, 
+    -1.033649, 
+    54.532168
   ],
-  "geometry": {"coordinates":[-1.033303,54.53177],"type":"Point"}
+  "geometry": {"coordinates":[-1.033649,54.532168],"type":"Point"}
 }

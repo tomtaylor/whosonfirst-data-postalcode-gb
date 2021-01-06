@@ -2,7 +2,7 @@
   "id": 438278889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-05-01",
     "edtf:inception": "1997-12-01",
     "geom:area": 0,
     "geom:bbox": "-2.769183,51.482606,-2.769183,51.482606",
@@ -11,7 +11,7 @@
     "gp:parent_id": "32388",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000024",
@@ -19,13 +19,13 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698589, 
+      85633159, 
       1360699111, 
       404451607, 
       101852675, 
       404227469, 
-      85785419, 
-      1360698589, 
-      85633159
+      85785419
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 438278889,
-    "wof:lastmodified": 1583786604,
+    "wof:lastmodified": 1609883376,
     "wof:name": "BS20 7FE",
     "wof:parent_id": 101852675,
     "wof:placetype": "postalcode",

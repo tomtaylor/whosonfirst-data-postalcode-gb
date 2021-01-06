@@ -6,9 +6,9 @@
     "edtf:inception": "2004-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.086899,51.581350,-0.086899,51.581350",
-    "geom:latitude": 51.58135,
-    "geom:longitude": -0.086899,
+    "geom:bbox": "-0.086528,51.581320,-0.086528,51.581320",
+    "geom:latitude": 51.58132,
+    "geom:longitude": -0.086528,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      1158857279, 
-      85633159, 
-      101750367, 
       404227469, 
       85860347, 
-      1360698645
+      1360698645, 
+      1158857279, 
+      85633159, 
+      101750367
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701068,
-    "wof:geomhash": "36cb73ddbfaa5dc7dced0c573c6dac90",
+    "wof:geomhash": "d844b348c96e4779827893cfb7fac6b3",
     "wof:hierarchy": [
       {
         "borough_id": 1158857279,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471004963,
-    "wof:lastmodified": 1583786182,
+    "wof:lastmodified": 1609868719,
     "wof:name": "N15 5BP",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.086899, 
-    51.58135, 
-    -0.086899, 
-    51.58135
+    -0.086528, 
+    51.58132, 
+    -0.086528, 
+    51.58132
   ],
-  "geometry": {"coordinates":[-0.086899,51.58135],"type":"Point"}
+  "geometry": {"coordinates":[-0.086528,51.58132],"type":"Point"}
 }

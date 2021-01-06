@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.298680,51.113720,0.298680,51.113720",
-    "geom:latitude": 51.11372,
-    "geom:longitude": 0.29868,
+    "geom:bbox": "0.299133,51.114215,0.299133,51.114215",
+    "geom:latitude": 51.114215,
+    "geom:longitude": 0.299133,
     "gp:parent_id": "12316",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698815, 
+      404450849, 
       1125950147, 
       404227469, 
       1360698549, 
-      85633159, 
-      1360698815, 
-      404450849
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701217,
-    "wof:geomhash": "64a515d5859d280a03bc1dc21c54c3fb",
+    "wof:geomhash": "02fb78d49c32add6f4d85a9b29862049",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487865045,
-    "wof:lastmodified": 1595724590,
+    "wof:lastmodified": 1609884014,
     "wof:name": "TN3 9AN",
     "wof:parent_id": 404450849,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.29868, 
-    51.11372, 
-    0.29868, 
-    51.11372
+    0.299133, 
+    51.114215, 
+    0.299133, 
+    51.114215
   ],
-  "geometry": {"coordinates":[0.29868,51.11372],"type":"Point"}
+  "geometry": {"coordinates":[0.299133,51.114215],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.661936,53.295107,-2.661936,53.295107",
-    "geom:latitude": 53.295107,
-    "geom:longitude": -2.661936,
+    "geom:bbox": "-2.662184,53.295672,-2.662184,53.295672",
+    "geom:latitude": 53.295672,
+    "geom:longitude": -2.662184,
     "gp:parent_id": "11303",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698537, 
       85633159, 
       1360698923, 
       404449987, 
-      1360754491, 
-      404227469, 
-      1360698537
+      1360754491
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701236,
-    "wof:geomhash": "3f90901ff0dc0075a4afad303e1ca2cb",
+    "wof:geomhash": "fbe09bd247e92030bbbd7258e1d60b82",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488085505,
-    "wof:lastmodified": 1583786401,
+    "wof:lastmodified": 1609871960,
     "wof:name": "WA7 3DF",
     "wof:parent_id": 404449987,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.661936, 
-    53.295107, 
-    -2.661936, 
-    53.295107
+    -2.662184, 
+    53.295672, 
+    -2.662184, 
+    53.295672
   ],
-  "geometry": {"coordinates":[-2.661936,53.295107],"type":"Point"}
+  "geometry": {"coordinates":[-2.662184,53.295672],"type":"Point"}
 }

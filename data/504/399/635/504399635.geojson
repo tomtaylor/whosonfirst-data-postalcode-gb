@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.237526,55.849499,-4.237526,55.849499",
-    "geom:latitude": 55.849499,
-    "geom:longitude": -4.237526,
+    "geom:bbox": "-4.237530,55.849530,-4.237530,55.849530",
+    "geom:latitude": 55.84953,
+    "geom:longitude": -4.23753,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698797, 
       404430153, 
       1175612707, 
       404227471, 
       85791119, 
       1360698707, 
-      85633159
+      85633159, 
+      1360698797
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701150,
-    "wof:geomhash": "60ac5df2566ec5d86b2fc968f60adf38",
+    "wof:geomhash": "106c484dacdb6fc03b834abb0e18fb47",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 504399635,
-    "wof:lastmodified": 1583786251,
+    "wof:lastmodified": 1609869516,
     "wof:name": "G40 1BA",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.237526, 
-    55.849499, 
-    -4.237526, 
-    55.849499
+    -4.23753, 
+    55.84953, 
+    -4.23753, 
+    55.84953
   ],
-  "geometry": {"coordinates":[-4.237526,55.849499],"type":"Point"}
+  "geometry": {"coordinates":[-4.23753,55.84953],"type":"Point"}
 }

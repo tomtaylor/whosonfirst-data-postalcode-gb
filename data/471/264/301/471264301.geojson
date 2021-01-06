@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.232033,51.583918,-0.232033,51.583918",
-    "geom:latitude": 51.583918,
-    "geom:longitude": -0.232033,
+    "geom:bbox": "-0.232002,51.583980,-0.232002,51.583980",
+    "geom:latitude": 51.58398,
+    "geom:longitude": -0.232002,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      101750367, 
       404227469, 
       85788129, 
       1360698645, 
-      1158857285
+      1158857285, 
+      85633159, 
+      101750367
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701449,
-    "wof:geomhash": "393d01bedbe78050bc6e287d9967123c",
+    "wof:geomhash": "a38f68d51524db8bca84450588b35a8d",
     "wof:hierarchy": [
       {
         "borough_id": 1158857285,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471264301,
-    "wof:lastmodified": 1583786602,
+    "wof:lastmodified": 1609883254,
     "wof:name": "NW4 3RR",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.232033, 
-    51.583918, 
-    -0.232033, 
-    51.583918
+    -0.232002, 
+    51.58398, 
+    -0.232002, 
+    51.58398
   ],
-  "geometry": {"coordinates":[-0.232033,51.583918],"type":"Point"}
+  "geometry": {"coordinates":[-0.232002,51.58398],"type":"Point"}
 }

@@ -2,7 +2,7 @@
   "id": 1713328315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-07-01",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
     "geom:bbox": "-3.222940,55.828119,-3.222940,55.828119",
@@ -10,7 +10,7 @@
     "geom:longitude": -3.22294,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "S92000003",
     "os:county_code": "S99999999",
     "os:district_code": "S12000019",
@@ -18,11 +18,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      404227471, 
+      1360698677, 
       85633159, 
       1360698791, 
-      404436513, 
-      404227471, 
-      1360698677
+      404436513
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1713328315,
-    "wof:lastmodified": 1595753414,
+    "wof:lastmodified": 1609875295,
     "wof:name": "EH26 6AE",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

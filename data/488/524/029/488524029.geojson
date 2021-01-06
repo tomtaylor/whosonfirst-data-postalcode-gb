@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.191201,55.866847,-4.191201,55.866847",
-    "geom:latitude": 55.866847,
-    "geom:longitude": -4.191201,
+    "geom:bbox": "-4.191857,55.867141,-4.191857,55.867141",
+    "geom:latitude": 55.867141,
+    "geom:longitude": -4.191857,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1175612707, 
       404227471, 
       85792585, 
       1360698707, 
       85633159, 
       1360698797, 
-      404430153
+      404430153, 
+      1175612707
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701537,
-    "wof:geomhash": "0815285d02a390e42fe09a0f3df24e16",
+    "wof:geomhash": "13c2b03f7055c642a711f7a1cd34637b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 488524029,
-    "wof:lastmodified": 1583786734,
+    "wof:lastmodified": 1609895267,
     "wof:name": "G33 2QJ",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.191201, 
-    55.866847, 
-    -4.191201, 
-    55.866847
+    -4.191857, 
+    55.867141, 
+    -4.191857, 
+    55.867141
   ],
-  "geometry": {"coordinates":[-4.191201,55.866847],"type":"Point"}
+  "geometry": {"coordinates":[-4.191857,55.867141],"type":"Point"}
 }

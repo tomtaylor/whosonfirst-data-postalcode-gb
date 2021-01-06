@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-09-01",
     "geom:area": 0,
-    "geom:bbox": "-1.562676,52.357148,-1.562676,52.357148",
-    "geom:latitude": 52.357148,
-    "geom:longitude": -1.562676,
+    "geom:bbox": "-1.562863,52.357562,-1.562863,52.357562",
+    "geom:latitude": 52.357562,
+    "geom:longitude": -1.562863,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      404434429, 
-      1125883391, 
       404227469, 
       1360698603, 
       85633159, 
-      1360698891
+      1360698891, 
+      404432767, 
+      101853077
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,19 +31,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701171,
-    "wof:geomhash": "0af0aea6409fbf7fa1a68a8dc8d84054",
+    "wof:geomhash": "2135023a0743ca77c1b5dbdafbef9db5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360698891,
-        "localadmin_id": 404434429,
-        "locality_id": 1125883391,
+        "localadmin_id": 404432767,
+        "locality_id": 101853077,
         "macroregion_id": 404227469,
         "region_id": 1360698603
       }
     ],
     "wof:id": 437436561,
-    "wof:lastmodified": 1595712434,
+    "wof:lastmodified": 1609870748,
     "wof:name": "CV8 2LQ",
     "wof:parent_id": "101853079",
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.562676, 
-    52.357148, 
-    -1.562676, 
-    52.357148
+    -1.562863, 
+    52.357562, 
+    -1.562863, 
+    52.357562
   ],
-  "geometry": {"coordinates":[-1.562676,52.357148],"type":"Point"}
+  "geometry": {"coordinates":[-1.562863,52.357562],"type":"Point"}
 }

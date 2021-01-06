@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.856083,55.755130,-4.856083,55.755130",
-    "geom:latitude": 55.75513,
-    "geom:longitude": -4.856083,
+    "geom:bbox": "-4.856273,55.754743,-4.856273,55.754743",
+    "geom:latitude": 55.754743,
+    "geom:longitude": -4.856273,
     "gp:parent_id": "12696203",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227471, 
-      1360698697, 
       85633159, 
       1360698855, 
-      404441385
+      404441385, 
+      404227471, 
+      1360698697
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701330,
-    "wof:geomhash": "abc6790035b83e3a282da9014369ba07",
+    "wof:geomhash": "ee72cc2bce6518afa4bf4cfd4d7f26bd",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504455689,
-    "wof:lastmodified": 1583786444,
+    "wof:lastmodified": 1609872370,
     "wof:name": "KA29 0DL",
     "wof:parent_id": 101873535,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.856083, 
-    55.75513, 
-    -4.856083, 
-    55.75513
+    -4.856273, 
+    55.754743, 
+    -4.856273, 
+    55.754743
   ],
-  "geometry": {"coordinates":[-4.856083,55.75513],"type":"Point"}
+  "geometry": {"coordinates":[-4.856273,55.754743],"type":"Point"}
 }

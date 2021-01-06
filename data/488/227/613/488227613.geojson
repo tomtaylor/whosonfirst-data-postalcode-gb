@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.444430,54.239327,-0.444430,54.239327",
-    "geom:latitude": 54.239327,
-    "geom:longitude": -0.44443,
+    "geom:bbox": "-0.444448,54.239255,-0.444448,54.239255",
+    "geom:latitude": 54.239255,
+    "geom:longitude": -0.444448,
     "gp:parent_id": "34286",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698753, 
       404435777, 
       1125944617, 
       404227469, 
-      1360698619
+      1360698619, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701164,
-    "wof:geomhash": "f93cd482ab923e530b9378fbf20000f8",
+    "wof:geomhash": "ba4d8c455119d6885da99863ec86509a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488227613,
-    "wof:lastmodified": 1583786416,
+    "wof:lastmodified": 1609881322,
     "wof:name": "YO12 4RF",
     "wof:parent_id": 101874187,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.44443, 
-    54.239327, 
-    -0.44443, 
-    54.239327
+    -0.444448, 
+    54.239255, 
+    -0.444448, 
+    54.239255
   ],
-  "geometry": {"coordinates":[-0.44443,54.239327],"type":"Point"}
+  "geometry": {"coordinates":[-0.444448,54.239255],"type":"Point"}
 }

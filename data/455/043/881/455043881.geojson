@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1992-08-01",
     "geom:area": 0,
-    "geom:bbox": "-1.075576,52.695684,-1.075576,52.695684",
-    "geom:latitude": 52.695684,
-    "geom:longitude": -1.075576,
+    "geom:bbox": "-1.075466,52.695667,-1.075466,52.695667",
+    "geom:latitude": 52.695667,
+    "geom:longitude": -1.075466,
     "gp:parent_id": "36860",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      1125918707, 
       404227469, 
       1360698569, 
       85633159, 
       1360698871, 
-      404440611, 
-      1125918707
+      404440611
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701125,
-    "wof:geomhash": "07d888da10e168530bbcfbc86aaf871a",
+    "wof:geomhash": "87f2bec574f4b55165646671a1061501",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 455043881,
-    "wof:lastmodified": 1583786246,
+    "wof:lastmodified": 1609869778,
     "wof:name": "LE7 2JA",
     "wof:parent_id": 404440611,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.075576, 
-    52.695684, 
-    -1.075576, 
-    52.695684
+    -1.075466, 
+    52.695667, 
+    -1.075466, 
+    52.695667
   ],
-  "geometry": {"coordinates":[-1.075576,52.695684],"type":"Point"}
+  "geometry": {"coordinates":[-1.075466,52.695667],"type":"Point"}
 }

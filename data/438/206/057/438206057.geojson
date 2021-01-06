@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.387814,50.811123,-0.387814,50.811123",
-    "geom:latitude": 50.811123,
-    "geom:longitude": -0.387814,
+    "geom:bbox": "-0.387824,50.811241,-0.387824,50.811241",
+    "geom:latitude": 50.811241,
+    "geom:longitude": -0.387824,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,11 +18,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698757, 
+      101751581, 
       404227469, 
       1360698607, 
-      85633159, 
-      1360698757, 
-      101751581
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -30,7 +30,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701400,
-    "wof:geomhash": "8b9f39dd7f93728f958d94def7e06041",
+    "wof:geomhash": "15c4134b0522c58cd5382a586efa1f45",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -41,7 +41,7 @@
       }
     ],
     "wof:id": 438206057,
-    "wof:lastmodified": 1583786538,
+    "wof:lastmodified": 1609879607,
     "wof:name": "BN11 4RS",
     "wof:parent_id": 101751581,
     "wof:placetype": "postalcode",
@@ -51,10 +51,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.387814, 
-    50.811123, 
-    -0.387814, 
-    50.811123
+    -0.387824, 
+    50.811241, 
+    -0.387824, 
+    50.811241
   ],
-  "geometry": {"coordinates":[-0.387814,50.811123],"type":"Point"}
+  "geometry": {"coordinates":[-0.387824,50.811241],"type":"Point"}
 }

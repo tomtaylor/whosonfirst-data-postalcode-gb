@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.244091,55.927035,-3.244091,55.927035",
-    "geom:latitude": 55.927035,
-    "geom:longitude": -3.244091,
+    "geom:bbox": "-3.243902,55.927127,-3.243902,55.927127",
+    "geom:latitude": 55.927127,
+    "geom:longitude": -3.243902,
     "gp:parent_id": "12696195",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227471, 
-      85790383, 
-      1360698673, 
       85633159, 
       1360698761, 
       404437279, 
-      101750629
+      101750629, 
+      404227471, 
+      85790383, 
+      1360698673
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701436,
-    "wof:geomhash": "5d106a1b3f79a523123770cc27aca531",
+    "wof:geomhash": "4685b97c59b47dd4dcbaef8a1cc2606b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 488424693,
-    "wof:lastmodified": 1595733755,
+    "wof:lastmodified": 1609891304,
     "wof:name": "EH14 1PZ",
     "wof:parent_id": 101750629,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.244091, 
-    55.927035, 
-    -3.244091, 
-    55.927035
+    -3.243902, 
+    55.927127, 
+    -3.243902, 
+    55.927127
   ],
-  "geometry": {"coordinates":[-3.244091,55.927035],"type":"Point"}
+  "geometry": {"coordinates":[-3.243902,55.927127],"type":"Point"}
 }

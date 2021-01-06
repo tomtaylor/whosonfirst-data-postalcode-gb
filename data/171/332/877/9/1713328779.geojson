@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "-2.468436,50.966728,-2.468436,50.966728",
-    "geom:latitude": 50.966728,
-    "geom:longitude": -2.468436,
+    "geom:bbox": "-2.468836,50.966870,-2.468836,50.966870",
+    "geom:latitude": 50.96687,
+    "geom:longitude": -2.468836,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699059, 
       404455173, 
       101852527, 
       404227469, 
-      1360698589
+      1360698589, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735537,
-    "wof:geomhash": "ab7a7fb0b99a8e9c713526d6132c487c",
+    "wof:geomhash": "91069ee3946b16681905632ab6bdbeb5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1713328779,
-    "wof:lastmodified": 1595753379,
+    "wof:lastmodified": 1609875337,
     "wof:name": "DT9 5FU",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.468436, 
-    50.966728, 
-    -2.468436, 
-    50.966728
+    -2.468836, 
+    50.96687, 
+    -2.468836, 
+    50.96687
   ],
-  "geometry": {"coordinates":[-2.468436,50.966728],"type":"Point"}
+  "geometry": {"coordinates":[-2.468836,50.96687],"type":"Point"}
 }

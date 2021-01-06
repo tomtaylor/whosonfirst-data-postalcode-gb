@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.937987,56.487161,-2.937987,56.487161",
+    "geom:bbox": "-2.938004,56.487161,-2.938004,56.487161",
     "geom:latitude": 56.487161,
-    "geom:longitude": -2.937987,
+    "geom:longitude": -2.938004,
     "gp:parent_id": "12696190",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698693, 
-      85633159, 
-      1360698883, 
       404430743, 
       101750641, 
-      404227471
+      404227471, 
+      1360698693, 
+      85633159, 
+      1360698883
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701613,
-    "wof:geomhash": "f0076fb715f4bc969c68f29d8d46b834",
+    "wof:geomhash": "b968cb4355910c818056a8e60d2deff0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488603557,
-    "wof:lastmodified": 1583786805,
+    "wof:lastmodified": 1609898654,
     "wof:name": "DD4 9LA",
     "wof:parent_id": 101750641,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.937987, 
+    -2.938004, 
     56.487161, 
-    -2.937987, 
+    -2.938004, 
     56.487161
   ],
-  "geometry": {"coordinates":[-2.937987,56.487161],"type":"Point"}
+  "geometry": {"coordinates":[-2.938004,56.487161],"type":"Point"}
 }

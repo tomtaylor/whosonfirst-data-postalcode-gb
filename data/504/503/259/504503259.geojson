@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.930236,52.978057,-3.930236,52.978057",
-    "geom:latitude": 52.978057,
-    "geom:longitude": -3.930236,
+    "geom:bbox": "-3.930131,52.978041,-3.930131,52.978041",
+    "geom:latitude": 52.978041,
+    "geom:longitude": -3.930131,
     "gp:parent_id": "12696126",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1276688303, 
-      404227475, 
       1360698635, 
       85633159, 
       1360698959, 
-      404447239
+      404447239, 
+      1276688303, 
+      404227475
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701383,
-    "wof:geomhash": "0dfac1c4718bf9aac08a9d38af8d3d20",
+    "wof:geomhash": "f8e8418f94533ba8bed247d2a77a54cc",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504503259,
-    "wof:lastmodified": 1583786506,
+    "wof:lastmodified": 1609876154,
     "wof:name": "LL41 4BD",
     "wof:parent_id": 404447239,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.930236, 
-    52.978057, 
-    -3.930236, 
-    52.978057
+    -3.930131, 
+    52.978041, 
+    -3.930131, 
+    52.978041
   ],
-  "geometry": {"coordinates":[-3.930236,52.978057],"type":"Point"}
+  "geometry": {"coordinates":[-3.930131,52.978041],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1996-06-01",
     "geom:area": 0,
-    "geom:bbox": "0.533450,51.096645,0.533450,51.096645",
-    "geom:latitude": 51.096645,
-    "geom:longitude": 0.53345,
+    "geom:bbox": "0.533258,51.096541,0.533258,51.096541",
+    "geom:latitude": 51.096541,
+    "geom:longitude": 0.533258,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698565, 
       85633159, 
       1360698811, 
       404445023, 
       1360759143, 
-      404227469, 
-      1360698565
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701207,
-    "wof:geomhash": "6438dfda8957e752b8b899b323964de8",
+    "wof:geomhash": "c3e10fb4e18729643e127b1b9b4d90a6",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 487847489,
-    "wof:lastmodified": 1583786301,
+    "wof:lastmodified": 1609883166,
     "wof:name": "TN17 3EF",
     "wof:parent_id": 404445023,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.53345, 
-    51.096645, 
-    0.53345, 
-    51.096645
+    0.533258, 
+    51.096541, 
+    0.533258, 
+    51.096541
   ],
-  "geometry": {"coordinates":[0.53345,51.096645],"type":"Point"}
+  "geometry": {"coordinates":[0.533258,51.096541],"type":"Point"}
 }

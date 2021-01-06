@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1998-12-01",
     "geom:area": 0,
-    "geom:bbox": "-4.244823,57.486570,-4.244823,57.486570",
-    "geom:latitude": 57.48657,
-    "geom:longitude": -4.244823,
+    "geom:bbox": "-4.244656,57.486564,-4.244656,57.486564",
+    "geom:latitude": 57.486564,
+    "geom:longitude": -4.244656,
     "gp:parent_id": "12696199",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      404436073, 
+      404227471, 
       1360698661, 
       85633159, 
-      1360699045, 
-      404436073, 
-      404227471
+      1360699045
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701417,
-    "wof:geomhash": "e7abdbfb970b929c5fe246f29148ec2b",
+    "wof:geomhash": "10c8d6229eee5f77748a7c07d7f56570",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488403095,
-    "wof:lastmodified": 1583786615,
+    "wof:lastmodified": 1609890257,
     "wof:name": "IV3 8LL",
     "wof:parent_id": 101873667,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.244823, 
-    57.48657, 
-    -4.244823, 
-    57.48657
+    -4.244656, 
+    57.486564, 
+    -4.244656, 
+    57.486564
   ],
-  "geometry": {"coordinates":[-4.244823,57.48657],"type":"Point"}
+  "geometry": {"coordinates":[-4.244656,57.486564],"type":"Point"}
 }

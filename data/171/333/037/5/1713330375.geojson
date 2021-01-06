@@ -5,30 +5,30 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-02-01",
     "geom:area": 0,
-    "geom:bbox": "-1.156142,53.705532,-1.156142,53.705532",
-    "geom:latitude": 53.705532,
-    "geom:longitude": -1.156142,
+    "geom:bbox": "-1.145940,53.706583,-1.145940,53.706583",
+    "geom:latitude": 53.706583,
+    "geom:longitude": -1.14594,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000023",
     "os:district_code": "E07000169",
-    "os:positional_quality_indicator": "5",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698753, 
       404447083, 
       1125905781, 
       404227469, 
-      1360698619
+      1360698619, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735607,
-    "wof:geomhash": "ac9531cf70e857e0b56268220fc5d5e0",
+    "wof:geomhash": "30eafa924b4ec066cf81c5202845df0a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1713330375,
-    "wof:lastmodified": 1595753435,
+    "wof:lastmodified": 1609875392,
     "wof:name": "DN14 0FW",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.156142, 
-    53.705532, 
-    -1.156142, 
-    53.705532
+    -1.14594, 
+    53.706583, 
+    -1.14594, 
+    53.706583
   ],
-  "geometry": {"coordinates":[-1.156142,53.705532],"type":"Point"}
+  "geometry": {"coordinates":[-1.14594,53.706583],"type":"Point"}
 }

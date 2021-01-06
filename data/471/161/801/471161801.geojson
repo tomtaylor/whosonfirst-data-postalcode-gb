@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.277886,52.928176,-1.277886,52.928176",
-    "geom:latitude": 52.928176,
-    "geom:longitude": -1.277886,
+    "geom:bbox": "-1.277762,52.928249,-1.277762,52.928249",
+    "geom:latitude": 52.928249,
+    "geom:longitude": -1.277762,
     "gp:parent_id": "35982",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360698809, 
       404432101, 
       1125916267, 
       404227469, 
-      1360698583, 
-      85633159
+      1360698583
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701356,
-    "wof:geomhash": "dc2bd09f106262f360d2a1a4e76371f1",
+    "wof:geomhash": "9e801456ba5be90aec375c955c46820d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471161801,
-    "wof:lastmodified": 1583786506,
+    "wof:lastmodified": 1609877655,
     "wof:name": "NG9 7AB",
     "wof:parent_id": 404432101,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.277886, 
-    52.928176, 
-    -1.277886, 
-    52.928176
+    -1.277762, 
+    52.928249, 
+    -1.277762, 
+    52.928249
   ],
-  "geometry": {"coordinates":[-1.277886,52.928176],"type":"Point"}
+  "geometry": {"coordinates":[-1.277762,52.928249],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.819465,52.899381,0.819465,52.899381",
-    "geom:latitude": 52.899381,
-    "geom:longitude": 0.819465,
+    "geom:bbox": "0.819198,52.899396,0.819198,52.899396",
+    "geom:latitude": 52.899396,
+    "geom:longitude": 0.819198,
     "gp:parent_id": "19415",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698575, 
-      85633159, 
       1360698955, 
       404431873, 
-      1360756617
+      1360756617, 
+      404227469, 
+      1360698575, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701407,
-    "wof:geomhash": "56f323ab2f9645a6fc81d81b8cc11330",
+    "wof:geomhash": "89547d7d79772d4967cdb85d332c4d0a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471218171,
-    "wof:lastmodified": 1583786561,
+    "wof:lastmodified": 1609880709,
     "wof:name": "NR22 6AX",
     "wof:parent_id": 404431873,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.819465, 
-    52.899381, 
-    0.819465, 
-    52.899381
+    0.819198, 
+    52.899396, 
+    0.819198, 
+    52.899396
   ],
-  "geometry": {"coordinates":[0.819465,52.899381],"type":"Point"}
+  "geometry": {"coordinates":[0.819198,52.899396],"type":"Point"}
 }

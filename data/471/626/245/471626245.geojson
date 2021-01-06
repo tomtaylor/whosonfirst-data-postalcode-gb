@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.546672,53.362219,-1.546672,53.362219",
-    "geom:latitude": 53.362219,
-    "geom:longitude": -1.546672,
+    "geom:bbox": "-1.546610,53.362227,-1.546610,53.362227",
+    "geom:latitude": 53.362227,
+    "geom:longitude": -1.54661,
     "gp:parent_id": "34503",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      101750529, 
       404227469, 
       85787553, 
       1360698591, 
       85633159, 
-      1360699075, 
-      101750529
+      1360699075
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701676,
-    "wof:geomhash": "8582498a80510a1f275ba565db2e146f",
+    "wof:geomhash": "7085acc90bd0b90de60643b1d720830c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471626245,
-    "wof:lastmodified": 1583786846,
+    "wof:lastmodified": 1609899716,
     "wof:name": "S10 4GL",
     "wof:parent_id": 101750529,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.546672, 
-    53.362219, 
-    -1.546672, 
-    53.362219
+    -1.54661, 
+    53.362227, 
+    -1.54661, 
+    53.362227
   ],
-  "geometry": {"coordinates":[-1.546672,53.362219],"type":"Point"}
+  "geometry": {"coordinates":[-1.54661,53.362227],"type":"Point"}
 }

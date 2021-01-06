@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2010-08-01",
     "geom:area": 0,
-    "geom:bbox": "-2.258726,53.472978,-2.258726,53.472978",
-    "geom:latitude": 53.472978,
-    "geom:longitude": -2.258726,
+    "geom:bbox": "-2.258137,53.472755,-2.258137,53.472755",
+    "geom:latitude": 53.472755,
+    "geom:longitude": -2.258137,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85792989, 
-      1360698555, 
-      85633159, 
       1360698893, 
       101750525, 
-      404227469
+      404227469, 
+      85792989, 
+      1360698555, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468888241,
-    "wof:geomhash": "f825dca34ed544f30bb06b640c620f5f",
+    "wof:geomhash": "9e906030be99d4ccf11d28848dd85154",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 874483469,
-    "wof:lastmodified": 1595728279,
+    "wof:lastmodified": 1609871217,
     "wof:name": "M15 4SQ",
     "wof:parent_id": 101750525,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.258726, 
-    53.472978, 
-    -2.258726, 
-    53.472978
+    -2.258137, 
+    53.472755, 
+    -2.258137, 
+    53.472755
   ],
-  "geometry": {"coordinates":[-2.258726,53.472978],"type":"Point"}
+  "geometry": {"coordinates":[-2.258137,53.472755],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.913154,54.189459,-2.913154,54.189459",
-    "geom:latitude": 54.189459,
-    "geom:longitude": -2.913154,
+    "geom:bbox": "-2.913170,54.189468,-2.913170,54.189468",
+    "geom:latitude": 54.189468,
+    "geom:longitude": -2.91317,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698721, 
+      85633159, 
       1360698877, 
       404438501, 
       101873395, 
-      404227469, 
-      1360698721, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701766,
-    "wof:geomhash": "7644e9864787a02d00e98e63ddfdbc12",
+    "wof:geomhash": "7c8b1ca5d3eb57c78f708d66d7950bc2",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454981699,
-    "wof:lastmodified": 1583786902,
+    "wof:lastmodified": 1609905665,
     "wof:name": "LA11 7HQ",
     "wof:parent_id": 404438501,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.913154, 
-    54.189459, 
-    -2.913154, 
-    54.189459
+    -2.91317, 
+    54.189468, 
+    -2.91317, 
+    54.189468
   ],
-  "geometry": {"coordinates":[-2.913154,54.189459],"type":"Point"}
+  "geometry": {"coordinates":[-2.91317,54.189468],"type":"Point"}
 }

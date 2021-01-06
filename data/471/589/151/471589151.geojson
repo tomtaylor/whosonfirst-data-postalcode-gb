@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.010982,51.049543,0.010982,51.049543",
-    "geom:latitude": 51.049543,
-    "geom:longitude": 0.010982,
+    "geom:bbox": "0.010995,51.049557,0.010995,51.049557",
+    "geom:latitude": 51.049557,
+    "geom:longitude": 0.010995,
     "gp:parent_id": "15794",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1125990863, 
-      404227469, 
       1360698549, 
       85633159, 
       1360698815, 
-      404446935
+      404446935, 
+      1125990863, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701676,
-    "wof:geomhash": "1f844b492913383e057cb2d287e76984",
+    "wof:geomhash": "ba3293a3da7ad508aa5481ed77069349",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471589151,
-    "wof:lastmodified": 1583786829,
+    "wof:lastmodified": 1609897893,
     "wof:name": "RH17 7DA",
     "wof:parent_id": 404446935,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.010982, 
-    51.049543, 
-    0.010982, 
-    51.049543
+    0.010995, 
+    51.049557, 
+    0.010995, 
+    51.049557
   ],
-  "geometry": {"coordinates":[0.010982,51.049543],"type":"Point"}
+  "geometry": {"coordinates":[0.010995,51.049557],"type":"Point"}
 }

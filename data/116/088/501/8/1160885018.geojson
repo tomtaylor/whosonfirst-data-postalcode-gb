@@ -5,30 +5,30 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-03-01",
     "geom:area": 0,
-    "geom:bbox": "-3.217293,51.723155,-3.217293,51.723155",
-    "geom:latitude": 51.723155,
-    "geom:longitude": -3.217293,
+    "geom:bbox": "-3.208935,51.703451,-3.208935,51.703451",
+    "geom:latitude": 51.703451,
+    "geom:longitude": -3.208935,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "os:country_code": "W92000004",
     "os:county_code": "W99999999",
     "os:district_code": "W06000018",
-    "os:positional_quality_indicator": "5",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404436693, 
       1360711651, 
       404227475, 
       1360698641, 
       85633159, 
-      1360698925
+      1360698925, 
+      404436693
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583794304,
-    "wof:geomhash": "65de86855c2f8ca8953c03e6930a3cd6",
+    "wof:geomhash": "3020f4d5f6d876480d55ceaf99d644a6",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160885018,
-    "wof:lastmodified": 1583794304,
+    "wof:lastmodified": 1609871422,
     "wof:name": "NP12 0SU",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.217293, 
-    51.723155, 
-    -3.217293, 
-    51.723155
+    -3.208935, 
+    51.703451, 
+    -3.208935, 
+    51.703451
   ],
-  "geometry": {"coordinates":[-3.217293,51.723155],"type":"Point"}
+  "geometry": {"coordinates":[-3.208935,51.703451],"type":"Point"}
 }

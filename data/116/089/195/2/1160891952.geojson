@@ -2,7 +2,7 @@
   "id": 1160891952,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-06-01",
     "edtf:inception": "2019-06-01",
     "geom:area": 0,
     "geom:bbox": "-1.209205,50.808248,-1.209205,50.808248",
@@ -10,7 +10,7 @@
     "geom:longitude": -1.209205,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000014",
     "os:district_code": "E07000088",
@@ -18,11 +18,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      101750359, 
+      404227469, 
       1360698557, 
       85633159, 
-      1360698827, 
-      101750359, 
-      404227469
+      1360698827
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1160891952,
-    "wof:lastmodified": 1583794626,
+    "wof:lastmodified": 1609871565,
     "wof:name": "PO13 9GH",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

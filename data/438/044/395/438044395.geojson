@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1995-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.907288,52.301688,-1.907288,52.301688",
-    "geom:latitude": 52.301688,
-    "geom:longitude": -1.907288,
+    "geom:bbox": "-1.904128,52.301233,-1.904128,52.301233",
+    "geom:latitude": 52.301233,
+    "geom:longitude": -1.904128,
     "gp:parent_id": "24520",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699043, 
       101750455, 
       404227469, 
-      1360698613
+      1360698613, 
+      85633159, 
+      1360699043
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701134,
-    "wof:geomhash": "1e4bdb016ff3afb8b7ec7d22ce926624",
+    "wof:geomhash": "cc6fb1afbb054660a440546ae6cd74aa",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 438044395,
-    "wof:lastmodified": 1583786264,
+    "wof:lastmodified": 1609869752,
     "wof:name": "B98 0SW",
     "wof:parent_id": 101750455,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.907288, 
-    52.301688, 
-    -1.907288, 
-    52.301688
+    -1.904128, 
+    52.301233, 
+    -1.904128, 
+    52.301233
   ],
-  "geometry": {"coordinates":[-1.907288,52.301688],"type":"Point"}
+  "geometry": {"coordinates":[-1.904128,52.301233],"type":"Point"}
 }

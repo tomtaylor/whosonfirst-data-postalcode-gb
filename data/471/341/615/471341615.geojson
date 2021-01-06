@@ -2,7 +2,7 @@
   "id": 471341615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-07-01",
     "edtf:inception": "2002-07-01",
     "geom:area": 0,
     "geom:bbox": "-1.004651,51.645249,-1.004651,51.645249",
@@ -11,7 +11,7 @@
     "gp:parent_id": "13918",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000025",
     "os:district_code": "E07000179",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698839, 
       404449919, 
       101852951, 
       404227469, 
-      1360698585, 
-      85633159, 
-      1360698839
+      1360698585
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471341615,
-    "wof:lastmodified": 1583786666,
+    "wof:lastmodified": 1609887414,
     "wof:name": "OX49 5XF",
     "wof:parent_id": 101852951,
     "wof:placetype": "postalcode",

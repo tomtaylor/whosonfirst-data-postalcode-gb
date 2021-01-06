@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.941345,52.817866,0.941345,52.817866",
-    "geom:latitude": 52.817866,
-    "geom:longitude": 0.941345,
+    "geom:bbox": "0.941350,52.817918,0.941350,52.817918",
+    "geom:latitude": 52.817918,
+    "geom:longitude": 0.94135,
     "gp:parent_id": "36111",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698575, 
+      85633159, 
       1360698955, 
       404436983, 
       1125906655, 
-      404227469, 
-      1360698575, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701406,
-    "wof:geomhash": "cd3719bdcb7b5a6fd364a75f22e69130",
+    "wof:geomhash": "42ab4cd5262b2a79912a1c6a801c85c6",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471216759,
-    "wof:lastmodified": 1583786563,
+    "wof:lastmodified": 1609880734,
     "wof:name": "NR21 0NA",
     "wof:parent_id": 404436983,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.941345, 
-    52.817866, 
-    0.941345, 
-    52.817866
+    0.94135, 
+    52.817918, 
+    0.94135, 
+    52.817918
   ],
-  "geometry": {"coordinates":[0.941345,52.817866],"type":"Point"}
+  "geometry": {"coordinates":[0.94135,52.817918],"type":"Point"}
 }

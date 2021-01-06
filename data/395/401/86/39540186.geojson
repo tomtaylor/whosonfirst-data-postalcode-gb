@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.809394,51.346007,-0.809394,51.346007",
-    "geom:latitude": 51.346007,
-    "geom:longitude": -0.809394,
+    "geom:bbox": "-0.807584,51.344937,-0.807584,51.344937",
+    "geom:latitude": 51.344937,
+    "geom:longitude": -0.807584,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699013, 
-      404448653, 
       101852485, 
       404227469, 
       1360698529, 
-      85633159
+      85633159, 
+      1360699013, 
+      404448653
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583802557,
-    "wof:geomhash": "e3bc27734e964419058a171e2fcbb9db",
+    "wof:geomhash": "bc9b400c89a7af1104dda47d03f5ef4c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 39540186,
-    "wof:lastmodified": 1595711352,
+    "wof:lastmodified": 1609868477,
     "wof:name": "GU47 8AD",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.809394, 
-    51.346007, 
-    -0.809394, 
-    51.346007
+    -0.807584, 
+    51.344937, 
+    -0.807584, 
+    51.344937
   ],
-  "geometry": {"coordinates":[-0.809394,51.346007],"type":"Point"}
+  "geometry": {"coordinates":[-0.807584,51.344937],"type":"Point"}
 }

@@ -2,7 +2,7 @@
   "id": 1713327353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-10-01",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
     "geom:bbox": "-4.438232,55.848402,-4.438232,55.848402",
@@ -10,7 +10,7 @@
     "geom:longitude": -4.438232,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "S92000003",
     "os:county_code": "S99999999",
     "os:district_code": "S12000038",
@@ -18,11 +18,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699097, 
       404432463, 
       404227471, 
-      1360698699
+      1360698699, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1713327353,
-    "wof:lastmodified": 1595753325,
+    "wof:lastmodified": 1609875211,
     "wof:name": "PA3 9FU",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

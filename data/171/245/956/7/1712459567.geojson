@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "1984-12-01",
+    "edtf:deprecated": "2021-01-05",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:bbox": "-3.028133,51.608825,-3.028133,51.608825",
@@ -18,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      404227475, 
       1360698641, 
       85633159, 
       1360698735, 
       404444789, 
-      1126056669, 
-      404227475
+      1126056669
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +41,7 @@
       }
     ],
     "wof:id": 1712459567,
-    "wof:lastmodified": 1583788996,
+    "wof:lastmodified": 1609869052,
     "wof:name": "NPT 6TL",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

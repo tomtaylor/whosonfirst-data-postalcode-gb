@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.230118,53.331090,-2.230118,53.331090",
-    "geom:latitude": 53.33109,
-    "geom:longitude": -2.230118,
+    "geom:bbox": "-2.230148,53.331098,-2.230148,53.331098",
+    "geom:latitude": 53.331098,
+    "geom:longitude": -2.230148,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698929, 
       404439479, 
       101751621, 
       404227469, 
-      1360698537, 
-      85633159, 
-      1360698929
+      1360698537
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701741,
-    "wof:geomhash": "e863250f3a0578d3af29eb54177e9692",
+    "wof:geomhash": "e263ad893b4fad7354c62584e2710f8e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471797673,
-    "wof:lastmodified": 1583786912,
+    "wof:lastmodified": 1609903113,
     "wof:name": "SK9 4AA",
     "wof:parent_id": 101751621,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.230118, 
-    53.33109, 
-    -2.230118, 
-    53.33109
+    -2.230148, 
+    53.331098, 
+    -2.230148, 
+    53.331098
   ],
-  "geometry": {"coordinates":[-2.230118,53.33109],"type":"Point"}
+  "geometry": {"coordinates":[-2.230148,53.331098],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.399539,53.415106,-1.399539,53.415106",
-    "geom:latitude": 53.415106,
-    "geom:longitude": -1.399539,
+    "geom:bbox": "-1.399585,53.415080,-1.399585,53.415080",
+    "geom:latitude": 53.41508,
+    "geom:longitude": -1.399585,
     "gp:parent_id": "34503",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      101750529, 
+      404227469, 
       85791057, 
       1360698591, 
       85633159, 
-      1360699075, 
-      101750529, 
-      404227469
+      1360699075
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701709,
-    "wof:geomhash": "7e8aad1a2055bc52cbace480f684017d",
+    "wof:geomhash": "5fac1b73287e1ffbb333c443dd4d5e3e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471694169,
-    "wof:lastmodified": 1583786884,
+    "wof:lastmodified": 1609900962,
     "wof:name": "S9 1SU",
     "wof:parent_id": 101750529,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.399539, 
-    53.415106, 
-    -1.399539, 
-    53.415106
+    -1.399585, 
+    53.41508, 
+    -1.399585, 
+    53.41508
   ],
-  "geometry": {"coordinates":[-1.399539,53.415106],"type":"Point"}
+  "geometry": {"coordinates":[-1.399585,53.41508],"type":"Point"}
 }

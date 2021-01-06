@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1998-12-01",
     "geom:area": 0,
-    "geom:bbox": "-3.384603,57.698760,-3.384603,57.698760",
-    "geom:latitude": 57.69876,
-    "geom:longitude": -3.384603,
+    "geom:bbox": "-3.384543,57.698922,-3.384543,57.698922",
+    "geom:latitude": 57.698922,
+    "geom:longitude": -3.384543,
     "gp:parent_id": "18589",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227471, 
       1360698717, 
       85633159, 
       1360698869, 
-      404446793
+      404446793, 
+      404227471
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701285,
-    "wof:geomhash": "aef46fcd0d2d053aa787b42a45ab6a68",
+    "wof:geomhash": "59cf0be93011daa51bb62f15f32cfd2d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504440479,
-    "wof:lastmodified": 1583786400,
+    "wof:lastmodified": 1609871428,
     "wof:name": "IV30 5QB",
     "wof:parent_id": 404446793,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.384603, 
-    57.69876, 
-    -3.384603, 
-    57.69876
+    -3.384543, 
+    57.698922, 
+    -3.384543, 
+    57.698922
   ],
-  "geometry": {"coordinates":[-3.384603,57.69876],"type":"Point"}
+  "geometry": {"coordinates":[-3.384543,57.698922],"type":"Point"}
 }

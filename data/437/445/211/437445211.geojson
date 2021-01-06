@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-12-01",
     "geom:area": 0,
-    "geom:bbox": "-0.447788,51.766929,-0.447788,51.766929",
-    "geom:latitude": 51.766929,
-    "geom:longitude": -0.447788,
+    "geom:bbox": "-0.447832,51.766903,-0.447832,51.766903",
+    "geom:latitude": 51.766903,
+    "geom:longitude": -0.447832,
     "gp:parent_id": "29703",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      101750421, 
-      404227469, 
       1360698559, 
       85633159, 
-      1360698763
+      1360698763, 
+      101750421, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701190,
-    "wof:geomhash": "22bd139971e1b1e54ce64674c68b7649",
+    "wof:geomhash": "b0c667f14f581029e8a41e0711655370",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 437445211,
-    "wof:lastmodified": 1583786311,
+    "wof:lastmodified": 1609871203,
     "wof:name": "HP2 7DS",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.447788, 
-    51.766929, 
-    -0.447788, 
-    51.766929
+    -0.447832, 
+    51.766903, 
+    -0.447832, 
+    51.766903
   ],
-  "geometry": {"coordinates":[-0.447788,51.766929],"type":"Point"}
+  "geometry": {"coordinates":[-0.447832,51.766903],"type":"Point"}
 }

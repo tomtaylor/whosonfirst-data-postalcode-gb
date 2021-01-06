@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.697407,54.156768,-0.697407,54.156768",
-    "geom:latitude": 54.156768,
-    "geom:longitude": -0.697407,
+    "geom:bbox": "-0.697469,54.156751,-0.697469,54.156751",
+    "geom:latitude": 54.156751,
+    "geom:longitude": -0.697469,
     "gp:parent_id": "33333",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1125912473, 
-      404227469, 
-      1360698619, 
       85633159, 
       1360698753, 
-      404430635
+      404430635, 
+      1125912473, 
+      404227469, 
+      1360698619
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701178,
-    "wof:geomhash": "b7d8762e75e4aba5c765d17f17cc03a2",
+    "wof:geomhash": "dce2d953771afe5127c522d6dc2264b7",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488234263,
-    "wof:lastmodified": 1583786427,
+    "wof:lastmodified": 1609881527,
     "wof:name": "YO17 8LN",
     "wof:parent_id": 404430635,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.697407, 
-    54.156768, 
-    -0.697407, 
-    54.156768
+    -0.697469, 
+    54.156751, 
+    -0.697469, 
+    54.156751
   ],
-  "geometry": {"coordinates":[-0.697407,54.156768],"type":"Point"}
+  "geometry": {"coordinates":[-0.697469,54.156751],"type":"Point"}
 }

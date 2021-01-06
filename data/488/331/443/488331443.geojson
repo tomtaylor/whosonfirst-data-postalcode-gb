@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2009-04-01",
     "geom:area": 0,
-    "geom:bbox": "-0.450799,52.986651,-0.450799,52.986651",
-    "geom:latitude": 52.986651,
-    "geom:longitude": -0.450799,
+    "geom:bbox": "-0.450491,52.986917,-0.450491,52.986917",
+    "geom:latitude": 52.986917,
+    "geom:longitude": -0.450491,
     "gp:parent_id": "12696019",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698571, 
-      85633159, 
       1360699067, 
       404431279, 
       101874129, 
-      404227469
+      404227469, 
+      1360698571, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701348,
-    "wof:geomhash": "c0a66f2d1bc97c165158a0e3524c82fd",
+    "wof:geomhash": "95bcee1191fcb65f07f3473ddebd443b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488331443,
-    "wof:lastmodified": 1583786541,
+    "wof:lastmodified": 1609887035,
     "wof:name": "NG34 8XU",
     "wof:parent_id": 404431279,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.450799, 
-    52.986651, 
-    -0.450799, 
-    52.986651
+    -0.450491, 
+    52.986917, 
+    -0.450491, 
+    52.986917
   ],
-  "geometry": {"coordinates":[-0.450799,52.986651],"type":"Point"}
+  "geometry": {"coordinates":[-0.450491,52.986917],"type":"Point"}
 }

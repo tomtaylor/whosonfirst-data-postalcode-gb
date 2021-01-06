@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2006-07-01",
     "geom:area": 0,
-    "geom:bbox": "-4.916759,51.711624,-4.916759,51.711624",
-    "geom:latitude": 51.711624,
-    "geom:longitude": -4.916759,
+    "geom:bbox": "-4.917494,51.711336,-4.917494,51.711336",
+    "geom:latitude": 51.711336,
+    "geom:longitude": -4.917494,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698843, 
       404434619, 
       1360711739, 
       404227475, 
-      1360698639, 
-      85633159, 
-      1360698843
+      1360698639
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701550,
-    "wof:geomhash": "b369ab2a9be11517bb02184ea28d60ef",
+    "wof:geomhash": "6e6c42262e39bf33fe8cdb476cce2a4f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 504754359,
-    "wof:lastmodified": 1583786704,
+    "wof:lastmodified": 1609889229,
     "wof:name": "SA73 1LW",
     "wof:parent_id": 404434619,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.916759, 
-    51.711624, 
-    -4.916759, 
-    51.711624
+    -4.917494, 
+    51.711336, 
+    -4.917494, 
+    51.711336
   ],
-  "geometry": {"coordinates":[-4.916759,51.711624],"type":"Point"}
+  "geometry": {"coordinates":[-4.917494,51.711336],"type":"Point"}
 }

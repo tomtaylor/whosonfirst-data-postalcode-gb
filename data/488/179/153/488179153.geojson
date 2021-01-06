@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.195383,52.267171,-2.195383,52.267171",
-    "geom:latitude": 52.267171,
-    "geom:longitude": -2.195383,
+    "geom:bbox": "-2.195309,52.267126,-2.195309,52.267126",
+    "geom:latitude": 52.267126,
+    "geom:longitude": -2.195309,
     "gp:parent_id": "22111",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      1125845133, 
+      404227469, 
       1360698613, 
       85633159, 
       1360699043, 
-      404433421, 
-      1125845133, 
-      404227469
+      404433421
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701294,
-    "wof:geomhash": "1e4c98c7e2d29ba407db71c590932a33",
+    "wof:geomhash": "7a33eb89b12335deb110bd10afad568b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488179153,
-    "wof:lastmodified": 1583786290,
+    "wof:lastmodified": 1609878702,
     "wof:name": "WR9 0AY",
     "wof:parent_id": 404433421,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.195383, 
-    52.267171, 
-    -2.195383, 
-    52.267171
+    -2.195309, 
+    52.267126, 
+    -2.195309, 
+    52.267126
   ],
-  "geometry": {"coordinates":[-2.195383,52.267171],"type":"Point"}
+  "geometry": {"coordinates":[-2.195309,52.267126],"type":"Point"}
 }

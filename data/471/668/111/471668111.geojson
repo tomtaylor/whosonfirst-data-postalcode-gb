@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.339726,53.497154,-1.339726,53.497154",
-    "geom:latitude": 53.497154,
-    "geom:longitude": -1.339726,
+    "geom:bbox": "-1.339718,53.496867,-1.339718,53.496867",
+    "geom:latitude": 53.496867,
+    "geom:longitude": -1.339718,
     "gp:parent_id": "39325",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698851, 
+      1360817063, 
       1126000247, 
       404227469, 
       1360698591, 
-      85633159, 
-      1360698851, 
-      1360817063
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701694,
-    "wof:geomhash": "27e6aadc65b9d8043d66eb1b2a53a37a",
+    "wof:geomhash": "2f2fccddcd0cb11d1f44fd64e2e224bd",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471668111,
-    "wof:lastmodified": 1583786875,
+    "wof:lastmodified": 1609900520,
     "wof:name": "S63 7NN",
     "wof:parent_id": 404450929,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.339726, 
-    53.497154, 
-    -1.339726, 
-    53.497154
+    -1.339718, 
+    53.496867, 
+    -1.339718, 
+    53.496867
   ],
-  "geometry": {"coordinates":[-1.339726,53.497154],"type":"Point"}
+  "geometry": {"coordinates":[-1.339718,53.496867],"type":"Point"}
 }

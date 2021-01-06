@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.619651,53.740468,-1.619651,53.740468",
-    "geom:latitude": 53.740468,
-    "geom:longitude": -1.619651,
+    "geom:bbox": "-1.619605,53.740495,-1.619605,53.740495",
+    "geom:latitude": 53.740495,
+    "geom:longitude": -1.619605,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698609, 
       85633159, 
       1360698749, 
       404446597, 
       1125893441, 
-      404227469
+      404227469, 
+      1360698609
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583792818,
-    "wof:geomhash": "3264265e434f23af1a79c42a8404a5f2",
+    "wof:geomhash": "4c627c768cc55dfc5a531cd43041b0f1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712545483,
-    "wof:lastmodified": 1595711020,
+    "wof:lastmodified": 1609870279,
     "wof:name": "LS27 0GE",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.619651, 
-    53.740468, 
-    -1.619651, 
-    53.740468
+    -1.619605, 
+    53.740495, 
+    -1.619605, 
+    53.740495
   ],
-  "geometry": {"coordinates":[-1.619651,53.740468],"type":"Point"}
+  "geometry": {"coordinates":[-1.619605,53.740495],"type":"Point"}
 }

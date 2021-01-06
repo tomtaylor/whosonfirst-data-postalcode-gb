@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.774370,55.915138,-2.774370,55.915138",
-    "geom:latitude": 55.915138,
-    "geom:longitude": -2.77437,
+    "geom:bbox": "-2.774444,55.915421,-2.774444,55.915421",
+    "geom:latitude": 55.915421,
+    "geom:longitude": -2.774444,
     "gp:parent_id": "12696193",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360699017, 
+      404447595, 
       404227471, 
       1360698675, 
-      85633159, 
-      1360699017, 
-      404447595
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701070,
-    "wof:geomhash": "5917fffe63278a13cd577f150a033c4d",
+    "wof:geomhash": "96a150cf91c7a01100b993092eba9720",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504367889,
-    "wof:lastmodified": 1583786353,
+    "wof:lastmodified": 1609868691,
     "wof:name": "EH41 4HN",
     "wof:parent_id": 404447595,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.77437, 
-    55.915138, 
-    -2.77437, 
-    55.915138
+    -2.774444, 
+    55.915421, 
+    -2.774444, 
+    55.915421
   ],
-  "geometry": {"coordinates":[-2.77437,55.915138],"type":"Point"}
+  "geometry": {"coordinates":[-2.774444,55.915421],"type":"Point"}
 }

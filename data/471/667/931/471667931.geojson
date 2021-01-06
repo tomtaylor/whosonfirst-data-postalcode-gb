@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1999-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.337278,53.507334,-1.337278,53.507334",
-    "geom:latitude": 53.507334,
-    "geom:longitude": -1.337278,
+    "geom:bbox": "-1.336034,53.506914,-1.336034,53.506914",
+    "geom:latitude": 53.506914,
+    "geom:longitude": -1.336034,
     "gp:parent_id": "39325",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698591, 
       85633159, 
       1360698851, 
       1360817063, 
-      1126000247
+      1126000247, 
+      404227469, 
+      1360698591
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701696,
-    "wof:geomhash": "f75d878387991fabc13707353c0f2767",
+    "wof:geomhash": "5c139ba87221d26472c3db802de919d7",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471667931,
-    "wof:lastmodified": 1583786874,
+    "wof:lastmodified": 1609900535,
     "wof:name": "S63 7DG",
     "wof:parent_id": 404450929,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.337278, 
-    53.507334, 
-    -1.337278, 
-    53.507334
+    -1.336034, 
+    53.506914, 
+    -1.336034, 
+    53.506914
   ],
-  "geometry": {"coordinates":[-1.337278,53.507334],"type":"Point"}
+  "geometry": {"coordinates":[-1.336034,53.506914],"type":"Point"}
 }

@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.006935,52.516144,-2.006935,52.516144",
-    "geom:latitude": 52.516144,
+    "geom:bbox": "-2.006935,52.516189,-2.006935,52.516189",
+    "geom:latitude": 52.516189,
     "geom:longitude": -2.006935,
     "gp:parent_id": "39578",
     "iso:country": "GB",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
       1360698605, 
       85633159, 
       1360699035, 
       1360817335, 
-      1126041385, 
-      404227469
+      1126041385
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701064,
-    "wof:geomhash": "9cd03168843b2497b62b5ede66f3d1fb",
+    "wof:geomhash": "76fb44dbc2ec933ba99cc1200051d7e6",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438018159,
-    "wof:lastmodified": 1583786184,
+    "wof:lastmodified": 1609868923,
     "wof:name": "B70 8QQ",
     "wof:parent_id": 101914045,
     "wof:placetype": "postalcode",
@@ -55,9 +55,9 @@
   },
   "bbox": [
     -2.006935, 
-    52.516144, 
+    52.516189, 
     -2.006935, 
-    52.516144
+    52.516189
   ],
-  "geometry": {"coordinates":[-2.006935,52.516144],"type":"Point"}
+  "geometry": {"coordinates":[-2.006935,52.516189],"type":"Point"}
 }

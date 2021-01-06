@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.284874,53.591000,-2.284874,53.591000",
-    "geom:latitude": 53.591,
-    "geom:longitude": -2.284874,
+    "geom:bbox": "-2.284827,53.591016,-2.284827,53.591016",
+    "geom:latitude": 53.591016,
+    "geom:longitude": -2.284827,
     "gp:parent_id": "14711",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698555, 
       85633159, 
       1360698847, 
       101750567, 
-      404227469
+      404227469, 
+      1360698555
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701393,
-    "wof:geomhash": "1467b52d2d853d933d82732c5aae9275",
+    "wof:geomhash": "ef0ab53d30ea7576b3b2e57eefd260d7",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 438198113,
-    "wof:lastmodified": 1583786531,
+    "wof:lastmodified": 1609879349,
     "wof:name": "BL9 7ER",
     "wof:parent_id": 101750567,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.284874, 
-    53.591, 
-    -2.284874, 
-    53.591
+    -2.284827, 
+    53.591016, 
+    -2.284827, 
+    53.591016
   ],
-  "geometry": {"coordinates":[-2.284874,53.591],"type":"Point"}
+  "geometry": {"coordinates":[-2.284827,53.591016],"type":"Point"}
 }

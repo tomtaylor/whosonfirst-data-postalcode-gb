@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.197676,54.556374,-1.197676,54.556374",
-    "geom:latitude": 54.556374,
-    "geom:longitude": -1.197676,
+    "geom:bbox": "-1.197628,54.555664,-1.197628,54.555664",
+    "geom:latitude": 54.555664,
+    "geom:longitude": -1.197628,
     "gp:parent_id": "28869",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698853, 
       101750599, 
       404227469, 
-      1360698619, 
-      85633159, 
-      1360698853
+      1360698619
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701288,
-    "wof:geomhash": "b90ee48e17d8b434c6ad509d0df807e0",
+    "wof:geomhash": "318de0943a26765017deb6c7528f9a15",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 487960201,
-    "wof:lastmodified": 1583786353,
+    "wof:lastmodified": 1609888863,
     "wof:name": "TS3 8RE",
     "wof:parent_id": 101750599,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.197676, 
-    54.556374, 
-    -1.197676, 
-    54.556374
+    -1.197628, 
+    54.555664, 
+    -1.197628, 
+    54.555664
   ],
-  "geometry": {"coordinates":[-1.197676,54.556374],"type":"Point"}
+  "geometry": {"coordinates":[-1.197628,54.555664],"type":"Point"}
 }

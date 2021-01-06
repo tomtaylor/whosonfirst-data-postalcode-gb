@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1998-06-01",
     "geom:area": 0,
-    "geom:bbox": "-0.433247,54.005149,-0.433247,54.005149",
-    "geom:latitude": 54.005149,
-    "geom:longitude": -0.433247,
+    "geom:bbox": "-0.433367,54.005116,-0.433367,54.005116",
+    "geom:latitude": 54.005116,
+    "geom:longitude": -0.433367,
     "gp:parent_id": "18489",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404439763, 
-      1125840247, 
-      404227469, 
       1360698547, 
       85633159, 
-      1360699001
+      1360699001, 
+      404439763, 
+      1125840247, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701199,
-    "wof:geomhash": "2ae32a4810dd1808770eac06696bb41f",
+    "wof:geomhash": "536d96328c0a1aa0d6240857790651cd",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488242895,
-    "wof:lastmodified": 1583786440,
+    "wof:lastmodified": 1609882000,
     "wof:name": "YO25 5NA",
     "wof:parent_id": 404439763,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.433247, 
-    54.005149, 
-    -0.433247, 
-    54.005149
+    -0.433367, 
+    54.005116, 
+    -0.433367, 
+    54.005116
   ],
-  "geometry": {"coordinates":[-0.433247,54.005149],"type":"Point"}
+  "geometry": {"coordinates":[-0.433367,54.005116],"type":"Point"}
 }

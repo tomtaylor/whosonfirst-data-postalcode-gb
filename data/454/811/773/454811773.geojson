@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.218873,53.756592,-0.218873,53.756592",
-    "geom:latitude": 53.756592,
-    "geom:longitude": -0.218873,
+    "geom:bbox": "-0.219563,53.757123,-0.219563,53.757123",
+    "geom:latitude": 53.757123,
+    "geom:longitude": -0.219563,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698547, 
-      85633159, 
       1360699001, 
       404439271, 
       101874163, 
-      404227469
+      404227469, 
+      1360698547, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701726,
-    "wof:geomhash": "b205607fa0ccb00163a7bd2e8eab82bd",
+    "wof:geomhash": "912f8c3907f1d3c91897c7273a633516",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454811773,
-    "wof:lastmodified": 1583786862,
+    "wof:lastmodified": 1609902731,
     "wof:name": "HU12 8TL",
     "wof:parent_id": 404439271,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.218873, 
-    53.756592, 
-    -0.218873, 
-    53.756592
+    -0.219563, 
+    53.757123, 
+    -0.219563, 
+    53.757123
   ],
-  "geometry": {"coordinates":[-0.218873,53.756592],"type":"Point"}
+  "geometry": {"coordinates":[-0.219563,53.757123],"type":"Point"}
 }

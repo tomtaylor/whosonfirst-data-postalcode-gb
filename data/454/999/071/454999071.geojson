@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.731824,54.196350,-2.731824,54.196350",
-    "geom:latitude": 54.19635,
-    "geom:longitude": -2.731824,
+    "geom:bbox": "-2.731732,54.196370,-2.731732,54.196370",
+    "geom:latitude": 54.19637,
+    "geom:longitude": -2.731732,
     "gp:parent_id": "23707",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698721, 
       85633159, 
       1360698877, 
       404434931, 
       1310628197, 
-      404227469
+      404227469, 
+      1360698721
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701767,
-    "wof:geomhash": "91d4edfb8e4649d9dc0a8d0128f04797",
+    "wof:geomhash": "d8be8c46fe361dbf2dc0d41b06373c21",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454999071,
-    "wof:lastmodified": 1583786903,
+    "wof:lastmodified": 1609905836,
     "wof:name": "LA6 1RP",
     "wof:parent_id": 404434931,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.731824, 
-    54.19635, 
-    -2.731824, 
-    54.19635
+    -2.731732, 
+    54.19637, 
+    -2.731732, 
+    54.19637
   ],
-  "geometry": {"coordinates":[-2.731824,54.19635],"type":"Point"}
+  "geometry": {"coordinates":[-2.731732,54.19637],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.895056,52.082146,-0.895056,52.082146",
-    "geom:latitude": 52.082146,
-    "geom:longitude": -0.895056,
+    "geom:bbox": "-0.894967,52.082139,-0.894967,52.082139",
+    "geom:latitude": 52.082139,
+    "geom:longitude": -0.894967,
     "gp:parent_id": "32489",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698577, 
       85633159, 
       1360698755, 
       404430595, 
-      1125914855
+      1125914855, 
+      404227469, 
+      1360698577
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701366,
-    "wof:geomhash": "052eab2e37686a9c6a5a77aedae6c6c3",
+    "wof:geomhash": "bb6e6148c0b16ca4524694f0c340275e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471168989,
-    "wof:lastmodified": 1583786511,
+    "wof:lastmodified": 1609877982,
     "wof:name": "NN12 7PQ",
     "wof:parent_id": 404430595,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.895056, 
-    52.082146, 
-    -0.895056, 
-    52.082146
+    -0.894967, 
+    52.082139, 
+    -0.894967, 
+    52.082139
   ],
-  "geometry": {"coordinates":[-0.895056,52.082146],"type":"Point"}
+  "geometry": {"coordinates":[-0.894967,52.082139],"type":"Point"}
 }

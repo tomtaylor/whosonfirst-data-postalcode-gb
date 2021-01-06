@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-04-01",
     "geom:area": 0,
-    "geom:bbox": "-1.560330,55.219670,-1.560330,55.219670",
-    "geom:latitude": 55.21967,
-    "geom:longitude": -1.56033,
+    "geom:bbox": "-1.560000,55.219642,-1.560000,55.219642",
+    "geom:latitude": 55.219642,
+    "geom:longitude": -1.56,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698769, 
       404436631, 
       1360758767, 
       404227469, 
-      1360698727
+      1360698727, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583788626,
-    "wof:geomhash": "ed80127f8c1007ee4539870610381264",
+    "wof:geomhash": "05b5c3478c0a101dfbc56faff853c2be",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712451119,
-    "wof:lastmodified": 1595710814,
+    "wof:lastmodified": 1609868851,
     "wof:name": "NE61 5DG",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.56033, 
-    55.21967, 
-    -1.56033, 
-    55.21967
+    -1.56, 
+    55.219642, 
+    -1.56, 
+    55.219642
   ],
-  "geometry": {"coordinates":[-1.56033,55.21967],"type":"Point"}
+  "geometry": {"coordinates":[-1.56,55.219642],"type":"Point"}
 }

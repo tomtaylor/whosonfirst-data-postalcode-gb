@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-07-01",
     "geom:area": 0,
-    "geom:bbox": "-1.323931,54.551366,-1.323931,54.551366",
-    "geom:latitude": 54.551366,
-    "geom:longitude": -1.323931,
+    "geom:bbox": "-1.323686,54.551230,-1.323686,54.551230",
+    "geom:latitude": 54.55123,
+    "geom:longitude": -1.323686,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
+      1360699087, 
+      101750603, 
       404227469, 
       1360698621, 
-      85633159, 
-      1360699087, 
-      101750603
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583790247,
-    "wof:geomhash": "f04beddc9af47364c64dc3421140670f",
+    "wof:geomhash": "79b6f7ff98b4fc63b094edd953b35c12",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1160794412,
-    "wof:lastmodified": 1583790247,
+    "wof:lastmodified": 1609869911,
     "wof:name": "TS18 3FG",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.323931, 
-    54.551366, 
-    -1.323931, 
-    54.551366
+    -1.323686, 
+    54.55123, 
+    -1.323686, 
+    54.55123
   ],
-  "geometry": {"coordinates":[-1.323931,54.551366],"type":"Point"}
+  "geometry": {"coordinates":[-1.323686,54.55123],"type":"Point"}
 }

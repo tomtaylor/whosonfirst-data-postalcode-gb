@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1998-06-01",
     "geom:area": 0,
-    "geom:bbox": "-4.199000,56.238419,-4.199000,56.238419",
-    "geom:latitude": 56.238419,
-    "geom:longitude": -4.199,
+    "geom:bbox": "-4.199453,56.238052,-4.199453,56.238052",
+    "geom:latitude": 56.238052,
+    "geom:longitude": -4.199453,
     "gp:parent_id": "12696211",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699003, 
-      404433721, 
       404227471, 
       1360698655, 
-      85633159
+      85633159, 
+      1360699003, 
+      404433721
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701107,
-    "wof:geomhash": "4abdf56b74d429d898576b7fc14677e2",
+    "wof:geomhash": "a7bb3e1f240a6c4791ed89db0744000b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504383311,
-    "wof:lastmodified": 1583786199,
+    "wof:lastmodified": 1609869013,
     "wof:name": "FK17 8LX",
     "wof:parent_id": 404433721,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.199, 
-    56.238419, 
-    -4.199, 
-    56.238419
+    -4.199453, 
+    56.238052, 
+    -4.199453, 
+    56.238052
   ],
-  "geometry": {"coordinates":[-4.199,56.238419],"type":"Point"}
+  "geometry": {"coordinates":[-4.199453,56.238052],"type":"Point"}
 }

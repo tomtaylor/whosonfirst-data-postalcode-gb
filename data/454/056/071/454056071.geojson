@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2001-12-01",
     "geom:area": 0,
-    "geom:bbox": "-3.363830,54.662461,-3.363830,54.662461",
-    "geom:latitude": 54.662461,
-    "geom:longitude": -3.36383,
+    "geom:bbox": "-3.363832,54.662495,-3.363832,54.662495",
+    "geom:latitude": 54.662495,
+    "geom:longitude": -3.363832,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      101873389, 
+      404227469, 
       1360698721, 
       85633159, 
       1360698877, 
-      404453209, 
-      101873389, 
-      404227469
+      404453209
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701099,
-    "wof:geomhash": "921057d287cf0bd420f169c9a5017f8f",
+    "wof:geomhash": "3055e67cca30d465e2e286baf42e8ad0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454056071,
-    "wof:lastmodified": 1583786234,
+    "wof:lastmodified": 1609869073,
     "wof:name": "CA13 9QR",
     "wof:parent_id": 101873389,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.36383, 
-    54.662461, 
-    -3.36383, 
-    54.662461
+    -3.363832, 
+    54.662495, 
+    -3.363832, 
+    54.662495
   ],
-  "geometry": {"coordinates":[-3.36383,54.662461],"type":"Point"}
+  "geometry": {"coordinates":[-3.363832,54.662495],"type":"Point"}
 }

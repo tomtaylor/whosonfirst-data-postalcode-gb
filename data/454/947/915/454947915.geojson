@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.992428,53.470249,-2.992428,53.470249",
-    "geom:latitude": 53.470249,
-    "geom:longitude": -2.992428,
+    "geom:bbox": "-2.992622,53.470158,-2.992622,53.470158",
+    "geom:latitude": 53.470158,
+    "geom:longitude": -2.992622,
     "gp:parent_id": "26734",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       85788803, 
       1360698573, 
       85633159, 
       1360698771, 
       1360817501, 
-      1126041051
+      1126041051, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701762,
-    "wof:geomhash": "abf16dbb64a45705082d6d3fb8ce3f55",
+    "wof:geomhash": "061325125b9783c347a1c577853c37da",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 454947915,
-    "wof:lastmodified": 1583786897,
+    "wof:lastmodified": 1609905300,
     "wof:name": "L21 8NG",
     "wof:parent_id": 101913935,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.992428, 
-    53.470249, 
-    -2.992428, 
-    53.470249
+    -2.992622, 
+    53.470158, 
+    -2.992622, 
+    53.470158
   ],
-  "geometry": {"coordinates":[-2.992428,53.470249],"type":"Point"}
+  "geometry": {"coordinates":[-2.992622,53.470158],"type":"Point"}
 }

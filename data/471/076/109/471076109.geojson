@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.061773,54.969900,-2.061773,54.969900",
-    "geom:latitude": 54.9699,
-    "geom:longitude": -2.061773,
+    "geom:bbox": "-2.061258,54.969963,-2.061258,54.969963",
+    "geom:latitude": 54.969963,
+    "geom:longitude": -2.061258,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698727, 
       85633159, 
       1360698769, 
       404429721, 
-      101873449, 
-      404227469, 
-      1360698727
+      101873449
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701235,
-    "wof:geomhash": "ee84d7e55412061f4579e2bc43ecc109",
+    "wof:geomhash": "215551e7b79c97cf697b94d15d522526",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471076109,
-    "wof:lastmodified": 1583786377,
+    "wof:lastmodified": 1609871449,
     "wof:name": "NE46 1UW",
     "wof:parent_id": 404429721,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.061773, 
-    54.9699, 
-    -2.061773, 
-    54.9699
+    -2.061258, 
+    54.969963, 
+    -2.061258, 
+    54.969963
   ],
-  "geometry": {"coordinates":[-2.061773,54.9699],"type":"Point"}
+  "geometry": {"coordinates":[-2.061258,54.969963],"type":"Point"}
 }

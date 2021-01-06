@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.099252,51.662644,-0.099252,51.662644",
-    "geom:latitude": 51.662644,
-    "geom:longitude": -0.099252,
+    "geom:bbox": "-0.099273,51.662540,-0.099273,51.662540",
+    "geom:latitude": 51.66254,
+    "geom:longitude": -0.099273,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      101750367, 
-      404227469, 
       85790985, 
       1360698645, 
-      1158857281
+      1158857281, 
+      85633159, 
+      101750367, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701634,
-    "wof:geomhash": "fc091d0715d568fbca693863e7ca7767",
+    "wof:geomhash": "40241ebc0dd8b3bbb06b50cc48d019b3",
     "wof:hierarchy": [
       {
         "borough_id": 1158857281,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454549119,
-    "wof:lastmodified": 1583786766,
+    "wof:lastmodified": 1609893912,
     "wof:name": "EN2 8LY",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.099252, 
-    51.662644, 
-    -0.099252, 
-    51.662644
+    -0.099273, 
+    51.66254, 
+    -0.099273, 
+    51.66254
   ],
-  "geometry": {"coordinates":[-0.099252,51.662644],"type":"Point"}
+  "geometry": {"coordinates":[-0.099273,51.66254],"type":"Point"}
 }

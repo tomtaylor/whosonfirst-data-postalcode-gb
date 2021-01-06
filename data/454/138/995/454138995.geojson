@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.279985,51.628918,0.279985,51.628918",
-    "geom:latitude": 51.628918,
-    "geom:longitude": 0.279985,
+    "geom:bbox": "0.273029,51.630824,0.273029,51.630824",
+    "geom:latitude": 51.630824,
+    "geom:longitude": 0.273029,
     "gp:parent_id": "35337",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -23,7 +23,8 @@
       85633159, 
       1360698979, 
       101854697, 
-      404227469
+      404227469, 
+      85860499
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,18 +32,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701302,
-    "wof:geomhash": "9ed921105ee9442a7236892e9338f5b1",
+    "wof:geomhash": "3b2adc3f858331903a67afc23ff52c08",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360698979,
         "locality_id": 101854697,
         "macroregion_id": 404227469,
+        "neighbourhood_id": 85860499,
         "region_id": 1360698551
       }
     ],
     "wof:id": 454138995,
-    "wof:lastmodified": 1583786436,
+    "wof:lastmodified": 1609873251,
     "wof:name": "CM14 5QE",
     "wof:parent_id": 404450913,
     "wof:placetype": "postalcode",
@@ -52,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.279985, 
-    51.628918, 
-    0.279985, 
-    51.628918
+    0.273029, 
+    51.630824, 
+    0.273029, 
+    51.630824
   ],
-  "geometry": {"coordinates":[0.279985,51.628918],"type":"Point"}
+  "geometry": {"coordinates":[0.273029,51.630824],"type":"Point"}
 }

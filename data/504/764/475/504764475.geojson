@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.262812,55.865924,-4.262812,55.865924",
-    "geom:latitude": 55.865924,
-    "geom:longitude": -4.262812,
+    "geom:bbox": "-4.262757,55.865767,-4.262757,55.865767",
+    "geom:latitude": 55.865767,
+    "geom:longitude": -4.262757,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227471, 
-      85792605, 
       1360698707, 
       85633159, 
       1360698797, 
       404430153, 
-      1175612707
+      1175612707, 
+      404227471, 
+      85792605
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701558,
-    "wof:geomhash": "51eb4f99d771e2ddf50391cd74d4d36d",
+    "wof:geomhash": "8ca60f24788a143218ac4a4a076d99c4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 504764475,
-    "wof:lastmodified": 1583786712,
+    "wof:lastmodified": 1609889874,
     "wof:name": "G3 6RG",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.262812, 
-    55.865924, 
-    -4.262812, 
-    55.865924
+    -4.262757, 
+    55.865767, 
+    -4.262757, 
+    55.865767
   ],
-  "geometry": {"coordinates":[-4.262812,55.865924],"type":"Point"}
+  "geometry": {"coordinates":[-4.262757,55.865767],"type":"Point"}
 }

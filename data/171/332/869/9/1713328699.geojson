@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "-2.525269,52.693633,-2.525269,52.693633",
-    "geom:latitude": 52.693633,
-    "geom:longitude": -2.525269,
+    "geom:bbox": "-2.525654,52.693667,-2.525654,52.693667",
+    "geom:latitude": 52.693667,
+    "geom:longitude": -2.525654,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698911, 
       404439141, 
       1125941857, 
       404227469, 
-      1360698587
+      1360698587, 
+      85633159, 
+      1360698911
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735537,
-    "wof:geomhash": "eaed22e1aa381378aa29fd5ff1b4da99",
+    "wof:geomhash": "6dc376ef707ea9427d0c6b5309714ca1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1713328699,
-    "wof:lastmodified": 1595753374,
+    "wof:lastmodified": 1609875329,
     "wof:name": "TF1 2GN",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.525269, 
-    52.693633, 
-    -2.525269, 
-    52.693633
+    -2.525654, 
+    52.693667, 
+    -2.525654, 
+    52.693667
   ],
-  "geometry": {"coordinates":[-2.525269,52.693633],"type":"Point"}
+  "geometry": {"coordinates":[-2.525654,52.693667],"type":"Point"}
 }

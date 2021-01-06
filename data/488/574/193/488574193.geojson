@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.530698,51.675978,-3.530698,51.675978",
-    "geom:latitude": 51.675978,
-    "geom:longitude": -3.530698,
+    "geom:bbox": "-3.533381,51.678758,-3.533381,51.678758",
+    "geom:latitude": 51.678758,
+    "geom:longitude": -3.533381,
     "gp:parent_id": "12696115",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1125907579, 
-      404227475, 
       1360698631, 
       85633159, 
       1360699025, 
-      404446381
+      404446381, 
+      1125907579, 
+      404227475
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701600,
-    "wof:geomhash": "6989e0b108ebf404803146af30c8316d",
+    "wof:geomhash": "8e910e6e346dc09dd6de69710eed322b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488574193,
-    "wof:lastmodified": 1583786790,
+    "wof:lastmodified": 1609897408,
     "wof:name": "CF42 5PH",
     "wof:parent_id": 404446381,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.530698, 
-    51.675978, 
-    -3.530698, 
-    51.675978
+    -3.533381, 
+    51.678758, 
+    -3.533381, 
+    51.678758
   ],
-  "geometry": {"coordinates":[-3.530698,51.675978],"type":"Point"}
+  "geometry": {"coordinates":[-3.533381,51.678758],"type":"Point"}
 }

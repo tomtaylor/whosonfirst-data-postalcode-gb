@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.482719,53.383692,-2.482719,53.383692",
-    "geom:latitude": 53.383692,
+    "geom:bbox": "-2.482719,53.383700,-2.482719,53.383700",
+    "geom:latitude": 53.3837,
     "geom:longitude": -2.482719,
     "gp:parent_id": "28045",
     "iso:country": "GB",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698537, 
+      85633159, 
       1360698965, 
       404451483, 
       101872115, 
-      404227469, 
-      1360698537, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701223,
-    "wof:geomhash": "64182c0b23fbd25df5ead48945250ed1",
+    "wof:geomhash": "93849b4db7a02e56a3f91d1748d911b5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488062541,
-    "wof:lastmodified": 1583786392,
+    "wof:lastmodified": 1609870680,
     "wof:name": "WA13 9AF",
     "wof:parent_id": 101872115,
     "wof:placetype": "postalcode",
@@ -55,9 +55,9 @@
   },
   "bbox": [
     -2.482719, 
-    53.383692, 
+    53.3837, 
     -2.482719, 
-    53.383692
+    53.3837
   ],
-  "geometry": {"coordinates":[-2.482719,53.383692],"type":"Point"}
+  "geometry": {"coordinates":[-2.482719,53.3837],"type":"Point"}
 }

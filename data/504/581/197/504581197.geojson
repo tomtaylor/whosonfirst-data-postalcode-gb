@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.825074,51.644652,-3.825074,51.644652",
-    "geom:latitude": 51.644652,
-    "geom:longitude": -3.825074,
+    "geom:bbox": "-3.824851,51.644116,-3.824851,51.644116",
+    "geom:latitude": 51.644116,
+    "geom:longitude": -3.824851,
     "gp:parent_id": "12696122",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698825, 
       404444189, 
       1126028933, 
       404227475, 
-      1360698629
+      1360698629, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701450,
-    "wof:geomhash": "ffdbe57b3f2aa347e778610c05483aaf",
+    "wof:geomhash": "7e8af59c270a8d6f7a46f0a1d93042b1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504581197,
-    "wof:lastmodified": 1583786597,
+    "wof:lastmodified": 1609880520,
     "wof:name": "SA11 2UP",
     "wof:parent_id": 404444189,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.825074, 
-    51.644652, 
-    -3.825074, 
-    51.644652
+    -3.824851, 
+    51.644116, 
+    -3.824851, 
+    51.644116
   ],
-  "geometry": {"coordinates":[-3.825074,51.644652],"type":"Point"}
+  "geometry": {"coordinates":[-3.824851,51.644116],"type":"Point"}
 }

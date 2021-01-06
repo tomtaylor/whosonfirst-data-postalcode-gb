@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.549689,52.168866,0.549689,52.168866",
-    "geom:latitude": 52.168866,
-    "geom:longitude": 0.549689,
+    "geom:bbox": "0.549643,52.168822,0.549643,52.168822",
+    "geom:latitude": 52.168822,
+    "geom:longitude": 0.549643,
     "gp:parent_id": "40420",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698595, 
-      85633159, 
       1360699041, 
       404432403, 
       1126013917, 
-      404227469
+      404227469, 
+      1360698595, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701201,
-    "wof:geomhash": "fa10020f7fcfc0bcd99d875f1fadeaac",
+    "wof:geomhash": "7cc447b4694319d1c6265b8202ad3ba3",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454095985,
-    "wof:lastmodified": 1583786351,
+    "wof:lastmodified": 1609870632,
     "wof:name": "CB8 8YE",
     "wof:parent_id": 404432403,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.549689, 
-    52.168866, 
-    0.549689, 
-    52.168866
+    0.549643, 
+    52.168822, 
+    0.549643, 
+    52.168822
   ],
-  "geometry": {"coordinates":[0.549689,52.168866],"type":"Point"}
+  "geometry": {"coordinates":[0.549643,52.168822],"type":"Point"}
 }

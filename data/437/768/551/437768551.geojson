@@ -2,15 +2,15 @@
   "id": 437768551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2002-05-01",
-    "edtf:inception": "2001-06-01",
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-08-01",
     "geom:area": 0,
-    "geom:bbox": "-1.717166,52.198870,-1.717166,52.198870",
-    "geom:latitude": 52.19887,
-    "geom:longitude": -1.717166,
+    "geom:bbox": "-1.760965,52.116078,-1.760965,52.116078",
+    "geom:latitude": 52.116078,
+    "geom:longitude": -1.760965,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000031",
     "os:district_code": "E07000221",
@@ -18,12 +18,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      404442383, 
-      101853071, 
       404227469, 
       1360698603, 
       85633159, 
-      1360698891
+      1360698891, 
+      404430519, 
+      1125844745
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,19 +31,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701543,
-    "wof:geomhash": "47b65ec9e21767588c3c052f681a12ec",
+    "wof:geomhash": "b5232281219a882a7d46dbcfa8160910",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360698891,
-        "localadmin_id": 404442383,
-        "locality_id": 101853071,
+        "localadmin_id": 404430519,
+        "locality_id": 1125844745,
         "macroregion_id": 404227469,
         "region_id": 1360698603
       }
     ],
     "wof:id": 437768551,
-    "wof:lastmodified": 1583786688,
+    "wof:lastmodified": 1609889099,
     "wof:name": "CV37 8YW",
     "wof:parent_id": "85785709",
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.717166, 
-    52.19887, 
-    -1.717166, 
-    52.19887
+    -1.760965, 
+    52.116078, 
+    -1.760965, 
+    52.116078
   ],
-  "geometry": {"coordinates":[-1.717166,52.19887],"type":"Point"}
+  "geometry": {"coordinates":[-1.760965,52.116078],"type":"Point"}
 }

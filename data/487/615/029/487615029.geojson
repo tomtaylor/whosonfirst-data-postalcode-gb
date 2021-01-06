@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1994-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.208760,51.004769,-1.208760,51.004769",
-    "geom:latitude": 51.004769,
-    "geom:longitude": -1.20876,
+    "geom:bbox": "-1.208825,51.004305,-1.208825,51.004305",
+    "geom:latitude": 51.004305,
+    "geom:longitude": -1.208825,
     "gp:parent_id": "38579",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698557, 
       85633159, 
       1360698827, 
       404441521, 
-      1125979153, 
-      404227469, 
-      1360698557
+      1125979153
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701086,
-    "wof:geomhash": "55a43a4862fd3ea26e56640a62c1c864",
+    "wof:geomhash": "b7be4d5c1821255e9bf96c3b6c39ab4a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487615029,
-    "wof:lastmodified": 1583786184,
+    "wof:lastmodified": 1609869245,
     "wof:name": "SO32 1HR",
     "wof:parent_id": 404441521,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.20876, 
-    51.004769, 
-    -1.20876, 
-    51.004769
+    -1.208825, 
+    51.004305, 
+    -1.208825, 
+    51.004305
   ],
-  "geometry": {"coordinates":[-1.20876,51.004769],"type":"Point"}
+  "geometry": {"coordinates":[-1.208825,51.004305],"type":"Point"}
 }

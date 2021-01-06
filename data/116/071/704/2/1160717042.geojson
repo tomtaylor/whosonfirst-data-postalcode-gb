@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-06-01",
     "geom:area": 0,
-    "geom:bbox": "-0.041369,51.589279,-0.041369,51.589279",
-    "geom:latitude": 51.589279,
-    "geom:longitude": -0.041369,
+    "geom:bbox": "-0.041313,51.589233,-0.041313,51.589233",
+    "geom:latitude": 51.589233,
+    "geom:longitude": -0.041313,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      101750367, 
       404227469, 
       85792429, 
       1360698645, 
-      1158857287, 
-      85633159, 
-      101750367
+      1158857287
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583786931,
-    "wof:geomhash": "67c0532d0095df63ae0f8cb7d68569c8",
+    "wof:geomhash": "84299ef6ad7267c79f7769f0dd759890",
     "wof:hierarchy": [
       {
         "borough_id": 1158857287,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160717042,
-    "wof:lastmodified": 1583786931,
+    "wof:lastmodified": 1609869133,
     "wof:name": "E17 6ZD",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.041369, 
-    51.589279, 
-    -0.041369, 
-    51.589279
+    -0.041313, 
+    51.589233, 
+    -0.041313, 
+    51.589233
   ],
-  "geometry": {"coordinates":[-0.041369,51.589279],"type":"Point"}
+  "geometry": {"coordinates":[-0.041313,51.589233],"type":"Point"}
 }

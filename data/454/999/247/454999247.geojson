@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.605731,54.213580,-2.605731,54.213580",
-    "geom:latitude": 54.21358,
-    "geom:longitude": -2.605731,
+    "geom:bbox": "-2.604419,54.213002,-2.604419,54.213002",
+    "geom:latitude": 54.213002,
+    "geom:longitude": -2.604419,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698877, 
+      404453597, 
       1125843663, 
       404227469, 
       1360698721, 
-      85633159, 
-      1360698877, 
-      404453597
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701768,
-    "wof:geomhash": "e6a5cf72bcb911c5901c5758781b13b9",
+    "wof:geomhash": "67503ce55e035300226a159958dc4a76",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454999247,
-    "wof:lastmodified": 1595718028,
+    "wof:lastmodified": 1609905841,
     "wof:name": "LA6 2EA",
     "wof:parent_id": 404453597,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.605731, 
-    54.21358, 
-    -2.605731, 
-    54.21358
+    -2.604419, 
+    54.213002, 
+    -2.604419, 
+    54.213002
   ],
-  "geometry": {"coordinates":[-2.605731,54.21358],"type":"Point"}
+  "geometry": {"coordinates":[-2.604419,54.213002],"type":"Point"}
 }

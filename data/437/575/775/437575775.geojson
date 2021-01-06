@@ -18,12 +18,13 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698645, 
       1158857293, 
       85633159, 
+      1360698979, 
       101750367, 
       404227469, 
-      85787481, 
-      1360698645
+      85787481
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -36,6 +37,7 @@
       {
         "borough_id": 1158857293,
         "country_id": 85633159,
+        "county_id": 1360698979,
         "locality_id": 101750367,
         "macroregion_id": 404227469,
         "neighbourhood_id": 85787481,
@@ -43,7 +45,7 @@
       }
     ],
     "wof:id": 437575775,
-    "wof:lastmodified": 1583786514,
+    "wof:lastmodified": 1609879226,
     "wof:name": "E7 0QW",
     "wof:parent_id": "85787285",
     "wof:placetype": "postalcode",

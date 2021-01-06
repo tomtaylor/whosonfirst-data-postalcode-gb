@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.189204,50.869002,-1.189204,50.869002",
-    "geom:latitude": 50.869002,
-    "geom:longitude": -1.189204,
+    "geom:bbox": "-1.189275,50.868994,-1.189275,50.868994",
+    "geom:latitude": 50.868994,
+    "geom:longitude": -1.189275,
     "gp:parent_id": "19910",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      101750353, 
       404227469, 
       1360698557, 
       85633159, 
-      1360698827
+      1360698827, 
+      101750353
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701620,
-    "wof:geomhash": "b633c7fc57dca9aeaa4ba0c7abd3987a",
+    "wof:geomhash": "2a3afce48485d648fdc41461db030016",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 471453657,
-    "wof:lastmodified": 1583786751,
+    "wof:lastmodified": 1609892600,
     "wof:name": "PO17 5LW",
     "wof:parent_id": 404437055,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.189204, 
-    50.869002, 
-    -1.189204, 
-    50.869002
+    -1.189275, 
+    50.868994, 
+    -1.189275, 
+    50.868994
   ],
-  "geometry": {"coordinates":[-1.189204,50.869002],"type":"Point"}
+  "geometry": {"coordinates":[-1.189275,50.868994],"type":"Point"}
 }

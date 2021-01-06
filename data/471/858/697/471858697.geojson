@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.605343,51.636074,-1.605343,51.636074",
-    "geom:latitude": 51.636074,
-    "geom:longitude": -1.605343,
+    "geom:bbox": "-1.607194,51.630937,-1.607194,51.630937",
+    "geom:latitude": 51.630937,
+    "geom:longitude": -1.607194,
     "gp:parent_id": "21609",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1125914937, 
-      404227469, 
-      1360698585, 
       85633159, 
       1360698839, 
-      404432947
+      404439011, 
+      1360755141, 
+      404227469, 
+      1360698585
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,19 +32,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701757,
-    "wof:geomhash": "11a1039b7149afcfc31b69c46080318c",
+    "wof:geomhash": "1e8cd9dccdba7acef981afaac545bc70",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360698839,
-        "localadmin_id": 404432947,
-        "locality_id": 1125914937,
+        "localadmin_id": 404439011,
+        "locality_id": 1360755141,
         "macroregion_id": 404227469,
         "region_id": 1360698585
       }
     ],
     "wof:id": 471858697,
-    "wof:lastmodified": 1583786921,
+    "wof:lastmodified": 1609904835,
     "wof:name": "SN7 7SR",
     "wof:parent_id": 404432947,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.605343, 
-    51.636074, 
-    -1.605343, 
-    51.636074
+    -1.607194, 
+    51.630937, 
+    -1.607194, 
+    51.630937
   ],
-  "geometry": {"coordinates":[-1.605343,51.636074],"type":"Point"}
+  "geometry": {"coordinates":[-1.607194,51.630937],"type":"Point"}
 }

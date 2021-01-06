@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1996-06-01",
     "geom:area": 0,
-    "geom:bbox": "-4.149950,55.865409,-4.149950,55.865409",
-    "geom:latitude": 55.865409,
-    "geom:longitude": -4.14995,
+    "geom:bbox": "-4.150883,55.865518,-4.150883,55.865518",
+    "geom:latitude": 55.865518,
+    "geom:longitude": -4.150883,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698707, 
       85633159, 
       1360698797, 
       404430153, 
       1175612707, 
       404227471, 
-      85790555
+      85790555, 
+      1360698707
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701443,
-    "wof:geomhash": "00fd012efe6e772b251916bb87fdf787",
+    "wof:geomhash": "6c1685ddeddc0995b4aeeb11d703a07f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 488430291,
-    "wof:lastmodified": 1583786650,
+    "wof:lastmodified": 1609891541,
     "wof:name": "G33 4DA",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.14995, 
-    55.865409, 
-    -4.14995, 
-    55.865409
+    -4.150883, 
+    55.865518, 
+    -4.150883, 
+    55.865518
   ],
-  "geometry": {"coordinates":[-4.14995,55.865409],"type":"Point"}
+  "geometry": {"coordinates":[-4.150883,55.865518],"type":"Point"}
 }

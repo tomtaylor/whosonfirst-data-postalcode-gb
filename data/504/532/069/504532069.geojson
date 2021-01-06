@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1999-06-01",
     "geom:area": 0,
-    "geom:bbox": "-3.144235,51.665432,-3.144235,51.665432",
-    "geom:latitude": 51.665432,
-    "geom:longitude": -3.144235,
+    "geom:bbox": "-3.144257,51.665406,-3.144257,51.665406",
+    "geom:latitude": 51.665406,
+    "geom:longitude": -3.144257,
     "gp:parent_id": "30039",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698925, 
       404443577, 
       1126048225, 
       404227475, 
-      1360698641
+      1360698641, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701407,
-    "wof:geomhash": "547625b468b1735697e179ba59f2c6de",
+    "wof:geomhash": "6ef42cd7e5b9f86e1ac35905076fbfa9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504532069,
-    "wof:lastmodified": 1583786533,
+    "wof:lastmodified": 1609877913,
     "wof:name": "NP11 4EX",
     "wof:parent_id": 404443577,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.144235, 
-    51.665432, 
-    -3.144235, 
-    51.665432
+    -3.144257, 
+    51.665406, 
+    -3.144257, 
+    51.665406
   ],
-  "geometry": {"coordinates":[-3.144235,51.665432],"type":"Point"}
+  "geometry": {"coordinates":[-3.144257,51.665406],"type":"Point"}
 }

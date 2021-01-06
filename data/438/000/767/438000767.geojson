@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.894779,52.466508,-1.894779,52.466508",
-    "geom:latitude": 52.466508,
-    "geom:longitude": -1.894779,
+    "geom:bbox": "-1.894572,52.467011,-1.894572,52.467011",
+    "geom:latitude": 52.467011,
+    "geom:longitude": -1.894572,
     "gp:parent_id": "12723",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699077, 
-      101750467, 
       404227469, 
       85787023, 
-      1360698605
+      1360698605, 
+      85633159, 
+      1360699077, 
+      101750467
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701063,
-    "wof:geomhash": "f92b13a2f574e9003d8fee9c23ed086b",
+    "wof:geomhash": "1badcb783ce5564aab827a1d07d35150",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438000767,
-    "wof:lastmodified": 1583786172,
+    "wof:lastmodified": 1609868604,
     "wof:name": "B5 7BU",
     "wof:parent_id": 101750467,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.894779, 
-    52.466508, 
-    -1.894779, 
-    52.466508
+    -1.894572, 
+    52.467011, 
+    -1.894572, 
+    52.467011
   ],
-  "geometry": {"coordinates":[-1.894779,52.466508],"type":"Point"}
+  "geometry": {"coordinates":[-1.894572,52.467011],"type":"Point"}
 }

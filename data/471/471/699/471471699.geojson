@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.286085,50.747853,-1.286085,50.747853",
-    "geom:latitude": 50.747853,
-    "geom:longitude": -1.286085,
+    "geom:bbox": "-1.286156,50.748762,-1.286156,50.748762",
+    "geom:latitude": 50.748762,
+    "geom:longitude": -1.286156,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      101852313, 
-      404227469, 
-      1360698563, 
       85633159, 
       1360699089, 
-      404438457
+      404438457, 
+      101852313, 
+      404227469, 
+      1360698563
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701631,
-    "wof:geomhash": "3dd7f09e487bdbf41d39502cc915f9ee",
+    "wof:geomhash": "929fd9a532dd3033ce4191193bab5186",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471471699,
-    "wof:lastmodified": 1583786757,
+    "wof:lastmodified": 1609893317,
     "wof:name": "PO32 6JS",
     "wof:parent_id": 404438457,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.286085, 
-    50.747853, 
-    -1.286085, 
-    50.747853
+    -1.286156, 
+    50.748762, 
+    -1.286156, 
+    50.748762
   ],
-  "geometry": {"coordinates":[-1.286085,50.747853],"type":"Point"}
+  "geometry": {"coordinates":[-1.286156,50.748762],"type":"Point"}
 }

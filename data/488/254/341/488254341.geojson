@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2002-11-01",
     "geom:area": 0,
-    "geom:bbox": "-0.626358,53.819382,-0.626358,53.819382",
-    "geom:latitude": 53.819382,
-    "geom:longitude": -0.626358,
+    "geom:bbox": "-0.626983,53.819335,-0.626983,53.819335",
+    "geom:latitude": 53.819335,
+    "geom:longitude": -0.626983,
     "gp:parent_id": "30519",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360699001, 
       404429673, 
       1360753223, 
       404227469, 
-      1360698547, 
-      85633159, 
-      1360699001
+      1360698547
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701227,
-    "wof:geomhash": "07b2e7df5fcf4bc5aee996b4143e3650",
+    "wof:geomhash": "1c6c7f2d80c0a01bd755e67fc38e4bb0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488254341,
-    "wof:lastmodified": 1583786454,
+    "wof:lastmodified": 1609882720,
     "wof:name": "YO43 4RZ",
     "wof:parent_id": 404429673,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.626358, 
-    53.819382, 
-    -0.626358, 
-    53.819382
+    -0.626983, 
+    53.819335, 
+    -0.626983, 
+    53.819335
   ],
-  "geometry": {"coordinates":[-0.626358,53.819382],"type":"Point"}
+  "geometry": {"coordinates":[-0.626983,53.819335],"type":"Point"}
 }

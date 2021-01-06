@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.253979,52.090227,-0.253979,52.090227",
-    "geom:latitude": 52.090227,
-    "geom:longitude": -0.253979,
+    "geom:bbox": "-0.253954,52.090284,-0.253954,52.090284",
+    "geom:latitude": 52.090284,
+    "geom:longitude": -0.253954,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698767, 
-      404433467, 
-      101853559, 
       404227469, 
       1360698527, 
-      85633159
+      85633159, 
+      1360698767, 
+      404433467, 
+      101853559
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701726,
-    "wof:geomhash": "7df81680c1217b77cb96ecb1442393dc",
+    "wof:geomhash": "ee625dab16d8297d4f4f63efe58a7db1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471747803,
-    "wof:lastmodified": 1583786906,
+    "wof:lastmodified": 1609902140,
     "wof:name": "SG18 0HL",
     "wof:parent_id": 101853559,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.253979, 
-    52.090227, 
-    -0.253979, 
-    52.090227
+    -0.253954, 
+    52.090284, 
+    -0.253954, 
+    52.090284
   ],
-  "geometry": {"coordinates":[-0.253979,52.090227],"type":"Point"}
+  "geometry": {"coordinates":[-0.253954,52.090284],"type":"Point"}
 }

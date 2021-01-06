@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1998-12-01",
     "geom:area": 0,
-    "geom:bbox": "-4.528643,50.820894,-4.528643,50.820894",
-    "geom:latitude": 50.820894,
-    "geom:longitude": -4.528643,
+    "geom:bbox": "-4.528938,50.821355,-4.528938,50.821355",
+    "geom:latitude": 50.821355,
+    "geom:longitude": -4.528938,
     "gp:parent_id": "14434",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699085, 
-      404440359, 
       1360756147, 
       404227469, 
-      1360698623
+      1360698623, 
+      85633159, 
+      1360699085, 
+      404440359
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701651,
-    "wof:geomhash": "08c9df27641708652016b55bf687086c",
+    "wof:geomhash": "dd57f3a59e0d51169495460330a00f20",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454585737,
-    "wof:lastmodified": 1583786785,
+    "wof:lastmodified": 1609895637,
     "wof:name": "EX23 8LY",
     "wof:parent_id": 404440359,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.528643, 
-    50.820894, 
-    -4.528643, 
-    50.820894
+    -4.528938, 
+    50.821355, 
+    -4.528938, 
+    50.821355
   ],
-  "geometry": {"coordinates":[-4.528643,50.820894],"type":"Point"}
+  "geometry": {"coordinates":[-4.528938,50.821355],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1986-07-01",
     "geom:area": 0,
-    "geom:bbox": "-2.896013,53.191544,-2.896013,53.191544",
-    "geom:latitude": 53.191544,
-    "geom:longitude": -2.896013,
+    "geom:bbox": "-2.896833,53.191394,-2.896833,53.191394",
+    "geom:latitude": 53.191394,
+    "geom:longitude": -2.896833,
     "gp:parent_id": "15829",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698537, 
       85633159, 
       1360698923, 
-      101750511
+      101750511, 
+      404227469, 
+      1360698537
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701207,
-    "wof:geomhash": "0a4c2f2542132bbace517bf0b964ff16",
+    "wof:geomhash": "b0e67997b868db1b8aa679290e689ec8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454098649,
-    "wof:lastmodified": 1595711605,
+    "wof:lastmodified": 1609870763,
     "wof:name": "CH1 2NR",
     "wof:parent_id": 101750511,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.896013, 
-    53.191544, 
-    -2.896013, 
-    53.191544
+    -2.896833, 
+    53.191394, 
+    -2.896833, 
+    53.191394
   ],
-  "geometry": {"coordinates":[-2.896013,53.191544],"type":"Point"}
+  "geometry": {"coordinates":[-2.896833,53.191394],"type":"Point"}
 }

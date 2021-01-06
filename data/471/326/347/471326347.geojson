@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.330258,51.731050,-1.330258,51.731050",
-    "geom:latitude": 51.73105,
-    "geom:longitude": -1.330258,
+    "geom:bbox": "-1.330340,51.731235,-1.330340,51.731235",
+    "geom:latitude": 51.731235,
+    "geom:longitude": -1.33034,
     "gp:parent_id": "17657",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698585, 
-      85633159, 
-      1360698839, 
       404433295, 
       1125866715, 
-      404227469
+      404227469, 
+      1360698585, 
+      85633159, 
+      1360698839
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701503,
-    "wof:geomhash": "59a9298ae862fb69c265d2e2874d9d18",
+    "wof:geomhash": "29cbfe038506fb131b8b6dae51efc413",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471326347,
-    "wof:lastmodified": 1583786654,
+    "wof:lastmodified": 1609886478,
     "wof:name": "OX2 9QW",
     "wof:parent_id": 404433295,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.330258, 
-    51.73105, 
-    -1.330258, 
-    51.73105
+    -1.33034, 
+    51.731235, 
+    -1.33034, 
+    51.731235
   ],
-  "geometry": {"coordinates":[-1.330258,51.73105],"type":"Point"}
+  "geometry": {"coordinates":[-1.33034,51.731235],"type":"Point"}
 }

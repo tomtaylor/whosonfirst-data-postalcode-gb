@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.969411,50.764144,-2.969411,50.764144",
-    "geom:latitude": 50.764144,
-    "geom:longitude": -2.969411,
+    "geom:bbox": "-2.969090,50.764408,-2.969090,50.764408",
+    "geom:latitude": 50.764408,
+    "geom:longitude": -2.96909,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698541, 
-      85633159, 
       1360699081, 
       404436809, 
       1360758943, 
-      404227469
+      404227469, 
+      1360698541, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701640,
-    "wof:geomhash": "e3f070c1d211f285ff93dbd87417d0b7",
+    "wof:geomhash": "36d02d4a4fd15da38e84b24595d4464c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454567641,
-    "wof:lastmodified": 1595716321,
+    "wof:lastmodified": 1609894859,
     "wof:name": "EX13 5SR",
     "wof:parent_id": 404436809,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.969411, 
-    50.764144, 
-    -2.969411, 
-    50.764144
+    -2.96909, 
+    50.764408, 
+    -2.96909, 
+    50.764408
   ],
-  "geometry": {"coordinates":[-2.969411,50.764144],"type":"Point"}
+  "geometry": {"coordinates":[-2.96909,50.764408],"type":"Point"}
 }

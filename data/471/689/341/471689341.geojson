@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.470457,53.357366,-1.470457,53.357366",
-    "geom:latitude": 53.357366,
-    "geom:longitude": -1.470457,
+    "geom:bbox": "-1.470456,53.357393,-1.470456,53.357393",
+    "geom:latitude": 53.357393,
+    "geom:longitude": -1.470456,
     "gp:parent_id": "34503",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698591, 
-      85633159, 
       1360699075, 
       101750529, 
       404227469, 
-      85788097
+      85788097, 
+      1360698591, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701703,
-    "wof:geomhash": "45accb19a7bc15a96c441a2873842c45",
+    "wof:geomhash": "4341a13d86a96a648afce16fc103b7cc",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471689341,
-    "wof:lastmodified": 1583786883,
+    "wof:lastmodified": 1609900921,
     "wof:name": "S8 9RG",
     "wof:parent_id": 101750529,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.470457, 
-    53.357366, 
-    -1.470457, 
-    53.357366
+    -1.470456, 
+    53.357393, 
+    -1.470456, 
+    53.357393
   ],
-  "geometry": {"coordinates":[-1.470457,53.357366],"type":"Point"}
+  "geometry": {"coordinates":[-1.470456,53.357393],"type":"Point"}
 }

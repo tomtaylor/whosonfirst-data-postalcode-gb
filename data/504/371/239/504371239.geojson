@@ -2,7 +2,7 @@
   "id": 504371239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-10-01",
     "edtf:inception": "1980-02-01",
     "geom:area": 0,
     "geom:bbox": "-3.628027,55.884731,-3.628027,55.884731",
@@ -10,7 +10,7 @@
     "geom:longitude": -3.628027,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "S92000003",
     "os:county_code": "S99999999",
     "os:district_code": "S12000040",
@@ -18,11 +18,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360699027, 
+      404447005, 
       404227471, 
       1360698679, 
-      85633159, 
-      1360699027, 
-      404447005
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -41,7 +41,7 @@
       }
     ],
     "wof:id": 504371239,
-    "wof:lastmodified": 1583786404,
+    "wof:lastmodified": 1609868750,
     "wof:name": "EH48 2HZ",
     "wof:parent_id": 404447005,
     "wof:placetype": "postalcode",

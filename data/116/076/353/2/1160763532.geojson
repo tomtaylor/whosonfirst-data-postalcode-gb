@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-11-01",
     "geom:area": 0,
-    "geom:bbox": "-1.543673,55.182147,-1.543673,55.182147",
-    "geom:latitude": 55.182147,
-    "geom:longitude": -1.543673,
+    "geom:bbox": "-1.543578,55.182183,-1.543578,55.182183",
+    "geom:latitude": 55.182183,
+    "geom:longitude": -1.543578,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      101872383, 
-      404227469, 
       1360698727, 
       85633159, 
       1360698769, 
-      404439495
+      404439495, 
+      101872383, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583788891,
-    "wof:geomhash": "0c528de41165c8a5962a46083d7fc9db",
+    "wof:geomhash": "257150c48091f5cce60355f8b9472b81",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160763532,
-    "wof:lastmodified": 1583788891,
+    "wof:lastmodified": 1609869387,
     "wof:name": "NE63 9WL",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.543673, 
-    55.182147, 
-    -1.543673, 
-    55.182147
+    -1.543578, 
+    55.182183, 
+    -1.543578, 
+    55.182183
   ],
-  "geometry": {"coordinates":[-1.543673,55.182147],"type":"Point"}
+  "geometry": {"coordinates":[-1.543578,55.182183],"type":"Point"}
 }

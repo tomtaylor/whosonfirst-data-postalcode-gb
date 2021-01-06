@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.122280,51.606897,-0.122280,51.606897",
-    "geom:latitude": 51.606897,
-    "geom:longitude": -0.12228,
+    "geom:bbox": "-0.122266,51.606896,-0.122266,51.606896",
+    "geom:latitude": 51.606896,
+    "geom:longitude": -0.122266,
     "gp:parent_id": "12695810",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -20,12 +20,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       101750367, 
       404227469, 
       85792235, 
       1360698645, 
-      1158857279
+      1158857279, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701383,
-    "wof:geomhash": "b8588e836a5d77e8baa487a14d760569",
+    "wof:geomhash": "f8c91d243aecff7290ae658a637a7781",
     "wof:hierarchy": [
       {
         "borough_id": 1158857279,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 470999125,
-    "wof:lastmodified": 1583786524,
+    "wof:lastmodified": 1609879281,
     "wof:name": "N11 2QJ",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -55,10 +55,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.12228, 
-    51.606897, 
-    -0.12228, 
-    51.606897
+    -0.122266, 
+    51.606896, 
+    -0.122266, 
+    51.606896
   ],
-  "geometry": {"coordinates":[-0.12228,51.606897],"type":"Point"}
+  "geometry": {"coordinates":[-0.122266,51.606896],"type":"Point"}
 }

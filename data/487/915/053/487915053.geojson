@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-5.210199,50.247208,-5.210199,50.247208",
-    "geom:latitude": 50.247208,
-    "geom:longitude": -5.210199,
+    "geom:bbox": "-5.210881,50.246929,-5.210881,50.246929",
+    "geom:latitude": 50.246929,
+    "geom:longitude": -5.210881,
     "gp:parent_id": "29468",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698623, 
       85633159, 
       1360699085, 
       404439043, 
-      1125858883
+      1125858883, 
+      404227469, 
+      1360698623
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701256,
-    "wof:geomhash": "fbb933520d040dcf8ed4bf3fce255d8f",
+    "wof:geomhash": "d85ddc2c753cf22e039e9ea2c95b0e4f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487915053,
-    "wof:lastmodified": 1583786332,
+    "wof:lastmodified": 1609886189,
     "wof:name": "TR15 1QT",
     "wof:parent_id": 404439043,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -5.210199, 
-    50.247208, 
-    -5.210199, 
-    50.247208
+    -5.210881, 
+    50.246929, 
+    -5.210881, 
+    50.246929
   ],
-  "geometry": {"coordinates":[-5.210199,50.247208],"type":"Point"}
+  "geometry": {"coordinates":[-5.210881,50.246929],"type":"Point"}
 }

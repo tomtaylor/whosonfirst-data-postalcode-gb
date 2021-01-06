@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-02-01",
     "geom:area": 0,
-    "geom:bbox": "-1.652687,55.135196,-1.652687,55.135196",
-    "geom:latitude": 55.135196,
-    "geom:longitude": -1.652687,
+    "geom:bbox": "-1.652610,55.135034,-1.652610,55.135034",
+    "geom:latitude": 55.135034,
+    "geom:longitude": -1.65261,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698769, 
-      404444371, 
       1125986053, 
       404227469, 
-      1360698727
+      1360698727, 
+      85633159, 
+      1360698769, 
+      404444371
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595736184,
-    "wof:geomhash": "ce147a6b1ddeee1f0bee24ce92a174e4",
+    "wof:geomhash": "bd83827c50e1d78e68e8ad47da4a0cb8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1713343359,
-    "wof:lastmodified": 1595753567,
+    "wof:lastmodified": 1609875369,
     "wof:name": "NE61 6FL",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.652687, 
-    55.135196, 
-    -1.652687, 
-    55.135196
+    -1.65261, 
+    55.135034, 
+    -1.65261, 
+    55.135034
   ],
-  "geometry": {"coordinates":[-1.652687,55.135196],"type":"Point"}
+  "geometry": {"coordinates":[-1.65261,55.135034],"type":"Point"}
 }

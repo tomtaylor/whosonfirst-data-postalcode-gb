@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-05-01",
     "geom:area": 0,
-    "geom:bbox": "0.547582,51.760331,0.547582,51.760331",
-    "geom:latitude": 51.760331,
-    "geom:longitude": 0.547582,
+    "geom:bbox": "0.547575,51.760466,0.547575,51.760466",
+    "geom:latitude": 51.760466,
+    "geom:longitude": 0.547575,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404450753, 
-      1125804347, 
-      404227469, 
       1360698551, 
       85633159, 
-      1360698979
+      1360698979, 
+      404450753, 
+      1125804347, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583802612,
-    "wof:geomhash": "ea90a91017ab4c228ce1561d3aa4b2ec",
+    "wof:geomhash": "e82e0bfc4cce611ce3cc22a95bd40b6b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712765839,
-    "wof:lastmodified": 1595712305,
+    "wof:lastmodified": 1609874174,
     "wof:name": "CM3 3GQ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.547582, 
-    51.760331, 
-    0.547582, 
-    51.760331
+    0.547575, 
+    51.760466, 
+    0.547575, 
+    51.760466
   ],
-  "geometry": {"coordinates":[0.547582,51.760331],"type":"Point"}
+  "geometry": {"coordinates":[0.547575,51.760466],"type":"Point"}
 }

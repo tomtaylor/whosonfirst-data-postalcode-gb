@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.208831,51.582995,-4.208831,51.582995",
-    "geom:latitude": 51.582995,
-    "geom:longitude": -4.208831,
+    "geom:bbox": "-4.208851,51.583094,-4.208851,51.583094",
+    "geom:latitude": 51.583094,
+    "geom:longitude": -4.208851,
     "gp:parent_id": "12696131",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698629, 
+      85633159, 
       1360699095, 
       404430405, 
       1125802939, 
-      404227475, 
-      1360698629, 
-      85633159
+      404227475
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701461,
-    "wof:geomhash": "7f66c26118df42edbec9a574f541eb0c",
+    "wof:geomhash": "e403f5e050a620199d342a6c630a3573",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504592303,
-    "wof:lastmodified": 1583786611,
+    "wof:lastmodified": 1609881315,
     "wof:name": "SA3 1AS",
     "wof:parent_id": 404430405,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.208831, 
-    51.582995, 
-    -4.208831, 
-    51.582995
+    -4.208851, 
+    51.583094, 
+    -4.208851, 
+    51.583094
   ],
-  "geometry": {"coordinates":[-4.208831,51.582995],"type":"Point"}
+  "geometry": {"coordinates":[-4.208851,51.583094],"type":"Point"}
 }

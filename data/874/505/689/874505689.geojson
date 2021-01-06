@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "uuuu",
-    "edtf:inception": "2020-04-01",
+    "edtf:inception": "2020-07-01",
     "geom:area": 0,
     "geom:bbox": "-1.327413,52.061536,-1.327413,52.061536",
     "geom:latitude": 52.061536,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698585, 
-      85633159, 
-      1360698839, 
       404436741, 
       101875471, 
-      404227469
+      404227469, 
+      1360698585, 
+      85633159, 
+      1360698839
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 874505689,
-    "wof:lastmodified": 1595728870,
+    "wof:lastmodified": 1609872588,
     "wof:name": "OX16 6NN",
     "wof:parent_id": 101875471,
     "wof:placetype": "postalcode",

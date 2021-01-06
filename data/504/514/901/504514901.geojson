@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.486414,53.261676,-4.486414,53.261676",
-    "geom:latitude": 53.261676,
-    "geom:longitude": -4.486414,
+    "geom:bbox": "-4.486045,53.261513,-4.486045,53.261513",
+    "geom:latitude": 53.261513,
+    "geom:longitude": -4.486045,
     "gp:parent_id": "14335",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698787, 
-      404444209, 
       1126000447, 
       404227475, 
-      1360698635
+      1360698635, 
+      85633159, 
+      1360698787, 
+      404444209
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701394,
-    "wof:geomhash": "12470e272e729214d4ab0024dece533e",
+    "wof:geomhash": "068ffd75b18ce4fccc35de33aa950fa0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504514901,
-    "wof:lastmodified": 1583786520,
+    "wof:lastmodified": 1609877090,
     "wof:name": "LL65 3SH",
     "wof:parent_id": 404444209,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.486414, 
-    53.261676, 
-    -4.486414, 
-    53.261676
+    -4.486045, 
+    53.261513, 
+    -4.486045, 
+    53.261513
   ],
-  "geometry": {"coordinates":[-4.486414,53.261676],"type":"Point"}
+  "geometry": {"coordinates":[-4.486045,53.261513],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.130369,50.494872,-4.130369,50.494872",
-    "geom:latitude": 50.494872,
-    "geom:longitude": -4.130369,
+    "geom:bbox": "-4.130314,50.494880,-4.130314,50.494880",
+    "geom:latitude": 50.49488,
+    "geom:longitude": -4.130314,
     "gp:parent_id": "14403",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698541, 
       85633159, 
       1360699081, 
       404439053, 
       1126010411, 
-      404227469, 
-      1360698541
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701576,
-    "wof:geomhash": "855f0821b6c620a367582a7a5241cba7",
+    "wof:geomhash": "e4c98bf58cb698713952ec7b4c987051",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471416603,
-    "wof:lastmodified": 1583786731,
+    "wof:lastmodified": 1609891276,
     "wof:name": "PL20 7NA",
     "wof:parent_id": 404439053,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.130369, 
-    50.494872, 
-    -4.130369, 
-    50.494872
+    -4.130314, 
+    50.49488, 
+    -4.130314, 
+    50.49488
   ],
-  "geometry": {"coordinates":[-4.130369,50.494872],"type":"Point"}
+  "geometry": {"coordinates":[-4.130314,50.49488],"type":"Point"}
 }

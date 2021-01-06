@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.797243,53.617861,-1.797243,53.617861",
-    "geom:latitude": 53.617861,
-    "geom:longitude": -1.797243,
+    "geom:bbox": "-1.797620,53.617942,-1.797620,53.617942",
+    "geom:latitude": 53.617942,
+    "geom:longitude": -1.79762,
     "gp:parent_id": "24083",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      101750573, 
-      404227469, 
       1360698609, 
       85633159, 
-      1360698917
+      1360698917, 
+      101750573, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701708,
-    "wof:geomhash": "f7dbd7c6339b190eff9bc45070b00dbc",
+    "wof:geomhash": "37a62f7111e2806bdcb6cd635786b364",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454745787,
-    "wof:lastmodified": 1583786848,
+    "wof:lastmodified": 1609901148,
     "wof:name": "HD4 7NW",
     "wof:parent_id": 404431985,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.797243, 
-    53.617861, 
-    -1.797243, 
-    53.617861
+    -1.79762, 
+    53.617942, 
+    -1.79762, 
+    53.617942
   ],
-  "geometry": {"coordinates":[-1.797243,53.617861],"type":"Point"}
+  "geometry": {"coordinates":[-1.79762,53.617942],"type":"Point"}
 }

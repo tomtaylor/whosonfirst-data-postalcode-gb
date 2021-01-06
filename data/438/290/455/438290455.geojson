@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.593857,51.442900,-2.593857,51.442900",
-    "geom:latitude": 51.4429,
-    "geom:longitude": -2.593857,
+    "geom:bbox": "-2.593443,51.443145,-2.593443,51.443145",
+    "geom:latitude": 51.443145,
+    "geom:longitude": -2.593443,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,13 +18,13 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698747, 
       404431949, 
       1175612699, 
       404227469, 
       1175612725, 
       1360698531, 
-      85633159
+      85633159, 
+      1360698747
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701476,
-    "wof:geomhash": "40083471dc0e3f368826b4c945ca0318",
+    "wof:geomhash": "c32ef030acad7e916df2387e76fe4b95",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 438290455,
-    "wof:lastmodified": 1583786616,
+    "wof:lastmodified": 1609883891,
     "wof:name": "BS3 4EA",
     "wof:parent_id": 101750389,
     "wof:placetype": "postalcode",
@@ -55,10 +55,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.593857, 
-    51.4429, 
-    -2.593857, 
-    51.4429
+    -2.593443, 
+    51.443145, 
+    -2.593443, 
+    51.443145
   ],
-  "geometry": {"coordinates":[-2.593857,51.4429],"type":"Point"}
+  "geometry": {"coordinates":[-2.593443,51.443145],"type":"Point"}
 }

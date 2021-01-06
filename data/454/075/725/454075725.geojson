@@ -2,7 +2,7 @@
   "id": 454075725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-05-01",
     "edtf:inception": "2007-05-01",
     "geom:area": 0,
     "geom:bbox": "-2.729378,54.940671,-2.729378,54.940671",
@@ -11,7 +11,7 @@
     "gp:parent_id": "19984",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000006",
     "os:district_code": "E07000028",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698877, 
       404436973, 
       1309739001, 
       404227469, 
-      1360698721, 
-      85633159, 
-      1360698877
+      1360698721
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454075725,
-    "wof:lastmodified": 1583786300,
+    "wof:lastmodified": 1609869733,
     "wof:name": "CA8 9YB",
     "wof:parent_id": 101873405,
     "wof:placetype": "postalcode",

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1985-04-01",
     "geom:area": 0,
-    "geom:bbox": "-0.376430,53.744015,-0.376430,53.744015",
-    "geom:latitude": 53.744015,
-    "geom:longitude": -0.37643,
+    "geom:bbox": "-0.376217,53.744012,-0.376217,53.744012",
+    "geom:latitude": 53.744012,
+    "geom:longitude": -0.376217,
     "gp:parent_id": "25211",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698547, 
+      85633159, 
       1360698951, 
       101750561, 
-      404227469, 
-      1360698547, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701726,
-    "wof:geomhash": "3bcd186f70b61aa8eaeff4fbc6bcb0d4",
+    "wof:geomhash": "c460efc222726e62d1660a62691b2638",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454821317,
-    "wof:lastmodified": 1583786863,
+    "wof:lastmodified": 1609902809,
     "wof:name": "HU3 6PW",
     "wof:parent_id": 101750561,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.37643, 
-    53.744015, 
-    -0.37643, 
-    53.744015
+    -0.376217, 
+    53.744012, 
+    -0.376217, 
+    53.744012
   ],
-  "geometry": {"coordinates":[-0.37643,53.744015],"type":"Point"}
+  "geometry": {"coordinates":[-0.376217,53.744012],"type":"Point"}
 }

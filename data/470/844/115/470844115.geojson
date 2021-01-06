@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.515182,53.794931,-1.515182,53.794931",
-    "geom:latitude": 53.794931,
-    "geom:longitude": -1.515182,
+    "geom:bbox": "-1.514974,53.794883,-1.514974,53.794883",
+    "geom:latitude": 53.794883,
+    "geom:longitude": -1.514974,
     "gp:parent_id": "26042",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      85792929, 
+      1360698609, 
       85633159, 
       1360698749, 
       101750579, 
-      404227469, 
-      85792929, 
-      1360698609
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701112,
-    "wof:geomhash": "73893c7f30826c1f14fce3c1bbcd72ac",
+    "wof:geomhash": "07ab48cf72ba2469edff25dc252aae99",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470844115,
-    "wof:lastmodified": 1583786231,
+    "wof:lastmodified": 1609869447,
     "wof:name": "LS9 9JN",
     "wof:parent_id": 101750579,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.515182, 
-    53.794931, 
-    -1.515182, 
-    53.794931
+    -1.514974, 
+    53.794883, 
+    -1.514974, 
+    53.794883
   ],
-  "geometry": {"coordinates":[-1.515182,53.794931],"type":"Point"}
+  "geometry": {"coordinates":[-1.514974,53.794883],"type":"Point"}
 }

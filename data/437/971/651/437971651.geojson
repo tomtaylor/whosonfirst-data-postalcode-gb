@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.858676,52.524951,-1.858676,52.524951",
-    "geom:latitude": 52.524951,
+    "geom:bbox": "-1.858676,52.524915,-1.858676,52.524915",
+    "geom:latitude": 52.524915,
     "geom:longitude": -1.858676,
     "gp:parent_id": "12723",
     "iso:country": "GB",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      101750467, 
       404227469, 
       85790751, 
       1360698605, 
       85633159, 
-      1360699077
+      1360699077, 
+      101750467
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701656,
-    "wof:geomhash": "3c0bfc40a52445df1b2ceb37d4b75a3d",
+    "wof:geomhash": "5fd861cdd7ab57659e304c4823206a48",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 437971651,
-    "wof:lastmodified": 1583786824,
+    "wof:lastmodified": 1609898104,
     "wof:name": "B23 7JD",
     "wof:parent_id": 101750467,
     "wof:placetype": "postalcode",
@@ -55,9 +55,9 @@
   },
   "bbox": [
     -1.858676, 
-    52.524951, 
+    52.524915, 
     -1.858676, 
-    52.524951
+    52.524915
   ],
-  "geometry": {"coordinates":[-1.858676,52.524951],"type":"Point"}
+  "geometry": {"coordinates":[-1.858676,52.524915],"type":"Point"}
 }

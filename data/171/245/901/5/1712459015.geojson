@@ -5,30 +5,30 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-06-01",
     "geom:area": 0,
-    "geom:bbox": "-4.798327,50.395689,-4.798327,50.395689",
-    "geom:latitude": 50.395689,
-    "geom:longitude": -4.798327,
+    "geom:bbox": "-4.779995,50.369296,-4.779995,50.369296",
+    "geom:latitude": 50.369296,
+    "geom:longitude": -4.779995,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000052",
-    "os:positional_quality_indicator": "5",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360699085, 
       404435355, 
       1360757237, 
       404227469, 
-      1360698623, 
-      85633159, 
-      1360699085
+      1360698623
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583788976,
-    "wof:geomhash": "64745523e595cbcea229e3315fad7f4e",
+    "wof:geomhash": "2060e9766a53f517b7add722f9bb6148",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712459015,
-    "wof:lastmodified": 1583788976,
+    "wof:lastmodified": 1609869038,
     "wof:name": "PL26 8WH",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.798327, 
-    50.395689, 
-    -4.798327, 
-    50.395689
+    -4.779995, 
+    50.369296, 
+    -4.779995, 
+    50.369296
   ],
-  "geometry": {"coordinates":[-4.798327,50.395689],"type":"Point"}
+  "geometry": {"coordinates":[-4.779995,50.369296],"type":"Point"}
 }

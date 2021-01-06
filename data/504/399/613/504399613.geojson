@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.124671,55.873168,-4.124671,55.873168",
-    "geom:latitude": 55.873168,
-    "geom:longitude": -4.124671,
+    "geom:bbox": "-4.124469,55.873194,-4.124469,55.873194",
+    "geom:latitude": 55.873194,
+    "geom:longitude": -4.124469,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698797, 
       404430153, 
       1175612707, 
       404227471, 
       85792561, 
-      1360698707
+      1360698707, 
+      85633159, 
+      1360698797
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701150,
-    "wof:geomhash": "ae781c9afce2c37cda268eb7bd0d08e3",
+    "wof:geomhash": "dcf4d3f231d9908c136cc57492bc469a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 504399613,
-    "wof:lastmodified": 1583786251,
+    "wof:lastmodified": 1609869515,
     "wof:name": "G34 9QQ",
     "wof:parent_id": 404430153,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.124671, 
-    55.873168, 
-    -4.124671, 
-    55.873168
+    -4.124469, 
+    55.873194, 
+    -4.124469, 
+    55.873194
   ],
-  "geometry": {"coordinates":[-4.124671,55.873168],"type":"Point"}
+  "geometry": {"coordinates":[-4.124469,55.873194],"type":"Point"}
 }

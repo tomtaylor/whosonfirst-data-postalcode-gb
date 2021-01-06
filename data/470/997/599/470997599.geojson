@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.140236,51.595022,-0.140236,51.595022",
-    "geom:latitude": 51.595022,
-    "geom:longitude": -0.140236,
+    "geom:bbox": "-0.139975,51.595138,-0.139975,51.595138",
+    "geom:latitude": 51.595138,
+    "geom:longitude": -0.139975,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      1158857279, 
+      85633159, 
       101750367, 
       404227469, 
       85789245, 
-      1360698645, 
-      1158857279, 
-      85633159
+      1360698645
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701383,
-    "wof:geomhash": "60782058351425bf3ffdf86db349e89d",
+    "wof:geomhash": "7baece0e26e4795ebf9264caf444d7ac",
     "wof:hierarchy": [
       {
         "borough_id": 1158857279,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470997599,
-    "wof:lastmodified": 1583786520,
+    "wof:lastmodified": 1609879156,
     "wof:name": "N10 2BS",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.140236, 
-    51.595022, 
-    -0.140236, 
-    51.595022
+    -0.139975, 
+    51.595138, 
+    -0.139975, 
+    51.595138
   ],
-  "geometry": {"coordinates":[-0.140236,51.595022],"type":"Point"}
+  "geometry": {"coordinates":[-0.139975,51.595138],"type":"Point"}
 }

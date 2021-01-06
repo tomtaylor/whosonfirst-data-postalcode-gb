@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.776033,55.606049,-2.776033,55.606049",
-    "geom:latitude": 55.606049,
-    "geom:longitude": -2.776033,
+    "geom:bbox": "-2.776125,55.608295,-2.776125,55.608295",
+    "geom:latitude": 55.608295,
+    "geom:longitude": -2.776125,
     "gp:parent_id": "12696186",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360699015, 
       404442083, 
       404227471, 
-      1360698725, 
-      85633159, 
-      1360699015
+      1360698725
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701496,
-    "wof:geomhash": "d0dd3e96efc4ec48a20fdbddd99f768e",
+    "wof:geomhash": "aba85617e0fb3b7c955bd4a1e1e54b89",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504622973,
-    "wof:lastmodified": 1583786643,
+    "wof:lastmodified": 1609882758,
     "wof:name": "TD1 2DA",
     "wof:parent_id": 404442083,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.776033, 
-    55.606049, 
-    -2.776033, 
-    55.606049
+    -2.776125, 
+    55.608295, 
+    -2.776125, 
+    55.608295
   ],
-  "geometry": {"coordinates":[-2.776033,55.606049],"type":"Point"}
+  "geometry": {"coordinates":[-2.776125,55.608295],"type":"Point"}
 }

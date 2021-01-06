@@ -6,9 +6,9 @@
     "edtf:inception": "1993-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.087211,51.516899,-0.087211,51.516899",
-    "geom:latitude": 51.516899,
-    "geom:longitude": -0.087211,
+    "geom:bbox": "-0.087111,51.516888,-0.087111,51.516888",
+    "geom:latitude": 51.516888,
+    "geom:longitude": -0.087111,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      101750367, 
       404227469, 
       85861745, 
       1360698643, 
-      1158857257, 
-      85633159, 
-      101750367
+      1158857257
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701630,
-    "wof:geomhash": "28d89d1e6e41fe191d6448d9b374848f",
+    "wof:geomhash": "b1842b216d40747110165198e5f19fdd",
     "wof:hierarchy": [
       {
         "borough_id": 1158857257,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454538937,
-    "wof:lastmodified": 1583786761,
+    "wof:lastmodified": 1609893615,
     "wof:name": "EC2M 5TR",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.087211, 
-    51.516899, 
-    -0.087211, 
-    51.516899
+    -0.087111, 
+    51.516888, 
+    -0.087111, 
+    51.516888
   ],
-  "geometry": {"coordinates":[-0.087211,51.516899],"type":"Point"}
+  "geometry": {"coordinates":[-0.087111,51.516888],"type":"Point"}
 }

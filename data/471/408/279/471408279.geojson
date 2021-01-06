@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.471124,50.445901,-4.471124,50.445901",
-    "geom:latitude": 50.445901,
-    "geom:longitude": -4.471124,
+    "geom:bbox": "-4.471865,50.445778,-4.471865,50.445778",
+    "geom:latitude": 50.445778,
+    "geom:longitude": -4.471865,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404431167, 
       101852371, 
       404227469, 
       1360698623, 
       85633159, 
-      1360699085
+      1360699085, 
+      404431167
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701564,
-    "wof:geomhash": "d6e2e1ac7706980ee54dfe09de5bb259",
+    "wof:geomhash": "0a84da4b1a28ec54e8e60d1d8cf48337",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471408279,
-    "wof:lastmodified": 1583786718,
+    "wof:lastmodified": 1609891064,
     "wof:name": "PL14 4ED",
     "wof:parent_id": 404431167,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.471124, 
-    50.445901, 
-    -4.471124, 
-    50.445901
+    -4.471865, 
+    50.445778, 
+    -4.471865, 
+    50.445778
   ],
-  "geometry": {"coordinates":[-4.471124,50.445901],"type":"Point"}
+  "geometry": {"coordinates":[-4.471865,50.445778],"type":"Point"}
 }

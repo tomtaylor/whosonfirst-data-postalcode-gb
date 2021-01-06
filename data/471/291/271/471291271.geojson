@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.123953,53.567284,-2.123953,53.567284",
-    "geom:latitude": 53.567284,
-    "geom:longitude": -2.123953,
+    "geom:bbox": "-2.124526,53.567130,-2.124526,53.567130",
+    "geom:latitude": 53.56713,
+    "geom:longitude": -2.124526,
     "gp:parent_id": "33703",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698953, 
-      1126030435, 
       404227469, 
       1360698555, 
-      85633159
+      85633159, 
+      1360698953, 
+      1126030435
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701475,
-    "wof:geomhash": "aeefd829bc1bbc5922ee77c4759a165c",
+    "wof:geomhash": "80cc32df8c4c8b0944b477b213b6105b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 471291271,
-    "wof:lastmodified": 1583786630,
+    "wof:lastmodified": 1609884985,
     "wof:name": "OL2 5QR",
     "wof:parent_id": 101913965,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.123953, 
-    53.567284, 
-    -2.123953, 
-    53.567284
+    -2.124526, 
+    53.56713, 
+    -2.124526, 
+    53.56713
   ],
-  "geometry": {"coordinates":[-2.123953,53.567284],"type":"Point"}
+  "geometry": {"coordinates":[-2.124526,53.56713],"type":"Point"}
 }

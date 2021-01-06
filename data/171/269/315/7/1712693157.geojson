@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-07-01",
     "geom:area": 0,
-    "geom:bbox": "-1.525996,54.965534,-1.525996,54.965534",
-    "geom:latitude": 54.965534,
-    "geom:longitude": -1.525996,
+    "geom:bbox": "-1.526479,54.965590,-1.526479,54.965590",
+    "geom:latitude": 54.96559,
+    "geom:longitude": -1.526479,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698861, 
       101750613, 
       404227469, 
       1360698601, 
-      85633159
+      85633159, 
+      1360698861
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583799384,
-    "wof:geomhash": "a9ccbc2dc7f6f09a98e0955fbb826161",
+    "wof:geomhash": "6a30c0fce114362c9a773fee5f8130a5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1712693157,
-    "wof:lastmodified": 1595711129,
+    "wof:lastmodified": 1609872507,
     "wof:name": "NE31 1BF",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.525996, 
-    54.965534, 
-    -1.525996, 
-    54.965534
+    -1.526479, 
+    54.96559, 
+    -1.526479, 
+    54.96559
   ],
-  "geometry": {"coordinates":[-1.525996,54.965534],"type":"Point"}
+  "geometry": {"coordinates":[-1.526479,54.96559],"type":"Point"}
 }

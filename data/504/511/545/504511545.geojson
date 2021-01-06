@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.086115,53.174191,-4.086115,53.174191",
-    "geom:latitude": 53.174191,
-    "geom:longitude": -4.086115,
+    "geom:bbox": "-4.086476,53.174130,-4.086476,53.174130",
+    "geom:latitude": 53.17413,
+    "geom:longitude": -4.086476,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698959, 
       404450727, 
       1360711623, 
       404227475, 
-      1360698635
+      1360698635, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701393,
-    "wof:geomhash": "a8d0e1ccc2328398fdb882f5b08c066a",
+    "wof:geomhash": "e23d99da070042574509387188a58b00",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 504511545,
-    "wof:lastmodified": 1583786512,
+    "wof:lastmodified": 1609876920,
     "wof:name": "LL57 4BJ",
     "wof:parent_id": 404450727,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.086115, 
-    53.174191, 
-    -4.086115, 
-    53.174191
+    -4.086476, 
+    53.17413, 
+    -4.086476, 
+    53.17413
   ],
-  "geometry": {"coordinates":[-4.086115,53.174191],"type":"Point"}
+  "geometry": {"coordinates":[-4.086476,53.17413],"type":"Point"}
 }

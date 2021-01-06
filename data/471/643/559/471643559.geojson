@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1997-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.483962,53.447059,-1.483962,53.447059",
-    "geom:latitude": 53.447059,
-    "geom:longitude": -1.483962,
+    "geom:bbox": "-1.483917,53.447086,-1.483917,53.447086",
+    "geom:latitude": 53.447086,
+    "geom:longitude": -1.483917,
     "gp:parent_id": "34503",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360699075, 
+      404451341, 
       1125852303, 
       404227469, 
       85787791, 
-      1360698591, 
-      85633159, 
-      1360699075, 
-      404451341
+      1360698591
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701687,
-    "wof:geomhash": "7e4d64e71cfb9c0b5d08f0cb08746e12",
+    "wof:geomhash": "97f9a70433b2303fd18afc1cb8e646a1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 471643559,
-    "wof:lastmodified": 1595724012,
+    "wof:lastmodified": 1609900153,
     "wof:name": "S35 8RP",
     "wof:parent_id": 404451341,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.483962, 
-    53.447059, 
-    -1.483962, 
-    53.447059
+    -1.483917, 
+    53.447086, 
+    -1.483917, 
+    53.447086
   ],
-  "geometry": {"coordinates":[-1.483962,53.447059],"type":"Point"}
+  "geometry": {"coordinates":[-1.483917,53.447086],"type":"Point"}
 }

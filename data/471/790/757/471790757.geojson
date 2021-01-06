@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1996-12-01",
     "geom:area": 0,
-    "geom:bbox": "-2.034212,53.370112,-2.034212,53.370112",
-    "geom:latitude": 53.370112,
-    "geom:longitude": -2.034212,
+    "geom:bbox": "-2.034181,53.370146,-2.034181,53.370146",
+    "geom:latitude": 53.370146,
+    "geom:longitude": -2.034181,
     "gp:parent_id": "36498",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698929, 
       404449649, 
       1125912293, 
       404227469, 
-      1360698537
+      1360698537, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701733,
-    "wof:geomhash": "0830491bf48504288a2b4cc37cf31ee1",
+    "wof:geomhash": "ce092777ba7fcd2343a5e9355046839f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471790757,
-    "wof:lastmodified": 1583786912,
+    "wof:lastmodified": 1609903013,
     "wof:name": "SK6 7GW",
     "wof:parent_id": 404449649,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.034212, 
-    53.370112, 
-    -2.034212, 
-    53.370112
+    -2.034181, 
+    53.370146, 
+    -2.034181, 
+    53.370146
   ],
-  "geometry": {"coordinates":[-2.034212,53.370112],"type":"Point"}
+  "geometry": {"coordinates":[-2.034181,53.370146],"type":"Point"}
 }

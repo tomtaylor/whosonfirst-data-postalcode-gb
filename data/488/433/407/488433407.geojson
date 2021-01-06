@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.170926,55.930960,-3.170926,55.930960",
-    "geom:latitude": 55.93096,
-    "geom:longitude": -3.170926,
+    "geom:bbox": "-3.170794,55.930817,-3.170794,55.930817",
+    "geom:latitude": 55.930817,
+    "geom:longitude": -3.170794,
     "gp:parent_id": "12696195",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404437279, 
-      101750629, 
-      404227471, 
       85792687, 
       1360698673, 
       85633159, 
-      1360698761
+      1360698761, 
+      404437279, 
+      101750629, 
+      404227471
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701446,
-    "wof:geomhash": "a3dc5414881c093d41d0bf654611c65f",
+    "wof:geomhash": "87127d0a5976a7f47e67017907f3865f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 488433407,
-    "wof:lastmodified": 1595733762,
+    "wof:lastmodified": 1609891562,
     "wof:name": "EH16 5PG",
     "wof:parent_id": 101750629,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.170926, 
-    55.93096, 
-    -3.170926, 
-    55.93096
+    -3.170794, 
+    55.930817, 
+    -3.170794, 
+    55.930817
   ],
-  "geometry": {"coordinates":[-3.170926,55.93096],"type":"Point"}
+  "geometry": {"coordinates":[-3.170794,55.930817],"type":"Point"}
 }

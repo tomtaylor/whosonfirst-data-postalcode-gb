@@ -2,28 +2,28 @@
   "id": 437930781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2005-07-01",
-    "edtf:inception": "2003-04-01",
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-10-01",
     "geom:area": 0,
-    "geom:bbox": "-2.200916,52.173926,-2.200916,52.173926",
-    "geom:latitude": 52.173926,
-    "geom:longitude": -2.200916,
+    "geom:bbox": "-2.220057,52.133320,-2.220057,52.133320",
+    "geom:latitude": 52.13332,
+    "geom:longitude": -2.220057,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000034",
-    "os:district_code": "E07000237",
-    "os:positional_quality_indicator": "5",
+    "os:district_code": "E07000235",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      404440995, 
-      1360756651, 
+      101853019, 
       404227469, 
       1360698613, 
       85633159, 
-      1360699043
+      1360699043, 
+      404449737
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,19 +31,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701639,
-    "wof:geomhash": "e22f84e281c3917e927583fc0f620a8a",
+    "wof:geomhash": "04eab2815a3c5332647eaf979b7beda4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360699043,
-        "localadmin_id": 404440995,
-        "locality_id": 1360756651,
+        "localadmin_id": 404449737,
+        "locality_id": 101853019,
         "macroregion_id": 404227469,
         "region_id": 1360698613
       }
     ],
     "wof:id": 437930781,
-    "wof:lastmodified": 1583786799,
+    "wof:lastmodified": 1609896004,
     "wof:name": "WR5 3WR",
     "wof:parent_id": "101878319",
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.200916, 
-    52.173926, 
-    -2.200916, 
-    52.173926
+    -2.220057, 
+    52.13332, 
+    -2.220057, 
+    52.13332
   ],
-  "geometry": {"coordinates":[-2.200916,52.173926],"type":"Point"}
+  "geometry": {"coordinates":[-2.220057,52.13332],"type":"Point"}
 }

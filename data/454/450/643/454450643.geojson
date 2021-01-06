@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.250200,53.625194,-0.250200,53.625194",
-    "geom:latitude": 53.625194,
-    "geom:longitude": -0.2502,
+    "geom:bbox": "-0.250133,53.625134,-0.250133,53.625134",
+    "geom:latitude": 53.625134,
+    "geom:longitude": -0.250133,
     "gp:parent_id": "35256",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404436873, 
-      1360759011, 
       404227469, 
       1360698571, 
       85633159, 
-      1360698901
+      1360698901, 
+      404436873, 
+      1360759011
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701574,
-    "wof:geomhash": "9f063ce142d1eaf5f6b435787165122d",
+    "wof:geomhash": "8115982118cba88675da63027e34c370",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454450643,
-    "wof:lastmodified": 1583786708,
+    "wof:lastmodified": 1609889969,
     "wof:name": "DN40 3DF",
     "wof:parent_id": 404436873,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.2502, 
-    53.625194, 
-    -0.2502, 
-    53.625194
+    -0.250133, 
+    53.625134, 
+    -0.250133, 
+    53.625134
   ],
-  "geometry": {"coordinates":[-0.2502,53.625194],"type":"Point"}
+  "geometry": {"coordinates":[-0.250133,53.625134],"type":"Point"}
 }

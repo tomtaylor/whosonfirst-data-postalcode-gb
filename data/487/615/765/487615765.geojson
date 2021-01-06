@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1994-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.136797,50.977957,-1.136797,50.977957",
-    "geom:latitude": 50.977957,
-    "geom:longitude": -1.136797,
+    "geom:bbox": "-1.146787,50.978456,-1.146787,50.978456",
+    "geom:latitude": 50.978456,
+    "geom:longitude": -1.146787,
     "gp:parent_id": "16859",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698827, 
       404448265, 
       1360756583, 
       404227469, 
-      1360698557, 
-      85633159, 
-      1360698827
+      1360698557
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701087,
-    "wof:geomhash": "4507ece474e038f7d7e936cf880f7f4f",
+    "wof:geomhash": "c11b67cc1e4151cdac1c79ac55b785cc",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487615765,
-    "wof:lastmodified": 1583786185,
+    "wof:lastmodified": 1609869268,
     "wof:name": "SO32 3NB",
     "wof:parent_id": 404448265,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.136797, 
-    50.977957, 
-    -1.136797, 
-    50.977957
+    -1.146787, 
+    50.978456, 
+    -1.146787, 
+    50.978456
   ],
-  "geometry": {"coordinates":[-1.136797,50.977957],"type":"Point"}
+  "geometry": {"coordinates":[-1.146787,50.978456],"type":"Point"}
 }

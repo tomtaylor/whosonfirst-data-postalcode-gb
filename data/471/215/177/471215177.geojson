@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.034964,52.657825,1.034964,52.657825",
-    "geom:latitude": 52.657825,
-    "geom:longitude": 1.034964,
+    "geom:bbox": "1.034974,52.657867,1.034974,52.657867",
+    "geom:latitude": 52.657867,
+    "geom:longitude": 1.034974,
     "gp:parent_id": "28533",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698575, 
       85633159, 
       1360698955, 
       404430647, 
-      1125968115
+      1125968115, 
+      404227469, 
+      1360698575
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701404,
-    "wof:geomhash": "7007fc11aae09a6bc520842b4bae70cb",
+    "wof:geomhash": "ea9c22d2090cfaa25fa4260a1581e8da",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471215177,
-    "wof:lastmodified": 1583786561,
+    "wof:lastmodified": 1609880554,
     "wof:name": "NR20 3QE",
     "wof:parent_id": 404430647,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.034964, 
-    52.657825, 
-    1.034964, 
-    52.657825
+    1.034974, 
+    52.657867, 
+    1.034974, 
+    52.657867
   ],
-  "geometry": {"coordinates":[1.034964,52.657825],"type":"Point"}
+  "geometry": {"coordinates":[1.034974,52.657867],"type":"Point"}
 }

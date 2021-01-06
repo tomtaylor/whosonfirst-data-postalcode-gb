@@ -19,12 +19,10 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698745, 
       404453481, 
       1125947073, 
-      404227469, 
-      1360698545, 
-      85633159, 
-      1360698745
+      1360698545
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -35,16 +33,14 @@
     "wof:geomhash": "97f213197df14841eed581321f0447bb",
     "wof:hierarchy": [
       {
-        "country_id": 85633159,
         "county_id": 1360698745,
         "localadmin_id": 404453481,
         "locality_id": 1125947073,
-        "macroregion_id": 404227469,
         "region_id": 1360698545
       }
     ],
     "wof:id": 438160369,
-    "wof:lastmodified": 1583786487,
+    "wof:lastmodified": 1609877421,
     "wof:name": "BH21 3US",
     "wof:parent_id": 404453481,
     "wof:placetype": "postalcode",

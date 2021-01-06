@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1991-09-01",
     "geom:area": 0,
-    "geom:bbox": "-0.893686,51.257352,-0.893686,51.257352",
-    "geom:latitude": 51.257352,
-    "geom:longitude": -0.893686,
+    "geom:bbox": "-0.893558,51.257323,-0.893558,51.257323",
+    "geom:latitude": 51.257323,
+    "geom:longitude": -0.893558,
     "gp:parent_id": "18281",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      404435245, 
+      1125891107, 
       404227469, 
       1360698557, 
       85633159, 
-      1360698827, 
-      404435245, 
-      1125891107
+      1360698827
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701666,
-    "wof:geomhash": "6167d8dbcbdc69d7182b91fd05a59517",
+    "wof:geomhash": "6600c63e81575a3bd983321e4a80a951",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471544347,
-    "wof:lastmodified": 1583786800,
+    "wof:lastmodified": 1609896065,
     "wof:name": "RG27 8TF",
     "wof:parent_id": 404435245,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.893686, 
-    51.257352, 
-    -0.893686, 
-    51.257352
+    -0.893558, 
+    51.257323, 
+    -0.893558, 
+    51.257323
   ],
-  "geometry": {"coordinates":[-0.893686,51.257352],"type":"Point"}
+  "geometry": {"coordinates":[-0.893558,51.257323],"type":"Point"}
 }

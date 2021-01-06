@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.127516,54.115126,-0.127516,54.115126",
-    "geom:latitude": 54.115126,
-    "geom:longitude": -0.127516,
+    "geom:bbox": "-0.127489,54.115045,-0.127489,54.115045",
+    "geom:latitude": 54.115045,
+    "geom:longitude": -0.127489,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      404451703, 
+      101874175, 
       404227469, 
       1360698547, 
       85633159, 
-      1360699001, 
-      404451703, 
-      101874175
+      1360699001
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701171,
-    "wof:geomhash": "57ffcf65ca2050ed5dbc3a0863631e23",
+    "wof:geomhash": "11d8bc36ee027b951c6ffa625684d45d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 488231161,
-    "wof:lastmodified": 1583786421,
+    "wof:lastmodified": 1609881429,
     "wof:name": "YO15 1PP",
     "wof:parent_id": 101874175,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.127516, 
-    54.115126, 
-    -0.127516, 
-    54.115126
+    -0.127489, 
+    54.115045, 
+    -0.127489, 
+    54.115045
   ],
-  "geometry": {"coordinates":[-0.127516,54.115126],"type":"Point"}
+  "geometry": {"coordinates":[-0.127489,54.115045],"type":"Point"}
 }

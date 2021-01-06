@@ -6,9 +6,9 @@
     "edtf:inception": "2000-12-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.094996,51.530326,-0.094996,51.530326",
-    "geom:latitude": 51.530326,
-    "geom:longitude": -0.094996,
+    "geom:bbox": "-0.095008,51.530380,-0.095008,51.530380",
+    "geom:latitude": 51.53038,
+    "geom:longitude": -0.095008,
     "gp:parent_id": "12695808",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -20,12 +20,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      1158857273, 
-      85633159, 
-      101750367, 
       404227469, 
       85788355, 
-      1360698645
+      1360698645, 
+      1158857273, 
+      85633159, 
+      101750367
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701380,
-    "wof:geomhash": "f361fd4112aea50b3e56c915986fdbc8",
+    "wof:geomhash": "046817a39c3bb5b5ebf9895c3e5448ba",
     "wof:hierarchy": [
       {
         "borough_id": 1158857273,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 470996133,
-    "wof:lastmodified": 1583786520,
+    "wof:lastmodified": 1609879163,
     "wof:name": "N1 7RW",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -55,10 +55,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.094996, 
-    51.530326, 
-    -0.094996, 
-    51.530326
+    -0.095008, 
+    51.53038, 
+    -0.095008, 
+    51.53038
   ],
-  "geometry": {"coordinates":[-0.094996,51.530326],"type":"Point"}
+  "geometry": {"coordinates":[-0.095008,51.53038],"type":"Point"}
 }

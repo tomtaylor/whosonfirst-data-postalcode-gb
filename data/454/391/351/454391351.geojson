@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.994448,54.742085,-1.994448,54.742085",
-    "geom:latitude": 54.742085,
-    "geom:longitude": -1.994448,
+    "geom:bbox": "-1.994556,54.741996,-1.994556,54.741996",
+    "geom:latitude": 54.741996,
+    "geom:longitude": -1.994556,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699055, 
       404453939, 
       101873345, 
       404227469, 
-      1360698621
+      1360698621, 
+      85633159, 
+      1360699055
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701538,
-    "wof:geomhash": "338e1c8783279dd7ff8d95585ae62440",
+    "wof:geomhash": "04d60a9a3e36929b315879db781e3a70",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454391351,
-    "wof:lastmodified": 1583786667,
+    "wof:lastmodified": 1609887079,
     "wof:name": "DL13 2YJ",
     "wof:parent_id": 101873345,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.994448, 
-    54.742085, 
-    -1.994448, 
-    54.742085
+    -1.994556, 
+    54.741996, 
+    -1.994556, 
+    54.741996
   ],
-  "geometry": {"coordinates":[-1.994448,54.742085],"type":"Point"}
+  "geometry": {"coordinates":[-1.994556,54.741996],"type":"Point"}
 }

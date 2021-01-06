@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.359060,52.308481,-1.359060,52.308481",
-    "geom:latitude": 52.308481,
-    "geom:longitude": -1.35906,
+    "geom:bbox": "-1.356743,52.307390,-1.356743,52.307390",
+    "geom:latitude": 52.30739,
+    "geom:longitude": -1.356743,
     "gp:parent_id": "25971",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698603, 
       85633159, 
       1360698891, 
       404446555, 
-      1125806379, 
-      404227469, 
-      1360698603
+      1125806379
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701421,
-    "wof:geomhash": "8bdf2a3229dd93d150361b606b7e6186",
+    "wof:geomhash": "70a14742b987266589dfbb5fb1d08918",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454260751,
-    "wof:lastmodified": 1583786554,
+    "wof:lastmodified": 1609880674,
     "wof:name": "CV23 8ED",
     "wof:parent_id": 404446555,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.35906, 
-    52.308481, 
-    -1.35906, 
-    52.308481
+    -1.356743, 
+    52.30739, 
+    -1.356743, 
+    52.30739
   ],
-  "geometry": {"coordinates":[-1.35906,52.308481],"type":"Point"}
+  "geometry": {"coordinates":[-1.356743,52.30739],"type":"Point"}
 }

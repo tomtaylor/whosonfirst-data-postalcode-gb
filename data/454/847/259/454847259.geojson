@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.050637,51.643165,0.050637,51.643165",
-    "geom:latitude": 51.643165,
-    "geom:longitude": 0.050637,
+    "geom:bbox": "0.050476,51.643114,0.050476,51.643114",
+    "geom:latitude": 51.643114,
+    "geom:longitude": 0.050476,
     "gp:parent_id": "27508",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698979, 
       404449997, 
       1126058653, 
       404227469, 
-      1360698551
+      1360698551, 
+      85633159, 
+      1360698979
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701732,
-    "wof:geomhash": "5f12996a8cdfcc3f4612f8e08285eb24",
+    "wof:geomhash": "fa8263572eea9a7ea99bad4966fd17eb",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454847259,
-    "wof:lastmodified": 1595717404,
+    "wof:lastmodified": 1609903513,
     "wof:name": "IG10 4JA",
     "wof:parent_id": 101914085,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.050637, 
-    51.643165, 
-    0.050637, 
-    51.643165
+    0.050476, 
+    51.643114, 
+    0.050476, 
+    51.643114
   ],
-  "geometry": {"coordinates":[0.050637,51.643165],"type":"Point"}
+  "geometry": {"coordinates":[0.050476,51.643114],"type":"Point"}
 }

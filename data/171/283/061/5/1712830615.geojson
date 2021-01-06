@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "uuuu",
-    "edtf:inception": "2019-05-01",
+    "edtf:inception": "2020-08-01",
     "geom:area": 0,
     "geom:bbox": "-0.321674,51.067515,-0.321674,51.067515",
     "geom:latitude": 51.067515,
@@ -18,11 +18,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698757, 
       101854615, 
       404227469, 
-      1360698607
+      1360698607, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1712830615,
-    "wof:lastmodified": 1583805520,
+    "wof:lastmodified": 1609874633,
     "wof:name": "RH12 9UH",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

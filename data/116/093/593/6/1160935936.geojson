@@ -2,33 +2,33 @@
   "id": 1160935936,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "1999-12-01",
-    "edtf:inception": "1996-06-01",
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-05-01",
     "geom:area": 0,
-    "geom:bbox": "-2.727021,52.712581,-2.727021,52.712581",
-    "geom:latitude": 52.712581,
-    "geom:longitude": -2.727021,
+    "geom:bbox": "-2.717917,52.703706,-2.717917,52.703706",
+    "geom:latitude": 52.703706,
+    "geom:longitude": -2.717917,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000051",
-    "os:positional_quality_indicator": "6",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698587, 
       85633159, 
       1360698821, 
       404448965, 
-      101750493, 
-      404227469, 
-      1360698587
+      101750493
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583796626,
-    "wof:geomhash": "b1e2a7c53cda252be1a0be59dc72a277",
+    "wof:geomhash": "bc3e7107ac25093c04b826d1b4390358",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160935936,
-    "wof:lastmodified": 1583796626,
+    "wof:lastmodified": 1609872749,
     "wof:name": "SY2 5WB",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.727021, 
-    52.712581, 
-    -2.727021, 
-    52.712581
+    -2.717917, 
+    52.703706, 
+    -2.717917, 
+    52.703706
   ],
-  "geometry": {"coordinates":[-2.727021,52.712581],"type":"Point"}
+  "geometry": {"coordinates":[-2.717917,52.703706],"type":"Point"}
 }

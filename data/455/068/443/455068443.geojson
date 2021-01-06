@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1996-12-01",
     "geom:area": 0,
-    "geom:bbox": "-0.173959,53.383801,-0.173959,53.383801",
-    "geom:latitude": 53.383801,
-    "geom:longitude": -0.173959,
+    "geom:bbox": "-0.185320,53.390330,-0.185320,53.390330",
+    "geom:latitude": 53.39033,
+    "geom:longitude": -0.18532,
     "gp:parent_id": "27923",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      404443319, 
+      1360758295, 
       404227469, 
       1360698571, 
       85633159, 
-      1360699067, 
-      404443319, 
-      1360758295
+      1360699067
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701180,
-    "wof:geomhash": "2cfe57fc9f9a2eb422899d3eb06a6b1e",
+    "wof:geomhash": "62431ecc99e26b17abb6dd4d37e8a024",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 455068443,
-    "wof:lastmodified": 1583786308,
+    "wof:lastmodified": 1609870913,
     "wof:name": "LN8 6AS",
     "wof:parent_id": 404443319,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.173959, 
-    53.383801, 
-    -0.173959, 
-    53.383801
+    -0.18532, 
+    53.39033, 
+    -0.18532, 
+    53.39033
   ],
-  "geometry": {"coordinates":[-0.173959,53.383801],"type":"Point"}
+  "geometry": {"coordinates":[-0.18532,53.39033],"type":"Point"}
 }

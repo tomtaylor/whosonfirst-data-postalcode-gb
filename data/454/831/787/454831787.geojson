@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.853941,53.725298,-1.853941,53.725298",
-    "geom:latitude": 53.725298,
-    "geom:longitude": -1.853941,
+    "geom:bbox": "-1.853945,53.724075,-1.853945,53.724075",
+    "geom:latitude": 53.724075,
+    "geom:longitude": -1.853945,
     "gp:parent_id": "22179",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      101750577, 
-      404227469, 
-      1360698609, 
       85633159, 
       1360698833, 
-      1360817303
+      1360817303, 
+      101750577, 
+      404227469, 
+      1360698609
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701731,
-    "wof:geomhash": "c4ce6a4fe473874b9c7afd307e595712",
+    "wof:geomhash": "d44bb704ad4d822c6ae89a2696799db3",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454831787,
-    "wof:lastmodified": 1583786865,
+    "wof:lastmodified": 1609903190,
     "wof:name": "HX1 1SP",
     "wof:parent_id": 101750577,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.853941, 
-    53.725298, 
-    -1.853941, 
-    53.725298
+    -1.853945, 
+    53.724075, 
+    -1.853945, 
+    53.724075
   ],
-  "geometry": {"coordinates":[-1.853941,53.725298],"type":"Point"}
+  "geometry": {"coordinates":[-1.853945,53.724075],"type":"Point"}
 }

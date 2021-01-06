@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "uuuu",
-    "edtf:inception": "2017-04-01",
+    "edtf:inception": "2020-06-01",
     "geom:area": 0,
     "geom:bbox": "0.404190,52.242919,0.404190,52.242919",
     "geom:latitude": 52.242919,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698595, 
-      85633159, 
       1360699041, 
       404440797, 
       101854871, 
-      404227469
+      404227469, 
+      1360698595, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1161019492,
-    "wof:lastmodified": 1583800292,
+    "wof:lastmodified": 1609875141,
     "wof:name": "CB8 1FL",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

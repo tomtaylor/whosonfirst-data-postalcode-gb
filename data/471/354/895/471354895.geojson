@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.134649,52.776600,0.134649,52.776600",
-    "geom:latitude": 52.7766,
-    "geom:longitude": 0.134649,
+    "geom:bbox": "0.134462,52.776423,0.134462,52.776423",
+    "geom:latitude": 52.776423,
+    "geom:longitude": 0.134462,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699067, 
       404448569, 
       1260322239, 
       404227469, 
       1360698571, 
-      85633159
+      85633159, 
+      1360699067
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701529,
-    "wof:geomhash": "6ed7506b37f15cdf17c0adba4d304814",
+    "wof:geomhash": "fca27d8ed610cca3e6bd5013f5b54e6c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471354895,
-    "wof:lastmodified": 1583786676,
+    "wof:lastmodified": 1609887891,
     "wof:name": "PE12 9AG",
     "wof:parent_id": 101854995,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.134649, 
-    52.7766, 
-    0.134649, 
-    52.7766
+    0.134462, 
+    52.776423, 
+    0.134462, 
+    52.776423
   ],
-  "geometry": {"coordinates":[0.134649,52.7766],"type":"Point"}
+  "geometry": {"coordinates":[0.134462,52.776423],"type":"Point"}
 }

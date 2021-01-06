@@ -2,15 +2,15 @@
   "id": 488344501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2020-04-01",
-    "edtf:inception": "2008-03-01",
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-09-01",
     "geom:area": 0,
-    "geom:bbox": "-0.781342,50.830770,-0.781342,50.830770",
-    "geom:latitude": 50.83077,
-    "geom:longitude": -0.781342,
+    "geom:bbox": "-0.781323,50.830761,-0.781323,50.830761",
+    "geom:latitude": 50.830761,
+    "geom:longitude": -0.781323,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000032",
     "os:district_code": "E07000225",
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404433377, 
-      101852329, 
       404227469, 
       1360698607, 
       85633159, 
-      1360698757
+      1360698757, 
+      404433377, 
+      101852329
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701356,
-    "wof:geomhash": "8cbf2525e8abd87bfce10b8a42680910",
+    "wof:geomhash": "17d3a64eb9ed3f21a5d88073ad987106",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 488344501,
-    "wof:lastmodified": 1595732682,
+    "wof:lastmodified": 1609887542,
     "wof:name": "PO19 9HJ",
     "wof:parent_id": 101852329,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.781342, 
-    50.83077, 
-    -0.781342, 
-    50.83077
+    -0.781323, 
+    50.830761, 
+    -0.781323, 
+    50.830761
   ],
-  "geometry": {"coordinates":[-0.781342,50.83077],"type":"Point"}
+  "geometry": {"coordinates":[-0.781323,50.830761],"type":"Point"}
 }

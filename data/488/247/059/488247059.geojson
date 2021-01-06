@@ -2,7 +2,7 @@
   "id": 488247059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-09-01",
     "edtf:inception": "1998-06-01",
     "geom:area": 0,
     "geom:bbox": "-1.102777,53.971770,-1.102777,53.971770",
@@ -11,7 +11,7 @@
     "gp:parent_id": "41415",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000014",
@@ -19,11 +19,11 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698977, 
-      101751641, 
       404227469, 
       1360698619, 
-      85633159
+      85633159, 
+      1360698977, 
+      101751641
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488247059,
-    "wof:lastmodified": 1583786444,
+    "wof:lastmodified": 1609882219,
     "wof:name": "YO30 5FZ",
     "wof:parent_id": 101751641,
     "wof:placetype": "postalcode",

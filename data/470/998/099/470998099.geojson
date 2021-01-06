@@ -2,7 +2,7 @@
   "id": 470998099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-08-01",
     "edtf:inception": "1995-12-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
@@ -11,7 +11,7 @@
     "geom:longitude": -0.142849,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E09000014",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698645, 
-      1158857279, 
-      85633159, 
       101750367, 
       404227469, 
-      85789245
+      85789245, 
+      1360698645, 
+      1158857279, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470998099,
-    "wof:lastmodified": 1583786521,
+    "wof:lastmodified": 1609879201,
     "wof:name": "N10 3JW",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",

@@ -2,7 +2,7 @@
   "id": 488584447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-09-01",
     "edtf:inception": "1996-06-01",
     "geom:area": 0,
     "geom:bbox": "-3.174456,51.435941,-3.174456,51.435941",
@@ -10,7 +10,7 @@
     "geom:longitude": -3.174456,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "W92000004",
     "os:county_code": "W99999999",
     "os:district_code": "W06000014",
@@ -18,12 +18,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      404227475, 
       1360698627, 
       85633159, 
       1360698899, 
       404444267, 
-      101875429, 
-      404227475
+      101875429
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 488584447,
-    "wof:lastmodified": 1583786793,
+    "wof:lastmodified": 1609897681,
     "wof:name": "CF64 3TP",
     "wof:parent_id": 404444267,
     "wof:placetype": "postalcode",

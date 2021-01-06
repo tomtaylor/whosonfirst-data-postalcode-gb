@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2002-07-01",
     "geom:area": 0,
-    "geom:bbox": "-2.082418,51.888003,-2.082418,51.888003",
-    "geom:latitude": 51.888003,
+    "geom:bbox": "-2.082418,51.888057,-2.082418,51.888057",
+    "geom:latitude": 51.888057,
     "geom:longitude": -2.082418,
     "gp:parent_id": "15790",
     "iso:country": "GB",
@@ -19,11 +19,11 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698553, 
       85633159, 
       1360698927, 
       101750435, 
-      404227469
+      404227469, 
+      1360698553
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701687,
-    "wof:geomhash": "af7b23178b9b77f1ff6402ab8f3df29e",
+    "wof:geomhash": "ea7b8c9f3d42fee77a68a5d0516eb0fd",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454649405,
-    "wof:lastmodified": 1595716612,
+    "wof:lastmodified": 1609898371,
     "wof:name": "GL50 2DL",
     "wof:parent_id": 101750435,
     "wof:placetype": "postalcode",
@@ -53,9 +53,9 @@
   },
   "bbox": [
     -2.082418, 
-    51.888003, 
+    51.888057, 
     -2.082418, 
-    51.888003
+    51.888057
   ],
-  "geometry": {"coordinates":[-2.082418,51.888003],"type":"Point"}
+  "geometry": {"coordinates":[-2.082418,51.888057],"type":"Point"}
 }

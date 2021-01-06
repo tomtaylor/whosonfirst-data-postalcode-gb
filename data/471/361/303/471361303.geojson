@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.038188,52.451140,0.038188,52.451140",
-    "geom:latitude": 52.45114,
-    "geom:longitude": 0.038188,
+    "geom:bbox": "0.032771,52.450783,0.032771,52.450783",
+    "geom:latitude": 52.450783,
+    "geom:longitude": 0.032771,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698535, 
       85633159, 
       1360698845, 
       404435289, 
-      101854891, 
-      404227469, 
-      1360698535
+      101854891
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701529,
-    "wof:geomhash": "5f4a051aa0aab588a96bc21e75786816",
+    "wof:geomhash": "0915381b54df8b2503c35327f4a3eb7c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471361303,
-    "wof:lastmodified": 1583786678,
+    "wof:lastmodified": 1609888313,
     "wof:name": "PE16 6EG",
     "wof:parent_id": 404435289,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.038188, 
-    52.45114, 
-    0.038188, 
-    52.45114
+    0.032771, 
+    52.450783, 
+    0.032771, 
+    52.450783
   ],
-  "geometry": {"coordinates":[0.038188,52.45114],"type":"Point"}
+  "geometry": {"coordinates":[0.032771,52.450783],"type":"Point"}
 }

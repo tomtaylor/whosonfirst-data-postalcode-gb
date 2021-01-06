@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.952188,50.793076,-3.952188,50.793076",
-    "geom:latitude": 50.793076,
-    "geom:longitude": -3.952188,
+    "geom:bbox": "-3.952258,50.792861,-3.952258,50.792861",
+    "geom:latitude": 50.792861,
+    "geom:longitude": -3.952258,
     "gp:parent_id": "33946",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360699081, 
       404444031, 
       1126060399, 
       404227469, 
-      1360698541, 
-      85633159
+      1360698541
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701649,
-    "wof:geomhash": "e910111b7d060e4a650bac0abc381eeb",
+    "wof:geomhash": "e9329c199900b584d3e12abf79b87960",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454582219,
-    "wof:lastmodified": 1583786782,
+    "wof:lastmodified": 1609895481,
     "wof:name": "EX20 2TJ",
     "wof:parent_id": 404444031,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.952188, 
-    50.793076, 
-    -3.952188, 
-    50.793076
+    -3.952258, 
+    50.792861, 
+    -3.952258, 
+    50.792861
   ],
-  "geometry": {"coordinates":[-3.952188,50.793076],"type":"Point"}
+  "geometry": {"coordinates":[-3.952258,50.792861],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2002-08-01",
     "geom:area": 0,
-    "geom:bbox": "-4.187359,55.815611,-4.187359,55.815611",
-    "geom:latitude": 55.815611,
-    "geom:longitude": -4.187359,
+    "geom:bbox": "-4.187356,55.815517,-4.187356,55.815517",
+    "geom:latitude": 55.815517,
+    "geom:longitude": -4.187356,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,11 +18,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698703, 
-      85633159, 
       1360698969, 
       404453929, 
-      404227471
+      404227471, 
+      1360698703, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -30,7 +30,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701198,
-    "wof:geomhash": "4510f0882f9d5549106364e9963caf34",
+    "wof:geomhash": "5db2b4137933e62d8392907cc1b56eb5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -41,7 +41,7 @@
       }
     ],
     "wof:id": 504418641,
-    "wof:lastmodified": 1583786310,
+    "wof:lastmodified": 1609870306,
     "wof:name": "G72 8FH",
     "wof:parent_id": 101913919,
     "wof:placetype": "postalcode",
@@ -51,10 +51,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.187359, 
-    55.815611, 
-    -4.187359, 
-    55.815611
+    -4.187356, 
+    55.815517, 
+    -4.187356, 
+    55.815517
   ],
-  "geometry": {"coordinates":[-4.187359,55.815611],"type":"Point"}
+  "geometry": {"coordinates":[-4.187356,55.815517],"type":"Point"}
 }

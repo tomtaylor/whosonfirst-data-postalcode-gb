@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1996-06-01",
     "geom:area": 0,
-    "geom:bbox": "-0.520526,51.896548,-0.520526,51.896548",
-    "geom:latitude": 51.896548,
-    "geom:longitude": -0.520526,
+    "geom:bbox": "-0.520333,51.896239,-0.520333,51.896239",
+    "geom:latitude": 51.896239,
+    "geom:longitude": -0.520333,
     "gp:parent_id": "18718",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698767, 
-      404447047, 
       1125901745, 
       404227469, 
-      1360698527
+      1360698527, 
+      85633159, 
+      1360698767, 
+      404447047
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701133,
-    "wof:geomhash": "27f07cbe7d916b5216304505c40056d4",
+    "wof:geomhash": "87f04bc2a501c5c6e78e14ee4f25cbb6",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470852899,
-    "wof:lastmodified": 1583786254,
+    "wof:lastmodified": 1609869778,
     "wof:name": "LU5 5UL",
     "wof:parent_id": 404447047,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.520526, 
-    51.896548, 
-    -0.520526, 
-    51.896548
+    -0.520333, 
+    51.896239, 
+    -0.520333, 
+    51.896239
   ],
-  "geometry": {"coordinates":[-0.520526,51.896548],"type":"Point"}
+  "geometry": {"coordinates":[-0.520333,51.896239],"type":"Point"}
 }

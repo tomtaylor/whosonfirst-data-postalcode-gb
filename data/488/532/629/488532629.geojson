@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2003-07-01",
     "geom:area": 0,
-    "geom:bbox": "-3.498487,56.084455,-3.498487,56.084455",
-    "geom:latitude": 56.084455,
-    "geom:longitude": -3.498487,
+    "geom:bbox": "-3.498675,56.084758,-3.498675,56.084758",
+    "geom:latitude": 56.084758,
+    "geom:longitude": -3.498675,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      101750637, 
-      404227471, 
       1360698659, 
       85633159, 
       1360699123, 
-      404444217
+      404444217, 
+      101750637, 
+      404227471
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701544,
-    "wof:geomhash": "979f823bf7f22d9b1eca5ca2e9a00d5f",
+    "wof:geomhash": "66b4e43a2c4eba67f20251d4983482b1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 488532629,
-    "wof:lastmodified": 1595734625,
+    "wof:lastmodified": 1609895636,
     "wof:name": "KY12 9JB",
     "wof:parent_id": 101750637,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.498487, 
-    56.084455, 
-    -3.498487, 
-    56.084455
+    -3.498675, 
+    56.084758, 
+    -3.498675, 
+    56.084758
   ],
-  "geometry": {"coordinates":[-3.498487,56.084455],"type":"Point"}
+  "geometry": {"coordinates":[-3.498675,56.084758],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-06-01",
     "geom:area": 0,
-    "geom:bbox": "-3.495767,55.912922,-3.495767,55.912922",
-    "geom:latitude": 55.912922,
-    "geom:longitude": -3.495767,
+    "geom:bbox": "-3.495980,55.913054,-3.495980,55.913054",
+    "geom:latitude": 55.913054,
+    "geom:longitude": -3.49598,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698679, 
       85633159, 
       1360699027, 
       404447005, 
-      404227471
+      404227471, 
+      1360698679
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583801195,
-    "wof:geomhash": "8661d966c5a3e4f83d44ed0db0b5b110",
+    "wof:geomhash": "8d35e5e6c2add97389f5939fe079412d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1161039778,
-    "wof:lastmodified": 1595711938,
+    "wof:lastmodified": 1609875419,
     "wof:name": "EH54 5FF",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.495767, 
-    55.912922, 
-    -3.495767, 
-    55.912922
+    -3.49598, 
+    55.913054, 
+    -3.49598, 
+    55.913054
   ],
-  "geometry": {"coordinates":[-3.495767,55.912922],"type":"Point"}
+  "geometry": {"coordinates":[-3.49598,55.913054],"type":"Point"}
 }

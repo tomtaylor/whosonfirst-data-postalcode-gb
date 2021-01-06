@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.437183,54.516095,-1.437183,54.516095",
-    "geom:latitude": 54.516095,
-    "geom:longitude": -1.437183,
+    "geom:bbox": "-1.437507,54.516151,-1.437507,54.516151",
+    "geom:latitude": 54.516151,
+    "geom:longitude": -1.437507,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698889, 
-      404451893, 
-      1309747447, 
       404227469, 
       1360698621, 
-      85633159
+      85633159, 
+      1360698889, 
+      404451893, 
+      1309747447
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583796688,
-    "wof:geomhash": "d3cff757a43286de83831b33a9bd7e0f",
+    "wof:geomhash": "fd0a958506f7b753bc62142e046a65aa",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712632487,
-    "wof:lastmodified": 1595711543,
+    "wof:lastmodified": 1609871694,
     "wof:name": "DL2 1FJ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.437183, 
-    54.516095, 
-    -1.437183, 
-    54.516095
+    -1.437507, 
+    54.516151, 
+    -1.437507, 
+    54.516151
   ],
-  "geometry": {"coordinates":[-1.437183,54.516095],"type":"Point"}
+  "geometry": {"coordinates":[-1.437507,54.516151],"type":"Point"}
 }

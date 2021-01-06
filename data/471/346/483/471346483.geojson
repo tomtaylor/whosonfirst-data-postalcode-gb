@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.989770,51.704507,-0.989770,51.704507",
-    "geom:latitude": 51.704507,
-    "geom:longitude": -0.98977,
+    "geom:bbox": "-0.990004,51.705048,-0.990004,51.705048",
+    "geom:latitude": 51.705048,
+    "geom:longitude": -0.990004,
     "gp:parent_id": "37131",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698839, 
+      404449573, 
       1125912985, 
       404227469, 
       1360698585, 
-      85633159, 
-      1360698839, 
-      404449573
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701519,
-    "wof:geomhash": "caed32cac4d8795e72d094e84a06ea94",
+    "wof:geomhash": "aa60189c384a3ea8efb2133eb89b7103",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471346483,
-    "wof:lastmodified": 1583786672,
+    "wof:lastmodified": 1609887574,
     "wof:name": "OX9 7DA",
     "wof:parent_id": 404449573,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.98977, 
-    51.704507, 
-    -0.98977, 
-    51.704507
+    -0.990004, 
+    51.705048, 
+    -0.990004, 
+    51.705048
   ],
-  "geometry": {"coordinates":[-0.98977,51.704507],"type":"Point"}
+  "geometry": {"coordinates":[-0.990004,51.705048],"type":"Point"}
 }

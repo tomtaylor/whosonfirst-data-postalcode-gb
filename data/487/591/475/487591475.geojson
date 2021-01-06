@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1994-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.404310,50.901069,-1.404310,50.901069",
-    "geom:latitude": 50.901069,
+    "geom:bbox": "-1.404310,50.901033,-1.404310,50.901033",
+    "geom:latitude": 50.901033,
     "geom:longitude": -1.40431,
     "gp:parent_id": "35356",
     "iso:country": "GB",
@@ -19,11 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698557, 
-      85633159, 
       1360698907, 
       101750311, 
-      404227469
+      404227469, 
+      1360698557, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701075,
-    "wof:geomhash": "f813339692f48fc124d63bcc95240aa5",
+    "wof:geomhash": "7aa99897403631c3bbbb5fe5c2a55c25",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 487591475,
-    "wof:lastmodified": 1583786173,
+    "wof:lastmodified": 1609868695,
     "wof:name": "SO14 2BT",
     "wof:parent_id": 101750311,
     "wof:placetype": "postalcode",
@@ -53,9 +53,9 @@
   },
   "bbox": [
     -1.40431, 
-    50.901069, 
+    50.901033, 
     -1.40431, 
-    50.901069
+    50.901033
   ],
-  "geometry": {"coordinates":[-1.40431,50.901069],"type":"Point"}
+  "geometry": {"coordinates":[-1.40431,50.901033],"type":"Point"}
 }

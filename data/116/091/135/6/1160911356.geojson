@@ -5,30 +5,30 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-11-01",
     "geom:area": 0,
-    "geom:bbox": "-2.513115,53.065329,-2.513115,53.065329",
-    "geom:latitude": 53.065329,
-    "geom:longitude": -2.513115,
+    "geom:bbox": "-2.535764,53.070964,-2.535764,53.070964",
+    "geom:latitude": 53.070964,
+    "geom:longitude": -2.535764,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000049",
-    "os:positional_quality_indicator": "5",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698537, 
-      85633159, 
-      1360698929, 
       404440827, 
       101871971, 
-      404227469
+      404227469, 
+      1360698537, 
+      85633159, 
+      1360698929
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583795487,
-    "wof:geomhash": "34a761016d294a96e57093dc79a78090",
+    "wof:geomhash": "5100fd4b6ef65aef8b13ffa9d9b6c0bb",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160911356,
-    "wof:lastmodified": 1583795487,
+    "wof:lastmodified": 1609872078,
     "wof:name": "CW5 6GW",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.513115, 
-    53.065329, 
-    -2.513115, 
-    53.065329
+    -2.535764, 
+    53.070964, 
+    -2.535764, 
+    53.070964
   ],
-  "geometry": {"coordinates":[-2.513115,53.065329],"type":"Point"}
+  "geometry": {"coordinates":[-2.535764,53.070964],"type":"Point"}
 }

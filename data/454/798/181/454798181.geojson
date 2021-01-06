@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.733268,52.044950,-2.733268,52.044950",
-    "geom:latitude": 52.04495,
-    "geom:longitude": -2.733268,
+    "geom:bbox": "-2.732922,52.045186,-2.732922,52.045186",
+    "geom:latitude": 52.045186,
+    "geom:longitude": -2.732922,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      101750451, 
-      404227469, 
-      1360698617, 
       85633159, 
       1360699053, 
-      404449477
+      404449477, 
+      101750451, 
+      404227469, 
+      1360698617
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701717,
-    "wof:geomhash": "97abcdf6f798da19058ebe0bd334af89",
+    "wof:geomhash": "5789a986090e338abd81e995502067ae",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454798181,
-    "wof:lastmodified": 1595717211,
+    "wof:lastmodified": 1609902421,
     "wof:name": "HR2 7BT",
     "wof:parent_id": 101750451,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.733268, 
-    52.04495, 
-    -2.733268, 
-    52.04495
+    -2.732922, 
+    52.045186, 
+    -2.732922, 
+    52.045186
   ],
-  "geometry": {"coordinates":[-2.733268,52.04495],"type":"Point"}
+  "geometry": {"coordinates":[-2.732922,52.045186],"type":"Point"}
 }

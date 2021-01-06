@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "-2.343070,53.499965,-2.343070,53.499965",
-    "geom:latitude": 53.499965,
-    "geom:longitude": -2.34307,
+    "geom:bbox": "-2.343601,53.500368,-2.343601,53.500368",
+    "geom:latitude": 53.500368,
+    "geom:longitude": -2.343601,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699005, 
       1175612693, 
       404227469, 
-      1360698555
+      1360698555, 
+      85633159, 
+      1360699005
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735665,
-    "wof:geomhash": "00337d2238059e2b8aa02686bff5c510",
+    "wof:geomhash": "5b65fa65414d26533aaefd08e6ea9b38",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1713331471,
-    "wof:lastmodified": 1595753477,
+    "wof:lastmodified": 1609875490,
     "wof:name": "M27 5BJ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.34307, 
-    53.499965, 
-    -2.34307, 
-    53.499965
+    -2.343601, 
+    53.500368, 
+    -2.343601, 
+    53.500368
   ],
-  "geometry": {"coordinates":[-2.34307,53.499965],"type":"Point"}
+  "geometry": {"coordinates":[-2.343601,53.500368],"type":"Point"}
 }

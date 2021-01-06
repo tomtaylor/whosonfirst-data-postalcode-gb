@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "-3.323977,56.598856,-3.323977,56.598856",
-    "geom:latitude": 56.598856,
-    "geom:longitude": -3.323977,
+    "geom:bbox": "-3.323711,56.598697,-3.323711,56.598697",
+    "geom:latitude": 56.598697,
+    "geom:longitude": -3.323711,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698829, 
       404451983, 
       404227471, 
-      1360698691
+      1360698691, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735505,
-    "wof:geomhash": "5995b6596fe6f9cd1e8d4de9d6a4cfa0",
+    "wof:geomhash": "3214217ba18a44ea8681ff859280ae5a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1713327995,
-    "wof:lastmodified": 1595753350,
+    "wof:lastmodified": 1609875267,
     "wof:name": "PH10 7FL",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.323977, 
-    56.598856, 
-    -3.323977, 
-    56.598856
+    -3.323711, 
+    56.598697, 
+    -3.323711, 
+    56.598697
   ],
-  "geometry": {"coordinates":[-3.323977,56.598856],"type":"Point"}
+  "geometry": {"coordinates":[-3.323711,56.598697],"type":"Point"}
 }

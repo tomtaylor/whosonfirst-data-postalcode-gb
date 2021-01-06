@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2006-12-01",
     "geom:area": 0,
-    "geom:bbox": "-3.051038,53.190142,-3.051038,53.190142",
-    "geom:latitude": 53.190142,
-    "geom:longitude": -3.051038,
+    "geom:bbox": "-3.051950,53.189487,-3.051950,53.189487",
+    "geom:latitude": 53.189487,
+    "geom:longitude": -3.05195,
     "gp:parent_id": "22698",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698799, 
       404437607, 
       1126012057, 
       404227475, 
-      1360698637, 
-      85633159, 
-      1360698799
+      1360698637
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701528,
-    "wof:geomhash": "14797cc887d312b6a9277ac9c96b191f",
+    "wof:geomhash": "4cf8835c7d4c30b530fbf31adfb4f1ca",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504728913,
-    "wof:lastmodified": 1583786688,
+    "wof:lastmodified": 1609887820,
     "wof:name": "CH5 3DT",
     "wof:parent_id": 404437607,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.051038, 
-    53.190142, 
-    -3.051038, 
-    53.190142
+    -3.05195, 
+    53.189487, 
+    -3.05195, 
+    53.189487
   ],
-  "geometry": {"coordinates":[-3.051038,53.190142],"type":"Point"}
+  "geometry": {"coordinates":[-3.05195,53.189487],"type":"Point"}
 }

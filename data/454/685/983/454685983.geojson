@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.622829,51.326894,-0.622829,51.326894",
-    "geom:latitude": 51.326894,
-    "geom:longitude": -0.622829,
+    "geom:bbox": "-0.622871,51.326940,-0.622871,51.326940",
+    "geom:latitude": 51.32694,
+    "geom:longitude": -0.622871,
     "gp:parent_id": "25497",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698599, 
+      85633159, 
       1360698887, 
       101751589, 
-      404227469, 
-      1360698599, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701698,
-    "wof:geomhash": "74079a3c12fba5f5c9e38f9aaf1384eb",
+    "wof:geomhash": "6c6f1ca7773a0b2c6846ba42df516cac",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454685983,
-    "wof:lastmodified": 1583786833,
+    "wof:lastmodified": 1609899631,
     "wof:name": "GU21 2TT",
     "wof:parent_id": 404435057,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.622829, 
-    51.326894, 
-    -0.622829, 
-    51.326894
+    -0.622871, 
+    51.32694, 
+    -0.622871, 
+    51.32694
   ],
-  "geometry": {"coordinates":[-0.622829,51.326894],"type":"Point"}
+  "geometry": {"coordinates":[-0.622871,51.32694],"type":"Point"}
 }

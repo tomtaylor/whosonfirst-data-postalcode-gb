@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.545009,53.363048,-1.545009,53.363048",
-    "geom:latitude": 53.363048,
-    "geom:longitude": -1.545009,
+    "geom:bbox": "-1.544980,53.362958,-1.544980,53.362958",
+    "geom:latitude": 53.362958,
+    "geom:longitude": -1.54498,
     "gp:parent_id": "34503",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698591, 
       85633159, 
       1360699075, 
       101750529, 
       404227469, 
-      85787553
+      85787553, 
+      1360698591
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701683,
-    "wof:geomhash": "2b80ee8ae33337c724422694243378dd",
+    "wof:geomhash": "c0639cf8da6743a8f35705fefbfa1ff8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471626061,
-    "wof:lastmodified": 1583786846,
+    "wof:lastmodified": 1609899709,
     "wof:name": "S10 3TE",
     "wof:parent_id": 101750529,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.545009, 
-    53.363048, 
-    -1.545009, 
-    53.363048
+    -1.54498, 
+    53.362958, 
+    -1.54498, 
+    53.362958
   ],
-  "geometry": {"coordinates":[-1.545009,53.363048],"type":"Point"}
+  "geometry": {"coordinates":[-1.54498,53.362958],"type":"Point"}
 }

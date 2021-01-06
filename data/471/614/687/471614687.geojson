@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.423311,51.471460,0.423311,51.471460",
-    "geom:latitude": 51.47146,
-    "geom:longitude": 0.423311,
+    "geom:bbox": "0.422590,51.471708,0.422590,51.471708",
+    "geom:latitude": 51.471708,
+    "geom:longitude": 0.42259,
     "gp:parent_id": "19103",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698915, 
       1360817299, 
       1125769795, 
       404227469, 
-      1360698551
+      1360698551, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701682,
-    "wof:geomhash": "595240e88882e93057031cfafe465171",
+    "wof:geomhash": "ef35725e641f433254e41df336ac64da",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471614687,
-    "wof:lastmodified": 1583786837,
+    "wof:lastmodified": 1609899260,
     "wof:name": "RM18 8QP",
     "wof:parent_id": 404451305,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.423311, 
-    51.47146, 
-    0.423311, 
-    51.47146
+    0.42259, 
+    51.471708, 
+    0.42259, 
+    51.471708
   ],
-  "geometry": {"coordinates":[0.423311,51.47146],"type":"Point"}
+  "geometry": {"coordinates":[0.42259,51.471708],"type":"Point"}
 }

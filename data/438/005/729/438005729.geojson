@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.079592,52.370149,-2.079592,52.370149",
-    "geom:latitude": 52.370149,
-    "geom:longitude": -2.079592,
+    "geom:bbox": "-2.079910,52.371088,-2.079910,52.371088",
+    "geom:latitude": 52.371088,
+    "geom:longitude": -2.07991,
     "gp:parent_id": "19854",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1125872291, 
       404227469, 
       1360698613, 
       85633159, 
       1360699043, 
-      404445569
+      404445569, 
+      1125872291
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701067,
-    "wof:geomhash": "e1f5149bf2fc6df8b0a95feddeb1c7e7",
+    "wof:geomhash": "c551d39da099d7750f172e74ca06e992",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438005729,
-    "wof:lastmodified": 1583786305,
+    "wof:lastmodified": 1609868677,
     "wof:name": "B61 9JZ",
     "wof:parent_id": 404445569,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.079592, 
-    52.370149, 
-    -2.079592, 
-    52.370149
+    -2.07991, 
+    52.371088, 
+    -2.07991, 
+    52.371088
   ],
-  "geometry": {"coordinates":[-2.079592,52.370149],"type":"Point"}
+  "geometry": {"coordinates":[-2.07991,52.371088],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.366964,53.624731,-1.366964,53.624731",
-    "geom:latitude": 53.624731,
-    "geom:longitude": -1.366964,
+    "geom:bbox": "-1.366935,53.624784,-1.366935,53.624784",
+    "geom:latitude": 53.624784,
+    "geom:longitude": -1.366935,
     "gp:parent_id": "25297",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698609, 
+      85633159, 
       1360698945, 
       404430573, 
       1260315703, 
-      404227469, 
-      1360698609, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701276,
-    "wof:geomhash": "d5b4ae923d89bb66cbf4938c03f649c8",
+    "wof:geomhash": "d06f07f81b70d615af348fe3ee7fb547",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488146981,
-    "wof:lastmodified": 1583786198,
+    "wof:lastmodified": 1609876852,
     "wof:name": "WF9 5ED",
     "wof:parent_id": 404430573,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.366964, 
-    53.624731, 
-    -1.366964, 
-    53.624731
+    -1.366935, 
+    53.624784, 
+    -1.366935, 
+    53.624784
   ],
-  "geometry": {"coordinates":[-1.366964,53.624731],"type":"Point"}
+  "geometry": {"coordinates":[-1.366935,53.624784],"type":"Point"}
 }

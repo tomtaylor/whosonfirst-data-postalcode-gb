@@ -6,9 +6,9 @@
     "edtf:inception": "2000-12-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.155696,51.512447,-0.155696,51.512447",
-    "geom:latitude": 51.512447,
-    "geom:longitude": -0.155696,
+    "geom:bbox": "-0.155802,51.512323,-0.155802,51.512323",
+    "geom:latitude": 51.512323,
+    "geom:longitude": -0.155802,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,14 +19,14 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      1158859031, 
       404227469, 
       1158859085, 
       85789041, 
       1360698645, 
       1158857245, 
       85633159, 
-      101750367
+      101750367, 
+      1158859031
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -34,7 +34,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701201,
-    "wof:geomhash": "66f6564ca1398b9c85e4aee012c1f0d1",
+    "wof:geomhash": "5439be4e0ffb645d9c3b49b8ee675458",
     "wof:hierarchy": [
       {
         "borough_id": 1158857245,
@@ -48,7 +48,7 @@
       }
     ],
     "wof:id": 488030307,
-    "wof:lastmodified": 1583786380,
+    "wof:lastmodified": 1609869331,
     "wof:name": "W1K 7FZ",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -58,10 +58,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.155696, 
-    51.512447, 
-    -0.155696, 
-    51.512447
+    -0.155802, 
+    51.512323, 
+    -0.155802, 
+    51.512323
   ],
-  "geometry": {"coordinates":[-0.155696,51.512447],"type":"Point"}
+  "geometry": {"coordinates":[-0.155802,51.512323],"type":"Point"}
 }

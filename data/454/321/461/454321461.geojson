@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.301302,51.396800,0.301302,51.396800",
-    "geom:latitude": 51.3968,
-    "geom:longitude": 0.301302,
+    "geom:bbox": "0.301844,51.396709,0.301844,51.396709",
+    "geom:latitude": 51.396709,
+    "geom:longitude": 0.301844,
     "gp:parent_id": "27397",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360759593, 
       404227469, 
       1360698565, 
       85633159, 
       1360698811, 
-      404453807
+      404453807, 
+      1360759593
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701486,
-    "wof:geomhash": "fb2f7f9615242b86a83385c3a46dea0d",
+    "wof:geomhash": "ec20fc84bbc84efaa350872283069fd5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454321461,
-    "wof:lastmodified": 1595714443,
+    "wof:lastmodified": 1609883387,
     "wof:name": "DA3 7PP",
     "wof:parent_id": 404453807,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.301302, 
-    51.3968, 
-    0.301302, 
-    51.3968
+    0.301844, 
+    51.396709, 
+    0.301844, 
+    51.396709
   ],
-  "geometry": {"coordinates":[0.301302,51.3968],"type":"Point"}
+  "geometry": {"coordinates":[0.301844,51.396709],"type":"Point"}
 }

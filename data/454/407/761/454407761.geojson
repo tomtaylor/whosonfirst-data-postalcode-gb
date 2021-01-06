@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.449312,54.331067,-1.449312,54.331067",
-    "geom:latitude": 54.331067,
-    "geom:longitude": -1.449312,
+    "geom:bbox": "-1.449291,54.331070,-1.449291,54.331070",
+    "geom:latitude": 54.33107,
+    "geom:longitude": -1.449291,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698753, 
       404453191, 
       1125783051, 
       404227469, 
-      1360698619
+      1360698619, 
+      85633159, 
+      1360698753
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701546,
-    "wof:geomhash": "359e2161acabfa2f4ab4a025b538697c",
+    "wof:geomhash": "a8c38a85d2e8f8101cec6b2539cf47a9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454407761,
-    "wof:lastmodified": 1583786677,
+    "wof:lastmodified": 1609888117,
     "wof:name": "DL7 8HF",
     "wof:parent_id": 101873285,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.449312, 
-    54.331067, 
-    -1.449312, 
-    54.331067
+    -1.449291, 
+    54.33107, 
+    -1.449291, 
+    54.33107
   ],
-  "geometry": {"coordinates":[-1.449312,54.331067],"type":"Point"}
+  "geometry": {"coordinates":[-1.449291,54.33107],"type":"Point"}
 }

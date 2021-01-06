@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.495271,52.427230,-1.495271,52.427230",
-    "geom:latitude": 52.42723,
-    "geom:longitude": -1.495271,
+    "geom:bbox": "-1.495175,52.427228,-1.495175,52.427228",
+    "geom:latitude": 52.427228,
+    "geom:longitude": -1.495175,
     "gp:parent_id": "17044",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360699115, 
       101750449, 
       404227469, 
-      1360698605, 
-      85633159
+      1360698605
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701443,
-    "wof:geomhash": "29f1a81891abfbe64b7401b98d71fea9",
+    "wof:geomhash": "1aa8c85987e4158b0a15ca3f5ecef5b4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454282585,
-    "wof:lastmodified": 1583786571,
+    "wof:lastmodified": 1609881532,
     "wof:name": "CV6 5BN",
     "wof:parent_id": 101750449,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.495271, 
-    52.42723, 
-    -1.495271, 
-    52.42723
+    -1.495175, 
+    52.427228, 
+    -1.495175, 
+    52.427228
   ],
-  "geometry": {"coordinates":[-1.495271,52.42723],"type":"Point"}
+  "geometry": {"coordinates":[-1.495175,52.427228],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2016-09-01",
     "geom:area": 0,
-    "geom:bbox": "0.187138,52.077879,0.187138,52.077879",
-    "geom:latitude": 52.077879,
-    "geom:longitude": 0.187138,
+    "geom:bbox": "0.188111,52.077483,0.188111,52.077483",
+    "geom:latitude": 52.077483,
+    "geom:longitude": 0.188111,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404453015, 
-      1125975565, 
       404227469, 
       1360698535, 
       85633159, 
-      1360698845
+      1360698845, 
+      404453015, 
+      1125975565
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583796160,
-    "wof:geomhash": "ecbad5ac9002d910dc3f194885b2c08f",
+    "wof:geomhash": "d48d059310bceadb9690521aa963af13",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712620671,
-    "wof:lastmodified": 1595711465,
+    "wof:lastmodified": 1609871431,
     "wof:name": "CB10 1DR",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.187138, 
-    52.077879, 
-    0.187138, 
-    52.077879
+    0.188111, 
+    52.077483, 
+    0.188111, 
+    52.077483
   ],
-  "geometry": {"coordinates":[0.187138,52.077879],"type":"Point"}
+  "geometry": {"coordinates":[0.188111,52.077483],"type":"Point"}
 }

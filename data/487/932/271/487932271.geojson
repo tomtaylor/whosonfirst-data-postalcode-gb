@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.249677,54.566490,-1.249677,54.566490",
-    "geom:latitude": 54.56649,
-    "geom:longitude": -1.249677,
+    "geom:bbox": "-1.249723,54.566467,-1.249723,54.566467",
+    "geom:latitude": 54.566467,
+    "geom:longitude": -1.249723,
     "gp:parent_id": "28869",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698853, 
       101750599, 
       404227469, 
-      1360698619, 
-      85633159, 
-      1360698853
+      1360698619
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701269,
-    "wof:geomhash": "ccb814dfecdde2b2be9dc98c76b60c84",
+    "wof:geomhash": "c00768ca62373b56a491b6aa004ea6c4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 487932271,
-    "wof:lastmodified": 1583786342,
+    "wof:lastmodified": 1609887183,
     "wof:name": "TS1 4PU",
     "wof:parent_id": 101750599,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.249677, 
-    54.56649, 
-    -1.249677, 
-    54.56649
+    -1.249723, 
+    54.566467, 
+    -1.249723, 
+    54.566467
   ],
-  "geometry": {"coordinates":[-1.249677,54.56649],"type":"Point"}
+  "geometry": {"coordinates":[-1.249723,54.566467],"type":"Point"}
 }

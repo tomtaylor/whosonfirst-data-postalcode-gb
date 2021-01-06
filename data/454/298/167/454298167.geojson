@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.396819,52.969355,-2.396819,52.969355",
-    "geom:latitude": 52.969355,
-    "geom:longitude": -2.396819,
+    "geom:bbox": "-2.396912,52.969795,-2.396912,52.969795",
+    "geom:latitude": 52.969795,
+    "geom:longitude": -2.396912,
     "gp:parent_id": "12602188",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698587, 
       85633159, 
       1360698821, 
       404436205, 
-      1125803503
+      1125803503, 
+      404227469, 
+      1360698587
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701458,
-    "wof:geomhash": "51fe033d89308627a47d36d7d1f057f8",
+    "wof:geomhash": "67d927bf9a119dfa4b83d6f4bdcadaa3",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454298167,
-    "wof:lastmodified": 1583786584,
+    "wof:lastmodified": 1609882007,
     "wof:name": "CW3 9RG",
     "wof:parent_id": 404436205,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.396819, 
-    52.969355, 
-    -2.396819, 
-    52.969355
+    -2.396912, 
+    52.969795, 
+    -2.396912, 
+    52.969795
   ],
-  "geometry": {"coordinates":[-2.396819,52.969355],"type":"Point"}
+  "geometry": {"coordinates":[-2.396912,52.969795],"type":"Point"}
 }

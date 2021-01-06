@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2013-07-01",
     "geom:area": 0,
-    "geom:bbox": "-3.644433,55.902337,-3.644433,55.902337",
-    "geom:latitude": 55.902337,
-    "geom:longitude": -3.644433,
+    "geom:bbox": "-3.644243,55.902375,-3.644243,55.902375",
+    "geom:latitude": 55.902375,
+    "geom:longitude": -3.644243,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      101877115, 
-      404227471, 
-      1360698679, 
       85633159, 
       1360699027, 
-      404447005
+      404447005, 
+      101877115, 
+      404227471, 
+      1360698679
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468879077,
-    "wof:geomhash": "1d82c86eafee49a57834067045146bdd",
+    "wof:geomhash": "dff0a108c0f36df0c53792fd75a5a5f4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 874453071,
-    "wof:lastmodified": 1583786251,
+    "wof:lastmodified": 1609869769,
     "wof:name": "EH48 4PR",
     "wof:parent_id": 101877115,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.644433, 
-    55.902337, 
-    -3.644433, 
-    55.902337
+    -3.644243, 
+    55.902375, 
+    -3.644243, 
+    55.902375
   ],
-  "geometry": {"coordinates":[-3.644433,55.902337],"type":"Point"}
+  "geometry": {"coordinates":[-3.644243,55.902375],"type":"Point"}
 }

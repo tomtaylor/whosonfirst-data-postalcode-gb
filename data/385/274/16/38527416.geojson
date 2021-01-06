@@ -5,30 +5,30 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-11-01",
     "geom:area": 0,
-    "geom:bbox": "0.017381,51.492951,0.017381,51.492951",
-    "geom:latitude": 51.492951,
-    "geom:longitude": 0.017381,
+    "geom:bbox": "0.005539,51.501131,0.005539,51.501131",
+    "geom:latitude": 51.501131,
+    "geom:longitude": 0.005539,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E09000011",
-    "os:positional_quality_indicator": "5",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      1158857295, 
-      85633159, 
       101750367, 
       404227469, 
       85860509, 
-      1360698645
+      1360698645, 
+      1158857295, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583791400,
-    "wof:geomhash": "adf33348e4e3ac87c73a2ef6759f0152",
+    "wof:geomhash": "a8fcc600db24b27afac6940c854b65bc",
     "wof:hierarchy": [
       {
         "borough_id": 1158857295,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 38527416,
-    "wof:lastmodified": 1583791400,
+    "wof:lastmodified": 1609868457,
     "wof:name": "SE10 0NR",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.017381, 
-    51.492951, 
-    0.017381, 
-    51.492951
+    0.005539, 
+    51.501131, 
+    0.005539, 
+    51.501131
   ],
-  "geometry": {"coordinates":[0.017381,51.492951],"type":"Point"}
+  "geometry": {"coordinates":[0.005539,51.501131],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2008-12-01",
     "geom:area": 0,
-    "geom:bbox": "-4.492860,55.624988,-4.492860,55.624988",
-    "geom:latitude": 55.624988,
-    "geom:longitude": -4.49286,
+    "geom:bbox": "-4.492515,55.624806,-4.492515,55.624806",
+    "geom:latitude": 55.624806,
+    "geom:longitude": -4.492515,
     "gp:parent_id": "12696191",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      404227471, 
+      1360698697, 
       85633159, 
       1360698779, 
-      404451413, 
-      404227471, 
-      1360698697
+      404451413
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701565,
-    "wof:geomhash": "c59777cd87dc04ee0d0c2053040c284d",
+    "wof:geomhash": "420dd97799969aae7498e02cb25e038f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504769565,
-    "wof:lastmodified": 1583786717,
+    "wof:lastmodified": 1609890130,
     "wof:name": "KA3 1AB",
     "wof:parent_id": 404451413,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.49286, 
-    55.624988, 
-    -4.49286, 
-    55.624988
+    -4.492515, 
+    55.624806, 
+    -4.492515, 
+    55.624806
   ],
-  "geometry": {"coordinates":[-4.49286,55.624988],"type":"Point"}
+  "geometry": {"coordinates":[-4.492515,55.624806],"type":"Point"}
 }

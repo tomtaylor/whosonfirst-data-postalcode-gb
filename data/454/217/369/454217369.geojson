@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.404748,51.333737,1.404748,51.333737",
-    "geom:latitude": 51.333737,
-    "geom:longitude": 1.404748,
+    "geom:bbox": "1.404760,51.333700,1.404760,51.333700",
+    "geom:latitude": 51.3337,
+    "geom:longitude": 1.40476,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698811, 
-      404446101, 
       101750333, 
       404227469, 
-      1360698565
+      1360698565, 
+      85633159, 
+      1360698811, 
+      404446101
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701384,
-    "wof:geomhash": "92b0fdba6ecdc7ae94f8911bfec98a30",
+    "wof:geomhash": "cb073dfe041b359db0c911c260d21c86",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454217369,
-    "wof:lastmodified": 1595713338,
+    "wof:lastmodified": 1609878688,
     "wof:name": "CT11 0AE",
     "wof:parent_id": 101750333,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.404748, 
-    51.333737, 
-    1.404748, 
-    51.333737
+    1.40476, 
+    51.3337, 
+    1.40476, 
+    51.3337
   ],
-  "geometry": {"coordinates":[1.404748,51.333737],"type":"Point"}
+  "geometry": {"coordinates":[1.40476,51.3337],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.796828,51.212108,-0.796828,51.212108",
-    "geom:latitude": 51.212108,
-    "geom:longitude": -0.796828,
+    "geom:bbox": "-0.796830,51.212063,-0.796830,51.212063",
+    "geom:latitude": 51.212063,
+    "geom:longitude": -0.79683,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      101852483, 
+      404227469, 
       1360698599, 
       85633159, 
       1360698887, 
-      404432891, 
-      101852483, 
-      404227469
+      404432891
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701703,
-    "wof:geomhash": "e8fcfd98c3201488ef4ed1a2a557c42d",
+    "wof:geomhash": "141081982b32e241979fbca97f6e34eb",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454715677,
-    "wof:lastmodified": 1583786843,
+    "wof:lastmodified": 1609900146,
     "wof:name": "GU9 7QP",
     "wof:parent_id": 101852483,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.796828, 
-    51.212108, 
-    -0.796828, 
-    51.212108
+    -0.79683, 
+    51.212063, 
+    -0.79683, 
+    51.212063
   ],
-  "geometry": {"coordinates":[-0.796828,51.212108],"type":"Point"}
+  "geometry": {"coordinates":[-0.79683,51.212063],"type":"Point"}
 }

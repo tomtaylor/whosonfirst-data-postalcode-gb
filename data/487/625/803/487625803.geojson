@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1994-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.352398,50.969828,-1.352398,50.969828",
-    "geom:latitude": 50.969828,
-    "geom:longitude": -1.352398,
+    "geom:bbox": "-1.351481,50.969464,-1.351481,50.969464",
+    "geom:latitude": 50.969464,
+    "geom:longitude": -1.351481,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,11 +18,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698557, 
       85633159, 
       1360698827, 
-      101750347
+      101750347, 
+      404227469, 
+      1360698557
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -30,7 +30,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701093,
-    "wof:geomhash": "8f387342512da2dd0844e41db7deefe9",
+    "wof:geomhash": "954914e80bd142cd8bfe4ef1b99c74a8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -41,7 +41,7 @@
       }
     ],
     "wof:id": 487625803,
-    "wof:lastmodified": 1583786188,
+    "wof:lastmodified": 1609869622,
     "wof:name": "SO50 9FH",
     "wof:parent_id": 101750347,
     "wof:placetype": "postalcode",
@@ -51,10 +51,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.352398, 
-    50.969828, 
-    -1.352398, 
-    50.969828
+    -1.351481, 
+    50.969464, 
+    -1.351481, 
+    50.969464
   ],
-  "geometry": {"coordinates":[-1.352398,50.969828],"type":"Point"}
+  "geometry": {"coordinates":[-1.351481,50.969464],"type":"Point"}
 }

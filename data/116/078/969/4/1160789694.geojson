@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-03-01",
     "geom:area": 0,
-    "geom:bbox": "0.933291,51.917866,0.933291,51.917866",
-    "geom:latitude": 51.917866,
-    "geom:longitude": 0.933291,
+    "geom:bbox": "0.933230,51.917822,0.933230,51.917822",
+    "geom:latitude": 51.917822,
+    "geom:longitude": 0.93323,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698551, 
-      85633159, 
       1360698979, 
       404455407, 
       1125901555, 
-      404227469
+      404227469, 
+      1360698551, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583790063,
-    "wof:geomhash": "07e2d6bc35d64ce7014e2664126f38f5",
+    "wof:geomhash": "48387fa9866194e7301f3745f5f39c74",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160789694,
-    "wof:lastmodified": 1595710876,
+    "wof:lastmodified": 1609869943,
     "wof:name": "CO4 9BG",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.933291, 
-    51.917866, 
-    0.933291, 
-    51.917866
+    0.93323, 
+    51.917822, 
+    0.93323, 
+    51.917822
   ],
-  "geometry": {"coordinates":[0.933291,51.917866],"type":"Point"}
+  "geometry": {"coordinates":[0.93323,51.917822],"type":"Point"}
 }

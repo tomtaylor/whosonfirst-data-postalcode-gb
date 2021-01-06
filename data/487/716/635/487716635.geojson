@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.279090,53.000291,-2.279090,53.000291",
-    "geom:latitude": 53.000291,
-    "geom:longitude": -2.27909,
+    "geom:bbox": "-2.278239,53.000104,-2.278239,53.000104",
+    "geom:latitude": 53.000104,
+    "geom:longitude": -2.278239,
     "gp:parent_id": "24682",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      404431735, 
       1125841229, 
       404227469, 
       1360698593, 
       85633159, 
-      1360698947
+      1360698947, 
+      404431735
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701136,
-    "wof:geomhash": "1756b2361e4707567ecae2c52d08166c",
+    "wof:geomhash": "3d0133f804a98ff863a300217e016218",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487716635,
-    "wof:lastmodified": 1583786232,
+    "wof:lastmodified": 1609875237,
     "wof:name": "ST5 5BD",
     "wof:parent_id": 404431735,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.27909, 
-    53.000291, 
-    -2.27909, 
-    53.000291
+    -2.278239, 
+    53.000104, 
+    -2.278239, 
+    53.000104
   ],
-  "geometry": {"coordinates":[-2.27909,53.000291],"type":"Point"}
+  "geometry": {"coordinates":[-2.278239,53.000104],"type":"Point"}
 }

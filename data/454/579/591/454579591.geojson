@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.489596,50.695698,-3.489596,50.695698",
-    "geom:latitude": 50.695698,
-    "geom:longitude": -3.489596,
+    "geom:bbox": "-3.489956,50.695458,-3.489956,50.695458",
+    "geom:latitude": 50.695458,
+    "geom:longitude": -3.489956,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,11 +18,11 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698541, 
       85633159, 
       1360699081, 
-      101750383, 
-      404227469, 
-      1360698541
+      101750383
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -30,7 +30,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701647,
-    "wof:geomhash": "942212f73443856236ed2e628d3b58dd",
+    "wof:geomhash": "23ae0eedef2782aba552bb7308a314d7",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -41,7 +41,7 @@
       }
     ],
     "wof:id": 454579591,
-    "wof:lastmodified": 1583786782,
+    "wof:lastmodified": 1609895509,
     "wof:name": "EX2 7EH",
     "wof:parent_id": 101750383,
     "wof:placetype": "postalcode",
@@ -51,10 +51,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.489596, 
-    50.695698, 
-    -3.489596, 
-    50.695698
+    -3.489956, 
+    50.695458, 
+    -3.489956, 
+    50.695458
   ],
-  "geometry": {"coordinates":[-3.489596,50.695698],"type":"Point"}
+  "geometry": {"coordinates":[-3.489956,50.695458],"type":"Point"}
 }

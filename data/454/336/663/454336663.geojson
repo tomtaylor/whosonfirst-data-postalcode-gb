@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1991-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.645576,52.764785,-1.645576,52.764785",
-    "geom:latitude": 52.764785,
-    "geom:longitude": -1.645576,
+    "geom:bbox": "-1.633030,52.769377,-1.633030,52.769377",
+    "geom:latitude": 52.769377,
+    "geom:longitude": -1.63303,
     "gp:parent_id": "18438",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698765, 
       404451953, 
       1360014781, 
       404227469, 
-      1360698539
+      1360698539, 
+      85633159, 
+      1360698765
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701497,
-    "wof:geomhash": "609990697002750fc655627a2e5f1c75",
+    "wof:geomhash": "c3f1c67535d253f8fb7aa52652288104",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454336663,
-    "wof:lastmodified": 1583786625,
+    "wof:lastmodified": 1609884029,
     "wof:name": "DE15 9UF",
     "wof:parent_id": 404451953,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.645576, 
-    52.764785, 
-    -1.645576, 
-    52.764785
+    -1.63303, 
+    52.769377, 
+    -1.63303, 
+    52.769377
   ],
-  "geometry": {"coordinates":[-1.645576,52.764785],"type":"Point"}
+  "geometry": {"coordinates":[-1.63303,52.769377],"type":"Point"}
 }

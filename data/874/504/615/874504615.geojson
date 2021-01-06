@@ -2,7 +2,7 @@
   "id": 874504615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-06-01",
     "edtf:inception": "2012-07-01",
     "geom:area": 0,
     "geom:bbox": "-2.094211,53.486472,-2.094211,53.486472",
@@ -10,7 +10,7 @@
     "geom:longitude": -2.094211,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E08000008",
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1125984457, 
-      404227469, 
-      1360698555, 
       85633159, 
       1360698931, 
-      1360817329
+      1360817329, 
+      1125984457, 
+      404227469, 
+      1360698555
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 874504615,
-    "wof:lastmodified": 1583786395,
+    "wof:lastmodified": 1609872516,
     "wof:name": "OL6 0FL",
     "wof:parent_id": 101750541,
     "wof:placetype": "postalcode",

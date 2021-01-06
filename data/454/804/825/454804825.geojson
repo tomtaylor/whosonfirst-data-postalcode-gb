@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.490522,52.195050,-2.490522,52.195050",
-    "geom:latitude": 52.19505,
-    "geom:longitude": -2.490522,
+    "geom:bbox": "-2.490593,52.195089,-2.490593,52.195089",
+    "geom:latitude": 52.195089,
+    "geom:longitude": -2.490593,
     "gp:parent_id": "28276317",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699053, 
-      404439259, 
-      1225874013, 
       404227469, 
       1360698617, 
-      85633159
+      85633159, 
+      1360699053, 
+      404439259, 
+      1225874013
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701719,
-    "wof:geomhash": "60d62bb415e4d7fd4a81f06dce492c48",
+    "wof:geomhash": "11e1c6d895a1f0b15377950ef0ade671",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454804825,
-    "wof:lastmodified": 1583786858,
+    "wof:lastmodified": 1609902538,
     "wof:name": "HR7 4NY",
     "wof:parent_id": 404439259,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.490522, 
-    52.19505, 
-    -2.490522, 
-    52.19505
+    -2.490593, 
+    52.195089, 
+    -2.490593, 
+    52.195089
   ],
-  "geometry": {"coordinates":[-2.490522,52.19505],"type":"Point"}
+  "geometry": {"coordinates":[-2.490593,52.195089],"type":"Point"}
 }

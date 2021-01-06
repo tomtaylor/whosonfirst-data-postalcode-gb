@@ -5,33 +5,33 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-04-01",
     "geom:area": 0,
-    "geom:bbox": "-0.296782,51.428333,-0.296782,51.428333",
-    "geom:latitude": 51.428333,
-    "geom:longitude": -0.296782,
+    "geom:bbox": "-0.297282,51.428052,-0.297282,51.428052",
+    "geom:latitude": 51.428052,
+    "geom:longitude": -0.297282,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
-    "os:district_code": "E09000027",
+    "os:district_code": "E09000021",
     "os:positional_quality_indicator": "1",
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698645, 
-      1158857311, 
-      85633159, 
-      101750367, 
       404227469, 
-      85787857
+      85787857, 
+      1360698645, 
+      1158857309, 
+      85633159, 
+      101750367
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583799998,
-    "wof:geomhash": "e0dfcfa4658749b34d5dfe1294020a39",
+    "wof:geomhash": "c3b1d402379851039fb8e48f8f354dab",
     "wof:hierarchy": [
       {
-        "borough_id": 1158857311,
+        "borough_id": 1158857309,
         "country_id": 85633159,
         "locality_id": 101750367,
         "macroregion_id": 404227469,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712706929,
-    "wof:lastmodified": 1583799998,
+    "wof:lastmodified": 1609872820,
     "wof:name": "TW10 5BZ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.296782, 
-    51.428333, 
-    -0.296782, 
-    51.428333
+    -0.297282, 
+    51.428052, 
+    -0.297282, 
+    51.428052
   ],
-  "geometry": {"coordinates":[-0.296782,51.428333],"type":"Point"}
+  "geometry": {"coordinates":[-0.297282,51.428052],"type":"Point"}
 }

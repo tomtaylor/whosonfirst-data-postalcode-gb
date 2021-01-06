@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.468641,54.577585,-2.468641,54.577585",
-    "geom:latitude": 54.577585,
-    "geom:longitude": -2.468641,
+    "geom:bbox": "-2.468532,54.577513,-2.468532,54.577513",
+    "geom:latitude": 54.577513,
+    "geom:longitude": -2.468532,
     "gp:parent_id": "10882",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698877, 
-      404447303, 
       1327163453, 
       404227469, 
-      1360698721
+      1360698721, 
+      85633159, 
+      1360698877, 
+      404447303
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701112,
-    "wof:geomhash": "4f235462cbe86f9871ffc77c6f9b2b3b",
+    "wof:geomhash": "b38db8bdd7fbc0b8e4657392c7500b2c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454060601,
-    "wof:lastmodified": 1583786251,
+    "wof:lastmodified": 1609869199,
     "wof:name": "CA16 6LA",
     "wof:parent_id": 404447303,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.468641, 
-    54.577585, 
-    -2.468641, 
-    54.577585
+    -2.468532, 
+    54.577513, 
+    -2.468532, 
+    54.577513
   ],
-  "geometry": {"coordinates":[-2.468641,54.577585],"type":"Point"}
+  "geometry": {"coordinates":[-2.468532,54.577513],"type":"Point"}
 }

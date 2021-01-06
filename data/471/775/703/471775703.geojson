@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.054165,53.484059,-2.054165,53.484059",
-    "geom:latitude": 53.484059,
-    "geom:longitude": -2.054165,
+    "geom:bbox": "-2.054045,53.484113,-2.054045,53.484113",
+    "geom:latitude": 53.484113,
+    "geom:longitude": -2.054045,
     "gp:parent_id": "35848",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698555, 
       85633159, 
       1360698931, 
       1360817329, 
       1125984457, 
-      404227469
+      404227469, 
+      1360698555
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701738,
-    "wof:geomhash": "17133fb0eaa3429c966789a7a048032f",
+    "wof:geomhash": "84f4ae76c0badb69af556d334109e1c7",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471775703,
-    "wof:lastmodified": 1595725104,
+    "wof:lastmodified": 1609902726,
     "wof:name": "SK15 1JY",
     "wof:parent_id": 101750541,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.054165, 
-    53.484059, 
-    -2.054165, 
-    53.484059
+    -2.054045, 
+    53.484113, 
+    -2.054045, 
+    53.484113
   ],
-  "geometry": {"coordinates":[-2.054165,53.484059],"type":"Point"}
+  "geometry": {"coordinates":[-2.054045,53.484113],"type":"Point"}
 }

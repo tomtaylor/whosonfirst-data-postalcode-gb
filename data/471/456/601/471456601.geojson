@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2002-06-01",
     "geom:area": 0,
-    "geom:bbox": "-0.776829,50.851317,-0.776829,50.851317",
-    "geom:latitude": 50.851317,
-    "geom:longitude": -0.776829,
+    "geom:bbox": "-0.776802,50.851605,-0.776802,50.851605",
+    "geom:latitude": 50.851605,
+    "geom:longitude": -0.776802,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404433377, 
       101852329, 
       404227469, 
       1360698607, 
       85633159, 
-      1360698757
+      1360698757, 
+      404433377
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701622,
-    "wof:geomhash": "53fbc94af245e66c5dc52da88fc2bf10",
+    "wof:geomhash": "e98706a82a057ead0d5fc6687cccbb38",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471456601,
-    "wof:lastmodified": 1583786752,
+    "wof:lastmodified": 1609892764,
     "wof:name": "PO19 6BT",
     "wof:parent_id": 101852329,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.776829, 
-    50.851317, 
-    -0.776829, 
-    50.851317
+    -0.776802, 
+    50.851605, 
+    -0.776802, 
+    50.851605
   ],
-  "geometry": {"coordinates":[-0.776829,50.851317],"type":"Point"}
+  "geometry": {"coordinates":[-0.776802,50.851605],"type":"Point"}
 }

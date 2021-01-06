@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.442779,50.715429,-2.442779,50.715429",
-    "geom:latitude": 50.715429,
-    "geom:longitude": -2.442779,
+    "geom:bbox": "-2.442067,50.714964,-2.442067,50.714964",
+    "geom:latitude": 50.714964,
+    "geom:longitude": -2.442067,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698545, 
+      85633159, 
       1360698745, 
       404435465, 
       101852345, 
-      404227469, 
-      1360698545, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701577,
-    "wof:geomhash": "67950943c9b79ac2f0df7d81fd5016f8",
+    "wof:geomhash": "7042f6243ee93b2ff260106a844a1ff2",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454459665,
-    "wof:lastmodified": 1583786715,
+    "wof:lastmodified": 1609890302,
     "wof:name": "DT1 1XT",
     "wof:parent_id": 404435465,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.442779, 
-    50.715429, 
-    -2.442779, 
-    50.715429
+    -2.442067, 
+    50.714964, 
+    -2.442067, 
+    50.714964
   ],
-  "geometry": {"coordinates":[-2.442779,50.715429],"type":"Point"}
+  "geometry": {"coordinates":[-2.442067,50.714964],"type":"Point"}
 }

@@ -2,7 +2,7 @@
   "id": 438007301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-07-01",
     "edtf:inception": "2004-06-01",
     "geom:area": 0,
     "geom:bbox": "-2.045839,52.468752,-2.045839,52.468752",
@@ -11,7 +11,7 @@
     "gp:parent_id": "22165",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E08000027",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698605, 
+      85633159, 
       1360698933, 
       1360817295, 
       1126020695, 
-      404227469, 
-      1360698605, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438007301,
-    "wof:lastmodified": 1583786352,
+    "wof:lastmodified": 1609868704,
     "wof:name": "B63 1YQ",
     "wof:parent_id": 101914027,
     "wof:placetype": "postalcode",

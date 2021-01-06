@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2002-06-01",
     "geom:area": 0,
-    "geom:bbox": "-0.774885,50.810890,-0.774885,50.810890",
-    "geom:latitude": 50.81089,
-    "geom:longitude": -0.774885,
+    "geom:bbox": "-0.775883,50.811252,-0.775883,50.811252",
+    "geom:latitude": 50.811252,
+    "geom:longitude": -0.775883,
     "gp:parent_id": "24158",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698757, 
       404431421, 
       1125909591, 
       404227469, 
       1360698607, 
-      85633159
+      85633159, 
+      1360698757
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701624,
-    "wof:geomhash": "4d97dcf42809df850dd019b00381a138",
+    "wof:geomhash": "0b1938d9efe96736ffdef469d27e4811",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471460415,
-    "wof:lastmodified": 1595722640,
+    "wof:lastmodified": 1609892950,
     "wof:name": "PO20 1PA",
     "wof:parent_id": 404431421,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.774885, 
-    50.81089, 
-    -0.774885, 
-    50.81089
+    -0.775883, 
+    50.811252, 
+    -0.775883, 
+    50.811252
   ],
-  "geometry": {"coordinates":[-0.774885,50.81089],"type":"Point"}
+  "geometry": {"coordinates":[-0.775883,50.811252],"type":"Point"}
 }

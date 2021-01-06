@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2009-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.242111,53.534367,-2.242111,53.534367",
-    "geom:latitude": 53.534367,
-    "geom:longitude": -2.242111,
+    "geom:bbox": "-2.242142,53.534430,-2.242142,53.534430",
+    "geom:latitude": 53.53443,
+    "geom:longitude": -2.242142,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698893, 
       101750525, 
       404227469, 
       85793287, 
-      1360698555
+      1360698555, 
+      85633159, 
+      1360698893
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701337,
-    "wof:geomhash": "bcee0f0800d853c583d0283312cd3ae0",
+    "wof:geomhash": "09fc11882f9ccc88e435977675a8b146",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 488322001,
-    "wof:lastmodified": 1583786530,
+    "wof:lastmodified": 1609886317,
     "wof:name": "M9 0PH",
     "wof:parent_id": 404431331,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.242111, 
-    53.534367, 
-    -2.242111, 
-    53.534367
+    -2.242142, 
+    53.53443, 
+    -2.242142, 
+    53.53443
   ],
-  "geometry": {"coordinates":[-2.242111,53.534367],"type":"Point"}
+  "geometry": {"coordinates":[-2.242142,53.53443],"type":"Point"}
 }

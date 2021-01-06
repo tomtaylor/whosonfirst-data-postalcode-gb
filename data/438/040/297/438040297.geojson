@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.736020,52.393424,-1.736020,52.393424",
-    "geom:latitude": 52.393424,
+    "geom:bbox": "-1.736020,52.393487,-1.736020,52.393487",
+    "geom:latitude": 52.393487,
     "geom:longitude": -1.73602,
     "gp:parent_id": "25586",
     "iso:country": "GB",
@@ -19,11 +19,11 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      1125891303, 
       404227469, 
       1360698605, 
       85633159, 
-      1360699057, 
-      1125891303
+      1360699057
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701123,
-    "wof:geomhash": "13065eaa204b35c88e2fa832998fd1f3",
+    "wof:geomhash": "d18a977b39e2e3a33869dee9a15ed11d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 438040297,
-    "wof:lastmodified": 1583786250,
+    "wof:lastmodified": 1609869595,
     "wof:name": "B93 9NQ",
     "wof:parent_id": 404446879,
     "wof:placetype": "postalcode",
@@ -53,9 +53,9 @@
   },
   "bbox": [
     -1.73602, 
-    52.393424, 
+    52.393487, 
     -1.73602, 
-    52.393424
+    52.393487
   ],
-  "geometry": {"coordinates":[-1.73602,52.393424],"type":"Point"}
+  "geometry": {"coordinates":[-1.73602,52.393487],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2012-07-01",
     "geom:area": 0,
-    "geom:bbox": "-2.776903,50.874256,-2.776903,50.874256",
+    "geom:bbox": "-2.776889,50.874256,-2.776889,50.874256",
     "geom:latitude": 50.874256,
-    "geom:longitude": -2.776903,
+    "geom:longitude": -2.776889,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698589, 
       85633159, 
       1360699059, 
       404446119, 
-      1309747441
+      1309747441, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468902068,
-    "wof:geomhash": "cb9fd9f041d2f903a592bc0bb7d306ab",
+    "wof:geomhash": "3412fbf363ecc2fd7ccda51b79f28427",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 890269771,
-    "wof:lastmodified": 1583786248,
+    "wof:lastmodified": 1609869321,
     "wof:name": "TA18 8FD",
     "wof:parent_id": 404446119,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.776903, 
+    -2.776889, 
     50.874256, 
-    -2.776903, 
+    -2.776889, 
     50.874256
   ],
-  "geometry": {"coordinates":[-2.776903,50.874256],"type":"Point"}
+  "geometry": {"coordinates":[-2.776889,50.874256],"type":"Point"}
 }

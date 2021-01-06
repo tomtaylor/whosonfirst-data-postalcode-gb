@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.551912,52.475202,1.551912,52.475202",
-    "geom:latitude": 52.475202,
-    "geom:longitude": 1.551912,
+    "geom:bbox": "1.551884,52.475212,1.551884,52.475212",
+    "geom:latitude": 52.475212,
+    "geom:longitude": 1.551884,
     "gp:parent_id": "21049",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698955, 
-      404449393, 
       1360753571, 
       404227469, 
-      1360698575
+      1360698575, 
+      85633159, 
+      1360698955, 
+      404449393
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701421,
-    "wof:geomhash": "f722d7214878578a4cd257ed1b551c1e",
+    "wof:geomhash": "ab356b2641345952439f222236784499",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471235471,
-    "wof:lastmodified": 1583786575,
+    "wof:lastmodified": 1609881731,
     "wof:name": "NR34 0ED",
     "wof:parent_id": 404449393,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.551912, 
-    52.475202, 
-    1.551912, 
-    52.475202
+    1.551884, 
+    52.475212, 
+    1.551884, 
+    52.475212
   ],
-  "geometry": {"coordinates":[1.551912,52.475202],"type":"Point"}
+  "geometry": {"coordinates":[1.551884,52.475212],"type":"Point"}
 }

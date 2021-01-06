@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.014401,51.827882,-3.014401,51.827882",
-    "geom:latitude": 51.827882,
-    "geom:longitude": -3.014401,
+    "geom:bbox": "-3.014532,51.827890,-3.014532,51.827890",
+    "geom:latitude": 51.82789,
+    "geom:longitude": -3.014532,
     "gp:parent_id": "12696133",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      404227475, 
+      1360698641, 
       85633159, 
       1360699109, 
       404430819, 
-      101852897, 
-      404227475, 
-      1360698641
+      101852897
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701419,
-    "wof:geomhash": "e6ba50205c8966a036aa75ec114c99af",
+    "wof:geomhash": "73a005bdfacb62d0cc95d96d80252644",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504552037,
-    "wof:lastmodified": 1583786558,
+    "wof:lastmodified": 1609878997,
     "wof:name": "NP7 5SN",
     "wof:parent_id": 101852897,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.014401, 
-    51.827882, 
-    -3.014401, 
-    51.827882
+    -3.014532, 
+    51.82789, 
+    -3.014532, 
+    51.82789
   ],
-  "geometry": {"coordinates":[-3.014401,51.827882],"type":"Point"}
+  "geometry": {"coordinates":[-3.014532,51.82789],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.751343,50.699280,-3.751343,50.699280",
-    "geom:latitude": 50.69928,
-    "geom:longitude": -3.751343,
+    "geom:bbox": "-3.751237,50.699849,-3.751237,50.699849",
+    "geom:latitude": 50.699849,
+    "geom:longitude": -3.751237,
     "gp:parent_id": "18484",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698541, 
       85633159, 
       1360699081, 
       404439819, 
-      1125933367
+      1125933367, 
+      404227469, 
+      1360698541
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701660,
-    "wof:geomhash": "a39ed83093e2036fc0b729b631bb1efa",
+    "wof:geomhash": "5fd83c8768c3234d3b136a8d7cb5ab8e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454603987,
-    "wof:lastmodified": 1583786790,
+    "wof:lastmodified": 1609896489,
     "wof:name": "EX6 6PY",
     "wof:parent_id": 404439819,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.751343, 
-    50.69928, 
-    -3.751343, 
-    50.69928
+    -3.751237, 
+    50.699849, 
+    -3.751237, 
+    50.699849
   ],
-  "geometry": {"coordinates":[-3.751343,50.69928],"type":"Point"}
+  "geometry": {"coordinates":[-3.751237,50.699849],"type":"Point"}
 }

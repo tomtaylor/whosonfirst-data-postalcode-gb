@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1998-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.038999,53.805761,-1.038999,53.805761",
-    "geom:latitude": 53.805761,
+    "geom:bbox": "-1.038999,53.805734,-1.038999,53.805734",
+    "geom:latitude": 53.805734,
     "geom:longitude": -1.038999,
     "gp:parent_id": "11866",
     "iso:country": "GB",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698619, 
       85633159, 
       1360698753, 
       404440991, 
-      1360756643
+      1360756643, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701245,
-    "wof:geomhash": "65fd7a3194beacd055958cbcede6aaba",
+    "wof:geomhash": "b848136cb222dcfc8cae2a4933a97549",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488261119,
-    "wof:lastmodified": 1595731195,
+    "wof:lastmodified": 1609882978,
     "wof:name": "YO8 5JR",
     "wof:parent_id": 404440991,
     "wof:placetype": "postalcode",
@@ -55,9 +55,9 @@
   },
   "bbox": [
     -1.038999, 
-    53.805761, 
+    53.805734, 
     -1.038999, 
-    53.805761
+    53.805734
   ],
-  "geometry": {"coordinates":[-1.038999,53.805761],"type":"Point"}
+  "geometry": {"coordinates":[-1.038999,53.805734],"type":"Point"}
 }

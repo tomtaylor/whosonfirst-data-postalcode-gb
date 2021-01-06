@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.545397,54.514893,-3.545397,54.514893",
-    "geom:latitude": 54.514893,
-    "geom:longitude": -3.545397,
+    "geom:bbox": "-3.545379,54.514840,-3.545379,54.514840",
+    "geom:latitude": 54.51484,
+    "geom:longitude": -3.545379,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1126011927, 
-      404227469, 
-      1360698721, 
       85633159, 
       1360698877, 
-      404435251
+      404435251, 
+      1126011927, 
+      404227469, 
+      1360698721
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583793220,
-    "wof:geomhash": "49a72bbaea3d307c093bd8dbe5a96823",
+    "wof:geomhash": "8e57b00da5535add6faf7f352916894e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 38690145,
-    "wof:lastmodified": 1583793220,
+    "wof:lastmodified": 1609868562,
     "wof:name": "CA24 3AB",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.545397, 
-    54.514893, 
-    -3.545397, 
-    54.514893
+    -3.545379, 
+    54.51484, 
+    -3.545379, 
+    54.51484
   ],
-  "geometry": {"coordinates":[-3.545397,54.514893],"type":"Point"}
+  "geometry": {"coordinates":[-3.545379,54.51484],"type":"Point"}
 }

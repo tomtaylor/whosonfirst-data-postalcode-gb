@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.106770,53.542297,-2.106770,53.542297",
-    "geom:latitude": 53.542297,
-    "geom:longitude": -2.10677,
+    "geom:bbox": "-2.106677,53.542331,-2.106677,53.542331",
+    "geom:latitude": 53.542331,
+    "geom:longitude": -2.106677,
     "gp:parent_id": "31017",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      1126030435, 
+      404227469, 
       1360698555, 
       85633159, 
-      1360698953, 
-      1126030435, 
-      404227469
+      1360698953
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701456,
-    "wof:geomhash": "e5390f38ccd0dad1c3a6de96e6dfc8d7",
+    "wof:geomhash": "a98530dcbd2025adbac7477c83eb0f18",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 471276841,
-    "wof:lastmodified": 1583786614,
+    "wof:lastmodified": 1609884007,
     "wof:name": "OL1 3SY",
     "wof:parent_id": 101913965,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.10677, 
-    53.542297, 
-    -2.10677, 
-    53.542297
+    -2.106677, 
+    53.542331, 
+    -2.106677, 
+    53.542331
   ],
-  "geometry": {"coordinates":[-2.10677,53.542297],"type":"Point"}
+  "geometry": {"coordinates":[-2.106677,53.542331],"type":"Point"}
 }

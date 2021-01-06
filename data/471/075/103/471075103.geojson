@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.970302,54.945120,-1.970302,54.945120",
-    "geom:latitude": 54.94512,
-    "geom:longitude": -1.970302,
+    "geom:bbox": "-1.970615,54.945219,-1.970615,54.945219",
+    "geom:latitude": 54.945219,
+    "geom:longitude": -1.970615,
     "gp:parent_id": "33313",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698769, 
-      404445299, 
       1360759307, 
       404227469, 
-      1360698727
+      1360698727, 
+      85633159, 
+      1360698769, 
+      404445299
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701233,
-    "wof:geomhash": "63860f3934631574c7207fd0f7341e07",
+    "wof:geomhash": "30d77229fa50a6e08c45241a2d7f108a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471075103,
-    "wof:lastmodified": 1583786374,
+    "wof:lastmodified": 1609871391,
     "wof:name": "NE44 6AU",
     "wof:parent_id": 404445299,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.970302, 
-    54.94512, 
-    -1.970302, 
-    54.94512
+    -1.970615, 
+    54.945219, 
+    -1.970615, 
+    54.945219
   ],
-  "geometry": {"coordinates":[-1.970302,54.94512],"type":"Point"}
+  "geometry": {"coordinates":[-1.970615,54.945219],"type":"Point"}
 }

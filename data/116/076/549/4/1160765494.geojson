@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.624017,53.440689,-2.624017,53.440689",
-    "geom:latitude": 53.440689,
-    "geom:longitude": -2.624017,
+    "geom:bbox": "-2.623954,53.440500,-2.623954,53.440500",
+    "geom:latitude": 53.4405,
+    "geom:longitude": -2.623954,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698573, 
-      85633159, 
       1360698793, 
       101750559, 
-      404227469
+      404227469, 
+      1360698573, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583789037,
-    "wof:geomhash": "16e45e5378db29c5fcbe53796e66e8bd",
+    "wof:geomhash": "a213a5ee378e9d827bd4b86bb334b34f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1160765494,
-    "wof:lastmodified": 1583789037,
+    "wof:lastmodified": 1609869456,
     "wof:name": "WA12 8TE",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.624017, 
-    53.440689, 
-    -2.624017, 
-    53.440689
+    -2.623954, 
+    53.4405, 
+    -2.623954, 
+    53.4405
   ],
-  "geometry": {"coordinates":[-2.624017,53.440689],"type":"Point"}
+  "geometry": {"coordinates":[-2.623954,53.4405],"type":"Point"}
 }

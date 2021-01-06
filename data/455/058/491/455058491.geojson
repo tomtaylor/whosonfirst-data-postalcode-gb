@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.528269,53.228239,-0.528269,53.228239",
-    "geom:latitude": 53.228239,
-    "geom:longitude": -0.528269,
+    "geom:bbox": "-0.528303,53.228122,-0.528303,53.228122",
+    "geom:latitude": 53.228122,
+    "geom:longitude": -0.528303,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,11 +18,11 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      101750523, 
+      404227469, 
       1360698571, 
       85633159, 
-      1360699067, 
-      101750523, 
-      404227469
+      1360699067
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -30,7 +30,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701160,
-    "wof:geomhash": "f3ccf5d108da8dcb5f1a21eddff684ae",
+    "wof:geomhash": "6a7d40edf6fe9bf61ee5af6d2665df03",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -41,7 +41,7 @@
       }
     ],
     "wof:id": 455058491,
-    "wof:lastmodified": 1583786285,
+    "wof:lastmodified": 1609870425,
     "wof:name": "LN2 5DU",
     "wof:parent_id": 101750523,
     "wof:placetype": "postalcode",
@@ -51,10 +51,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.528269, 
-    53.228239, 
-    -0.528269, 
-    53.228239
+    -0.528303, 
+    53.228122, 
+    -0.528303, 
+    53.228122
   ],
-  "geometry": {"coordinates":[-0.528269,53.228239],"type":"Point"}
+  "geometry": {"coordinates":[-0.528303,53.228122],"type":"Point"}
 }

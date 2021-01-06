@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "uuuu",
-    "edtf:inception": "2019-10-01",
+    "edtf:inception": "2020-07-01",
     "geom:area": 0,
     "geom:bbox": "-0.060392,51.532726,-0.060392,51.532726",
     "geom:latitude": 51.532726,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      101750367, 
+      404227469, 
       85860175, 
       1360698645, 
       1158857269, 
-      85633159, 
-      101750367, 
-      404227469
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160952154,
-    "wof:lastmodified": 1583797289,
+    "wof:lastmodified": 1609872985,
     "wof:name": "E8 9HJ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

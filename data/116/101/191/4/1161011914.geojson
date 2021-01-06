@@ -5,42 +5,42 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-05-01",
     "geom:area": 0,
-    "geom:bbox": "-0.774552,53.060510,-0.774552,53.060510",
-    "geom:latitude": 53.06051,
-    "geom:longitude": -0.774552,
+    "geom:bbox": "-0.764090,53.050109,-0.764090,53.050109",
+    "geom:latitude": 53.050109,
+    "geom:longitude": -0.76409,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000024",
     "os:district_code": "E07000175",
-    "os:positional_quality_indicator": "5",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698583, 
-      85633159, 
       1360698809, 
-      404439317, 
-      1125842339, 
-      404227469
+      404448413, 
+      1360756813, 
+      404227469, 
+      1360698583, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583799983,
-    "wof:geomhash": "d60101fdc4d064918974233747b355d7",
+    "wof:geomhash": "0a7ab0171d728592fc93643888e63d0b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360698809,
-        "localadmin_id": 404439317,
-        "locality_id": 1125842339,
+        "localadmin_id": 404448413,
+        "locality_id": 1360756813,
         "macroregion_id": 404227469,
         "region_id": 1360698583
       }
     ],
     "wof:id": 1161011914,
-    "wof:lastmodified": 1583799983,
+    "wof:lastmodified": 1609874504,
     "wof:name": "NG24 3XE",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.774552, 
-    53.06051, 
-    -0.774552, 
-    53.06051
+    -0.76409, 
+    53.050109, 
+    -0.76409, 
+    53.050109
   ],
-  "geometry": {"coordinates":[-0.774552,53.06051],"type":"Point"}
+  "geometry": {"coordinates":[-0.76409,53.050109],"type":"Point"}
 }

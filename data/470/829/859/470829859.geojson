@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.602271,53.748648,-1.602271,53.748648",
-    "geom:latitude": 53.748648,
-    "geom:longitude": -1.602271,
+    "geom:bbox": "-1.602320,53.748645,-1.602320,53.748645",
+    "geom:latitude": 53.748645,
+    "geom:longitude": -1.60232,
     "gp:parent_id": "29353",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698749, 
+      404446597, 
       1125893441, 
       404227469, 
       85789085, 
       1360698609, 
-      85633159, 
-      1360698749, 
-      404446597
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701071,
-    "wof:geomhash": "e316b6a6d464665faf4875e8c035dc8e",
+    "wof:geomhash": "67d31d65bee05d55f5406d97d6e2af45",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 470829859,
-    "wof:lastmodified": 1583786186,
+    "wof:lastmodified": 1609869014,
     "wof:name": "LS27 8EG",
     "wof:parent_id": 101750579,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.602271, 
-    53.748648, 
-    -1.602271, 
-    53.748648
+    -1.60232, 
+    53.748645, 
+    -1.60232, 
+    53.748645
   ],
-  "geometry": {"coordinates":[-1.602271,53.748648],"type":"Point"}
+  "geometry": {"coordinates":[-1.60232,53.748645],"type":"Point"}
 }

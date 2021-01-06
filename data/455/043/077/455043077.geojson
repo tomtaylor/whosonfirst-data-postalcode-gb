@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1992-08-01",
     "geom:area": 0,
-    "geom:bbox": "-1.384226,52.751753,-1.384226,52.751753",
-    "geom:latitude": 52.751753,
-    "geom:longitude": -1.384226,
+    "geom:bbox": "-1.384408,52.751502,-1.384408,52.751502",
+    "geom:latitude": 52.751502,
+    "geom:longitude": -1.384408,
     "gp:parent_id": "36754",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698569, 
+      85633159, 
       1360698871, 
       404452205, 
       1125881733, 
-      404227469, 
-      1360698569, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701124,
-    "wof:geomhash": "fb0d1283daf3873cdff40376566a8479",
+    "wof:geomhash": "08ed47e1f5988d0c1127e7ae780f97e0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 455043077,
-    "wof:lastmodified": 1583786244,
+    "wof:lastmodified": 1609869746,
     "wof:name": "LE67 8QD",
     "wof:parent_id": 404452205,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.384226, 
-    52.751753, 
-    -1.384226, 
-    52.751753
+    -1.384408, 
+    52.751502, 
+    -1.384408, 
+    52.751502
   ],
-  "geometry": {"coordinates":[-1.384226,52.751753],"type":"Point"}
+  "geometry": {"coordinates":[-1.384408,52.751502],"type":"Point"}
 }

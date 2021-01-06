@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.012465,51.832399,-3.012465,51.832399",
-    "geom:latitude": 51.832399,
-    "geom:longitude": -3.012465,
+    "geom:bbox": "-3.012472,51.832422,-3.012472,51.832422",
+    "geom:latitude": 51.832422,
+    "geom:longitude": -3.012472,
     "gp:parent_id": "12696133",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      101852897, 
-      404227475, 
-      1360698641, 
       85633159, 
       1360699109, 
-      404430819
+      404430819, 
+      101852897, 
+      404227475, 
+      1360698641
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701426,
-    "wof:geomhash": "4f5d5aff32d13df3d76b306b2323310f",
+    "wof:geomhash": "5fc430a32ca0bbed03461fc80fb4fc68",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488417061,
-    "wof:lastmodified": 1583786633,
+    "wof:lastmodified": 1609891060,
     "wof:name": "NP7 6BN",
     "wof:parent_id": 101852897,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.012465, 
-    51.832399, 
-    -3.012465, 
-    51.832399
+    -3.012472, 
+    51.832422, 
+    -3.012472, 
+    51.832422
   ],
-  "geometry": {"coordinates":[-3.012465,51.832399],"type":"Point"}
+  "geometry": {"coordinates":[-3.012472,51.832422],"type":"Point"}
 }

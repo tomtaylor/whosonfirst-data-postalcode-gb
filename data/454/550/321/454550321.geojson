@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.046582,51.671306,-0.046582,51.671306",
-    "geom:latitude": 51.671306,
-    "geom:longitude": -0.046582,
+    "geom:bbox": "-0.046978,51.671510,-0.046978,51.671510",
+    "geom:latitude": 51.67151,
+    "geom:longitude": -0.046978,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      1158857281, 
-      85633159, 
-      101750367, 
       404227469, 
       85792261, 
-      1360698645
+      1360698645, 
+      1158857281, 
+      85633159, 
+      101750367
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701635,
-    "wof:geomhash": "10068401a36c4326f94a47c6b555470e",
+    "wof:geomhash": "6e46d1b1075d86102be1761addd6f9fb",
     "wof:hierarchy": [
       {
         "borough_id": 1158857281,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454550321,
-    "wof:lastmodified": 1583786766,
+    "wof:lastmodified": 1609893980,
     "wof:name": "EN3 5RN",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.046582, 
-    51.671306, 
-    -0.046582, 
-    51.671306
+    -0.046978, 
+    51.67151, 
+    -0.046978, 
+    51.67151
   ],
-  "geometry": {"coordinates":[-0.046582,51.671306],"type":"Point"}
+  "geometry": {"coordinates":[-0.046978,51.67151],"type":"Point"}
 }

@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "uuuu",
-    "edtf:inception": "2019-11-01",
+    "edtf:inception": "2020-08-01",
     "geom:area": 0,
     "geom:bbox": "1.110638,52.571663,1.110638,52.571663",
     "geom:latitude": 52.571663,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404444211, 
-      1125975353, 
-      404227469, 
       1360698575, 
       85633159, 
-      1360698955
+      1360698955, 
+      404444211, 
+      1125975353, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 874500729,
-    "wof:lastmodified": 1583786385,
+    "wof:lastmodified": 1609872258,
     "wof:name": "NR18 8DG",
     "wof:parent_id": 404444211,
     "wof:placetype": "postalcode",

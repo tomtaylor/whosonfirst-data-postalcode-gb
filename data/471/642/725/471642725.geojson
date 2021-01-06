@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1997-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.470092,53.464248,-1.470092,53.464248",
-    "geom:latitude": 53.464248,
-    "geom:longitude": -1.470092,
+    "geom:bbox": "-1.470062,53.464275,-1.470062,53.464275",
+    "geom:latitude": 53.464275,
+    "geom:longitude": -1.470062,
     "gp:parent_id": "15635",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699075, 
-      404451341, 
-      1125852303, 
       404227469, 
       85787791, 
       1360698591, 
-      85633159
+      85633159, 
+      1360699075, 
+      404451341, 
+      1125852303
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701688,
-    "wof:geomhash": "5b613d1ccb007ec2781f590ac2728176",
+    "wof:geomhash": "188f2878c7d5335ee08d0b46f90253c1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 471642725,
-    "wof:lastmodified": 1583786857,
+    "wof:lastmodified": 1609900125,
     "wof:name": "S35 2US",
     "wof:parent_id": 404451341,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.470092, 
-    53.464248, 
-    -1.470092, 
-    53.464248
+    -1.470062, 
+    53.464275, 
+    -1.470062, 
+    53.464275
   ],
-  "geometry": {"coordinates":[-1.470092,53.464248],"type":"Point"}
+  "geometry": {"coordinates":[-1.470062,53.464275],"type":"Point"}
 }

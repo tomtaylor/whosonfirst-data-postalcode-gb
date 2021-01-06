@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2000-12-01",
     "geom:area": 0,
-    "geom:bbox": "-2.869967,53.457795,-2.869967,53.457795",
-    "geom:latitude": 53.457795,
-    "geom:longitude": -2.869967,
+    "geom:bbox": "-2.870180,53.457962,-2.870180,53.457962",
+    "geom:latitude": 53.457962,
+    "geom:longitude": -2.87018,
     "gp:parent_id": "25595",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698941, 
       404442915, 
       1126015409, 
       404227469, 
-      1360698573
+      1360698573, 
+      85633159, 
+      1360698941
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701762,
-    "wof:geomhash": "498ec9eb989ef0aa3320d42cf5bbcdcb",
+    "wof:geomhash": "62b191b3e7668cbbd200977a8f577e9f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454961195,
-    "wof:lastmodified": 1583786898,
+    "wof:lastmodified": 1609905321,
     "wof:name": "L34 9GY",
     "wof:parent_id": 404442915,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.869967, 
-    53.457795, 
-    -2.869967, 
-    53.457795
+    -2.87018, 
+    53.457962, 
+    -2.87018, 
+    53.457962
   ],
-  "geometry": {"coordinates":[-2.869967,53.457795],"type":"Point"}
+  "geometry": {"coordinates":[-2.87018,53.457962],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-11-01",
     "geom:area": 0,
-    "geom:bbox": "-2.112232,52.576493,-2.112232,52.576493",
+    "geom:bbox": "-2.112320,52.576493,-2.112320,52.576493",
     "geom:latitude": 52.576493,
-    "geom:longitude": -2.112232,
+    "geom:longitude": -2.11232,
     "gp:parent_id": "40859",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698737, 
       1126027181, 
       404227469, 
-      1360698605, 
-      85633159, 
-      1360698737
+      1360698605
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701642,
-    "wof:geomhash": "8fae8b5de793b5e0e1a01be163cfdc9b",
+    "wof:geomhash": "76fd52b4712d470e09e719cfe86f2a1a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 437936091,
-    "wof:lastmodified": 1583786801,
+    "wof:lastmodified": 1609896251,
     "wof:name": "WV2 2JE",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.112232, 
+    -2.11232, 
     52.576493, 
-    -2.112232, 
+    -2.11232, 
     52.576493
   ],
-  "geometry": {"coordinates":[-2.112232,52.576493],"type":"Point"}
+  "geometry": {"coordinates":[-2.11232,52.576493],"type":"Point"}
 }

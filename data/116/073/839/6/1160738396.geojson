@@ -2,15 +2,15 @@
   "id": 1160738396,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2002-03-01",
-    "edtf:inception": "1998-12-01",
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-10-01",
     "geom:area": 0,
-    "geom:bbox": "-0.475586,52.134428,-0.475586,52.134428",
-    "geom:latitude": 52.134428,
-    "geom:longitude": -0.475586,
+    "geom:bbox": "-0.422863,52.114118,-0.422863,52.114118",
+    "geom:latitude": 52.114118,
+    "geom:longitude": -0.422863,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000055",
@@ -18,27 +18,29 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698527, 
       85633159, 
       1360699073, 
-      101750441, 
-      404227469, 
-      1360698527
+      404451875, 
+      1360757411, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583787772,
-    "wof:geomhash": "0ad393dd74705a40f438c0fee64cf3c0",
+    "wof:geomhash": "47bf559d09262b554708818ea7675e97",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360699073,
-        "locality_id": 101750441,
+        "localadmin_id": 404451875,
+        "locality_id": 1360757411,
         "macroregion_id": 404227469,
         "region_id": 1360698527
       }
     ],
     "wof:id": 1160738396,
-    "wof:lastmodified": 1583787772,
+    "wof:lastmodified": 1609869310,
     "wof:name": "MK42 0PW",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.475586, 
-    52.134428, 
-    -0.475586, 
-    52.134428
+    -0.422863, 
+    52.114118, 
+    -0.422863, 
+    52.114118
   ],
-  "geometry": {"coordinates":[-0.475586,52.134428],"type":"Point"}
+  "geometry": {"coordinates":[-0.422863,52.114118],"type":"Point"}
 }

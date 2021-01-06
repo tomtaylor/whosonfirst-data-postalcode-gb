@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1991-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.112491,50.387650,-4.112491,50.387650",
-    "geom:latitude": 50.38765,
-    "geom:longitude": -4.112491,
+    "geom:bbox": "-4.112420,50.387642,-4.112420,50.387642",
+    "geom:latitude": 50.387642,
+    "geom:longitude": -4.11242,
     "gp:parent_id": "32185",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      101750297, 
       404227469, 
       1360698541, 
       85633159, 
-      1360698841
+      1360698841, 
+      101750297
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701593,
-    "wof:geomhash": "1ff00e840e4e1e7854bc1712e3be8be0",
+    "wof:geomhash": "710ef3d78853503026ec32023e5dc18b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 471426137,
-    "wof:lastmodified": 1583786733,
+    "wof:lastmodified": 1609891756,
     "wof:name": "PL3 6RD",
     "wof:parent_id": 101750297,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.112491, 
-    50.38765, 
-    -4.112491, 
-    50.38765
+    -4.11242, 
+    50.387642, 
+    -4.11242, 
+    50.387642
   ],
-  "geometry": {"coordinates":[-4.112491,50.38765],"type":"Point"}
+  "geometry": {"coordinates":[-4.11242,50.387642],"type":"Point"}
 }

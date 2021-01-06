@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      101750367, 
-      404227469, 
       85791523, 
       1360698645, 
-      1158857249
+      1158857247, 
+      85633159, 
+      101750367, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -35,7 +35,7 @@
     "wof:geomhash": "b219ba3699e85d72c6aa995587e8b2f4",
     "wof:hierarchy": [
       {
-        "borough_id": 1158857249,
+        "borough_id": 1158857247,
         "country_id": 85633159,
         "locality_id": 101750367,
         "macroregion_id": 404227469,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471725421,
-    "wof:lastmodified": 1583786892,
+    "wof:lastmodified": 1609901767,
     "wof:name": "SE27 0LE",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",

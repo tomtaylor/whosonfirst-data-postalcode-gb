@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.347049,52.321465,-2.347049,52.321465",
-    "geom:latitude": 52.321465,
-    "geom:longitude": -2.347049,
+    "geom:bbox": "-2.347151,52.321455,-2.347151,52.321455",
+    "geom:latitude": 52.321455,
+    "geom:longitude": -2.347151,
     "gp:parent_id": "18679",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1309935017, 
       404227469, 
       1360698613, 
       85633159, 
       1360699043, 
-      404450057
+      404450057, 
+      1309935017
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701599,
-    "wof:geomhash": "f9fe5ce2633b863ee6a90e869ad8646d",
+    "wof:geomhash": "76f57252ee952516e3f5ec89cdd81eb4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454482979,
-    "wof:lastmodified": 1595715926,
+    "wof:lastmodified": 1609891569,
     "wof:name": "DY13 0UP",
     "wof:parent_id": 404450057,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.347049, 
-    52.321465, 
-    -2.347049, 
-    52.321465
+    -2.347151, 
+    52.321455, 
+    -2.347151, 
+    52.321455
   ],
-  "geometry": {"coordinates":[-2.347049,52.321465],"type":"Point"}
+  "geometry": {"coordinates":[-2.347151,52.321455],"type":"Point"}
 }

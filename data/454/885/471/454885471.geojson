@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.476628,52.378187,0.476628,52.378187",
-    "geom:latitude": 52.378187,
-    "geom:longitude": 0.476628,
+    "geom:bbox": "0.476925,52.378854,0.476925,52.378854",
+    "geom:latitude": 52.378854,
+    "geom:longitude": 0.476925,
     "gp:parent_id": "12183",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698595, 
       85633159, 
       1360699041, 
       404450179, 
       1360754781, 
-      404227469
+      404227469, 
+      1360698595
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701746,
-    "wof:geomhash": "3f2665bec27ef00b80bde3f49cb9e7b6",
+    "wof:geomhash": "9b53c3e1acb025b7466c7e23101502ac",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454885471,
-    "wof:lastmodified": 1583786877,
+    "wof:lastmodified": 1609904232,
     "wof:name": "IP28 8DN",
     "wof:parent_id": 404450179,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.476628, 
-    52.378187, 
-    0.476628, 
-    52.378187
+    0.476925, 
+    52.378854, 
+    0.476925, 
+    52.378854
   ],
-  "geometry": {"coordinates":[0.476628,52.378187],"type":"Point"}
+  "geometry": {"coordinates":[0.476925,52.378854],"type":"Point"}
 }

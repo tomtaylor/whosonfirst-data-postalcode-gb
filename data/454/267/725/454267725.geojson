@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.501844,52.311014,-1.501844,52.311014",
-    "geom:latitude": 52.311014,
-    "geom:longitude": -1.501844,
+    "geom:bbox": "-1.501746,52.311020,-1.501746,52.311020",
+    "geom:latitude": 52.31102,
+    "geom:longitude": -1.501746,
     "gp:parent_id": "17578",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      404430983, 
       1125924773, 
       404227469, 
       1360698603, 
       85633159, 
-      1360698891
+      1360698891, 
+      404430983
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701426,
-    "wof:geomhash": "1465f3694f165e80366a20ed61d7777c",
+    "wof:geomhash": "f6fc338cc8ad130d9f44103774a65c2c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454267725,
-    "wof:lastmodified": 1583786558,
+    "wof:lastmodified": 1609880856,
     "wof:name": "CV32 7NB",
     "wof:parent_id": 101750473,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.501844, 
-    52.311014, 
-    -1.501844, 
-    52.311014
+    -1.501746, 
+    52.31102, 
+    -1.501746, 
+    52.31102
   ],
-  "geometry": {"coordinates":[-1.501844,52.311014],"type":"Point"}
+  "geometry": {"coordinates":[-1.501746,52.31102],"type":"Point"}
 }

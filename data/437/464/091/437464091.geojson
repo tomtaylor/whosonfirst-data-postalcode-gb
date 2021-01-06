@@ -2,7 +2,7 @@
   "id": 437464091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-06-01",
     "edtf:inception": "2020-02-01",
     "geom:area": 0,
     "geom:bbox": "-1.114768,51.283943,-1.114768,51.283943",
@@ -10,7 +10,7 @@
     "geom:longitude": -1.114768,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000014",
     "os:district_code": "E07000084",
@@ -20,7 +20,8 @@
     "wof:belongsto": [
       85633159, 
       1360698827, 
-      101750351, 
+      404446317, 
+      1360753597, 
       404227469, 
       1360698557
     ],
@@ -35,13 +36,14 @@
       {
         "country_id": 85633159,
         "county_id": 1360698827,
-        "locality_id": 101750351,
+        "localadmin_id": 404446317,
+        "locality_id": 1360753597,
         "macroregion_id": 404227469,
         "region_id": 1360698557
       }
     ],
     "wof:id": 437464091,
-    "wof:lastmodified": 1595712743,
+    "wof:lastmodified": 1609872348,
     "wof:name": "RG24 9QZ",
     "wof:parent_id": "101853557",
     "wof:placetype": "postalcode",

@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.191856,51.401339,-0.191856,51.401339",
-    "geom:latitude": 51.401339,
-    "geom:longitude": -0.191856,
+    "geom:bbox": "-0.191855,51.401348,-0.191855,51.401348",
+    "geom:latitude": 51.401348,
+    "geom:longitude": -0.191855,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       85789175, 
       1360698645, 
       1158857305, 
       85633159, 
-      101750367
+      101750367, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701750,
-    "wof:geomhash": "0f6568bcf4e5f9459bfb5ac3a6e0e0c1",
+    "wof:geomhash": "9d93f0e250d579eaef15cc1579c19670",
     "wof:hierarchy": [
       {
         "borough_id": 1158857305,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471827293,
-    "wof:lastmodified": 1583786915,
+    "wof:lastmodified": 1609904069,
     "wof:name": "SM4 5LN",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.191856, 
-    51.401339, 
-    -0.191856, 
-    51.401339
+    -0.191855, 
+    51.401348, 
+    -0.191855, 
+    51.401348
   ],
-  "geometry": {"coordinates":[-0.191856,51.401339],"type":"Point"}
+  "geometry": {"coordinates":[-0.191855,51.401348],"type":"Point"}
 }

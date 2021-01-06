@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.376290,53.533195,-2.376290,53.533195",
-    "geom:latitude": 53.533195,
-    "geom:longitude": -2.37629,
+    "geom:bbox": "-2.376061,53.533086,-2.376061,53.533086",
+    "geom:latitude": 53.533086,
+    "geom:longitude": -2.376061,
     "gp:parent_id": "24674",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85791831, 
       1360698555, 
       85633159, 
       1360699099, 
       101750551, 
-      404227469
+      404227469, 
+      85791831
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701385,
-    "wof:geomhash": "8b930ed56c7c0a01db99cc816a11bac1",
+    "wof:geomhash": "981d211ed5e6bfa6ac0db318f2ef12f6",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438189197,
-    "wof:lastmodified": 1583786522,
+    "wof:lastmodified": 1609878875,
     "wof:name": "BL4 8SJ",
     "wof:parent_id": 404432511,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.37629, 
-    53.533195, 
-    -2.37629, 
-    53.533195
+    -2.376061, 
+    53.533086, 
+    -2.376061, 
+    53.533086
   ],
-  "geometry": {"coordinates":[-2.37629,53.533195],"type":"Point"}
+  "geometry": {"coordinates":[-2.376061,53.533086],"type":"Point"}
 }

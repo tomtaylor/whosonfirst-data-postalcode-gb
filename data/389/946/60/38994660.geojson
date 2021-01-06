@@ -2,7 +2,7 @@
   "id": 38994660,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-08-01",
     "edtf:inception": "2020-01-01",
     "geom:area": 0,
     "geom:bbox": "-1.235592,53.365443,-1.235592,53.365443",
@@ -10,7 +10,7 @@
     "geom:longitude": -1.235592,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E08000018",
@@ -18,12 +18,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698591, 
       85633159, 
       1360698851, 
       404451931, 
-      1360757501, 
-      404227469, 
-      1360698591
+      1360757501
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 38994660,
-    "wof:lastmodified": 1583796619,
+    "wof:lastmodified": 1609868628,
     "wof:name": "S25 9FE",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

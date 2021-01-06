@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.583653,51.514558,-3.583653,51.514558",
-    "geom:latitude": 51.514558,
-    "geom:longitude": -3.583653,
+    "geom:bbox": "-3.583593,51.514468,-3.583593,51.514468",
+    "geom:latitude": 51.514468,
+    "geom:longitude": -3.583593,
     "gp:parent_id": "12696127",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698631, 
       85633159, 
       1360699051, 
       404434531, 
       101852763, 
-      404227475, 
-      1360698631
+      404227475
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701593,
-    "wof:geomhash": "bca27494e67b7a5145cde15166b92164",
+    "wof:geomhash": "dca10d8f5d31866312819be0c7406314",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488566115,
-    "wof:lastmodified": 1583786780,
+    "wof:lastmodified": 1609897185,
     "wof:name": "CF31 1JX",
     "wof:parent_id": 101852763,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.583653, 
-    51.514558, 
-    -3.583653, 
-    51.514558
+    -3.583593, 
+    51.514468, 
+    -3.583593, 
+    51.514468
   ],
-  "geometry": {"coordinates":[-3.583653,51.514558],"type":"Point"}
+  "geometry": {"coordinates":[-3.583593,51.514468],"type":"Point"}
 }

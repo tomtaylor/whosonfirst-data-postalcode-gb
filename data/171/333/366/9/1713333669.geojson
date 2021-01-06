@@ -5,42 +5,42 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "-3.011709,54.919235,-3.011709,54.919235",
-    "geom:latitude": 54.919235,
-    "geom:longitude": -3.011709,
+    "geom:bbox": "-3.052576,54.920101,-3.052576,54.920101",
+    "geom:latitude": 54.920101,
+    "geom:longitude": -3.052576,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000006",
     "os:district_code": "E07000028",
-    "os:positional_quality_indicator": "5",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      1125795389, 
+      404227469, 
+      1360698721, 
       85633159, 
       1360698877, 
-      404451643, 
-      1310332501, 
-      404227469, 
-      1360698721
+      404434745
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735766,
-    "wof:geomhash": "16db9abcf6058375b43da4220ad54c8d",
+    "wof:geomhash": "da128181669837e3336035d04e8326ea",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360698877,
-        "localadmin_id": 404451643,
-        "locality_id": 1310332501,
+        "localadmin_id": 404434745,
+        "locality_id": 1125795389,
         "macroregion_id": 404227469,
         "region_id": 1360698721
       }
     ],
     "wof:id": 1713333669,
-    "wof:lastmodified": 1595753597,
+    "wof:lastmodified": 1609875689,
     "wof:name": "CA5 6DY",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.011709, 
-    54.919235, 
-    -3.011709, 
-    54.919235
+    -3.052576, 
+    54.920101, 
+    -3.052576, 
+    54.920101
   ],
-  "geometry": {"coordinates":[-3.011709,54.919235],"type":"Point"}
+  "geometry": {"coordinates":[-3.052576,54.920101],"type":"Point"}
 }

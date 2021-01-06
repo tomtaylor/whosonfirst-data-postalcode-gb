@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2000-12-01",
     "geom:area": 0,
-    "geom:bbox": "1.130652,52.067027,1.130652,52.067027",
-    "geom:latitude": 52.067027,
-    "geom:longitude": 1.130652,
+    "geom:bbox": "1.130050,52.066557,1.130050,52.066557",
+    "geom:latitude": 52.066557,
+    "geom:longitude": 1.13005,
     "gp:parent_id": "24522",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698595, 
       85633159, 
       1360699041, 
-      101750447
+      101750447, 
+      404227469, 
+      1360698595
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701734,
-    "wof:geomhash": "34deb540b7598c94b6ec2b33e1861730",
+    "wof:geomhash": "0158355fc9b566978bd5e233a0b14d01",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454858205,
-    "wof:lastmodified": 1583786865,
+    "wof:lastmodified": 1609903857,
     "wof:name": "IP1 4PP",
     "wof:parent_id": 101750447,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.130652, 
-    52.067027, 
-    1.130652, 
-    52.067027
+    1.13005, 
+    52.066557, 
+    1.13005, 
+    52.066557
   ],
-  "geometry": {"coordinates":[1.130652,52.067027],"type":"Point"}
+  "geometry": {"coordinates":[1.13005,52.066557],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.779831,53.569605,-2.779831,53.569605",
-    "geom:latitude": 53.569605,
-    "geom:longitude": -2.779831,
+    "geom:bbox": "-2.776824,53.571152,-2.776824,53.571152",
+    "geom:latitude": 53.571152,
+    "geom:longitude": -2.776824,
     "gp:parent_id": "17888",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -21,7 +21,8 @@
     "wof:belongsto": [
       85633159, 
       1360698817, 
-      101913941, 
+      404447885, 
+      101872271, 
       404227469, 
       1360698567
     ],
@@ -31,18 +32,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701286,
-    "wof:geomhash": "cea798a41b2338bfc69ee603112bc4b2",
+    "wof:geomhash": "75c5285df8bf2ed2b50393db0395fbb8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360698817,
-        "locality_id": 101913941,
+        "localadmin_id": 404447885,
+        "locality_id": 101872271,
         "macroregion_id": 404227469,
         "region_id": 1360698567
       }
     ],
     "wof:id": 488161757,
-    "wof:lastmodified": 1583786240,
+    "wof:lastmodified": 1609877725,
     "wof:name": "WN8 7SE",
     "wof:parent_id": 404447885,
     "wof:placetype": "postalcode",
@@ -52,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.779831, 
-    53.569605, 
-    -2.779831, 
-    53.569605
+    -2.776824, 
+    53.571152, 
+    -2.776824, 
+    53.571152
   ],
-  "geometry": {"coordinates":[-2.779831,53.569605],"type":"Point"}
+  "geometry": {"coordinates":[-2.776824,53.571152],"type":"Point"}
 }

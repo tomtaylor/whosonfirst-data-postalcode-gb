@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1996-06-01",
     "geom:area": 0,
-    "geom:bbox": "-0.773552,51.348883,-0.773552,51.348883",
-    "geom:latitude": 51.348883,
-    "geom:longitude": -0.773552,
+    "geom:bbox": "-0.773701,51.348588,-0.773701,51.348588",
+    "geom:latitude": 51.348588,
+    "geom:longitude": -0.773701,
     "gp:parent_id": "16623",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360699013, 
       404448653, 
       101852485, 
       404227469, 
-      1360698529, 
-      85633159, 
-      1360699013
+      1360698529
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701701,
-    "wof:geomhash": "e4cc0a7c4dba9e7804b36082351d4856",
+    "wof:geomhash": "9780a9487664115a8f0d205511c34f3e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454706419,
-    "wof:lastmodified": 1583786842,
+    "wof:lastmodified": 1609900005,
     "wof:name": "GU47 0RH",
     "wof:parent_id": 404448653,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.773552, 
-    51.348883, 
-    -0.773552, 
-    51.348883
+    -0.773701, 
+    51.348588, 
+    -0.773701, 
+    51.348588
   ],
-  "geometry": {"coordinates":[-0.773552,51.348883],"type":"Point"}
+  "geometry": {"coordinates":[-0.773701,51.348588],"type":"Point"}
 }

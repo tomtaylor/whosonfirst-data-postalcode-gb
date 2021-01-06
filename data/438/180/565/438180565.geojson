@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2004-09-01",
     "geom:area": 0,
-    "geom:bbox": "-2.474732,53.583178,-2.474732,53.583178",
-    "geom:latitude": 53.583178,
-    "geom:longitude": -2.474732,
+    "geom:bbox": "-2.475200,53.583104,-2.475200,53.583104",
+    "geom:latitude": 53.583104,
+    "geom:longitude": -2.4752,
     "gp:parent_id": "13189",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698555, 
       85633159, 
       1360699099, 
       101750551, 
-      404227469
+      404227469, 
+      1360698555
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701374,
-    "wof:geomhash": "19f78fafad6c76922c81bad678a41c3f",
+    "wof:geomhash": "2aa62844fc6362a33b1690003375d330",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 438180565,
-    "wof:lastmodified": 1583786514,
+    "wof:lastmodified": 1609878529,
     "wof:name": "BL1 5WD",
     "wof:parent_id": 101750551,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.474732, 
-    53.583178, 
-    -2.474732, 
-    53.583178
+    -2.4752, 
+    53.583104, 
+    -2.4752, 
+    53.583104
   ],
-  "geometry": {"coordinates":[-2.474732,53.583178],"type":"Point"}
+  "geometry": {"coordinates":[-2.4752,53.583104],"type":"Point"}
 }

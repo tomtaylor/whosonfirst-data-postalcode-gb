@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-5.271608,50.158744,-5.271608,50.158744",
-    "geom:latitude": 50.158744,
-    "geom:longitude": -5.271608,
+    "geom:bbox": "-5.275865,50.155673,-5.275865,50.155673",
+    "geom:latitude": 50.155673,
+    "geom:longitude": -5.275865,
     "gp:parent_id": "23365",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      1360699085, 
+      404451329, 
       1343697067, 
       404227469, 
       1360698623, 
-      85633159, 
-      1360699085, 
-      404451329
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701258,
-    "wof:geomhash": "edb15eeb5f0e2259acd5ce5e3a8dcbaf",
+    "wof:geomhash": "761784180131997e4ebb55aafd88c495",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487914657,
-    "wof:lastmodified": 1595725917,
+    "wof:lastmodified": 1609886314,
     "wof:name": "TR14 9NP",
     "wof:parent_id": 404451329,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -5.271608, 
-    50.158744, 
-    -5.271608, 
-    50.158744
+    -5.275865, 
+    50.155673, 
+    -5.275865, 
+    50.155673
   ],
-  "geometry": {"coordinates":[-5.271608,50.158744],"type":"Point"}
+  "geometry": {"coordinates":[-5.275865,50.155673],"type":"Point"}
 }

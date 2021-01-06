@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.013719,55.472324,-2.013719,55.472324",
-    "geom:latitude": 55.472324,
-    "geom:longitude": -2.013719,
+    "geom:bbox": "-2.013824,55.472100,-2.013824,55.472100",
+    "geom:latitude": 55.4721,
+    "geom:longitude": -2.013824,
     "gp:parent_id": "32514",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698769, 
       404434127, 
       1344085843, 
       404227469, 
-      1360698727, 
-      85633159, 
-      1360698769
+      1360698727
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701281,
-    "wof:geomhash": "cfc6fb50bb6f62529aadc55bb16daaa5",
+    "wof:geomhash": "66c518c71276f5e6e86b73a18dc5226d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471094727,
-    "wof:lastmodified": 1583786426,
+    "wof:lastmodified": 1609872622,
     "wof:name": "NE66 4JL",
     "wof:parent_id": 404434127,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.013719, 
-    55.472324, 
-    -2.013719, 
-    55.472324
+    -2.013824, 
+    55.4721, 
+    -2.013824, 
+    55.4721
   ],
-  "geometry": {"coordinates":[-2.013719,55.472324],"type":"Point"}
+  "geometry": {"coordinates":[-2.013824,55.4721],"type":"Point"}
 }

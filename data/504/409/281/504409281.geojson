@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.254830,56.073453,-4.254830,56.073453",
-    "geom:latitude": 56.073453,
-    "geom:longitude": -4.25483,
+    "geom:bbox": "-4.254894,56.073382,-4.254894,56.073382",
+    "geom:latitude": 56.073382,
+    "geom:longitude": -4.254894,
     "gp:parent_id": "12696211",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699003, 
       404433721, 
       404227471, 
-      1360698655
+      1360698655, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701178,
-    "wof:geomhash": "b016e667235baadd805569dda204abdd",
+    "wof:geomhash": "a722efd750679e0e179315e77909d1c7",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504409281,
-    "wof:lastmodified": 1583786284,
+    "wof:lastmodified": 1609869890,
     "wof:name": "G63 0QF",
     "wof:parent_id": 404433721,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.25483, 
-    56.073453, 
-    -4.25483, 
-    56.073453
+    -4.254894, 
+    56.073382, 
+    -4.254894, 
+    56.073382
   ],
-  "geometry": {"coordinates":[-4.25483,56.073453],"type":"Point"}
+  "geometry": {"coordinates":[-4.254894,56.073382],"type":"Point"}
 }

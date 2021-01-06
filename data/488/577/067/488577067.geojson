@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.336966,51.655290,-3.336966,51.655290",
-    "geom:latitude": 51.65529,
-    "geom:longitude": -3.336966,
+    "geom:bbox": "-3.336824,51.655354,-3.336824,51.655354",
+    "geom:latitude": 51.655354,
+    "geom:longitude": -3.336824,
     "gp:parent_id": "10239",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360699025, 
+      404450907, 
       1125770163, 
       404227475, 
       1360698631, 
-      85633159, 
-      1360699025, 
-      404450907
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701601,
-    "wof:geomhash": "5d105e28fe3dc593b7b709a776dc62b5",
+    "wof:geomhash": "ecf56676052102f7786a7dc4e8f79282",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488577067,
-    "wof:lastmodified": 1583786790,
+    "wof:lastmodified": 1609897450,
     "wof:name": "CF45 4EP",
     "wof:parent_id": 404450907,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.336966, 
-    51.65529, 
-    -3.336966, 
-    51.65529
+    -3.336824, 
+    51.655354, 
+    -3.336824, 
+    51.655354
   ],
-  "geometry": {"coordinates":[-3.336966,51.65529],"type":"Point"}
+  "geometry": {"coordinates":[-3.336824,51.655354],"type":"Point"}
 }

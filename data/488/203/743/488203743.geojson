@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.134669,52.588561,-2.134669,52.588561",
-    "geom:latitude": 52.588561,
-    "geom:longitude": -2.134669,
+    "geom:bbox": "-2.134403,52.588355,-2.134403,52.588355",
+    "geom:latitude": 52.588355,
+    "geom:longitude": -2.134403,
     "gp:parent_id": "40859",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360698737, 
       1126027181, 
       404227469, 
-      1360698605, 
-      85633159
+      1360698605
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701104,
-    "wof:geomhash": "241dfe9ae1e0aea19c2974eb0a73ed46",
+    "wof:geomhash": "be094fadbf25caad6f73db16ad5ba2a1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488203743,
-    "wof:lastmodified": 1583786354,
+    "wof:lastmodified": 1609879931,
     "wof:name": "WV1 4EG",
     "wof:parent_id": 101914031,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.134669, 
-    52.588561, 
-    -2.134669, 
-    52.588561
+    -2.134403, 
+    52.588355, 
+    -2.134403, 
+    52.588355
   ],
-  "geometry": {"coordinates":[-2.134669,52.588561],"type":"Point"}
+  "geometry": {"coordinates":[-2.134403,52.588355],"type":"Point"}
 }

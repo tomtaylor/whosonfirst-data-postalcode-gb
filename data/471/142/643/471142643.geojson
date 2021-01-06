@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.521759,52.750814,-0.521759,52.750814",
-    "geom:latitude": 52.750814,
-    "geom:longitude": -0.521759,
+    "geom:bbox": "-0.520133,52.751126,-0.520133,52.751126",
+    "geom:latitude": 52.751126,
+    "geom:longitude": -0.520133,
     "gp:parent_id": "26420",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699067, 
-      404446549, 
-      1126030895, 
       404227469, 
       1360698571, 
-      85633159
+      85633159, 
+      1360699067, 
+      404446549, 
+      1126030895
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701337,
-    "wof:geomhash": "cf91ba86d686932550f0a967be0ef052",
+    "wof:geomhash": "701b5045370c45272e3296d9cc446a9a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471142643,
-    "wof:lastmodified": 1583786482,
+    "wof:lastmodified": 1609876544,
     "wof:name": "NG33 4QW",
     "wof:parent_id": 404446549,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.521759, 
-    52.750814, 
-    -0.521759, 
-    52.750814
+    -0.520133, 
+    52.751126, 
+    -0.520133, 
+    52.751126
   ],
-  "geometry": {"coordinates":[-0.521759,52.750814],"type":"Point"}
+  "geometry": {"coordinates":[-0.520133,52.751126],"type":"Point"}
 }

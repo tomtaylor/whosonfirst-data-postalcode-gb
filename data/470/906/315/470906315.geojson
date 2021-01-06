@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1994-05-01",
     "geom:area": 0,
-    "geom:bbox": "-2.234278,53.484839,-2.234278,53.484839",
-    "geom:latitude": 53.484839,
-    "geom:longitude": -2.234278,
+    "geom:bbox": "-2.234203,53.484794,-2.234203,53.484794",
+    "geom:latitude": 53.484794,
+    "geom:longitude": -2.234203,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      101750525, 
       404227469, 
       85793015, 
       1360698555, 
       85633159, 
-      1360698893
+      1360698893, 
+      101750525
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701260,
-    "wof:geomhash": "672c8ad5b1d1d8b4706923a7c9f57639",
+    "wof:geomhash": "b00168c1b5ee64c20001ad6f9af0cb27",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 470906315,
-    "wof:lastmodified": 1583786401,
+    "wof:lastmodified": 1609872652,
     "wof:name": "M4 5LB",
     "wof:parent_id": 101750525,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.234278, 
-    53.484839, 
-    -2.234278, 
-    53.484839
+    -2.234203, 
+    53.484794, 
+    -2.234203, 
+    53.484794
   ],
-  "geometry": {"coordinates":[-2.234278,53.484839],"type":"Point"}
+  "geometry": {"coordinates":[-2.234203,53.484794],"type":"Point"}
 }

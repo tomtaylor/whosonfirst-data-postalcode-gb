@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.839527,51.884370,-4.839527,51.884370",
-    "geom:latitude": 51.88437,
-    "geom:longitude": -4.839527,
+    "geom:bbox": "-4.840454,51.884078,-4.840454,51.884078",
+    "geom:latitude": 51.884078,
+    "geom:longitude": -4.840454,
     "gp:parent_id": "27196",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360698843, 
       404430457, 
       1344085813, 
       404227475, 
-      1360698639, 
-      85633159
+      1360698639
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701475,
-    "wof:geomhash": "658014449d7c91bec909b6cc73c02ba3",
+    "wof:geomhash": "d8f766f1dfbe93f3621a11532b1e0875",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504606507,
-    "wof:lastmodified": 1583786630,
+    "wof:lastmodified": 1609882163,
     "wof:name": "SA63 4RT",
     "wof:parent_id": 404430457,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.839527, 
-    51.88437, 
-    -4.839527, 
-    51.88437
+    -4.840454, 
+    51.884078, 
+    -4.840454, 
+    51.884078
   ],
-  "geometry": {"coordinates":[-4.839527,51.88437],"type":"Point"}
+  "geometry": {"coordinates":[-4.840454,51.884078],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.563461,50.669612,-3.563461,50.669612",
-    "geom:latitude": 50.669612,
-    "geom:longitude": -3.563461,
+    "geom:bbox": "-3.563220,50.669991,-3.563220,50.669991",
+    "geom:latitude": 50.669991,
+    "geom:longitude": -3.56322,
     "gp:parent_id": "16156",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699081, 
-      404436821, 
-      1125978019, 
       404227469, 
       1360698541, 
-      85633159
+      85633159, 
+      1360699081, 
+      404436821, 
+      1125978019
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701658,
-    "wof:geomhash": "eae5b596981bc8f17e78af8b824be421",
+    "wof:geomhash": "c628ae39f25f7d64606219e22924fcda",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454604659,
-    "wof:lastmodified": 1583786787,
+    "wof:lastmodified": 1609896307,
     "wof:name": "EX6 7YQ",
     "wof:parent_id": 404436821,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.563461, 
-    50.669612, 
-    -3.563461, 
-    50.669612
+    -3.56322, 
+    50.669991, 
+    -3.56322, 
+    50.669991
   ],
-  "geometry": {"coordinates":[-3.563461,50.669612],"type":"Point"}
+  "geometry": {"coordinates":[-3.56322,50.669991],"type":"Point"}
 }

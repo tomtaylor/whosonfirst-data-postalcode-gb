@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.258251,53.484187,-2.258251,53.484187",
-    "geom:latitude": 53.484187,
-    "geom:longitude": -2.258251,
+    "geom:bbox": "-2.257527,53.484198,-2.257527,53.484198",
+    "geom:latitude": 53.484198,
+    "geom:longitude": -2.257527,
     "gp:parent_id": "33887",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360699005, 
       1175612693, 
       404227469, 
-      1360698555, 
-      85633159
+      85861849, 
+      1360698555
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,18 +32,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701229,
-    "wof:geomhash": "24d6fff79752520c06ae0b7902a00679",
+    "wof:geomhash": "1a3df393a2c1724586f2ff28704428b9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360699005,
         "locality_id": 1175612693,
         "macroregion_id": 404227469,
+        "neighbourhood_id": 85861849,
         "region_id": 1360698555
       }
     ],
     "wof:id": 470893389,
-    "wof:lastmodified": 1583786365,
+    "wof:lastmodified": 1609871814,
     "wof:name": "M3 6AY",
     "wof:parent_id": 101913951,
     "wof:placetype": "postalcode",
@@ -52,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.258251, 
-    53.484187, 
-    -2.258251, 
-    53.484187
+    -2.257527, 
+    53.484198, 
+    -2.257527, 
+    53.484198
   ],
-  "geometry": {"coordinates":[-2.258251,53.484187],"type":"Point"}
+  "geometry": {"coordinates":[-2.257527,53.484198],"type":"Point"}
 }

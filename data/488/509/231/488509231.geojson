@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.824738,55.725782,-3.824738,55.725782",
-    "geom:latitude": 55.725782,
-    "geom:longitude": -3.824738,
+    "geom:bbox": "-3.824550,55.725865,-3.824550,55.725865",
+    "geom:latitude": 55.725865,
+    "geom:longitude": -3.82455,
     "gp:parent_id": "12696210",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698969, 
+      404453929, 
       404227471, 
       1360698703, 
-      85633159, 
-      1360698969, 
-      404453929
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701521,
-    "wof:geomhash": "1d7d4294c9f7fb84a40685cc63071032",
+    "wof:geomhash": "a3a141525bb280edef749337e6e3f647",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488509231,
-    "wof:lastmodified": 1583786723,
+    "wof:lastmodified": 1609894625,
     "wof:name": "ML8 4PF",
     "wof:parent_id": 101872455,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.824738, 
-    55.725782, 
-    -3.824738, 
-    55.725782
+    -3.82455, 
+    55.725865, 
+    -3.82455, 
+    55.725865
   ],
-  "geometry": {"coordinates":[-3.824738,55.725782],"type":"Point"}
+  "geometry": {"coordinates":[-3.82455,55.725865],"type":"Point"}
 }

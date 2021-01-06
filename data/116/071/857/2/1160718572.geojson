@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.478528,50.606806,-2.478528,50.606806",
-    "geom:latitude": 50.606806,
-    "geom:longitude": -2.478528,
+    "geom:bbox": "-2.478219,50.606924,-2.478219,50.606924",
+    "geom:latitude": 50.606924,
+    "geom:longitude": -2.478219,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      101751585, 
-      404227469, 
       1360698545, 
       85633159, 
-      1360698745
+      1360698745, 
+      101751585, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583786997,
-    "wof:geomhash": "9b2fa7494db641376c0d45ea179ad421",
+    "wof:geomhash": "72952aca78e65bcfc3893a23a151afef",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1160718572,
-    "wof:lastmodified": 1595710808,
+    "wof:lastmodified": 1609869176,
     "wof:name": "DT4 0FH",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.478528, 
-    50.606806, 
-    -2.478528, 
-    50.606806
+    -2.478219, 
+    50.606924, 
+    -2.478219, 
+    50.606924
   ],
-  "geometry": {"coordinates":[-2.478528,50.606806],"type":"Point"}
+  "geometry": {"coordinates":[-2.478219,50.606924],"type":"Point"}
 }

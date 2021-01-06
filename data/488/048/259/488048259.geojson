@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.233656,51.498016,-0.233656,51.498016",
-    "geom:latitude": 51.498016,
-    "geom:longitude": -0.233656,
+    "geom:bbox": "-0.233620,51.497963,-0.233620,51.497963",
+    "geom:latitude": 51.497963,
+    "geom:longitude": -0.23362,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      101750367, 
-      1158860451, 
-      404227469, 
       1158860467, 
       1360698645, 
       1158857315, 
-      85633159
+      85633159, 
+      101750367, 
+      1158860451, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701214,
-    "wof:geomhash": "85db9cfc35c27a9b1c5750dcbed26a52",
+    "wof:geomhash": "f30339a61b298792083cc15564b41183",
     "wof:hierarchy": [
       {
         "borough_id": 1158857315,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 488048259,
-    "wof:lastmodified": 1583786386,
+    "wof:lastmodified": 1609870017,
     "wof:name": "W6 0HA",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.233656, 
-    51.498016, 
-    -0.233656, 
-    51.498016
+    -0.23362, 
+    51.497963, 
+    -0.23362, 
+    51.497963
   ],
-  "geometry": {"coordinates":[-0.233656,51.498016],"type":"Point"}
+  "geometry": {"coordinates":[-0.23362,51.497963],"type":"Point"}
 }

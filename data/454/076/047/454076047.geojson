@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.438552,54.811881,-2.438552,54.811881",
-    "geom:latitude": 54.811881,
-    "geom:longitude": -2.438552,
+    "geom:bbox": "-2.438568,54.811890,-2.438568,54.811890",
+    "geom:latitude": 54.81189,
+    "geom:longitude": -2.438568,
     "gp:parent_id": "10696",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      404439897, 
-      1360755785, 
-      404227469, 
       1360698721, 
       85633159, 
-      1360698877
+      1360698877, 
+      404439897, 
+      1360755785, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701159,
-    "wof:geomhash": "f99a29d01289bd7cb4896f7e099f8ae0",
+    "wof:geomhash": "fc345b03e2e89bf35331fbf38ee36735",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454076047,
-    "wof:lastmodified": 1583786301,
+    "wof:lastmodified": 1609869745,
     "wof:name": "CA9 3SE",
     "wof:parent_id": 404439897,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.438552, 
-    54.811881, 
-    -2.438552, 
-    54.811881
+    -2.438568, 
+    54.81189, 
+    -2.438568, 
+    54.81189
   ],
-  "geometry": {"coordinates":[-2.438552,54.811881],"type":"Point"}
+  "geometry": {"coordinates":[-2.438568,54.81189],"type":"Point"}
 }

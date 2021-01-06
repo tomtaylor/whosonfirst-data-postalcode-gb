@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.518405,54.507721,-3.518405,54.507721",
-    "geom:latitude": 54.507721,
-    "geom:longitude": -3.518405,
+    "geom:bbox": "-3.518511,54.507630,-3.518511,54.507630",
+    "geom:latitude": 54.50763,
+    "geom:longitude": -3.518511,
     "gp:parent_id": "16251",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698877, 
-      404431179, 
-      1243582737, 
       404227469, 
       1360698721, 
-      85633159
+      85633159, 
+      1360698877, 
+      404431179, 
+      1243582737
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701124,
-    "wof:geomhash": "7935b28b0a3ec45a01c1d292564778cc",
+    "wof:geomhash": "6d1b4c8be5b23f8a64b23048c31a62e8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454064689,
-    "wof:lastmodified": 1583786266,
+    "wof:lastmodified": 1609869330,
     "wof:name": "CA23 3DQ",
     "wof:parent_id": 404431179,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.518405, 
-    54.507721, 
-    -3.518405, 
-    54.507721
+    -3.518511, 
+    54.50763, 
+    -3.518511, 
+    54.50763
   ],
-  "geometry": {"coordinates":[-3.518405,54.507721],"type":"Point"}
+  "geometry": {"coordinates":[-3.518511,54.50763],"type":"Point"}
 }

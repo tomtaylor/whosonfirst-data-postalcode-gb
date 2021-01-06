@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "uuuu",
-    "edtf:inception": "2018-06-01",
+    "edtf:inception": "2020-09-01",
     "geom:area": 0,
     "geom:bbox": "-0.306454,51.551409,-0.306454,51.551409",
     "geom:latitude": 51.551409,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      101750367, 
-      404227469, 
-      85790821, 
       1360698645, 
       1158857267, 
-      85633159
+      85633159, 
+      101750367, 
+      404227469, 
+      85790821
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160985674,
-    "wof:lastmodified": 1583798799,
+    "wof:lastmodified": 1609873791,
     "wof:name": "HA9 1JP",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

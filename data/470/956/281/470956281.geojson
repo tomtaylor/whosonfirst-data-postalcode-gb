@@ -2,7 +2,7 @@
   "id": 470956281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-05-01",
     "edtf:inception": "2001-12-01",
     "geom:area": 0,
     "geom:bbox": "0.545060,51.383655,0.545060,51.383655",
@@ -10,7 +10,7 @@
     "geom:longitude": 0.54506,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000035",
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360817083, 
-      101750327, 
       404227469, 
       1360698565, 
       85633159, 
-      1360699105
+      1360699105, 
+      1360817083, 
+      101750327
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 470956281,
-    "wof:lastmodified": 1583786469,
+    "wof:lastmodified": 1609876779,
     "wof:name": "ME7 4RY",
     "wof:parent_id": 101750329,
     "wof:placetype": "postalcode",

@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.067579,51.527458,-0.067579,51.527458",
-    "geom:latitude": 51.527458,
-    "geom:longitude": -0.067579,
+    "geom:bbox": "-0.067555,51.527359,-0.067555,51.527359",
+    "geom:latitude": 51.527359,
+    "geom:longitude": -0.067555,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698645, 
-      1158857269, 
       85633159, 
       101750367, 
       404227469, 
-      85785657
+      85785657, 
+      1360698645, 
+      1158857269
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701620,
-    "wof:geomhash": "03bb34d0338a5ce523e999b132e95f6a",
+    "wof:geomhash": "8e02b6c0c33052c4660c80e631059a87",
     "wof:hierarchy": [
       {
         "borough_id": 1158857269,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454520255,
-    "wof:lastmodified": 1583786745,
+    "wof:lastmodified": 1609893034,
     "wof:name": "E2 6BA",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.067579, 
-    51.527458, 
-    -0.067579, 
-    51.527458
+    -0.067555, 
+    51.527359, 
+    -0.067555, 
+    51.527359
   ],
-  "geometry": {"coordinates":[-0.067579,51.527458],"type":"Point"}
+  "geometry": {"coordinates":[-0.067555,51.527359],"type":"Point"}
 }

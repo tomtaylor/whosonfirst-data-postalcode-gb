@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.079332,54.369194,-3.079332,54.369194",
-    "geom:latitude": 54.369194,
-    "geom:longitude": -3.079332,
+    "geom:bbox": "-3.079051,54.369044,-3.079051,54.369044",
+    "geom:latitude": 54.369044,
+    "geom:longitude": -3.079051,
     "gp:parent_id": "16767",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698721, 
       85633159, 
       1360698877, 
       404448187, 
-      1126056677
+      1126056677, 
+      404227469, 
+      1360698721
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701765,
-    "wof:geomhash": "9b25af36a614f4ea389465f8805b51d9",
+    "wof:geomhash": "9954abbfc3caddcaa93449c837215960",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454992035,
-    "wof:lastmodified": 1583786921,
+    "wof:lastmodified": 1609905739,
     "wof:name": "LA21 8HQ",
     "wof:parent_id": 404448187,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.079332, 
-    54.369194, 
-    -3.079332, 
-    54.369194
+    -3.079051, 
+    54.369044, 
+    -3.079051, 
+    54.369044
   ],
-  "geometry": {"coordinates":[-3.079332,54.369194],"type":"Point"}
+  "geometry": {"coordinates":[-3.079051,54.369044],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.372193,51.222486,-0.372193,51.222486",
-    "geom:latitude": 51.222486,
-    "geom:longitude": -0.372193,
+    "geom:bbox": "-0.371641,51.222458,-0.371641,51.222458",
+    "geom:latitude": 51.222458,
+    "geom:longitude": -0.371641,
     "gp:parent_id": "39887",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698599, 
-      85633159, 
       1360698887, 
       404431517, 
       1360756083, 
-      404227469
+      404227469, 
+      1360698599, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701679,
-    "wof:geomhash": "d5a10855441ca15bdf753e84f7eb6fe2",
+    "wof:geomhash": "d463cd279cd8668155f40916197b68ec",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471597423,
-    "wof:lastmodified": 1583786831,
+    "wof:lastmodified": 1609898258,
     "wof:name": "RH4 3JZ",
     "wof:parent_id": 404431517,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.372193, 
-    51.222486, 
-    -0.372193, 
-    51.222486
+    -0.371641, 
+    51.222458, 
+    -0.371641, 
+    51.222458
   ],
-  "geometry": {"coordinates":[-0.372193,51.222486],"type":"Point"}
+  "geometry": {"coordinates":[-0.371641,51.222458],"type":"Point"}
 }

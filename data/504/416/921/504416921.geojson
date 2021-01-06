@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.069467,55.823660,-4.069467,55.823660",
-    "geom:latitude": 55.82366,
-    "geom:longitude": -4.069467,
+    "geom:bbox": "-4.064156,55.822249,-4.064156,55.822249",
+    "geom:latitude": 55.822249,
+    "geom:longitude": -4.064156,
     "gp:parent_id": "12696204",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698949, 
       404435713, 
       404227471, 
-      1360698703, 
-      85633159, 
-      1360698949
+      1360698703
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701196,
-    "wof:geomhash": "d9d33c2fdec683a83a6a2620bc54f8fd",
+    "wof:geomhash": "2902d7e2d7f636ecb1190899fab29f20",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504416921,
-    "wof:lastmodified": 1583786305,
+    "wof:lastmodified": 1609870226,
     "wof:name": "G71 6ND",
     "wof:parent_id": 404435713,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.069467, 
-    55.82366, 
-    -4.069467, 
-    55.82366
+    -4.064156, 
+    55.822249, 
+    -4.064156, 
+    55.822249
   ],
-  "geometry": {"coordinates":[-4.069467,55.82366],"type":"Point"}
+  "geometry": {"coordinates":[-4.064156,55.822249],"type":"Point"}
 }

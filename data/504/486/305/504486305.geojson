@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.960454,53.023004,-2.960454,53.023004",
-    "geom:latitude": 53.023004,
-    "geom:longitude": -2.960454,
+    "geom:bbox": "-2.960500,53.023085,-2.960500,53.023085",
+    "geom:latitude": 53.023085,
+    "geom:longitude": -2.9605,
     "gp:parent_id": "28305",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      404454507, 
       1343690605, 
       404227475, 
       1360698637, 
       85633159, 
-      1360698743, 
-      404454507
+      1360698743
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701373,
-    "wof:geomhash": "5a5cde7564cf61bedd4f75b6cea008f5",
+    "wof:geomhash": "e96b29f91e28ef7c9590bd40ce257127",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504486305,
-    "wof:lastmodified": 1595729219,
+    "wof:lastmodified": 1609874656,
     "wof:name": "LL13 0PR",
     "wof:parent_id": 404454507,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.960454, 
-    53.023004, 
-    -2.960454, 
-    53.023004
+    -2.9605, 
+    53.023085, 
+    -2.9605, 
+    53.023085
   ],
-  "geometry": {"coordinates":[-2.960454,53.023004],"type":"Point"}
+  "geometry": {"coordinates":[-2.9605,53.023085],"type":"Point"}
 }

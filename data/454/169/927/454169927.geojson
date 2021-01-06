@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.750071,52.039835,0.750071,52.039835",
-    "geom:latitude": 52.039835,
-    "geom:longitude": 0.750071,
+    "geom:bbox": "0.750175,52.039859,0.750175,52.039859",
+    "geom:latitude": 52.039859,
+    "geom:longitude": 0.750175,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699041, 
-      404448153, 
       1125886213, 
       404227469, 
-      1360698595
+      1360698595, 
+      85633159, 
+      1360699041, 
+      404448153
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701332,
-    "wof:geomhash": "2fd1e92ea734dd0e461eae202219ce7e",
+    "wof:geomhash": "746fdb095d7e8e8ba3ad44f42472934b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454169927,
-    "wof:lastmodified": 1583786466,
+    "wof:lastmodified": 1609875774,
     "wof:name": "CO10 0PT",
     "wof:parent_id": 101854873,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.750071, 
-    52.039835, 
-    0.750071, 
-    52.039835
+    0.750175, 
+    52.039859, 
+    0.750175, 
+    52.039859
   ],
-  "geometry": {"coordinates":[0.750071,52.039835],"type":"Point"}
+  "geometry": {"coordinates":[0.750175,52.039859],"type":"Point"}
 }

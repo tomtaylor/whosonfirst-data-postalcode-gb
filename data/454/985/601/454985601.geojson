@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.232794,54.113546,-3.232794,54.113546",
-    "geom:latitude": 54.113546,
-    "geom:longitude": -3.232794,
+    "geom:bbox": "-3.232629,54.113646,-3.232629,54.113646",
+    "geom:latitude": 54.113646,
+    "geom:longitude": -3.232629,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,11 +18,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698877, 
       101872343, 
       404227469, 
-      1360698721
+      1360698721, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -30,7 +30,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701766,
-    "wof:geomhash": "ae077b210d70eeebb77caa59d1f2755a",
+    "wof:geomhash": "4474e942937b078d53a4c610b2ab74c5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -41,7 +41,7 @@
       }
     ],
     "wof:id": 454985601,
-    "wof:lastmodified": 1583786902,
+    "wof:lastmodified": 1609905646,
     "wof:name": "LA14 1XL",
     "wof:parent_id": 404450105,
     "wof:placetype": "postalcode",
@@ -51,10 +51,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.232794, 
-    54.113546, 
-    -3.232794, 
-    54.113546
+    -3.232629, 
+    54.113646, 
+    -3.232629, 
+    54.113646
   ],
-  "geometry": {"coordinates":[-3.232794,54.113546],"type":"Point"}
+  "geometry": {"coordinates":[-3.232629,54.113646],"type":"Point"}
 }

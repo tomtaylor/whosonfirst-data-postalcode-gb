@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.286836,51.622002,-1.286836,51.622002",
-    "geom:latitude": 51.622002,
-    "geom:longitude": -1.286836,
+    "geom:bbox": "-1.285660,51.621456,-1.285660,51.621456",
+    "geom:latitude": 51.621456,
+    "geom:longitude": -1.28566,
     "gp:parent_id": "29036",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698839, 
       404451887, 
       1126009205, 
       404227469, 
-      1360698585
+      1360698585, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701495,
-    "wof:geomhash": "28f97f428e0a60b88745130297d70f1a",
+    "wof:geomhash": "8d2a12d38c1c84ddcea02f743facac68",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471315619,
-    "wof:lastmodified": 1583786646,
+    "wof:lastmodified": 1609886116,
     "wof:name": "OX14 4SE",
     "wof:parent_id": 404432565,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.286836, 
-    51.622002, 
-    -1.286836, 
-    51.622002
+    -1.28566, 
+    51.621456, 
+    -1.28566, 
+    51.621456
   ],
-  "geometry": {"coordinates":[-1.286836,51.622002],"type":"Point"}
+  "geometry": {"coordinates":[-1.28566,51.621456],"type":"Point"}
 }

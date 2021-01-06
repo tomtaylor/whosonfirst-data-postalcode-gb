@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.270420,55.960794,-3.270420,55.960794",
-    "geom:latitude": 55.960794,
-    "geom:longitude": -3.27042,
+    "geom:bbox": "-3.270463,55.960632,-3.270463,55.960632",
+    "geom:latitude": 55.960632,
+    "geom:longitude": -3.270463,
     "gp:parent_id": "12696195",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85786975, 
-      1360698673, 
       85633159, 
       1360698761, 
       404437279, 
       101750629, 
-      404227471
+      404227471, 
+      85786975, 
+      1360698673
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701530,
-    "wof:geomhash": "7eb4addeb565d615050295ed51ae051f",
+    "wof:geomhash": "698ef397eeb5f7a354acf260ea85e454",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 488518103,
-    "wof:lastmodified": 1595734395,
+    "wof:lastmodified": 1609895106,
     "wof:name": "EH4 7BQ",
     "wof:parent_id": 101750629,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.27042, 
-    55.960794, 
-    -3.27042, 
-    55.960794
+    -3.270463, 
+    55.960632, 
+    -3.270463, 
+    55.960632
   ],
-  "geometry": {"coordinates":[-3.27042,55.960794],"type":"Point"}
+  "geometry": {"coordinates":[-3.270463,55.960632],"type":"Point"}
 }

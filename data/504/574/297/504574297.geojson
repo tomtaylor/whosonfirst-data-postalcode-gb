@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.310379,56.334639,-3.310379,56.334639",
-    "geom:latitude": 56.334639,
-    "geom:longitude": -3.310379,
+    "geom:bbox": "-3.310631,56.334924,-3.310631,56.334924",
+    "geom:latitude": 56.334924,
+    "geom:longitude": -3.310631,
     "gp:parent_id": "10280",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698829, 
       404451983, 
       404227471, 
-      1360698691
+      1360698691, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701441,
-    "wof:geomhash": "49358da414b7e9ede8b698cf1cd591ee",
+    "wof:geomhash": "6d7ff533946c10a70ae053a8a06d1375",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504574297,
-    "wof:lastmodified": 1583786584,
+    "wof:lastmodified": 1609880163,
     "wof:name": "PH2 9JY",
     "wof:parent_id": 404451983,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.310379, 
-    56.334639, 
-    -3.310379, 
-    56.334639
+    -3.310631, 
+    56.334924, 
+    -3.310631, 
+    56.334924
   ],
-  "geometry": {"coordinates":[-3.310379,56.334639],"type":"Point"}
+  "geometry": {"coordinates":[-3.310631,56.334924],"type":"Point"}
 }

@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.336208,52.310263,1.336208,52.310263",
-    "geom:latitude": 52.310263,
+    "geom:bbox": "1.336208,52.310266,1.336208,52.310266",
+    "geom:latitude": 52.310266,
     "geom:longitude": 1.336208,
     "gp:parent_id": "25927",
     "iso:country": "GB",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698595, 
       85633159, 
       1360699041, 
       404429577, 
-      1126001677
+      1126001677, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701744,
-    "wof:geomhash": "cd17e44d233ac3020b25d947d109aa5d",
+    "wof:geomhash": "2c2fb87df38f5ff1e8708652729db899",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454865747,
-    "wof:lastmodified": 1583786872,
+    "wof:lastmodified": 1609903710,
     "wof:name": "IP13 8EH",
     "wof:parent_id": 404429577,
     "wof:placetype": "postalcode",
@@ -55,9 +55,9 @@
   },
   "bbox": [
     1.336208, 
-    52.310263, 
+    52.310266, 
     1.336208, 
-    52.310263
+    52.310266
   ],
-  "geometry": {"coordinates":[1.336208,52.310263],"type":"Point"}
+  "geometry": {"coordinates":[1.336208,52.310266],"type":"Point"}
 }

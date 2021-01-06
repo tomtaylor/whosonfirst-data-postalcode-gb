@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.388660,53.336532,-3.388660,53.336532",
-    "geom:latitude": 53.336532,
-    "geom:longitude": -3.38866,
+    "geom:bbox": "-3.388896,53.336862,-3.388896,53.336862",
+    "geom:latitude": 53.336862,
+    "geom:longitude": -3.388896,
     "gp:parent_id": "12696135",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      101872015, 
       404227475, 
       1360698637, 
       85633159, 
       1360698781, 
-      404436913
+      404436913, 
+      101872015
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701527,
-    "wof:geomhash": "c4842452bef2cc093c0eb7159a1c3694",
+    "wof:geomhash": "8847d16a4ed836e207e2766fb4091774",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488514503,
-    "wof:lastmodified": 1583786727,
+    "wof:lastmodified": 1609894982,
     "wof:name": "LL19 9HY",
     "wof:parent_id": 101872015,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.38866, 
-    53.336532, 
-    -3.38866, 
-    53.336532
+    -3.388896, 
+    53.336862, 
+    -3.388896, 
+    53.336862
   ],
-  "geometry": {"coordinates":[-3.38866,53.336532],"type":"Point"}
+  "geometry": {"coordinates":[-3.388896,53.336862],"type":"Point"}
 }

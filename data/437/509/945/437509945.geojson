@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "uuuu",
-    "edtf:inception": "2019-04-01",
+    "edtf:inception": "2020-06-01",
     "geom:area": 0,
     "geom:bbox": "-0.292814,51.404724,-0.292814,51.404724",
     "geom:latitude": 51.404724,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      85860305, 
-      1360698645, 
       1158857309, 
       85633159, 
       101750367, 
-      404227469
+      404227469, 
+      85860305, 
+      1360698645
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 437509945,
-    "wof:lastmodified": 1583786441,
+    "wof:lastmodified": 1609875976,
     "wof:name": "KT1 9ER",
     "wof:parent_id": "101872171",
     "wof:placetype": "postalcode",

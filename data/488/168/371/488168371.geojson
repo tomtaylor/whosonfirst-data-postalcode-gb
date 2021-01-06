@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.361654,52.080518,-2.361654,52.080518",
-    "geom:latitude": 52.080518,
-    "geom:longitude": -2.361654,
+    "geom:bbox": "-2.361665,52.080519,-2.361665,52.080519",
+    "geom:latitude": 52.080519,
+    "geom:longitude": -2.361665,
     "gp:parent_id": "16672",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699053, 
-      404452475, 
-      1126012467, 
       404227469, 
       1360698617, 
-      85633159
+      85633159, 
+      1360699053, 
+      404452475, 
+      1126012467
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701288,
-    "wof:geomhash": "57e1beda734b6b78320108291c4852da",
+    "wof:geomhash": "56142538ac2a436e6562dc7cb6bb1e98",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488168371,
-    "wof:lastmodified": 1583786261,
+    "wof:lastmodified": 1609878177,
     "wof:name": "WR13 6QN",
     "wof:parent_id": 404452475,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.361654, 
-    52.080518, 
-    -2.361654, 
-    52.080518
+    -2.361665, 
+    52.080519, 
+    -2.361665, 
+    52.080519
   ],
-  "geometry": {"coordinates":[-2.361654,52.080518],"type":"Point"}
+  "geometry": {"coordinates":[-2.361665,52.080519],"type":"Point"}
 }

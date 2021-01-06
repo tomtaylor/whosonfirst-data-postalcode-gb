@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-11-01",
     "geom:area": 0,
-    "geom:bbox": "-1.030719,50.903944,-1.030719,50.903944",
-    "geom:latitude": 50.903944,
-    "geom:longitude": -1.030719,
+    "geom:bbox": "-1.028729,50.904575,-1.028729,50.904575",
+    "geom:latitude": 50.904575,
+    "geom:longitude": -1.028729,
     "gp:parent_id": "39301",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698557, 
-      85633159, 
       1360698827, 
       1360817467, 
-      1125973077
+      1125973077, 
+      404227469, 
+      1360698557, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701600,
-    "wof:geomhash": "33c6a663094f1e126a2ca78399b577d3",
+    "wof:geomhash": "0ab9e744e37a542899a2fa8e508c3796",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 437868991,
-    "wof:lastmodified": 1595715380,
+    "wof:lastmodified": 1609893524,
     "wof:name": "PO8 9AX",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.030719, 
-    50.903944, 
-    -1.030719, 
-    50.903944
+    -1.028729, 
+    50.904575, 
+    -1.028729, 
+    50.904575
   ],
-  "geometry": {"coordinates":[-1.030719,50.903944],"type":"Point"}
+  "geometry": {"coordinates":[-1.028729,50.904575],"type":"Point"}
 }

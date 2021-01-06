@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1984-02-01",
     "geom:area": 0,
-    "geom:bbox": "-1.133178,52.618428,-1.133178,52.618428",
-    "geom:latitude": 52.618428,
-    "geom:longitude": -1.133178,
+    "geom:bbox": "-1.133770,52.618379,-1.133770,52.618379",
+    "geom:latitude": 52.618379,
+    "geom:longitude": -1.13377,
     "gp:parent_id": "26062",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      101750485, 
       404227469, 
       1360698569, 
       85633159, 
-      1360698995, 
-      101750485
+      1360698995
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701086,
-    "wof:geomhash": "29646c101d55b99d664fc8e74985c8cb",
+    "wof:geomhash": "427ba98959b41554f2fcb29ac1c9e9a8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 455027231,
-    "wof:lastmodified": 1583786198,
+    "wof:lastmodified": 1609869190,
     "wof:name": "LE2 7SQ",
     "wof:parent_id": 101750485,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.133178, 
-    52.618428, 
-    -1.133178, 
-    52.618428
+    -1.13377, 
+    52.618379, 
+    -1.13377, 
+    52.618379
   ],
-  "geometry": {"coordinates":[-1.133178,52.618428],"type":"Point"}
+  "geometry": {"coordinates":[-1.13377,52.618379],"type":"Point"}
 }

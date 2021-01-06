@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1997-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.467496,53.462304,-1.467496,53.462304",
+    "geom:bbox": "-1.467541,53.462304,-1.467541,53.462304",
     "geom:latitude": 53.462304,
-    "geom:longitude": -1.467496,
+    "geom:longitude": -1.467541,
     "gp:parent_id": "15635",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      85787791, 
-      1360698591, 
       85633159, 
       1360699075, 
       404451341, 
       1125852303, 
-      404227469
+      404227469, 
+      85787791, 
+      1360698591
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701688,
-    "wof:geomhash": "e86f179157e3019694a15f01c69504a3",
+    "wof:geomhash": "e6972f8f09828f2209846e7336493e25",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 471642733,
-    "wof:lastmodified": 1583786857,
+    "wof:lastmodified": 1609900162,
     "wof:name": "S35 2UX",
     "wof:parent_id": 404451341,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.467496, 
+    -1.467541, 
     53.462304, 
-    -1.467496, 
+    -1.467541, 
     53.462304
   ],
-  "geometry": {"coordinates":[-1.467496,53.462304],"type":"Point"}
+  "geometry": {"coordinates":[-1.467541,53.462304],"type":"Point"}
 }

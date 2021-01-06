@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.200943,52.453531,-1.200943,52.453531",
-    "geom:latitude": 52.453531,
-    "geom:longitude": -1.200943,
+    "geom:bbox": "-1.200720,52.453619,-1.200720,52.453619",
+    "geom:latitude": 52.453619,
+    "geom:longitude": -1.20072,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698871, 
       404436119, 
       101853103, 
       404227469, 
-      1360698569
+      1360698569, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701065,
-    "wof:geomhash": "6736f39634bfc62f94817fd07d5b820d",
+    "wof:geomhash": "1319b9db290e44c28f2b02ae2b16ed3f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 455019731,
-    "wof:lastmodified": 1583786177,
+    "wof:lastmodified": 1609868988,
     "wof:name": "LE17 4BL",
     "wof:parent_id": 101853103,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.200943, 
-    52.453531, 
-    -1.200943, 
-    52.453531
+    -1.20072, 
+    52.453619, 
+    -1.20072, 
+    52.453619
   ],
-  "geometry": {"coordinates":[-1.200943,52.453531],"type":"Point"}
+  "geometry": {"coordinates":[-1.20072,52.453619],"type":"Point"}
 }

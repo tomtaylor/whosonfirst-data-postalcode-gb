@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.796651,52.458308,-1.796651,52.458308",
+    "geom:bbox": "-1.796754,52.458308,-1.796754,52.458308",
     "geom:latitude": 52.458308,
-    "geom:longitude": -1.796651,
+    "geom:longitude": -1.796754,
     "gp:parent_id": "12723",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
       85791869, 
       1360698605, 
       85633159, 
       1360699077, 
-      101750467, 
-      404227469
+      101750467
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701658,
-    "wof:geomhash": "48c2c2600e72a0a9ddd02254897fe30f",
+    "wof:geomhash": "29556a95690b09c9967f1c70cdd9f505",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 437974225,
-    "wof:lastmodified": 1595715878,
+    "wof:lastmodified": 1609898034,
     "wof:name": "B26 1NU",
     "wof:parent_id": 101750467,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.796651, 
+    -1.796754, 
     52.458308, 
-    -1.796651, 
+    -1.796754, 
     52.458308
   ],
-  "geometry": {"coordinates":[-1.796651,52.458308],"type":"Point"}
+  "geometry": {"coordinates":[-1.796754,52.458308],"type":"Point"}
 }

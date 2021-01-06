@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.850513,53.202152,-2.850513,53.202152",
-    "geom:latitude": 53.202152,
-    "geom:longitude": -2.850513,
+    "geom:bbox": "-2.850437,53.202080,-2.850437,53.202080",
+    "geom:latitude": 53.20208,
+    "geom:longitude": -2.850437,
     "gp:parent_id": "21989",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360698923, 
       404446857, 
       1126017179, 
       404227469, 
-      1360698537, 
-      85633159
+      1360698537
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701219,
-    "wof:geomhash": "8409095cb7581d06e4707a6063b886dc",
+    "wof:geomhash": "4570a622d0ad1a35e2967fd0fafa735b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454103467,
-    "wof:lastmodified": 1583786371,
+    "wof:lastmodified": 1609871011,
     "wof:name": "CH3 7EQ",
     "wof:parent_id": 404446857,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.850513, 
-    53.202152, 
-    -2.850513, 
-    53.202152
+    -2.850437, 
+    53.20208, 
+    -2.850437, 
+    53.20208
   ],
-  "geometry": {"coordinates":[-2.850513,53.202152],"type":"Point"}
+  "geometry": {"coordinates":[-2.850437,53.20208],"type":"Point"}
 }

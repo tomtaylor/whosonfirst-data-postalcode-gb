@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1983-03-01",
     "geom:area": 0,
-    "geom:bbox": "-1.435010,53.389410,-1.435010,53.389410",
-    "geom:latitude": 53.38941,
-    "geom:longitude": -1.43501,
+    "geom:bbox": "-1.434979,53.389419,-1.434979,53.389419",
+    "geom:latitude": 53.389419,
+    "geom:longitude": -1.434979,
     "gp:parent_id": "34503",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      85785403, 
-      1360698591, 
       85633159, 
       1360699075, 
-      101750529
+      101750529, 
+      404227469, 
+      85785403, 
+      1360698591
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701709,
-    "wof:geomhash": "ab563217cd4153025322a84ac6a84eb1",
+    "wof:geomhash": "6bd0e6d5fd47abf571ecc997fbaf4337",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471694629,
-    "wof:lastmodified": 1583786886,
+    "wof:lastmodified": 1609901021,
     "wof:name": "S9 3JL",
     "wof:parent_id": 101750529,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.43501, 
-    53.38941, 
-    -1.43501, 
-    53.38941
+    -1.434979, 
+    53.389419, 
+    -1.434979, 
+    53.389419
   ],
-  "geometry": {"coordinates":[-1.43501,53.38941],"type":"Point"}
+  "geometry": {"coordinates":[-1.434979,53.389419],"type":"Point"}
 }

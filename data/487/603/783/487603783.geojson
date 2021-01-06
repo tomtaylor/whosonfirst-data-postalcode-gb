@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1994-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.349566,50.910794,-1.349566,50.910794",
-    "geom:latitude": 50.910794,
-    "geom:longitude": -1.349566,
+    "geom:bbox": "-1.349650,50.910840,-1.349650,50.910840",
+    "geom:latitude": 50.91084,
+    "geom:longitude": -1.34965,
     "gp:parent_id": "35356",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698907, 
       101750311, 
       404227469, 
-      1360698557, 
-      85633159, 
-      1360698907
+      1360698557
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701081,
-    "wof:geomhash": "3aba88b650b4c896541bcadd97f96433",
+    "wof:geomhash": "5b4fb5e13353e61f4308dc68825e9365",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 487603783,
-    "wof:lastmodified": 1583786179,
+    "wof:lastmodified": 1609868942,
     "wof:name": "SO19 8QR",
     "wof:parent_id": 101750311,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.349566, 
-    50.910794, 
-    -1.349566, 
-    50.910794
+    -1.34965, 
+    50.91084, 
+    -1.34965, 
+    50.91084
   ],
-  "geometry": {"coordinates":[-1.349566,50.910794],"type":"Point"}
+  "geometry": {"coordinates":[-1.34965,50.91084],"type":"Point"}
 }

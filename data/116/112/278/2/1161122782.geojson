@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-12-01",
     "geom:area": 0,
-    "geom:bbox": "-0.030845,52.955534,-0.030845,52.955534",
-    "geom:latitude": 52.955534,
-    "geom:longitude": -0.030845,
+    "geom:bbox": "-0.030786,52.955515,-0.030786,52.955515",
+    "geom:latitude": 52.955515,
+    "geom:longitude": -0.030786,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,27 +18,29 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699067, 
-      1125846575, 
+      404449993, 
+      1226675353, 
       404227469, 
-      1360698571
+      1360698571, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583804903,
-    "wof:geomhash": "ca49e248f554a3b221df7dfcd49df955",
+    "wof:geomhash": "27a5f9a4ab6fa1bd4ab1df0d49e30676",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360699067,
-        "locality_id": 1125846575,
+        "localadmin_id": 404449993,
+        "locality_id": 1226675353,
         "macroregion_id": 404227469,
         "region_id": 1360698571
       }
     ],
     "wof:id": 1161122782,
-    "wof:lastmodified": 1595712779,
+    "wof:lastmodified": 1609876102,
     "wof:name": "PE21 7NE",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.030845, 
-    52.955534, 
-    -0.030845, 
-    52.955534
+    -0.030786, 
+    52.955515, 
+    -0.030786, 
+    52.955515
   ],
-  "geometry": {"coordinates":[-0.030845,52.955534],"type":"Point"}
+  "geometry": {"coordinates":[-0.030786,52.955515],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.546103,51.554999,0.546103,51.554999",
-    "geom:latitude": 51.554999,
-    "geom:longitude": 0.546103,
+    "geom:bbox": "0.546073,51.554721,0.546073,51.554721",
+    "geom:latitude": 51.554721,
+    "geom:longitude": 0.546073,
     "gp:parent_id": "35178",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      1310234087, 
       404227469, 
       1360698551, 
       85633159, 
-      1360698979, 
-      1310234087
+      1360698979
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701120,
-    "wof:geomhash": "27f84042698a06c62961d119363091b7",
+    "wof:geomhash": "e6e3cf344c2583264a0a975a2620c11f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 487683753,
-    "wof:lastmodified": 1583786214,
+    "wof:lastmodified": 1609872681,
     "wof:name": "SS7 5DL",
     "wof:parent_id": 101914067,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.546103, 
-    51.554999, 
-    0.546103, 
-    51.554999
+    0.546073, 
+    51.554721, 
+    0.546073, 
+    51.554721
   ],
-  "geometry": {"coordinates":[0.546103,51.554999],"type":"Point"}
+  "geometry": {"coordinates":[0.546073,51.554721],"type":"Point"}
 }

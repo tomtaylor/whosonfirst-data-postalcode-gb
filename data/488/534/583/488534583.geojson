@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1996-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.079490,57.135275,-2.079490,57.135275",
-    "geom:latitude": 57.135275,
-    "geom:longitude": -2.07949,
+    "geom:bbox": "-2.079523,57.135472,-2.079523,57.135472",
+    "geom:latitude": 57.135472,
+    "geom:longitude": -2.079523,
     "gp:parent_id": "12696182",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698989, 
-      404429183, 
-      101750639, 
       404227471, 
       1360698709, 
-      85633159
+      85633159, 
+      1360698989, 
+      404429183, 
+      101750639
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701549,
-    "wof:geomhash": "26c622b7243c2ca0cc3248e4dcf62f43",
+    "wof:geomhash": "2d9913ee3b23a656bf94b12b9d674a6a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488534583,
-    "wof:lastmodified": 1583786748,
+    "wof:lastmodified": 1609895712,
     "wof:name": "AB11 9JT",
     "wof:parent_id": 101750639,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.07949, 
-    57.135275, 
-    -2.07949, 
-    57.135275
+    -2.079523, 
+    57.135472, 
+    -2.079523, 
+    57.135472
   ],
-  "geometry": {"coordinates":[-2.07949,57.135275],"type":"Point"}
+  "geometry": {"coordinates":[-2.079523,57.135472],"type":"Point"}
 }

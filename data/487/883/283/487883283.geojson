@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1981-06-01",
     "geom:area": 0,
-    "geom:bbox": "0.273115,51.192769,0.273115,51.192769",
-    "geom:latitude": 51.192769,
-    "geom:longitude": 0.273115,
+    "geom:bbox": "0.273350,51.192890,0.273350,51.192890",
+    "geom:latitude": 51.19289,
+    "geom:longitude": 0.27335,
     "gp:parent_id": "37756",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698565, 
+      85633159, 
       1360698811, 
       101854625, 
-      404227469, 
-      1360698565, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701229,
-    "wof:geomhash": "1a067e6a51b8173e81d72b221a64f805",
+    "wof:geomhash": "048533844a5bc036c50ef6ce8eed2283",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 487883283,
-    "wof:lastmodified": 1583786317,
+    "wof:lastmodified": 1609884901,
     "wof:name": "TN9 1TE",
     "wof:parent_id": 101854625,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.273115, 
-    51.192769, 
-    0.273115, 
-    51.192769
+    0.27335, 
+    51.19289, 
+    0.27335, 
+    51.19289
   ],
-  "geometry": {"coordinates":[0.273115,51.192769],"type":"Point"}
+  "geometry": {"coordinates":[0.27335,51.19289],"type":"Point"}
 }

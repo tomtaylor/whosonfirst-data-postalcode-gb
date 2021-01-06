@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.879047,50.740705,-1.879047,50.740705",
-    "geom:latitude": 50.740705,
-    "geom:longitude": -1.879047,
+    "geom:bbox": "-1.879139,50.740226,-1.879139,50.740226",
+    "geom:latitude": 50.740226,
+    "geom:longitude": -1.879139,
     "gp:parent_id": "13383",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698545, 
       85633159, 
       1360698873, 
-      101750305
+      101750305, 
+      404227469, 
+      1360698545
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701371,
-    "wof:geomhash": "a82591b52da8f0596c6b532c25f62ce0",
+    "wof:geomhash": "bf529950b54744d8035a4cf9bd29192d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 438175937,
-    "wof:lastmodified": 1583786505,
+    "wof:lastmodified": 1609878244,
     "wof:name": "BH9 2AD",
     "wof:parent_id": 101750305,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.879047, 
-    50.740705, 
-    -1.879047, 
-    50.740705
+    -1.879139, 
+    50.740226, 
+    -1.879139, 
+    50.740226
   ],
-  "geometry": {"coordinates":[-1.879047,50.740705],"type":"Point"}
+  "geometry": {"coordinates":[-1.879139,50.740226],"type":"Point"}
 }

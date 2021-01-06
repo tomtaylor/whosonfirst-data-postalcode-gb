@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.274691,52.049009,-0.274691,52.049009",
-    "geom:latitude": 52.049009,
-    "geom:longitude": -0.274691,
+    "geom:bbox": "-0.274696,52.049020,-0.274696,52.049020",
+    "geom:latitude": 52.04902,
+    "geom:longitude": -0.274696,
     "gp:parent_id": "25749",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698527, 
-      85633159, 
       1360698767, 
       404447721, 
       1125915295, 
-      404227469
+      404227469, 
+      1360698527, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701727,
-    "wof:geomhash": "d56632b17f971db2fe308698a9542827",
+    "wof:geomhash": "05669f50b5ac6e8640e1e02d4fed61d2",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471748875,
-    "wof:lastmodified": 1583786905,
+    "wof:lastmodified": 1609902153,
     "wof:name": "SG18 9RW",
     "wof:parent_id": 404447721,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.274691, 
-    52.049009, 
-    -0.274691, 
-    52.049009
+    -0.274696, 
+    52.04902, 
+    -0.274696, 
+    52.04902
   ],
-  "geometry": {"coordinates":[-0.274691,52.049009],"type":"Point"}
+  "geometry": {"coordinates":[-0.274696,52.04902],"type":"Point"}
 }

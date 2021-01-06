@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2005-02-01",
     "geom:area": 0,
-    "geom:bbox": "-0.447341,53.771031,-0.447341,53.771031",
-    "geom:latitude": 53.771031,
-    "geom:longitude": -0.447341,
+    "geom:bbox": "-0.447309,53.771067,-0.447309,53.771067",
+    "geom:latitude": 53.771067,
+    "geom:longitude": -0.447309,
     "gp:parent_id": "25211",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698547, 
-      85633159, 
       1360699001, 
       404444827, 
-      1125949063
+      1125949063, 
+      404227469, 
+      1360698547, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701725,
-    "wof:geomhash": "08008f88ece1b8582b90f299f42e52a2",
+    "wof:geomhash": "9c426344b5daa1276ad8fbf819b4910d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454808957,
-    "wof:lastmodified": 1583786863,
+    "wof:lastmodified": 1609902594,
     "wof:name": "HU10 6FE",
     "wof:parent_id": 404444827,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.447341, 
-    53.771031, 
-    -0.447341, 
-    53.771031
+    -0.447309, 
+    53.771067, 
+    -0.447309, 
+    53.771067
   ],
-  "geometry": {"coordinates":[-0.447341,53.771031],"type":"Point"}
+  "geometry": {"coordinates":[-0.447309,53.771067],"type":"Point"}
 }

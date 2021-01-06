@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-04-01",
     "geom:area": 0,
-    "geom:bbox": "-1.615650,55.134052,-1.615650,55.134052",
-    "geom:latitude": 55.134052,
-    "geom:longitude": -1.61565,
+    "geom:bbox": "-1.615479,55.133925,-1.615479,55.133925",
+    "geom:latitude": 55.133925,
+    "geom:longitude": -1.615479,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698769, 
       404431475, 
       1360756009, 
       404227469, 
-      1360698727
+      1360698727, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583801341,
-    "wof:geomhash": "9f597a6236755798f362a67d98d809d7",
+    "wof:geomhash": "13ef9b595ee6e18877854894cbd5e4be",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712737219,
-    "wof:lastmodified": 1595712034,
+    "wof:lastmodified": 1609873568,
     "wof:name": "NE22 6BU",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.61565, 
-    55.134052, 
-    -1.61565, 
-    55.134052
+    -1.615479, 
+    55.133925, 
+    -1.615479, 
+    55.133925
   ],
-  "geometry": {"coordinates":[-1.61565,55.134052],"type":"Point"}
+  "geometry": {"coordinates":[-1.615479,55.133925],"type":"Point"}
 }

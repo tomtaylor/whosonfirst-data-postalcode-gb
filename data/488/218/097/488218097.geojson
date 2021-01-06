@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1983-03-01",
     "geom:area": 0,
-    "geom:bbox": "-2.102632,52.560186,-2.102632,52.560186",
+    "geom:bbox": "-2.102396,52.560186,-2.102396,52.560186",
     "geom:latitude": 52.560186,
-    "geom:longitude": -2.102632,
+    "geom:longitude": -2.102396,
     "gp:parent_id": "40859",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360698737, 
       1126027181, 
       404227469, 
-      1360698605, 
-      85633159
+      1360698605
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701139,
-    "wof:geomhash": "a7f8466d77ee62984aed01c10661bc69",
+    "wof:geomhash": "fe662205345648afcfb44a90f4f2460b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488218097,
-    "wof:lastmodified": 1583786392,
+    "wof:lastmodified": 1609880878,
     "wof:name": "WV4 6LF",
     "wof:parent_id": 101914031,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.102632, 
+    -2.102396, 
     52.560186, 
-    -2.102632, 
+    -2.102396, 
     52.560186
   ],
-  "geometry": {"coordinates":[-2.102632,52.560186],"type":"Point"}
+  "geometry": {"coordinates":[-2.102396,52.560186],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-03-01",
     "geom:area": 0,
-    "geom:bbox": "-2.481934,52.631994,-2.481934,52.631994",
-    "geom:latitude": 52.631994,
-    "geom:longitude": -2.481934,
+    "geom:bbox": "-2.481991,52.631859,-2.481991,52.631859",
+    "geom:latitude": 52.631859,
+    "geom:longitude": -2.481991,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698911, 
       404431473, 
       1360756005, 
       404227469, 
-      1360698587
+      1360698587, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583802206,
-    "wof:geomhash": "ddd1b343f49341bd03c0c883af393b19",
+    "wof:geomhash": "8e2fd5fff5d28144bcd35a617ce60d77",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 39505176,
-    "wof:lastmodified": 1583802206,
+    "wof:lastmodified": 1609868444,
     "wof:name": "TF8 7BQ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.481934, 
-    52.631994, 
-    -2.481934, 
-    52.631994
+    -2.481991, 
+    52.631859, 
+    -2.481991, 
+    52.631859
   ],
-  "geometry": {"coordinates":[-2.481934,52.631994],"type":"Point"}
+  "geometry": {"coordinates":[-2.481991,52.631859],"type":"Point"}
 }

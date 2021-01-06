@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.141048,52.936849,-1.141048,52.936849",
-    "geom:latitude": 52.936849,
-    "geom:longitude": -1.141048,
+    "geom:bbox": "-1.140984,52.936896,-1.140984,52.936896",
+    "geom:latitude": 52.936896,
+    "geom:longitude": -1.140984,
     "gp:parent_id": "30720",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698583, 
       85633159, 
       1360698801, 
-      1175612705
+      1175612705, 
+      404227469, 
+      1360698583
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701321,
-    "wof:geomhash": "be26c230761a3354142160080316a151",
+    "wof:geomhash": "c09581d7b2755e57dfa2ce4d745ca138",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 471124723,
-    "wof:lastmodified": 1583786460,
+    "wof:lastmodified": 1609874921,
     "wof:name": "NG2 2LA",
     "wof:parent_id": 404455031,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.141048, 
-    52.936849, 
-    -1.141048, 
-    52.936849
+    -1.140984, 
+    52.936896, 
+    -1.140984, 
+    52.936896
   ],
-  "geometry": {"coordinates":[-1.141048,52.936849],"type":"Point"}
+  "geometry": {"coordinates":[-1.140984,52.936896],"type":"Point"}
 }

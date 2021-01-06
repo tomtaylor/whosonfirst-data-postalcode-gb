@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2008-07-01",
     "geom:area": 0,
-    "geom:bbox": "-2.163159,53.475268,-2.163159,53.475268",
-    "geom:latitude": 53.475268,
-    "geom:longitude": -2.163159,
+    "geom:bbox": "-2.162827,53.475160,-2.162827,53.475160",
+    "geom:latitude": 53.47516,
+    "geom:longitude": -2.162827,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698555, 
       85633159, 
       1360698893, 
       101750525, 
       404227469, 
-      85785179, 
-      1360698555
+      85785179
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701337,
-    "wof:geomhash": "b22d8d210731d62b3dd01a0969d48a5a",
+    "wof:geomhash": "46ac073d717392980e2c6e5e72e37258",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 488319929,
-    "wof:lastmodified": 1583786529,
+    "wof:lastmodified": 1609886209,
     "wof:name": "M11 1DG",
     "wof:parent_id": 101750525,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.163159, 
-    53.475268, 
-    -2.163159, 
-    53.475268
+    -2.162827, 
+    53.47516, 
+    -2.162827, 
+    53.47516
   ],
-  "geometry": {"coordinates":[-2.163159,53.475268],"type":"Point"}
+  "geometry": {"coordinates":[-2.162827,53.47516],"type":"Point"}
 }

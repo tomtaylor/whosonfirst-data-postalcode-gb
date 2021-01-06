@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.288365,55.794067,-4.288365,55.794067",
-    "geom:latitude": 55.794067,
-    "geom:longitude": -4.288365,
+    "geom:bbox": "-4.287784,55.794222,-4.287784,55.794222",
+    "geom:latitude": 55.794222,
+    "geom:longitude": -4.287784,
     "gp:parent_id": "12696194",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85792535, 
-      1360698699, 
-      85633159, 
       1360699117, 
       404435263, 
-      404227471
+      404227471, 
+      85792535, 
+      1360698699, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701396,
-    "wof:geomhash": "859e36d3f55a433a152f3cdefa5c44ef",
+    "wof:geomhash": "4bee85e5d0c7db18baead2daf8b7b9d4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488386599,
-    "wof:lastmodified": 1595733355,
+    "wof:lastmodified": 1609889347,
     "wof:name": "G76 7HH",
     "wof:parent_id": 101913917,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.288365, 
-    55.794067, 
-    -4.288365, 
-    55.794067
+    -4.287784, 
+    55.794222, 
+    -4.287784, 
+    55.794222
   ],
-  "geometry": {"coordinates":[-4.288365,55.794067],"type":"Point"}
+  "geometry": {"coordinates":[-4.287784,55.794222],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-07-01",
     "geom:area": 0,
-    "geom:bbox": "-1.471324,53.803687,-1.471324,53.803687",
-    "geom:latitude": 53.803687,
-    "geom:longitude": -1.471324,
+    "geom:bbox": "-1.471079,53.803910,-1.471079,53.803910",
+    "geom:latitude": 53.80391,
+    "geom:longitude": -1.471079,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,29 +18,29 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698609, 
+      85633159, 
       1360698749, 
       101750579, 
       404227469, 
-      85788563, 
-      1360698609, 
-      85633159
+      85786887
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583798992,
-    "wof:geomhash": "aa1fc26cda25cee1a343f66bf00dcc1f",
+    "wof:geomhash": "1ad7340a185c47c5ca0352bd94e4a976",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360698749,
         "locality_id": 101750579,
         "macroregion_id": 404227469,
-        "neighbourhood_id": 85788563,
+        "neighbourhood_id": 85786887,
         "region_id": 1360698609
       }
     ],
     "wof:id": 39215691,
-    "wof:lastmodified": 1583798992,
+    "wof:lastmodified": 1609868450,
     "wof:name": "LS14 6WJ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.471324, 
-    53.803687, 
-    -1.471324, 
-    53.803687
+    -1.471079, 
+    53.80391, 
+    -1.471079, 
+    53.80391
   ],
-  "geometry": {"coordinates":[-1.471324,53.803687],"type":"Point"}
+  "geometry": {"coordinates":[-1.471079,53.80391],"type":"Point"}
 }

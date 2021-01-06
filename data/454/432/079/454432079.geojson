@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1981-06-01",
     "geom:area": 0,
-    "geom:bbox": "-0.673903,53.492902,-0.673903,53.492902",
-    "geom:latitude": 53.492902,
-    "geom:longitude": -0.673903,
+    "geom:bbox": "-0.674300,53.492745,-0.674300,53.492745",
+    "geom:latitude": 53.492745,
+    "geom:longitude": -0.6743,
     "gp:parent_id": "34223",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699067, 
       404435191, 
       1125787127, 
       404227469, 
-      1360698571
+      1360698571, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701563,
-    "wof:geomhash": "43599a47af24c338164060b3ab608d85",
+    "wof:geomhash": "43a64f9f763aa38d4fbf11e7128273fb",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454432079,
-    "wof:lastmodified": 1583786690,
+    "wof:lastmodified": 1609889300,
     "wof:name": "DN21 3TF",
     "wof:parent_id": 404435191,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.673903, 
-    53.492902, 
-    -0.673903, 
-    53.492902
+    -0.6743, 
+    53.492745, 
+    -0.6743, 
+    53.492745
   ],
-  "geometry": {"coordinates":[-0.673903,53.492902],"type":"Point"}
+  "geometry": {"coordinates":[-0.6743,53.492745],"type":"Point"}
 }

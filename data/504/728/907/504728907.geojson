@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2003-11-01",
     "geom:area": 0,
-    "geom:bbox": "-3.249074,51.638075,-3.249074,51.638075",
-    "geom:latitude": 51.638075,
-    "geom:longitude": -3.249074,
+    "geom:bbox": "-3.251976,51.643205,-3.251976,51.643205",
+    "geom:latitude": 51.643205,
+    "geom:longitude": -3.251976,
     "gp:parent_id": "41441",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227475, 
-      1360698641, 
-      85633159, 
       1360698925, 
       404440235, 
-      101852783
+      101852783, 
+      404227475, 
+      1360698641, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701528,
-    "wof:geomhash": "811b98b92d76c2a5bf925e9762582086",
+    "wof:geomhash": "2e3d5ea48715e5013dbba2f00bc618e8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504728907,
-    "wof:lastmodified": 1583786688,
+    "wof:lastmodified": 1609887819,
     "wof:name": "CF82 7BF",
     "wof:parent_id": 404440235,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.249074, 
-    51.638075, 
-    -3.249074, 
-    51.638075
+    -3.251976, 
+    51.643205, 
+    -3.251976, 
+    51.643205
   ],
-  "geometry": {"coordinates":[-3.249074,51.638075],"type":"Point"}
+  "geometry": {"coordinates":[-3.251976,51.643205],"type":"Point"}
 }

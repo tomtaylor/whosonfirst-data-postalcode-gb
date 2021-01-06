@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.418712,55.173261,-3.418712,55.173261",
-    "geom:latitude": 55.173261,
-    "geom:longitude": -3.418712,
+    "geom:bbox": "-3.418267,55.173994,-3.418267,55.173994",
+    "geom:latitude": 55.173994,
+    "geom:longitude": -3.418267,
     "gp:parent_id": "37078",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      404444245, 
       404227471, 
       1360698719, 
       85633159, 
-      1360699039, 
-      404444245
+      1360699039
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701616,
-    "wof:geomhash": "c4f7110c1681824cdd5d2db793dc9ad5",
+    "wof:geomhash": "2f5fe341d069bf8d659539656ed4f728",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488610593,
-    "wof:lastmodified": 1583786812,
+    "wof:lastmodified": 1609898733,
     "wof:name": "DG11 1EW",
     "wof:parent_id": 404444245,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.418712, 
-    55.173261, 
-    -3.418712, 
-    55.173261
+    -3.418267, 
+    55.173994, 
+    -3.418267, 
+    55.173994
   ],
-  "geometry": {"coordinates":[-3.418712,55.173261],"type":"Point"}
+  "geometry": {"coordinates":[-3.418267,55.173994],"type":"Point"}
 }

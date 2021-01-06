@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1997-12-01",
     "geom:area": 0,
-    "geom:bbox": "-2.489695,51.454803,-2.489695,51.454803",
-    "geom:latitude": 51.454803,
-    "geom:longitude": -2.489695,
+    "geom:bbox": "-2.490188,51.455069,-2.490188,51.455069",
+    "geom:latitude": 51.455069,
+    "geom:longitude": -2.490188,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,13 +18,13 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360755835, 
-      404227469, 
-      85785495, 
-      1360698553, 
       85633159, 
       1360698895, 
-      404450879
+      1360817185, 
+      1360887535, 
+      404227469, 
+      85785495, 
+      1360698553
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,20 +32,20 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701459,
-    "wof:geomhash": "bd9087d660df47c2e40e6d3c79549916",
+    "wof:geomhash": "a81165cf3ac9a6ba4a830431265fd76e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360698895,
-        "localadmin_id": 404450879,
-        "locality_id": 1360755835,
+        "localadmin_id": 1360817185,
+        "locality_id": 1360887535,
         "macroregion_id": 404227469,
         "neighbourhood_id": 85785495,
         "region_id": 1360698553
       }
     ],
     "wof:id": 438272353,
-    "wof:lastmodified": 1583786598,
+    "wof:lastmodified": 1609883004,
     "wof:name": "BS15 9SF",
     "wof:parent_id": 101914025,
     "wof:placetype": "postalcode",
@@ -55,10 +55,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.489695, 
-    51.454803, 
-    -2.489695, 
-    51.454803
+    -2.490188, 
+    51.455069, 
+    -2.490188, 
+    51.455069
   ],
-  "geometry": {"coordinates":[-2.489695,51.454803],"type":"Point"}
+  "geometry": {"coordinates":[-2.490188,51.455069],"type":"Point"}
 }

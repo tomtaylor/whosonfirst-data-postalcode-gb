@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-11-01",
     "geom:area": 0,
-    "geom:bbox": "-3.022132,51.120482,-3.022132,51.120482",
-    "geom:latitude": 51.120482,
-    "geom:longitude": -3.022132,
+    "geom:bbox": "-3.022058,51.120338,-3.022058,51.120338",
+    "geom:latitude": 51.120338,
+    "geom:longitude": -3.022058,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699059, 
       404434771, 
       1360756329, 
       404227469, 
-      1360698589
+      1360698589, 
+      85633159, 
+      1360699059
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583801313,
-    "wof:geomhash": "b679101633b91f5c2242ee8e3ad1cfcd",
+    "wof:geomhash": "797f8739b4291142fff2ad6fc582cbac",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 39425994,
-    "wof:lastmodified": 1595711213,
+    "wof:lastmodified": 1609868464,
     "wof:name": "TA6 7DF",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.022132, 
-    51.120482, 
-    -3.022132, 
-    51.120482
+    -3.022058, 
+    51.120338, 
+    -3.022058, 
+    51.120338
   ],
-  "geometry": {"coordinates":[-3.022132,51.120482],"type":"Point"}
+  "geometry": {"coordinates":[-3.022058,51.120338],"type":"Point"}
 }

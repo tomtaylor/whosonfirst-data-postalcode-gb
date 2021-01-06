@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.238522,52.945902,-1.238522,52.945902",
-    "geom:latitude": 52.945902,
-    "geom:longitude": -1.238522,
+    "geom:bbox": "-1.238123,52.945747,-1.238123,52.945747",
+    "geom:latitude": 52.945747,
+    "geom:longitude": -1.238123,
     "gp:parent_id": "30720",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698583, 
       85633159, 
       1360698809, 
-      1125995117, 
-      404227469, 
-      1360698583
+      1125995117
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701353,
-    "wof:geomhash": "26bbc6045d8ba52110009415d6108adc",
+    "wof:geomhash": "861a9bfe1bf88121a1ff1c30d2d9cb5f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 471160239,
-    "wof:lastmodified": 1583786504,
+    "wof:lastmodified": 1609877620,
     "wof:name": "NG9 3ER",
     "wof:parent_id": 101913987,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.238522, 
-    52.945902, 
-    -1.238522, 
-    52.945902
+    -1.238123, 
+    52.945747, 
+    -1.238123, 
+    52.945747
   ],
-  "geometry": {"coordinates":[-1.238522,52.945902],"type":"Point"}
+  "geometry": {"coordinates":[-1.238123,52.945747],"type":"Point"}
 }

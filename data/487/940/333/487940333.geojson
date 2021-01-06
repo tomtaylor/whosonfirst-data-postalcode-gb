@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.362128,54.519225,-1.362128,54.519225",
-    "geom:latitude": 54.519225,
-    "geom:longitude": -1.362128,
+    "geom:bbox": "-1.362047,54.519219,-1.362047,54.519219",
+    "geom:latitude": 54.519219,
+    "geom:longitude": -1.362047,
     "gp:parent_id": "18820",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699087, 
-      404444427, 
-      1125964589, 
       404227469, 
       1360698621, 
-      85633159
+      85633159, 
+      1360699087, 
+      404444427, 
+      1125964589
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701275,
-    "wof:geomhash": "79c05f57309f805f6c7f9857f2358b01",
+    "wof:geomhash": "8eb1e2f458b398de6594adabe4095c1a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487940333,
-    "wof:lastmodified": 1583786347,
+    "wof:lastmodified": 1609887621,
     "wof:name": "TS16 0NX",
     "wof:parent_id": 404444427,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.362128, 
-    54.519225, 
-    -1.362128, 
-    54.519225
+    -1.362047, 
+    54.519219, 
+    -1.362047, 
+    54.519219
   ],
-  "geometry": {"coordinates":[-1.362128,54.519225],"type":"Point"}
+  "geometry": {"coordinates":[-1.362047,54.519219],"type":"Point"}
 }

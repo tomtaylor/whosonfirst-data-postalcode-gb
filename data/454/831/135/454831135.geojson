@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2003-09-01",
     "geom:area": 0,
-    "geom:bbox": "-0.268752,53.753529,-0.268752,53.753529",
-    "geom:latitude": 53.753529,
-    "geom:longitude": -0.268752,
+    "geom:bbox": "-0.268560,53.754155,-0.268560,53.754155",
+    "geom:latitude": 53.754155,
+    "geom:longitude": -0.26856,
     "gp:parent_id": "25211",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698547, 
+      85633159, 
       1360698951, 
       101750561, 
-      404227469, 
-      1360698547, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701729,
-    "wof:geomhash": "4d8d79ff19a3cb48fa3a255b601c7891",
+    "wof:geomhash": "bfd959822ee98b02c297ac9f2fe28b8e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454831135,
-    "wof:lastmodified": 1583786863,
+    "wof:lastmodified": 1609903104,
     "wof:name": "HU9 5DF",
     "wof:parent_id": 404435143,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.268752, 
-    53.753529, 
-    -0.268752, 
-    53.753529
+    -0.26856, 
+    53.754155, 
+    -0.26856, 
+    53.754155
   ],
-  "geometry": {"coordinates":[-0.268752,53.753529],"type":"Point"}
+  "geometry": {"coordinates":[-0.26856,53.754155],"type":"Point"}
 }

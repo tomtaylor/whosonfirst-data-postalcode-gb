@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.460324,53.419096,-2.460324,53.419096",
-    "geom:latitude": 53.419096,
-    "geom:longitude": -2.460324,
+    "geom:bbox": "-2.460611,53.419229,-2.460611,53.419229",
+    "geom:latitude": 53.419229,
+    "geom:longitude": -2.460611,
     "gp:parent_id": "33395",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
       1360698537, 
       85633159, 
       1360698965, 
       404439917, 
-      1360755797, 
-      404227469
+      1360755797
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701232,
-    "wof:geomhash": "c0201da1b99aa84af55d74399ceee5f4",
+    "wof:geomhash": "b75bda0f61222e97c71f305d471258fb",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488075635,
-    "wof:lastmodified": 1583786397,
+    "wof:lastmodified": 1609871374,
     "wof:name": "WA3 6LD",
     "wof:parent_id": 404439917,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.460324, 
-    53.419096, 
-    -2.460324, 
-    53.419096
+    -2.460611, 
+    53.419229, 
+    -2.460611, 
+    53.419229
   ],
-  "geometry": {"coordinates":[-2.460324,53.419096],"type":"Point"}
+  "geometry": {"coordinates":[-2.460611,53.419229],"type":"Point"}
 }

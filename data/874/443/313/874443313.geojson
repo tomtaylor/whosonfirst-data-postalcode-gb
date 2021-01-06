@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2015-07-01",
     "geom:area": 0,
-    "geom:bbox": "-5.120920,54.845435,-5.120920,54.845435",
-    "geom:latitude": 54.845435,
-    "geom:longitude": -5.12092,
+    "geom:bbox": "-5.120600,54.845483,-5.120600,54.845483",
+    "geom:latitude": 54.845483,
+    "geom:longitude": -5.1206,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227471, 
-      1360698649, 
       85633159, 
       1360699039, 
-      404444245
+      404444245, 
+      404227471, 
+      1360698649
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468877934,
-    "wof:geomhash": "646d8075b2c06e22ad20d800bff288f0",
+    "wof:geomhash": "32d87f07dba01f2ae6462cd3a4298e0c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 874443313,
-    "wof:lastmodified": 1583786224,
+    "wof:lastmodified": 1609869405,
     "wof:name": "DG9 8DN",
     "wof:parent_id": 404444245,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -5.12092, 
-    54.845435, 
-    -5.12092, 
-    54.845435
+    -5.1206, 
+    54.845483, 
+    -5.1206, 
+    54.845483
   ],
-  "geometry": {"coordinates":[-5.12092,54.845435],"type":"Point"}
+  "geometry": {"coordinates":[-5.1206,54.845483],"type":"Point"}
 }

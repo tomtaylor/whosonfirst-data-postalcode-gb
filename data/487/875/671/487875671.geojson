@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.449650,50.866910,0.449650,50.866910",
-    "geom:latitude": 50.86691,
-    "geom:longitude": 0.44965,
+    "geom:bbox": "0.449241,50.866951,0.449241,50.866951",
+    "geom:latitude": 50.866951,
+    "geom:longitude": 0.449241,
     "gp:parent_id": "12521",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698815, 
+      1360832461, 
       404227469, 
       1360698549, 
-      85633159, 
-      1360698815, 
-      1360832461
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701225,
-    "wof:geomhash": "b339a456e6e4ba7bcae46b237c81f4e3",
+    "wof:geomhash": "98baed06fd2113c80f48fa3518913f39",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 487875671,
-    "wof:lastmodified": 1583786313,
+    "wof:lastmodified": 1609884659,
     "wof:name": "TN39 5JG",
     "wof:parent_id": 404448809,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.44965, 
-    50.86691, 
-    0.44965, 
-    50.86691
+    0.449241, 
+    50.866951, 
+    0.449241, 
+    50.866951
   ],
-  "geometry": {"coordinates":[0.44965,50.86691],"type":"Point"}
+  "geometry": {"coordinates":[0.449241,50.866951],"type":"Point"}
 }

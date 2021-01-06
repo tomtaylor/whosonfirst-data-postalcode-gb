@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.639152,53.584901,-0.639152,53.584901",
-    "geom:latitude": 53.584901,
-    "geom:longitude": -0.639152,
+    "geom:bbox": "-0.638880,53.584898,-0.638880,53.584898",
+    "geom:latitude": 53.584898,
+    "geom:longitude": -0.63888,
     "gp:parent_id": "34260",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698901, 
       101750557, 
       404227469, 
-      1360698571
+      1360698571, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701555,
-    "wof:geomhash": "e25ccaec4727514c055ad83199fad967",
+    "wof:geomhash": "d8c9d6767b2b9ed8942189fe39547750",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454423279,
-    "wof:lastmodified": 1583786688,
+    "wof:lastmodified": 1609888967,
     "wof:name": "DN16 1TR",
     "wof:parent_id": 101750557,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.639152, 
-    53.584901, 
-    -0.639152, 
-    53.584901
+    -0.63888, 
+    53.584898, 
+    -0.63888, 
+    53.584898
   ],
-  "geometry": {"coordinates":[-0.639152,53.584901],"type":"Point"}
+  "geometry": {"coordinates":[-0.63888,53.584898],"type":"Point"}
 }

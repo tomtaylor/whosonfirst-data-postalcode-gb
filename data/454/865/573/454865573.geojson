@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.274454,52.220920,1.274454,52.220920",
-    "geom:latitude": 52.22092,
-    "geom:longitude": 1.274454,
+    "geom:bbox": "1.274264,52.221924,1.274264,52.221924",
+    "geom:latitude": 52.221924,
+    "geom:longitude": 1.274264,
     "gp:parent_id": "18840",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404435499, 
-      1125806767, 
       404227469, 
       1360698595, 
       85633159, 
-      1360699041
+      1360699041, 
+      404435499, 
+      1125806767
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701743,
-    "wof:geomhash": "7155cc650dab0fd0c06bf8a704c673ac",
+    "wof:geomhash": "be0ba8ad635a68c7ed8dec1da8b5ed5e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454865573,
-    "wof:lastmodified": 1583786872,
+    "wof:lastmodified": 1609903696,
     "wof:name": "IP13 7SD",
     "wof:parent_id": 404435499,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.274454, 
-    52.22092, 
-    1.274454, 
-    52.22092
+    1.274264, 
+    52.221924, 
+    1.274264, 
+    52.221924
   ],
-  "geometry": {"coordinates":[1.274454,52.22092],"type":"Point"}
+  "geometry": {"coordinates":[1.274264,52.221924],"type":"Point"}
 }

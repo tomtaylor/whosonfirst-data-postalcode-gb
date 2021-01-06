@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1995-07-01",
     "geom:area": 0,
-    "geom:bbox": "-3.517763,54.610306,-3.517763,54.610306",
-    "geom:latitude": 54.610306,
-    "geom:longitude": -3.517763,
+    "geom:bbox": "-3.517611,54.610398,-3.517611,54.610398",
+    "geom:latitude": 54.610398,
+    "geom:longitude": -3.517611,
     "gp:parent_id": "28836271",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698721, 
-      85633159, 
       1360698877, 
       404436571, 
-      1360758719
+      1360758719, 
+      404227469, 
+      1360698721, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701106,
-    "wof:geomhash": "c594a29c9602fb8b3629cd0f6ea8f432",
+    "wof:geomhash": "101338b3d06b982e2c49a9cda514bb64",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454058225,
-    "wof:lastmodified": 1583786244,
+    "wof:lastmodified": 1609869132,
     "wof:name": "CA14 4JH",
     "wof:parent_id": 404436571,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.517763, 
-    54.610306, 
-    -3.517763, 
-    54.610306
+    -3.517611, 
+    54.610398, 
+    -3.517611, 
+    54.610398
   ],
-  "geometry": {"coordinates":[-3.517763,54.610306],"type":"Point"}
+  "geometry": {"coordinates":[-3.517611,54.610398],"type":"Point"}
 }

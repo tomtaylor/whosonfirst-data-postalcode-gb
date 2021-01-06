@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1999-06-01",
     "geom:area": 0,
-    "geom:bbox": "-3.112300,53.319624,-3.112300,53.319624",
-    "geom:latitude": 53.319624,
-    "geom:longitude": -3.1123,
+    "geom:bbox": "-3.112101,53.319491,-3.112101,53.319491",
+    "geom:latitude": 53.319491,
+    "geom:longitude": -3.112101,
     "gp:parent_id": "12695853",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      101750549, 
       404227469, 
       1360698573, 
       85633159, 
-      1360699049, 
-      101750549
+      1360699049
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701258,
-    "wof:geomhash": "89549b466d1c390f9350769f19bc8ebc",
+    "wof:geomhash": "24e630b8976f7d21f498136a0fac6e9a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454120195,
-    "wof:lastmodified": 1595711980,
+    "wof:lastmodified": 1609871978,
     "wof:name": "CH60 9JH",
     "wof:parent_id": 404452723,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.1123, 
-    53.319624, 
-    -3.1123, 
-    53.319624
+    -3.112101, 
+    53.319491, 
+    -3.112101, 
+    53.319491
   ],
-  "geometry": {"coordinates":[-3.1123,53.319624],"type":"Point"}
+  "geometry": {"coordinates":[-3.112101,53.319491],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.482758,51.994574,-1.482758,51.994574",
-    "geom:latitude": 51.994574,
-    "geom:longitude": -1.482758,
+    "geom:bbox": "-1.482802,51.994493,-1.482802,51.994493",
+    "geom:latitude": 51.994493,
+    "geom:longitude": -1.482802,
     "gp:parent_id": "23830",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698839, 
-      404438155, 
       1125945975, 
       404227469, 
       1360698585, 
-      85633159
+      85633159, 
+      1360698839, 
+      404438155
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701495,
-    "wof:geomhash": "017bb43cd23c8860ac2ea39806e8c330",
+    "wof:geomhash": "99b522ff1a8263ce77c6bf2035ca27bb",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471317431,
-    "wof:lastmodified": 1583786647,
+    "wof:lastmodified": 1609886197,
     "wof:name": "OX15 5PS",
     "wof:parent_id": 404438155,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.482758, 
-    51.994574, 
-    -1.482758, 
-    51.994574
+    -1.482802, 
+    51.994493, 
+    -1.482802, 
+    51.994493
   ],
-  "geometry": {"coordinates":[-1.482758,51.994574],"type":"Point"}
+  "geometry": {"coordinates":[-1.482802,51.994493],"type":"Point"}
 }

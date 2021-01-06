@@ -6,9 +6,9 @@
     "edtf:inception": "1993-08-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.346432,51.580593,-0.346432,51.580593",
-    "geom:latitude": 51.580593,
-    "geom:longitude": -0.346432,
+    "geom:bbox": "-0.345957,51.580577,-0.345957,51.580577",
+    "geom:latitude": 51.580577,
+    "geom:longitude": -0.345957,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      85787771, 
+      1360698645, 
       1158857263, 
       85633159, 
       101750367, 
-      404227469, 
-      85860251, 
-      1360698645
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,19 +32,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701703,
-    "wof:geomhash": "44976362ab8338d34fdfdf674b00b488",
+    "wof:geomhash": "13e6482298ca436a485c3cf229909314",
     "wof:hierarchy": [
       {
         "borough_id": 1158857263,
         "country_id": 85633159,
         "locality_id": 101750367,
         "macroregion_id": 404227469,
-        "neighbourhood_id": 85860251,
+        "neighbourhood_id": 85787771,
         "region_id": 1360698645
       }
     ],
     "wof:id": 454720457,
-    "wof:lastmodified": 1583786844,
+    "wof:lastmodified": 1609900342,
     "wof:name": "HA1 4HX",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.346432, 
-    51.580593, 
-    -0.346432, 
-    51.580593
+    -0.345957, 
+    51.580577, 
+    -0.345957, 
+    51.580577
   ],
-  "geometry": {"coordinates":[-0.346432,51.580593],"type":"Point"}
+  "geometry": {"coordinates":[-0.345957,51.580577],"type":"Point"}
 }

@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "uuuu",
-    "edtf:inception": "2018-12-01",
+    "edtf:inception": "2020-09-01",
     "geom:area": 0,
     "geom:bbox": "-0.121432,51.566183,-0.121432,51.566183",
     "geom:latitude": 51.566183,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      85791233, 
-      1360698645, 
       1158857275, 
       85633159, 
       101750367, 
-      404227469
+      404227469, 
+      85791233, 
+      1360698645
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712788629,
-    "wof:lastmodified": 1583803633,
+    "wof:lastmodified": 1609874472,
     "wof:name": "N19 9ES",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2001-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.320648,51.331964,-2.320648,51.331964",
-    "geom:latitude": 51.331964,
-    "geom:longitude": -2.320648,
+    "geom:bbox": "-2.318357,51.332852,-2.318357,51.332852",
+    "geom:latitude": 51.332852,
+    "geom:longitude": -2.318357,
     "gp:parent_id": "23544",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698775, 
       404440845, 
       1125775569, 
       404227469, 
       1360698589, 
-      85633159
+      85633159, 
+      1360698775
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701183,
-    "wof:geomhash": "59d32e7f996ca0071d315ba480ca6456",
+    "wof:geomhash": "a438054db355f3a2da975033f46b52b6",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438064189,
-    "wof:lastmodified": 1583786317,
+    "wof:lastmodified": 1609870638,
     "wof:name": "BA2 7TA",
     "wof:parent_id": 404440845,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.320648, 
-    51.331964, 
-    -2.320648, 
-    51.331964
+    -2.318357, 
+    51.332852, 
+    -2.318357, 
+    51.332852
   ],
-  "geometry": {"coordinates":[-2.320648,51.331964],"type":"Point"}
+  "geometry": {"coordinates":[-2.318357,51.332852],"type":"Point"}
 }

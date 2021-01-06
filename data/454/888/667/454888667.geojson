@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.764728,52.169435,0.764728,52.169435",
-    "geom:latitude": 52.169435,
-    "geom:longitude": 0.764728,
+    "geom:bbox": "0.764052,52.168444,0.764052,52.168444",
+    "geom:latitude": 52.168444,
+    "geom:longitude": 0.764052,
     "gp:parent_id": "16473",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698595, 
-      85633159, 
       1360699041, 
       404454923, 
       1125779075, 
-      404227469
+      404227469, 
+      1360698595, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701746,
-    "wof:geomhash": "78919ee11aa48d0cd866f7a1df7f1a44",
+    "wof:geomhash": "ba305fc3a992d0937db535df3cb33bbe",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454888667,
-    "wof:lastmodified": 1583786877,
+    "wof:lastmodified": 1609904384,
     "wof:name": "IP30 0LJ",
     "wof:parent_id": 404454923,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.764728, 
-    52.169435, 
-    0.764728, 
-    52.169435
+    0.764052, 
+    52.168444, 
+    0.764052, 
+    52.168444
   ],
-  "geometry": {"coordinates":[0.764728,52.169435],"type":"Point"}
+  "geometry": {"coordinates":[0.764052,52.168444],"type":"Point"}
 }

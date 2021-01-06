@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-02-01",
     "geom:area": 0,
-    "geom:bbox": "0.605705,51.371116,0.605705,51.371116",
-    "geom:latitude": 51.371116,
-    "geom:longitude": 0.605705,
+    "geom:bbox": "0.605470,51.371274,0.605470,51.371274",
+    "geom:latitude": 51.371274,
+    "geom:longitude": 0.60547,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699105, 
-      1360817083, 
       101750327, 
       404227469, 
-      1360698565
+      1360698565, 
+      85633159, 
+      1360699105, 
+      1360817083
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735772,
-    "wof:geomhash": "4f539550f10d610be4d66a71bcf9849e",
+    "wof:geomhash": "c77c955a9fcd27ac478f75587190fb9e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1713334043,
-    "wof:lastmodified": 1595753561,
+    "wof:lastmodified": 1609875724,
     "wof:name": "ME8 7GF",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.605705, 
-    51.371116, 
-    0.605705, 
-    51.371116
+    0.60547, 
+    51.371274, 
+    0.60547, 
+    51.371274
   ],
-  "geometry": {"coordinates":[0.605705,51.371116],"type":"Point"}
+  "geometry": {"coordinates":[0.60547,51.371274],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2008-04-01",
     "geom:area": 0,
-    "geom:bbox": "-0.076464,51.305337,-0.076464,51.305337",
-    "geom:latitude": 51.305337,
-    "geom:longitude": -0.076464,
+    "geom:bbox": "-0.076421,51.305346,-0.076421,51.305346",
+    "geom:latitude": 51.305346,
+    "geom:longitude": -0.076421,
     "gp:parent_id": "12696095",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698887, 
+      404444257, 
+      1125936563, 
       404227469, 
       85788507, 
       1360698599, 
-      85633159, 
-      1360698887, 
-      404444257, 
-      1125936563
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701296,
-    "wof:geomhash": "99d864cd7bb3fd04ffc8703efd05f053",
+    "wof:geomhash": "49aa5ae2c06dcaac3974c7e56084c4dc",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 488283199,
-    "wof:lastmodified": 1583786491,
+    "wof:lastmodified": 1609884382,
     "wof:name": "CR3 0AX",
     "wof:parent_id": 101914071,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.076464, 
-    51.305337, 
-    -0.076464, 
-    51.305337
+    -0.076421, 
+    51.305346, 
+    -0.076421, 
+    51.305346
   ],
-  "geometry": {"coordinates":[-0.076464,51.305337],"type":"Point"}
+  "geometry": {"coordinates":[-0.076421,51.305346],"type":"Point"}
 }

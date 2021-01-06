@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.354411,55.846107,-4.354411,55.846107",
-    "geom:latitude": 55.846107,
-    "geom:longitude": -4.354411,
+    "geom:bbox": "-4.353738,55.846075,-4.353738,55.846075",
+    "geom:latitude": 55.846075,
+    "geom:longitude": -4.353738,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698797, 
       404430153, 
       1175612707, 
       404227471, 
       85792479, 
-      1360698707
+      1360698707, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701491,
-    "wof:geomhash": "49fd467b47b5bf3c29d20acce62de8f1",
+    "wof:geomhash": "460db366596b46839cf34ce7d0634230",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 488479507,
-    "wof:lastmodified": 1583786697,
+    "wof:lastmodified": 1609893692,
     "wof:name": "G52 3SQ",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.354411, 
-    55.846107, 
-    -4.354411, 
-    55.846107
+    -4.353738, 
+    55.846075, 
+    -4.353738, 
+    55.846075
   ],
-  "geometry": {"coordinates":[-4.354411,55.846107],"type":"Point"}
+  "geometry": {"coordinates":[-4.353738,55.846075],"type":"Point"}
 }

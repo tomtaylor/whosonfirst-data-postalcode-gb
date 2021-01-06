@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.698369,51.742689,-0.698369,51.742689",
-    "geom:latitude": 51.742689,
-    "geom:longitude": -0.698369,
+    "geom:bbox": "-0.698209,51.742723,-0.698209,51.742723",
+    "geom:latitude": 51.742723,
+    "geom:longitude": -0.698209,
     "gp:parent_id": "37210",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698533, 
       85633159, 
       1360698997, 
       404452181, 
       1125985089, 
-      404227469, 
-      1360698533
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701712,
-    "wof:geomhash": "5bcca3320a87c1cd547d696c283a6290",
+    "wof:geomhash": "dd67b1f8de43cbc8d67b48db26289eb5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454774517,
-    "wof:lastmodified": 1595717125,
+    "wof:lastmodified": 1609901659,
     "wof:name": "HP16 9NT",
     "wof:parent_id": 404452181,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.698369, 
-    51.742689, 
-    -0.698369, 
-    51.742689
+    -0.698209, 
+    51.742723, 
+    -0.698209, 
+    51.742723
   ],
-  "geometry": {"coordinates":[-0.698369,51.742689],"type":"Point"}
+  "geometry": {"coordinates":[-0.698209,51.742723],"type":"Point"}
 }

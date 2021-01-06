@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.493903,51.816810,-2.493903,51.816810",
-    "geom:latitude": 51.81681,
-    "geom:longitude": -2.493903,
+    "geom:bbox": "-2.493564,51.816397,-2.493564,51.816397",
+    "geom:latitude": 51.816397,
+    "geom:longitude": -2.493564,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698927, 
       404438819, 
       1276363635, 
       404227469, 
-      1360698553
+      1360698553, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701669,
-    "wof:geomhash": "07fd1dccfde7f23b908d7836d601128a",
+    "wof:geomhash": "339a7b57688d1243522ce685cd776fe5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454632079,
-    "wof:lastmodified": 1583786805,
+    "wof:lastmodified": 1609897468,
     "wof:name": "GL14 3BW",
     "wof:parent_id": 101852875,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.493903, 
-    51.81681, 
-    -2.493903, 
-    51.81681
+    -2.493564, 
+    51.816397, 
+    -2.493564, 
+    51.816397
   ],
-  "geometry": {"coordinates":[-2.493903,51.81681],"type":"Point"}
+  "geometry": {"coordinates":[-2.493564,51.816397],"type":"Point"}
 }

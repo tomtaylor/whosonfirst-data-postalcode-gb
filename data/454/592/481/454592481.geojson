@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.125309,51.209507,-4.125309,51.209507",
-    "geom:latitude": 51.209507,
-    "geom:longitude": -4.125309,
+    "geom:bbox": "-4.125247,51.209517,-4.125247,51.209517",
+    "geom:latitude": 51.209517,
+    "geom:longitude": -4.125247,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      101852599, 
-      404227469, 
-      1360698541, 
       85633159, 
       1360699081, 
-      404445709
+      404445709, 
+      101852599, 
+      404227469, 
+      1360698541
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701656,
-    "wof:geomhash": "9012ce5521357aab91fc0f9e82b7aa01",
+    "wof:geomhash": "96cc05e5f9c0995d97d7a2dd18e68aea",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454592481,
-    "wof:lastmodified": 1583786786,
+    "wof:lastmodified": 1609895995,
     "wof:name": "EX34 8AH",
     "wof:parent_id": 101852599,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.125309, 
-    51.209507, 
-    -4.125309, 
-    51.209507
+    -4.125247, 
+    51.209517, 
+    -4.125247, 
+    51.209517
   ],
-  "geometry": {"coordinates":[-4.125309,51.209507],"type":"Point"}
+  "geometry": {"coordinates":[-4.125247,51.209517],"type":"Point"}
 }

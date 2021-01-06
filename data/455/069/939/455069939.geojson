@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1993-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.544335,53.792933,-1.544335,53.792933",
-    "geom:latitude": 53.792933,
-    "geom:longitude": -1.544335,
+    "geom:bbox": "-1.544324,53.792948,-1.544324,53.792948",
+    "geom:latitude": 53.792948,
+    "geom:longitude": -1.544324,
     "gp:parent_id": "26042",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      85788247, 
-      1360698609, 
-      85633159, 
       1360698749, 
       101750579, 
-      404227469
+      404227469, 
+      85788247, 
+      1360698609, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701184,
-    "wof:geomhash": "7536e0a318a7ac1abdff051f42b0de51",
+    "wof:geomhash": "917e15352abbcae8530c4fc1b44010e9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 455069939,
-    "wof:lastmodified": 1583786311,
+    "wof:lastmodified": 1609870990,
     "wof:name": "LS1 4BA",
     "wof:parent_id": 101750579,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.544335, 
-    53.792933, 
-    -1.544335, 
-    53.792933
+    -1.544324, 
+    53.792948, 
+    -1.544324, 
+    53.792948
   ],
-  "geometry": {"coordinates":[-1.544335,53.792933],"type":"Point"}
+  "geometry": {"coordinates":[-1.544324,53.792948],"type":"Point"}
 }

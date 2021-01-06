@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.356131,53.721782,-1.356131,53.721782",
-    "geom:latitude": 53.721782,
-    "geom:longitude": -1.356131,
+    "geom:bbox": "-1.356070,53.721791,-1.356070,53.721791",
+    "geom:latitude": 53.721791,
+    "geom:longitude": -1.35607,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360698945, 
       1360817483, 
       101872187, 
       404227469, 
-      1360698609, 
-      85633159
+      1360698609
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701256,
-    "wof:geomhash": "e83db9290a857b65c6556db97d842024",
+    "wof:geomhash": "059b3910cc685cbe7f42cac037859e28",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 488120965,
-    "wof:lastmodified": 1595729182,
+    "wof:lastmodified": 1609874521,
     "wof:name": "WF10 5BX",
     "wof:parent_id": 101872187,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.356131, 
-    53.721782, 
-    -1.356131, 
-    53.721782
+    -1.35607, 
+    53.721791, 
+    -1.35607, 
+    53.721791
   ],
-  "geometry": {"coordinates":[-1.356131,53.721782],"type":"Point"}
+  "geometry": {"coordinates":[-1.35607,53.721791],"type":"Point"}
 }

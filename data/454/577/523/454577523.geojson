@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.950011,50.905480,-3.950011,50.905480",
-    "geom:latitude": 50.90548,
-    "geom:longitude": -3.950011,
+    "geom:bbox": "-3.948904,50.904869,-3.948904,50.904869",
+    "geom:latitude": 50.904869,
+    "geom:longitude": -3.948904,
     "gp:parent_id": "11206",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698541, 
       85633159, 
       1360699081, 
       404430109, 
-      1125908367
+      1125908367, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701647,
-    "wof:geomhash": "744a16710fc65e3c1ba277669dc23b35",
+    "wof:geomhash": "67309315ea5b0deb8d66b52c9f74b193",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454577523,
-    "wof:lastmodified": 1583786779,
+    "wof:lastmodified": 1609895288,
     "wof:name": "EX18 7LS",
     "wof:parent_id": 404430109,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.950011, 
-    50.90548, 
-    -3.950011, 
-    50.90548
+    -3.948904, 
+    50.904869, 
+    -3.948904, 
+    50.904869
   ],
-  "geometry": {"coordinates":[-3.950011,50.90548],"type":"Point"}
+  "geometry": {"coordinates":[-3.948904,50.904869],"type":"Point"}
 }

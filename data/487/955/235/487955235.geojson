@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.216198,54.673369,-1.216198,54.673369",
-    "geom:latitude": 54.673369,
-    "geom:longitude": -1.216198,
+    "geom:bbox": "-1.216322,54.673352,-1.216322,54.673352",
+    "geom:latitude": 54.673352,
+    "geom:longitude": -1.216322,
     "gp:parent_id": "22551",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698981, 
       101750609, 
       404227469, 
-      1360698621, 
-      85633159, 
-      1360698981
+      1360698621
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701285,
-    "wof:geomhash": "540398cb0911080cdd2a221db9fdc303",
+    "wof:geomhash": "a67236c1d5f979a727ddefec1d2a3a98",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 487955235,
-    "wof:lastmodified": 1583786352,
+    "wof:lastmodified": 1609888447,
     "wof:name": "TS25 5AQ",
     "wof:parent_id": 101750609,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.216198, 
-    54.673369, 
-    -1.216198, 
-    54.673369
+    -1.216322, 
+    54.673352, 
+    -1.216322, 
+    54.673352
   ],
-  "geometry": {"coordinates":[-1.216198,54.673369],"type":"Point"}
+  "geometry": {"coordinates":[-1.216322,54.673352],"type":"Point"}
 }

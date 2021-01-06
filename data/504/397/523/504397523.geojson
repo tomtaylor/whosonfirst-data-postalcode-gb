@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.183980,55.842710,-4.183980,55.842710",
-    "geom:latitude": 55.84271,
-    "geom:longitude": -4.18398,
+    "geom:bbox": "-4.184499,55.842853,-4.184499,55.842853",
+    "geom:latitude": 55.842853,
+    "geom:longitude": -4.184499,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698707, 
       85633159, 
       1360698797, 
       404430153, 
       1175612707, 
       404227471, 
-      85792593, 
-      1360698707
+      85792593
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701144,
-    "wof:geomhash": "88b05fc36014b8e53ba92f2230682630",
+    "wof:geomhash": "9a4b4ebf83fb0987d5a0e6fa367ef1e1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 504397523,
-    "wof:lastmodified": 1595727552,
+    "wof:lastmodified": 1609869440,
     "wof:name": "G32 8SB",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.18398, 
-    55.84271, 
-    -4.18398, 
-    55.84271
+    -4.184499, 
+    55.842853, 
+    -4.184499, 
+    55.842853
   ],
-  "geometry": {"coordinates":[-4.18398,55.84271],"type":"Point"}
+  "geometry": {"coordinates":[-4.184499,55.842853],"type":"Point"}
 }

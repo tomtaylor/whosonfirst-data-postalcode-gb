@@ -2,16 +2,16 @@
   "id": 438055133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2014-11-01",
-    "edtf:inception": "2003-11-01",
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-10-01",
     "geom:area": 0,
-    "geom:bbox": "-2.205990,51.270282,-2.205990,51.270282",
-    "geom:latitude": 51.270282,
-    "geom:longitude": -2.20599,
+    "geom:bbox": "-2.176620,51.267790,-2.176620,51.267790",
+    "geom:latitude": 51.26779,
+    "geom:longitude": -2.17662,
     "gp:parent_id": "39871",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000054",
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701162,
-    "wof:geomhash": "bd85362923fd5fde549735df2e2de605",
+    "wof:geomhash": "e59d2ee7a05d229fc4d01e37abb9bc44",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438055133,
-    "wof:lastmodified": 1583786293,
+    "wof:lastmodified": 1609870214,
     "wof:name": "BA13 3ZL",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.20599, 
-    51.270282, 
-    -2.20599, 
-    51.270282
+    -2.17662, 
+    51.26779, 
+    -2.17662, 
+    51.26779
   ],
-  "geometry": {"coordinates":[-2.20599,51.270282],"type":"Point"}
+  "geometry": {"coordinates":[-2.17662,51.26779],"type":"Point"}
 }

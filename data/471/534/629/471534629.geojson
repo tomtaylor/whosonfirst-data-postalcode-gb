@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1995-07-01",
     "geom:area": 0,
-    "geom:bbox": "-1.415204,51.412971,-1.415204,51.412971",
-    "geom:latitude": 51.412971,
-    "geom:longitude": -1.415204,
+    "geom:bbox": "-1.414241,51.412975,-1.414241,51.412975",
+    "geom:latitude": 51.412975,
+    "geom:longitude": -1.414241,
     "gp:parent_id": "22173",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698529, 
-      85633159, 
       1360698857, 
       404438695, 
       1193045461, 
-      404227469
+      404227469, 
+      1360698529, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701661,
-    "wof:geomhash": "4dec972d3ab6ffc917576df251e41b7e",
+    "wof:geomhash": "aced962d9d3e525f85abcf606b40b26f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471534629,
-    "wof:lastmodified": 1583786798,
+    "wof:lastmodified": 1609895853,
     "wof:name": "RG20 8NF",
     "wof:parent_id": 404438695,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.415204, 
-    51.412971, 
-    -1.415204, 
-    51.412971
+    -1.414241, 
+    51.412975, 
+    -1.414241, 
+    51.412975
   ],
-  "geometry": {"coordinates":[-1.415204,51.412971],"type":"Point"}
+  "geometry": {"coordinates":[-1.414241,51.412975],"type":"Point"}
 }

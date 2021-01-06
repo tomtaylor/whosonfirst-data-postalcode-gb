@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.998547,50.935272,-0.998547,50.935272",
-    "geom:latitude": 50.935272,
-    "geom:longitude": -0.998547,
+    "geom:bbox": "-0.998616,50.935256,-0.998616,50.935256",
+    "geom:latitude": 50.935256,
+    "geom:longitude": -0.998616,
     "gp:parent_id": "39301",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698557, 
       85633159, 
       1360698827, 
       404433223, 
-      1360753959, 
-      404227469, 
-      1360698557
+      1360753959
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701640,
-    "wof:geomhash": "9ec483fcf8aa23d53b1080815358f1e0",
+    "wof:geomhash": "21814f61a7954b6ef5ec54588f50a730",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471487085,
-    "wof:lastmodified": 1583786770,
+    "wof:lastmodified": 1609893776,
     "wof:name": "PO8 0JL",
     "wof:parent_id": 101913909,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.998547, 
-    50.935272, 
-    -0.998547, 
-    50.935272
+    -0.998616, 
+    50.935256, 
+    -0.998616, 
+    50.935256
   ],
-  "geometry": {"coordinates":[-0.998547,50.935272],"type":"Point"}
+  "geometry": {"coordinates":[-0.998616,50.935256],"type":"Point"}
 }

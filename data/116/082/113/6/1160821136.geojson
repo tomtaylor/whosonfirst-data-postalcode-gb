@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-03-01",
     "geom:area": 0,
-    "geom:bbox": "-1.347847,53.639989,-1.347847,53.639989",
-    "geom:latitude": 53.639989,
-    "geom:longitude": -1.347847,
+    "geom:bbox": "-1.347333,53.639959,-1.347333,53.639959",
+    "geom:latitude": 53.639959,
+    "geom:longitude": -1.347333,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404439627, 
-      1360755575, 
-      404227469, 
       1360698609, 
       85633159, 
-      1360698945
+      1360698945, 
+      404439627, 
+      1360755575, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583791480,
-    "wof:geomhash": "6434e701d1bec5a4bad6c7e29fc60fb5",
+    "wof:geomhash": "d04f566917ecb178f024a6f4f71f3b8d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160821136,
-    "wof:lastmodified": 1583791480,
+    "wof:lastmodified": 1609870210,
     "wof:name": "WF7 7GF",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.347847, 
-    53.639989, 
-    -1.347847, 
-    53.639989
+    -1.347333, 
+    53.639959, 
+    -1.347333, 
+    53.639959
   ],
-  "geometry": {"coordinates":[-1.347847,53.639989],"type":"Point"}
+  "geometry": {"coordinates":[-1.347333,53.639959],"type":"Point"}
 }

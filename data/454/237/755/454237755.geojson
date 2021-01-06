@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.981113,51.246827,0.981113,51.246827",
-    "geom:latitude": 51.246827,
-    "geom:longitude": 0.981113,
+    "geom:bbox": "0.983890,51.247224,0.983890,51.247224",
+    "geom:latitude": 51.247224,
+    "geom:longitude": 0.98389,
     "gp:parent_id": "15910",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698811, 
-      404449023, 
-      1126000661, 
       404227469, 
       1360698565, 
-      85633159
+      85633159, 
+      1360698811, 
+      404449023, 
+      1126000661
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701402,
-    "wof:geomhash": "e7b19605ac6eee86b9f6be5217bc038e",
+    "wof:geomhash": "657a4b11edd6af8e83eeca6fa7ccdba8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454237755,
-    "wof:lastmodified": 1583786532,
+    "wof:lastmodified": 1609879630,
     "wof:name": "CT4 8EA",
     "wof:parent_id": 404449023,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.981113, 
-    51.246827, 
-    0.981113, 
-    51.246827
+    0.98389, 
+    51.247224, 
+    0.98389, 
+    51.247224
   ],
-  "geometry": {"coordinates":[0.981113,51.246827],"type":"Point"}
+  "geometry": {"coordinates":[0.98389,51.247224],"type":"Point"}
 }

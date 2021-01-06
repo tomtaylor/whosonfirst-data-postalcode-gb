@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.169607,54.299483,-2.169607,54.299483",
-    "geom:latitude": 54.299483,
-    "geom:longitude": -2.169607,
+    "geom:bbox": "-2.169591,54.299456,-2.169591,54.299456",
+    "geom:latitude": 54.299456,
+    "geom:longitude": -2.169591,
     "gp:parent_id": "14665",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698619, 
-      85633159, 
       1360698753, 
       404449523, 
-      1126037595
+      1126037595, 
+      404227469, 
+      1360698619, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701549,
-    "wof:geomhash": "8d93ec89294a5301ac30e789118b52fc",
+    "wof:geomhash": "0955daa4413f1573d152c20a147f9e41",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454410049,
-    "wof:lastmodified": 1583786676,
+    "wof:lastmodified": 1609888376,
     "wof:name": "DL8 3PG",
     "wof:parent_id": 404449523,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.169607, 
-    54.299483, 
-    -2.169607, 
-    54.299483
+    -2.169591, 
+    54.299456, 
+    -2.169591, 
+    54.299456
   ],
-  "geometry": {"coordinates":[-2.169607,54.299483],"type":"Point"}
+  "geometry": {"coordinates":[-2.169591,54.299456],"type":"Point"}
 }

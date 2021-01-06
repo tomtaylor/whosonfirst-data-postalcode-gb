@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1994-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.377535,50.896514,-1.377535,50.896514",
-    "geom:latitude": 50.896514,
-    "geom:longitude": -1.377535,
+    "geom:bbox": "-1.377492,50.896585,-1.377492,50.896585",
+    "geom:latitude": 50.896585,
+    "geom:longitude": -1.377492,
     "gp:parent_id": "35356",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698907, 
       101750311, 
       404227469, 
       1360698557, 
-      85633159
+      85633159, 
+      1360698907
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701082,
-    "wof:geomhash": "9325342b246cfa392ebf8f65216bcbcd",
+    "wof:geomhash": "cb4c16bd5069d39892175418bcaa52ec",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 487603891,
-    "wof:lastmodified": 1583786179,
+    "wof:lastmodified": 1609868945,
     "wof:name": "SO19 9AY",
     "wof:parent_id": 101750311,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.377535, 
-    50.896514, 
-    -1.377535, 
-    50.896514
+    -1.377492, 
+    50.896585, 
+    -1.377492, 
+    50.896585
   ],
-  "geometry": {"coordinates":[-1.377535,50.896514],"type":"Point"}
+  "geometry": {"coordinates":[-1.377492,50.896585],"type":"Point"}
 }

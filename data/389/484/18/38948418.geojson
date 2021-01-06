@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.280152,50.693859,-1.280152,50.693859",
-    "geom:latitude": 50.693859,
-    "geom:longitude": -1.280152,
+    "geom:bbox": "-1.280008,50.694020,-1.280008,50.694020",
+    "geom:latitude": 50.69402,
+    "geom:longitude": -1.280008,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      101852311, 
       404227469, 
       1360698563, 
       85633159, 
       1360699089, 
-      404429947
+      404429947, 
+      101852311
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583796064,
-    "wof:geomhash": "cf7b3846a22bedcc66a351ad67fdf8d5",
+    "wof:geomhash": "43efb54d1672e412fe4f30e795220431",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 38948418,
-    "wof:lastmodified": 1583796064,
+    "wof:lastmodified": 1609868496,
     "wof:name": "PO30 2HF",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.280152, 
-    50.693859, 
-    -1.280152, 
-    50.693859
+    -1.280008, 
+    50.69402, 
+    -1.280008, 
+    50.69402
   ],
-  "geometry": {"coordinates":[-1.280152,50.693859],"type":"Point"}
+  "geometry": {"coordinates":[-1.280008,50.69402],"type":"Point"}
 }

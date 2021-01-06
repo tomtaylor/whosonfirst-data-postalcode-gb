@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.467282,51.562021,0.467282,51.562021",
-    "geom:latitude": 51.562021,
-    "geom:longitude": 0.467282,
+    "geom:bbox": "0.466841,51.561844,0.466841,51.561844",
+    "geom:latitude": 51.561844,
+    "geom:longitude": 0.466841,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698551, 
       85633159, 
       1360698979, 
       1360817079, 
       101750407, 
-      404227469
+      404227469, 
+      1360698551
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701115,
-    "wof:geomhash": "8b748b9af2542068ef12854ea49ed901",
+    "wof:geomhash": "49bcf69d5c948b0f67b2792459a4678c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 487672545,
-    "wof:lastmodified": 1583786210,
+    "wof:lastmodified": 1609871949,
     "wof:name": "SS16 5JE",
     "wof:parent_id": 101750407,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.467282, 
-    51.562021, 
-    0.467282, 
-    51.562021
+    0.466841, 
+    51.561844, 
+    0.466841, 
+    51.561844
   ],
-  "geometry": {"coordinates":[0.467282,51.562021],"type":"Point"}
+  "geometry": {"coordinates":[0.466841,51.561844],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2008-08-01",
     "geom:area": 0,
-    "geom:bbox": "-0.536730,53.711632,-0.536730,53.711632",
-    "geom:latitude": 53.711632,
-    "geom:longitude": -0.53673,
+    "geom:bbox": "-0.529279,53.716718,-0.529279,53.716718",
+    "geom:latitude": 53.716718,
+    "geom:longitude": -0.529279,
     "gp:parent_id": "12696138",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699001, 
       404433005, 
       1125870455, 
       404227469, 
-      1360698547
+      1360698547, 
+      85633159, 
+      1360699001
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701326,
-    "wof:geomhash": "042892a451d886fd34081f6ebcfc3dde",
+    "wof:geomhash": "7bb6789ebfc9ee0cc924c6af95ea0fd3",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488306751,
-    "wof:lastmodified": 1583786511,
+    "wof:lastmodified": 1609885502,
     "wof:name": "HU14 3LH",
     "wof:parent_id": 404433005,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.53673, 
-    53.711632, 
-    -0.53673, 
-    53.711632
+    -0.529279, 
+    53.716718, 
+    -0.529279, 
+    53.716718
   ],
-  "geometry": {"coordinates":[-0.53673,53.711632],"type":"Point"}
+  "geometry": {"coordinates":[-0.529279,53.716718],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-02-01",
     "geom:area": 0,
-    "geom:bbox": "1.053174,51.178930,1.053174,51.178930",
-    "geom:latitude": 51.17893,
-    "geom:longitude": 1.053174,
+    "geom:bbox": "1.052657,51.178907,1.052657,51.178907",
+    "geom:latitude": 51.178907,
+    "geom:longitude": 1.052657,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698811, 
       404433565, 
       1125935653, 
       404227469, 
-      1360698565
+      1360698565, 
+      85633159, 
+      1360698811
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735655,
-    "wof:geomhash": "932b5767d798796021547740c93ea2ca",
+    "wof:geomhash": "f7b24adf810b4428918f9504338af909",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1713331347,
-    "wof:lastmodified": 1595753547,
+    "wof:lastmodified": 1609875479,
     "wof:name": "CT4 6EZ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.053174, 
-    51.17893, 
-    1.053174, 
-    51.17893
+    1.052657, 
+    51.178907, 
+    1.052657, 
+    51.178907
   ],
-  "geometry": {"coordinates":[1.053174,51.17893],"type":"Point"}
+  "geometry": {"coordinates":[1.052657,51.178907],"type":"Point"}
 }

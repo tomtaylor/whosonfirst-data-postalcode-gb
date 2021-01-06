@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "uuuu",
-    "edtf:inception": "2017-07-01",
+    "edtf:inception": "2020-09-01",
     "geom:area": 0,
     "geom:bbox": "-1.863614,50.727898,-1.863614,50.727898",
     "geom:latitude": 50.727898,
@@ -18,11 +18,11 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698545, 
       85633159, 
       1360698873, 
       101750305, 
-      404227469
+      404227469, 
+      1360698545
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 874420723,
-    "wof:lastmodified": 1583786384,
+    "wof:lastmodified": 1609868799,
     "wof:name": "BH1 9WZ",
     "wof:parent_id": 101750305,
     "wof:placetype": "postalcode",

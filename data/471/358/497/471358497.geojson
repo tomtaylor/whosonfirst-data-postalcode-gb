@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.228176,52.728942,0.228176,52.728942",
-    "geom:latitude": 52.728942,
-    "geom:longitude": 0.228176,
+    "geom:bbox": "0.228470,52.728930,0.228470,52.728930",
+    "geom:latitude": 52.72893,
+    "geom:longitude": 0.22847,
     "gp:parent_id": "39050",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1310134597, 
-      404227469, 
       1360698575, 
       85633159, 
       1360698955, 
-      404447917
+      404447917, 
+      1310134597, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701532,
-    "wof:geomhash": "c7f67590ae40900a92eaac8afc8ca4d2",
+    "wof:geomhash": "9f14bf580aecbd4c9971f4e4f6f13920",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471358497,
-    "wof:lastmodified": 1583786677,
+    "wof:lastmodified": 1609888154,
     "wof:name": "PE14 7NU",
     "wof:parent_id": 404447917,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.228176, 
-    52.728942, 
-    0.228176, 
-    52.728942
+    0.22847, 
+    52.72893, 
+    0.22847, 
+    52.72893
   ],
-  "geometry": {"coordinates":[0.228176,52.728942],"type":"Point"}
+  "geometry": {"coordinates":[0.22847,52.72893],"type":"Point"}
 }

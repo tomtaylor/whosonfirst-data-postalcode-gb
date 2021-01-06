@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.223765,50.908021,0.223765,50.908021",
-    "geom:latitude": 50.908021,
-    "geom:longitude": 0.223765,
+    "geom:bbox": "0.223792,50.907980,0.223792,50.907980",
+    "geom:latitude": 50.90798,
+    "geom:longitude": 0.223792,
     "gp:parent_id": "22008",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698549, 
-      85633159, 
-      1360698815, 
       404455219, 
       1125789207, 
-      404227469
+      404227469, 
+      1360698549, 
+      85633159, 
+      1360698815
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701210,
-    "wof:geomhash": "6a4e1dcf52ed3b947cc8468ff5f78c24",
+    "wof:geomhash": "c1220d20851e35d58199a5365d0f7cfd",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487851677,
-    "wof:lastmodified": 1583786305,
+    "wof:lastmodified": 1609883460,
     "wof:name": "TN21 0JU",
     "wof:parent_id": 404455219,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.223765, 
-    50.908021, 
-    0.223765, 
-    50.908021
+    0.223792, 
+    50.90798, 
+    0.223792, 
+    50.90798
   ],
-  "geometry": {"coordinates":[0.223765,50.908021],"type":"Point"}
+  "geometry": {"coordinates":[0.223792,50.90798],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.094577,55.874874,-2.094577,55.874874",
-    "geom:latitude": 55.874874,
-    "geom:longitude": -2.094577,
+    "geom:bbox": "-2.094609,55.874730,-2.094609,55.874730",
+    "geom:latitude": 55.87473,
+    "geom:longitude": -2.094609,
     "gp:parent_id": "12696186",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      404442083, 
+      404227471, 
       1360698729, 
       85633159, 
-      1360699015, 
-      404442083, 
-      404227471
+      1360699015
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701493,
-    "wof:geomhash": "8cb9765082a1e7cf6c5770736af10c59",
+    "wof:geomhash": "0c71ab18d22c7152c4d638496740f41a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504624559,
-    "wof:lastmodified": 1583786647,
+    "wof:lastmodified": 1609882919,
     "wof:name": "TD14 5BD",
     "wof:parent_id": 101872405,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.094577, 
-    55.874874, 
-    -2.094577, 
-    55.874874
+    -2.094609, 
+    55.87473, 
+    -2.094609, 
+    55.87473
   ],
-  "geometry": {"coordinates":[-2.094577,55.874874],"type":"Point"}
+  "geometry": {"coordinates":[-2.094609,55.87473],"type":"Point"}
 }

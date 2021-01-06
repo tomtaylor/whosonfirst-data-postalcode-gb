@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1998-06-01",
     "geom:area": 0,
-    "geom:bbox": "-0.910856,54.115252,-0.910856,54.115252",
-    "geom:latitude": 54.115252,
-    "geom:longitude": -0.910856,
+    "geom:bbox": "-0.910974,54.115278,-0.910974,54.115278",
+    "geom:latitude": 54.115278,
+    "geom:longitude": -0.910974,
     "gp:parent_id": "15355",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698619, 
-      85633159, 
       1360698753, 
       404453427, 
-      1360759171
+      1360759171, 
+      404227469, 
+      1360698619, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701230,
-    "wof:geomhash": "b5cd0ec9a5b82f4605e40355c3383d1b",
+    "wof:geomhash": "e7e6ccea305efda4310219b532b1b096",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488255163,
-    "wof:lastmodified": 1583786455,
+    "wof:lastmodified": 1609882638,
     "wof:name": "YO60 7BU",
     "wof:parent_id": 404453427,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.910856, 
-    54.115252, 
-    -0.910856, 
-    54.115252
+    -0.910974, 
+    54.115278, 
+    -0.910974, 
+    54.115278
   ],
-  "geometry": {"coordinates":[-0.910856,54.115252],"type":"Point"}
+  "geometry": {"coordinates":[-0.910974,54.115278],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.002593,55.802229,-4.002593,55.802229",
-    "geom:latitude": 55.802229,
-    "geom:longitude": -4.002593,
+    "geom:bbox": "-4.002850,55.802558,-4.002850,55.802558",
+    "geom:latitude": 55.802558,
+    "geom:longitude": -4.00285,
     "gp:parent_id": "12696204",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698949, 
       404435713, 
       404227471, 
-      1360698703, 
-      85633159, 
-      1360698949
+      1360698703
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701398,
-    "wof:geomhash": "ecce05b590c0fcdc5a0f80fe647e03cb",
+    "wof:geomhash": "edc5e40ffb2b9919e940f366389e9b01",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504518149,
-    "wof:lastmodified": 1583786523,
+    "wof:lastmodified": 1609877222,
     "wof:name": "ML1 3TZ",
     "wof:parent_id": 404435713,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.002593, 
-    55.802229, 
-    -4.002593, 
-    55.802229
+    -4.00285, 
+    55.802558, 
+    -4.00285, 
+    55.802558
   ],
-  "geometry": {"coordinates":[-4.002593,55.802229],"type":"Point"}
+  "geometry": {"coordinates":[-4.00285,55.802558],"type":"Point"}
 }

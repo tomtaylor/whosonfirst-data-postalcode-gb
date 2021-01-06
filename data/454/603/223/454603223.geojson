@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.421197,50.827808,-3.421197,50.827808",
-    "geom:latitude": 50.827808,
-    "geom:longitude": -3.421197,
+    "geom:bbox": "-3.421254,50.827816,-3.421254,50.827816",
+    "geom:latitude": 50.827816,
+    "geom:longitude": -3.421254,
     "gp:parent_id": "13565",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698541, 
       85633159, 
       1360699081, 
       404433111, 
-      1126008911
+      1126008911, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701659,
-    "wof:geomhash": "f47bcf63244a573506bf406e59137d92",
+    "wof:geomhash": "49b5c88a9160e85c63cd7ebf69cc778c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454603223,
-    "wof:lastmodified": 1583786788,
+    "wof:lastmodified": 1609896327,
     "wof:name": "EX5 4NS",
     "wof:parent_id": 404433111,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.421197, 
-    50.827808, 
-    -3.421197, 
-    50.827808
+    -3.421254, 
+    50.827816, 
+    -3.421254, 
+    50.827816
   ],
-  "geometry": {"coordinates":[-3.421197,50.827808],"type":"Point"}
+  "geometry": {"coordinates":[-3.421254,50.827816],"type":"Point"}
 }

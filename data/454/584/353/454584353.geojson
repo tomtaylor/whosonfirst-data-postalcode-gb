@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.479709,50.766692,-4.479709,50.766692",
-    "geom:latitude": 50.766692,
-    "geom:longitude": -4.479709,
+    "geom:bbox": "-4.484352,50.764641,-4.484352,50.764641",
+    "geom:latitude": 50.764641,
+    "geom:longitude": -4.484352,
     "gp:parent_id": "40336",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698623, 
       85633159, 
       1360699085, 
-      404453273, 
-      1125979567
+      404440759, 
+      1125871113, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,19 +32,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701652,
-    "wof:geomhash": "137584f8492e2c2a5e526b3570addfe7",
+    "wof:geomhash": "671f0ad6491ca6c132b0807f4a2a2e2f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360699085,
-        "localadmin_id": 404453273,
-        "locality_id": 1125979567,
+        "localadmin_id": 404440759,
+        "locality_id": 1125871113,
         "macroregion_id": 404227469,
         "region_id": 1360698623
       }
     ],
     "wof:id": 454584353,
-    "wof:lastmodified": 1583786783,
+    "wof:lastmodified": 1609895480,
     "wof:name": "EX22 6TW",
     "wof:parent_id": 404453273,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.479709, 
-    50.766692, 
-    -4.479709, 
-    50.766692
+    -4.484352, 
+    50.764641, 
+    -4.484352, 
+    50.764641
   ],
-  "geometry": {"coordinates":[-4.479709,50.766692],"type":"Point"}
+  "geometry": {"coordinates":[-4.484352,50.764641],"type":"Point"}
 }

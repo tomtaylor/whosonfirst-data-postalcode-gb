@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.470312,51.989564,-3.470312,51.989564",
-    "geom:latitude": 51.989564,
-    "geom:longitude": -3.470312,
+    "geom:bbox": "-3.460555,51.981548,-3.460555,51.981548",
+    "geom:latitude": 51.981548,
+    "geom:longitude": -3.460555,
     "gp:parent_id": "12696134",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698625, 
+      85633159, 
       1360698985, 
       404453531, 
       1360711741, 
-      404227475, 
-      1360698625, 
-      85633159
+      404227475
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701366,
-    "wof:geomhash": "d0358472aa04dbc2ae6ab1fb2d186cb9",
+    "wof:geomhash": "a20f7603ef2f20426528a392dc88d498",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504482459,
-    "wof:lastmodified": 1595729065,
+    "wof:lastmodified": 1609874344,
     "wof:name": "LD3 9NE",
     "wof:parent_id": 404453531,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.470312, 
-    51.989564, 
-    -3.470312, 
-    51.989564
+    -3.460555, 
+    51.981548, 
+    -3.460555, 
+    51.981548
   ],
-  "geometry": {"coordinates":[-3.470312,51.989564],"type":"Point"}
+  "geometry": {"coordinates":[-3.460555,51.981548],"type":"Point"}
 }

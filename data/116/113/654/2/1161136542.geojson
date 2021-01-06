@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.834164,52.118777,-0.834164,52.118777",
-    "geom:latitude": 52.118777,
-    "geom:longitude": -0.834164,
+    "geom:bbox": "-0.834520,52.118591,-0.834520,52.118591",
+    "geom:latitude": 52.118591,
+    "geom:longitude": -0.83452,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698533, 
       85633159, 
       1360698913, 
       404441565, 
       1125843379, 
-      404227469, 
-      1360698533
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583805586,
-    "wof:geomhash": "4fe2b437fab480daa3f222aa64929c2b",
+    "wof:geomhash": "97bbc24c25aa508f1557d3e61734e19c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1161136542,
-    "wof:lastmodified": 1595712975,
+    "wof:lastmodified": 1609876557,
     "wof:name": "MK19 7FS",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.834164, 
-    52.118777, 
-    -0.834164, 
-    52.118777
+    -0.83452, 
+    52.118591, 
+    -0.83452, 
+    52.118591
   ],
-  "geometry": {"coordinates":[-0.834164,52.118777],"type":"Point"}
+  "geometry": {"coordinates":[-0.83452,52.118591],"type":"Point"}
 }

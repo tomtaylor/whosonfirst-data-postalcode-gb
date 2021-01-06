@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2017-04-01",
     "geom:area": 0,
-    "geom:bbox": "-2.854217,53.424279,-2.854217,53.424279",
-    "geom:latitude": 53.424279,
-    "geom:longitude": -2.854217,
+    "geom:bbox": "-2.854917,53.424670,-2.854917,53.424670",
+    "geom:latitude": 53.42467,
+    "geom:longitude": -2.854917,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       85792103, 
       1360698573, 
       85633159, 
       1360698941, 
-      1360832423
+      1360832423, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583793951,
-    "wof:geomhash": "4602271db7901b80781adc9bcb4c2ebe",
+    "wof:geomhash": "d64ad5d27fb8187d750c7c7db3c3e813",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712570963,
-    "wof:lastmodified": 1595711098,
+    "wof:lastmodified": 1609870673,
     "wof:name": "L36 3AB",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.854217, 
-    53.424279, 
-    -2.854217, 
-    53.424279
+    -2.854917, 
+    53.42467, 
+    -2.854917, 
+    53.42467
   ],
-  "geometry": {"coordinates":[-2.854217,53.424279],"type":"Point"}
+  "geometry": {"coordinates":[-2.854917,53.42467],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.313761,51.898928,-0.313761,51.898928",
-    "geom:latitude": 51.898928,
-    "geom:longitude": -0.313761,
+    "geom:bbox": "-0.313595,51.897683,-0.313595,51.897683",
+    "geom:latitude": 51.897683,
+    "geom:longitude": -0.313595,
     "gp:parent_id": "25131",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404450353, 
-      1125887741, 
       404227469, 
       1360698559, 
       85633159, 
-      1360698763
+      1360698763, 
+      404450353, 
+      1125887741
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701729,
-    "wof:geomhash": "2f1c0cf7c28d0b0d39c928f753dd6321",
+    "wof:geomhash": "f2e16fee0590909b08be0a5a5429cb07",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471753739,
-    "wof:lastmodified": 1583786907,
+    "wof:lastmodified": 1609902217,
     "wof:name": "SG4 8JU",
     "wof:parent_id": 404450353,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.313761, 
-    51.898928, 
-    -0.313761, 
-    51.898928
+    -0.313595, 
+    51.897683, 
+    -0.313595, 
+    51.897683
   ],
-  "geometry": {"coordinates":[-0.313761,51.898928],"type":"Point"}
+  "geometry": {"coordinates":[-0.313595,51.897683],"type":"Point"}
 }

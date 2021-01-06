@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-07-01",
     "geom:area": 0,
-    "geom:bbox": "-0.766038,51.255778,-0.766038,51.255778",
-    "geom:latitude": 51.255778,
-    "geom:longitude": -0.766038,
+    "geom:bbox": "-0.766166,51.255834,-0.766166,51.255834",
+    "geom:latitude": 51.255834,
+    "geom:longitude": -0.766166,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698827, 
       101750357, 
       404227469, 
-      1360698557
+      1360698557, 
+      85633159, 
+      1360698827
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583804081,
-    "wof:geomhash": "4239940c2af9e9335131ce11603053dd",
+    "wof:geomhash": "228fe271bac208f78ce795bf24b7a08a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1161105018,
-    "wof:lastmodified": 1583804081,
+    "wof:lastmodified": 1609875905,
     "wof:name": "GU11 4BG",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.766038, 
-    51.255778, 
-    -0.766038, 
-    51.255778
+    -0.766166, 
+    51.255834, 
+    -0.766166, 
+    51.255834
   ],
-  "geometry": {"coordinates":[-0.766038,51.255778],"type":"Point"}
+  "geometry": {"coordinates":[-0.766166,51.255834],"type":"Point"}
 }

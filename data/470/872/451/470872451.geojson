@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85791723, 
-      1360698555, 
       85633159, 
-      1360698893, 
+      1360699005, 
       101750525, 
-      404227469
+      404227469, 
+      85791723, 
+      1360698555
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -35,7 +35,7 @@
     "wof:hierarchy": [
       {
         "country_id": 85633159,
-        "county_id": 1360698893,
+        "county_id": 1360699005,
         "locality_id": 101750525,
         "macroregion_id": 404227469,
         "neighbourhood_id": 85791723,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 470872451,
-    "wof:lastmodified": 1583786309,
+    "wof:lastmodified": 1609870660,
     "wof:name": "M20 2LR",
     "wof:parent_id": 101750525,
     "wof:placetype": "postalcode",

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1997-12-01",
     "geom:area": 0,
-    "geom:bbox": "-2.873438,53.496365,-2.873438,53.496365",
-    "geom:latitude": 53.496365,
-    "geom:longitude": -2.873438,
+    "geom:bbox": "-2.873348,53.496383,-2.873348,53.496383",
+    "geom:latitude": 53.496383,
+    "geom:longitude": -2.873348,
     "gp:parent_id": "26734",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698573, 
       85633159, 
       1360698941, 
-      101872163
+      101872163, 
+      404227469, 
+      1360698573
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701761,
-    "wof:geomhash": "15b3a9a4adbad8e4af027b697a3571ec",
+    "wof:geomhash": "fb6c5068c631fe73d7fa0a73ab68db85",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454959375,
-    "wof:lastmodified": 1583786898,
+    "wof:lastmodified": 1609905365,
     "wof:name": "L33 1SN",
     "wof:parent_id": 101872163,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.873438, 
-    53.496365, 
-    -2.873438, 
-    53.496365
+    -2.873348, 
+    53.496383, 
+    -2.873348, 
+    53.496383
   ],
-  "geometry": {"coordinates":[-2.873438,53.496365],"type":"Point"}
+  "geometry": {"coordinates":[-2.873348,53.496383],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.480894,53.702519,-2.480894,53.702519",
-    "geom:latitude": 53.702519,
-    "geom:longitude": -2.480894,
+    "geom:bbox": "-2.480800,53.702517,-2.480800,53.702517",
+    "geom:latitude": 53.702517,
+    "geom:longitude": -2.4808,
     "gp:parent_id": "17959",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698567, 
       85633159, 
       1360698999, 
       404444405, 
-      1126041117
+      1126041117, 
+      404227469, 
+      1360698567
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701252,
-    "wof:geomhash": "f3fec2a561d5e95b6573e8a5af238408",
+    "wof:geomhash": "d18dd2c0299d7ac2c4f67b6e387e30e3",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438091541,
-    "wof:lastmodified": 1583786395,
+    "wof:lastmodified": 1609872186,
     "wof:name": "BB3 1NU",
     "wof:parent_id": 101750575,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.480894, 
-    53.702519, 
-    -2.480894, 
-    53.702519
+    -2.4808, 
+    53.702517, 
+    -2.4808, 
+    53.702517
   ],
-  "geometry": {"coordinates":[-2.480894,53.702519],"type":"Point"}
+  "geometry": {"coordinates":[-2.4808,53.702517],"type":"Point"}
 }

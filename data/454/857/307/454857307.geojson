@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.142335,52.058426,1.142335,52.058426",
-    "geom:latitude": 52.058426,
-    "geom:longitude": 1.142335,
+    "geom:bbox": "1.142700,52.058207,1.142700,52.058207",
+    "geom:latitude": 52.058207,
+    "geom:longitude": 1.1427,
     "gp:parent_id": "24522",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698595, 
       85633159, 
       1360699041, 
       101750447, 
-      404227469, 
-      1360698595
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701733,
-    "wof:geomhash": "a4c07ac8cc178f83215e953d18fc5d60",
+    "wof:geomhash": "ad5bd45321c1564bf2c6631c92e73fe0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454857307,
-    "wof:lastmodified": 1583786862,
+    "wof:lastmodified": 1609903638,
     "wof:name": "IP1 2HS",
     "wof:parent_id": 101750447,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.142335, 
-    52.058426, 
-    1.142335, 
-    52.058426
+    1.1427, 
+    52.058207, 
+    1.1427, 
+    52.058207
   ],
-  "geometry": {"coordinates":[1.142335,52.058426],"type":"Point"}
+  "geometry": {"coordinates":[1.1427,52.058207],"type":"Point"}
 }

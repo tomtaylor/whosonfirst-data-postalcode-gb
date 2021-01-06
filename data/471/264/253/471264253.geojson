@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.236357,51.578120,-0.236357,51.578120",
-    "geom:latitude": 51.57812,
-    "geom:longitude": -0.236357,
+    "geom:bbox": "-0.236458,51.578121,-0.236458,51.578121",
+    "geom:latitude": 51.578121,
+    "geom:longitude": -0.236458,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      85788129, 
+      1360698645, 
       1158857285, 
       85633159, 
       101750367, 
-      404227469, 
-      85788129, 
-      1360698645
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701449,
-    "wof:geomhash": "8f248ddb1c052f88920e43e156689b44",
+    "wof:geomhash": "779fe6d7ee506a389a27bc1e9c8dd990",
     "wof:hierarchy": [
       {
         "borough_id": 1158857285,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471264253,
-    "wof:lastmodified": 1583786605,
+    "wof:lastmodified": 1609883293,
     "wof:name": "NW4 3PY",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.236357, 
-    51.57812, 
-    -0.236357, 
-    51.57812
+    -0.236458, 
+    51.578121, 
+    -0.236458, 
+    51.578121
   ],
-  "geometry": {"coordinates":[-0.236357,51.57812],"type":"Point"}
+  "geometry": {"coordinates":[-0.236458,51.578121],"type":"Point"}
 }

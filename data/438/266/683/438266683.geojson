@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.676098,51.488411,-2.676098,51.488411",
-    "geom:latitude": 51.488411,
-    "geom:longitude": -2.676098,
+    "geom:bbox": "-2.676155,51.488375,-2.676155,51.488375",
+    "geom:latitude": 51.488375,
+    "geom:longitude": -2.676155,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,13 +18,13 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      85790311, 
-      1360698531, 
       85633159, 
       1360698747, 
       404431949, 
       1175612699, 
-      404227469
+      404227469, 
+      85790311, 
+      1360698531
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701453,
-    "wof:geomhash": "02248ceedd131c492465417747e44266",
+    "wof:geomhash": "eb7114ee8d2b95471de15842df7272ec",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 438266683,
-    "wof:lastmodified": 1583786591,
+    "wof:lastmodified": 1609882865,
     "wof:name": "BS11 9SG",
     "wof:parent_id": 101750389,
     "wof:placetype": "postalcode",
@@ -55,10 +55,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.676098, 
-    51.488411, 
-    -2.676098, 
-    51.488411
+    -2.676155, 
+    51.488375, 
+    -2.676155, 
+    51.488375
   ],
-  "geometry": {"coordinates":[-2.676098,51.488411],"type":"Point"}
+  "geometry": {"coordinates":[-2.676155,51.488375],"type":"Point"}
 }

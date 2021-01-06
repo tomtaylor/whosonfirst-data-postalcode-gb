@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.434632,53.412443,-2.434632,53.412443",
-    "geom:latitude": 53.412443,
-    "geom:longitude": -2.434632,
+    "geom:bbox": "-2.434451,53.412433,-2.434451,53.412433",
+    "geom:latitude": 53.412433,
+    "geom:longitude": -2.434451,
     "gp:parent_id": "31477",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698935, 
-      404438307, 
       1125893425, 
       404227469, 
-      1360698555
+      1360698555, 
+      85633159, 
+      1360698935, 
+      404438307
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701235,
-    "wof:geomhash": "f14fc3124469f5a2f58c884b6e3ad551",
+    "wof:geomhash": "5fb7e9f5c31211ba96651be83cd98f5a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470895985,
-    "wof:lastmodified": 1583786372,
+    "wof:lastmodified": 1609871975,
     "wof:name": "M31 4JY",
     "wof:parent_id": 404438307,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.434632, 
-    53.412443, 
-    -2.434632, 
-    53.412443
+    -2.434451, 
+    53.412433, 
+    -2.434451, 
+    53.412433
   ],
-  "geometry": {"coordinates":[-2.434632,53.412443],"type":"Point"}
+  "geometry": {"coordinates":[-2.434451,53.412433],"type":"Point"}
 }

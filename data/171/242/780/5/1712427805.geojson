@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-09-01",
     "geom:area": 0,
-    "geom:bbox": "-3.567810,54.630080,-3.567810,54.630080",
-    "geom:latitude": 54.63008,
-    "geom:longitude": -3.56781,
+    "geom:bbox": "-3.567807,54.630008,-3.567807,54.630008",
+    "geom:latitude": 54.630008,
+    "geom:longitude": -3.567807,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698721, 
-      85633159, 
-      1360698877, 
       404433473, 
       101872353, 
-      404227469
+      404227469, 
+      1360698721, 
+      85633159, 
+      1360698877
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583787587,
-    "wof:geomhash": "58dce978805290602bfda0bf097e2586",
+    "wof:geomhash": "2fac565ed88451fbb1f49a74fa7e413b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712427805,
-    "wof:lastmodified": 1595710814,
+    "wof:lastmodified": 1609868783,
     "wof:name": "CA14 3FE",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.56781, 
-    54.63008, 
-    -3.56781, 
-    54.63008
+    -3.567807, 
+    54.630008, 
+    -3.567807, 
+    54.630008
   ],
-  "geometry": {"coordinates":[-3.56781,54.63008],"type":"Point"}
+  "geometry": {"coordinates":[-3.567807,54.630008],"type":"Point"}
 }

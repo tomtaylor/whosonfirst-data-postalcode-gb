@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1992-08-01",
     "geom:area": 0,
-    "geom:bbox": "-1.156929,51.701527,-1.156929,51.701527",
-    "geom:latitude": 51.701527,
-    "geom:longitude": -1.156929,
+    "geom:bbox": "-1.156482,51.701461,-1.156482,51.701461",
+    "geom:latitude": 51.701461,
+    "geom:longitude": -1.156482,
     "gp:parent_id": "20870",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698585, 
+      85633159, 
       1360698839, 
       404452079, 
       1126012601, 
-      404227469, 
-      1360698585, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701515,
-    "wof:geomhash": "139f5fa6efab75cdf4cd028ca7f1f76b",
+    "wof:geomhash": "1f988eac7ffdf3d2cc60143ce5c9e2fd",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471340931,
-    "wof:lastmodified": 1583786667,
+    "wof:lastmodified": 1609887345,
     "wof:name": "OX44 9DP",
     "wof:parent_id": 404452079,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.156929, 
-    51.701527, 
-    -1.156929, 
-    51.701527
+    -1.156482, 
+    51.701461, 
+    -1.156482, 
+    51.701461
   ],
-  "geometry": {"coordinates":[-1.156929,51.701527],"type":"Point"}
+  "geometry": {"coordinates":[-1.156482,51.701461],"type":"Point"}
 }

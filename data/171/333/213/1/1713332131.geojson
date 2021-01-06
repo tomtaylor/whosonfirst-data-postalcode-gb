@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "-0.892813,50.844956,-0.892813,50.844956",
-    "geom:latitude": 50.844956,
-    "geom:longitude": -0.892813,
+    "geom:bbox": "-0.892852,50.844498,-0.892852,50.844498",
+    "geom:latitude": 50.844498,
+    "geom:longitude": -0.892852,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698757, 
-      404448373, 
       1125767383, 
       404227469, 
-      1360698607
+      1360698607, 
+      85633159, 
+      1360698757, 
+      404448373
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735690,
-    "wof:geomhash": "82999cf17de07465d8114551aab2f52e",
+    "wof:geomhash": "af37d6f7956a9b8461fa182dce6ffeda",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1713332131,
-    "wof:lastmodified": 1595753501,
+    "wof:lastmodified": 1609875550,
     "wof:name": "PO18 8FZ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.892813, 
-    50.844956, 
-    -0.892813, 
-    50.844956
+    -0.892852, 
+    50.844498, 
+    -0.892852, 
+    50.844498
   ],
-  "geometry": {"coordinates":[-0.892813,50.844956],"type":"Point"}
+  "geometry": {"coordinates":[-0.892852,50.844498],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.322204,51.650233,-3.322204,51.650233",
-    "geom:latitude": 51.650233,
-    "geom:longitude": -3.322204,
+    "geom:bbox": "-3.322907,51.650063,-3.322907,51.650063",
+    "geom:latitude": 51.650063,
+    "geom:longitude": -3.322907,
     "gp:parent_id": "10239",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698631, 
-      85633159, 
-      1360699025, 
       404450907, 
       1125770163, 
-      404227475
+      404227475, 
+      1360698631, 
+      85633159, 
+      1360699025
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701601,
-    "wof:geomhash": "e99d075a729a17b88a3b1bc18b1bec47",
+    "wof:geomhash": "64eca8027e5a4e1601c2573038e41696",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488577233,
-    "wof:lastmodified": 1583786790,
+    "wof:lastmodified": 1609897562,
     "wof:name": "CF45 4UA",
     "wof:parent_id": 404450907,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.322204, 
-    51.650233, 
-    -3.322204, 
-    51.650233
+    -3.322907, 
+    51.650063, 
+    -3.322907, 
+    51.650063
   ],
-  "geometry": {"coordinates":[-3.322204,51.650233],"type":"Point"}
+  "geometry": {"coordinates":[-3.322907,51.650063],"type":"Point"}
 }

@@ -2,16 +2,16 @@
   "id": 437514159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2007-09-01",
-    "edtf:inception": "2003-08-01",
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-07-01",
     "geom:area": 0,
-    "geom:bbox": "-1.250428,52.379812,-1.250428,52.379812",
-    "geom:latitude": 52.379812,
-    "geom:longitude": -1.250428,
+    "geom:bbox": "-1.300668,52.356995,-1.300668,52.356995",
+    "geom:latitude": 52.356995,
+    "geom:longitude": -1.300668,
     "gp:parent_id": "15480",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000031",
     "os:district_code": "E07000220",
@@ -19,11 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698891, 
-      101750475, 
+      404432545, 
+      1125917763, 
       404227469, 
       1360698603, 
-      85633159
+      85633159, 
+      1360698891
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,18 +32,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701320,
-    "wof:geomhash": "5a97b2a41e052d64956f864fb2fe9efc",
+    "wof:geomhash": "800c45403f1c67dd77eac084d1f8c7e3",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360698891,
-        "locality_id": 101750475,
+        "localadmin_id": 404432545,
+        "locality_id": 1125917763,
         "macroregion_id": 404227469,
         "region_id": 1360698603
       }
     ],
     "wof:id": 437514159,
-    "wof:lastmodified": 1583786444,
+    "wof:lastmodified": 1609876366,
     "wof:name": "CV22 7ZD",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -52,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.250428, 
-    52.379812, 
-    -1.250428, 
-    52.379812
+    -1.300668, 
+    52.356995, 
+    -1.300668, 
+    52.356995
   ],
-  "geometry": {"coordinates":[-1.250428,52.379812],"type":"Point"}
+  "geometry": {"coordinates":[-1.300668,52.356995],"type":"Point"}
 }

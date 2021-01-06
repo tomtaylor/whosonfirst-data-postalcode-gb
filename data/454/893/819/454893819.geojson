@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.157373,52.059173,1.157373,52.059173",
-    "geom:latitude": 52.059173,
-    "geom:longitude": 1.157373,
+    "geom:bbox": "1.157402,52.059172,1.157402,52.059172",
+    "geom:latitude": 52.059172,
+    "geom:longitude": 1.157402,
     "gp:parent_id": "24522",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699041, 
-      101750447, 
       404227469, 
       1360698595, 
-      85633159
+      85633159, 
+      1360699041, 
+      101750447
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701748,
-    "wof:geomhash": "f67eeeb10f27449f81b340ce3a633d30",
+    "wof:geomhash": "f7bc90b5c80cc28de0b99177d91e178b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454893819,
-    "wof:lastmodified": 1595717613,
+    "wof:lastmodified": 1609904501,
     "wof:name": "IP4 2BD",
     "wof:parent_id": 101750447,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.157373, 
-    52.059173, 
-    1.157373, 
-    52.059173
+    1.157402, 
+    52.059172, 
+    1.157402, 
+    52.059172
   ],
-  "geometry": {"coordinates":[1.157373,52.059173],"type":"Point"}
+  "geometry": {"coordinates":[1.157402,52.059172],"type":"Point"}
 }

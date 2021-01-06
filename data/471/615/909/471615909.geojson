@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1995-07-01",
     "geom:area": 0,
-    "geom:bbox": "0.275677,51.475983,0.275677,51.475983",
-    "geom:latitude": 51.475983,
-    "geom:longitude": 0.275677,
+    "geom:bbox": "0.275619,51.475975,0.275619,51.475975",
+    "geom:latitude": 51.475975,
+    "geom:longitude": 0.275619,
     "gp:parent_id": "39819",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698551, 
       85633159, 
       1360698915, 
       1360817299, 
-      101750377
+      101750377, 
+      404227469, 
+      1360698551
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701682,
-    "wof:geomhash": "0c3868058371bd937fed33502d292c23",
+    "wof:geomhash": "8e54de53acfe97facfd655129492c781",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471615909,
-    "wof:lastmodified": 1583786836,
+    "wof:lastmodified": 1609899272,
     "wof:name": "RM20 3JT",
     "wof:parent_id": 101750377,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.275677, 
-    51.475983, 
-    0.275677, 
-    51.475983
+    0.275619, 
+    51.475975, 
+    0.275619, 
+    51.475975
   ],
-  "geometry": {"coordinates":[0.275677,51.475983],"type":"Point"}
+  "geometry": {"coordinates":[0.275619,51.475975],"type":"Point"}
 }

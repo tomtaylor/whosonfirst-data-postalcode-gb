@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-10-01",
     "geom:area": 0,
-    "geom:bbox": "-4.364789,55.857313,-4.364789,55.857313",
-    "geom:latitude": 55.857313,
-    "geom:longitude": -4.364789,
+    "geom:bbox": "-4.364065,55.857237,-4.364065,55.857237",
+    "geom:latitude": 55.857237,
+    "geom:longitude": -4.364065,
     "gp:parent_id": "12696207",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698699, 
       85633159, 
       1360699097, 
       404432463, 
       404227471, 
-      85788221, 
-      1360698699
+      85788221
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701491,
-    "wof:geomhash": "9e453eaa22cfc522f429a567a5f51ecd",
+    "wof:geomhash": "52d6b0e52bf4221eced320c93c2ce4d1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488479355,
-    "wof:lastmodified": 1583786696,
+    "wof:lastmodified": 1609893680,
     "wof:name": "G52 4PX",
     "wof:parent_id": 101913923,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.364789, 
-    55.857313, 
-    -4.364789, 
-    55.857313
+    -4.364065, 
+    55.857237, 
+    -4.364065, 
+    55.857237
   ],
-  "geometry": {"coordinates":[-4.364789,55.857313],"type":"Point"}
+  "geometry": {"coordinates":[-4.364065,55.857237],"type":"Point"}
 }

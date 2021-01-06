@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.245840,50.905756,-1.245840,50.905756",
-    "geom:latitude": 50.905756,
-    "geom:longitude": -1.24584,
+    "geom:bbox": "-1.246377,50.905912,-1.246377,50.905912",
+    "geom:latitude": 50.905912,
+    "geom:longitude": -1.246377,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,29 +18,29 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1125797209, 
       404227469, 
       1360698557, 
       85633159, 
       1360698827, 
-      404448879, 
-      101852445
+      404440525
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583804530,
-    "wof:geomhash": "947fa8d71cac67939a03c2eeb108f90f",
+    "wof:geomhash": "f75c21b865d5c21b3a636b82e17d7a19",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360698827,
-        "localadmin_id": 404448879,
-        "locality_id": 101852445,
+        "localadmin_id": 404440525,
+        "locality_id": 1125797209,
         "macroregion_id": 404227469,
         "region_id": 1360698557
       }
     ],
     "wof:id": 1161114394,
-    "wof:lastmodified": 1595712600,
+    "wof:lastmodified": 1609876144,
     "wof:name": "SO30 2EE",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.24584, 
-    50.905756, 
-    -1.24584, 
-    50.905756
+    -1.246377, 
+    50.905912, 
+    -1.246377, 
+    50.905912
   ],
-  "geometry": {"coordinates":[-1.24584,50.905756],"type":"Point"}
+  "geometry": {"coordinates":[-1.246377,50.905912],"type":"Point"}
 }

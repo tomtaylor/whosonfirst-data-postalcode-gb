@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.390814,50.826960,-3.390814,50.826960",
-    "geom:latitude": 50.82696,
-    "geom:longitude": -3.390814,
+    "geom:bbox": "-3.390350,50.826156,-3.390350,50.826156",
+    "geom:latitude": 50.826156,
+    "geom:longitude": -3.39035,
     "gp:parent_id": "39888",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404433557, 
-      101852633, 
+      1360699081, 
+      404433111, 
+      1126008911, 
       404227469, 
       1360698541, 
-      85633159, 
-      1360699081
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,19 +32,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701642,
-    "wof:geomhash": "e1c1958c7d81ca21f1aba9866e796b15",
+    "wof:geomhash": "c9d77f883a9876d9360a1e7955f8b653",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360699081,
-        "localadmin_id": 404433557,
-        "locality_id": 101852633,
+        "localadmin_id": 404433111,
+        "locality_id": 1126008911,
         "macroregion_id": 404227469,
         "region_id": 1360698541
       }
     ],
     "wof:id": 454570991,
-    "wof:lastmodified": 1583786772,
+    "wof:lastmodified": 1609895035,
     "wof:name": "EX15 1SA",
     "wof:parent_id": 404433111,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.390814, 
-    50.82696, 
-    -3.390814, 
-    50.82696
+    -3.39035, 
+    50.826156, 
+    -3.39035, 
+    50.826156
   ],
-  "geometry": {"coordinates":[-3.390814,50.82696],"type":"Point"}
+  "geometry": {"coordinates":[-3.39035,50.826156],"type":"Point"}
 }

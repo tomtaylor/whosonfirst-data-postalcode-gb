@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2011-05-01",
     "geom:area": 0,
-    "geom:bbox": "-3.936835,55.832005,-3.936835,55.832005",
-    "geom:latitude": 55.832005,
-    "geom:longitude": -3.936835,
+    "geom:bbox": "-3.932072,55.832861,-3.932072,55.832861",
+    "geom:latitude": 55.832861,
+    "geom:longitude": -3.932072,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360698949, 
       404435713, 
       404227471, 
-      1360698703, 
-      85633159
+      1360698703
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468888998,
-    "wof:geomhash": "430587d2350461aec6bc545a0cdeb191",
+    "wof:geomhash": "b17d782614c10f122ef94d4048411fa8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 874489719,
-    "wof:lastmodified": 1595728439,
+    "wof:lastmodified": 1609871575,
     "wof:name": "ML1 5GH",
     "wof:parent_id": 404435713,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.936835, 
-    55.832005, 
-    -3.936835, 
-    55.832005
+    -3.932072, 
+    55.832861, 
+    -3.932072, 
+    55.832861
   ],
-  "geometry": {"coordinates":[-3.936835,55.832005],"type":"Point"}
+  "geometry": {"coordinates":[-3.932072,55.832861],"type":"Point"}
 }

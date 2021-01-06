@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.344746,50.450076,-4.344746,50.450076",
-    "geom:latitude": 50.450076,
-    "geom:longitude": -4.344746,
+    "geom:bbox": "-4.344720,50.450011,-4.344720,50.450011",
+    "geom:latitude": 50.450011,
+    "geom:longitude": -4.34472,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699085, 
-      404453645, 
       1276688253, 
       404227469, 
       1360698623, 
-      85633159
+      85633159, 
+      1360699085, 
+      404453645
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701561,
-    "wof:geomhash": "b555a64ae020e151c55ab91ddab5e47a",
+    "wof:geomhash": "e6573041f361fdb4852f18c899a4d669",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471405695,
-    "wof:lastmodified": 1583786718,
+    "wof:lastmodified": 1609890956,
     "wof:name": "PL12 5AX",
     "wof:parent_id": 404453645,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.344746, 
-    50.450076, 
-    -4.344746, 
-    50.450076
+    -4.34472, 
+    50.450011, 
+    -4.34472, 
+    50.450011
   ],
-  "geometry": {"coordinates":[-4.344746,50.450076],"type":"Point"}
+  "geometry": {"coordinates":[-4.34472,50.450011],"type":"Point"}
 }

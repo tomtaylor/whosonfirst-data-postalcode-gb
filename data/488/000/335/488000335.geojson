@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.394088,51.515152,-0.394088,51.515152",
-    "geom:latitude": 51.515152,
-    "geom:longitude": -0.394088,
+    "geom:bbox": "-0.394047,51.515080,-0.394047,51.515080",
+    "geom:latitude": 51.51508,
+    "geom:longitude": -0.394047,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      85792313, 
       1360698645, 
       1158857261, 
       85633159, 
       101750367, 
-      404227469
+      404227469, 
+      85792313
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701180,
-    "wof:geomhash": "fcef939a1feb58e58400e7d26e4b409e",
+    "wof:geomhash": "487c64d7a8781acd16ac091f6d8d60f5",
     "wof:hierarchy": [
       {
         "borough_id": 1158857261,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488000335,
-    "wof:lastmodified": 1583786369,
+    "wof:lastmodified": 1609876936,
     "wof:name": "UB4 0JP",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.394088, 
-    51.515152, 
-    -0.394088, 
-    51.515152
+    -0.394047, 
+    51.51508, 
+    -0.394047, 
+    51.51508
   ],
-  "geometry": {"coordinates":[-0.394088,51.515152],"type":"Point"}
+  "geometry": {"coordinates":[-0.394047,51.51508],"type":"Point"}
 }

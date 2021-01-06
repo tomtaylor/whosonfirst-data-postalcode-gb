@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.298980,51.611928,0.298980,51.611928",
-    "geom:latitude": 51.611928,
-    "geom:longitude": 0.29898,
+    "geom:bbox": "0.298975,51.611829,0.298975,51.611829",
+    "geom:latitude": 51.611829,
+    "geom:longitude": 0.298975,
     "gp:parent_id": "39185",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      101854697, 
       404227469, 
       1360698551, 
       85633159, 
-      1360698979
+      1360698979, 
+      101854697
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701301,
-    "wof:geomhash": "61faa560fbebc57b3ddc4ec97fac0798",
+    "wof:geomhash": "d03f7a1e5761eefb2f54363a83a7f509",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454138813,
-    "wof:lastmodified": 1583786435,
+    "wof:lastmodified": 1609873238,
     "wof:name": "CM14 5HA",
     "wof:parent_id": 101854697,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.29898, 
-    51.611928, 
-    0.29898, 
-    51.611928
+    0.298975, 
+    51.611829, 
+    0.298975, 
+    51.611829
   ],
-  "geometry": {"coordinates":[0.29898,51.611928],"type":"Point"}
+  "geometry": {"coordinates":[0.298975,51.611829],"type":"Point"}
 }

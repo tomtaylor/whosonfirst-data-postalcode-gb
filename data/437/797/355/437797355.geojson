@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.285511,51.815406,-2.285511,51.815406",
-    "geom:latitude": 51.815406,
-    "geom:longitude": -2.285511,
+    "geom:bbox": "-2.285569,51.815423,-2.285569,51.815423",
+    "geom:latitude": 51.815423,
+    "geom:longitude": -2.285569,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698553, 
-      85633159, 
       1360698927, 
       404442131, 
       1125961887, 
-      404227469
+      404227469, 
+      1360698553, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701560,
-    "wof:geomhash": "49a7bfa44b275288f1e909da166de18e",
+    "wof:geomhash": "0c1b4cf28ebdcb8e22e8fca082a860a6",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 437797355,
-    "wof:lastmodified": 1595714986,
+    "wof:lastmodified": 1609890866,
     "wof:name": "GL2 4SB",
     "wof:parent_id": "85786279",
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.285511, 
-    51.815406, 
-    -2.285511, 
-    51.815406
+    -2.285569, 
+    51.815423, 
+    -2.285569, 
+    51.815423
   ],
-  "geometry": {"coordinates":[-2.285511,51.815406],"type":"Point"}
+  "geometry": {"coordinates":[-2.285569,51.815423],"type":"Point"}
 }

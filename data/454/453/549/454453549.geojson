@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2000-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.101703,53.616906,-1.101703,53.616906",
-    "geom:latitude": 53.616906,
-    "geom:longitude": -1.101703,
+    "geom:bbox": "-1.101927,53.617051,-1.101927,53.617051",
+    "geom:latitude": 53.617051,
+    "geom:longitude": -1.101927,
     "gp:parent_id": "29407",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404445257, 
-      1125864415, 
-      404227469, 
       1360698591, 
       85633159, 
-      1360698973
+      1360698973, 
+      404445257, 
+      1125864415, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701573,
-    "wof:geomhash": "c4f689b6b3cf88c32fc300df2ffa7d02",
+    "wof:geomhash": "f177a2c35c3e03ec98b55e99ee707529",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454453549,
-    "wof:lastmodified": 1583786709,
+    "wof:lastmodified": 1609889989,
     "wof:name": "DN6 0DH",
     "wof:parent_id": 404445257,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.101703, 
-    53.616906, 
-    -1.101703, 
-    53.616906
+    -1.101927, 
+    53.617051, 
+    -1.101927, 
+    53.617051
   ],
-  "geometry": {"coordinates":[-1.101703,53.616906],"type":"Point"}
+  "geometry": {"coordinates":[-1.101927,53.617051],"type":"Point"}
 }

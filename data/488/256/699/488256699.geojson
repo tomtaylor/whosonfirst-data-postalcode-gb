@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1998-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.190565,54.210107,-1.190565,54.210107",
-    "geom:latitude": 54.210107,
-    "geom:longitude": -1.190565,
+    "geom:bbox": "-1.190336,54.210034,-1.190336,54.210034",
+    "geom:latitude": 54.210034,
+    "geom:longitude": -1.190336,
     "gp:parent_id": "31025",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698619, 
       85633159, 
       1360698753, 
       404451123, 
-      1125841195
+      1125841195, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701233,
-    "wof:geomhash": "671a35eb9fe0d4c8f132ba0c9762fe44",
+    "wof:geomhash": "7d1fd8f13a3d0beef60239c1d277beb8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488256699,
-    "wof:lastmodified": 1583786458,
+    "wof:lastmodified": 1609882801,
     "wof:name": "YO61 4BP",
     "wof:parent_id": 404451123,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.190565, 
-    54.210107, 
-    -1.190565, 
-    54.210107
+    -1.190336, 
+    54.210034, 
+    -1.190336, 
+    54.210034
   ],
-  "geometry": {"coordinates":[-1.190565,54.210107],"type":"Point"}
+  "geometry": {"coordinates":[-1.190336,54.210034],"type":"Point"}
 }

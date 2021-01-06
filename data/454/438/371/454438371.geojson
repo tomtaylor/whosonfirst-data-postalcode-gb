@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1995-07-01",
     "geom:area": 0,
-    "geom:bbox": "-0.076846,53.576009,-0.076846,53.576009",
-    "geom:latitude": 53.576009,
+    "geom:bbox": "-0.076846,53.575659,-0.076846,53.575659",
+    "geom:latitude": 53.575659,
     "geom:longitude": -0.076846,
     "gp:parent_id": "21896",
     "iso:country": "GB",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698837, 
       1360817097, 
       1209242129, 
       404227469, 
-      1360698571, 
-      85633159, 
-      1360698837
+      1360698571
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701567,
-    "wof:geomhash": "a4e02c1ac508481e86573173cb0d5129",
+    "wof:geomhash": "38fc610ae2afe62b1eede84028a6ad73",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454438371,
-    "wof:lastmodified": 1583786699,
+    "wof:lastmodified": 1609889421,
     "wof:name": "DN31 3TN",
     "wof:parent_id": 101750533,
     "wof:placetype": "postalcode",
@@ -55,9 +55,9 @@
   },
   "bbox": [
     -0.076846, 
-    53.576009, 
+    53.575659, 
     -0.076846, 
-    53.576009
+    53.575659
   ],
-  "geometry": {"coordinates":[-0.076846,53.576009],"type":"Point"}
+  "geometry": {"coordinates":[-0.076846,53.575659],"type":"Point"}
 }

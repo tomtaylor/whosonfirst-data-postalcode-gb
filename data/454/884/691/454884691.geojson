@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.557096,52.256404,0.557096,52.256404",
-    "geom:latitude": 52.256404,
-    "geom:longitude": 0.557096,
+    "geom:bbox": "0.557116,52.256493,0.557116,52.256493",
+    "geom:latitude": 52.256493,
+    "geom:longitude": 0.557116,
     "gp:parent_id": "23293",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699041, 
-      404452925, 
       1293229433, 
       404227469, 
       1360698595, 
-      85633159
+      85633159, 
+      1360699041, 
+      404452925
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701746,
-    "wof:geomhash": "760bdfe5a714ef66895f917068e81ada",
+    "wof:geomhash": "07accd6465993108464aecf2a15912f5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454884691,
-    "wof:lastmodified": 1583786875,
+    "wof:lastmodified": 1609904270,
     "wof:name": "IP28 6NY",
     "wof:parent_id": 404452925,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.557096, 
-    52.256404, 
-    0.557096, 
-    52.256404
+    0.557116, 
+    52.256493, 
+    0.557116, 
+    52.256493
   ],
-  "geometry": {"coordinates":[0.557096,52.256404],"type":"Point"}
+  "geometry": {"coordinates":[0.557116,52.256493],"type":"Point"}
 }

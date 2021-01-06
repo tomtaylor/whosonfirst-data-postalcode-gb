@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1982-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.973165,56.459398,-2.973165,56.459398",
-    "geom:latitude": 56.459398,
-    "geom:longitude": -2.973165,
+    "geom:bbox": "-2.972858,56.459463,-2.972858,56.459463",
+    "geom:latitude": 56.459463,
+    "geom:longitude": -2.972858,
     "gp:parent_id": "12696190",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698883, 
       404430743, 
       101750641, 
       404227471, 
-      1360698693
+      1360698693, 
+      85633159, 
+      1360698883
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701612,
-    "wof:geomhash": "5263c5205886073a8f4fc319f2ecef66",
+    "wof:geomhash": "51e97ab0d141f713cb36ce6789f012c2",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488596291,
-    "wof:lastmodified": 1583786804,
+    "wof:lastmodified": 1609898299,
     "wof:name": "DD1 4DG",
     "wof:parent_id": 101750641,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.973165, 
-    56.459398, 
-    -2.973165, 
-    56.459398
+    -2.972858, 
+    56.459463, 
+    -2.972858, 
+    56.459463
   ],
-  "geometry": {"coordinates":[-2.973165,56.459398],"type":"Point"}
+  "geometry": {"coordinates":[-2.972858,56.459463],"type":"Point"}
 }

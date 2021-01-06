@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.620903,50.957472,-2.620903,50.957472",
-    "geom:latitude": 50.957472,
-    "geom:longitude": -2.620903,
+    "geom:bbox": "-2.620947,50.957517,-2.620947,50.957517",
+    "geom:latitude": 50.957517,
+    "geom:longitude": -2.620947,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698589, 
       85633159, 
       1360699059, 
       404444415, 
-      1360758823
+      1360758823, 
+      404227469, 
+      1360698589
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701191,
-    "wof:geomhash": "1142fd113d219ae604be31180f764c02",
+    "wof:geomhash": "ed43b92ad1ee196030dd5b8663a46cc6",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 438067433,
-    "wof:lastmodified": 1583786325,
+    "wof:lastmodified": 1609870798,
     "wof:name": "BA21 5SA",
     "wof:parent_id": 404444415,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.620903, 
-    50.957472, 
-    -2.620903, 
-    50.957472
+    -2.620947, 
+    50.957517, 
+    -2.620947, 
+    50.957517
   ],
-  "geometry": {"coordinates":[-2.620903,50.957472],"type":"Point"}
+  "geometry": {"coordinates":[-2.620947,50.957517],"type":"Point"}
 }

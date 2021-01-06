@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2007-07-01",
     "geom:area": 0,
-    "geom:bbox": "-2.099507,52.528679,-2.099507,52.528679",
-    "geom:latitude": 52.528679,
-    "geom:longitude": -2.099507,
+    "geom:bbox": "-2.099419,52.528661,-2.099419,52.528661",
+    "geom:latitude": 52.528661,
+    "geom:longitude": -2.099419,
     "gp:parent_id": "18581",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1125917795, 
-      404227469, 
       1360698605, 
       85633159, 
       1360698933, 
-      1360817295
+      1360817295, 
+      1125917795, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701310,
-    "wof:geomhash": "9e6cfae066128b42aa5dfdd77f14f056",
+    "wof:geomhash": "e9b83684ba2a1ada23390ca472a61aed",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488293071,
-    "wof:lastmodified": 1583786499,
+    "wof:lastmodified": 1609884759,
     "wof:name": "DY1 3QY",
     "wof:parent_id": 101914027,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.099507, 
-    52.528679, 
-    -2.099507, 
-    52.528679
+    -2.099419, 
+    52.528661, 
+    -2.099419, 
+    52.528661
   ],
-  "geometry": {"coordinates":[-2.099507,52.528679],"type":"Point"}
+  "geometry": {"coordinates":[-2.099419,52.528661],"type":"Point"}
 }

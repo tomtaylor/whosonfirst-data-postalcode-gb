@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1998-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.947974,53.380390,-2.947974,53.380390",
-    "geom:latitude": 53.38039,
-    "geom:longitude": -2.947974,
+    "geom:bbox": "-2.947972,53.380300,-2.947972,53.380300",
+    "geom:latitude": 53.3803,
+    "geom:longitude": -2.947972,
     "gp:parent_id": "26734",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698971, 
-      101750547, 
       404227469, 
       85792117, 
       1360698573, 
-      85633159
+      85633159, 
+      1360698971, 
+      101750547
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701760,
-    "wof:geomhash": "afbca720b5c7c332988bfbd32406fc82",
+    "wof:geomhash": "87e21032f33f3ed587021350cd60395a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454941677,
-    "wof:lastmodified": 1583786896,
+    "wof:lastmodified": 1609905253,
     "wof:name": "L17 8SW",
     "wof:parent_id": 101750547,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.947974, 
-    53.38039, 
-    -2.947974, 
-    53.38039
+    -2.947972, 
+    53.3803, 
+    -2.947972, 
+    53.3803
   ],
-  "geometry": {"coordinates":[-2.947974,53.38039],"type":"Point"}
+  "geometry": {"coordinates":[-2.947972,53.3803],"type":"Point"}
 }

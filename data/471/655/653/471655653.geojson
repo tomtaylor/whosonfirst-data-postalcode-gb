@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.476428,53.150495,-1.476428,53.150495",
-    "geom:latitude": 53.150495,
-    "geom:longitude": -1.476428,
+    "geom:bbox": "-1.476441,53.150532,-1.476441,53.150532",
+    "geom:latitude": 53.150532,
+    "geom:longitude": -1.476441,
     "gp:parent_id": "11202",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698539, 
       85633159, 
       1360698765, 
       404447153, 
       1125878519, 
-      404227469
+      404227469, 
+      1360698539
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701691,
-    "wof:geomhash": "034a037ad770ca3eded8cf7de76b0fcd",
+    "wof:geomhash": "d89d5325bb05a18ff6bef7ea5883123a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471655653,
-    "wof:lastmodified": 1583786870,
+    "wof:lastmodified": 1609900281,
     "wof:name": "S45 0EZ",
     "wof:parent_id": 404447153,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.476428, 
-    53.150495, 
-    -1.476428, 
-    53.150495
+    -1.476441, 
+    53.150532, 
+    -1.476441, 
+    53.150532
   ],
-  "geometry": {"coordinates":[-1.476428,53.150495],"type":"Point"}
+  "geometry": {"coordinates":[-1.476441,53.150532],"type":"Point"}
 }

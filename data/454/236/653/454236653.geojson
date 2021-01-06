@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.087559,51.213143,1.087559,51.213143",
-    "geom:latitude": 51.213143,
-    "geom:longitude": 1.087559,
+    "geom:bbox": "1.087807,51.212354,1.087807,51.212354",
+    "geom:latitude": 51.212354,
+    "geom:longitude": 1.087807,
     "gp:parent_id": "38671",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1293724649, 
-      404227469, 
-      1360698565, 
       85633159, 
       1360698811, 
-      404442539
+      404442539, 
+      1293724649, 
+      404227469, 
+      1360698565
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701404,
-    "wof:geomhash": "cc3e82d9445c24120a85a89353ae799c",
+    "wof:geomhash": "96c1634df635e9026a3a806bd9742768",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454236653,
-    "wof:lastmodified": 1595713490,
+    "wof:lastmodified": 1609879529,
     "wof:name": "CT4 6EJ",
     "wof:parent_id": 404442539,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.087559, 
-    51.213143, 
-    1.087559, 
-    51.213143
+    1.087807, 
+    51.212354, 
+    1.087807, 
+    51.212354
   ],
-  "geometry": {"coordinates":[1.087559,51.213143],"type":"Point"}
+  "geometry": {"coordinates":[1.087807,51.212354],"type":"Point"}
 }

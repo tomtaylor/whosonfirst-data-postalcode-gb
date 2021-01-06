@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "uuuu",
-    "edtf:inception": "2019-04-01",
+    "edtf:inception": "2020-10-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-0.133947,51.481087,-0.133947,51.481087",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698645, 
-      1158857251, 
-      85633159, 
       101750367, 
       404227469, 
-      85792135
+      85792135, 
+      1360698645, 
+      1158857251, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487751493,
-    "wof:lastmodified": 1583786251,
+    "wof:lastmodified": 1609877744,
     "wof:name": "SW1P 9EQ",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",

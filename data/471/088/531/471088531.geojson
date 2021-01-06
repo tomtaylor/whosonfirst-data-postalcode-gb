@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.600865,55.149163,-1.600865,55.149163",
-    "geom:latitude": 55.149163,
-    "geom:longitude": -1.600865,
+    "geom:bbox": "-1.601971,55.149976,-1.601971,55.149976",
+    "geom:latitude": 55.149976,
+    "geom:longitude": -1.601971,
     "gp:parent_id": "34213",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698727, 
       85633159, 
       1360698769, 
       404441663, 
-      1125963687
+      1125963687, 
+      404227469, 
+      1360698727
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701267,
-    "wof:geomhash": "e228671a7d11d4ef6bfe42d4a1cf8039",
+    "wof:geomhash": "d2e10628294a5a338cec58a476485b62",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471088531,
-    "wof:lastmodified": 1583786412,
+    "wof:lastmodified": 1609872210,
     "wof:name": "NE62 5SX",
     "wof:parent_id": 404441663,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.600865, 
-    55.149163, 
-    -1.600865, 
-    55.149163
+    -1.601971, 
+    55.149976, 
+    -1.601971, 
+    55.149976
   ],
-  "geometry": {"coordinates":[-1.600865,55.149163],"type":"Point"}
+  "geometry": {"coordinates":[-1.601971,55.149976],"type":"Point"}
 }

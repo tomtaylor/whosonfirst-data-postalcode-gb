@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.768930,51.050281,-2.768930,51.050281",
-    "geom:latitude": 51.050281,
-    "geom:longitude": -2.76893,
+    "geom:bbox": "-2.768661,51.050114,-2.768661,51.050114",
+    "geom:latitude": 51.050114,
+    "geom:longitude": -2.768661,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698589, 
       85633159, 
       1360699059, 
       404450637, 
-      1343893457
+      1343893457, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701171,
-    "wof:geomhash": "36d5abc2872f4f86054d775b7f5fdb2b",
+    "wof:geomhash": "b6e8f6c38932d621800a2ab0eb3cfa79",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 487796627,
-    "wof:lastmodified": 1583786275,
+    "wof:lastmodified": 1609880395,
     "wof:name": "TA10 9AD",
     "wof:parent_id": 404450637,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.76893, 
-    51.050281, 
-    -2.76893, 
-    51.050281
+    -2.768661, 
+    51.050114, 
+    -2.768661, 
+    51.050114
   ],
-  "geometry": {"coordinates":[-2.76893,51.050281],"type":"Point"}
+  "geometry": {"coordinates":[-2.768661,51.050114],"type":"Point"}
 }

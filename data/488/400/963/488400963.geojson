@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.249535,55.652530,-2.249535,55.652530",
-    "geom:latitude": 55.65253,
-    "geom:longitude": -2.249535,
+    "geom:bbox": "-2.249393,55.652584,-2.249393,55.652584",
+    "geom:latitude": 55.652584,
+    "geom:longitude": -2.249393,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,11 +18,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699015, 
       404442083, 
       404227471, 
-      1360698729
+      1360698729, 
+      85633159, 
+      1360699015
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -30,7 +30,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701413,
-    "wof:geomhash": "264423375e5ee591e7d815a81feddeed",
+    "wof:geomhash": "c45367a76d0bfdbf19da434416ee0c77",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -41,7 +41,7 @@
       }
     ],
     "wof:id": 488400963,
-    "wof:lastmodified": 1583786614,
+    "wof:lastmodified": 1609890064,
     "wof:name": "TD12 4AG",
     "wof:parent_id": 101873485,
     "wof:placetype": "postalcode",
@@ -51,10 +51,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.249535, 
-    55.65253, 
-    -2.249535, 
-    55.65253
+    -2.249393, 
+    55.652584, 
+    -2.249393, 
+    55.652584
   ],
-  "geometry": {"coordinates":[-2.249535,55.65253],"type":"Point"}
+  "geometry": {"coordinates":[-2.249393,55.652584],"type":"Point"}
 }

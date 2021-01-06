@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.220466,53.903939,-0.220466,53.903939",
-    "geom:latitude": 53.903939,
-    "geom:longitude": -0.220466,
+    "geom:bbox": "-0.220501,53.907418,-0.220501,53.907418",
+    "geom:latitude": 53.907418,
+    "geom:longitude": -0.220501,
     "gp:parent_id": "34297",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404446307, 
       1360753583, 
       404227469, 
       1360698547, 
       85633159, 
-      1360699001
+      1360699001, 
+      404446307
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701725,
-    "wof:geomhash": "fb87cc56d6b23268fdf2b87d5938d118",
+    "wof:geomhash": "077c83fdd72e36e7d38fde6d054dcbfc",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454810735,
-    "wof:lastmodified": 1595717159,
+    "wof:lastmodified": 1609902727,
     "wof:name": "HU11 5SW",
     "wof:parent_id": 404446307,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.220466, 
-    53.903939, 
-    -0.220466, 
-    53.903939
+    -0.220501, 
+    53.907418, 
+    -0.220501, 
+    53.907418
   ],
-  "geometry": {"coordinates":[-0.220466,53.903939],"type":"Point"}
+  "geometry": {"coordinates":[-0.220501,53.907418],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-12-01",
     "geom:area": 0,
-    "geom:bbox": "-0.953818,51.288856,-0.953818,51.288856",
-    "geom:latitude": 51.288856,
-    "geom:longitude": -0.953818,
+    "geom:bbox": "-0.953748,51.288811,-0.953748,51.288811",
+    "geom:latitude": 51.288811,
+    "geom:longitude": -0.953748,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698827, 
       404431271, 
       1326659339, 
       404227469, 
-      1360698557, 
-      85633159, 
-      1360698827
+      1360698557
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701603,
-    "wof:geomhash": "bf82b8ef69ef8af6d59a11bdcaf7884f",
+    "wof:geomhash": "24d9375f52257297b0369a23af9a4273",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 437872735,
-    "wof:lastmodified": 1595715403,
+    "wof:lastmodified": 1609893767,
     "wof:name": "RG27 9GG",
     "wof:parent_id": "85789861",
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.953818, 
-    51.288856, 
-    -0.953818, 
-    51.288856
+    -0.953748, 
+    51.288811, 
+    -0.953748, 
+    51.288811
   ],
-  "geometry": {"coordinates":[-0.953818,51.288856],"type":"Point"}
+  "geometry": {"coordinates":[-0.953748,51.288811],"type":"Point"}
 }

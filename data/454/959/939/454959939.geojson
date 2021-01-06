@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.868815,53.486226,-2.868815,53.486226",
-    "geom:latitude": 53.486226,
-    "geom:longitude": -2.868815,
+    "geom:bbox": "-2.868756,53.486350,-2.868756,53.486350",
+    "geom:latitude": 53.48635,
+    "geom:longitude": -2.868756,
     "gp:parent_id": "26734",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698941, 
       101872163, 
       404227469, 
-      1360698573, 
-      85633159, 
-      1360698941
+      1360698573
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701763,
-    "wof:geomhash": "2c2266a0a001e5f8178e863121e023f3",
+    "wof:geomhash": "dd90b1c6c7f5ed3dc5ff13d942679f53",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454959939,
-    "wof:lastmodified": 1583786899,
+    "wof:lastmodified": 1609905466,
     "wof:name": "L33 6XD",
     "wof:parent_id": 101872163,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.868815, 
-    53.486226, 
-    -2.868815, 
-    53.486226
+    -2.868756, 
+    53.48635, 
+    -2.868756, 
+    53.48635
   ],
-  "geometry": {"coordinates":[-2.868815,53.486226],"type":"Point"}
+  "geometry": {"coordinates":[-2.868756,53.48635],"type":"Point"}
 }

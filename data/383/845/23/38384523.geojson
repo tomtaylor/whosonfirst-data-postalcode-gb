@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.451276,53.595502,-1.451276,53.595502",
-    "geom:latitude": 53.595502,
-    "geom:longitude": -1.451276,
+    "geom:bbox": "-1.450747,53.595535,-1.450747,53.595535",
+    "geom:latitude": 53.595535,
+    "geom:longitude": -1.450747,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,27 +18,27 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      1360699091, 
+      1125860113, 
       404227469, 
       1360698591, 
-      85633159, 
-      1360699091, 
-      101750543
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583789810,
-    "wof:geomhash": "baaf20f3d872f4259fae0e186f248cbc",
+    "wof:geomhash": "e88d3dd1f9f2b8dce29b624b81cfbd67",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360699091,
-        "locality_id": 101750543,
+        "locality_id": 1125860113,
         "macroregion_id": 404227469,
         "region_id": 1360698591
       }
     ],
     "wof:id": 38384523,
-    "wof:lastmodified": 1595710882,
+    "wof:lastmodified": 1609868516,
     "wof:name": "S71 4TF",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.451276, 
-    53.595502, 
-    -1.451276, 
-    53.595502
+    -1.450747, 
+    53.595535, 
+    -1.450747, 
+    53.595535
   ],
-  "geometry": {"coordinates":[-1.451276,53.595502],"type":"Point"}
+  "geometry": {"coordinates":[-1.450747,53.595535],"type":"Point"}
 }

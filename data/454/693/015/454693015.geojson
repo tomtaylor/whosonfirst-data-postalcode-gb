@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2006-04-01",
     "geom:area": 0,
-    "geom:bbox": "-0.725101,51.088500,-0.725101,51.088500",
-    "geom:latitude": 51.0885,
-    "geom:longitude": -0.725101,
+    "geom:bbox": "-0.725100,51.088527,-0.725100,51.088527",
+    "geom:latitude": 51.088527,
+    "geom:longitude": -0.7251,
     "gp:parent_id": "22605",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698599, 
       85633159, 
       1360698887, 
       404437989, 
-      101854671
+      101854671, 
+      404227469, 
+      1360698599
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701698,
-    "wof:geomhash": "721ab6e0a747b6bc5b4d33f3763b4ca7",
+    "wof:geomhash": "d0edc03956998675f4fffc2b11784d0f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454693015,
-    "wof:lastmodified": 1583786833,
+    "wof:lastmodified": 1609899647,
     "wof:name": "GU27 1AW",
     "wof:parent_id": 101854671,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.725101, 
-    51.0885, 
-    -0.725101, 
-    51.0885
+    -0.7251, 
+    51.088527, 
+    -0.7251, 
+    51.088527
   ],
-  "geometry": {"coordinates":[-0.725101,51.0885],"type":"Point"}
+  "geometry": {"coordinates":[-0.7251,51.088527],"type":"Point"}
 }

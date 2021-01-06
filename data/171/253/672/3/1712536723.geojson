@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "uuuu",
-    "edtf:inception": "2017-10-01",
+    "edtf:inception": "2020-08-01",
     "geom:area": 0,
     "geom:bbox": "-1.418290,53.577090,-1.418290,53.577090",
     "geom:latitude": 53.57709,
@@ -14,15 +14,15 @@
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E08000016",
-    "os:positional_quality_indicator": "1",
+    "os:positional_quality_indicator": "5",
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698591, 
-      85633159, 
       1360699091, 
       1125860113, 
-      404227469
+      404227469, 
+      1360698591, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1712536723,
-    "wof:lastmodified": 1583792432,
+    "wof:lastmodified": 1609870260,
     "wof:name": "S72 8YE",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

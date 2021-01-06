@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2007-09-01",
     "geom:area": 0,
-    "geom:bbox": "-1.874220,52.630267,-1.874220,52.630267",
-    "geom:latitude": 52.630267,
-    "geom:longitude": -1.87422,
+    "geom:bbox": "-1.874353,52.630123,-1.874353,52.630123",
+    "geom:latitude": 52.630123,
+    "geom:longitude": -1.874353,
     "gp:parent_id": "39052",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698593, 
       85633159, 
       1360698947, 
       404436531, 
-      1126029531, 
-      404227469, 
-      1360698593
+      1126029531
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701101,
-    "wof:geomhash": "5f855fd4d5eaa5a663ef75418c90a97e",
+    "wof:geomhash": "754b36b4e61727e3c816a70ec5453a56",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488202413,
-    "wof:lastmodified": 1583786351,
+    "wof:lastmodified": 1609879881,
     "wof:name": "WS9 9HW",
     "wof:parent_id": 404436531,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.87422, 
-    52.630267, 
-    -1.87422, 
-    52.630267
+    -1.874353, 
+    52.630123, 
+    -1.874353, 
+    52.630123
   ],
-  "geometry": {"coordinates":[-1.87422,52.630267],"type":"Point"}
+  "geometry": {"coordinates":[-1.874353,52.630123],"type":"Point"}
 }

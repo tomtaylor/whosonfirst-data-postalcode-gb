@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-09-01",
     "geom:area": 0,
-    "geom:bbox": "-1.449498,53.839092,-1.449498,53.839092",
-    "geom:latitude": 53.839092,
-    "geom:longitude": -1.449498,
+    "geom:bbox": "-1.449696,53.839093,-1.449696,53.839093",
+    "geom:latitude": 53.839093,
+    "geom:longitude": -1.449696,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      101750579, 
       404227469, 
       85791611, 
       1360698609, 
       85633159, 
-      1360698749
+      1360698749, 
+      101750579
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583796666,
-    "wof:geomhash": "c4132fa1a7161fb8e084b5c088b5e042",
+    "wof:geomhash": "0034f9cbe81048e924253e70c6dcbdd8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 39001374,
-    "wof:lastmodified": 1595710960,
+    "wof:lastmodified": 1609868443,
     "wof:name": "LS14 1FW",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.449498, 
-    53.839092, 
-    -1.449498, 
-    53.839092
+    -1.449696, 
+    53.839093, 
+    -1.449696, 
+    53.839093
   ],
-  "geometry": {"coordinates":[-1.449498,53.839092],"type":"Point"}
+  "geometry": {"coordinates":[-1.449696,53.839093],"type":"Point"}
 }

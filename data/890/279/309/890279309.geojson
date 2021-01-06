@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2011-05-01",
     "geom:area": 0,
-    "geom:bbox": "-2.639574,53.415925,-2.639574,53.415925",
-    "geom:latitude": 53.415925,
-    "geom:longitude": -2.639574,
+    "geom:bbox": "-2.638720,53.415227,-2.638720,53.415227",
+    "geom:latitude": 53.415227,
+    "geom:longitude": -2.63872,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698537, 
       85633159, 
       1360698965, 
       404430231, 
-      1360754119
+      1360754119, 
+      404227469, 
+      1360698537
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468903590,
-    "wof:geomhash": "a03f66c56306e04b2f3d6b2142c53797",
+    "wof:geomhash": "64aac79cd62c5c1c286683e5fd577744",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 890279309,
-    "wof:lastmodified": 1583786275,
+    "wof:lastmodified": 1609869665,
     "wof:name": "WA5 7YA",
     "wof:parent_id": 404430231,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.639574, 
-    53.415925, 
-    -2.639574, 
-    53.415925
+    -2.63872, 
+    53.415227, 
+    -2.63872, 
+    53.415227
   ],
-  "geometry": {"coordinates":[-2.639574,53.415925],"type":"Point"}
+  "geometry": {"coordinates":[-2.63872,53.415227],"type":"Point"}
 }

@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.132054,51.529085,-0.132054,51.529085",
-    "geom:latitude": 51.529085,
-    "geom:longitude": -0.132054,
+    "geom:bbox": "-0.132040,51.529150,-0.132040,51.529150",
+    "geom:latitude": 51.52915,
+    "geom:longitude": -0.13204,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      1158857277, 
-      85633159, 
-      101750367, 
       404227469, 
       85861771, 
-      1360698645
+      1360698645, 
+      1158857277, 
+      85633159, 
+      101750367
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701435,
-    "wof:geomhash": "2a6edbaabeb80caced1446e1bd65f409",
+    "wof:geomhash": "e55cceab9e9d58a3ebee8815f8e0669e",
     "wof:hierarchy": [
       {
         "borough_id": 1158857277,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471246595,
-    "wof:lastmodified": 1583786590,
+    "wof:lastmodified": 1609882238,
     "wof:name": "NW1 1LH",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.132054, 
-    51.529085, 
-    -0.132054, 
-    51.529085
+    -0.13204, 
+    51.52915, 
+    -0.13204, 
+    51.52915
   ],
-  "geometry": {"coordinates":[-0.132054,51.529085],"type":"Point"}
+  "geometry": {"coordinates":[-0.13204,51.52915],"type":"Point"}
 }

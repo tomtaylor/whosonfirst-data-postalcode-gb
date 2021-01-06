@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2000-12-01",
     "geom:area": 0,
-    "geom:bbox": "-3.052699,53.078812,-3.052699,53.078812",
-    "geom:latitude": 53.078812,
-    "geom:longitude": -3.052699,
+    "geom:bbox": "-3.052411,53.078653,-3.052411,53.078653",
+    "geom:latitude": 53.078653,
+    "geom:longitude": -3.052411,
     "gp:parent_id": "14306",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1125849057, 
-      404227475, 
-      1360698637, 
       85633159, 
       1360698743, 
-      404442071
+      404442071, 
+      1125849057, 
+      404227475, 
+      1360698637
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701369,
-    "wof:geomhash": "25e8f9ebb2c0106c65f7ee1e4c1d21be",
+    "wof:geomhash": "d62592e3231ebbcc305b019721d2bdc4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504484549,
-    "wof:lastmodified": 1583786484,
+    "wof:lastmodified": 1609874514,
     "wof:name": "LL11 5DJ",
     "wof:parent_id": 404442071,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.052699, 
-    53.078812, 
-    -3.052699, 
-    53.078812
+    -3.052411, 
+    53.078653, 
+    -3.052411, 
+    53.078653
   ],
-  "geometry": {"coordinates":[-3.052699,53.078812],"type":"Point"}
+  "geometry": {"coordinates":[-3.052411,53.078653],"type":"Point"}
 }

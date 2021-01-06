@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.645971,50.942831,0.645971,50.942831",
-    "geom:latitude": 50.942831,
-    "geom:longitude": 0.645971,
+    "geom:bbox": "0.646309,50.942500,0.646309,50.942500",
+    "geom:latitude": 50.9425,
+    "geom:longitude": 0.646309,
     "gp:parent_id": "38496",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1125903111, 
-      404227469, 
-      1360698549, 
       85633159, 
       1360698815, 
-      404442705
+      404442705, 
+      1125903111, 
+      404227469, 
+      1360698549
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701218,
-    "wof:geomhash": "53ceb2e1905277c958faf3feb4f649e3",
+    "wof:geomhash": "6505a78e77545b90d57249e010f90ea8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487866439,
-    "wof:lastmodified": 1595724691,
+    "wof:lastmodified": 1609884126,
     "wof:name": "TN31 6BG",
     "wof:parent_id": 404442705,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.645971, 
-    50.942831, 
-    0.645971, 
-    50.942831
+    0.646309, 
+    50.9425, 
+    0.646309, 
+    50.9425
   ],
-  "geometry": {"coordinates":[0.645971,50.942831],"type":"Point"}
+  "geometry": {"coordinates":[0.646309,50.9425],"type":"Point"}
 }

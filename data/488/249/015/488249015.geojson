@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1998-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.068911,53.962147,-1.068911,53.962147",
-    "geom:latitude": 53.962147,
-    "geom:longitude": -1.068911,
+    "geom:bbox": "-1.068851,53.962119,-1.068851,53.962119",
+    "geom:latitude": 53.962119,
+    "geom:longitude": -1.068851,
     "gp:parent_id": "41415",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698977, 
       101751641, 
       404227469, 
-      1360698619
+      1360698619, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701214,
-    "wof:geomhash": "0bc502dc8ca0bfea20df1363cb6af551",
+    "wof:geomhash": "6152c36d96f1b3d6e7e36c474542e1aa",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488249015,
-    "wof:lastmodified": 1583786445,
+    "wof:lastmodified": 1609882372,
     "wof:name": "YO31 7XQ",
     "wof:parent_id": 101751641,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.068911, 
-    53.962147, 
-    -1.068911, 
-    53.962147
+    -1.068851, 
+    53.962119, 
+    -1.068851, 
+    53.962119
   ],
-  "geometry": {"coordinates":[-1.068911,53.962147],"type":"Point"}
+  "geometry": {"coordinates":[-1.068851,53.962119],"type":"Point"}
 }

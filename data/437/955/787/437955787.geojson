@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.920596,52.483915,-1.920596,52.483915",
-    "geom:latitude": 52.483915,
-    "geom:longitude": -1.920596,
+    "geom:bbox": "-1.920728,52.483888,-1.920728,52.483888",
+    "geom:latitude": 52.483888,
+    "geom:longitude": -1.920728,
     "gp:parent_id": "12723",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      85792845, 
-      1360698605, 
-      85633159, 
       1360699077, 
       101750467, 
-      404227469
+      404227469, 
+      85792845, 
+      1360698605, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701647,
-    "wof:geomhash": "ae2bc1ec215f88ca9bdd509953e3c2b5",
+    "wof:geomhash": "183c1b73868dcf283354137bbff81aad",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 437955787,
-    "wof:lastmodified": 1583786811,
+    "wof:lastmodified": 1609897349,
     "wof:name": "B1 2TL",
     "wof:parent_id": 101750467,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.920596, 
-    52.483915, 
-    -1.920596, 
-    52.483915
+    -1.920728, 
+    52.483888, 
+    -1.920728, 
+    52.483888
   ],
-  "geometry": {"coordinates":[-1.920596,52.483915],"type":"Point"}
+  "geometry": {"coordinates":[-1.920728,52.483888],"type":"Point"}
 }

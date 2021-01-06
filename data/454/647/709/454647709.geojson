@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.218732,51.744882,-2.218732,51.744882",
-    "geom:latitude": 51.744882,
-    "geom:longitude": -2.218732,
+    "geom:bbox": "-2.218772,51.744923,-2.218772,51.744923",
+    "geom:latitude": 51.744923,
+    "geom:longitude": -2.218772,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      101852857, 
       404227469, 
       1360698553, 
       85633159, 
       1360698927, 
-      404451523
+      404451523, 
+      101852857
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701685,
-    "wof:geomhash": "15903d1ab033f3dc772ea789133f7c4a",
+    "wof:geomhash": "ec62cf2728ad3fa55aff05fef1e22fda",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454647709,
-    "wof:lastmodified": 1583786816,
+    "wof:lastmodified": 1609898426,
     "wof:name": "GL5 3AP",
     "wof:parent_id": 101852857,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.218732, 
-    51.744882, 
-    -2.218732, 
-    51.744882
+    -2.218772, 
+    51.744923, 
+    -2.218772, 
+    51.744923
   ],
-  "geometry": {"coordinates":[-2.218732,51.744882],"type":"Point"}
+  "geometry": {"coordinates":[-2.218772,51.744923],"type":"Point"}
 }

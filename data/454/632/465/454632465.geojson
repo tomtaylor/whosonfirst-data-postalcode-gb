@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.506410,51.710865,-2.506410,51.710865",
-    "geom:latitude": 51.710865,
-    "geom:longitude": -2.50641,
+    "geom:bbox": "-2.513627,51.710403,-2.513627,51.710403",
+    "geom:latitude": 51.710403,
+    "geom:longitude": -2.513627,
     "gp:parent_id": "28033",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      1126014761, 
       404227469, 
       1360698553, 
       85633159, 
       1360698927, 
-      404435431, 
-      1126014761
+      404435431
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701668,
-    "wof:geomhash": "2c218e9cc0dfef862e9d0ad160d1f772",
+    "wof:geomhash": "fcdb2b1d9366ea60bcc647f3b6b27872",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454632465,
-    "wof:lastmodified": 1583786806,
+    "wof:lastmodified": 1609897577,
     "wof:name": "GL15 4ER",
     "wof:parent_id": 404435431,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.50641, 
-    51.710865, 
-    -2.50641, 
-    51.710865
+    -2.513627, 
+    51.710403, 
+    -2.513627, 
+    51.710403
   ],
-  "geometry": {"coordinates":[-2.50641,51.710865],"type":"Point"}
+  "geometry": {"coordinates":[-2.513627,51.710403],"type":"Point"}
 }

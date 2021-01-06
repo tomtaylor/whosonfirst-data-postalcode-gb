@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2006-09-01",
     "geom:area": 0,
-    "geom:bbox": "0.334062,52.281556,0.334062,52.281556",
-    "geom:latitude": 52.281556,
-    "geom:longitude": 0.334062,
+    "geom:bbox": "0.334057,52.281527,0.334057,52.281527",
+    "geom:latitude": 52.281527,
+    "geom:longitude": 0.334057,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698845, 
-      404436691, 
       1260315681, 
       404227469, 
       1360698535, 
-      85633159
+      85633159, 
+      1360698845, 
+      404436691
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701182,
-    "wof:geomhash": "1d50c17876a150eda019f942229b623b",
+    "wof:geomhash": "91b08961cf2b67be224bc98669d29179",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454087079,
-    "wof:lastmodified": 1583786328,
+    "wof:lastmodified": 1609870215,
     "wof:name": "CB25 0DA",
     "wof:parent_id": 404436691,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.334062, 
-    52.281556, 
-    0.334062, 
-    52.281556
+    0.334057, 
+    52.281527, 
+    0.334057, 
+    52.281527
   ],
-  "geometry": {"coordinates":[0.334062,52.281556],"type":"Point"}
+  "geometry": {"coordinates":[0.334057,52.281527],"type":"Point"}
 }

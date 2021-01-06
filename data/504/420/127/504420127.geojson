@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.208867,55.805561,-4.208867,55.805561",
-    "geom:latitude": 55.805561,
-    "geom:longitude": -4.208867,
+    "geom:bbox": "-4.208899,55.805570,-4.208899,55.805570",
+    "geom:latitude": 55.80557,
+    "geom:longitude": -4.208899,
     "gp:parent_id": "12696210",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698703, 
       85633159, 
       1360698969, 
       404453929, 
-      404227471
+      404227471, 
+      1360698703
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701202,
-    "wof:geomhash": "a785f2dd4f8083ccf478a97761e4641b",
+    "wof:geomhash": "40267a34a2509c4d3879ecf378a75ba5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504420127,
-    "wof:lastmodified": 1595727942,
+    "wof:lastmodified": 1609870374,
     "wof:name": "G73 4BE",
     "wof:parent_id": 101913919,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.208867, 
-    55.805561, 
-    -4.208867, 
-    55.805561
+    -4.208899, 
+    55.80557, 
+    -4.208899, 
+    55.80557
   ],
-  "geometry": {"coordinates":[-4.208867,55.805561],"type":"Point"}
+  "geometry": {"coordinates":[-4.208899,55.80557],"type":"Point"}
 }

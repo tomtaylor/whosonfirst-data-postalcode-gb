@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "1984-12-01",
+    "edtf:deprecated": "2021-01-05",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:bbox": "-2.977155,51.588580,-2.977155,51.588580",
@@ -18,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227475, 
-      1360698641, 
       85633159, 
       1360698735, 
       404432509, 
-      1360711875
+      1360711875, 
+      404227475, 
+      1360698641
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +41,7 @@
       }
     ],
     "wof:id": 1712779241,
-    "wof:lastmodified": 1583803215,
+    "wof:lastmodified": 1609874455,
     "wof:name": "NPT 8EL",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

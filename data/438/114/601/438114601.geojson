@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.832486,53.819194,-1.832486,53.819194",
-    "geom:latitude": 53.819194,
-    "geom:longitude": -1.832486,
+    "geom:bbox": "-1.832532,53.819230,-1.832532,53.819230",
+    "geom:latitude": 53.81923,
+    "geom:longitude": -1.832532,
     "gp:parent_id": "13527",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698963, 
       404436863, 
       1360758995, 
       404227469, 
-      1360698609
+      1360698609, 
+      85633159, 
+      1360698963
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701309,
-    "wof:geomhash": "151a86a31c48161cc4d65c2ffb46ead2",
+    "wof:geomhash": "d66d94039b816260213cc4339f36cd9c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438114601,
-    "wof:lastmodified": 1583786433,
+    "wof:lastmodified": 1609873820,
     "wof:name": "BD15 9LQ",
     "wof:parent_id": 101750581,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.832486, 
-    53.819194, 
-    -1.832486, 
-    53.819194
+    -1.832532, 
+    53.81923, 
+    -1.832532, 
+    53.81923
   ],
-  "geometry": {"coordinates":[-1.832486,53.819194],"type":"Point"}
+  "geometry": {"coordinates":[-1.832532,53.81923],"type":"Point"}
 }

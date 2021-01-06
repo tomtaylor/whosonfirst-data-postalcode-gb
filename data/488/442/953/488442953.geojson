@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.795784,56.339947,-2.795784,56.339947",
-    "geom:latitude": 56.339947,
-    "geom:longitude": -2.795784,
+    "geom:bbox": "-2.795789,56.339957,-2.795789,56.339957",
+    "geom:latitude": 56.339957,
+    "geom:longitude": -2.795789,
     "gp:parent_id": "12696197",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699123, 
-      404444217, 
       404227471, 
       1360698659, 
-      85633159
+      85633159, 
+      1360699123, 
+      404444217
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701460,
-    "wof:geomhash": "9f96347ee7b140f39db75fcbed42d776",
+    "wof:geomhash": "1bf520a1a592851f76a841bed74747c9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488442953,
-    "wof:lastmodified": 1583786665,
+    "wof:lastmodified": 1609891924,
     "wof:name": "KY16 9NN",
     "wof:parent_id": 101872553,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.795784, 
-    56.339947, 
-    -2.795784, 
-    56.339947
+    -2.795789, 
+    56.339957, 
+    -2.795789, 
+    56.339957
   ],
-  "geometry": {"coordinates":[-2.795784,56.339947],"type":"Point"}
+  "geometry": {"coordinates":[-2.795789,56.339957],"type":"Point"}
 }

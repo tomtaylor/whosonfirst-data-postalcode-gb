@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2002-06-01",
     "geom:area": 0,
-    "geom:bbox": "0.993616,51.106072,0.993616,51.106072",
-    "geom:latitude": 51.106072,
-    "geom:longitude": 0.993616,
+    "geom:bbox": "0.993620,51.106083,0.993620,51.106083",
+    "geom:latitude": 51.106083,
+    "geom:longitude": 0.99362,
     "gp:parent_id": "34353",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698811, 
-      404438955, 
       1125784797, 
       404227469, 
       1360698565, 
-      85633159
+      85633159, 
+      1360698811, 
+      404438955
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701214,
-    "wof:geomhash": "8584c1767fb358cf0d14b34e19823a05",
+    "wof:geomhash": "3c7168037220acca9386c1e8296f8b0a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487859469,
-    "wof:lastmodified": 1583786308,
+    "wof:lastmodified": 1609883738,
     "wof:name": "TN25 6BZ",
     "wof:parent_id": 404438955,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.993616, 
-    51.106072, 
-    0.993616, 
-    51.106072
+    0.99362, 
+    51.106083, 
+    0.99362, 
+    51.106083
   ],
-  "geometry": {"coordinates":[0.993616,51.106072],"type":"Point"}
+  "geometry": {"coordinates":[0.99362,51.106083],"type":"Point"}
 }

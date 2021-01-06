@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.535029,52.283828,-1.535029,52.283828",
-    "geom:latitude": 52.283828,
-    "geom:longitude": -1.535029,
+    "geom:bbox": "-1.534844,52.283689,-1.534844,52.283689",
+    "geom:latitude": 52.283689,
+    "geom:longitude": -1.534844,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698603, 
       85633159, 
       1360698891, 
       404439437, 
       101750473, 
-      404227469
+      404227469, 
+      1360698603
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701425,
-    "wof:geomhash": "cbc72c57ca7632e2491bd17086ce421d",
+    "wof:geomhash": "8fe2c4029acc7fed0ecda824e93d8b25",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454265733,
-    "wof:lastmodified": 1583786556,
+    "wof:lastmodified": 1609880787,
     "wof:name": "CV31 3NS",
     "wof:parent_id": 101750473,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.535029, 
-    52.283828, 
-    -1.535029, 
-    52.283828
+    -1.534844, 
+    52.283689, 
+    -1.534844, 
+    52.283689
   ],
-  "geometry": {"coordinates":[-1.535029,52.283828],"type":"Point"}
+  "geometry": {"coordinates":[-1.534844,52.283689],"type":"Point"}
 }

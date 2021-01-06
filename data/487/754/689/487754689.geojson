@@ -20,12 +20,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      85861715, 
-      1360698645, 
-      1158857317, 
+      1158857245, 
       85633159, 
       101750367, 
-      404227469
+      404227469, 
+      85861715, 
+      1360698645
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -36,7 +36,7 @@
     "wof:geomhash": "063cc7711dea33015eb4631e91f2dd04",
     "wof:hierarchy": [
       {
-        "borough_id": 1158857317,
+        "borough_id": 1158857245,
         "country_id": 85633159,
         "locality_id": 101750367,
         "macroregion_id": 404227469,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 487754689,
-    "wof:lastmodified": 1583786252,
+    "wof:lastmodified": 1609877933,
     "wof:name": "SW1X 9BW",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",

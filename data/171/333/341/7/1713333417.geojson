@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-02-01",
     "geom:area": 0,
-    "geom:bbox": "-0.936617,52.471876,-0.936617,52.471876",
-    "geom:latitude": 52.471876,
-    "geom:longitude": -0.936617,
+    "geom:bbox": "-0.936501,52.471821,-0.936501,52.471821",
+    "geom:latitude": 52.471821,
+    "geom:longitude": -0.936501,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698871, 
       101853601, 
       404227469, 
-      1360698569
+      1360698569, 
+      85633159, 
+      1360698871
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735751,
-    "wof:geomhash": "ba5ba1ec46df465f73c786d441f3241f",
+    "wof:geomhash": "52ffef0c01d9a56f44a712ce606cc30b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1713333417,
-    "wof:lastmodified": 1595753540,
+    "wof:lastmodified": 1609875666,
     "wof:name": "LE16 9RB",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.936617, 
-    52.471876, 
-    -0.936617, 
-    52.471876
+    -0.936501, 
+    52.471821, 
+    -0.936501, 
+    52.471821
   ],
-  "geometry": {"coordinates":[-0.936617,52.471876],"type":"Point"}
+  "geometry": {"coordinates":[-0.936501,52.471821],"type":"Point"}
 }

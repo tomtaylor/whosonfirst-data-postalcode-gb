@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.613660,51.090568,-2.613660,51.090568",
-    "geom:latitude": 51.090568,
-    "geom:longitude": -2.61366,
+    "geom:bbox": "-2.613648,51.090526,-2.613648,51.090526",
+    "geom:latitude": 51.090526,
+    "geom:longitude": -2.613648,
     "gp:parent_id": "39733",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      1360759129, 
       404227469, 
       1360698589, 
       85633159, 
       1360699059, 
-      404453391, 
-      1360759129
+      404453391
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701171,
-    "wof:geomhash": "deb2d4f96af4607a370f5ae5e083193c",
+    "wof:geomhash": "135279f70f102da3238b7fb31d191a27",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487797727,
-    "wof:lastmodified": 1583786276,
+    "wof:lastmodified": 1609880423,
     "wof:name": "TA11 7DL",
     "wof:parent_id": 404453391,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.61366, 
-    51.090568, 
-    -2.61366, 
-    51.090568
+    -2.613648, 
+    51.090526, 
+    -2.613648, 
+    51.090526
   ],
-  "geometry": {"coordinates":[-2.61366,51.090568],"type":"Point"}
+  "geometry": {"coordinates":[-2.613648,51.090526],"type":"Point"}
 }

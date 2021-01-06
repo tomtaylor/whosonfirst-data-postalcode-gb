@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.536177,51.909711,-2.536177,51.909711",
-    "geom:latitude": 51.909711,
+    "geom:bbox": "-2.536177,51.909674,-2.536177,51.909674",
+    "geom:latitude": 51.909674,
     "geom:longitude": -2.536177,
     "gp:parent_id": "40008",
     "iso:country": "GB",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1125863247, 
-      404227469, 
       1360698617, 
       85633159, 
       1360699053, 
-      404434087
+      404434087, 
+      1125863247, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701725,
-    "wof:geomhash": "e1d6bcf9b0c11e5e7245392ae2accb27",
+    "wof:geomhash": "61e7a2b8ebd736c67297f1f5d24b6d98",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454807711,
-    "wof:lastmodified": 1583786862,
+    "wof:lastmodified": 1609902516,
     "wof:name": "HR9 7NY",
     "wof:parent_id": 404434087,
     "wof:placetype": "postalcode",
@@ -55,9 +55,9 @@
   },
   "bbox": [
     -2.536177, 
-    51.909711, 
+    51.909674, 
     -2.536177, 
-    51.909711
+    51.909674
   ],
-  "geometry": {"coordinates":[-2.536177,51.909711],"type":"Point"}
+  "geometry": {"coordinates":[-2.536177,51.909674],"type":"Point"}
 }

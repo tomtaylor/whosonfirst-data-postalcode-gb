@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "uuuu",
-    "edtf:inception": "2018-04-01",
+    "edtf:inception": "2020-09-01",
     "geom:area": 0,
     "geom:bbox": "0.011930,51.568666,0.011930,51.568666",
     "geom:latitude": 51.568666,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      101750367, 
       404227469, 
       85793307, 
       1360698645, 
       1158857287, 
-      85633159
+      85633159, 
+      101750367
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712639959,
-    "wof:lastmodified": 1583797027,
+    "wof:lastmodified": 1609872158,
     "wof:name": "E11 3FH",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

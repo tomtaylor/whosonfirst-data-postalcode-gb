@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.712192,53.457858,-2.712192,53.457858",
-    "geom:latitude": 53.457858,
-    "geom:longitude": -2.712192,
+    "geom:bbox": "-2.712237,53.457840,-2.712237,53.457840",
+    "geom:latitude": 53.45784,
+    "geom:longitude": -2.712237,
     "gp:parent_id": "31466",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698573, 
       85633159, 
       1360698793, 
       101750559, 
-      404227469
+      404227469, 
+      1360698573
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701240,
-    "wof:geomhash": "6985d5d7f17f7ef0570cb3b6ff3a402a",
+    "wof:geomhash": "a680e919a0681d7f028e2c96c2a77a8a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488091027,
-    "wof:lastmodified": 1595728634,
+    "wof:lastmodified": 1609872313,
     "wof:name": "WA9 1HD",
     "wof:parent_id": 101750559,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.712192, 
-    53.457858, 
-    -2.712192, 
-    53.457858
+    -2.712237, 
+    53.45784, 
+    -2.712237, 
+    53.45784
   ],
-  "geometry": {"coordinates":[-2.712192,53.457858],"type":"Point"}
+  "geometry": {"coordinates":[-2.712237,53.45784],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.471774,52.933547,-1.471774,52.933547",
-    "geom:latitude": 52.933547,
-    "geom:longitude": -1.471774,
+    "geom:bbox": "-1.471725,52.933565,-1.471725,52.933565",
+    "geom:latitude": 52.933565,
+    "geom:longitude": -1.471725,
     "gp:parent_id": "18114",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698539, 
       85633159, 
       1360699093, 
       101750489, 
-      404227469
+      404227469, 
+      1360698539
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701493,
-    "wof:geomhash": "1c4f688d3e32f72a724b54c470bc23b3",
+    "wof:geomhash": "3db66e7f0b6c7f641f399ec9e207a729",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454328855,
-    "wof:lastmodified": 1583786620,
+    "wof:lastmodified": 1609883806,
     "wof:name": "DE1 3RF",
     "wof:parent_id": 101750489,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.471774, 
-    52.933547, 
-    -1.471774, 
-    52.933547
+    -1.471725, 
+    52.933565, 
+    -1.471725, 
+    52.933565
   ],
-  "geometry": {"coordinates":[-1.471774,52.933547],"type":"Point"}
+  "geometry": {"coordinates":[-1.471725,52.933565],"type":"Point"}
 }

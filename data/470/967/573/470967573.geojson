@@ -2,7 +2,7 @@
   "id": 470967573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-08-01",
     "edtf:inception": "1988-03-01",
     "geom:area": 0,
     "geom:bbox": "-0.646678,52.025968,-0.646678,52.025968",
@@ -11,7 +11,7 @@
     "gp:parent_id": "39351",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000042",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698533, 
       85633159, 
       1360698913, 
       404439439, 
       1126032115, 
-      404227469, 
-      1360698533
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470967573,
-    "wof:lastmodified": 1583786481,
+    "wof:lastmodified": 1609877459,
     "wof:name": "MK17 8LQ",
     "wof:parent_id": 404439439,
     "wof:placetype": "postalcode",

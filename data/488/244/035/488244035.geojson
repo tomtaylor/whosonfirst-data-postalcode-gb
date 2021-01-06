@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.462741,53.941253,-0.462741,53.941253",
-    "geom:latitude": 53.941253,
-    "geom:longitude": -0.462741,
+    "geom:bbox": "-0.463031,53.940412,-0.463031,53.940412",
+    "geom:latitude": 53.940412,
+    "geom:longitude": -0.463031,
     "gp:parent_id": "39337",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698547, 
-      85633159, 
       1360699001, 
       404429487, 
-      1293029729
+      1293029729, 
+      404227469, 
+      1360698547, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701202,
-    "wof:geomhash": "af2140d879e7da5a2cc3cf4b97b3d774",
+    "wof:geomhash": "b94b3c3655504c5ad5a11c5470685c2a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488244035,
-    "wof:lastmodified": 1583786441,
+    "wof:lastmodified": 1609881946,
     "wof:name": "YO25 9AP",
     "wof:parent_id": 404429487,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.462741, 
-    53.941253, 
-    -0.462741, 
-    53.941253
+    -0.463031, 
+    53.940412, 
+    -0.463031, 
+    53.940412
   ],
-  "geometry": {"coordinates":[-0.462741,53.941253],"type":"Point"}
+  "geometry": {"coordinates":[-0.463031,53.940412],"type":"Point"}
 }

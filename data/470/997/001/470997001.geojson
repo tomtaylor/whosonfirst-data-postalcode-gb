@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.121097,51.530558,-0.121097,51.530558",
-    "geom:latitude": 51.530558,
-    "geom:longitude": -0.121097,
+    "geom:bbox": "-0.121225,51.530596,-0.121225,51.530596",
+    "geom:latitude": 51.530596,
+    "geom:longitude": -0.121225,
     "gp:parent_id": "12695807",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -20,12 +20,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      85790643, 
       1360698645, 
       1158857277, 
       85633159, 
-      101750367, 
-      404227469, 
-      85790643
+      101750367
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701382,
-    "wof:geomhash": "110bc85b6468cf4b26877914b889cd50",
+    "wof:geomhash": "a17098ca65f690d2d572b0e97fea9108",
     "wof:hierarchy": [
       {
         "borough_id": 1158857277,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 470997001,
-    "wof:lastmodified": 1583786520,
+    "wof:lastmodified": 1609879113,
     "wof:name": "N1 9NW",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -55,10 +55,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.121097, 
-    51.530558, 
-    -0.121097, 
-    51.530558
+    -0.121225, 
+    51.530596, 
+    -0.121225, 
+    51.530596
   ],
-  "geometry": {"coordinates":[-0.121097,51.530558],"type":"Point"}
+  "geometry": {"coordinates":[-0.121225,51.530596],"type":"Point"}
 }

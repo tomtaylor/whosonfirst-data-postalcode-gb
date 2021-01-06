@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1997-12-01",
     "geom:area": 0,
-    "geom:bbox": "-2.560978,51.540172,-2.560978,51.540172",
-    "geom:latitude": 51.540172,
-    "geom:longitude": -2.560978,
+    "geom:bbox": "-2.560648,51.540300,-2.560648,51.540300",
+    "geom:latitude": 51.5403,
+    "geom:longitude": -2.560648,
     "gp:parent_id": "13559",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698895, 
+      404450247, 
+      1125770613, 
       404227469, 
       85788815, 
       1360698553, 
-      85633159, 
-      1360698895, 
-      404450247, 
-      1125770613
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701480,
-    "wof:geomhash": "fd9e9a14f282b7d57e6507b4fdc5ffec",
+    "wof:geomhash": "2f84b331ea3c0e51430153dbfed16737",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 438295235,
-    "wof:lastmodified": 1583786619,
+    "wof:lastmodified": 1609884253,
     "wof:name": "BS32 9DA",
     "wof:parent_id": 404450247,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.560978, 
-    51.540172, 
-    -2.560978, 
-    51.540172
+    -2.560648, 
+    51.5403, 
+    -2.560648, 
+    51.5403
   ],
-  "geometry": {"coordinates":[-2.560978,51.540172],"type":"Point"}
+  "geometry": {"coordinates":[-2.560648,51.5403],"type":"Point"}
 }

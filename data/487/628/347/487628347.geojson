@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1994-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.386941,50.993360,-1.386941,50.993360",
-    "geom:latitude": 50.99336,
-    "geom:longitude": -1.386941,
+    "geom:bbox": "-1.387101,50.993163,-1.387101,50.993163",
+    "geom:latitude": 50.993163,
+    "geom:longitude": -1.387101,
     "gp:parent_id": "15600",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698557, 
-      85633159, 
       1360698827, 
       404453323, 
-      1327163441
+      1327163441, 
+      404227469, 
+      1360698557, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701093,
-    "wof:geomhash": "dfb670d58cb3fc5d1a0042f6d0d8717c",
+    "wof:geomhash": "af130ea70c98762abba891e245af269d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487628347,
-    "wof:lastmodified": 1583786188,
+    "wof:lastmodified": 1609869720,
     "wof:name": "SO53 1HF",
     "wof:parent_id": 101750347,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.386941, 
-    50.99336, 
-    -1.386941, 
-    50.99336
+    -1.387101, 
+    50.993163, 
+    -1.387101, 
+    50.993163
   ],
-  "geometry": {"coordinates":[-1.386941,50.99336],"type":"Point"}
+  "geometry": {"coordinates":[-1.387101,50.993163],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.067311,53.535935,-3.067311,53.535935",
-    "geom:latitude": 53.535935,
-    "geom:longitude": -3.067311,
+    "geom:bbox": "-3.063820,53.534598,-3.063820,53.534598",
+    "geom:latitude": 53.534598,
+    "geom:longitude": -3.06382,
     "gp:parent_id": "26734",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698573, 
-      85633159, 
       1360698771, 
       404437099, 
-      1293812707
+      1293812707, 
+      404227469, 
+      1360698573, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701763,
-    "wof:geomhash": "e13338d88f2e0b445c7ef67adc409c4d",
+    "wof:geomhash": "240a5fc2e638617d7fbef343c3cc1d2a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454966395,
-    "wof:lastmodified": 1583786899,
+    "wof:lastmodified": 1609905415,
     "wof:name": "L38 7JD",
     "wof:parent_id": 404437099,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.067311, 
-    53.535935, 
-    -3.067311, 
-    53.535935
+    -3.06382, 
+    53.534598, 
+    -3.06382, 
+    53.534598
   ],
-  "geometry": {"coordinates":[-3.067311,53.535935],"type":"Point"}
+  "geometry": {"coordinates":[-3.06382,53.534598],"type":"Point"}
 }

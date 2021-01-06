@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.607368,54.822942,-1.607368,54.822942",
-    "geom:latitude": 54.822942,
-    "geom:longitude": -1.607368,
+    "geom:bbox": "-1.606914,54.823246,-1.606914,54.823246",
+    "geom:latitude": 54.823246,
+    "geom:longitude": -1.606914,
     "gp:parent_id": "29860",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      1360757921, 
-      404227469, 
       1360698621, 
       85633159, 
       1360699055, 
-      404442667
+      404442667, 
+      1360757921, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701518,
-    "wof:geomhash": "3c90137324b2dcf428818944d3b73a98",
+    "wof:geomhash": "1c666bc67c47b9c2c7d4e3e807338b8e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454367885,
-    "wof:lastmodified": 1583786651,
+    "wof:lastmodified": 1609886015,
     "wof:name": "DH2 3PP",
     "wof:parent_id": 404442667,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.607368, 
-    54.822942, 
-    -1.607368, 
-    54.822942
+    -1.606914, 
+    54.823246, 
+    -1.606914, 
+    54.823246
   ],
-  "geometry": {"coordinates":[-1.607368,54.822942],"type":"Point"}
+  "geometry": {"coordinates":[-1.606914,54.823246],"type":"Point"}
 }

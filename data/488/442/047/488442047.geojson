@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.924934,51.805165,-3.924934,51.805165",
-    "geom:latitude": 51.805165,
-    "geom:longitude": -3.924934,
+    "geom:bbox": "-3.924373,51.805172,-3.924373,51.805172",
+    "geom:latitude": 51.805172,
+    "geom:longitude": -3.924373,
     "gp:parent_id": "20847",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360711743, 
-      404227475, 
       1360698639, 
       85633159, 
       1360698785, 
-      404435969
+      404435969, 
+      1360711743, 
+      404227475
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701459,
-    "wof:geomhash": "a65f3ee9c7c5f64f774c8c41be2cf1cc",
+    "wof:geomhash": "5037063a7729bfb143818b6a380ac4aa",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488442047,
-    "wof:lastmodified": 1583786664,
+    "wof:lastmodified": 1609891820,
     "wof:name": "SA18 1DZ",
     "wof:parent_id": 101852971,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.924934, 
-    51.805165, 
-    -3.924934, 
-    51.805165
+    -3.924373, 
+    51.805172, 
+    -3.924373, 
+    51.805172
   ],
-  "geometry": {"coordinates":[-3.924934,51.805165],"type":"Point"}
+  "geometry": {"coordinates":[-3.924373,51.805172],"type":"Point"}
 }

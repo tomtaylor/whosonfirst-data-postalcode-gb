@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.523588,54.738151,-1.523588,54.738151",
-    "geom:latitude": 54.738151,
-    "geom:longitude": -1.523588,
+    "geom:bbox": "-1.523697,54.738134,-1.523697,54.738134",
+    "geom:latitude": 54.738134,
+    "geom:longitude": -1.523697,
     "gp:parent_id": "13419",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
+      1360755799, 
+      404227469, 
       1360698621, 
       85633159, 
       1360699055, 
-      404439919, 
-      1360755799, 
-      404227469
+      404439919
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701523,
-    "wof:geomhash": "68c827fc22a17c3f7a88ea9089f86783",
+    "wof:geomhash": "02722228a02a2476c384bce7adc015cf",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454374751,
-    "wof:lastmodified": 1583786658,
+    "wof:lastmodified": 1609886416,
     "wof:name": "DH6 5EU",
     "wof:parent_id": 404439919,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.523588, 
-    54.738151, 
-    -1.523588, 
-    54.738151
+    -1.523697, 
+    54.738134, 
+    -1.523697, 
+    54.738134
   ],
-  "geometry": {"coordinates":[-1.523588,54.738151],"type":"Point"}
+  "geometry": {"coordinates":[-1.523697,54.738134],"type":"Point"}
 }

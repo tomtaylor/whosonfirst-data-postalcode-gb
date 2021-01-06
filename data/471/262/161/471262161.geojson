@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.178822,51.550865,-0.178822,51.550865",
-    "geom:latitude": 51.550865,
-    "geom:longitude": -0.178822,
+    "geom:bbox": "-0.178868,51.550803,-0.178868,51.550803",
+    "geom:latitude": 51.550803,
+    "geom:longitude": -0.178868,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      85787869, 
       1360698645, 
       1158857277, 
       85633159, 
       101750367, 
-      404227469
+      404227469, 
+      85787869
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701450,
-    "wof:geomhash": "79bd31e5de840b57ddcf2ed855697bb6",
+    "wof:geomhash": "388ff345a03c28729aacec2799e15176",
     "wof:hierarchy": [
       {
         "borough_id": 1158857277,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471262161,
-    "wof:lastmodified": 1583786600,
+    "wof:lastmodified": 1609883218,
     "wof:name": "NW3 5TN",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.178822, 
-    51.550865, 
-    -0.178822, 
-    51.550865
+    -0.178868, 
+    51.550803, 
+    -0.178868, 
+    51.550803
   ],
-  "geometry": {"coordinates":[-0.178822,51.550865],"type":"Point"}
+  "geometry": {"coordinates":[-0.178868,51.550803],"type":"Point"}
 }

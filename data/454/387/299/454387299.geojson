@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.713517,54.411323,-1.713517,54.411323",
-    "geom:latitude": 54.411323,
-    "geom:longitude": -1.713517,
+    "geom:bbox": "-1.712917,54.411250,-1.712917,54.411250",
+    "geom:latitude": 54.41125,
+    "geom:longitude": -1.712917,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404435427, 
-      101873301, 
       404227469, 
       1360698619, 
       85633159, 
-      1360698753
+      1360698753, 
+      404435427, 
+      101873301
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701535,
-    "wof:geomhash": "39f01743580fbf0cc56de53e0c837999",
+    "wof:geomhash": "d3705ef0a60c9633fca4d2320b3fcc48",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454387299,
-    "wof:lastmodified": 1583786662,
+    "wof:lastmodified": 1609886976,
     "wof:name": "DL10 7EB",
     "wof:parent_id": 404435427,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.713517, 
-    54.411323, 
-    -1.713517, 
-    54.411323
+    -1.712917, 
+    54.41125, 
+    -1.712917, 
+    54.41125
   ],
-  "geometry": {"coordinates":[-1.713517,54.411323],"type":"Point"}
+  "geometry": {"coordinates":[-1.712917,54.41125],"type":"Point"}
 }

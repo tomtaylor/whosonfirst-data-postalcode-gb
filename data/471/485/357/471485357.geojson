@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.070508,50.903441,-1.070508,50.903441",
-    "geom:latitude": 50.903441,
-    "geom:longitude": -1.070508,
+    "geom:bbox": "-1.070115,50.903177,-1.070115,50.903177",
+    "geom:latitude": 50.903177,
+    "geom:longitude": -1.070115,
     "gp:parent_id": "18081",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
       1360698557, 
       85633159, 
       1360698827, 
       404442327, 
-      1125963703, 
-      404227469
+      1125963703
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701640,
-    "wof:geomhash": "7f93cc687219d25e6195ee0e46024cc2",
+    "wof:geomhash": "636cef78642af3e2591d776e5c359681",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471485357,
-    "wof:lastmodified": 1583786764,
+    "wof:lastmodified": 1609893820,
     "wof:name": "PO7 6LA",
     "wof:parent_id": 404442327,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.070508, 
-    50.903441, 
-    -1.070508, 
-    50.903441
+    -1.070115, 
+    50.903177, 
+    -1.070115, 
+    50.903177
   ],
-  "geometry": {"coordinates":[-1.070508,50.903441],"type":"Point"}
+  "geometry": {"coordinates":[-1.070115,50.903177],"type":"Point"}
 }

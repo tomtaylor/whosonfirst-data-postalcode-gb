@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.708366,52.193140,-1.708366,52.193140",
-    "geom:latitude": 52.19314,
-    "geom:longitude": -1.708366,
+    "geom:bbox": "-1.708399,52.193369,-1.708399,52.193369",
+    "geom:latitude": 52.193369,
+    "geom:longitude": -1.708399,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698603, 
-      85633159, 
       1360698891, 
       404442383, 
       101853071, 
-      404227469
+      404227469, 
+      1360698603, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701434,
-    "wof:geomhash": "9afee75b0c56be8447bc72d68dfb5c60",
+    "wof:geomhash": "dbb87aeb66898aadd4610d9a59d6e268",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454274155,
-    "wof:lastmodified": 1583786567,
+    "wof:lastmodified": 1609881096,
     "wof:name": "CV37 6QB",
     "wof:parent_id": 101853071,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.708366, 
-    52.19314, 
-    -1.708366, 
-    52.19314
+    -1.708399, 
+    52.193369, 
+    -1.708399, 
+    52.193369
   ],
-  "geometry": {"coordinates":[-1.708366,52.19314],"type":"Point"}
+  "geometry": {"coordinates":[-1.708399,52.193369],"type":"Point"}
 }

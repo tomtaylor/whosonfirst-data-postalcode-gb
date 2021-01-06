@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1985-04-01",
     "geom:area": 0,
-    "geom:bbox": "-1.324284,54.561855,-1.324284,54.561855",
-    "geom:latitude": 54.561855,
-    "geom:longitude": -1.324284,
+    "geom:bbox": "-1.324170,54.562151,-1.324170,54.562151",
+    "geom:latitude": 54.562151,
+    "geom:longitude": -1.32417,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,11 +18,11 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
+      1360699087, 
       101750603, 
       404227469, 
       1360698621, 
-      85633159, 
-      1360699087
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -30,7 +30,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701278,
-    "wof:geomhash": "dd9f0810f35cef1063545d7d03ff3357",
+    "wof:geomhash": "8612d189ba7aabd69a9231de8a02dfde",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -41,7 +41,7 @@
       }
     ],
     "wof:id": 487944047,
-    "wof:lastmodified": 1583786348,
+    "wof:lastmodified": 1609887918,
     "wof:name": "TS18 4BT",
     "wof:parent_id": 101750603,
     "wof:placetype": "postalcode",
@@ -51,10 +51,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.324284, 
-    54.561855, 
-    -1.324284, 
-    54.561855
+    -1.32417, 
+    54.562151, 
+    -1.32417, 
+    54.562151
   ],
-  "geometry": {"coordinates":[-1.324284,54.561855],"type":"Point"}
+  "geometry": {"coordinates":[-1.32417,54.562151],"type":"Point"}
 }

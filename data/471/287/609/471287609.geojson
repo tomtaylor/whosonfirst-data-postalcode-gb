@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.097147,53.643574,-2.097147,53.643574",
-    "geom:latitude": 53.643574,
-    "geom:longitude": -2.097147,
+    "geom:bbox": "-2.097011,53.643583,-2.097011,53.643583",
+    "geom:latitude": 53.643583,
+    "geom:longitude": -2.097011,
     "gp:parent_id": "26686",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698555, 
       85633159, 
       1360699063, 
       101750565, 
-      404227469
+      404227469, 
+      1360698555
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701469,
-    "wof:geomhash": "1ba28293ede7cc53e838c0e2028d76a1",
+    "wof:geomhash": "0b8405577bdae690ec239c8bd9c19ace",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 471287609,
-    "wof:lastmodified": 1583786626,
+    "wof:lastmodified": 1609884734,
     "wof:name": "OL15 8AB",
     "wof:parent_id": 101750565,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.097147, 
-    53.643574, 
-    -2.097147, 
-    53.643574
+    -2.097011, 
+    53.643583, 
+    -2.097011, 
+    53.643583
   ],
-  "geometry": {"coordinates":[-2.097147,53.643574],"type":"Point"}
+  "geometry": {"coordinates":[-2.097011,53.643583],"type":"Point"}
 }

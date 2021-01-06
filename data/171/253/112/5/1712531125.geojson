@@ -2,15 +2,15 @@
   "id": 1712531125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2020-02-01",
-    "edtf:inception": "2019-12-01",
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-10-01",
     "geom:area": 0,
-    "geom:bbox": "-1.255528,50.892176,-1.255528,50.892176",
-    "geom:latitude": 50.892176,
-    "geom:longitude": -1.255528,
+    "geom:bbox": "-1.255192,50.894521,-1.255192,50.894521",
+    "geom:latitude": 50.894521,
+    "geom:longitude": -1.255192,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000014",
     "os:district_code": "E07000094",
@@ -19,8 +19,8 @@
     "src:geom": "os",
     "wof:belongsto": [
       1360698827, 
-      404452151, 
-      1125994031, 
+      404440525, 
+      1125797209, 
       404227469, 
       1360698557, 
       85633159
@@ -28,19 +28,19 @@
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583792179,
-    "wof:geomhash": "73401e5f9da31d4bc9efb2537d9ac6ad",
+    "wof:geomhash": "695cfc0de4f6dfea3cc34aacd2e30ff6",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360698827,
-        "localadmin_id": 404452151,
-        "locality_id": 1125994031,
+        "localadmin_id": 404440525,
+        "locality_id": 1125797209,
         "macroregion_id": 404227469,
         "region_id": 1360698557
       }
     ],
     "wof:id": 1712531125,
-    "wof:lastmodified": 1595710936,
+    "wof:lastmodified": 1609870005,
     "wof:name": "PO15 7PF",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.255528, 
-    50.892176, 
-    -1.255528, 
-    50.892176
+    -1.255192, 
+    50.894521, 
+    -1.255192, 
+    50.894521
   ],
-  "geometry": {"coordinates":[-1.255528,50.892176],"type":"Point"}
+  "geometry": {"coordinates":[-1.255192,50.894521],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.005611,51.103694,-0.005611,51.103694",
-    "geom:latitude": 51.103694,
-    "geom:longitude": -0.005611,
+    "geom:bbox": "-0.007195,51.102399,-0.007195,51.102399",
+    "geom:latitude": 51.102399,
+    "geom:longitude": -0.007195,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698607, 
       85633159, 
       1360698757, 
       404434149, 
       101853483, 
-      404227469
+      404227469, 
+      1360698607
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701678,
-    "wof:geomhash": "70210bd881f9d87fc11767973e10fea3",
+    "wof:geomhash": "778a449be2118eefe4702e7cf8e71dbd",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471591951,
-    "wof:lastmodified": 1583786829,
+    "wof:lastmodified": 1609898031,
     "wof:name": "RH19 4NL",
     "wof:parent_id": 404434149,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.005611, 
-    51.103694, 
-    -0.005611, 
-    51.103694
+    -0.007195, 
+    51.102399, 
+    -0.007195, 
+    51.102399
   ],
-  "geometry": {"coordinates":[-0.005611,51.103694],"type":"Point"}
+  "geometry": {"coordinates":[-0.007195,51.102399],"type":"Point"}
 }

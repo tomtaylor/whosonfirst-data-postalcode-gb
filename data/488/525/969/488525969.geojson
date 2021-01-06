@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.303692,55.870980,-4.303692,55.870980",
-    "geom:latitude": 55.87098,
-    "geom:longitude": -4.303692,
+    "geom:bbox": "-4.303421,55.870962,-4.303421,55.870962",
+    "geom:latitude": 55.870962,
+    "geom:longitude": -4.303421,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      404227471, 
       85792659, 
       1360698707, 
       85633159, 
       1360698797, 
       404430153, 
-      1175612707, 
-      404227471
+      1175612707
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701537,
-    "wof:geomhash": "94dfaa3963cf73bbb7433211cceb4066",
+    "wof:geomhash": "b28ebf4112782b7e17711c32d1a6e030",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 488525969,
-    "wof:lastmodified": 1583786738,
+    "wof:lastmodified": 1609895413,
     "wof:name": "G11 6TU",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.303692, 
-    55.87098, 
-    -4.303692, 
-    55.87098
+    -4.303421, 
+    55.870962, 
+    -4.303421, 
+    55.870962
   ],
-  "geometry": {"coordinates":[-4.303692,55.87098],"type":"Point"}
+  "geometry": {"coordinates":[-4.303421,55.870962],"type":"Point"}
 }

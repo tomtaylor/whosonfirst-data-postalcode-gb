@@ -2,25 +2,25 @@
   "id": 1161007720,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "1999-12-01",
-    "edtf:inception": "1995-12-01",
+    "edtf:cessation": "2020-09-01",
+    "edtf:inception": "2020-08-01",
     "geom:area": 0,
-    "geom:bbox": "0.926409,52.682769,0.926409,52.682769",
-    "geom:latitude": 52.682769,
-    "geom:longitude": 0.926409,
+    "geom:bbox": "0.789558,52.677264,0.789558,52.677264",
+    "geom:latitude": 52.677264,
+    "geom:longitude": 0.789558,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000020",
     "os:district_code": "E07000143",
-    "os:positional_quality_indicator": "6",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
       1360698955, 
-      404433919, 
-      1126032509, 
+      404437057, 
+      1360759207, 
       404227469, 
       1360698575, 
       85633159
@@ -28,19 +28,19 @@
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583799767,
-    "wof:geomhash": "77cdd62b43454db810ab7bb6edb16766",
+    "wof:geomhash": "907df8fe7564d3be5cc1acb39aff6fb2",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360698955,
-        "localadmin_id": 404433919,
-        "locality_id": 1126032509,
+        "localadmin_id": 404437057,
+        "locality_id": 1360759207,
         "macroregion_id": 404227469,
         "region_id": 1360698575
       }
     ],
     "wof:id": 1161007720,
-    "wof:lastmodified": 1583799767,
+    "wof:lastmodified": 1609874396,
     "wof:name": "NR19 2SH",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.926409, 
-    52.682769, 
-    0.926409, 
-    52.682769
+    0.789558, 
+    52.677264, 
+    0.789558, 
+    52.677264
   ],
-  "geometry": {"coordinates":[0.926409,52.682769],"type":"Point"}
+  "geometry": {"coordinates":[0.789558,52.677264],"type":"Point"}
 }

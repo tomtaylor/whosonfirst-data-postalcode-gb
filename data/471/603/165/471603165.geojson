@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "0.183045,51.576884,0.183045,51.576884",
-    "geom:latitude": 51.576884,
-    "geom:longitude": 0.183045,
+    "geom:bbox": "0.183268,51.577015,0.183268,51.577015",
+    "geom:latitude": 51.577015,
+    "geom:longitude": 0.183268,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698645, 
       1158857313, 
       85633159, 
-      101750367
+      101750367, 
+      404227469, 
+      1360698645
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701679,
-    "wof:geomhash": "59043a6d95ead9154d87aa86f2cae667",
+    "wof:geomhash": "ba55cb2248f64059e08ec8d9cf96a62b",
     "wof:hierarchy": [
       {
         "borough_id": 1158857313,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 471603165,
-    "wof:lastmodified": 1583786834,
+    "wof:lastmodified": 1609898431,
     "wof:name": "RM1 3LD",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.183045, 
-    51.576884, 
-    0.183045, 
-    51.576884
+    0.183268, 
+    51.577015, 
+    0.183268, 
+    51.577015
   ],
-  "geometry": {"coordinates":[0.183045,51.576884],"type":"Point"}
+  "geometry": {"coordinates":[0.183268,51.577015],"type":"Point"}
 }

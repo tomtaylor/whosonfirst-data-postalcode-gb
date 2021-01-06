@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1996-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.160688,57.020708,-2.160688,57.020708",
-    "geom:latitude": 57.020708,
-    "geom:longitude": -2.160688,
+    "geom:bbox": "-2.160885,57.020402,-2.160885,57.020402",
+    "geom:latitude": 57.020402,
+    "geom:longitude": -2.160885,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,11 +18,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227471, 
-      1360698711, 
       85633159, 
       1360699031, 
-      404448747
+      404448747, 
+      404227471, 
+      1360698711
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -30,7 +30,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701565,
-    "wof:geomhash": "e9fd2482119b7f1f32240400cf935d39",
+    "wof:geomhash": "25cb21c1272dfab60c2ad3949689f1d6",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -41,7 +41,7 @@
       }
     ],
     "wof:id": 488546151,
-    "wof:lastmodified": 1583786759,
+    "wof:lastmodified": 1609896096,
     "wof:name": "AB39 3XT",
     "wof:parent_id": 404448747,
     "wof:placetype": "postalcode",
@@ -51,10 +51,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.160688, 
-    57.020708, 
-    -2.160688, 
-    57.020708
+    -2.160885, 
+    57.020402, 
+    -2.160885, 
+    57.020402
   ],
-  "geometry": {"coordinates":[-2.160688,57.020708],"type":"Point"}
+  "geometry": {"coordinates":[-2.160885,57.020402],"type":"Point"}
 }

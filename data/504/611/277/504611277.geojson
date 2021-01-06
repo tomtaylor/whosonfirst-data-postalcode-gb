@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-5.029542,51.713198,-5.029542,51.713198",
-    "geom:latitude": 51.713198,
-    "geom:longitude": -5.029542,
+    "geom:bbox": "-5.029652,51.713227,-5.029652,51.713227",
+    "geom:latitude": 51.713227,
+    "geom:longitude": -5.029652,
     "gp:parent_id": "12696129",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698639, 
       85633159, 
       1360698843, 
       404431005, 
       101852993, 
-      404227475, 
-      1360698639
+      404227475
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701484,
-    "wof:geomhash": "69fdcb9ef54377d6c06114e73e97ece6",
+    "wof:geomhash": "b3f31c0d5ae53cdba4638c64e4f4ca7d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504611277,
-    "wof:lastmodified": 1583786630,
+    "wof:lastmodified": 1609882218,
     "wof:name": "SA73 2LP",
     "wof:parent_id": 101852993,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -5.029542, 
-    51.713198, 
-    -5.029542, 
-    51.713198
+    -5.029652, 
+    51.713227, 
+    -5.029652, 
+    51.713227
   ],
-  "geometry": {"coordinates":[-5.029542,51.713198],"type":"Point"}
+  "geometry": {"coordinates":[-5.029652,51.713227],"type":"Point"}
 }

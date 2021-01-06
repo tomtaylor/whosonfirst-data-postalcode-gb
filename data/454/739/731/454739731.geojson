@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.781537,53.647063,-1.781537,53.647063",
-    "geom:latitude": 53.647063,
-    "geom:longitude": -1.781537,
+    "geom:bbox": "-1.781719,53.647045,-1.781719,53.647045",
+    "geom:latitude": 53.647045,
+    "geom:longitude": -1.781719,
     "gp:parent_id": "24083",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698609, 
-      85633159, 
       1360698917, 
       101750573, 
-      404227469
+      404227469, 
+      1360698609, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701707,
-    "wof:geomhash": "fd51bcec25801a3a5f43507c3742fc04",
+    "wof:geomhash": "2d90dc1399caa523671936497eeb4c53",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454739731,
-    "wof:lastmodified": 1583786847,
+    "wof:lastmodified": 1609900668,
     "wof:name": "HD1 1QS",
     "wof:parent_id": 101750573,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.781537, 
-    53.647063, 
-    -1.781537, 
-    53.647063
+    -1.781719, 
+    53.647045, 
+    -1.781719, 
+    53.647045
   ],
-  "geometry": {"coordinates":[-1.781537,53.647063],"type":"Point"}
+  "geometry": {"coordinates":[-1.781719,53.647045],"type":"Point"}
 }

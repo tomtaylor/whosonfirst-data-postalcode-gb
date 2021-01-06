@@ -2,7 +2,7 @@
   "id": 470811821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-05-01",
     "edtf:inception": "1986-04-01",
     "geom:area": 0,
     "geom:bbox": "-1.594817,53.833065,-1.594817,53.833065",
@@ -11,7 +11,7 @@
     "gp:parent_id": "26042",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E08000035",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698609, 
+      85633159, 
       1360698749, 
       101750579, 
       404227469, 
-      85791419, 
-      1360698609, 
-      85633159
+      85791419
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470811821,
-    "wof:lastmodified": 1583786172,
+    "wof:lastmodified": 1609868648,
     "wof:name": "LS16 5JN",
     "wof:parent_id": 101750579,
     "wof:placetype": "postalcode",

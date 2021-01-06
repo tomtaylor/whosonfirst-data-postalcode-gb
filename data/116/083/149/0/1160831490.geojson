@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "1984-12-01",
+    "edtf:deprecated": "2021-01-05",
     "edtf:inception": "1983-01-01",
     "geom:area": 0,
     "geom:bbox": "-2.978134,51.566992,-2.978134,51.566992",
@@ -18,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227475, 
-      1360698641, 
-      85633159, 
       1360698735, 
       404439851, 
-      1125877619
+      1125877619, 
+      404227475, 
+      1360698641, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +41,7 @@
       }
     ],
     "wof:id": 1160831490,
-    "wof:lastmodified": 1583791959,
+    "wof:lastmodified": 1609870482,
     "wof:name": "NPT 0YJ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2000-06-01",
     "geom:area": 0,
-    "geom:bbox": "0.033239,52.418910,0.033239,52.418910",
-    "geom:latitude": 52.41891,
-    "geom:longitude": 0.033239,
+    "geom:bbox": "0.023830,52.418477,0.023830,52.418477",
+    "geom:latitude": 52.418477,
+    "geom:longitude": 0.02383,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698845, 
-      404435289, 
-      101854891, 
       404227469, 
       1360698535, 
-      85633159
+      85633159, 
+      1360698845, 
+      404435289, 
+      101854891
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701542,
-    "wof:geomhash": "32f0064f7da766e740e637d79a6c1a09",
+    "wof:geomhash": "fd9231b3d632de81d9de9de377188718",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471378237,
-    "wof:lastmodified": 1583786695,
+    "wof:lastmodified": 1609889397,
     "wof:name": "PE28 3DR",
     "wof:parent_id": 404435289,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.033239, 
-    52.41891, 
-    0.033239, 
-    52.41891
+    0.02383, 
+    52.418477, 
+    0.02383, 
+    52.418477
   ],
-  "geometry": {"coordinates":[0.033239,52.41891],"type":"Point"}
+  "geometry": {"coordinates":[0.02383,52.418477],"type":"Point"}
 }

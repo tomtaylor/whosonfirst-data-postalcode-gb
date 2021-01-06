@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-04-01",
     "geom:area": 0,
-    "geom:bbox": "-4.036057,57.527043,-4.036057,57.527043",
-    "geom:latitude": 57.527043,
-    "geom:longitude": -4.036057,
+    "geom:bbox": "-4.035814,57.527190,-4.035814,57.527190",
+    "geom:latitude": 57.52719,
+    "geom:longitude": -4.035814,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699045, 
-      404436073, 
       404227471, 
       1360698661, 
-      85633159
+      85633159, 
+      1360699045, 
+      404436073
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583788382,
-    "wof:geomhash": "d6241ccf89910defee78e6b117f65009",
+    "wof:geomhash": "6358d83855aea03eb96e6c4e78989634",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1160752742,
-    "wof:lastmodified": 1583788382,
+    "wof:lastmodified": 1609869304,
     "wof:name": "IV2 8AN",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.036057, 
-    57.527043, 
-    -4.036057, 
-    57.527043
+    -4.035814, 
+    57.52719, 
+    -4.035814, 
+    57.52719
   ],
-  "geometry": {"coordinates":[-4.036057,57.527043],"type":"Point"}
+  "geometry": {"coordinates":[-4.035814,57.52719],"type":"Point"}
 }

@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.343841,53.382850,-2.343841,53.382850",
-    "geom:latitude": 53.38285,
+    "geom:bbox": "-2.343841,53.382814,-2.343841,53.382814",
+    "geom:latitude": 53.382814,
     "geom:longitude": -2.343841,
     "gp:parent_id": "22154",
     "iso:country": "GB",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698555, 
-      85633159, 
       1360698935, 
       1360817437, 
-      1175612695
+      1175612695, 
+      404227469, 
+      1360698555, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701226,
-    "wof:geomhash": "e44b15a357bf3a809f075715fd5536c8",
+    "wof:geomhash": "d73760947e0420bc9759d45d191d60a4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488068303,
-    "wof:lastmodified": 1595728172,
+    "wof:lastmodified": 1609870972,
     "wof:name": "WA15 9RH",
     "wof:parent_id": 101750537,
     "wof:placetype": "postalcode",
@@ -55,9 +55,9 @@
   },
   "bbox": [
     -2.343841, 
-    53.38285, 
+    53.382814, 
     -2.343841, 
-    53.38285
+    53.382814
   ],
-  "geometry": {"coordinates":[-2.343841,53.38285],"type":"Point"}
+  "geometry": {"coordinates":[-2.343841,53.382814],"type":"Point"}
 }

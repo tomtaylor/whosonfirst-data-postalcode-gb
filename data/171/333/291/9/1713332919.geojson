@@ -5,30 +5,30 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "1.246095,52.691777,1.246095,52.691777",
-    "geom:latitude": 52.691777,
-    "geom:longitude": 1.246095,
+    "geom:bbox": "1.246029,52.692274,1.246029,52.692274",
+    "geom:latitude": 52.692274,
+    "geom:longitude": 1.246029,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000020",
     "os:district_code": "E07000144",
-    "os:positional_quality_indicator": "5",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698955, 
       404450025, 
       1125844535, 
       404227469, 
-      1360698575
+      1360698575, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735724,
-    "wof:geomhash": "5f5af9112537074e677a83bcda4fcf0b",
+    "wof:geomhash": "99d7b52cdf6d943323d66a4b41184f07",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1713332919,
-    "wof:lastmodified": 1595753527,
+    "wof:lastmodified": 1609875621,
     "wof:name": "NR10 3GU",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.246095, 
-    52.691777, 
-    1.246095, 
-    52.691777
+    1.246029, 
+    52.692274, 
+    1.246029, 
+    52.692274
   ],
-  "geometry": {"coordinates":[1.246095,52.691777],"type":"Point"}
+  "geometry": {"coordinates":[1.246029,52.692274],"type":"Point"}
 }

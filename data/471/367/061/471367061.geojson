@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.140276,52.892465,-0.140276,52.892465",
-    "geom:latitude": 52.892465,
-    "geom:longitude": -0.140276,
+    "geom:bbox": "-0.141180,52.892191,-0.141180,52.892191",
+    "geom:latitude": 52.892191,
+    "geom:longitude": -0.14118,
     "gp:parent_id": "40475",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698571, 
-      85633159, 
-      1360699067, 
       404445167, 
       1243589285, 
-      404227469
+      404227469, 
+      1360698571, 
+      85633159, 
+      1360699067
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701532,
-    "wof:geomhash": "49e6d3313621421fdb89009778889333",
+    "wof:geomhash": "d528556cd51ede4f5f1e7cc96bf1acea",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471367061,
-    "wof:lastmodified": 1583786685,
+    "wof:lastmodified": 1609888429,
     "wof:name": "PE20 2QB",
     "wof:parent_id": 404445167,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.140276, 
-    52.892465, 
-    -0.140276, 
-    52.892465
+    -0.14118, 
+    52.892191, 
+    -0.14118, 
+    52.892191
   ],
-  "geometry": {"coordinates":[-0.140276,52.892465],"type":"Point"}
+  "geometry": {"coordinates":[-0.14118,52.892191],"type":"Point"}
 }

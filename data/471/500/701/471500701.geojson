@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2001-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.755357,53.651161,-2.755357,53.651161",
-    "geom:latitude": 53.651161,
-    "geom:longitude": -2.755357,
+    "geom:bbox": "-2.754946,53.651874,-2.754946,53.651874",
+    "geom:latitude": 53.651874,
+    "geom:longitude": -2.754946,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1210045369, 
-      404227469, 
       1360698567, 
       85633159, 
       1360698817, 
-      404442793
+      404442793, 
+      1210045369, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701648,
-    "wof:geomhash": "3205f5b32effcb20705e4aac7c382f7d",
+    "wof:geomhash": "0bc0f10ae0a646f38e18a0eb4291c17c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471500701,
-    "wof:lastmodified": 1595722917,
+    "wof:lastmodified": 1609894210,
     "wof:name": "PR26 9HE",
     "wof:parent_id": 404442793,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.755357, 
-    53.651161, 
-    -2.755357, 
-    53.651161
+    -2.754946, 
+    53.651874, 
+    -2.754946, 
+    53.651874
   ],
-  "geometry": {"coordinates":[-2.755357,53.651161],"type":"Point"}
+  "geometry": {"coordinates":[-2.754946,53.651874],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "-3.575157,55.856111,-3.575157,55.856111",
-    "geom:latitude": 55.856111,
-    "geom:longitude": -3.575157,
+    "geom:bbox": "-3.575100,55.855888,-3.575100,55.855888",
+    "geom:latitude": 55.855888,
+    "geom:longitude": -3.5751,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699027, 
       404447005, 
       404227471, 
-      1360698679
+      1360698679, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735766,
-    "wof:geomhash": "538bb9404ca0c99d8884478fa7add679",
+    "wof:geomhash": "5665596e90cc62eb98d14f63d7e23f07",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1713333803,
-    "wof:lastmodified": 1595753551,
+    "wof:lastmodified": 1609875702,
     "wof:name": "EH55 8RZ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.575157, 
-    55.856111, 
-    -3.575157, 
-    55.856111
+    -3.5751, 
+    55.855888, 
+    -3.5751, 
+    55.855888
   ],
-  "geometry": {"coordinates":[-3.575157,55.856111],"type":"Point"}
+  "geometry": {"coordinates":[-3.5751,55.855888],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.763391,51.249770,-0.763391,51.249770",
-    "geom:latitude": 51.24977,
-    "geom:longitude": -0.763391,
+    "geom:bbox": "-0.763362,51.249788,-0.763362,51.249788",
+    "geom:latitude": 51.249788,
+    "geom:longitude": -0.763362,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,11 +18,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698827, 
       101750357, 
       404227469, 
-      1360698557
+      1360698557, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -30,7 +30,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701684,
-    "wof:geomhash": "09d8cf663d163079aeee4d91ffa9f7db",
+    "wof:geomhash": "c114101df510aa3f65a50e8d5b59b0d4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -41,7 +41,7 @@
       }
     ],
     "wof:id": 454673157,
-    "wof:lastmodified": 1583786825,
+    "wof:lastmodified": 1609899299,
     "wof:name": "GU11 1BY",
     "wof:parent_id": 101750349,
     "wof:placetype": "postalcode",
@@ -51,10 +51,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.763391, 
-    51.24977, 
-    -0.763391, 
-    51.24977
+    -0.763362, 
+    51.249788, 
+    -0.763362, 
+    51.249788
   ],
-  "geometry": {"coordinates":[-0.763391,51.24977],"type":"Point"}
+  "geometry": {"coordinates":[-0.763362,51.249788],"type":"Point"}
 }

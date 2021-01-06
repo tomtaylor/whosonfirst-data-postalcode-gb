@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.201904,50.966737,-2.201904,50.966737",
-    "geom:latitude": 50.966737,
-    "geom:longitude": -2.201904,
+    "geom:bbox": "-2.199862,50.968845,-2.199862,50.968845",
+    "geom:latitude": 50.968845,
+    "geom:longitude": -2.199862,
     "gp:parent_id": "38422",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698545, 
-      85633159, 
-      1360698745, 
       404451381, 
       1125800333, 
-      404227469
+      404227469, 
+      1360698545, 
+      85633159, 
+      1360698745
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701103,
-    "wof:geomhash": "e78c8cf881dbe887de0f8a180a2148bf",
+    "wof:geomhash": "9f4ab281f5fcbb145e643bffcb58e226",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487645441,
-    "wof:lastmodified": 1583786197,
+    "wof:lastmodified": 1609870471,
     "wof:name": "SP7 0JQ",
     "wof:parent_id": 404451381,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.201904, 
-    50.966737, 
-    -2.201904, 
-    50.966737
+    -2.199862, 
+    50.968845, 
+    -2.199862, 
+    50.968845
   ],
-  "geometry": {"coordinates":[-2.201904,50.966737],"type":"Point"}
+  "geometry": {"coordinates":[-2.199862,50.968845],"type":"Point"}
 }

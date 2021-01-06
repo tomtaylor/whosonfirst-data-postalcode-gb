@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.245061,54.571040,-1.245061,54.571040",
-    "geom:latitude": 54.57104,
-    "geom:longitude": -1.245061,
+    "geom:bbox": "-1.244665,54.570678,-1.244665,54.570678",
+    "geom:latitude": 54.570678,
+    "geom:longitude": -1.244665,
     "gp:parent_id": "28869",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698619, 
       85633159, 
       1360698853, 
-      101750599
+      101750599, 
+      404227469, 
+      1360698619
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701269,
-    "wof:geomhash": "fbeb47c85af75e1f7ace940e2d27a75f",
+    "wof:geomhash": "093302ed2d1deee564e1093dc607e039",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 487932081,
-    "wof:lastmodified": 1583786342,
+    "wof:lastmodified": 1609887250,
     "wof:name": "TS1 4EX",
     "wof:parent_id": 101750599,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.245061, 
-    54.57104, 
-    -1.245061, 
-    54.57104
+    -1.244665, 
+    54.570678, 
+    -1.244665, 
+    54.570678
   ],
-  "geometry": {"coordinates":[-1.245061,54.57104],"type":"Point"}
+  "geometry": {"coordinates":[-1.244665,54.570678],"type":"Point"}
 }

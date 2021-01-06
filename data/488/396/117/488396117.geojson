@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.293206,55.840879,-4.293206,55.840879",
-    "geom:latitude": 55.840879,
-    "geom:longitude": -4.293206,
+    "geom:bbox": "-4.293063,55.840868,-4.293063,55.840868",
+    "geom:latitude": 55.840868,
+    "geom:longitude": -4.293063,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404430153, 
-      1175612707, 
-      404227471, 
       85861553, 
       1360698707, 
       85633159, 
-      1360698797
+      1360698797, 
+      404430153, 
+      1175612707, 
+      404227471
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701406,
-    "wof:geomhash": "312bbf6d2e1af0be214f5e56ff890789",
+    "wof:geomhash": "a6dba25a2d97d0c55114c2ba2ac6005b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 488396117,
-    "wof:lastmodified": 1583786610,
+    "wof:lastmodified": 1609889847,
     "wof:name": "G41 4JF",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.293206, 
-    55.840879, 
-    -4.293206, 
-    55.840879
+    -4.293063, 
+    55.840868, 
+    -4.293063, 
+    55.840868
   ],
-  "geometry": {"coordinates":[-4.293206,55.840879],"type":"Point"}
+  "geometry": {"coordinates":[-4.293063,55.840868],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.205944,53.575351,-1.205944,53.575351",
-    "geom:latitude": 53.575351,
-    "geom:longitude": -1.205944,
+    "geom:bbox": "-1.205825,53.575296,-1.205825,53.575296",
+    "geom:latitude": 53.575296,
+    "geom:longitude": -1.205825,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698973, 
       101750545, 
       404227469, 
       1360698591, 
-      85633159
+      85633159, 
+      1360698973
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583805312,
-    "wof:geomhash": "1d641f04172efdb2750d23f1c0b45b31",
+    "wof:geomhash": "8f7551dabb5dfe6eed1140c7c99ad730",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1161131504,
-    "wof:lastmodified": 1583805312,
+    "wof:lastmodified": 1609876086,
     "wof:name": "DN6 7FA",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.205944, 
-    53.575351, 
-    -1.205944, 
-    53.575351
+    -1.205825, 
+    53.575296, 
+    -1.205825, 
+    53.575296
   ],
-  "geometry": {"coordinates":[-1.205944,53.575351],"type":"Point"}
+  "geometry": {"coordinates":[-1.205825,53.575296],"type":"Point"}
 }

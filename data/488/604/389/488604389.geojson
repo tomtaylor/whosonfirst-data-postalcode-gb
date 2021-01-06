@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.873417,56.471469,-2.873417,56.471469",
-    "geom:latitude": 56.471469,
-    "geom:longitude": -2.873417,
+    "geom:bbox": "-2.873182,56.471848,-2.873182,56.471848",
+    "geom:latitude": 56.471848,
+    "geom:longitude": -2.873182,
     "gp:parent_id": "12696190",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      101750641, 
       404227471, 
       1360698693, 
       85633159, 
       1360698883, 
-      404430743
+      404430743, 
+      101750641
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701613,
-    "wof:geomhash": "036eca5cfebd52e50a83db6d45b29ea7",
+    "wof:geomhash": "76c073e88577f280e56ceff8a54633c5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488604389,
-    "wof:lastmodified": 1583786804,
+    "wof:lastmodified": 1609898565,
     "wof:name": "DD5 3DG",
     "wof:parent_id": 101750641,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.873417, 
-    56.471469, 
-    -2.873417, 
-    56.471469
+    -2.873182, 
+    56.471848, 
+    -2.873182, 
+    56.471848
   ],
-  "geometry": {"coordinates":[-2.873417,56.471469],"type":"Point"}
+  "geometry": {"coordinates":[-2.873182,56.471848],"type":"Point"}
 }

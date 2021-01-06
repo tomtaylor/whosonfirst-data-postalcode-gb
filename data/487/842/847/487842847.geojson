@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.125576,51.317853,0.125576,51.317853",
-    "geom:latitude": 51.317853,
-    "geom:longitude": 0.125576,
+    "geom:bbox": "0.125248,51.317580,0.125248,51.317580",
+    "geom:latitude": 51.31758,
+    "geom:longitude": 0.125248,
     "gp:parent_id": "25555",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1125801949, 
-      404227469, 
       85789637, 
       1360698565, 
       85633159, 
       1360698811, 
-      404433629
+      404433629, 
+      1125801949, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701204,
-    "wof:geomhash": "257cd71b968b6594407ad1671bf45088",
+    "wof:geomhash": "9d0a3666124fee65ee8f994dfeebbd13",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 487842847,
-    "wof:lastmodified": 1583786300,
+    "wof:lastmodified": 1609882933,
     "wof:name": "TN14 7JE",
     "wof:parent_id": 404433629,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.125576, 
-    51.317853, 
-    0.125576, 
-    51.317853
+    0.125248, 
+    51.31758, 
+    0.125248, 
+    51.31758
   ],
-  "geometry": {"coordinates":[0.125576,51.317853],"type":"Point"}
+  "geometry": {"coordinates":[0.125248,51.31758],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.174784,53.121668,-1.174784,53.121668",
-    "geom:latitude": 53.121668,
-    "geom:longitude": -1.174784,
+    "geom:bbox": "-1.174978,53.121660,-1.174978,53.121660",
+    "geom:latitude": 53.12166,
+    "geom:longitude": -1.174978,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698809, 
       101750507, 
       404227469, 
-      1360698583
+      1360698583, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583797430,
-    "wof:geomhash": "25f22188eec3b5c934efcd619284ba0b",
+    "wof:geomhash": "c0607937e1b03ea091d1e3b0fcdfb2b6",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1712649295,
-    "wof:lastmodified": 1595711847,
+    "wof:lastmodified": 1609872244,
     "wof:name": "NG18 6AT",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.174784, 
-    53.121668, 
-    -1.174784, 
-    53.121668
+    -1.174978, 
+    53.12166, 
+    -1.174978, 
+    53.12166
   ],
-  "geometry": {"coordinates":[-1.174784,53.121668],"type":"Point"}
+  "geometry": {"coordinates":[-1.174978,53.12166],"type":"Point"}
 }

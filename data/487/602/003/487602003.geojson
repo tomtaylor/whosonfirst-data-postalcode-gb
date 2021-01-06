@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1994-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.331055,50.898253,-1.331055,50.898253",
-    "geom:latitude": 50.898253,
-    "geom:longitude": -1.331055,
+    "geom:bbox": "-1.330626,50.898457,-1.330626,50.898457",
+    "geom:latitude": 50.898457,
+    "geom:longitude": -1.330626,
     "gp:parent_id": "35356",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698827, 
-      404447703, 
       1360755705, 
       404227469, 
       1360698557, 
-      85633159
+      85633159, 
+      1360698827, 
+      404447703
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701080,
-    "wof:geomhash": "a79ac3fc55e3ec4127012ee9f14aad4d",
+    "wof:geomhash": "a98de5891f1ce9f30c95fc2ea4c2e1b9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487602003,
-    "wof:lastmodified": 1583786177,
+    "wof:lastmodified": 1609868901,
     "wof:name": "SO19 0QS",
     "wof:parent_id": 404447703,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.331055, 
-    50.898253, 
-    -1.331055, 
-    50.898253
+    -1.330626, 
+    50.898457, 
+    -1.330626, 
+    50.898457
   ],
-  "geometry": {"coordinates":[-1.331055,50.898253],"type":"Point"}
+  "geometry": {"coordinates":[-1.330626,50.898457],"type":"Point"}
 }

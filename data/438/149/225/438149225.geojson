@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.924207,50.718288,-1.924207,50.718288",
-    "geom:latitude": 50.718288,
-    "geom:longitude": -1.924207,
+    "geom:bbox": "-1.923688,50.717862,-1.923688,50.717862",
+    "geom:latitude": 50.717862,
+    "geom:longitude": -1.923688,
     "gp:parent_id": "32326",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      101750309, 
-      404227469, 
       1360698545, 
       85633159, 
-      1360698905
+      1360698905, 
+      101750309, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701342,
-    "wof:geomhash": "6d2654e2f89342de276381aafcef8689",
+    "wof:geomhash": "dc6d8c8c008ab12ec33be21f19789349",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 438149225,
-    "wof:lastmodified": 1583786481,
+    "wof:lastmodified": 1609876843,
     "wof:name": "BH13 7AL",
     "wof:parent_id": 101750309,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.924207, 
-    50.718288, 
-    -1.924207, 
-    50.718288
+    -1.923688, 
+    50.717862, 
+    -1.923688, 
+    50.717862
   ],
-  "geometry": {"coordinates":[-1.924207,50.718288],"type":"Point"}
+  "geometry": {"coordinates":[-1.923688,50.717862],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.918589,53.423955,-2.918589,53.423955",
-    "geom:latitude": 53.423955,
-    "geom:longitude": -2.918589,
+    "geom:bbox": "-2.918440,53.424010,-2.918440,53.424010",
+    "geom:latitude": 53.42401,
+    "geom:longitude": -2.91844,
     "gp:parent_id": "26734",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      101750547, 
+      404227469, 
       85790785, 
       1360698573, 
       85633159, 
-      1360698971, 
-      101750547, 
-      404227469
+      1360698971
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701760,
-    "wof:geomhash": "8168a726521c5d68decf6261906c71b5",
+    "wof:geomhash": "e84063366029c02752213de910ae9fa9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454937903,
-    "wof:lastmodified": 1583786896,
+    "wof:lastmodified": 1609905223,
     "wof:name": "L13 7DA",
     "wof:parent_id": 101750547,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.918589, 
-    53.423955, 
-    -2.918589, 
-    53.423955
+    -2.91844, 
+    53.42401, 
+    -2.91844, 
+    53.42401
   ],
-  "geometry": {"coordinates":[-2.918589,53.423955],"type":"Point"}
+  "geometry": {"coordinates":[-2.91844,53.42401],"type":"Point"}
 }

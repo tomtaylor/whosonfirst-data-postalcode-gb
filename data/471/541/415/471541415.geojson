@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.043557,51.189575,-1.043557,51.189575",
-    "geom:latitude": 51.189575,
-    "geom:longitude": -1.043557,
+    "geom:bbox": "-1.043558,51.189548,-1.043558,51.189548",
+    "geom:latitude": 51.189548,
+    "geom:longitude": -1.043558,
     "gp:parent_id": "23086",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698827, 
-      404432975, 
       1125975871, 
       404227469, 
       1360698557, 
-      85633159
+      85633159, 
+      1360698827, 
+      404432975
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701665,
-    "wof:geomhash": "9d04214a8a7ca661c4e50f17a644c5c5",
+    "wof:geomhash": "8a61fed8bfe278d8d2c900a5b6ed3cd5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471541415,
-    "wof:lastmodified": 1583786799,
+    "wof:lastmodified": 1609896154,
     "wof:name": "RG25 2PP",
     "wof:parent_id": 404432975,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.043557, 
-    51.189575, 
-    -1.043557, 
-    51.189575
+    -1.043558, 
+    51.189548, 
+    -1.043558, 
+    51.189548
   ],
-  "geometry": {"coordinates":[-1.043557,51.189575],"type":"Point"}
+  "geometry": {"coordinates":[-1.043558,51.189548],"type":"Point"}
 }

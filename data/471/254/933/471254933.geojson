@@ -6,9 +6,9 @@
     "edtf:inception": "2001-12-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.181450,51.585416,-0.181450,51.585416",
-    "geom:latitude": 51.585416,
-    "geom:longitude": -0.18145,
+    "geom:bbox": "-0.182276,51.585441,-0.182276,51.585441",
+    "geom:latitude": 51.585441,
+    "geom:longitude": -0.182276,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       101750367, 
       404227469, 
       85792223, 
       1360698645, 
-      1158857285, 
-      85633159
+      1158857285
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701444,
-    "wof:geomhash": "8ff27a1830f215a2b7ee5492e35b1bd5",
+    "wof:geomhash": "c6b5aa9d8d0cdf97b8abe7f92e12e5c0",
     "wof:hierarchy": [
       {
         "borough_id": 1158857285,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471254933,
-    "wof:lastmodified": 1583786594,
+    "wof:lastmodified": 1609882785,
     "wof:name": "NW11 6EQ",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.18145, 
-    51.585416, 
-    -0.18145, 
-    51.585416
+    -0.182276, 
+    51.585441, 
+    -0.182276, 
+    51.585441
   ],
-  "geometry": {"coordinates":[-0.18145,51.585416],"type":"Point"}
+  "geometry": {"coordinates":[-0.182276,51.585441],"type":"Point"}
 }

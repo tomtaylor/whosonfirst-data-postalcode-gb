@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2000-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.555948,53.801980,-1.555948,53.801980",
-    "geom:latitude": 53.80198,
-    "geom:longitude": -1.555948,
+    "geom:bbox": "-1.555903,53.801908,-1.555903,53.801908",
+    "geom:latitude": 53.801908,
+    "geom:longitude": -1.555903,
     "gp:parent_id": "26042",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      85792899, 
       1360698609, 
       85633159, 
       1360698749, 
       101750579, 
-      404227469, 
-      85792899
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701130,
-    "wof:geomhash": "3e09c9649a294d46cc80f56772264dc6",
+    "wof:geomhash": "b33efaca70aff803631036f98c0c1019",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470819419,
-    "wof:lastmodified": 1583786362,
+    "wof:lastmodified": 1609868780,
     "wof:name": "LS2 9DE",
     "wof:parent_id": 101750579,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.555948, 
-    53.80198, 
-    -1.555948, 
-    53.80198
+    -1.555903, 
+    53.801908, 
+    -1.555903, 
+    53.801908
   ],
-  "geometry": {"coordinates":[-1.555948,53.80198],"type":"Point"}
+  "geometry": {"coordinates":[-1.555903,53.801908],"type":"Point"}
 }

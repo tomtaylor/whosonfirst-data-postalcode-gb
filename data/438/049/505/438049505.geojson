@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.403435,51.121924,-2.403435,51.121924",
-    "geom:latitude": 51.121924,
-    "geom:longitude": -2.403435,
+    "geom:bbox": "-2.403420,51.121816,-2.403420,51.121816",
+    "geom:latitude": 51.121816,
+    "geom:longitude": -2.40342,
     "gp:parent_id": "35185",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404432439, 
-      1360757527, 
       404227469, 
       1360698589, 
       85633159, 
-      1360699059
+      1360699059, 
+      404432439, 
+      1360757527
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701147,
-    "wof:geomhash": "cf712bdc76b59bc112a31b01537c6967",
+    "wof:geomhash": "616931eeb68c0b33271157a2f7444934",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438049505,
-    "wof:lastmodified": 1583786277,
+    "wof:lastmodified": 1609869962,
     "wof:name": "BA10 0LF",
     "wof:parent_id": 404432439,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.403435, 
-    51.121924, 
-    -2.403435, 
-    51.121924
+    -2.40342, 
+    51.121816, 
+    -2.40342, 
+    51.121816
   ],
-  "geometry": {"coordinates":[-2.403435,51.121924],"type":"Point"}
+  "geometry": {"coordinates":[-2.40342,51.121816],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.209436,51.743187,-2.209436,51.743187",
+    "geom:bbox": "-2.209334,51.743187,-2.209334,51.743187",
     "geom:latitude": 51.743187,
-    "geom:longitude": -2.209436,
+    "geom:longitude": -2.209334,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698553, 
       85633159, 
       1360698927, 
       404451523, 
       101852857, 
-      404227469, 
-      1360698553
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701684,
-    "wof:geomhash": "eaecc173f4bc3fffe17f3988e011481b",
+    "wof:geomhash": "2fd9dd6473e92d2b5b1ef27f4e1abbdd",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454647337,
-    "wof:lastmodified": 1583786815,
+    "wof:lastmodified": 1609898365,
     "wof:name": "GL5 2HU",
     "wof:parent_id": 101852857,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.209436, 
+    -2.209334, 
     51.743187, 
-    -2.209436, 
+    -2.209334, 
     51.743187
   ],
-  "geometry": {"coordinates":[-2.209436,51.743187],"type":"Point"}
+  "geometry": {"coordinates":[-2.209334,51.743187],"type":"Point"}
 }

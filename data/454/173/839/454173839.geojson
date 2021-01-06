@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.098794,51.906517,1.098794,51.906517",
-    "geom:latitude": 51.906517,
-    "geom:longitude": 1.098794,
+    "geom:bbox": "1.098801,51.906409,1.098801,51.906409",
+    "geom:latitude": 51.906409,
+    "geom:longitude": 1.098801,
     "gp:parent_id": "40824",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698979, 
       404450209, 
       1125939079, 
       404227469, 
-      1360698551, 
-      85633159, 
-      1360698979
+      1360698551
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701336,
-    "wof:geomhash": "da370edcd1e012c2e5172b7beec9de04",
+    "wof:geomhash": "89f90ab9d91d4b19e199117ada919175",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454173839,
-    "wof:lastmodified": 1583786470,
+    "wof:lastmodified": 1609876135,
     "wof:name": "CO11 2PB",
     "wof:parent_id": 404450209,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.098794, 
-    51.906517, 
-    1.098794, 
-    51.906517
+    1.098801, 
+    51.906409, 
+    1.098801, 
+    51.906409
   ],
-  "geometry": {"coordinates":[1.098794,51.906517],"type":"Point"}
+  "geometry": {"coordinates":[1.098801,51.906409],"type":"Point"}
 }

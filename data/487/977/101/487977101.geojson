@@ -19,12 +19,13 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1326665409, 
-      404227469, 
-      1360698599, 
-      85633159, 
       1360698887, 
-      1360817203
+      1360817203, 
+      101750367, 
+      404227469, 
+      1360698645, 
+      1158857259, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -35,16 +36,17 @@
     "wof:geomhash": "aea46555eb0b74f9ab8ed66c4bce1f7d",
     "wof:hierarchy": [
       {
+        "borough_id": 1158857259,
         "country_id": 85633159,
         "county_id": 1360698887,
         "localadmin_id": 1360817203,
-        "locality_id": 1326665409,
+        "locality_id": 101750367,
         "macroregion_id": 404227469,
-        "region_id": 1360698599
+        "region_id": 1360698645
       }
     ],
     "wof:id": 487977101,
-    "wof:lastmodified": 1583786360,
+    "wof:lastmodified": 1609889719,
     "wof:name": "TW15 1EY",
     "wof:parent_id": 404440219,
     "wof:placetype": "postalcode",

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2002-06-01",
     "geom:area": 0,
-    "geom:bbox": "-0.760339,51.397931,-0.760339,51.397931",
-    "geom:latitude": 51.397931,
-    "geom:longitude": -0.760339,
+    "geom:bbox": "-0.760350,51.397933,-0.760350,51.397933",
+    "geom:latitude": 51.397933,
+    "geom:longitude": -0.76035,
     "gp:parent_id": "13505",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360699013, 
       404432267, 
       101750375, 
       404227469, 
-      1360698529, 
-      85633159, 
-      1360699013
+      1360698529
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701657,
-    "wof:geomhash": "f5c7242f554fa281fe39cc29428d1993",
+    "wof:geomhash": "322e5ad89d162ae13135d46eeb50b0e7",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471523899,
-    "wof:lastmodified": 1583786789,
+    "wof:lastmodified": 1609895397,
     "wof:name": "RG12 7GL",
     "wof:parent_id": 101750375,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.760339, 
-    51.397931, 
-    -0.760339, 
-    51.397931
+    -0.76035, 
+    51.397933, 
+    -0.76035, 
+    51.397933
   ],
-  "geometry": {"coordinates":[-0.760339,51.397931],"type":"Point"}
+  "geometry": {"coordinates":[-0.76035,51.397933],"type":"Point"}
 }

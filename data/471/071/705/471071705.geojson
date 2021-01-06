@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.652415,54.974641,-1.652415,54.974641",
-    "geom:latitude": 54.974641,
-    "geom:longitude": -1.652415,
+    "geom:bbox": "-1.652463,54.974569,-1.652463,54.974569",
+    "geom:latitude": 54.974569,
+    "geom:longitude": -1.652463,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,11 +18,11 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      101750617, 
       404227469, 
       1360698601, 
       85633159, 
-      1360698961
+      1360698961, 
+      101750617
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -30,7 +30,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701224,
-    "wof:geomhash": "1ffb8f3d19be9102f2a8669c54ffd5b3",
+    "wof:geomhash": "e55da7817c9f06f5fb7be163ee539a04",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -41,7 +41,7 @@
       }
     ],
     "wof:id": 471071705,
-    "wof:lastmodified": 1583786365,
+    "wof:lastmodified": 1609871198,
     "wof:name": "NE4 8AN",
     "wof:parent_id": 101750617,
     "wof:placetype": "postalcode",
@@ -51,10 +51,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.652415, 
-    54.974641, 
-    -1.652415, 
-    54.974641
+    -1.652463, 
+    54.974569, 
+    -1.652463, 
+    54.974569
   ],
-  "geometry": {"coordinates":[-1.652415,54.974641],"type":"Point"}
+  "geometry": {"coordinates":[-1.652463,54.974569],"type":"Point"}
 }

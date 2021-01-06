@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "-0.768550,51.826114,-0.768550,51.826114",
-    "geom:latitude": 51.826114,
-    "geom:longitude": -0.76855,
+    "geom:bbox": "-0.768481,51.825961,-0.768481,51.825961",
+    "geom:latitude": 51.825961,
+    "geom:longitude": -0.768481,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698997, 
       404435693, 
       1360757805, 
       404227469, 
-      1360698533
+      1360698533, 
+      85633159, 
+      1360698997
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735561,
-    "wof:geomhash": "83bf601d29e6892b1efd05c6c228294a",
+    "wof:geomhash": "f66ee6e45a16d323f34874509211e567",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1713329281,
-    "wof:lastmodified": 1595753399,
+    "wof:lastmodified": 1609875381,
     "wof:name": "HP22 7DD",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.76855, 
-    51.826114, 
-    -0.76855, 
-    51.826114
+    -0.768481, 
+    51.825961, 
+    -0.768481, 
+    51.825961
   ],
-  "geometry": {"coordinates":[-0.76855,51.826114],"type":"Point"}
+  "geometry": {"coordinates":[-0.768481,51.825961],"type":"Point"}
 }

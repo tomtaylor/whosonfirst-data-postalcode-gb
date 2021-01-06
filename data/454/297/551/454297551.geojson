@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.506228,52.989507,-2.506228,52.989507",
-    "geom:latitude": 52.989507,
-    "geom:longitude": -2.506228,
+    "geom:bbox": "-2.506064,52.989498,-2.506064,52.989498",
+    "geom:latitude": 52.989498,
+    "geom:longitude": -2.506064,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698537, 
+      85633159, 
       1360698929, 
       404445707, 
       101871991, 
-      404227469, 
-      1360698537, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701460,
-    "wof:geomhash": "865e510bce77f0b2dd583711c347f79a",
+    "wof:geomhash": "9bde274eeed3cb5d4c71b3ba3b71d0cf",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454297551,
-    "wof:lastmodified": 1583786585,
+    "wof:lastmodified": 1609881954,
     "wof:name": "CW3 0AP",
     "wof:parent_id": 101871991,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.506228, 
-    52.989507, 
-    -2.506228, 
-    52.989507
+    -2.506064, 
+    52.989498, 
+    -2.506064, 
+    52.989498
   ],
-  "geometry": {"coordinates":[-2.506228,52.989507],"type":"Point"}
+  "geometry": {"coordinates":[-2.506064,52.989498],"type":"Point"}
 }

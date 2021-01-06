@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1997-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.563759,52.275447,-1.563759,52.275447",
-    "geom:latitude": 52.275447,
+    "geom:bbox": "-1.563759,52.275438,-1.563759,52.275438",
+    "geom:latitude": 52.275438,
     "geom:longitude": -1.563759,
     "gp:parent_id": "22861",
     "iso:country": "GB",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698891, 
-      404441251, 
-      1125994457, 
       404227469, 
       1360698603, 
-      85633159
+      85633159, 
+      1360698891, 
+      404441251, 
+      1125994457
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701428,
-    "wof:geomhash": "803483618648aeef767ed72396aa590b",
+    "wof:geomhash": "0d1d3c2b168a6c2212b3d6200e071004",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454270265,
-    "wof:lastmodified": 1583786562,
+    "wof:lastmodified": 1609881025,
     "wof:name": "CV34 6UW",
     "wof:parent_id": 404441251,
     "wof:placetype": "postalcode",
@@ -55,9 +55,9 @@
   },
   "bbox": [
     -1.563759, 
-    52.275447, 
+    52.275438, 
     -1.563759, 
-    52.275447
+    52.275438
   ],
-  "geometry": {"coordinates":[-1.563759,52.275447],"type":"Point"}
+  "geometry": {"coordinates":[-1.563759,52.275438],"type":"Point"}
 }

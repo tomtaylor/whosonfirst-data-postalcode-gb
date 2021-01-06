@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2000-06-01",
     "geom:area": 0,
-    "geom:bbox": "0.705131,50.922596,0.705131,50.922596",
-    "geom:latitude": 50.922596,
-    "geom:longitude": 0.705131,
+    "geom:bbox": "0.703525,50.922372,0.703525,50.922372",
+    "geom:latitude": 50.922372,
+    "geom:longitude": 0.703525,
     "gp:parent_id": "40609",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698549, 
-      85633159, 
       1360698815, 
       404449147, 
-      1125994729
+      1125994729, 
+      404227469, 
+      1360698549, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701221,
-    "wof:geomhash": "d3230b8e32b8ce8e56db2f618f55f7c3",
+    "wof:geomhash": "2385fcd58c2e5031e7b262ad54fcaeb2",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487871555,
-    "wof:lastmodified": 1595724937,
+    "wof:lastmodified": 1609884354,
     "wof:name": "TN36 4AF",
     "wof:parent_id": 404449147,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.705131, 
-    50.922596, 
-    0.705131, 
-    50.922596
+    0.703525, 
+    50.922372, 
+    0.703525, 
+    50.922372
   ],
-  "geometry": {"coordinates":[0.705131,50.922596],"type":"Point"}
+  "geometry": {"coordinates":[0.703525,50.922372],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.805974,53.154555,-0.805974,53.154555",
-    "geom:latitude": 53.154555,
-    "geom:longitude": -0.805974,
+    "geom:bbox": "-0.805130,53.156929,-0.805130,53.156929",
+    "geom:latitude": 53.156929,
+    "geom:longitude": -0.80513,
     "gp:parent_id": "17387",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698809, 
-      404430261, 
       1125986723, 
       404227469, 
       1360698583, 
-      85633159
+      85633159, 
+      1360698809, 
+      404430261
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701325,
-    "wof:geomhash": "19ea048e333d41a81b9c2c3083d00a32",
+    "wof:geomhash": "18aa006999c0bdcdea4cc88a3668b9a0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471132395,
-    "wof:lastmodified": 1583786467,
+    "wof:lastmodified": 1609875592,
     "wof:name": "NG23 6JF",
     "wof:parent_id": 404430261,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.805974, 
-    53.154555, 
-    -0.805974, 
-    53.154555
+    -0.80513, 
+    53.156929, 
+    -0.80513, 
+    53.156929
   ],
-  "geometry": {"coordinates":[-0.805974,53.154555],"type":"Point"}
+  "geometry": {"coordinates":[-0.80513,53.156929],"type":"Point"}
 }

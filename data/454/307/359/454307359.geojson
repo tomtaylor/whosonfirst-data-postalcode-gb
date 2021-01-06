@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1982-03-01",
     "geom:area": 0,
-    "geom:bbox": "-2.427542,53.251355,-2.427542,53.251355",
-    "geom:latitude": 53.251355,
-    "geom:longitude": -2.427542,
+    "geom:bbox": "-2.427540,53.251362,-2.427540,53.251362",
+    "geom:latitude": 53.251362,
+    "geom:longitude": -2.42754,
     "gp:parent_id": "25626",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698537, 
-      85633159, 
-      1360698923, 
       404445355, 
       1125863875, 
-      404227469
+      404227469, 
+      1360698537, 
+      85633159, 
+      1360698923
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701470,
-    "wof:geomhash": "3531f8b7c407216f7db28aa7dfab73ee",
+    "wof:geomhash": "22273e3ecbb0a40eea9b0dbc137d8def",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454307359,
-    "wof:lastmodified": 1583786595,
+    "wof:lastmodified": 1609882596,
     "wof:name": "CW9 7TE",
     "wof:parent_id": 404445355,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.427542, 
-    53.251355, 
-    -2.427542, 
-    53.251355
+    -2.42754, 
+    53.251362, 
+    -2.42754, 
+    53.251362
   ],
-  "geometry": {"coordinates":[-2.427542,53.251355],"type":"Point"}
+  "geometry": {"coordinates":[-2.42754,53.251362],"type":"Point"}
 }

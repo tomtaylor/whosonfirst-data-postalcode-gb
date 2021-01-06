@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.029718,53.478491,-3.029718,53.478491",
-    "geom:latitude": 53.478491,
-    "geom:longitude": -3.029718,
+    "geom:bbox": "-3.029933,53.478669,-3.029933,53.478669",
+    "geom:latitude": 53.478669,
+    "geom:longitude": -3.029933,
     "gp:parent_id": "26734",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698771, 
+      1360817501, 
       1125942385, 
       404227469, 
       85791371, 
       1360698573, 
-      85633159, 
-      1360698771, 
-      1360817501
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701761,
-    "wof:geomhash": "3201c2fad34a2b84078060c08932806d",
+    "wof:geomhash": "4c8aa83b49018919f1c9f14f19d4bb62",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 454948799,
-    "wof:lastmodified": 1595717859,
+    "wof:lastmodified": 1609905279,
     "wof:name": "L22 9QY",
     "wof:parent_id": 101913935,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.029718, 
-    53.478491, 
-    -3.029718, 
-    53.478491
+    -3.029933, 
+    53.478669, 
+    -3.029933, 
+    53.478669
   ],
-  "geometry": {"coordinates":[-3.029718,53.478491],"type":"Point"}
+  "geometry": {"coordinates":[-3.029933,53.478669],"type":"Point"}
 }

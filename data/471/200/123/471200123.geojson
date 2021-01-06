@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.182038,52.814647,1.182038,52.814647",
-    "geom:latitude": 52.814647,
-    "geom:longitude": 1.182038,
+    "geom:bbox": "1.182058,52.814655,1.182058,52.814655",
+    "geom:latitude": 52.814655,
+    "geom:longitude": 1.182058,
     "gp:parent_id": "31167",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698955, 
       404442289, 
       1125904723, 
       404227469, 
-      1360698575
+      1360698575, 
+      85633159, 
+      1360698955
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701391,
-    "wof:geomhash": "e5b585d0d4c05ea8186d9a6b7c96df72",
+    "wof:geomhash": "973dc7c06e344c6c780f6aba3d221891",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471200123,
-    "wof:lastmodified": 1583786549,
+    "wof:lastmodified": 1609879767,
     "wof:name": "NR11 6NZ",
     "wof:parent_id": 404442289,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.182038, 
-    52.814647, 
-    1.182038, 
-    52.814647
+    1.182058, 
+    52.814655, 
+    1.182058, 
+    52.814655
   ],
-  "geometry": {"coordinates":[1.182038,52.814647],"type":"Point"}
+  "geometry": {"coordinates":[1.182058,52.814655],"type":"Point"}
 }

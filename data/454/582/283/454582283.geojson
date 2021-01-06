@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.049816,50.757964,-4.049816,50.757964",
-    "geom:latitude": 50.757964,
-    "geom:longitude": -4.049816,
+    "geom:bbox": "-4.049960,50.757997,-4.049960,50.757997",
+    "geom:latitude": 50.757997,
+    "geom:longitude": -4.04996,
     "gp:parent_id": "24513",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699081, 
-      404432035, 
-      1360756883, 
       404227469, 
       1360698541, 
-      85633159
+      85633159, 
+      1360699081, 
+      404432035, 
+      1360756883
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701649,
-    "wof:geomhash": "c713a56a5f3d006410f34a00bfc1a408",
+    "wof:geomhash": "c12fca4380f7d3e5a6359f8fa35875fc",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454582283,
-    "wof:lastmodified": 1583786782,
+    "wof:lastmodified": 1609895487,
     "wof:name": "EX20 3AY",
     "wof:parent_id": 404432035,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.049816, 
-    50.757964, 
-    -4.049816, 
-    50.757964
+    -4.04996, 
+    50.757997, 
+    -4.04996, 
+    50.757997
   ],
-  "geometry": {"coordinates":[-4.049816,50.757964],"type":"Point"}
+  "geometry": {"coordinates":[-4.04996,50.757997],"type":"Point"}
 }

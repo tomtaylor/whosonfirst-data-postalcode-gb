@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.326199,54.521639,-1.326199,54.521639",
-    "geom:latitude": 54.521639,
-    "geom:longitude": -1.326199,
+    "geom:bbox": "-1.326147,54.521981,-1.326147,54.521981",
+    "geom:latitude": 54.521981,
+    "geom:longitude": -1.326147,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699087, 
       404452839, 
       1125908855, 
       404227469, 
-      1360698619
+      1360698619, 
+      85633159, 
+      1360699087
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583801044,
-    "wof:geomhash": "923917a0225512e796c30503f01ae401",
+    "wof:geomhash": "9d1f0c0fa648d1c963f0d2e42b3498b0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1161036312,
-    "wof:lastmodified": 1583801044,
+    "wof:lastmodified": 1609875115,
     "wof:name": "TS17 5FW",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.326199, 
-    54.521639, 
-    -1.326199, 
-    54.521639
+    -1.326147, 
+    54.521981, 
+    -1.326147, 
+    54.521981
   ],
-  "geometry": {"coordinates":[-1.326199,54.521639],"type":"Point"}
+  "geometry": {"coordinates":[-1.326147,54.521981],"type":"Point"}
 }

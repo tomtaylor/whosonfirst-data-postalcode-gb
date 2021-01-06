@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2000-06-01",
     "geom:area": 0,
-    "geom:bbox": "-3.240040,54.886764,-3.240040,54.886764",
-    "geom:latitude": 54.886764,
-    "geom:longitude": -3.24004,
+    "geom:bbox": "-3.240314,54.887010,-3.240314,54.887010",
+    "geom:latitude": 54.88701,
+    "geom:longitude": -3.240314,
     "gp:parent_id": "30219",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698877, 
-      404453261, 
-      1360758979, 
       404227469, 
       1360698721, 
-      85633159
+      85633159, 
+      1360698877, 
+      404453261, 
+      1360758979
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701151,
-    "wof:geomhash": "efeba14a2c0b0b39726abac43204386e",
+    "wof:geomhash": "e06c9b91eec214dfffd809128c9f47a1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454073567,
-    "wof:lastmodified": 1583786294,
+    "wof:lastmodified": 1609869649,
     "wof:name": "CA7 5HN",
     "wof:parent_id": 404453261,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.24004, 
-    54.886764, 
-    -3.24004, 
-    54.886764
+    -3.240314, 
+    54.88701, 
+    -3.240314, 
+    54.88701
   ],
-  "geometry": {"coordinates":[-3.24004,54.886764],"type":"Point"}
+  "geometry": {"coordinates":[-3.240314,54.88701],"type":"Point"}
 }

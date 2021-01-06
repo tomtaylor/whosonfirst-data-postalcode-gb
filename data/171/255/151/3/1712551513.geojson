@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2016-05-01",
     "geom:area": 0,
-    "geom:bbox": "-0.464663,51.540485,-0.464663,51.540485",
-    "geom:latitude": 51.540485,
-    "geom:longitude": -0.464663,
+    "geom:bbox": "-0.465083,51.540850,-0.465083,51.540850",
+    "geom:latitude": 51.54085,
+    "geom:longitude": -0.465083,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698645, 
-      1158857261, 
       85633159, 
       101750367, 
       404227469, 
-      85791255
+      85791255, 
+      1360698645, 
+      1158857261
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583793087,
-    "wof:geomhash": "ea62de6c41c7bbd5eaa35531c0a0f5ad",
+    "wof:geomhash": "47f8d3a7f09669c799971dfc3bb26528",
     "wof:hierarchy": [
       {
         "borough_id": 1158857261,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712551513,
-    "wof:lastmodified": 1595711029,
+    "wof:lastmodified": 1609870227,
     "wof:name": "UB10 0GG",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.464663, 
-    51.540485, 
-    -0.464663, 
-    51.540485
+    -0.465083, 
+    51.54085, 
+    -0.465083, 
+    51.54085
   ],
-  "geometry": {"coordinates":[-0.464663,51.540485],"type":"Point"}
+  "geometry": {"coordinates":[-0.465083,51.54085],"type":"Point"}
 }

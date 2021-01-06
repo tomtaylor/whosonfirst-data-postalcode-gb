@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.716141,50.987293,-0.716141,50.987293",
-    "geom:latitude": 50.987293,
-    "geom:longitude": -0.716141,
+    "geom:bbox": "-0.715870,50.985027,-0.715870,50.985027",
+    "geom:latitude": 50.985027,
+    "geom:longitude": -0.71587,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698607, 
-      85633159, 
       1360698757, 
       404434999, 
-      1125771709
+      1125771709, 
+      404227469, 
+      1360698607, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701699,
-    "wof:geomhash": "7491b1e0998bf806e555241b95fabe97",
+    "wof:geomhash": "1bd606c12aa7c9ef16209794d278e9f5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454695207,
-    "wof:lastmodified": 1583786834,
+    "wof:lastmodified": 1609899752,
     "wof:name": "GU29 0AY",
     "wof:parent_id": 404434999,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.716141, 
-    50.987293, 
-    -0.716141, 
-    50.987293
+    -0.71587, 
+    50.985027, 
+    -0.71587, 
+    50.985027
   ],
-  "geometry": {"coordinates":[-0.716141,50.987293],"type":"Point"}
+  "geometry": {"coordinates":[-0.71587,50.985027],"type":"Point"}
 }

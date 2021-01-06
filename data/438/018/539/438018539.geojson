@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1996-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.997642,52.523770,-1.997642,52.523770",
-    "geom:latitude": 52.52377,
-    "geom:longitude": -1.997642,
+    "geom:bbox": "-1.997533,52.523759,-1.997533,52.523759",
+    "geom:latitude": 52.523759,
+    "geom:longitude": -1.997533,
     "gp:parent_id": "39578",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360817335, 
-      1126041385, 
-      404227469, 
       1360698605, 
       85633159, 
-      1360699035
+      1360699035, 
+      1360817335, 
+      1126041385, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701065,
-    "wof:geomhash": "b0bc177e1343ff50e247b93697e60f2d",
+    "wof:geomhash": "f6619d29bcd11f06f31b64112f7ba119",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438018539,
-    "wof:lastmodified": 1583786185,
+    "wof:lastmodified": 1609868932,
     "wof:name": "B70 9TE",
     "wof:parent_id": 101914045,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.997642, 
-    52.52377, 
-    -1.997642, 
-    52.52377
+    -1.997533, 
+    52.523759, 
+    -1.997533, 
+    52.523759
   ],
-  "geometry": {"coordinates":[-1.997642,52.52377],"type":"Point"}
+  "geometry": {"coordinates":[-1.997533,52.523759],"type":"Point"}
 }

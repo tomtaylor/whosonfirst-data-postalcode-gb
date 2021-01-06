@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.127003,53.523297,-1.127003,53.523297",
-    "geom:latitude": 53.523297,
-    "geom:longitude": -1.127003,
+    "geom:bbox": "-1.127736,53.523635,-1.127736,53.523635",
+    "geom:latitude": 53.523635,
+    "geom:longitude": -1.127736,
     "gp:parent_id": "18307",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698591, 
       85633159, 
       1360698973, 
-      101750545
+      101750545, 
+      404227469, 
+      1360698591
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701551,
-    "wof:geomhash": "bab13c3de4c66ec01051630484618ffd",
+    "wof:geomhash": "eb2220b2e78c3f685ef73ba959f93914",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454412371,
-    "wof:lastmodified": 1583786678,
+    "wof:lastmodified": 1609888538,
     "wof:name": "DN1 2HG",
     "wof:parent_id": 101750545,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.127003, 
-    53.523297, 
-    -1.127003, 
-    53.523297
+    -1.127736, 
+    53.523635, 
+    -1.127736, 
+    53.523635
   ],
-  "geometry": {"coordinates":[-1.127003,53.523297],"type":"Point"}
+  "geometry": {"coordinates":[-1.127736,53.523635],"type":"Point"}
 }

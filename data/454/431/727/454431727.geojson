@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.777602,53.433960,-0.777602,53.433960",
-    "geom:latitude": 53.43396,
-    "geom:longitude": -0.777602,
+    "geom:bbox": "-0.769579,53.432907,-0.769579,53.432907",
+    "geom:latitude": 53.432907,
+    "geom:longitude": -0.769579,
     "gp:parent_id": "13103",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698571, 
       85633159, 
       1360699067, 
       404452517, 
       1125882273, 
-      404227469
+      404227469, 
+      1360698571
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701562,
-    "wof:geomhash": "afb113b9e007d8521e8fa3196843042c",
+    "wof:geomhash": "42ef84c6cb3c5cdc0747c88efa900d61",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454431727,
-    "wof:lastmodified": 1583786694,
+    "wof:lastmodified": 1609889285,
     "wof:name": "DN21 3ER",
     "wof:parent_id": 404452517,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.777602, 
-    53.43396, 
-    -0.777602, 
-    53.43396
+    -0.769579, 
+    53.432907, 
+    -0.769579, 
+    53.432907
   ],
-  "geometry": {"coordinates":[-0.777602,53.43396],"type":"Point"}
+  "geometry": {"coordinates":[-0.769579,53.432907],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1985-04-01",
     "geom:area": 0,
-    "geom:bbox": "0.105957,50.957512,0.105957,50.957512",
-    "geom:latitude": 50.957512,
-    "geom:longitude": 0.105957,
+    "geom:bbox": "0.105971,50.957535,0.105971,50.957535",
+    "geom:latitude": 50.957535,
+    "geom:longitude": 0.105971,
     "gp:parent_id": "33310",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404437259, 
       101854583, 
       404227469, 
       1360698549, 
       85633159, 
-      1360698815
+      1360698815, 
+      404437259
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701213,
-    "wof:geomhash": "20a1c0834f762ae7abb9d9e6c9424a8a",
+    "wof:geomhash": "dd79c5aae047d5f53ed7622b64ca84c3",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487854995,
-    "wof:lastmodified": 1583786308,
+    "wof:lastmodified": 1609883586,
     "wof:name": "TN22 5TQ",
     "wof:parent_id": 101854583,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.105957, 
-    50.957512, 
-    0.105957, 
-    50.957512
+    0.105971, 
+    50.957535, 
+    0.105971, 
+    50.957535
   ],
-  "geometry": {"coordinates":[0.105957,50.957512],"type":"Point"}
+  "geometry": {"coordinates":[0.105971,50.957535],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.403751,53.159512,-1.403751,53.159512",
-    "geom:latitude": 53.159512,
-    "geom:longitude": -1.403751,
+    "geom:bbox": "-1.403886,53.159495,-1.403886,53.159495",
+    "geom:latitude": 53.159495,
+    "geom:longitude": -1.403886,
     "gp:parent_id": "17913",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698539, 
-      85633159, 
-      1360698765, 
       404438603, 
       1125962789, 
-      404227469
+      404227469, 
+      1360698539, 
+      85633159, 
+      1360698765
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701677,
-    "wof:geomhash": "6ec113714339b4e0c5be8ff8429d47d0",
+    "wof:geomhash": "8967a7f36000907005df9f9d005ed190",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471656389,
-    "wof:lastmodified": 1595724164,
+    "wof:lastmodified": 1609900237,
     "wof:name": "S45 9SA",
     "wof:parent_id": 404438603,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.403751, 
-    53.159512, 
-    -1.403751, 
-    53.159512
+    -1.403886, 
+    53.159495, 
+    -1.403886, 
+    53.159495
   ],
-  "geometry": {"coordinates":[-1.403751,53.159512],"type":"Point"}
+  "geometry": {"coordinates":[-1.403886,53.159495],"type":"Point"}
 }

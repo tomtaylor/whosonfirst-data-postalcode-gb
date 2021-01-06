@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.437724,53.722687,-0.437724,53.722687",
-    "geom:latitude": 53.722687,
-    "geom:longitude": -0.437724,
+    "geom:bbox": "-0.437722,53.722723,-0.437722,53.722723",
+    "geom:latitude": 53.722723,
+    "geom:longitude": -0.437722,
     "gp:parent_id": "23113",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698547, 
       85633159, 
       1360699001, 
       404445695, 
-      1125882609
+      1125882609, 
+      404227469, 
+      1360698547
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701718,
-    "wof:geomhash": "46607cfab6769506a45db1004a8e31d9",
+    "wof:geomhash": "d8a8d82bc79587c5f76940860a2d8047",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454812789,
-    "wof:lastmodified": 1583786862,
+    "wof:lastmodified": 1609902735,
     "wof:name": "HU13 0RS",
     "wof:parent_id": 101914019,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.437724, 
-    53.722687, 
-    -0.437724, 
-    53.722687
+    -0.437722, 
+    53.722723, 
+    -0.437722, 
+    53.722723
   ],
-  "geometry": {"coordinates":[-0.437724,53.722687],"type":"Point"}
+  "geometry": {"coordinates":[-0.437722,53.722723],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1996-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.773974,53.652427,-1.773974,53.652427",
-    "geom:latitude": 53.652427,
-    "geom:longitude": -1.773974,
+    "geom:bbox": "-1.774245,53.652901,-1.774245,53.652901",
+    "geom:latitude": 53.652901,
+    "geom:longitude": -1.774245,
     "gp:parent_id": "24083",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698609, 
       85633159, 
       1360698917, 
       101750573, 
-      404227469
+      404227469, 
+      1360698609
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701706,
-    "wof:geomhash": "7af2ec8ac188d37ced84b2d71fbbe94a",
+    "wof:geomhash": "96c061bb0333520c3550899a58ee4a54",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454741271,
-    "wof:lastmodified": 1583786847,
+    "wof:lastmodified": 1609900809,
     "wof:name": "HD1 6NA",
     "wof:parent_id": 101750573,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.773974, 
-    53.652427, 
-    -1.773974, 
-    53.652427
+    -1.774245, 
+    53.652901, 
+    -1.774245, 
+    53.652901
   ],
-  "geometry": {"coordinates":[-1.773974,53.652427],"type":"Point"}
+  "geometry": {"coordinates":[-1.774245,53.652901],"type":"Point"}
 }

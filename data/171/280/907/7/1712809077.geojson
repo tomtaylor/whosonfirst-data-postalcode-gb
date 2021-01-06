@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-04-01",
     "geom:area": 0,
-    "geom:bbox": "-2.132896,57.189101,-2.132896,57.189101",
-    "geom:latitude": 57.189101,
-    "geom:longitude": -2.132896,
+    "geom:bbox": "-2.132929,57.189065,-2.132929,57.189065",
+    "geom:latitude": 57.189065,
+    "geom:longitude": -2.132929,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698989, 
-      404429183, 
       404227471, 
       1360698709, 
-      85633159
+      85633159, 
+      1360698989, 
+      404429183
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583804532,
-    "wof:geomhash": "3605b7f211f6c2ae83f880233c81e546",
+    "wof:geomhash": "547a5e5178abe233e4000e73ccd97aef",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1712809077,
-    "wof:lastmodified": 1595712979,
+    "wof:lastmodified": 1609874879,
     "wof:name": "AB22 9AG",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.132896, 
-    57.189101, 
-    -2.132896, 
-    57.189101
+    -2.132929, 
+    57.189065, 
+    -2.132929, 
+    57.189065
   ],
-  "geometry": {"coordinates":[-2.132896,57.189101],"type":"Point"}
+  "geometry": {"coordinates":[-2.132929,57.189065],"type":"Point"}
 }

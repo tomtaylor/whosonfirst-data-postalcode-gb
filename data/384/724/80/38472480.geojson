@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2017-08-01",
     "geom:area": 0,
-    "geom:bbox": "-1.547975,52.263799,-1.547975,52.263799",
-    "geom:latitude": 52.263799,
-    "geom:longitude": -1.547975,
+    "geom:bbox": "-1.547901,52.263952,-1.547901,52.263952",
+    "geom:latitude": 52.263952,
+    "geom:longitude": -1.547901,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698603, 
-      85633159, 
-      1360698891, 
       404441251, 
       1125994457, 
-      404227469
+      404227469, 
+      1360698603, 
+      85633159, 
+      1360698891
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583790758,
-    "wof:geomhash": "88ff007ebfca170b1fd4e02403e124e8",
+    "wof:geomhash": "297cdaffcafb09f041036f9e5162bddd",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 38472480,
-    "wof:lastmodified": 1583790758,
+    "wof:lastmodified": 1609868514,
     "wof:name": "CV34 7AB",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.547975, 
-    52.263799, 
-    -1.547975, 
-    52.263799
+    -1.547901, 
+    52.263952, 
+    -1.547901, 
+    52.263952
   ],
-  "geometry": {"coordinates":[-1.547975,52.263799],"type":"Point"}
+  "geometry": {"coordinates":[-1.547901,52.263952],"type":"Point"}
 }

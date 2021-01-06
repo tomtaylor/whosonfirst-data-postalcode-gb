@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.940383,51.352070,-2.940383,51.352070",
-    "geom:latitude": 51.35207,
-    "geom:longitude": -2.940383,
+    "geom:bbox": "-2.940137,51.351955,-2.940137,51.351955",
+    "geom:latitude": 51.351955,
+    "geom:longitude": -2.940137,
     "gp:parent_id": "40016",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699111, 
       404444501, 
       101751595, 
       404227469, 
-      1360698589
+      1360698589, 
+      85633159, 
+      1360699111
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701471,
-    "wof:geomhash": "4ed0747129c92bbde77f4d4d85a64a38",
+    "wof:geomhash": "b4ad80b5a71a228d873803e36d06b6af",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438282471,
-    "wof:lastmodified": 1583786609,
+    "wof:lastmodified": 1609883448,
     "wof:name": "BS22 8PR",
     "wof:parent_id": 101751595,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.940383, 
-    51.35207, 
-    -2.940383, 
-    51.35207
+    -2.940137, 
+    51.351955, 
+    -2.940137, 
+    51.351955
   ],
-  "geometry": {"coordinates":[-2.940383,51.35207],"type":"Point"}
+  "geometry": {"coordinates":[-2.940137,51.351955],"type":"Point"}
 }

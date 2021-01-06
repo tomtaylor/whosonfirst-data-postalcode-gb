@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.774320,53.160375,-1.774320,53.160375",
-    "geom:latitude": 53.160375,
-    "geom:longitude": -1.77432,
+    "geom:bbox": "-1.773870,53.160257,-1.773870,53.160257",
+    "geom:latitude": 53.160257,
+    "geom:longitude": -1.77387,
     "gp:parent_id": "22546",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698539, 
       85633159, 
       1360698765, 
       404443763, 
-      1360758515
+      1360758515, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701738,
-    "wof:geomhash": "1efeee09b5c530a25dfdd5742c92ad1d",
+    "wof:geomhash": "58bcd7f64210d21e685c2c8038087b20",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471777987,
-    "wof:lastmodified": 1583786910,
+    "wof:lastmodified": 1609902860,
     "wof:name": "SK17 0BB",
     "wof:parent_id": 404443763,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.77432, 
-    53.160375, 
-    -1.77432, 
-    53.160375
+    -1.77387, 
+    53.160257, 
+    -1.77387, 
+    53.160257
   ],
-  "geometry": {"coordinates":[-1.77432,53.160375],"type":"Point"}
+  "geometry": {"coordinates":[-1.77387,53.160257],"type":"Point"}
 }

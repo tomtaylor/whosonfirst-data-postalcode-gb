@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.298109,50.763708,-1.298109,50.763708",
-    "geom:latitude": 50.763708,
-    "geom:longitude": -1.298109,
+    "geom:bbox": "-1.298179,50.763745,-1.298179,50.763745",
+    "geom:latitude": 50.763745,
+    "geom:longitude": -1.298179,
     "gp:parent_id": "17066",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699089, 
-      404441099, 
       101852315, 
       404227469, 
-      1360698563
+      1360698563, 
+      85633159, 
+      1360699089, 
+      404441099
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701629,
-    "wof:geomhash": "3a71de67b34092ae226d8d93d3f9af37",
+    "wof:geomhash": "edfc22a2820229483859da7d4d01bf88",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471470885,
-    "wof:lastmodified": 1583786757,
+    "wof:lastmodified": 1609893245,
     "wof:name": "PO31 7RR",
     "wof:parent_id": 404441099,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.298109, 
-    50.763708, 
-    -1.298109, 
-    50.763708
+    -1.298179, 
+    50.763745, 
+    -1.298179, 
+    50.763745
   ],
-  "geometry": {"coordinates":[-1.298109,50.763708],"type":"Point"}
+  "geometry": {"coordinates":[-1.298179,50.763745],"type":"Point"}
 }

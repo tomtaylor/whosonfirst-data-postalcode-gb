@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.217830,52.733883,1.217830,52.733883",
-    "geom:latitude": 52.733883,
-    "geom:longitude": 1.21783,
+    "geom:bbox": "1.217327,52.733492,1.217327,52.733492",
+    "geom:latitude": 52.733492,
+    "geom:longitude": 1.217327,
     "gp:parent_id": "23132",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698575, 
       85633159, 
       1360698955, 
       404445495, 
-      1226171769
+      1226171769, 
+      404227469, 
+      1360698575
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701389,
-    "wof:geomhash": "465860cc496c0a3b5edb0bd0158565f7",
+    "wof:geomhash": "84abcd6c3076fae9bd0b7eed8c0e3454",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471199647,
-    "wof:lastmodified": 1583786548,
+    "wof:lastmodified": 1609879725,
     "wof:name": "NR10 5NW",
     "wof:parent_id": 404445495,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.21783, 
-    52.733883, 
-    1.21783, 
-    52.733883
+    1.217327, 
+    52.733492, 
+    1.217327, 
+    52.733492
   ],
-  "geometry": {"coordinates":[1.21783,52.733883],"type":"Point"}
+  "geometry": {"coordinates":[1.217327,52.733492],"type":"Point"}
 }

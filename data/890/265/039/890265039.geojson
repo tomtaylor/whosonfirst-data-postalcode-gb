@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2015-06-01",
     "geom:area": 0,
-    "geom:bbox": "0.485388,51.590816,0.485388,51.590816",
-    "geom:latitude": 51.590816,
-    "geom:longitude": 0.485388,
+    "geom:bbox": "0.486803,51.590813,0.486803,51.590813",
+    "geom:latitude": 51.590813,
+    "geom:longitude": 0.486803,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698979, 
-      1360817079, 
       101750407, 
       404227469, 
       1360698551, 
-      85633159
+      85633159, 
+      1360698979, 
+      1360817079
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468901212,
-    "wof:geomhash": "34071835c3fdedaafb7215a100a8893b",
+    "wof:geomhash": "85be31df613cc999823d672f646bc68f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 890265039,
-    "wof:lastmodified": 1595726983,
+    "wof:lastmodified": 1609869174,
     "wof:name": "SS14 3FU",
     "wof:parent_id": 404452851,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.485388, 
-    51.590816, 
-    0.485388, 
-    51.590816
+    0.486803, 
+    51.590813, 
+    0.486803, 
+    51.590813
   ],
-  "geometry": {"coordinates":[0.485388,51.590816],"type":"Point"}
+  "geometry": {"coordinates":[0.486803,51.590813],"type":"Point"}
 }

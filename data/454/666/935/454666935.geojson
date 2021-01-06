@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.932071,51.673866,-1.932071,51.673866",
-    "geom:latitude": 51.673866,
-    "geom:longitude": -1.932071,
+    "geom:bbox": "-1.932394,51.674122,-1.932394,51.674122",
+    "geom:latitude": 51.674122,
+    "geom:longitude": -1.932394,
     "gp:parent_id": "35193",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698927, 
       404432503, 
       1125959755, 
       404227469, 
-      1360698553
+      1360698553, 
+      85633159, 
+      1360698927
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701693,
-    "wof:geomhash": "8d7a826374de962d9c02734a6cf65dfc",
+    "wof:geomhash": "55e4faa531e11d787f3b7813c7a417da",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454666935,
-    "wof:lastmodified": 1583786828,
+    "wof:lastmodified": 1609898966,
     "wof:name": "GL7 5TX",
     "wof:parent_id": 404432503,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.932071, 
-    51.673866, 
-    -1.932071, 
-    51.673866
+    -1.932394, 
+    51.674122, 
+    -1.932394, 
+    51.674122
   ],
-  "geometry": {"coordinates":[-1.932071,51.673866],"type":"Point"}
+  "geometry": {"coordinates":[-1.932394,51.674122],"type":"Point"}
 }

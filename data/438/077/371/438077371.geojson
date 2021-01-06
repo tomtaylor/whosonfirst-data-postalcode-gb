@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.330064,51.083620,-2.330064,51.083620",
-    "geom:latitude": 51.08362,
-    "geom:longitude": -2.330064,
+    "geom:bbox": "-2.329975,51.083533,-2.329975,51.083533",
+    "geom:latitude": 51.083533,
+    "geom:longitude": -2.329975,
     "gp:parent_id": "31782",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699059, 
-      404434691, 
       1125946051, 
       404227469, 
-      1360698589
+      1360698589, 
+      85633159, 
+      1360699059, 
+      404434691
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701214,
-    "wof:geomhash": "8921c9faad01a7c0e468fa3915fa8029",
+    "wof:geomhash": "b1c8e904467a073e4efad49e100dc376",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438077371,
-    "wof:lastmodified": 1583786353,
+    "wof:lastmodified": 1609871329,
     "wof:name": "BA9 8NH",
     "wof:parent_id": 404434691,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.330064, 
-    51.08362, 
-    -2.330064, 
-    51.08362
+    -2.329975, 
+    51.083533, 
+    -2.329975, 
+    51.083533
   ],
-  "geometry": {"coordinates":[-2.330064,51.08362],"type":"Point"}
+  "geometry": {"coordinates":[-2.329975,51.083533],"type":"Point"}
 }

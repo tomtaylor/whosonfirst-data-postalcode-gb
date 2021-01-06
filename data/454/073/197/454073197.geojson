@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2000-06-01",
     "geom:area": 0,
-    "geom:bbox": "-3.422608,54.816747,-3.422608,54.816747",
-    "geom:latitude": 54.816747,
-    "geom:longitude": -3.422608,
+    "geom:bbox": "-3.422249,54.816730,-3.422249,54.816730",
+    "geom:latitude": 54.81673,
+    "geom:longitude": -3.422249,
     "gp:parent_id": "12187",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698877, 
-      404445499, 
-      1360759423, 
       404227469, 
       1360698721, 
-      85633159
+      85633159, 
+      1360698877, 
+      404445499, 
+      1360759423
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701150,
-    "wof:geomhash": "8f0c717db50ae20ec5cb7d8a15b2a339",
+    "wof:geomhash": "17ec490424d4c28347edf3e584e94cb5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454073197,
-    "wof:lastmodified": 1583786293,
+    "wof:lastmodified": 1609869635,
     "wof:name": "CA7 4LF",
     "wof:parent_id": 404445499,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.422608, 
-    54.816747, 
-    -3.422608, 
-    54.816747
+    -3.422249, 
+    54.81673, 
+    -3.422249, 
+    54.81673
   ],
-  "geometry": {"coordinates":[-3.422608,54.816747],"type":"Point"}
+  "geometry": {"coordinates":[-3.422249,54.81673],"type":"Point"}
 }

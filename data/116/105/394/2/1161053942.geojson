@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2016-11-01",
     "geom:area": 0,
-    "geom:bbox": "-1.137357,50.963846,-1.137357,50.963846",
-    "geom:latitude": 50.963846,
-    "geom:longitude": -1.137357,
+    "geom:bbox": "-1.137343,50.963864,-1.137343,50.963864",
+    "geom:latitude": 50.963864,
+    "geom:longitude": -1.137343,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1125998049, 
       404227469, 
       1360698557, 
       85633159, 
       1360698827, 
-      404445343
+      404445343, 
+      1125998049
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583801897,
-    "wof:geomhash": "57e98cbeb868f74d22709ea39b64b68e",
+    "wof:geomhash": "a492a56a44f1498473fe8125abefab59",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1161053942,
-    "wof:lastmodified": 1583801897,
+    "wof:lastmodified": 1609875392,
     "wof:name": "SO32 3AR",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.137357, 
-    50.963846, 
-    -1.137357, 
-    50.963846
+    -1.137343, 
+    50.963864, 
+    -1.137343, 
+    50.963864
   ],
-  "geometry": {"coordinates":[-1.137357,50.963846],"type":"Point"}
+  "geometry": {"coordinates":[-1.137343,50.963864],"type":"Point"}
 }

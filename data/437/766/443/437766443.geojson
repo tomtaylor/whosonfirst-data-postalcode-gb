@@ -5,26 +5,26 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "-1.438392,52.526628,-1.438392,52.526628",
-    "geom:latitude": 52.526628,
-    "geom:longitude": -1.438392,
+    "geom:bbox": "-1.444452,52.545149,-1.444452,52.545149",
+    "geom:latitude": 52.545149,
+    "geom:longitude": -1.444452,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000031",
     "os:district_code": "E07000219",
-    "os:positional_quality_indicator": "5",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      85785407, 
-      1360698603, 
       85633159, 
       1360698891, 
       1360817293, 
       101750471, 
-      404227469
+      404227469, 
+      85785407, 
+      1360698603
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701542,
-    "wof:geomhash": "66d031d09c69e31a0382fc1a6f14ca26",
+    "wof:geomhash": "d65e7e69ffff6e98ba41fd163e3d167c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 437766443,
-    "wof:lastmodified": 1595714831,
+    "wof:lastmodified": 1609888898,
     "wof:name": "CV11 6GT",
     "wof:parent_id": "101872043",
     "wof:placetype": "postalcode",
@@ -55,10 +55,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.438392, 
-    52.526628, 
-    -1.438392, 
-    52.526628
+    -1.444452, 
+    52.545149, 
+    -1.444452, 
+    52.545149
   ],
-  "geometry": {"coordinates":[-1.438392,52.526628],"type":"Point"}
+  "geometry": {"coordinates":[-1.444452,52.545149],"type":"Point"}
 }

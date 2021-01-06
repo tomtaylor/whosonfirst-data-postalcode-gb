@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-03-01",
     "geom:area": 0,
-    "geom:bbox": "-0.996782,54.581720,-0.996782,54.581720",
-    "geom:latitude": 54.58172,
-    "geom:longitude": -0.996782,
+    "geom:bbox": "-0.996615,54.581584,-0.996615,54.581584",
+    "geom:latitude": 54.581584,
+    "geom:longitude": -0.996615,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      1360757063, 
-      404227469, 
-      1360698619, 
       85633159, 
       1360698859, 
-      404448555
+      404448555, 
+      1360757063, 
+      404227469, 
+      1360698619
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583799560,
-    "wof:geomhash": "23a3ce1c4881daed631a058b922000e6",
+    "wof:geomhash": "d5bd54662f0a00ce594704893c9e3823",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1161001724,
-    "wof:lastmodified": 1583799560,
+    "wof:lastmodified": 1609873915,
     "wof:name": "TS12 1PS",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.996782, 
-    54.58172, 
-    -0.996782, 
-    54.58172
+    -0.996615, 
+    54.581584, 
+    -0.996615, 
+    54.581584
   ],
-  "geometry": {"coordinates":[-0.996782,54.58172],"type":"Point"}
+  "geometry": {"coordinates":[-0.996615,54.581584],"type":"Point"}
 }

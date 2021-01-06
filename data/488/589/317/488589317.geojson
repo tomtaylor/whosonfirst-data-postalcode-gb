@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2006-05-01",
     "geom:area": 0,
-    "geom:bbox": "-3.189407,51.590030,-3.189407,51.590030",
-    "geom:latitude": 51.59003,
-    "geom:longitude": -3.189407,
+    "geom:bbox": "-3.189100,51.589889,-3.189100,51.589889",
+    "geom:latitude": 51.589889,
+    "geom:longitude": -3.1891,
     "gp:parent_id": "12696116",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698925, 
+      404430799, 
       101852777, 
       404227475, 
       1360698641, 
-      85633159, 
-      1360698925, 
-      404430799
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701605,
-    "wof:geomhash": "ff126d34f395e1bc0e7415022690d7b4",
+    "wof:geomhash": "359885617ec4006f78611c155a607a8b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488589317,
-    "wof:lastmodified": 1583786798,
+    "wof:lastmodified": 1609897855,
     "wof:name": "CF83 8YE",
     "wof:parent_id": 101852777,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.189407, 
-    51.59003, 
-    -3.189407, 
-    51.59003
+    -3.1891, 
+    51.589889, 
+    -3.1891, 
+    51.589889
   ],
-  "geometry": {"coordinates":[-3.189407,51.59003],"type":"Point"}
+  "geometry": {"coordinates":[-3.1891,51.589889],"type":"Point"}
 }

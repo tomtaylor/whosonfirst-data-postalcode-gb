@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-5.104451,51.875597,-5.104451,51.875597",
-    "geom:latitude": 51.875597,
-    "geom:longitude": -5.104451,
+    "geom:bbox": "-5.102872,51.877995,-5.102872,51.877995",
+    "geom:latitude": 51.877995,
+    "geom:longitude": -5.102872,
     "gp:parent_id": "31616",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698639, 
-      85633159, 
-      1360698843, 
       404438327, 
       1209241645, 
-      404227475
+      404227475, 
+      1360698639, 
+      85633159, 
+      1360698843
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701475,
-    "wof:geomhash": "dd6d1331b2325f8150e514de4e116a9c",
+    "wof:geomhash": "bcc220bb4c9b037ec3945f9144df0cb5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504606093,
-    "wof:lastmodified": 1583786630,
+    "wof:lastmodified": 1609882140,
     "wof:name": "SA62 6JZ",
     "wof:parent_id": 404438327,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -5.104451, 
-    51.875597, 
-    -5.104451, 
-    51.875597
+    -5.102872, 
+    51.877995, 
+    -5.102872, 
+    51.877995
   ],
-  "geometry": {"coordinates":[-5.104451,51.875597],"type":"Point"}
+  "geometry": {"coordinates":[-5.102872,51.877995],"type":"Point"}
 }

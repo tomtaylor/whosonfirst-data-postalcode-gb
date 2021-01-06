@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.369754,52.294308,-2.369754,52.294308",
-    "geom:latitude": 52.294308,
-    "geom:longitude": -2.369754,
+    "geom:bbox": "-2.369578,52.294362,-2.369578,52.294362",
+    "geom:latitude": 52.294362,
+    "geom:longitude": -2.369578,
     "gp:parent_id": "21758",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699043, 
       404449683, 
       1125879871, 
       404227469, 
       1360698613, 
-      85633159
+      85633159, 
+      1360699043
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701293,
-    "wof:geomhash": "945e25b76a1b44a968b5108de75def9e",
+    "wof:geomhash": "e1638a140d2a491388c944ab0b78ebb5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488177495,
-    "wof:lastmodified": 1595730052,
+    "wof:lastmodified": 1609878578,
     "wof:name": "WR6 6HT",
     "wof:parent_id": 404449683,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.369754, 
-    52.294308, 
-    -2.369754, 
-    52.294308
+    -2.369578, 
+    52.294362, 
+    -2.369578, 
+    52.294362
   ],
-  "geometry": {"coordinates":[-2.369754,52.294308],"type":"Point"}
+  "geometry": {"coordinates":[-2.369578,52.294362],"type":"Point"}
 }

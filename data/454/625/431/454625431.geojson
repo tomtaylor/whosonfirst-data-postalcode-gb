@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.244268,51.866227,-2.244268,51.866227",
-    "geom:latitude": 51.866227,
-    "geom:longitude": -2.244268,
+    "geom:bbox": "-2.244167,51.866353,-2.244167,51.866353",
+    "geom:latitude": 51.866353,
+    "geom:longitude": -2.244167,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,11 +18,11 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698927, 
       101750437, 
       404227469, 
-      1360698553
+      1360698553, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -30,7 +30,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701664,
-    "wof:geomhash": "4ec6ba79764b773130986660c8ec5a1f",
+    "wof:geomhash": "9801f1c018ece47f3d9becef3b213a86",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -41,7 +41,7 @@
       }
     ],
     "wof:id": 454625431,
-    "wof:lastmodified": 1583786803,
+    "wof:lastmodified": 1609897319,
     "wof:name": "GL1 1SQ",
     "wof:parent_id": 101750437,
     "wof:placetype": "postalcode",
@@ -51,10 +51,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.244268, 
-    51.866227, 
-    -2.244268, 
-    51.866227
+    -2.244167, 
+    51.866353, 
+    -2.244167, 
+    51.866353
   ],
-  "geometry": {"coordinates":[-2.244268,51.866227],"type":"Point"}
+  "geometry": {"coordinates":[-2.244167,51.866353],"type":"Point"}
 }

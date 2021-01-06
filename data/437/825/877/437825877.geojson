@@ -2,28 +2,29 @@
   "id": 437825877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2003-01-01",
-    "edtf:inception": "2000-12-01",
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-10-01",
     "geom:area": 0,
-    "geom:bbox": "-0.545233,53.224065,-0.545233,53.224065",
-    "geom:latitude": 53.224065,
-    "geom:longitude": -0.545233,
+    "geom:bbox": "-0.693859,53.171780,-0.693859,53.171780",
+    "geom:latitude": 53.17178,
+    "geom:longitude": -0.693859,
     "gp:parent_id": "22763082",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000019",
-    "os:district_code": "E07000138",
-    "os:positional_quality_indicator": "1",
+    "os:district_code": "E07000139",
+    "os:positional_quality_indicator": "5",
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699067, 
-      101750523, 
+      404445149, 
+      1360759215, 
       404227469, 
-      1360698571
+      1360698571, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,18 +32,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701576,
-    "wof:geomhash": "7321c4edc6dcba1dc6df86690e6630a8",
+    "wof:geomhash": "394e6376912e6bb6ccb6c09d479facb5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360699067,
-        "locality_id": 101750523,
+        "localadmin_id": 404445149,
+        "locality_id": 1360759215,
         "macroregion_id": 404227469,
         "region_id": 1360698571
       }
     ],
     "wof:id": 437825877,
-    "wof:lastmodified": 1583786730,
+    "wof:lastmodified": 1609891752,
     "wof:name": "LN6 9GU",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -52,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.545233, 
-    53.224065, 
-    -0.545233, 
-    53.224065
+    -0.693859, 
+    53.17178, 
+    -0.693859, 
+    53.17178
   ],
-  "geometry": {"coordinates":[-0.545233,53.224065],"type":"Point"}
+  "geometry": {"coordinates":[-0.693859,53.17178],"type":"Point"}
 }

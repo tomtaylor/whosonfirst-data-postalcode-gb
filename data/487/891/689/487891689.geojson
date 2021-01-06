@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1981-06-01",
     "geom:area": 0,
-    "geom:bbox": "-3.764207,50.660180,-3.764207,50.660180",
-    "geom:latitude": 50.66018,
-    "geom:longitude": -3.764207,
+    "geom:bbox": "-3.764566,50.660337,-3.764566,50.660337",
+    "geom:latitude": 50.660337,
+    "geom:longitude": -3.764566,
     "gp:parent_id": "29341",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698541, 
-      85633159, 
       1360699081, 
       404443729, 
-      1125880807
+      1125880807, 
+      404227469, 
+      1360698541, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701237,
-    "wof:geomhash": "245134c8a44296ea6c1a9675bc3c2dc4",
+    "wof:geomhash": "30b4d94bd8456ebc781b1377e2d050e4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487891689,
-    "wof:lastmodified": 1583786323,
+    "wof:lastmodified": 1609885289,
     "wof:name": "TQ13 8PD",
     "wof:parent_id": 404443729,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.764207, 
-    50.66018, 
-    -3.764207, 
-    50.66018
+    -3.764566, 
+    50.660337, 
+    -3.764566, 
+    50.660337
   ],
-  "geometry": {"coordinates":[-3.764207,50.66018],"type":"Point"}
+  "geometry": {"coordinates":[-3.764566,50.660337],"type":"Point"}
 }

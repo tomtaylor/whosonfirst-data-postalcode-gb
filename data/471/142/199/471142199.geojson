@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1981-09-01",
     "geom:area": 0,
-    "geom:bbox": "-0.531016,52.989580,-0.531016,52.989580",
-    "geom:latitude": 52.98958,
-    "geom:longitude": -0.531016,
+    "geom:bbox": "-0.531038,52.989629,-0.531038,52.989629",
+    "geom:latitude": 52.989629,
+    "geom:longitude": -0.531038,
     "gp:parent_id": "10798",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1126019981, 
-      404227469, 
       1360698571, 
       85633159, 
       1360699067, 
-      404451141
+      404451141, 
+      1126019981, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701335,
-    "wof:geomhash": "3cfdf0cda4fa896d7556a5ca7f2a6ea1",
+    "wof:geomhash": "f8afd66d0f3705b843a0575a456ab1a6",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471142199,
-    "wof:lastmodified": 1583786480,
+    "wof:lastmodified": 1609876501,
     "wof:name": "NG32 3RW",
     "wof:parent_id": 404451141,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.531016, 
-    52.98958, 
-    -0.531016, 
-    52.98958
+    -0.531038, 
+    52.989629, 
+    -0.531038, 
+    52.989629
   ],
-  "geometry": {"coordinates":[-0.531016,52.98958],"type":"Point"}
+  "geometry": {"coordinates":[-0.531038,52.989629],"type":"Point"}
 }

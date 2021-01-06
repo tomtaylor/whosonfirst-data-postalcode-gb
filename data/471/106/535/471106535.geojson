@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.028556,52.955661,-1.028556,52.955661",
-    "geom:latitude": 52.955661,
-    "geom:longitude": -1.028556,
+    "geom:bbox": "-1.028322,52.955347,-1.028322,52.955347",
+    "geom:latitude": 52.955347,
+    "geom:longitude": -1.028322,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      404455147, 
+      1292933179, 
       404227469, 
       1360698583, 
       85633159, 
-      1360698809, 
-      404455147, 
-      1292933179
+      1360698809
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701306,
-    "wof:geomhash": "4c73f512db537354f1c010434b694bb5",
+    "wof:geomhash": "df5e7192924d2c1e19affbb9ecb1874e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471106535,
-    "wof:lastmodified": 1583786443,
+    "wof:lastmodified": 1609873467,
     "wof:name": "NG12 1AZ",
     "wof:parent_id": 101871919,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.028556, 
-    52.955661, 
-    -1.028556, 
-    52.955661
+    -1.028322, 
+    52.955347, 
+    -1.028322, 
+    52.955347
   ],
-  "geometry": {"coordinates":[-1.028556,52.955661],"type":"Point"}
+  "geometry": {"coordinates":[-1.028322,52.955347],"type":"Point"}
 }

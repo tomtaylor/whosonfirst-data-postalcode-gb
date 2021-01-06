@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.499094,54.713159,-3.499094,54.713159",
-    "geom:latitude": 54.713159,
-    "geom:longitude": -3.499094,
+    "geom:bbox": "-3.499298,54.713211,-3.499298,54.713211",
+    "geom:latitude": 54.713211,
+    "geom:longitude": -3.499298,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      404447873, 
+      101873391, 
       404227469, 
       1360698721, 
       85633159, 
-      1360698877, 
-      404447873, 
-      101873391
+      1360698877
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701108,
-    "wof:geomhash": "4b2af723e0ef08959bc9cf49035ee183",
+    "wof:geomhash": "49c76b44d1dc6966194251b449e03f12",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454059211,
-    "wof:lastmodified": 1595710926,
+    "wof:lastmodified": 1609869159,
     "wof:name": "CA15 6DU",
     "wof:parent_id": 101873391,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.499094, 
-    54.713159, 
-    -3.499094, 
-    54.713159
+    -3.499298, 
+    54.713211, 
+    -3.499298, 
+    54.713211
   ],
-  "geometry": {"coordinates":[-3.499094,54.713159],"type":"Point"}
+  "geometry": {"coordinates":[-3.499298,54.713211],"type":"Point"}
 }

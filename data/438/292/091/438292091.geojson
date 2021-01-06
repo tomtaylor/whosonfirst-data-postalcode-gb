@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1999-12-01",
     "geom:area": 0,
-    "geom:bbox": "-2.491676,51.450162,-2.491676,51.450162",
-    "geom:latitude": 51.450162,
-    "geom:longitude": -2.491676,
+    "geom:bbox": "-2.491360,51.450280,-2.491360,51.450280",
+    "geom:latitude": 51.45028,
+    "geom:longitude": -2.49136,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,13 +18,13 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      85785495, 
       1360698553, 
       85633159, 
       1360698895, 
       404450879, 
-      1360755835, 
-      404227469, 
-      85785495
+      1360755835
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701481,
-    "wof:geomhash": "3bffec585777dd22f17a2c5ddffe135c",
+    "wof:geomhash": "2132c6af7670cfbae8b149b9e0735755",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 438292091,
-    "wof:lastmodified": 1595714334,
+    "wof:lastmodified": 1609883965,
     "wof:name": "BS30 7XB",
     "wof:parent_id": 101914025,
     "wof:placetype": "postalcode",
@@ -55,10 +55,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.491676, 
-    51.450162, 
-    -2.491676, 
-    51.450162
+    -2.49136, 
+    51.45028, 
+    -2.49136, 
+    51.45028
   ],
-  "geometry": {"coordinates":[-2.491676,51.450162],"type":"Point"}
+  "geometry": {"coordinates":[-2.49136,51.45028],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.842483,53.631144,-1.842483,53.631144",
-    "geom:latitude": 53.631144,
-    "geom:longitude": -1.842483,
+    "geom:bbox": "-1.842107,53.630871,-1.842107,53.630871",
+    "geom:latitude": 53.630871,
+    "geom:longitude": -1.842107,
     "gp:parent_id": "26327",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      101750573, 
-      404227469, 
       1360698609, 
       85633159, 
-      1360698917
+      1360698917, 
+      101750573, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701698,
-    "wof:geomhash": "fd55d7bb41f0f1d23da387dc7ce7f428",
+    "wof:geomhash": "b50574369d88d6b01fb811b59bf700f4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454750199,
-    "wof:lastmodified": 1583786848,
+    "wof:lastmodified": 1609901124,
     "wof:name": "HD7 5TQ",
     "wof:parent_id": 404431985,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.842483, 
-    53.631144, 
-    -1.842483, 
-    53.631144
+    -1.842107, 
+    53.630871, 
+    -1.842107, 
+    53.630871
   ],
-  "geometry": {"coordinates":[-1.842483,53.631144],"type":"Point"}
+  "geometry": {"coordinates":[-1.842107,53.630871],"type":"Point"}
 }

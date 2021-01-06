@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.372721,51.479751,-0.372721,51.479751",
-    "geom:latitude": 51.479751,
-    "geom:longitude": -0.372721,
+    "geom:bbox": "-0.372731,51.479877,-0.372731,51.479877",
+    "geom:latitude": 51.479877,
+    "geom:longitude": -0.372731,
     "gp:parent_id": "24020",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -20,12 +20,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      85788147, 
       1360698645, 
       1158857259, 
       85633159, 
-      101750367, 
-      404227469, 
-      85788147
+      101750367
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701098,
-    "wof:geomhash": "82efa28d4530f708d13b29926cd3bbdb",
+    "wof:geomhash": "03d27d128841f53b7000568414ae7474",
     "wof:hierarchy": [
       {
         "borough_id": 1158857259,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 487988733,
-    "wof:lastmodified": 1583786365,
+    "wof:lastmodified": 1609890283,
     "wof:name": "TW5 0PT",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -55,10 +55,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.372721, 
-    51.479751, 
-    -0.372721, 
-    51.479751
+    -0.372731, 
+    51.479877, 
+    -0.372731, 
+    51.479877
   ],
-  "geometry": {"coordinates":[-0.372721,51.479751],"type":"Point"}
+  "geometry": {"coordinates":[-0.372731,51.479877],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.450843,54.838970,-1.450843,54.838970",
-    "geom:latitude": 54.83897,
-    "geom:longitude": -1.450843,
+    "geom:bbox": "-1.443855,54.839899,-1.443855,54.839899",
+    "geom:latitude": 54.839899,
+    "geom:longitude": -1.443855,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698987, 
       1360817213, 
       101872327, 
       404227469, 
-      1360698601, 
-      85633159, 
-      1360698987
+      1360698601
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701523,
-    "wof:geomhash": "96a5e8efd33b0c70d35a5c0c3a4ae7c3",
+    "wof:geomhash": "1dc1761142430ffbca85541c1f82e0a5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454372305,
-    "wof:lastmodified": 1583786655,
+    "wof:lastmodified": 1609886377,
     "wof:name": "DH5 8LU",
     "wof:parent_id": 404439585,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.450843, 
-    54.83897, 
-    -1.450843, 
-    54.83897
+    -1.443855, 
+    54.839899, 
+    -1.443855, 
+    54.839899
   ],
-  "geometry": {"coordinates":[-1.450843,54.83897],"type":"Point"}
+  "geometry": {"coordinates":[-1.443855,54.839899],"type":"Point"}
 }

@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.392009,51.598858,-0.392009,51.598858",
-    "geom:latitude": 51.598858,
-    "geom:longitude": -0.392009,
+    "geom:bbox": "-0.392266,51.598765,-0.392266,51.598765",
+    "geom:latitude": 51.598765,
+    "geom:longitude": -0.392266,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      1158857263, 
-      85633159, 
       101750367, 
       404227469, 
       85788007, 
-      1360698645
+      1360698645, 
+      1158857263, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701705,
-    "wof:geomhash": "3e8ba98de92d1c0bb69560c7c1624b57",
+    "wof:geomhash": "1955b1d66822c38d27cf47767718f1c2",
     "wof:hierarchy": [
       {
         "borough_id": 1158857263,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454729677,
-    "wof:lastmodified": 1583786845,
+    "wof:lastmodified": 1609900702,
     "wof:name": "HA5 3LW",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.392009, 
-    51.598858, 
-    -0.392009, 
-    51.598858
+    -0.392266, 
+    51.598765, 
+    -0.392266, 
+    51.598765
   ],
-  "geometry": {"coordinates":[-0.392009,51.598858],"type":"Point"}
+  "geometry": {"coordinates":[-0.392266,51.598765],"type":"Point"}
 }

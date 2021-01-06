@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.189710,50.835443,-0.189710,50.835443",
-    "geom:latitude": 50.835443,
-    "geom:longitude": -0.18971,
+    "geom:bbox": "-0.189692,50.835155,-0.189692,50.835155",
+    "geom:latitude": 50.835155,
+    "geom:longitude": -0.189692,
     "gp:parent_id": "24024",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698549, 
       85633159, 
       1360699019, 
       101750303, 
-      404227469, 
-      1360698549
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701422,
-    "wof:geomhash": "e7ceaccd72fa44dfd5884f4123bf940f",
+    "wof:geomhash": "a38b0a579743e3287e31f7d457a5b290",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 438236241,
-    "wof:lastmodified": 1583786554,
+    "wof:lastmodified": 1609881130,
     "wof:name": "BN3 5HX",
     "wof:parent_id": 101750303,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.18971, 
-    50.835443, 
-    -0.18971, 
-    50.835443
+    -0.189692, 
+    50.835155, 
+    -0.189692, 
+    50.835155
   ],
-  "geometry": {"coordinates":[-0.18971,50.835443],"type":"Point"}
+  "geometry": {"coordinates":[-0.189692,50.835155],"type":"Point"}
 }

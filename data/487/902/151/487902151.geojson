@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-04-01",
     "geom:area": 0,
-    "geom:bbox": "-3.710505,50.232980,-3.710505,50.232980",
-    "geom:latitude": 50.23298,
-    "geom:longitude": -3.710505,
+    "geom:bbox": "-3.709070,50.229727,-3.709070,50.229727",
+    "geom:latitude": 50.229727,
+    "geom:longitude": -3.70907,
     "gp:parent_id": "15988",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699081, 
-      404436919, 
-      1360759053, 
       404227469, 
       1360698541, 
-      85633159
+      85633159, 
+      1360699081, 
+      404436919, 
+      1360759053
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701242,
-    "wof:geomhash": "d9359ccb8682f896d966686ab75cb814",
+    "wof:geomhash": "4d008a4359ad601225db05a24bd97497",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487902151,
-    "wof:lastmodified": 1583786325,
+    "wof:lastmodified": 1609885714,
     "wof:name": "TQ7 2NL",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.710505, 
-    50.23298, 
-    -3.710505, 
-    50.23298
+    -3.70907, 
+    50.229727, 
+    -3.70907, 
+    50.229727
   ],
-  "geometry": {"coordinates":[-3.710505,50.23298],"type":"Point"}
+  "geometry": {"coordinates":[-3.70907,50.229727],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1994-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.282781,50.876726,-1.282781,50.876726",
-    "geom:latitude": 50.876726,
-    "geom:longitude": -1.282781,
+    "geom:bbox": "-1.282568,50.876680,-1.282568,50.876680",
+    "geom:latitude": 50.87668,
+    "geom:longitude": -1.282568,
     "gp:parent_id": "34063",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698557, 
       85633159, 
       1360698827, 
       101750353, 
-      404227469
+      404227469, 
+      1360698557
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701086,
-    "wof:geomhash": "f37341ad0546be2b0872f3f52740a6f0",
+    "wof:geomhash": "44e80419e907edad39bc215fb54128a3",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 487613839,
-    "wof:lastmodified": 1583786184,
+    "wof:lastmodified": 1609869209,
     "wof:name": "SO31 7FT",
     "wof:parent_id": 404437055,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.282781, 
-    50.876726, 
-    -1.282781, 
-    50.876726
+    -1.282568, 
+    50.87668, 
+    -1.282568, 
+    50.87668
   ],
-  "geometry": {"coordinates":[-1.282781,50.876726],"type":"Point"}
+  "geometry": {"coordinates":[-1.282568,50.87668],"type":"Point"}
 }

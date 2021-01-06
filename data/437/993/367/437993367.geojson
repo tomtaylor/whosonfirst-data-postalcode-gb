@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.896184,52.520297,-1.896184,52.520297",
-    "geom:latitude": 52.520297,
-    "geom:longitude": -1.896184,
+    "geom:bbox": "-1.896199,52.520243,-1.896199,52.520243",
+    "geom:latitude": 52.520243,
+    "geom:longitude": -1.896199,
     "gp:parent_id": "31917",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      85788253, 
       1360698605, 
       85633159, 
       1360699077, 
       101750467, 
-      404227469
+      404227469, 
+      85788253
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701669,
-    "wof:geomhash": "bff2d84ca32753cd47482db941e3bfad",
+    "wof:geomhash": "ddb5ef975fe7e3084cbd055ffea1923e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 437993367,
-    "wof:lastmodified": 1583786840,
+    "wof:lastmodified": 1609899046,
     "wof:name": "B42 2TP",
     "wof:parent_id": 101750467,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.896184, 
-    52.520297, 
-    -1.896184, 
-    52.520297
+    -1.896199, 
+    52.520243, 
+    -1.896199, 
+    52.520243
   ],
-  "geometry": {"coordinates":[-1.896184,52.520297],"type":"Point"}
+  "geometry": {"coordinates":[-1.896199,52.520243],"type":"Point"}
 }

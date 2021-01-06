@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1998-12-01",
     "geom:area": 0,
-    "geom:bbox": "-4.185886,57.481961,-4.185886,57.481961",
-    "geom:latitude": 57.481961,
-    "geom:longitude": -4.185886,
+    "geom:bbox": "-4.185577,57.481268,-4.185577,57.481268",
+    "geom:latitude": 57.481268,
+    "geom:longitude": -4.185577,
     "gp:parent_id": "12696199",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699045, 
       404436073, 
       404227471, 
-      1360698661
+      1360698661, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701268,
-    "wof:geomhash": "db93b6a70acc73d77b3dd24ab3d9790f",
+    "wof:geomhash": "15f20a1fdcf85c885d79f41b6bf3e509",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504437559,
-    "wof:lastmodified": 1583786422,
+    "wof:lastmodified": 1609871259,
     "wof:name": "IV2 7PA",
     "wof:parent_id": 404436073,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.185886, 
-    57.481961, 
-    -4.185886, 
-    57.481961
+    -4.185577, 
+    57.481268, 
+    -4.185577, 
+    57.481268
   ],
-  "geometry": {"coordinates":[-4.185886,57.481961],"type":"Point"}
+  "geometry": {"coordinates":[-4.185577,57.481268],"type":"Point"}
 }

@@ -2,32 +2,32 @@
   "id": 1712818291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "1981-12-01",
-    "edtf:inception": "1980-01-01",
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-10-01",
     "geom:area": 0,
-    "geom:bbox": "-1.850223,53.640421,-1.850223,53.640421",
-    "geom:latitude": 53.640421,
-    "geom:longitude": -1.850223,
+    "geom:bbox": "-1.846069,53.647459,-1.846069,53.647459",
+    "geom:latitude": 53.647459,
+    "geom:longitude": -1.846069,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E08000034",
-    "os:positional_quality_indicator": "8",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698917, 
-      101750573, 
       404227469, 
       1360698609, 
-      85633159
+      85633159, 
+      1360698917, 
+      101750573
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583804941,
-    "wof:geomhash": "a9c33fa47e6c0d7fb36935717dfdfc7a",
+    "wof:geomhash": "b6e491a564385dafb5749d406489be46",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1712818291,
-    "wof:lastmodified": 1583804941,
+    "wof:lastmodified": 1609874900,
     "wof:name": "HD7 4RU",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.850223, 
-    53.640421, 
-    -1.850223, 
-    53.640421
+    -1.846069, 
+    53.647459, 
+    -1.846069, 
+    53.647459
   ],
-  "geometry": {"coordinates":[-1.850223,53.640421],"type":"Point"}
+  "geometry": {"coordinates":[-1.846069,53.647459],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1994-05-01",
     "geom:area": 0,
-    "geom:bbox": "-1.277485,52.539250,-1.277485,52.539250",
-    "geom:latitude": 52.53925,
-    "geom:longitude": -1.277485,
+    "geom:bbox": "-1.277445,52.539277,-1.277445,52.539277",
+    "geom:latitude": 52.539277,
+    "geom:longitude": -1.277445,
     "gp:parent_id": "34054",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      1126026453, 
+      404227469, 
       1360698569, 
       85633159, 
       1360698871, 
-      404449395, 
-      1126026453, 
-      404227469
+      404449395
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701136,
-    "wof:geomhash": "2d19bb8e6716c341d27cd5c96f63f8e6",
+    "wof:geomhash": "d4e23d5a5fb7bb200fdfe879def5d716",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 455048135,
-    "wof:lastmodified": 1583786259,
+    "wof:lastmodified": 1609869955,
     "wof:name": "LE9 4FY",
     "wof:parent_id": 404449395,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.277485, 
-    52.53925, 
-    -1.277485, 
-    52.53925
+    -1.277445, 
+    52.539277, 
+    -1.277445, 
+    52.539277
   ],
-  "geometry": {"coordinates":[-1.277485,52.53925],"type":"Point"}
+  "geometry": {"coordinates":[-1.277445,52.539277],"type":"Point"}
 }

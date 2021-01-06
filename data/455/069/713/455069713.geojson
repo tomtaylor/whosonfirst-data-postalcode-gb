@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.549023,53.797471,-1.549023,53.797471",
-    "geom:latitude": 53.797471,
-    "geom:longitude": -1.549023,
+    "geom:bbox": "-1.548781,53.797774,-1.548781,53.797774",
+    "geom:latitude": 53.797774,
+    "geom:longitude": -1.548781,
     "gp:parent_id": "26042",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      85792901, 
       1360698609, 
       85633159, 
       1360698749, 
-      101750579
+      101750579, 
+      404227469, 
+      85792901
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701183,
-    "wof:geomhash": "c67b3fbede233dc73af9d52083e672e1",
+    "wof:geomhash": "13c9c09d5fe4103b3b81f8bdfc26383d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 455069713,
-    "wof:lastmodified": 1583786310,
+    "wof:lastmodified": 1609870979,
     "wof:name": "LS1 2JP",
     "wof:parent_id": 101750579,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.549023, 
-    53.797471, 
-    -1.549023, 
-    53.797471
+    -1.548781, 
+    53.797774, 
+    -1.548781, 
+    53.797774
   ],
-  "geometry": {"coordinates":[-1.549023,53.797471],"type":"Point"}
+  "geometry": {"coordinates":[-1.548781,53.797774],"type":"Point"}
 }

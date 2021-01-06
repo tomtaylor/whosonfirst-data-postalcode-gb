@@ -5,30 +5,30 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-09-01",
     "geom:area": 0,
-    "geom:bbox": "-1.628923,52.056983,-1.628923,52.056983",
-    "geom:latitude": 52.056983,
-    "geom:longitude": -1.628923,
+    "geom:bbox": "-1.627844,52.067526,-1.627844,52.067526",
+    "geom:latitude": 52.067526,
+    "geom:longitude": -1.627844,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000031",
     "os:district_code": "E07000221",
-    "os:positional_quality_indicator": "5",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1125998621, 
-      404227469, 
       1360698603, 
       85633159, 
       1360698891, 
-      404444191
+      404444191, 
+      1125998621, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583800758,
-    "wof:geomhash": "67e98d373250efa54ee13878943529e6",
+    "wof:geomhash": "4b49e2e89c9b0744a39a2902068f6fa3",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 39375900,
-    "wof:lastmodified": 1583800758,
+    "wof:lastmodified": 1609868558,
     "wof:name": "CV36 4QG",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.628923, 
-    52.056983, 
-    -1.628923, 
-    52.056983
+    -1.627844, 
+    52.067526, 
+    -1.627844, 
+    52.067526
   ],
-  "geometry": {"coordinates":[-1.628923,52.056983],"type":"Point"}
+  "geometry": {"coordinates":[-1.627844,52.067526],"type":"Point"}
 }

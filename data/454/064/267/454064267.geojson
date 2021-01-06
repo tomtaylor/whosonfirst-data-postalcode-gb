@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.536526,54.474893,-3.536526,54.474893",
-    "geom:latitude": 54.474893,
-    "geom:longitude": -3.536526,
+    "geom:bbox": "-3.536543,54.474920,-3.536543,54.474920",
+    "geom:latitude": 54.47492,
+    "geom:longitude": -3.536543,
     "gp:parent_id": "19417",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698721, 
-      85633159, 
-      1360698877, 
       404435251, 
       1126011927, 
-      404227469
+      404227469, 
+      1360698721, 
+      85633159, 
+      1360698877
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701123,
-    "wof:geomhash": "98c0c11b75a66ef67615853bf1418056",
+    "wof:geomhash": "650b5051c144e2faed06be0b8e9e1793",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454064267,
-    "wof:lastmodified": 1583786265,
+    "wof:lastmodified": 1609869316,
     "wof:name": "CA22 2LG",
     "wof:parent_id": 404435251,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.536526, 
-    54.474893, 
-    -3.536526, 
-    54.474893
+    -3.536543, 
+    54.47492, 
+    -3.536543, 
+    54.47492
   ],
-  "geometry": {"coordinates":[-3.536526,54.474893],"type":"Point"}
+  "geometry": {"coordinates":[-3.536543,54.47492],"type":"Point"}
 }

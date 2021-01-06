@@ -2,7 +2,7 @@
   "id": 454739083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-06-01",
     "edtf:inception": "2003-06-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
@@ -11,7 +11,7 @@
     "geom:longitude": -0.306477,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E09000005",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      85790821, 
       1360698645, 
       1158857267, 
       85633159, 
-      101750367, 
-      404227469, 
-      85790821
+      101750367
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454739083,
-    "wof:lastmodified": 1583786846,
+    "wof:lastmodified": 1609900575,
     "wof:name": "HA9 8ZH",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",

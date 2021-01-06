@@ -2,33 +2,33 @@
   "id": 1160989756,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "1995-07-01",
-    "edtf:inception": "1994-05-01",
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-10-01",
     "geom:area": 0,
-    "geom:bbox": "-0.973318,51.283337,-0.973318,51.283337",
-    "geom:latitude": 51.283337,
-    "geom:longitude": -0.973318,
+    "geom:bbox": "-0.950104,51.289488,-0.950104,51.289488",
+    "geom:latitude": 51.289488,
+    "geom:longitude": -0.950104,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000014",
     "os:district_code": "E07000089",
-    "os:positional_quality_indicator": "8",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1326659339, 
-      404227469, 
-      1360698557, 
       85633159, 
       1360698827, 
-      404431271
+      404431271, 
+      1326659339, 
+      404227469, 
+      1360698557
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583798953,
-    "wof:geomhash": "8f588ee6e3f7f4111585913dcfd6ebce",
+    "wof:geomhash": "0460fd62a6181be6a75250d15eac49fe",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160989756,
-    "wof:lastmodified": 1583798953,
+    "wof:lastmodified": 1609874114,
     "wof:name": "RG27 9YR",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.973318, 
-    51.283337, 
-    -0.973318, 
-    51.283337
+    -0.950104, 
+    51.289488, 
+    -0.950104, 
+    51.289488
   ],
-  "geometry": {"coordinates":[-0.973318,51.283337],"type":"Point"}
+  "geometry": {"coordinates":[-0.950104,51.289488],"type":"Point"}
 }

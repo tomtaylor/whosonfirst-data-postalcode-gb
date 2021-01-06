@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.647569,50.784432,-3.647569,50.784432",
-    "geom:latitude": 50.784432,
-    "geom:longitude": -3.647569,
+    "geom:bbox": "-3.647637,50.784278,-3.647637,50.784278",
+    "geom:latitude": 50.784278,
+    "geom:longitude": -3.647637,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699081, 
       404454695, 
       101852605, 
       404227469, 
-      1360698541
+      1360698541, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701646,
-    "wof:geomhash": "b15a56abf854b4c1dff667ed0eeaa44a",
+    "wof:geomhash": "da821ba48f5db57c125d0933980e5a9c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454575631,
-    "wof:lastmodified": 1583786776,
+    "wof:lastmodified": 1609895164,
     "wof:name": "EX17 3BU",
     "wof:parent_id": 101852605,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.647569, 
-    50.784432, 
-    -3.647569, 
-    50.784432
+    -3.647637, 
+    50.784278, 
+    -3.647637, 
+    50.784278
   ],
-  "geometry": {"coordinates":[-3.647569,50.784432],"type":"Point"}
+  "geometry": {"coordinates":[-3.647637,50.784278],"type":"Point"}
 }

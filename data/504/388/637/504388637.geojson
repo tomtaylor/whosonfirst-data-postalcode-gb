@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.935476,56.116322,-3.935476,56.116322",
-    "geom:latitude": 56.116322,
-    "geom:longitude": -3.935476,
+    "geom:bbox": "-3.935188,56.116158,-3.935188,56.116158",
+    "geom:latitude": 56.116158,
+    "geom:longitude": -3.935188,
     "gp:parent_id": "12696211",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699003, 
       404433721, 
       404227471, 
-      1360698655
+      1360698655, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701119,
-    "wof:geomhash": "f570abf3569984c9c1d3a386f4cabe7a",
+    "wof:geomhash": "7234deb54eba295480d2b35ad4426b35",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504388637,
-    "wof:lastmodified": 1583786213,
+    "wof:lastmodified": 1609869156,
     "wof:name": "FK8 2DX",
     "wof:parent_id": 101874203,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.935476, 
-    56.116322, 
-    -3.935476, 
-    56.116322
+    -3.935188, 
+    56.116158, 
+    -3.935188, 
+    56.116158
   ],
-  "geometry": {"coordinates":[-3.935476,56.116322],"type":"Point"}
+  "geometry": {"coordinates":[-3.935188,56.116158],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.882771,51.342332,-0.882771,51.342332",
-    "geom:latitude": 51.342332,
-    "geom:longitude": -0.882771,
+    "geom:bbox": "-0.882259,51.342598,-0.882259,51.342598",
+    "geom:latitude": 51.342598,
+    "geom:longitude": -0.882259,
     "gp:parent_id": "19757",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1126028911, 
-      404227469, 
-      1360698557, 
       85633159, 
       1360698827, 
-      404434277
+      404434277, 
+      1126028911, 
+      404227469, 
+      1360698557
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701665,
-    "wof:geomhash": "c6d79521966d27050a5598172f50cb47",
+    "wof:geomhash": "174b62b364039066663c1c8124023a74",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471543637,
-    "wof:lastmodified": 1583786801,
+    "wof:lastmodified": 1609896192,
     "wof:name": "RG27 0PX",
     "wof:parent_id": 404434277,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.882771, 
-    51.342332, 
-    -0.882771, 
-    51.342332
+    -0.882259, 
+    51.342598, 
+    -0.882259, 
+    51.342598
   ],
-  "geometry": {"coordinates":[-0.882771,51.342332],"type":"Point"}
+  "geometry": {"coordinates":[-0.882259,51.342598],"type":"Point"}
 }

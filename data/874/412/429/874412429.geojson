@@ -2,7 +2,7 @@
   "id": 874412429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-06-01",
     "edtf:inception": "2014-11-01",
     "geom:area": 0,
     "geom:bbox": "-2.159421,57.153045,-2.159421,57.153045",
@@ -10,7 +10,7 @@
     "geom:longitude": -2.159421,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "S92000003",
     "os:county_code": "S99999999",
     "os:district_code": "S12000033",
@@ -18,12 +18,12 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698989, 
-      404429183, 
       101750639, 
       404227471, 
       1360698709, 
-      85633159
+      85633159, 
+      1360698989, 
+      404429183
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 874412429,
-    "wof:lastmodified": 1583786210,
+    "wof:lastmodified": 1609868652,
     "wof:name": "AB16 9DX",
     "wof:parent_id": 101750639,
     "wof:placetype": "postalcode",

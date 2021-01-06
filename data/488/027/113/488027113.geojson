@@ -6,9 +6,9 @@
     "edtf:inception": "2000-12-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.146911,51.509098,-0.146911,51.509098",
-    "geom:latitude": 51.509098,
-    "geom:longitude": -0.146911,
+    "geom:bbox": "-0.146671,51.508978,-0.146671,51.508978",
+    "geom:latitude": 51.508978,
+    "geom:longitude": -0.146671,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      1158857245, 
+      85633159, 
       101750367, 
       1158859031, 
       404227469, 
       85789041, 
-      1360698645, 
-      1158857245, 
-      85633159
+      1360698645
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701199,
-    "wof:geomhash": "732a708947beb7d3f1c34072abbd20ee",
+    "wof:geomhash": "7d0a4c98b97295639ae204b0f1f1b76b",
     "wof:hierarchy": [
       {
         "borough_id": 1158857245,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 488027113,
-    "wof:lastmodified": 1595726988,
+    "wof:lastmodified": 1609869228,
     "wof:name": "W1J 5QD",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.146911, 
-    51.509098, 
-    -0.146911, 
-    51.509098
+    -0.146671, 
+    51.508978, 
+    -0.146671, 
+    51.508978
   ],
-  "geometry": {"coordinates":[-0.146911,51.509098],"type":"Point"}
+  "geometry": {"coordinates":[-0.146671,51.508978],"type":"Point"}
 }

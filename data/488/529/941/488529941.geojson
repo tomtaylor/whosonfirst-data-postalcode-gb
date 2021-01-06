@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.950320,51.620529,-3.950320,51.620529",
-    "geom:latitude": 51.620529,
-    "geom:longitude": -3.95032,
+    "geom:bbox": "-3.950252,51.620554,-3.950252,51.620554",
+    "geom:latitude": 51.620554,
+    "geom:longitude": -3.950252,
     "gp:parent_id": "12696131",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404435813, 
       1360711661, 
       404227475, 
       1360698629, 
       85633159, 
-      1360699095
+      1360699095, 
+      404435813
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701541,
-    "wof:geomhash": "d155f54ca418d42fbce182aa91eb5d3b",
+    "wof:geomhash": "b22aed946e71807e670c21ec5bc00973",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488529941,
-    "wof:lastmodified": 1583786742,
+    "wof:lastmodified": 1609895569,
     "wof:name": "SA1 5SQ",
     "wof:parent_id": 101750431,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.95032, 
-    51.620529, 
-    -3.95032, 
-    51.620529
+    -3.950252, 
+    51.620554, 
+    -3.950252, 
+    51.620554
   ],
-  "geometry": {"coordinates":[-3.95032,51.620529],"type":"Point"}
+  "geometry": {"coordinates":[-3.950252,51.620554],"type":"Point"}
 }

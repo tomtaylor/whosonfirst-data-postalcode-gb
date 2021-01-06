@@ -1,0 +1,59 @@
+{
+  "id": 1729690521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-09-01",
+    "geom:area": 0,
+    "geom:bbox": "-2.475484,52.678947,-2.475484,52.678947",
+    "geom:latitude": 52.678947,
+    "geom:longitude": -2.475484,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E99999999",
+    "os:district_code": "E06000020",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000005",
+    "src:geom": "os",
+    "wof:belongsto": [
+      404227469, 
+      1360698587, 
+      85633159, 
+      1360698911, 
+      404430827, 
+      1360754985
+    ],
+    "wof:breaches": [],
+    "wof:country": "GB",
+    "wof:created": 1609906464,
+    "wof:geomhash": "94f892cd85557499b4c1fb8449f50551",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698911,
+        "localadmin_id": 404430827,
+        "locality_id": 1360754985,
+        "macroregion_id": 404227469,
+        "region_id": 1360698587
+      }
+    ],
+    "wof:id": 1729690521,
+    "wof:lastmodified": 1609906464,
+    "wof:name": "TF3 5FD",
+    "wof:parent_id": -1,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -2.475484, 
+    52.678947, 
+    -2.475484, 
+    52.678947
+  ],
+  "geometry": {"coordinates":[-2.475484,52.678947],"type":"Point"}
+}

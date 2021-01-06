@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.342964,51.060113,0.342964,51.060113",
-    "geom:latitude": 51.060113,
-    "geom:longitude": 0.342964,
+    "geom:bbox": "0.342977,51.060110,0.342977,51.060110",
+    "geom:latitude": 51.06011,
+    "geom:longitude": 0.342977,
     "gp:parent_id": "38932",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1125895277, 
-      404227469, 
       1360698549, 
       85633159, 
       1360698815, 
-      404436009
+      404436009, 
+      1125895277, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701225,
-    "wof:geomhash": "9f8f96b8cc7e68f26a9d4328ac4cc974",
+    "wof:geomhash": "9fc2a7d946cae602902717065881222a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487878607,
-    "wof:lastmodified": 1583786313,
+    "wof:lastmodified": 1609884678,
     "wof:name": "TN5 6AY",
     "wof:parent_id": 404436009,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.342964, 
-    51.060113, 
-    0.342964, 
-    51.060113
+    0.342977, 
+    51.06011, 
+    0.342977, 
+    51.06011
   ],
-  "geometry": {"coordinates":[0.342964,51.060113],"type":"Point"}
+  "geometry": {"coordinates":[0.342977,51.06011],"type":"Point"}
 }

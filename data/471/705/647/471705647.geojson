@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.037752,51.479481,-0.037752,51.479481",
-    "geom:latitude": 51.479481,
-    "geom:longitude": -0.037752,
+    "geom:bbox": "-0.037766,51.479508,-0.037766,51.479508",
+    "geom:latitude": 51.479508,
+    "geom:longitude": -0.037766,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      85789319, 
+      1360698645, 
       1158857299, 
       85633159, 
       101750367, 
-      404227469, 
-      85789319, 
-      1360698645
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701716,
-    "wof:geomhash": "5fd553c55b16136003cba35c1e0e0270",
+    "wof:geomhash": "d09eb5e81771a6c7b99f09f57a0af319",
     "wof:hierarchy": [
       {
         "borough_id": 1158857299,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471705647,
-    "wof:lastmodified": 1583786887,
+    "wof:lastmodified": 1609901285,
     "wof:name": "SE14 6JX",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.037752, 
-    51.479481, 
-    -0.037752, 
-    51.479481
+    -0.037766, 
+    51.479508, 
+    -0.037766, 
+    51.479508
   ],
-  "geometry": {"coordinates":[-0.037752,51.479481],"type":"Point"}
+  "geometry": {"coordinates":[-0.037766,51.479508],"type":"Point"}
 }

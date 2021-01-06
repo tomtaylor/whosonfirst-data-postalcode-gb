@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-11-01",
     "geom:area": 0,
-    "geom:bbox": "-1.153203,53.611097,-1.153203,53.611097",
-    "geom:latitude": 53.611097,
+    "geom:bbox": "-1.153203,53.611088,-1.153203,53.611088",
+    "geom:latitude": 53.611088,
     "geom:longitude": -1.153203,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      101872149, 
-      404227469, 
       1360698591, 
       85633159, 
       1360698973, 
-      404447457
+      404447457, 
+      101872149, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583796690,
-    "wof:geomhash": "d0cfe106a4a78324a46522c34e49ee64",
+    "wof:geomhash": "fc7fcac06f4623ce5639af80227ee3a8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 39005937,
-    "wof:lastmodified": 1583796690,
+    "wof:lastmodified": 1609868447,
     "wof:name": "DN6 0FL",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -51,9 +51,9 @@
   },
   "bbox": [
     -1.153203, 
-    53.611097, 
+    53.611088, 
     -1.153203, 
-    53.611097
+    53.611088
   ],
-  "geometry": {"coordinates":[-1.153203,53.611097],"type":"Point"}
+  "geometry": {"coordinates":[-1.153203,53.611088],"type":"Point"}
 }

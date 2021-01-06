@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-05-01",
     "geom:area": 0,
-    "geom:bbox": "-1.307221,51.613240,-1.307221,51.613240",
-    "geom:latitude": 51.61324,
-    "geom:longitude": -1.307221,
+    "geom:bbox": "-1.306836,51.612923,-1.306836,51.612923",
+    "geom:latitude": 51.612923,
+    "geom:longitude": -1.306836,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698585, 
-      85633159, 
-      1360698839, 
       404432565, 
       1125911527, 
-      404227469
+      404227469, 
+      1360698585, 
+      85633159, 
+      1360698839
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583795976,
-    "wof:geomhash": "42fe51f2fff51aad79a8150bf8ea7abc",
+    "wof:geomhash": "54572b30fda09444f2db919764ceacad",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 38939751,
-    "wof:lastmodified": 1595711001,
+    "wof:lastmodified": 1609868481,
     "wof:name": "OX13 6GL",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.307221, 
-    51.61324, 
-    -1.307221, 
-    51.61324
+    -1.306836, 
+    51.612923, 
+    -1.306836, 
+    51.612923
   ],
-  "geometry": {"coordinates":[-1.307221,51.61324],"type":"Point"}
+  "geometry": {"coordinates":[-1.306836,51.612923],"type":"Point"}
 }

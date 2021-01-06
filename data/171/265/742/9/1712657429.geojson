@@ -2,7 +2,7 @@
   "id": 1712657429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-09-01",
     "edtf:inception": "2016-08-01",
     "geom:area": 0,
     "geom:bbox": "-1.210394,54.681581,-1.210394,54.681581",
@@ -10,7 +10,7 @@
     "geom:longitude": -1.210394,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000001",
@@ -18,11 +18,11 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698621, 
       85633159, 
       1360698981, 
-      101750609
+      101750609, 
+      404227469, 
+      1360698621
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1712657429,
-    "wof:lastmodified": 1583797791,
+    "wof:lastmodified": 1609872180,
     "wof:name": "TS24 4FL",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

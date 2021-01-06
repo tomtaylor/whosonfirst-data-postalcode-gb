@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-06-01",
     "geom:area": 0,
-    "geom:bbox": "-0.333845,53.739889,-0.333845,53.739889",
-    "geom:latitude": 53.739889,
-    "geom:longitude": -0.333845,
+    "geom:bbox": "-0.333817,53.739834,-0.333817,53.739834",
+    "geom:latitude": 53.739834,
+    "geom:longitude": -0.333817,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698547, 
       85633159, 
       1360698951, 
-      101750561
+      101750561, 
+      404227469, 
+      1360698547
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583803002,
-    "wof:geomhash": "c4602efdf4abc84435aea4cd4ea40921",
+    "wof:geomhash": "4febbdb24697064354ad593fecef501e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1161079620,
-    "wof:lastmodified": 1583803002,
+    "wof:lastmodified": 1609876252,
     "wof:name": "HU1 1AR",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.333845, 
-    53.739889, 
-    -0.333845, 
-    53.739889
+    -0.333817, 
+    53.739834, 
+    -0.333817, 
+    53.739834
   ],
-  "geometry": {"coordinates":[-0.333845,53.739889],"type":"Point"}
+  "geometry": {"coordinates":[-0.333817,53.739834],"type":"Point"}
 }

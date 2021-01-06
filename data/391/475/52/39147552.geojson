@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-09-01",
     "geom:area": 0,
-    "geom:bbox": "-3.084992,58.428702,-3.084992,58.428702",
-    "geom:latitude": 58.428702,
-    "geom:longitude": -3.084992,
+    "geom:bbox": "-3.084596,58.428633,-3.084596,58.428633",
+    "geom:latitude": 58.428633,
+    "geom:longitude": -3.084596,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698663, 
-      85633159, 
       1360699045, 
       404436073, 
-      404227471
+      404227471, 
+      1360698663, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583798268,
-    "wof:geomhash": "ca003524af3cb03ca2f0c2d271c6f60a",
+    "wof:geomhash": "778d919df2a98a7a08a82d8cd72b0fe5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 39147552,
-    "wof:lastmodified": 1583798268,
+    "wof:lastmodified": 1609868494,
     "wof:name": "KW1 5TJ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.084992, 
-    58.428702, 
-    -3.084992, 
-    58.428702
+    -3.084596, 
+    58.428633, 
+    -3.084596, 
+    58.428633
   ],
-  "geometry": {"coordinates":[-3.084992,58.428702],"type":"Point"}
+  "geometry": {"coordinates":[-3.084596,58.428633],"type":"Point"}
 }

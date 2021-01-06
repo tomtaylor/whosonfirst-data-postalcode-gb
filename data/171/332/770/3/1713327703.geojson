@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "-1.239280,53.801210,-1.239280,53.801210",
-    "geom:latitude": 53.80121,
-    "geom:longitude": -1.23928,
+    "geom:bbox": "-1.239220,53.801174,-1.239220,53.801174",
+    "geom:latitude": 53.801174,
+    "geom:longitude": -1.23922,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698753, 
-      404443597, 
       101872317, 
       404227469, 
-      1360698619
+      1360698619, 
+      85633159, 
+      1360698753, 
+      404443597
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735489,
-    "wof:geomhash": "6217a5f0f66b17fff09b2a8d400b4ae4",
+    "wof:geomhash": "732c276351858709daf2aec73d303f8b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1713327703,
-    "wof:lastmodified": 1595753386,
+    "wof:lastmodified": 1609875241,
     "wof:name": "LS25 6GN",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.23928, 
-    53.80121, 
-    -1.23928, 
-    53.80121
+    -1.23922, 
+    53.801174, 
+    -1.23922, 
+    53.801174
   ],
-  "geometry": {"coordinates":[-1.23928,53.80121],"type":"Point"}
+  "geometry": {"coordinates":[-1.23922,53.801174],"type":"Point"}
 }

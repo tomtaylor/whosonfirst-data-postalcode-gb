@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.350866,53.191208,-2.350866,53.191208",
-    "geom:latitude": 53.191208,
-    "geom:longitude": -2.350866,
+    "geom:bbox": "-2.350925,53.191171,-2.350925,53.191171",
+    "geom:latitude": 53.191171,
+    "geom:longitude": -2.350925,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698537, 
-      85633159, 
-      1360698929, 
       404430925, 
       1125976249, 
-      404227469
+      404227469, 
+      1360698537, 
+      85633159, 
+      1360698929
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701461,
-    "wof:geomhash": "52def0b22fbe32621cf55be3272c9ad9",
+    "wof:geomhash": "4c39814b673edd64fe89bc7c1f2160fc",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454298653,
-    "wof:lastmodified": 1595714241,
+    "wof:lastmodified": 1609882079,
     "wof:name": "CW4 8AX",
     "wof:parent_id": 404430925,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.350866, 
-    53.191208, 
-    -2.350866, 
-    53.191208
+    -2.350925, 
+    53.191171, 
+    -2.350925, 
+    53.191171
   ],
-  "geometry": {"coordinates":[-2.350866,53.191208],"type":"Point"}
+  "geometry": {"coordinates":[-2.350925,53.191171],"type":"Point"}
 }

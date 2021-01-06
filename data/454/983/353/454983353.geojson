@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.052287,54.248829,-3.052287,54.248829",
-    "geom:latitude": 54.248829,
-    "geom:longitude": -3.052287,
+    "geom:bbox": "-3.052809,54.248842,-3.052809,54.248842",
+    "geom:latitude": 54.248842,
+    "geom:longitude": -3.052809,
     "gp:parent_id": "21825",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      1126000193, 
+      404227469, 
       1360698721, 
       85633159, 
       1360698877, 
-      404446901, 
-      1126000193, 
-      404227469
+      404446901
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701765,
-    "wof:geomhash": "5f7b528d47b971f05e20b2d686e7c52f",
+    "wof:geomhash": "d44fb43409b665fce6943e4bc5b952bc",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454983353,
-    "wof:lastmodified": 1583786902,
+    "wof:lastmodified": 1609905597,
     "wof:name": "LA12 8HX",
     "wof:parent_id": 404446901,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.052287, 
-    54.248829, 
-    -3.052287, 
-    54.248829
+    -3.052809, 
+    54.248842, 
+    -3.052809, 
+    54.248842
   ],
-  "geometry": {"coordinates":[-3.052287,54.248829],"type":"Point"}
+  "geometry": {"coordinates":[-3.052809,54.248842],"type":"Point"}
 }

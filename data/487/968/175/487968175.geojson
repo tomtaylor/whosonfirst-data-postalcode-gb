@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.137134,54.459821,-1.137134,54.459821",
-    "geom:latitude": 54.459821,
-    "geom:longitude": -1.137134,
+    "geom:bbox": "-1.137221,54.460082,-1.137221,54.460082",
+    "geom:latitude": 54.460082,
+    "geom:longitude": -1.137221,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698619, 
-      85633159, 
       1360698753, 
       404440849, 
       1360756519, 
-      404227469
+      404227469, 
+      1360698619, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701293,
-    "wof:geomhash": "e0043af6f38ae22c4d6dcde8065511a4",
+    "wof:geomhash": "df4cb46136fffb0f6086fda991dbf17a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 487968175,
-    "wof:lastmodified": 1583786356,
+    "wof:lastmodified": 1609889516,
     "wof:name": "TS9 5JE",
     "wof:parent_id": 404440849,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.137134, 
-    54.459821, 
-    -1.137134, 
-    54.459821
+    -1.137221, 
+    54.460082, 
+    -1.137221, 
+    54.460082
   ],
-  "geometry": {"coordinates":[-1.137134,54.459821],"type":"Point"}
+  "geometry": {"coordinates":[-1.137221,54.460082],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2001-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.699884,51.548776,-1.699884,51.548776",
-    "geom:latitude": 51.548776,
-    "geom:longitude": -1.699884,
+    "geom:bbox": "-1.699508,51.548963,-1.699508,51.548963",
+    "geom:latitude": 51.548963,
+    "geom:longitude": -1.699508,
     "gp:parent_id": "39119",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699033, 
       404439569, 
       1126060417, 
       404227469, 
-      1360698611
+      1360698611, 
+      85633159, 
+      1360699033
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701767,
-    "wof:geomhash": "b459947fee55e245750aa7b6b1b3c716",
+    "wof:geomhash": "8f99c911adba8027f83bab93d971bc6a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471853345,
-    "wof:lastmodified": 1583786920,
+    "wof:lastmodified": 1609904668,
     "wof:name": "SN4 0AX",
     "wof:parent_id": 404439569,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.699884, 
-    51.548776, 
-    -1.699884, 
-    51.548776
+    -1.699508, 
+    51.548963, 
+    -1.699508, 
+    51.548963
   ],
-  "geometry": {"coordinates":[-1.699884,51.548776],"type":"Point"}
+  "geometry": {"coordinates":[-1.699508,51.548963],"type":"Point"}
 }

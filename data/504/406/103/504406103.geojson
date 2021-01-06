@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.362025,55.832309,-4.362025,55.832309",
-    "geom:latitude": 55.832309,
-    "geom:longitude": -4.362025,
+    "geom:bbox": "-4.361833,55.832313,-4.361833,55.832313",
+    "geom:latitude": 55.832313,
+    "geom:longitude": -4.361833,
     "gp:parent_id": "12696198",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85789877, 
-      1360698707, 
       85633159, 
       1360698797, 
       404430153, 
       1175612707, 
-      404227471
+      404227471, 
+      85789877, 
+      1360698707
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701169,
-    "wof:geomhash": "7134e752da3a0ddd90a2668b5ca86c89",
+    "wof:geomhash": "db0d02b3f3dee673855613bbb84127dc",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 504406103,
-    "wof:lastmodified": 1583786275,
+    "wof:lastmodified": 1609869762,
     "wof:name": "G53 5TB",
     "wof:parent_id": 101750621,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.362025, 
-    55.832309, 
-    -4.362025, 
-    55.832309
+    -4.361833, 
+    55.832313, 
+    -4.361833, 
+    55.832313
   ],
-  "geometry": {"coordinates":[-4.362025,55.832309],"type":"Point"}
+  "geometry": {"coordinates":[-4.361833,55.832313],"type":"Point"}
 }

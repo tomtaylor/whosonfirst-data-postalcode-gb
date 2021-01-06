@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.745055,53.916688,-1.745055,53.916688",
-    "geom:latitude": 53.916688,
-    "geom:longitude": -1.745055,
+    "geom:bbox": "-1.745351,53.916075,-1.745351,53.916075",
+    "geom:latitude": 53.916075,
+    "geom:longitude": -1.745351,
     "gp:parent_id": "14562",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698609, 
       85633159, 
       1360698963, 
       404451971, 
       1360757569, 
-      404227469, 
-      1360698609
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701085,
-    "wof:geomhash": "436d83ab9ab606331239cd8a6df317da",
+    "wof:geomhash": "1e826ca3ea92edc2916d6e6a6f1f619c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470834363,
-    "wof:lastmodified": 1583786200,
+    "wof:lastmodified": 1609869135,
     "wof:name": "LS29 7DB",
     "wof:parent_id": 404451971,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.745055, 
-    53.916688, 
-    -1.745055, 
-    53.916688
+    -1.745351, 
+    53.916075, 
+    -1.745351, 
+    53.916075
   ],
-  "geometry": {"coordinates":[-1.745055,53.916688],"type":"Point"}
+  "geometry": {"coordinates":[-1.745351,53.916075],"type":"Point"}
 }

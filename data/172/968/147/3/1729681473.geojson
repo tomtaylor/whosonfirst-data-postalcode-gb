@@ -1,0 +1,57 @@
+{
+  "id": 1729681473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-08-01",
+    "geom:area": 0,
+    "geom:bbox": "-0.678158,52.505089,-0.678158,52.505089",
+    "geom:latitude": 52.505089,
+    "geom:longitude": -0.678158,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E10000021",
+    "os:district_code": "E07000150",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000004",
+    "src:geom": "os",
+    "wof:belongsto": [
+      1360817321, 
+      404227469, 
+      1360698577, 
+      85633159, 
+      1360698755
+    ],
+    "wof:breaches": [],
+    "wof:country": "GB",
+    "wof:created": 1609906054,
+    "wof:geomhash": "6d9c66d96cbc9b8bd3da605c2d51ee82",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698755,
+        "localadmin_id": 1360817321,
+        "macroregion_id": 404227469,
+        "region_id": 1360698577
+      }
+    ],
+    "wof:id": 1729681473,
+    "wof:lastmodified": 1609906054,
+    "wof:name": "NN17 5BF",
+    "wof:parent_id": -1,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -0.678158, 
+    52.505089, 
+    -0.678158, 
+    52.505089
+  ],
+  "geometry": {"coordinates":[-0.678158,52.505089],"type":"Point"}
+}

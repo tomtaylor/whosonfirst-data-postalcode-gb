@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.754863,51.145910,-0.754863,51.145910",
-    "geom:latitude": 51.14591,
-    "geom:longitude": -0.754863,
+    "geom:bbox": "-0.755619,51.145806,-0.755619,51.145806",
+    "geom:latitude": 51.145806,
+    "geom:longitude": -0.755619,
     "gp:parent_id": "16086",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      404445157, 
+      1125879623, 
       404227469, 
       1360698599, 
       85633159, 
-      1360698887, 
-      404445157, 
-      1125879623
+      1360698887
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701682,
-    "wof:geomhash": "a561e8bcfcced7a53af74b7d5647da78",
+    "wof:geomhash": "44735b94822df881a76355986a953df4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454671611,
-    "wof:lastmodified": 1583786827,
+    "wof:lastmodified": 1609899189,
     "wof:name": "GU10 2LH",
     "wof:parent_id": 404445157,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.754863, 
-    51.14591, 
-    -0.754863, 
-    51.14591
+    -0.755619, 
+    51.145806, 
+    -0.755619, 
+    51.145806
   ],
-  "geometry": {"coordinates":[-0.754863,51.14591],"type":"Point"}
+  "geometry": {"coordinates":[-0.755619,51.145806],"type":"Point"}
 }

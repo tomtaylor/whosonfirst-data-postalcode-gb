@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.281067,52.118218,-4.281067,52.118218",
-    "geom:latitude": 52.118218,
-    "geom:longitude": -4.281067,
+    "geom:bbox": "-4.281266,52.118403,-4.281266,52.118403",
+    "geom:latitude": 52.118403,
+    "geom:longitude": -4.281266,
     "gp:parent_id": "12696114",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1125881835, 
-      404227475, 
-      1360698639, 
       85633159, 
       1360699113, 
-      404434517
+      404434517, 
+      1125881835, 
+      404227475, 
+      1360698639
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701470,
-    "wof:geomhash": "d3f3a1f5fc79ed40e7a3036f439f0ff2",
+    "wof:geomhash": "ca6ed0e1c04269d6d26ee551d5360983",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504599789,
-    "wof:lastmodified": 1595730853,
+    "wof:lastmodified": 1609881903,
     "wof:name": "SA44 4EN",
     "wof:parent_id": 404434517,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.281067, 
-    52.118218, 
-    -4.281067, 
-    52.118218
+    -4.281266, 
+    52.118403, 
+    -4.281266, 
+    52.118403
   ],
-  "geometry": {"coordinates":[-4.281067,52.118218],"type":"Point"}
+  "geometry": {"coordinates":[-4.281266,52.118403],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1997-12-01",
     "geom:area": 0,
-    "geom:bbox": "-2.565019,51.632381,-2.565019,51.632381",
-    "geom:latitude": 51.632381,
-    "geom:longitude": -2.565019,
+    "geom:bbox": "-2.564803,51.632463,-2.564803,51.632463",
+    "geom:latitude": 51.632463,
+    "geom:longitude": -2.564803,
     "gp:parent_id": "31007",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698895, 
       404433991, 
       1360755105, 
       404227469, 
-      1360698553, 
-      85633159, 
-      1360698895
+      1360698553
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701482,
-    "wof:geomhash": "2d68beff3eb1e85e37827a935a1a2f9b",
+    "wof:geomhash": "cb15843c5c29dadb7c189ff287a483c7",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438297245,
-    "wof:lastmodified": 1583786623,
+    "wof:lastmodified": 1609884345,
     "wof:name": "BS35 1PU",
     "wof:parent_id": 404433991,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.565019, 
-    51.632381, 
-    -2.565019, 
-    51.632381
+    -2.564803, 
+    51.632463, 
+    -2.564803, 
+    51.632463
   ],
-  "geometry": {"coordinates":[-2.565019,51.632381],"type":"Point"}
+  "geometry": {"coordinates":[-2.564803,51.632463],"type":"Point"}
 }

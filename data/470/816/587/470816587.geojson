@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.641288,53.835901,-1.641288,53.835901",
-    "geom:latitude": 53.835901,
-    "geom:longitude": -1.641288,
+    "geom:bbox": "-1.641520,53.835890,-1.641520,53.835890",
+    "geom:latitude": 53.83589,
+    "geom:longitude": -1.64152,
     "gp:parent_id": "23944",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      85792891, 
       1360698609, 
       85633159, 
       1360698749, 
       404445453, 
       1125938089, 
-      404227469
+      404227469, 
+      85792891
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701071,
-    "wof:geomhash": "128045f5ba8fa2f0f9e60fbd7f206853",
+    "wof:geomhash": "b2153cd3ea03eecb5692b7d6f48d6d22",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 470816587,
-    "wof:lastmodified": 1583786285,
+    "wof:lastmodified": 1609868727,
     "wof:name": "LS18 4BQ",
     "wof:parent_id": 101750579,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.641288, 
-    53.835901, 
-    -1.641288, 
-    53.835901
+    -1.64152, 
+    53.83589, 
+    -1.64152, 
+    53.83589
   ],
-  "geometry": {"coordinates":[-1.641288,53.835901],"type":"Point"}
+  "geometry": {"coordinates":[-1.64152,53.83589],"type":"Point"}
 }

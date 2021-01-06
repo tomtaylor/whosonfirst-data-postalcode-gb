@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.134211,50.372291,-4.134211,50.372291",
-    "geom:latitude": 50.372291,
-    "geom:longitude": -4.134211,
+    "geom:bbox": "-4.134070,50.372262,-4.134070,50.372262",
+    "geom:latitude": 50.372262,
+    "geom:longitude": -4.13407,
     "gp:parent_id": "32185",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698541, 
       85633159, 
       1360698841, 
       101750297, 
-      404227469
+      404227469, 
+      1360698541
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701599,
-    "wof:geomhash": "6c0aa32ef97b46b076edf4a536325bb5",
+    "wof:geomhash": "b150f63d5017ae8e8dc0c73103dda627",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 471430627,
-    "wof:lastmodified": 1583786741,
+    "wof:lastmodified": 1609892074,
     "wof:name": "PL4 9AA",
     "wof:parent_id": 101750297,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.134211, 
-    50.372291, 
-    -4.134211, 
-    50.372291
+    -4.13407, 
+    50.372262, 
+    -4.13407, 
+    50.372262
   ],
-  "geometry": {"coordinates":[-4.134211,50.372291],"type":"Point"}
+  "geometry": {"coordinates":[-4.13407,50.372262],"type":"Point"}
 }

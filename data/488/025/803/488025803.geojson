@@ -6,9 +6,9 @@
     "edtf:inception": "2000-12-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.164295,51.518310,-0.164295,51.518310",
-    "geom:latitude": 51.51831,
-    "geom:longitude": -0.164295,
+    "geom:bbox": "-0.164239,51.518265,-0.164239,51.518265",
+    "geom:latitude": 51.518265,
+    "geom:longitude": -0.164239,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,13 +19,13 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      1158857245, 
+      85633159, 
       101750367, 
       1158859031, 
       404227469, 
       85790639, 
-      1360698645, 
-      1158857245, 
-      85633159
+      1360698645
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701199,
-    "wof:geomhash": "b66a1b5c5ba42daf28b87ec9495c3604",
+    "wof:geomhash": "c2744248915ebb9afc429fbb12c32e06",
     "wof:hierarchy": [
       {
         "borough_id": 1158857245,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 488025803,
-    "wof:lastmodified": 1583786380,
+    "wof:lastmodified": 1609869190,
     "wof:name": "W1H 5FJ",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -56,10 +56,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.164295, 
-    51.51831, 
-    -0.164295, 
-    51.51831
+    -0.164239, 
+    51.518265, 
+    -0.164239, 
+    51.518265
   ],
-  "geometry": {"coordinates":[-0.164295,51.51831],"type":"Point"}
+  "geometry": {"coordinates":[-0.164239,51.518265],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.598139,52.811470,-1.598139,52.811470",
-    "geom:latitude": 52.81147,
-    "geom:longitude": -1.598139,
+    "geom:bbox": "-1.598198,52.811533,-1.598198,52.811533",
+    "geom:latitude": 52.811533,
+    "geom:longitude": -1.598198,
     "gp:parent_id": "14696",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      1125980527, 
       404227469, 
       1360698539, 
       85633159, 
       1360698765, 
-      404429829, 
-      1125980527
+      404429829
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701497,
-    "wof:geomhash": "1a97ef7de6d805d953c4b77fb0c23f15",
+    "wof:geomhash": "0ccc988ef07469ea12f0a11dffe43223",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454335691,
-    "wof:lastmodified": 1583786625,
+    "wof:lastmodified": 1609884092,
     "wof:name": "DE15 0DR",
     "wof:parent_id": 404429829,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.598139, 
-    52.81147, 
-    -1.598139, 
-    52.81147
+    -1.598198, 
+    52.811533, 
+    -1.598198, 
+    52.811533
   ],
-  "geometry": {"coordinates":[-1.598139,52.81147],"type":"Point"}
+  "geometry": {"coordinates":[-1.598198,52.811533],"type":"Point"}
 }

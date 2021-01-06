@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.776388,51.772318,-3.776388,51.772318",
-    "geom:latitude": 51.772318,
-    "geom:longitude": -3.776388,
+    "geom:bbox": "-3.776159,51.772760,-3.776159,51.772760",
+    "geom:latitude": 51.77276,
+    "geom:longitude": -3.776159,
     "gp:parent_id": "41440",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404447503, 
-      1125881985, 
       404227475, 
       1360698625, 
       85633159, 
-      1360698985
+      1360698985, 
+      404447503, 
+      1125881985
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701409,
-    "wof:geomhash": "4eeac15606c671cbba7fa84b9bc95c97",
+    "wof:geomhash": "ff9cebbdfd93aa8c77c6cbdc78dd8f82",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488397203,
-    "wof:lastmodified": 1583786610,
+    "wof:lastmodified": 1609889879,
     "wof:name": "SA9 1EH",
     "wof:parent_id": 404447503,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.776388, 
-    51.772318, 
-    -3.776388, 
-    51.772318
+    -3.776159, 
+    51.77276, 
+    -3.776159, 
+    51.77276
   ],
-  "geometry": {"coordinates":[-3.776388,51.772318],"type":"Point"}
+  "geometry": {"coordinates":[-3.776159,51.77276],"type":"Point"}
 }

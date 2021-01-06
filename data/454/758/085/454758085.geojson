@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.505849,53.995113,-1.505849,53.995113",
-    "geom:latitude": 53.995113,
-    "geom:longitude": -1.505849,
+    "geom:bbox": "-1.505985,53.995276,-1.505985,53.995276",
+    "geom:latitude": 53.995276,
+    "geom:longitude": -1.505985,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,11 +18,11 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698619, 
       85633159, 
       1360698753, 
       101750597, 
-      404227469
+      404227469, 
+      1360698619
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -30,7 +30,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701709,
-    "wof:geomhash": "3fe879eade1f2b2413b04712dab79f50",
+    "wof:geomhash": "7e10617bae177aee4e34ec3b4e5608e3",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -41,7 +41,7 @@
       }
     ],
     "wof:id": 454758085,
-    "wof:lastmodified": 1583786848,
+    "wof:lastmodified": 1609901063,
     "wof:name": "HG2 7NH",
     "wof:parent_id": 101750597,
     "wof:placetype": "postalcode",
@@ -51,10 +51,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.505849, 
-    53.995113, 
-    -1.505849, 
-    53.995113
+    -1.505985, 
+    53.995276, 
+    -1.505985, 
+    53.995276
   ],
-  "geometry": {"coordinates":[-1.505849,53.995113],"type":"Point"}
+  "geometry": {"coordinates":[-1.505985,53.995276],"type":"Point"}
 }

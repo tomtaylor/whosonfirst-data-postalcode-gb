@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-02-01",
     "geom:area": 0,
-    "geom:bbox": "-2.563904,51.464323,-2.563904,51.464323",
-    "geom:latitude": 51.464323,
-    "geom:longitude": -2.563904,
+    "geom:bbox": "-2.563934,51.464404,-2.563934,51.464404",
+    "geom:latitude": 51.464404,
+    "geom:longitude": -2.563934,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,18 +18,18 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698747, 
       404431949, 
       1175612699, 
       404227469, 
       85787207, 
-      1360698531
+      1360698531, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583794582,
-    "wof:geomhash": "a15141abad859da7d19e20ead53073fe",
+    "wof:geomhash": "da54b1022675f6c51465009f425a7e4b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 1712584955,
-    "wof:lastmodified": 1583794582,
+    "wof:lastmodified": 1609871109,
     "wof:name": "BS5 6FG",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.563904, 
-    51.464323, 
-    -2.563904, 
-    51.464323
+    -2.563934, 
+    51.464404, 
+    -2.563934, 
+    51.464404
   ],
-  "geometry": {"coordinates":[-2.563904,51.464323],"type":"Point"}
+  "geometry": {"coordinates":[-2.563934,51.464404],"type":"Point"}
 }

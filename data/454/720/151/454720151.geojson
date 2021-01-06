@@ -6,9 +6,9 @@
     "edtf:inception": "1983-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.336596,51.563809,-0.336596,51.563809",
-    "geom:latitude": 51.563809,
-    "geom:longitude": -0.336596,
+    "geom:bbox": "-0.336682,51.563810,-0.336682,51.563810",
+    "geom:latitude": 51.56381,
+    "geom:longitude": -0.336682,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      101750367, 
+      404227469, 
       85787971, 
       1360698645, 
       1158857263, 
-      85633159, 
-      101750367, 
-      404227469
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701703,
-    "wof:geomhash": "ef182ad10f1d469370d07e5bddffdfa4",
+    "wof:geomhash": "651ac360a157748b5b8fd73aa9aabc99",
     "wof:hierarchy": [
       {
         "borough_id": 1158857263,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454720151,
-    "wof:lastmodified": 1583786843,
+    "wof:lastmodified": 1609900321,
     "wof:name": "HA1 3SN",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.336596, 
-    51.563809, 
-    -0.336596, 
-    51.563809
+    -0.336682, 
+    51.56381, 
+    -0.336682, 
+    51.56381
   ],
-  "geometry": {"coordinates":[-0.336596,51.563809],"type":"Point"}
+  "geometry": {"coordinates":[-0.336682,51.56381],"type":"Point"}
 }

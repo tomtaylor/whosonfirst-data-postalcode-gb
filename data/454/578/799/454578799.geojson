@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2006-04-01",
     "geom:area": 0,
-    "geom:bbox": "-3.499059,50.716700,-3.499059,50.716700",
-    "geom:latitude": 50.7167,
-    "geom:longitude": -3.499059,
+    "geom:bbox": "-3.498961,50.716738,-3.498961,50.716738",
+    "geom:latitude": 50.716738,
+    "geom:longitude": -3.498961,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,11 +18,11 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
       1360698541, 
       85633159, 
       1360699081, 
-      101750383, 
-      404227469
+      101750383
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -30,7 +30,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701647,
-    "wof:geomhash": "27f34608f91620fbd1b3ae793448e148",
+    "wof:geomhash": "476ffcd17f91fcfd1525a4ca32f4414b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -41,7 +41,7 @@
       }
     ],
     "wof:id": 454578799,
-    "wof:lastmodified": 1595716379,
+    "wof:lastmodified": 1609895394,
     "wof:name": "EX2 5GZ",
     "wof:parent_id": 101750383,
     "wof:placetype": "postalcode",
@@ -51,10 +51,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.499059, 
-    50.7167, 
-    -3.499059, 
-    50.7167
+    -3.498961, 
+    50.716738, 
+    -3.498961, 
+    50.716738
   ],
-  "geometry": {"coordinates":[-3.499059,50.7167],"type":"Point"}
+  "geometry": {"coordinates":[-3.498961,50.716738],"type":"Point"}
 }

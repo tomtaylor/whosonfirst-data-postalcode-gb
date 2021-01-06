@@ -18,11 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698565, 
       85633159, 
       1360698811, 
-      101750335
+      404447271, 
+      1360755035, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -35,13 +36,14 @@
       {
         "country_id": 85633159,
         "county_id": 1360698811,
-        "locality_id": 101750335,
+        "localadmin_id": 404447271,
+        "locality_id": 1360755035,
         "macroregion_id": 404227469,
         "region_id": 1360698565
       }
     ],
     "wof:id": 454245347,
-    "wof:lastmodified": 1595713580,
+    "wof:lastmodified": 1609879881,
     "wof:name": "CT9 4DX",
     "wof:parent_id": 101750333,
     "wof:placetype": "postalcode",

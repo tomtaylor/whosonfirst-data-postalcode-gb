@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.188772,52.889523,1.188772,52.889523",
-    "geom:latitude": 52.889523,
-    "geom:longitude": 1.188772,
+    "geom:bbox": "1.188791,52.889559,1.188791,52.889559",
+    "geom:latitude": 52.889559,
+    "geom:longitude": 1.188791,
     "gp:parent_id": "30403",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1125845579, 
-      404227469, 
-      1360698575, 
       85633159, 
       1360698955, 
-      404442809
+      404442809, 
+      1125845579, 
+      404227469, 
+      1360698575
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701391,
-    "wof:geomhash": "945f415825be3e134c827ebe24bb800f",
+    "wof:geomhash": "2f64e166d4bd51e3a11dc9dcd5d96231",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471200639,
-    "wof:lastmodified": 1583786549,
+    "wof:lastmodified": 1609879808,
     "wof:name": "NR11 7LA",
     "wof:parent_id": 404442809,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.188772, 
-    52.889523, 
-    1.188772, 
-    52.889523
+    1.188791, 
+    52.889559, 
+    1.188791, 
+    52.889559
   ],
-  "geometry": {"coordinates":[1.188772,52.889523],"type":"Point"}
+  "geometry": {"coordinates":[1.188791,52.889559],"type":"Point"}
 }

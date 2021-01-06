@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2000-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.442040,52.941133,-1.442040,52.941133",
-    "geom:latitude": 52.941133,
-    "geom:longitude": -1.44204,
+    "geom:bbox": "-1.442051,52.941170,-1.442051,52.941170",
+    "geom:latitude": 52.94117,
+    "geom:longitude": -1.442051,
     "gp:parent_id": "18114",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698539, 
+      85633159, 
       1360699093, 
       101750489, 
-      404227469, 
-      1360698539, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701497,
-    "wof:geomhash": "268aca5ba3c03969cd3278c2099efe12",
+    "wof:geomhash": "73ed349c347b396c6c147ea0b2ef322e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454337191,
-    "wof:lastmodified": 1583786624,
+    "wof:lastmodified": 1609884123,
     "wof:name": "DE21 2WB",
     "wof:parent_id": 101750489,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.44204, 
-    52.941133, 
-    -1.44204, 
-    52.941133
+    -1.442051, 
+    52.94117, 
+    -1.442051, 
+    52.94117
   ],
-  "geometry": {"coordinates":[-1.44204,52.941133],"type":"Point"}
+  "geometry": {"coordinates":[-1.442051,52.94117],"type":"Point"}
 }

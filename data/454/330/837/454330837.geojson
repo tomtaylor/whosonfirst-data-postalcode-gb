@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.574760,52.757658,-1.574760,52.757658",
+    "geom:bbox": "-1.574835,52.757658,-1.574835,52.757658",
     "geom:latitude": 52.757658,
-    "geom:longitude": -1.57476,
+    "geom:longitude": -1.574835,
     "gp:parent_id": "15349",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      101853671, 
-      404227469, 
       1360698539, 
       85633159, 
       1360698765, 
-      1360817119
+      1360817119, 
+      101853671, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701494,
-    "wof:geomhash": "e2299c1908c60dfab8b4ca529f55e7e5",
+    "wof:geomhash": "783f72f69614f7bac0b28f731de37154",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454330837,
-    "wof:lastmodified": 1583786622,
+    "wof:lastmodified": 1609883930,
     "wof:name": "DE11 9JU",
     "wof:parent_id": 404429853,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.57476, 
+    -1.574835, 
     52.757658, 
-    -1.57476, 
+    -1.574835, 
     52.757658
   ],
-  "geometry": {"coordinates":[-1.57476,52.757658],"type":"Point"}
+  "geometry": {"coordinates":[-1.574835,52.757658],"type":"Point"}
 }

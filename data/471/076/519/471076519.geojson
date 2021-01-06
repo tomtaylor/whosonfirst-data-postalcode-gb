@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.147111,54.987772,-2.147111,54.987772",
-    "geom:latitude": 54.987772,
-    "geom:longitude": -2.147111,
+    "geom:bbox": "-2.149234,54.987059,-2.149234,54.987059",
+    "geom:latitude": 54.987059,
+    "geom:longitude": -2.149234,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698727, 
       85633159, 
       1360698769, 
-      404430855, 
-      101872371, 
-      404227469, 
-      1360698727
+      404437855, 
+      1360753307, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,19 +31,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701236,
-    "wof:geomhash": "0f6940529d7a2ebafd778dfed6d6b26a",
+    "wof:geomhash": "4edb0f4f501669ca529ac682b8e6c74e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
         "county_id": 1360698769,
-        "localadmin_id": 404430855,
-        "locality_id": 101872371,
+        "localadmin_id": 404437855,
+        "locality_id": 1360753307,
         "macroregion_id": 404227469,
         "region_id": 1360698727
       }
     ],
     "wof:id": 471076519,
-    "wof:lastmodified": 1583786378,
+    "wof:lastmodified": 1609871473,
     "wof:name": "NE46 2PU",
     "wof:parent_id": 404437855,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.147111, 
-    54.987772, 
-    -2.147111, 
-    54.987772
+    -2.149234, 
+    54.987059, 
+    -2.149234, 
+    54.987059
   ],
-  "geometry": {"coordinates":[-2.147111,54.987772],"type":"Point"}
+  "geometry": {"coordinates":[-2.149234,54.987059],"type":"Point"}
 }

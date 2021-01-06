@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.378045,54.353624,-1.378045,54.353624",
-    "geom:latitude": 54.353624,
-    "geom:longitude": -1.378045,
+    "geom:bbox": "-1.378009,54.352976,-1.378009,54.352976",
+    "geom:latitude": 54.352976,
+    "geom:longitude": -1.378009,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698619, 
       85633159, 
       1360698753, 
       404444741, 
       1360759007, 
-      404227469
+      404227469, 
+      1360698619
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701547,
-    "wof:geomhash": "f492147fc1568c5444c1d5e9783266ae",
+    "wof:geomhash": "17c281a3cf502057ff7f513853b8a175",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454406935,
-    "wof:lastmodified": 1595715103,
+    "wof:lastmodified": 1609888047,
     "wof:name": "DL6 3RB",
     "wof:parent_id": 404444741,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.378045, 
-    54.353624, 
-    -1.378045, 
-    54.353624
+    -1.378009, 
+    54.352976, 
+    -1.378009, 
+    54.352976
   ],
-  "geometry": {"coordinates":[-1.378045,54.353624],"type":"Point"}
+  "geometry": {"coordinates":[-1.378009,54.352976],"type":"Point"}
 }

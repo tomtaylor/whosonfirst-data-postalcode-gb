@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.264190,53.341098,0.264190,53.341098",
-    "geom:latitude": 53.341098,
-    "geom:longitude": 0.26419,
+    "geom:bbox": "0.264233,53.341088,0.264233,53.341088",
+    "geom:latitude": 53.341088,
+    "geom:longitude": 0.264233,
     "gp:parent_id": "28092",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698571, 
       85633159, 
       1360699067, 
       404454665, 
       1360753981, 
-      404227469
+      404227469, 
+      1360698571
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701152,
-    "wof:geomhash": "9eef807df657187a4857668c0168e397",
+    "wof:geomhash": "b5d64cb604cc3972ba4aac3dacb10bca",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 455055139,
-    "wof:lastmodified": 1583786277,
+    "wof:lastmodified": 1609870270,
     "wof:name": "LN12 2AA",
     "wof:parent_id": 404454665,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.26419, 
-    53.341098, 
-    0.26419, 
-    53.341098
+    0.264233, 
+    53.341088, 
+    0.264233, 
+    53.341088
   ],
-  "geometry": {"coordinates":[0.26419,53.341098],"type":"Point"}
+  "geometry": {"coordinates":[0.264233,53.341088],"type":"Point"}
 }

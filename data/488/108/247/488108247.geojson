@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2000-12-01",
     "geom:area": 0,
-    "geom:bbox": "-0.410654,51.688852,-0.410654,51.688852",
-    "geom:latitude": 51.688852,
-    "geom:longitude": -0.410654,
+    "geom:bbox": "-0.410631,51.688858,-0.410631,51.688858",
+    "geom:latitude": 51.688858,
+    "geom:longitude": -0.410631,
     "gp:parent_id": "25994",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698559, 
       85633159, 
       1360698763, 
       101751603, 
-      404227469
+      404227469, 
+      1360698559
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701250,
-    "wof:geomhash": "1c1676908b0485bfde3af971ab408913",
+    "wof:geomhash": "cf28f823107301f15437463e457696dc",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488108247,
-    "wof:lastmodified": 1583786408,
+    "wof:lastmodified": 1609873519,
     "wof:name": "WD25 7LJ",
     "wof:parent_id": 101751603,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.410654, 
-    51.688852, 
-    -0.410654, 
-    51.688852
+    -0.410631, 
+    51.688858, 
+    -0.410631, 
+    51.688858
   ],
-  "geometry": {"coordinates":[-0.410654,51.688852],"type":"Point"}
+  "geometry": {"coordinates":[-0.410631,51.688858],"type":"Point"}
 }

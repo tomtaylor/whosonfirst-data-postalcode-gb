@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.298196,50.890337,-2.298196,50.890337",
-    "geom:latitude": 50.890337,
-    "geom:longitude": -2.298196,
+    "geom:bbox": "-2.300344,50.890467,-2.300344,50.890467",
+    "geom:latitude": 50.890467,
+    "geom:longitude": -2.300344,
     "gp:parent_id": "30875",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698745, 
-      404433761, 
       1125940605, 
       404227469, 
       1360698545, 
-      85633159
+      85633159, 
+      1360698745, 
+      404433761
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701588,
-    "wof:geomhash": "c6cf35cae8eb9f7f19f131b319389877",
+    "wof:geomhash": "5f29fbba410304b5c37672df4e8dc5c6",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454462013,
-    "wof:lastmodified": 1583786714,
+    "wof:lastmodified": 1609890386,
     "wof:name": "DT11 0RU",
     "wof:parent_id": 404433761,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.298196, 
-    50.890337, 
-    -2.298196, 
-    50.890337
+    -2.300344, 
+    50.890467, 
+    -2.300344, 
+    50.890467
   ],
-  "geometry": {"coordinates":[-2.298196,50.890337],"type":"Point"}
+  "geometry": {"coordinates":[-2.300344,50.890467],"type":"Point"}
 }

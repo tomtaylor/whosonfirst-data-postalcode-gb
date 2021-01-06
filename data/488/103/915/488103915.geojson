@@ -2,16 +2,16 @@
   "id": 488103915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2017-06-01",
-    "edtf:inception": "2000-10-01",
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-09-01",
     "geom:area": 0,
-    "geom:bbox": "-0.372912,51.628601,-0.372912,51.628601",
-    "geom:latitude": 51.628601,
-    "geom:longitude": -0.372912,
+    "geom:bbox": "-0.372890,51.628605,-0.372890,51.628605",
+    "geom:latitude": 51.628605,
+    "geom:longitude": -0.37289,
     "gp:parent_id": "39321",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000015",
     "os:district_code": "E07000102",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698559, 
+      85633159, 
       1360698763, 
       404437417, 
       1360759615, 
-      404227469, 
-      1360698559, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701250,
-    "wof:geomhash": "6ddc9012ad789cfd648e46ded92cb114",
+    "wof:geomhash": "ff81ce3c204cf3e20e21f58029ada95b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488103915,
-    "wof:lastmodified": 1583786409,
+    "wof:lastmodified": 1609873202,
     "wof:name": "WD19 5RJ",
     "wof:parent_id": 404437417,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.372912, 
-    51.628601, 
-    -0.372912, 
-    51.628601
+    -0.37289, 
+    51.628605, 
+    -0.37289, 
+    51.628605
   ],
-  "geometry": {"coordinates":[-0.372912,51.628601],"type":"Point"}
+  "geometry": {"coordinates":[-0.37289,51.628605],"type":"Point"}
 }

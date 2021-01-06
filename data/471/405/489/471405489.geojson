@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.237851,50.409059,-4.237851,50.409059",
-    "geom:latitude": 50.409059,
-    "geom:longitude": -4.237851,
+    "geom:bbox": "-4.237467,50.408967,-4.237467,50.408967",
+    "geom:latitude": 50.408967,
+    "geom:longitude": -4.237467,
     "gp:parent_id": "27646",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      101852381, 
       404227469, 
-      1360698623, 
+      1360698541, 
       85633159, 
       1360699085, 
-      404450003, 
-      101852381
+      404450003
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701563,
-    "wof:geomhash": "d07c384f3e7ee67f154629e97aabeda4",
+    "wof:geomhash": "cc1fd962816dc28b537d2ea2e0573141",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,11 +40,11 @@
         "localadmin_id": 404450003,
         "locality_id": 101852381,
         "macroregion_id": 404227469,
-        "region_id": 1360698623
+        "region_id": 1360698541
       }
     ],
     "wof:id": 471405489,
-    "wof:lastmodified": 1583786717,
+    "wof:lastmodified": 1609890802,
     "wof:name": "PL12 4RQ",
     "wof:parent_id": 404450003,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.237851, 
-    50.409059, 
-    -4.237851, 
-    50.409059
+    -4.237467, 
+    50.408967, 
+    -4.237467, 
+    50.408967
   ],
-  "geometry": {"coordinates":[-4.237851,50.409059],"type":"Point"}
+  "geometry": {"coordinates":[-4.237467,50.408967],"type":"Point"}
 }

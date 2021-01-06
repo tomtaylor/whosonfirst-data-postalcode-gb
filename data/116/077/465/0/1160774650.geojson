@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-11-01",
     "geom:area": 0,
-    "geom:bbox": "-0.669841,52.361647,-0.669841,52.361647",
-    "geom:latitude": 52.361647,
-    "geom:longitude": -0.669841,
+    "geom:bbox": "-0.669740,52.361574,-0.669740,52.361574",
+    "geom:latitude": 52.361574,
+    "geom:longitude": -0.66974,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698755, 
       404434205, 
       1126015113, 
       404227469, 
-      1360698577
+      1360698577, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583789401,
-    "wof:geomhash": "8c7b1f3e8a573469754c5b75f555523a",
+    "wof:geomhash": "605ec7698cc75f0c20a16e8b0309cedd",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160774650,
-    "wof:lastmodified": 1595710843,
+    "wof:lastmodified": 1609869528,
     "wof:name": "NN15 5GG",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.669841, 
-    52.361647, 
-    -0.669841, 
-    52.361647
+    -0.66974, 
+    52.361574, 
+    -0.66974, 
+    52.361574
   ],
-  "geometry": {"coordinates":[-0.669841,52.361647],"type":"Point"}
+  "geometry": {"coordinates":[-0.66974,52.361574],"type":"Point"}
 }

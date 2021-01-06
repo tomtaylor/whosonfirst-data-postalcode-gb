@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.344690,51.031300,-2.344690,51.031300",
-    "geom:latitude": 51.0313,
-    "geom:longitude": -2.34469,
+    "geom:bbox": "-2.343411,51.031888,-2.343411,51.031888",
+    "geom:latitude": 51.031888,
+    "geom:longitude": -2.343411,
     "gp:parent_id": "14383",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698745, 
       404433097, 
       1309941267, 
       404227469, 
-      1360698545, 
-      85633159, 
-      1360698745
+      1360698545
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701104,
-    "wof:geomhash": "1649c274249ae3c0139b9e508aa75461",
+    "wof:geomhash": "853f5d9ea65adf8d233a77a703e7445e",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487647465,
-    "wof:lastmodified": 1583786198,
+    "wof:lastmodified": 1609870568,
     "wof:name": "SP8 5HZ",
     "wof:parent_id": 404433097,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.34469, 
-    51.0313, 
-    -2.34469, 
-    51.0313
+    -2.343411, 
+    51.031888, 
+    -2.343411, 
+    51.031888
   ],
-  "geometry": {"coordinates":[-2.34469,51.0313],"type":"Point"}
+  "geometry": {"coordinates":[-2.343411,51.031888],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.043230,52.096687,1.043230,52.096687",
-    "geom:latitude": 52.096687,
-    "geom:longitude": 1.04323,
+    "geom:bbox": "1.043083,52.096682,1.043083,52.096682",
+    "geom:latitude": 52.096682,
+    "geom:longitude": 1.043083,
     "gp:parent_id": "27804",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404455421, 
       1327369173, 
       404227469, 
       1360698595, 
       85633159, 
-      1360699041
+      1360699041, 
+      404455421
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701747,
-    "wof:geomhash": "f29e651742d6eeede8579f19d6a80a16",
+    "wof:geomhash": "a40ed2fe76d3c1cc264fd11520e8065d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454900521,
-    "wof:lastmodified": 1595717643,
+    "wof:lastmodified": 1609904613,
     "wof:name": "IP8 4QB",
     "wof:parent_id": 404455421,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.04323, 
-    52.096687, 
-    1.04323, 
-    52.096687
+    1.043083, 
+    52.096682, 
+    1.043083, 
+    52.096682
   ],
-  "geometry": {"coordinates":[1.04323,52.096687],"type":"Point"}
+  "geometry": {"coordinates":[1.043083,52.096682],"type":"Point"}
 }

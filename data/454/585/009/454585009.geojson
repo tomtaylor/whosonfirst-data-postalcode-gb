@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.301119,50.913540,-4.301119,50.913540",
-    "geom:latitude": 50.91354,
-    "geom:longitude": -4.301119,
+    "geom:bbox": "-4.303482,50.911847,-4.303482,50.911847",
+    "geom:latitude": 50.911847,
+    "geom:longitude": -4.303482,
     "gp:parent_id": "19070",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699081, 
       404429263, 
       1343590023, 
       404227469, 
-      1360698541
+      1360698541, 
+      85633159, 
+      1360699081
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701650,
-    "wof:geomhash": "edfc98f8e28b523ce65588656f76b061",
+    "wof:geomhash": "d43812a05b336a6c611b9872fba07824",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454585009,
-    "wof:lastmodified": 1583786782,
+    "wof:lastmodified": 1609895627,
     "wof:name": "EX22 7UJ",
     "wof:parent_id": 404429263,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.301119, 
-    50.91354, 
-    -4.301119, 
-    50.91354
+    -4.303482, 
+    50.911847, 
+    -4.303482, 
+    50.911847
   ],
-  "geometry": {"coordinates":[-4.301119,50.91354],"type":"Point"}
+  "geometry": {"coordinates":[-4.303482,50.911847],"type":"Point"}
 }

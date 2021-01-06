@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.815944,53.753450,-1.815944,53.753450",
-    "geom:latitude": 53.75345,
-    "geom:longitude": -1.815944,
+    "geom:bbox": "-1.815884,53.753486,-1.815884,53.753486",
+    "geom:latitude": 53.753486,
+    "geom:longitude": -1.815884,
     "gp:parent_id": "22179",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      101872239, 
       404227469, 
       1360698609, 
       85633159, 
       1360698833, 
-      1360817303, 
-      101872239
+      1360817303
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701731,
-    "wof:geomhash": "53b463a2dcbf6241754b5965142a1539",
+    "wof:geomhash": "405e9b2faf24381146458b53d9bb574d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454837637,
-    "wof:lastmodified": 1583786867,
+    "wof:lastmodified": 1609903407,
     "wof:name": "HX3 7NB",
     "wof:parent_id": 101750581,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.815944, 
-    53.75345, 
-    -1.815944, 
-    53.75345
+    -1.815884, 
+    53.753486, 
+    -1.815884, 
+    53.753486
   ],
-  "geometry": {"coordinates":[-1.815944,53.75345],"type":"Point"}
+  "geometry": {"coordinates":[-1.815884,53.753486],"type":"Point"}
 }

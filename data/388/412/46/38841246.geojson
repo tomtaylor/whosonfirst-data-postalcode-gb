@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-07-01",
     "geom:area": 0,
-    "geom:bbox": "0.023343,51.954303,0.023343,51.954303",
-    "geom:latitude": 51.954303,
-    "geom:longitude": 0.023343,
+    "geom:bbox": "0.023043,51.954425,0.023043,51.954425",
+    "geom:latitude": 51.954425,
+    "geom:longitude": 0.023043,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1125869363, 
-      404227469, 
-      1360698559, 
       85633159, 
       1360698763, 
-      404439889
+      404439889, 
+      1125869363, 
+      404227469, 
+      1360698559
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583794887,
-    "wof:geomhash": "0fbbbc7370a85badd8437fa1d03bad58",
+    "wof:geomhash": "b2cfcf523b5d5499ac7f169a96f8b9fd",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 38841246,
-    "wof:lastmodified": 1583794887,
+    "wof:lastmodified": 1609868483,
     "wof:name": "SG9 0FA",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.023343, 
-    51.954303, 
-    0.023343, 
-    51.954303
+    0.023043, 
+    51.954425, 
+    0.023043, 
+    51.954425
   ],
-  "geometry": {"coordinates":[0.023343,51.954303],"type":"Point"}
+  "geometry": {"coordinates":[0.023043,51.954425],"type":"Point"}
 }

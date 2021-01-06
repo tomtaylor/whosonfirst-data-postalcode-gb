@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.745828,50.846081,-1.745828,50.846081",
+    "geom:bbox": "-1.745849,50.846081,-1.745849,50.846081",
     "geom:latitude": 50.846081,
-    "geom:longitude": -1.745828,
+    "geom:longitude": -1.745849,
     "gp:parent_id": "23421",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360698827, 
       404449977, 
       101852431, 
       404227469, 
-      1360698557, 
-      85633159
+      1360698557
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701358,
-    "wof:geomhash": "c826b97a15cfe3b61553a29c710ae379",
+    "wof:geomhash": "36ab998d11e29954413ee5cca1287994",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438168013,
-    "wof:lastmodified": 1583786494,
+    "wof:lastmodified": 1609877763,
     "wof:name": "BH24 3HQ",
     "wof:parent_id": 404449977,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.745828, 
+    -1.745849, 
     50.846081, 
-    -1.745828, 
+    -1.745849, 
     50.846081
   ],
-  "geometry": {"coordinates":[-1.745828,50.846081],"type":"Point"}
+  "geometry": {"coordinates":[-1.745849,50.846081],"type":"Point"}
 }

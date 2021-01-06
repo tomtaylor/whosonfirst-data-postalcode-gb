@@ -19,11 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      1175612705, 
+      1125851575, 
       404227469, 
       1360698583, 
       85633159, 
-      1360698801
+      1360698809, 
+      404434073
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -35,14 +36,15 @@
     "wof:hierarchy": [
       {
         "country_id": 85633159,
-        "county_id": 1360698801,
-        "locality_id": 1175612705,
+        "county_id": 1360698809,
+        "localadmin_id": 404434073,
+        "locality_id": 1125851575,
         "macroregion_id": 404227469,
         "region_id": 1360698583
       }
     ],
     "wof:id": 437542285,
-    "wof:lastmodified": 1595713426,
+    "wof:lastmodified": 1609877788,
     "wof:name": "NG13 8XY",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

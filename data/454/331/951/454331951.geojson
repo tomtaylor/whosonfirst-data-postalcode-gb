@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.560524,52.696953,-1.560524,52.696953",
-    "geom:latitude": 52.696953,
-    "geom:longitude": -1.560524,
+    "geom:bbox": "-1.559281,52.701344,-1.559281,52.701344",
+    "geom:latitude": 52.701344,
+    "geom:longitude": -1.559281,
     "gp:parent_id": "36496",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698871, 
       404453513, 
       1360759235, 
       404227469, 
-      1360698569, 
-      85633159, 
-      1360698871
+      1360698569
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701495,
-    "wof:geomhash": "b0dca8858d43465599f454c2b16e8847",
+    "wof:geomhash": "9f8c71937479f2e5803061dbfbd71de8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454331951,
-    "wof:lastmodified": 1583786622,
+    "wof:lastmodified": 1609883947,
     "wof:name": "DE12 8AB",
     "wof:parent_id": 404453513,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.560524, 
-    52.696953, 
-    -1.560524, 
-    52.696953
+    -1.559281, 
+    52.701344, 
+    -1.559281, 
+    52.701344
   ],
-  "geometry": {"coordinates":[-1.560524,52.696953],"type":"Point"}
+  "geometry": {"coordinates":[-1.559281,52.701344],"type":"Point"}
 }

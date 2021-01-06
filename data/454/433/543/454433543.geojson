@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.836331,53.293930,-0.836331,53.293930",
-    "geom:latitude": 53.29393,
-    "geom:longitude": -0.836331,
+    "geom:bbox": "-0.836196,53.293929,-0.836196,53.293929",
+    "geom:latitude": 53.293929,
+    "geom:longitude": -0.836196,
     "gp:parent_id": "40908",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698583, 
       85633159, 
       1360698809, 
       404449787, 
-      1125973949
+      1125973949, 
+      404227469, 
+      1360698583
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701566,
-    "wof:geomhash": "538cecb8ea4e9106ae2c544c3c45da99",
+    "wof:geomhash": "424168da08c8606e060278a3c97290cd",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454433543,
-    "wof:lastmodified": 1595715363,
+    "wof:lastmodified": 1609889265,
     "wof:name": "DN22 0JT",
     "wof:parent_id": 404449787,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.836331, 
-    53.29393, 
-    -0.836331, 
-    53.29393
+    -0.836196, 
+    53.293929, 
+    -0.836196, 
+    53.293929
   ],
-  "geometry": {"coordinates":[-0.836331,53.29393],"type":"Point"}
+  "geometry": {"coordinates":[-0.836196,53.293929],"type":"Point"}
 }

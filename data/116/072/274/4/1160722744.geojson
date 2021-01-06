@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-12-01",
     "geom:area": 0,
-    "geom:bbox": "0.268953,50.857312,0.268953,50.857312",
-    "geom:latitude": 50.857312,
-    "geom:longitude": 0.268953,
+    "geom:bbox": "0.268883,50.857322,0.268883,50.857322",
+    "geom:latitude": 50.857322,
+    "geom:longitude": 0.268883,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698549, 
-      85633159, 
       1360698815, 
       404437773, 
       101853479, 
-      404227469
+      404227469, 
+      1360698549, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583787085,
-    "wof:geomhash": "ad4bb88c7fab7c24f321154919154eec",
+    "wof:geomhash": "ed8201877517de24d8539b2043058382",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160722744,
-    "wof:lastmodified": 1595710804,
+    "wof:lastmodified": 1609869139,
     "wof:name": "BN27 2FR",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.268953, 
-    50.857312, 
-    0.268953, 
-    50.857312
+    0.268883, 
+    50.857322, 
+    0.268883, 
+    50.857322
   ],
-  "geometry": {"coordinates":[0.268953,50.857312],"type":"Point"}
+  "geometry": {"coordinates":[0.268883,50.857322],"type":"Point"}
 }

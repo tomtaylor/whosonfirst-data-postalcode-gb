@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-03-01",
     "geom:area": 0,
-    "geom:bbox": "-2.965449,53.429149,-2.965449,53.429149",
-    "geom:latitude": 53.429149,
-    "geom:longitude": -2.965449,
+    "geom:bbox": "-2.965047,53.429350,-2.965047,53.429350",
+    "geom:latitude": 53.42935,
+    "geom:longitude": -2.965047,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698971, 
       101750547, 
       404227469, 
       85787305, 
       1360698573, 
-      85633159
+      85633159, 
+      1360698971
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583791485,
-    "wof:geomhash": "e97ecb478ba446389f019ca7c82c7398",
+    "wof:geomhash": "5307e66220428978bea30d2eb8d950de",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160821668,
-    "wof:lastmodified": 1583791485,
+    "wof:lastmodified": 1609870234,
     "wof:name": "L5 1AJ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.965449, 
-    53.429149, 
-    -2.965449, 
-    53.429149
+    -2.965047, 
+    53.42935, 
+    -2.965047, 
+    53.42935
   ],
-  "geometry": {"coordinates":[-2.965449,53.429149],"type":"Point"}
+  "geometry": {"coordinates":[-2.965047,53.42935],"type":"Point"}
 }

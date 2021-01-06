@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.729324,54.289261,-2.729324,54.289261",
-    "geom:latitude": 54.289261,
-    "geom:longitude": -2.729324,
+    "geom:bbox": "-2.728081,54.289322,-2.728081,54.289322",
+    "geom:latitude": 54.289322,
+    "geom:longitude": -2.728081,
     "gp:parent_id": "29710",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698877, 
       404430835, 
       1126030703, 
       404227469, 
-      1360698721, 
-      85633159, 
-      1360698877
+      1360698721
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701062,
-    "wof:geomhash": "30696737b2642f50e9ee89ede3578c80",
+    "wof:geomhash": "b82898fe996922ae1793ef44809f497b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 455003351,
-    "wof:lastmodified": 1583786170,
+    "wof:lastmodified": 1609868660,
     "wof:name": "LA9 7PT",
     "wof:parent_id": 404430835,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.729324, 
-    54.289261, 
-    -2.729324, 
-    54.289261
+    -2.728081, 
+    54.289322, 
+    -2.728081, 
+    54.289322
   ],
-  "geometry": {"coordinates":[-2.729324,54.289261],"type":"Point"}
+  "geometry": {"coordinates":[-2.728081,54.289322],"type":"Point"}
 }

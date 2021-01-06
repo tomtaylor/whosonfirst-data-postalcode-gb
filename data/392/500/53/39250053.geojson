@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-11-01",
     "geom:area": 0,
-    "geom:bbox": "-2.181593,52.999743,-2.181593,52.999743",
-    "geom:latitude": 52.999743,
-    "geom:longitude": -2.181593,
+    "geom:bbox": "-2.182235,53.000083,-2.182235,53.000083",
+    "geom:latitude": 53.000083,
+    "geom:longitude": -2.182235,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,16 +18,16 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698593, 
       85633159, 
       1360698805, 
-      1175612703
+      1175612703, 
+      404227469, 
+      1360698593
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583799345,
-    "wof:geomhash": "2962cf30f448356879d5ae6d8c7d0e5b",
+    "wof:geomhash": "018b7031183db4515054d572b5f858ce",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 39250053,
-    "wof:lastmodified": 1595711195,
+    "wof:lastmodified": 1609868488,
     "wof:name": "ST4 4FF",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,10 +48,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.181593, 
-    52.999743, 
-    -2.181593, 
-    52.999743
+    -2.182235, 
+    53.000083, 
+    -2.182235, 
+    53.000083
   ],
-  "geometry": {"coordinates":[-2.181593,52.999743],"type":"Point"}
+  "geometry": {"coordinates":[-2.182235,53.000083],"type":"Point"}
 }

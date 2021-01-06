@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.051576,54.608875,-2.051576,54.608875",
-    "geom:latitude": 54.608875,
-    "geom:longitude": -2.051576,
+    "geom:bbox": "-2.051453,54.608911,-2.051453,54.608911",
+    "geom:latitude": 54.608911,
+    "geom:longitude": -2.051453,
     "gp:parent_id": "28809",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698621, 
+      85633159, 
       1360699055, 
       404434727, 
       1309747451, 
-      404227469, 
-      1360698621, 
-      85633159
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701536,
-    "wof:geomhash": "87fd26dec711e38cb3981a34edaf7df3",
+    "wof:geomhash": "750ad7177271a362468d1f3c3ed37bf3",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454388897,
-    "wof:lastmodified": 1583786664,
+    "wof:lastmodified": 1609887041,
     "wof:name": "DL12 0JD",
     "wof:parent_id": 404434727,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.051576, 
-    54.608875, 
-    -2.051576, 
-    54.608875
+    -2.051453, 
+    54.608911, 
+    -2.051453, 
+    54.608911
   ],
-  "geometry": {"coordinates":[-2.051576,54.608875],"type":"Point"}
+  "geometry": {"coordinates":[-2.051453,54.608911],"type":"Point"}
 }

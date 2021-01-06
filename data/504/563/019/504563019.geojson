@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.512280,55.854308,-4.512280,55.854308",
-    "geom:latitude": 55.854308,
-    "geom:longitude": -4.51228,
+    "geom:bbox": "-4.512221,55.854876,-4.512221,55.854876",
+    "geom:latitude": 55.854876,
+    "geom:longitude": -4.512221,
     "gp:parent_id": "26341",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699097, 
       404432463, 
       404227471, 
-      1360698699
+      1360698699, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701430,
-    "wof:geomhash": "abf7f2947a94f31676c4aee8644d3253",
+    "wof:geomhash": "cefa51a483bca1dbb4aa9fa2cadb7e84",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504563019,
-    "wof:lastmodified": 1583786573,
+    "wof:lastmodified": 1609879511,
     "wof:name": "PA3 3TR",
     "wof:parent_id": 404432463,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.51228, 
-    55.854308, 
-    -4.51228, 
-    55.854308
+    -4.512221, 
+    55.854876, 
+    -4.512221, 
+    55.854876
   ],
-  "geometry": {"coordinates":[-4.51228,55.854308],"type":"Point"}
+  "geometry": {"coordinates":[-4.512221,55.854876],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.977921,51.792537,-4.977921,51.792537",
-    "geom:latitude": 51.792537,
-    "geom:longitude": -4.977921,
+    "geom:bbox": "-4.978036,51.792525,-4.978036,51.792525",
+    "geom:latitude": 51.792525,
+    "geom:longitude": -4.978036,
     "gp:parent_id": "12696129",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227475, 
-      1360698639, 
       85633159, 
       1360698843, 
       404438621, 
-      101853003
+      101853003, 
+      404227475, 
+      1360698639
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701469,
-    "wof:geomhash": "0b679d438a2c457fa45bb1450a3d0c31",
+    "wof:geomhash": "60c956aaed561f4b940012c57efdfc48",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504604243,
-    "wof:lastmodified": 1583786627,
+    "wof:lastmodified": 1609881981,
     "wof:name": "SA61 1JH",
     "wof:parent_id": 101853003,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.977921, 
-    51.792537, 
-    -4.977921, 
-    51.792537
+    -4.978036, 
+    51.792525, 
+    -4.978036, 
+    51.792525
   ],
-  "geometry": {"coordinates":[-4.977921,51.792537],"type":"Point"}
+  "geometry": {"coordinates":[-4.978036,51.792525],"type":"Point"}
 }

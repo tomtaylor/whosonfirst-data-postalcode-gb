@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2006-07-01",
     "geom:area": 0,
-    "geom:bbox": "-1.767589,50.735679,-1.767589,50.735679",
-    "geom:latitude": 50.735679,
-    "geom:longitude": -1.767589,
+    "geom:bbox": "-1.767716,50.735652,-1.767716,50.735652",
+    "geom:latitude": 50.735652,
+    "geom:longitude": -1.767716,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360698745, 
       1360817095, 
       101874047, 
       404227469, 
-      1360698545
+      1360698545, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701354,
-    "wof:geomhash": "4c69a815cf6cfd5791ce0e664c97c35d",
+    "wof:geomhash": "c536d6e0b9b99d9e2b9894ab2fccea9a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 438163259,
-    "wof:lastmodified": 1583786490,
+    "wof:lastmodified": 1609877586,
     "wof:name": "BH23 1AR",
     "wof:parent_id": 101874047,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.767589, 
-    50.735679, 
-    -1.767589, 
-    50.735679
+    -1.767716, 
+    50.735652, 
+    -1.767716, 
+    50.735652
   ],
-  "geometry": {"coordinates":[-1.767589,50.735679],"type":"Point"}
+  "geometry": {"coordinates":[-1.767716,50.735652],"type":"Point"}
 }

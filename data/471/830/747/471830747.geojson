@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.146462,51.361295,-0.146462,51.361295",
-    "geom:latitude": 51.361295,
-    "geom:longitude": -0.146462,
+    "geom:bbox": "-0.146464,51.361242,-0.146464,51.361242",
+    "geom:latitude": 51.361242,
+    "geom:longitude": -0.146464,
     "gp:parent_id": "12695837",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -20,13 +20,13 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      101750367, 
-      404227469, 
       1158894133, 
       85791297, 
       1360698645, 
       1158857303, 
-      85633159
+      85633159, 
+      101750367, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -34,7 +34,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701751,
-    "wof:geomhash": "afaae250381d1c1cdf77fdd542b2d025",
+    "wof:geomhash": "441451879e49769493c9d0fb4c1402fd",
     "wof:hierarchy": [
       {
         "borough_id": 1158857303,
@@ -47,7 +47,7 @@
       }
     ],
     "wof:id": 471830747,
-    "wof:lastmodified": 1583786917,
+    "wof:lastmodified": 1609904113,
     "wof:name": "SM6 8SN",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -57,10 +57,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.146462, 
-    51.361295, 
-    -0.146462, 
-    51.361295
+    -0.146464, 
+    51.361242, 
+    -0.146464, 
+    51.361242
   ],
-  "geometry": {"coordinates":[-0.146462,51.361295],"type":"Point"}
+  "geometry": {"coordinates":[-0.146464,51.361242],"type":"Point"}
 }

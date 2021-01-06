@@ -5,30 +5,30 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "-1.581934,55.040280,-1.581934,55.040280",
-    "geom:latitude": 55.04028,
-    "geom:longitude": -1.581934,
+    "geom:bbox": "-1.590184,55.039913,-1.590184,55.039913",
+    "geom:latitude": 55.039913,
+    "geom:longitude": -1.590184,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E08000022",
-    "os:positional_quality_indicator": "5",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699037, 
       1360817045, 
       1360832421, 
       404227469, 
-      1360698601
+      1360698601, 
+      85633159, 
+      1360699037
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735766,
-    "wof:geomhash": "2b796d24fc7753a8d9f50a914c0409ef",
+    "wof:geomhash": "5c90ee406c8e140421984fac6fd843f1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1713333873,
-    "wof:lastmodified": 1595753554,
+    "wof:lastmodified": 1609875708,
     "wof:name": "NE12 5AS",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.581934, 
-    55.04028, 
-    -1.581934, 
-    55.04028
+    -1.590184, 
+    55.039913, 
+    -1.590184, 
+    55.039913
   ],
-  "geometry": {"coordinates":[-1.581934,55.04028],"type":"Point"}
+  "geometry": {"coordinates":[-1.590184,55.039913],"type":"Point"}
 }

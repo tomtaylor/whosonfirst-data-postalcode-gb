@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1998-12-01",
     "geom:area": 0,
-    "geom:bbox": "-3.318282,57.657244,-3.318282,57.657244",
-    "geom:latitude": 57.657244,
-    "geom:longitude": -3.318282,
+    "geom:bbox": "-3.318192,57.657149,-3.318192,57.657149",
+    "geom:latitude": 57.657149,
+    "geom:longitude": -3.318192,
     "gp:parent_id": "12696202",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698869, 
-      404446793, 
       404227471, 
       1360698717, 
-      85633159
+      85633159, 
+      1360698869, 
+      404446793
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701284,
-    "wof:geomhash": "06983e7250bda5fc86552848b7c65781",
+    "wof:geomhash": "ddac2528253bd6204d8a4ae268f36086",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504440229,
-    "wof:lastmodified": 1583786398,
+    "wof:lastmodified": 1609871413,
     "wof:name": "IV30 4ED",
     "wof:parent_id": 101873635,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.318282, 
-    57.657244, 
-    -3.318282, 
-    57.657244
+    -3.318192, 
+    57.657149, 
+    -3.318192, 
+    57.657149
   ],
-  "geometry": {"coordinates":[-3.318282,57.657244],"type":"Point"}
+  "geometry": {"coordinates":[-3.318192,57.657149],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.072878,51.901028,-2.072878,51.901028",
-    "geom:latitude": 51.901028,
-    "geom:longitude": -2.072878,
+    "geom:bbox": "-2.072805,51.901019,-2.072805,51.901019",
+    "geom:latitude": 51.901019,
+    "geom:longitude": -2.072805,
     "gp:parent_id": "15790",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698553, 
       85633159, 
       1360698927, 
-      101750435
+      101750435, 
+      404227469, 
+      1360698553
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701687,
-    "wof:geomhash": "436cbb967b1284cf4f9aa42a3872f8e3",
+    "wof:geomhash": "8974ab5a6600c9d1e067a3fdb8ad2b07",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454654505,
-    "wof:lastmodified": 1595716644,
+    "wof:lastmodified": 1609898446,
     "wof:name": "GL52 2LT",
     "wof:parent_id": 101750435,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.072878, 
-    51.901028, 
-    -2.072878, 
-    51.901028
+    -2.072805, 
+    51.901019, 
+    -2.072805, 
+    51.901019
   ],
-  "geometry": {"coordinates":[-2.072878,51.901028],"type":"Point"}
+  "geometry": {"coordinates":[-2.072805,51.901019],"type":"Point"}
 }

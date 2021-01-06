@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1998-06-01",
     "geom:area": 0,
-    "geom:bbox": "-0.959840,54.049884,-0.959840,54.049884",
-    "geom:latitude": 54.049884,
-    "geom:longitude": -0.95984,
+    "geom:bbox": "-0.959460,54.049610,-0.959460,54.049610",
+    "geom:latitude": 54.04961,
+    "geom:longitude": -0.95946,
     "gp:parent_id": "20289",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698753, 
+      404454601, 
       1125977131, 
       404227469, 
       1360698619, 
-      85633159, 
-      1360698753, 
-      404454601
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701231,
-    "wof:geomhash": "56f6875619591dd52de52f4930fb506b",
+    "wof:geomhash": "83e577e79fd193497438864b3fe584f4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488255471,
-    "wof:lastmodified": 1583786454,
+    "wof:lastmodified": 1609882662,
     "wof:name": "YO60 7RT",
     "wof:parent_id": 404454601,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.95984, 
-    54.049884, 
-    -0.95984, 
-    54.049884
+    -0.95946, 
+    54.04961, 
+    -0.95946, 
+    54.04961
   ],
-  "geometry": {"coordinates":[-0.95984,54.049884],"type":"Point"}
+  "geometry": {"coordinates":[-0.95946,54.04961],"type":"Point"}
 }

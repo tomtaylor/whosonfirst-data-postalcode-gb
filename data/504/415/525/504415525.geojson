@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.078551,55.860750,-4.078551,55.860750",
-    "geom:latitude": 55.86075,
-    "geom:longitude": -4.078551,
+    "geom:bbox": "-4.077274,55.859585,-4.077274,55.859585",
+    "geom:latitude": 55.859585,
+    "geom:longitude": -4.077274,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,13 +18,13 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1175612707, 
       404227471, 
       85785445, 
       1360698707, 
       85633159, 
       1360698797, 
-      404430153
+      404430153, 
+      1175612707
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701192,
-    "wof:geomhash": "002d7166b2ca7f8e17b683a690e035c0",
+    "wof:geomhash": "44980c6d70dc262f52c368f45bd95869",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 504415525,
-    "wof:lastmodified": 1583786300,
+    "wof:lastmodified": 1609870162,
     "wof:name": "G69 6UE",
     "wof:parent_id": 404430153,
     "wof:placetype": "postalcode",
@@ -55,10 +55,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.078551, 
-    55.86075, 
-    -4.078551, 
-    55.86075
+    -4.077274, 
+    55.859585, 
+    -4.077274, 
+    55.859585
   ],
-  "geometry": {"coordinates":[-4.078551,55.86075],"type":"Point"}
+  "geometry": {"coordinates":[-4.077274,55.859585],"type":"Point"}
 }

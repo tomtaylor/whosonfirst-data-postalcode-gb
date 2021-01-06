@@ -3,11 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "uuuu",
-    "edtf:inception": "1997-06-01",
+    "edtf:inception": "2020-09-01",
     "geom:area": 0,
-    "geom:bbox": "-0.140818,50.826334,-0.140818,50.826334",
-    "geom:latitude": 50.826334,
-    "geom:longitude": -0.140818,
+    "geom:bbox": "-0.140790,50.826328,-0.140790,50.826328",
+    "geom:latitude": 50.826328,
+    "geom:longitude": -0.14079,
     "gp:parent_id": "13911",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
       1360699019, 
       101750303, 
       404227469, 
-      1360698549, 
-      85633159
+      1360698549
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701398,
-    "wof:geomhash": "81fe08a9f0a28ed837db936405b35aad",
+    "wof:geomhash": "8040090aa161e1ccb3dfb86c3a0bd61a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 438202771,
-    "wof:lastmodified": 1583786537,
+    "wof:lastmodified": 1609879715,
     "wof:name": "BN1 8US",
     "wof:parent_id": 101750303,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.140818, 
-    50.826334, 
-    -0.140818, 
-    50.826334
+    -0.14079, 
+    50.826328, 
+    -0.14079, 
+    50.826328
   ],
-  "geometry": {"coordinates":[-0.140818,50.826334],"type":"Point"}
+  "geometry": {"coordinates":[-0.14079,50.826328],"type":"Point"}
 }

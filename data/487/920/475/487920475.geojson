@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-5.703831,50.126774,-5.703831,50.126774",
-    "geom:latitude": 50.126774,
-    "geom:longitude": -5.703831,
+    "geom:bbox": "-5.705967,50.126879,-5.705967,50.126879",
+    "geom:latitude": 50.126879,
+    "geom:longitude": -5.705967,
     "gp:parent_id": "15071",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698623, 
       85633159, 
       1360699085, 
       404453725, 
-      1209450409, 
-      404227469, 
-      1360698623
+      1209450409
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701261,
-    "wof:geomhash": "f376bb42b2f927726a07a0ea7fb5de8c",
+    "wof:geomhash": "8c43e68e73dff239e8aa8499284281de",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487920475,
-    "wof:lastmodified": 1583786337,
+    "wof:lastmodified": 1609886655,
     "wof:name": "TR19 7NN",
     "wof:parent_id": 404453725,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -5.703831, 
-    50.126774, 
-    -5.703831, 
-    50.126774
+    -5.705967, 
+    50.126879, 
+    -5.705967, 
+    50.126879
   ],
-  "geometry": {"coordinates":[-5.703831,50.126774],"type":"Point"}
+  "geometry": {"coordinates":[-5.705967,50.126879],"type":"Point"}
 }

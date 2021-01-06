@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.187081,53.254905,-2.187081,53.254905",
-    "geom:latitude": 53.254905,
-    "geom:longitude": -2.187081,
+    "geom:bbox": "-2.187123,53.254922,-2.187123,53.254922",
+    "geom:latitude": 53.254922,
+    "geom:longitude": -2.187123,
     "gp:parent_id": "23000",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1125906763, 
-      404227469, 
       1360698537, 
       85633159, 
       1360698929, 
-      404429793
+      404429793, 
+      1125906763, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701736,
-    "wof:geomhash": "cb35682e8101804c9e768cb030cc17e1",
+    "wof:geomhash": "16937e38a9c87dbb09b5dafdace3b412",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471769395,
-    "wof:lastmodified": 1583786908,
+    "wof:lastmodified": 1609902579,
     "wof:name": "SK11 9PH",
     "wof:parent_id": 404429793,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.187081, 
-    53.254905, 
-    -2.187081, 
-    53.254905
+    -2.187123, 
+    53.254922, 
+    -2.187123, 
+    53.254922
   ],
-  "geometry": {"coordinates":[-2.187081,53.254905],"type":"Point"}
+  "geometry": {"coordinates":[-2.187123,53.254922],"type":"Point"}
 }

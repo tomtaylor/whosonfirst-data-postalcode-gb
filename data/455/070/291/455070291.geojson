@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.547701,53.799415,-1.547701,53.799415",
+    "geom:bbox": "-1.547686,53.799415,-1.547686,53.799415",
     "geom:latitude": 53.799415,
-    "geom:longitude": -1.547701,
+    "geom:longitude": -1.547686,
     "gp:parent_id": "26042",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      101750579, 
       404227469, 
       85792911, 
       1360698609, 
       85633159, 
-      1360698749
+      1360698749, 
+      101750579
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701185,
-    "wof:geomhash": "cb4927091597e833a6b999c313f9faee",
+    "wof:geomhash": "81a079f1702623091c95166f60461f56",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 455070291,
-    "wof:lastmodified": 1583786312,
+    "wof:lastmodified": 1609871009,
     "wof:name": "LS1 5RD",
     "wof:parent_id": 101750579,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.547701, 
+    -1.547686, 
     53.799415, 
-    -1.547701, 
+    -1.547686, 
     53.799415
   ],
-  "geometry": {"coordinates":[-1.547701,53.799415],"type":"Point"}
+  "geometry": {"coordinates":[-1.547686,53.799415],"type":"Point"}
 }

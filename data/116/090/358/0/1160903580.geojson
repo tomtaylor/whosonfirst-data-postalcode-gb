@@ -18,13 +18,13 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      85861379, 
-      1360698553, 
       85633159, 
       1360698895, 
-      1360817185, 
+      404431949, 
       1360887535, 
-      404227469
+      404227469, 
+      85861379, 
+      1360698553
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -34,7 +34,7 @@
       {
         "country_id": 85633159,
         "county_id": 1360698895,
-        "localadmin_id": 1360817185,
+        "localadmin_id": 404431949,
         "locality_id": 1360887535,
         "macroregion_id": 404227469,
         "neighbourhood_id": 85861379,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 1160903580,
-    "wof:lastmodified": 1583795138,
+    "wof:lastmodified": 1609871888,
     "wof:name": "BS15 2EU",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

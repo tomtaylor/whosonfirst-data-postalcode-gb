@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2015-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.790891,53.265180,-2.790891,53.265180",
-    "geom:latitude": 53.26518,
-    "geom:longitude": -2.790891,
+    "geom:bbox": "-2.791061,53.265449,-2.791061,53.265449",
+    "geom:latitude": 53.265449,
+    "geom:longitude": -2.791061,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      404434227, 
       1125787745, 
       404227469, 
       1360698537, 
       85633159, 
-      1360698923
+      1360698923, 
+      404434227
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701634,
-    "wof:geomhash": "67e74fc240e6f3364c2b80cd4c830dd2",
+    "wof:geomhash": "b303db74cda8fa6aa6d7a1ae1bb7eb19",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 437925215,
-    "wof:lastmodified": 1583786794,
+    "wof:lastmodified": 1609895752,
     "wof:name": "WA6 0LA",
     "wof:parent_id": 404434227,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.790891, 
-    53.26518, 
-    -2.790891, 
-    53.26518
+    -2.791061, 
+    53.265449, 
+    -2.791061, 
+    53.265449
   ],
-  "geometry": {"coordinates":[-2.790891,53.26518],"type":"Point"}
+  "geometry": {"coordinates":[-2.791061,53.265449],"type":"Point"}
 }

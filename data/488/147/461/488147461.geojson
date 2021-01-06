@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.627291,53.549369,-2.627291,53.549369",
-    "geom:latitude": 53.549369,
-    "geom:longitude": -2.627291,
+    "geom:bbox": "-2.627320,53.549342,-2.627320,53.549342",
+    "geom:latitude": 53.549342,
+    "geom:longitude": -2.62732,
     "gp:parent_id": "40445",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698555, 
       85633159, 
       1360699023, 
       1360817301, 
-      1125871869, 
-      404227469, 
-      1360698555
+      1125871869
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701275,
-    "wof:geomhash": "ba9219ed2d2406adfd338a76c74e8df9",
+    "wof:geomhash": "80f16e222355e6808206a95ea4cecccd",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488147461,
-    "wof:lastmodified": 1583786199,
+    "wof:lastmodified": 1609876938,
     "wof:name": "WN1 1XG",
     "wof:parent_id": 101750563,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.627291, 
-    53.549369, 
-    -2.627291, 
-    53.549369
+    -2.62732, 
+    53.549342, 
+    -2.62732, 
+    53.549342
   ],
-  "geometry": {"coordinates":[-2.627291,53.549369],"type":"Point"}
+  "geometry": {"coordinates":[-2.62732,53.549342],"type":"Point"}
 }

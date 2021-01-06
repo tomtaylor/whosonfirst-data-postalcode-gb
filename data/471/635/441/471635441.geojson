@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.442758,53.384413,-1.442758,53.384413",
-    "geom:latitude": 53.384413,
-    "geom:longitude": -1.442758,
+    "geom:bbox": "-1.443104,53.384387,-1.443104,53.384387",
+    "geom:latitude": 53.384387,
+    "geom:longitude": -1.443104,
     "gp:parent_id": "34503",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      85785403, 
       1360698591, 
       85633159, 
       1360699075, 
       101750529, 
-      404227469
+      404227469, 
+      85785403
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701685,
-    "wof:geomhash": "53eac39e114a9ab3b179b32629f92c4f",
+    "wof:geomhash": "2dac7119f8011f60667fda7ef58b2229",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471635441,
-    "wof:lastmodified": 1583786856,
+    "wof:lastmodified": 1609899949,
     "wof:name": "S2 5AU",
     "wof:parent_id": 101750529,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.442758, 
-    53.384413, 
-    -1.442758, 
-    53.384413
+    -1.443104, 
+    53.384387, 
+    -1.443104, 
+    53.384387
   ],
-  "geometry": {"coordinates":[-1.442758,53.384413],"type":"Point"}
+  "geometry": {"coordinates":[-1.443104,53.384387],"type":"Point"}
 }

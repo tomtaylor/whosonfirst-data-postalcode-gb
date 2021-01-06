@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.206121,52.453995,1.206121,52.453995",
-    "geom:latitude": 52.453995,
-    "geom:longitude": 1.206121,
+    "geom:bbox": "1.203547,52.454029,1.203547,52.454029",
+    "geom:latitude": 52.454029,
+    "geom:longitude": 1.203547,
     "gp:parent_id": "29464",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404455353, 
       1360755029, 
       404227469, 
       1360698575, 
       85633159, 
-      1360698955
+      1360698955, 
+      404455353
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701397,
-    "wof:geomhash": "731825f87597d1ff76ba78f61b06dfaa",
+    "wof:geomhash": "a3bb621bd5f2ad0ebdd5f2f6eb86f85b",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471207821,
-    "wof:lastmodified": 1583786555,
+    "wof:lastmodified": 1609880253,
     "wof:name": "NR15 2AT",
     "wof:parent_id": 404455353,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.206121, 
-    52.453995, 
-    1.206121, 
-    52.453995
+    1.203547, 
+    52.454029, 
+    1.203547, 
+    52.454029
   ],
-  "geometry": {"coordinates":[1.206121,52.453995],"type":"Point"}
+  "geometry": {"coordinates":[1.203547,52.454029],"type":"Point"}
 }

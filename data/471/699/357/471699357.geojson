@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.105249,51.506246,-0.105249,51.506246",
-    "geom:latitude": 51.506246,
-    "geom:longitude": -0.105249,
+    "geom:bbox": "-0.104762,51.505898,-0.104762,51.505898",
+    "geom:latitude": 51.505898,
+    "geom:longitude": -0.104762,
     "gp:parent_id": "12695816",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -20,12 +20,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      85861617, 
       1360698645, 
       1158857247, 
       85633159, 
       101750367, 
-      404227469, 
-      85861617
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701711,
-    "wof:geomhash": "6c74f4176f215886a08ae6ff67aadfe6",
+    "wof:geomhash": "307f6975c95b844d0886382e8882f600",
     "wof:hierarchy": [
       {
         "borough_id": 1158857247,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 471699357,
-    "wof:lastmodified": 1583786887,
+    "wof:lastmodified": 1609900964,
     "wof:name": "SE1 8NY",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -55,10 +55,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.105249, 
-    51.506246, 
-    -0.105249, 
-    51.506246
+    -0.104762, 
+    51.505898, 
+    -0.104762, 
+    51.505898
   ],
-  "geometry": {"coordinates":[-0.105249,51.506246],"type":"Point"}
+  "geometry": {"coordinates":[-0.104762,51.505898],"type":"Point"}
 }

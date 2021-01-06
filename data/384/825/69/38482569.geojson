@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2018-05-01",
     "geom:area": 0,
-    "geom:bbox": "-2.566809,51.522071,-2.566809,51.522071",
-    "geom:latitude": 51.522071,
-    "geom:longitude": -2.566809,
+    "geom:bbox": "-2.568791,51.521495,-2.568791,51.521495",
+    "geom:latitude": 51.521495,
+    "geom:longitude": -2.568791,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,18 +18,18 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1125787713, 
-      404227469, 
-      85788815, 
       1360698553, 
       85633159, 
       1360698895, 
-      404432849
+      404432849, 
+      1125787713, 
+      404227469, 
+      85788815
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583790862,
-    "wof:geomhash": "fb258c7114e1424cf35ca56b316586af",
+    "wof:geomhash": "c7c35553f06ccfc4d50adb807f27b6f6",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 38482569,
-    "wof:lastmodified": 1583790862,
+    "wof:lastmodified": 1609868539,
     "wof:name": "BS34 6FB",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.566809, 
-    51.522071, 
-    -2.566809, 
-    51.522071
+    -2.568791, 
+    51.521495, 
+    -2.568791, 
+    51.521495
   ],
-  "geometry": {"coordinates":[-2.566809,51.522071],"type":"Point"}
+  "geometry": {"coordinates":[-2.568791,51.521495],"type":"Point"}
 }

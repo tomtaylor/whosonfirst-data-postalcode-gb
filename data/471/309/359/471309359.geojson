@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.245802,51.608840,-1.245802,51.608840",
-    "geom:latitude": 51.60884,
-    "geom:longitude": -1.245802,
+    "geom:bbox": "-1.245798,51.608843,-1.245798,51.608843",
+    "geom:latitude": 51.608843,
+    "geom:longitude": -1.245798,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698839, 
-      404441231, 
-      101852915, 
       404227469, 
       1360698585, 
-      85633159
+      85633159, 
+      1360698839, 
+      404441231, 
+      101852915
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701491,
-    "wof:geomhash": "c8427e493eab2289e2d0448c1967bdb4",
+    "wof:geomhash": "e0c4568b554656d90923ed2833994b59",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471309359,
-    "wof:lastmodified": 1583786639,
+    "wof:lastmodified": 1609885875,
     "wof:name": "OX11 7JP",
     "wof:parent_id": 101852915,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.245802, 
-    51.60884, 
-    -1.245802, 
-    51.60884
+    -1.245798, 
+    51.608843, 
+    -1.245798, 
+    51.608843
   ],
-  "geometry": {"coordinates":[-1.245802,51.60884],"type":"Point"}
+  "geometry": {"coordinates":[-1.245798,51.608843],"type":"Point"}
 }

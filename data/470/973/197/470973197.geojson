@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.750827,52.004570,-0.750827,52.004570",
-    "geom:latitude": 52.00457,
-    "geom:longitude": -0.750827,
+    "geom:bbox": "-0.750824,52.004668,-0.750824,52.004668",
+    "geom:latitude": 52.004668,
+    "geom:longitude": -0.750824,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698533, 
-      85633159, 
       1360698913, 
       404445363, 
       1360759349, 
-      404227469
+      404227469, 
+      1360698533, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701351,
-    "wof:geomhash": "960a913189caa535d145623aad867ac3",
+    "wof:geomhash": "110df1df75aa7c3262fdbc7fe590d5d6",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 470973197,
-    "wof:lastmodified": 1583786491,
+    "wof:lastmodified": 1609877831,
     "wof:name": "MK3 7NG",
     "wof:parent_id": 101750433,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.750827, 
-    52.00457, 
-    -0.750827, 
-    52.00457
+    -0.750824, 
+    52.004668, 
+    -0.750824, 
+    52.004668
   ],
-  "geometry": {"coordinates":[-0.750827,52.00457],"type":"Point"}
+  "geometry": {"coordinates":[-0.750824,52.004668],"type":"Point"}
 }

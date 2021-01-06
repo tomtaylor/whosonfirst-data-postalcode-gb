@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1998-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.054611,53.995597,-1.054611,53.995597",
-    "geom:latitude": 53.995597,
-    "geom:longitude": -1.054611,
+    "geom:bbox": "-1.054221,53.995710,-1.054221,53.995710",
+    "geom:latitude": 53.99571,
+    "geom:longitude": -1.054221,
     "gp:parent_id": "24172",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698619, 
       85633159, 
       1360698977, 
       404446431, 
       1276579271, 
-      404227469
+      404227469, 
+      1360698619
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701220,
-    "wof:geomhash": "a3277662fe044dd010f0fd881e9c8732",
+    "wof:geomhash": "10e3705d3d040869983f6688eb93fe96",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488251365,
-    "wof:lastmodified": 1583786452,
+    "wof:lastmodified": 1609882569,
     "wof:name": "YO32 9YE",
     "wof:parent_id": 101751641,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.054611, 
-    53.995597, 
-    -1.054611, 
-    53.995597
+    -1.054221, 
+    53.99571, 
+    -1.054221, 
+    53.99571
   ],
-  "geometry": {"coordinates":[-1.054611,53.995597],"type":"Point"}
+  "geometry": {"coordinates":[-1.054221,53.99571],"type":"Point"}
 }

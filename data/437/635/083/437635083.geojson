@@ -2,15 +2,15 @@
   "id": 437635083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2006-08-01",
-    "edtf:inception": "1996-06-01",
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-08-01",
     "geom:area": 0,
-    "geom:bbox": "-0.194738,51.361627,-0.194738,51.361627",
-    "geom:latitude": 51.361627,
-    "geom:longitude": -0.194738,
+    "geom:bbox": "-0.193661,51.362068,-0.193661,51.362068",
+    "geom:latitude": 51.362068,
+    "geom:longitude": -0.193661,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E09000029",
@@ -18,12 +18,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      1158857303, 
       85633159, 
       101750367, 
       404227469, 
       1158857445, 
-      1360698645
+      1360698645, 
+      1158857303
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701439,
-    "wof:geomhash": "f99901751a7dea45d52c240cbf5bb7f6",
+    "wof:geomhash": "d802df57bf24392f124858084fcec959",
     "wof:hierarchy": [
       {
         "borough_id": 1158857303,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 437635083,
-    "wof:lastmodified": 1583786582,
+    "wof:lastmodified": 1609882137,
     "wof:name": "SM1 1EB",
     "wof:parent_id": "101875487",
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.194738, 
-    51.361627, 
-    -0.194738, 
-    51.361627
+    -0.193661, 
+    51.362068, 
+    -0.193661, 
+    51.362068
   ],
-  "geometry": {"coordinates":[-0.194738,51.361627],"type":"Point"}
+  "geometry": {"coordinates":[-0.193661,51.362068],"type":"Point"}
 }

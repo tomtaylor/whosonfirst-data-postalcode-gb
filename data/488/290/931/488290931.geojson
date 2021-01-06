@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2009-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.700290,54.569038,-1.700290,54.569038",
-    "geom:latitude": 54.569038,
-    "geom:longitude": -1.70029,
+    "geom:bbox": "-1.700566,54.569300,-1.700566,54.569300",
+    "geom:latitude": 54.5693,
+    "geom:longitude": -1.700566,
     "gp:parent_id": "24972",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698621, 
       85633159, 
       1360698889, 
       404451057, 
-      1360756129, 
-      404227469, 
-      1360698621
+      1360756129
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701308,
-    "wof:geomhash": "b869bdf03f40a37ae9b1e70b984bec56",
+    "wof:geomhash": "11512e38745f276235bb5056d38c3ca1",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488290931,
-    "wof:lastmodified": 1595731804,
+    "wof:lastmodified": 1609884610,
     "wof:name": "DL2 3UP",
     "wof:parent_id": 404451057,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.70029, 
-    54.569038, 
-    -1.70029, 
-    54.569038
+    -1.700566, 
+    54.5693, 
+    -1.700566, 
+    54.5693
   ],
-  "geometry": {"coordinates":[-1.70029,54.569038],"type":"Point"}
+  "geometry": {"coordinates":[-1.700566,54.5693],"type":"Point"}
 }

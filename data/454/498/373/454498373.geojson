@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.135110,52.410253,-2.135110,52.410253",
-    "geom:latitude": 52.410253,
-    "geom:longitude": -2.13511,
+    "geom:bbox": "-2.135287,52.410280,-2.135287,52.410280",
+    "geom:latitude": 52.41028,
+    "geom:longitude": -2.135287,
     "gp:parent_id": "16274",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698613, 
       85633159, 
       1360699043, 
       404442217, 
-      1360213873
+      1360213873, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701606,
-    "wof:geomhash": "050edc7c4448e9d83cb2b95129b478b0",
+    "wof:geomhash": "d84dad8ff4d2bd204a4d8e48c7a40112",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454498373,
-    "wof:lastmodified": 1583786736,
+    "wof:lastmodified": 1609892144,
     "wof:name": "DY9 0HN",
     "wof:parent_id": 404442217,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.13511, 
-    52.410253, 
-    -2.13511, 
-    52.410253
+    -2.135287, 
+    52.41028, 
+    -2.135287, 
+    52.41028
   ],
-  "geometry": {"coordinates":[-2.13511,52.410253],"type":"Point"}
+  "geometry": {"coordinates":[-2.135287,52.41028],"type":"Point"}
 }

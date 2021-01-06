@@ -2,7 +2,7 @@
   "id": 454859141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-07-01",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
     "geom:bbox": "1.146613,52.052652,1.146613,52.052652",
@@ -11,7 +11,7 @@
     "gp:parent_id": "24522",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000029",
     "os:district_code": "E07000202",
@@ -19,11 +19,11 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
+      101750447, 
+      404227469, 
       1360698595, 
       85633159, 
-      1360699041, 
-      101750447, 
-      404227469
+      1360699041
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454859141,
-    "wof:lastmodified": 1595717460,
+    "wof:lastmodified": 1609903673,
     "wof:name": "IP1 9BX",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",

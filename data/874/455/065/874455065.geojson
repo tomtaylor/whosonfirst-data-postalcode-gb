@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2010-06-01",
     "geom:area": 0,
-    "geom:bbox": "-3.871674,50.916455,-3.871674,50.916455",
-    "geom:latitude": 50.916455,
-    "geom:longitude": -3.871674,
+    "geom:bbox": "-3.873208,50.915848,-3.873208,50.915848",
+    "geom:latitude": 50.915848,
+    "geom:longitude": -3.873208,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1125800485, 
       404227469, 
       1360698541, 
       85633159, 
       1360699081, 
-      404442525
+      404442525, 
+      1125800485
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468879351,
-    "wof:geomhash": "6b55067763c9ff5ab48587bc998edb1c",
+    "wof:geomhash": "8da882e835d11bb5535a40be16b3b85f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 874455065,
-    "wof:lastmodified": 1583786258,
+    "wof:lastmodified": 1609869850,
     "wof:name": "EX18 7AX",
     "wof:parent_id": 404442525,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.871674, 
-    50.916455, 
-    -3.871674, 
-    50.916455
+    -3.873208, 
+    50.915848, 
+    -3.873208, 
+    50.915848
   ],
-  "geometry": {"coordinates":[-3.871674,50.916455],"type":"Point"}
+  "geometry": {"coordinates":[-3.873208,50.915848],"type":"Point"}
 }

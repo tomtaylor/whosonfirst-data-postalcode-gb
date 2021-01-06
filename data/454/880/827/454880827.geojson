@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.861842,52.420481,0.861842,52.420481",
-    "geom:latitude": 52.420481,
-    "geom:longitude": 0.861842,
+    "geom:bbox": "0.863395,52.420913,0.863395,52.420913",
+    "geom:latitude": 52.420913,
+    "geom:longitude": 0.863395,
     "gp:parent_id": "34418",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404433039, 
       1360753647, 
       404227469, 
       1360698575, 
       85633159, 
-      1360698955
+      1360698955, 
+      404433039
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701746,
-    "wof:geomhash": "cf88c86e697bbfc7d61aeb2b521b48b2",
+    "wof:geomhash": "873dc60a45a51f4034475de61bea001a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454880827,
-    "wof:lastmodified": 1583786875,
+    "wof:lastmodified": 1609904078,
     "wof:name": "IP24 2RX",
     "wof:parent_id": 404433039,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.861842, 
-    52.420481, 
-    0.861842, 
-    52.420481
+    0.863395, 
+    52.420913, 
+    0.863395, 
+    52.420913
   ],
-  "geometry": {"coordinates":[0.861842,52.420481],"type":"Point"}
+  "geometry": {"coordinates":[0.863395,52.420913],"type":"Point"}
 }

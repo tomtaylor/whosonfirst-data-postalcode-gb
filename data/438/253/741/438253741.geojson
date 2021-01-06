@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.038404,51.410552,-0.038404,51.410552",
-    "geom:latitude": 51.410552,
-    "geom:longitude": -0.038404,
+    "geom:bbox": "-0.038346,51.410560,-0.038346,51.410560",
+    "geom:latitude": 51.41056,
+    "geom:longitude": -0.038346,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      101750367, 
+      404227469, 
       85860015, 
       1360698645, 
       1158857297, 
-      85633159, 
-      101750367, 
-      404227469
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701439,
-    "wof:geomhash": "8427191790cf3aec5f2232ac55aa51be",
+    "wof:geomhash": "6f427f8ed93387a07a27428699361353",
     "wof:hierarchy": [
       {
         "borough_id": 1158857297,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438253741,
-    "wof:lastmodified": 1583786579,
+    "wof:lastmodified": 1609882251,
     "wof:name": "BR3 4NA",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.038404, 
-    51.410552, 
-    -0.038404, 
-    51.410552
+    -0.038346, 
+    51.41056, 
+    -0.038346, 
+    51.41056
   ],
-  "geometry": {"coordinates":[-0.038404,51.410552],"type":"Point"}
+  "geometry": {"coordinates":[-0.038346,51.41056],"type":"Point"}
 }

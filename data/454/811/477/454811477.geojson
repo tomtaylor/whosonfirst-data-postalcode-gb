@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.199457,53.742027,-0.199457,53.742027",
-    "geom:latitude": 53.742027,
-    "geom:longitude": -0.199457,
+    "geom:bbox": "-0.199449,53.742224,-0.199449,53.742224",
+    "geom:latitude": 53.742224,
+    "geom:longitude": -0.199449,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699001, 
-      404430609, 
-      101874161, 
       404227469, 
       1360698547, 
-      85633159
+      85633159, 
+      1360699001, 
+      404430609, 
+      101874161
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701725,
-    "wof:geomhash": "a6f89be383a14c9e20710f98ce55bca2",
+    "wof:geomhash": "acf60e57f4ffc64f729eea44777afbf5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454811477,
-    "wof:lastmodified": 1595717208,
+    "wof:lastmodified": 1609902677,
     "wof:name": "HU12 8JF",
     "wof:parent_id": 101874161,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.199457, 
-    53.742027, 
-    -0.199457, 
-    53.742027
+    -0.199449, 
+    53.742224, 
+    -0.199449, 
+    53.742224
   ],
-  "geometry": {"coordinates":[-0.199457,53.742027],"type":"Point"}
+  "geometry": {"coordinates":[-0.199449,53.742224],"type":"Point"}
 }

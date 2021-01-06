@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.066553,51.628128,-0.066553,51.628128",
-    "geom:latitude": 51.628128,
-    "geom:longitude": -0.066553,
+    "geom:bbox": "-0.066511,51.628184,-0.066511,51.628184",
+    "geom:latitude": 51.628184,
+    "geom:longitude": -0.066511,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698645, 
-      1158857281, 
       85633159, 
       101750367, 
       404227469, 
-      85787249
+      85787249, 
+      1360698645, 
+      1158857281
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701124,
-    "wof:geomhash": "2d310b6ec46c3c173270a6ea73af05dc",
+    "wof:geomhash": "824b7d0c90cab2b24fd8e4396c11ec4e",
     "wof:hierarchy": [
       {
         "borough_id": 1158857281,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471028939,
-    "wof:lastmodified": 1583786247,
+    "wof:lastmodified": 1609869306,
     "wof:name": "N9 9PU",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.066553, 
-    51.628128, 
-    -0.066553, 
-    51.628128
+    -0.066511, 
+    51.628184, 
+    -0.066511, 
+    51.628184
   ],
-  "geometry": {"coordinates":[-0.066553,51.628128],"type":"Point"}
+  "geometry": {"coordinates":[-0.066511,51.628184],"type":"Point"}
 }

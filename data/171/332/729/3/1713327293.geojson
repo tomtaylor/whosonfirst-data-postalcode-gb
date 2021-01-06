@@ -5,30 +5,30 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "-5.078576,50.227149,-5.078576,50.227149",
-    "geom:latitude": 50.227149,
-    "geom:longitude": -5.078576,
+    "geom:bbox": "-5.081635,50.220663,-5.081635,50.220663",
+    "geom:latitude": 50.220663,
+    "geom:longitude": -5.081635,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000052",
-    "os:positional_quality_indicator": "5",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699085, 
       404447423, 
       1125817741, 
       404227469, 
-      1360698623
+      1360698623, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735480,
-    "wof:geomhash": "b4286fe6385581a6f3cd582a9c197d8f",
+    "wof:geomhash": "4094590d373c9a1a1370b541201c4784",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1713327293,
-    "wof:lastmodified": 1595753365,
+    "wof:lastmodified": 1609875206,
     "wof:name": "TR3 6GQ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -5.078576, 
-    50.227149, 
-    -5.078576, 
-    50.227149
+    -5.081635, 
+    50.220663, 
+    -5.081635, 
+    50.220663
   ],
-  "geometry": {"coordinates":[-5.078576,50.227149],"type":"Point"}
+  "geometry": {"coordinates":[-5.081635,50.220663],"type":"Point"}
 }

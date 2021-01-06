@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.343294,51.256655,-2.343294,51.256655",
-    "geom:latitude": 51.256655,
-    "geom:longitude": -2.343294,
+    "geom:bbox": "-2.343585,51.257275,-2.343585,51.257275",
+    "geom:latitude": 51.257275,
+    "geom:longitude": -2.343585,
     "gp:parent_id": "14398",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698589, 
-      85633159, 
       1360699059, 
       404446863, 
       1125979253, 
-      404227469
+      404227469, 
+      1360698589, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701150,
-    "wof:geomhash": "12cd13f06522d5896aae89c587a88261",
+    "wof:geomhash": "227c0cdc5386251cc52715811cf71126",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438050451,
-    "wof:lastmodified": 1583786280,
+    "wof:lastmodified": 1609870004,
     "wof:name": "BA11 2QJ",
     "wof:parent_id": 404446863,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.343294, 
-    51.256655, 
-    -2.343294, 
-    51.256655
+    -2.343585, 
+    51.257275, 
+    -2.343585, 
+    51.257275
   ],
-  "geometry": {"coordinates":[-2.343294,51.256655],"type":"Point"}
+  "geometry": {"coordinates":[-2.343585,51.257275],"type":"Point"}
 }

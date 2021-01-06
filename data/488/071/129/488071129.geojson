@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.561135,53.417740,-2.561135,53.417740",
-    "geom:latitude": 53.41774,
-    "geom:longitude": -2.561135,
+    "geom:bbox": "-2.561150,53.417748,-2.561150,53.417748",
+    "geom:latitude": 53.417748,
+    "geom:longitude": -2.56115,
     "gp:parent_id": "20009",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360758941, 
-      404227469, 
       1360698537, 
       85633159, 
       1360698965, 
-      404453217
+      404453217, 
+      1360758941, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701228,
-    "wof:geomhash": "0e4f18e68bf9b8c3a99ac3c9ea40da04",
+    "wof:geomhash": "a35fbd2d775e36ff5646fc9ccff22ad0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488071129,
-    "wof:lastmodified": 1583786394,
+    "wof:lastmodified": 1609871123,
     "wof:name": "WA2 0DN",
     "wof:parent_id": 101751627,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.561135, 
-    53.41774, 
-    -2.561135, 
-    53.41774
+    -2.56115, 
+    53.417748, 
+    -2.56115, 
+    53.417748
   ],
-  "geometry": {"coordinates":[-2.561135,53.41774],"type":"Point"}
+  "geometry": {"coordinates":[-2.56115,53.417748],"type":"Point"}
 }

@@ -6,9 +6,9 @@
     "edtf:inception": "1995-07-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.024736,51.473417,-0.024736,51.473417",
-    "geom:latitude": 51.473417,
-    "geom:longitude": -0.024736,
+    "geom:bbox": "-0.024680,51.473389,-0.024680,51.473389",
+    "geom:latitude": 51.473389,
+    "geom:longitude": -0.02468,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      85860515, 
       1360698645, 
       1158857299, 
       85633159, 
-      101750367
+      101750367, 
+      404227469, 
+      85860515
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701725,
-    "wof:geomhash": "d9c7b5a210d3de5c7dc4606bee177d8e",
+    "wof:geomhash": "0516185dc9139041d477b0eae5c34ae0",
     "wof:hierarchy": [
       {
         "borough_id": 1158857299,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471734979,
-    "wof:lastmodified": 1583786897,
+    "wof:lastmodified": 1609901920,
     "wof:name": "SE8 4DN",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.024736, 
-    51.473417, 
-    -0.024736, 
-    51.473417
+    -0.02468, 
+    51.473389, 
+    -0.02468, 
+    51.473389
   ],
-  "geometry": {"coordinates":[-0.024736,51.473417],"type":"Point"}
+  "geometry": {"coordinates":[-0.02468,51.473389],"type":"Point"}
 }

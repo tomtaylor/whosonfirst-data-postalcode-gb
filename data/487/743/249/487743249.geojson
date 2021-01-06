@@ -3,11 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "uuuu",
-    "edtf:inception": "2016-05-01",
+    "edtf:inception": "2020-06-01",
     "geom:area": 0,
-    "geom:bbox": "-0.191540,51.448222,-0.191540,51.448222",
+    "geom:bbox": "-0.191516,51.448222,-0.191516,51.448222",
     "geom:latitude": 51.448222,
-    "geom:longitude": -0.19154,
+    "geom:longitude": -0.191516,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      1158857251, 
+      85633159, 
       101750367, 
       404227469, 
       85860865, 
-      1360698645, 
-      1158857251, 
-      85633159
+      1360698645
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701146,
-    "wof:geomhash": "e67a62c1948e4e42465b5d6f6ef37af5",
+    "wof:geomhash": "64ae2cb07908889f688dde925c249873",
     "wof:hierarchy": [
       {
         "borough_id": 1158857251,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 487743249,
-    "wof:lastmodified": 1583786247,
+    "wof:lastmodified": 1609877395,
     "wof:name": "SW18 2TP",
     "wof:parent_id": "101853119",
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.19154, 
+    -0.191516, 
     51.448222, 
-    -0.19154, 
+    -0.191516, 
     51.448222
   ],
-  "geometry": {"coordinates":[-0.19154,51.448222],"type":"Point"}
+  "geometry": {"coordinates":[-0.191516,51.448222],"type":"Point"}
 }

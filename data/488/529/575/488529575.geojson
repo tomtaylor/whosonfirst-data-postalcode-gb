@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.498747,51.527212,-3.498747,51.527212",
-    "geom:latitude": 51.527212,
-    "geom:longitude": -3.498747,
+    "geom:bbox": "-3.498820,51.527229,-3.498820,51.527229",
+    "geom:latitude": 51.527229,
+    "geom:longitude": -3.49882,
     "gp:parent_id": "31637",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699051, 
-      404438561, 
-      1126014655, 
       404227475, 
       1360698631, 
-      85633159
+      85633159, 
+      1360699051, 
+      404438561, 
+      1126014655
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701539,
-    "wof:geomhash": "7b467f48d0e2866df81757d311f41005",
+    "wof:geomhash": "0872c2405baf214d550cf109da5ebad5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 488529575,
-    "wof:lastmodified": 1583786741,
+    "wof:lastmodified": 1609895507,
     "wof:name": "CF35 6SH",
     "wof:parent_id": 404438561,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.498747, 
-    51.527212, 
-    -3.498747, 
-    51.527212
+    -3.49882, 
+    51.527229, 
+    -3.49882, 
+    51.527229
   ],
-  "geometry": {"coordinates":[-3.498747,51.527212],"type":"Point"}
+  "geometry": {"coordinates":[-3.49882,51.527229],"type":"Point"}
 }

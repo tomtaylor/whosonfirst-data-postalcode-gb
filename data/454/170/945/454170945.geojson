@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1998-12-01",
     "geom:area": 0,
-    "geom:bbox": "0.744564,52.039208,0.744564,52.039208",
-    "geom:latitude": 52.039208,
-    "geom:longitude": 0.744564,
+    "geom:bbox": "0.744622,52.039197,0.744622,52.039197",
+    "geom:latitude": 52.039197,
+    "geom:longitude": 0.744622,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698595, 
       85633159, 
       1360699041, 
       404447893, 
-      101854873
+      101854873, 
+      404227469, 
+      1360698595
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701330,
-    "wof:geomhash": "32f07692d23061ce32dd34e85bd3fd54",
+    "wof:geomhash": "a42010c969467335c75384bf20fbf2fa",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 454170945,
-    "wof:lastmodified": 1595712693,
+    "wof:lastmodified": 1609875868,
     "wof:name": "CO10 2RP",
     "wof:parent_id": 101854873,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.744564, 
-    52.039208, 
-    0.744564, 
-    52.039208
+    0.744622, 
+    52.039197, 
+    0.744622, 
+    52.039197
   ],
-  "geometry": {"coordinates":[0.744564,52.039208],"type":"Point"}
+  "geometry": {"coordinates":[0.744622,52.039197],"type":"Point"}
 }

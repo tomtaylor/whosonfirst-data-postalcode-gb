@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.264293,51.355951,-0.264293,51.355951",
-    "geom:latitude": 51.355951,
-    "geom:longitude": -0.264293,
+    "geom:bbox": "-0.264235,51.355950,-0.264235,51.355950",
+    "geom:latitude": 51.35595,
+    "geom:longitude": -0.264235,
     "gp:parent_id": "19649",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698599, 
       85633159, 
       1360698887, 
       1126029899, 
-      404227469
+      404227469, 
+      1360698599
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701752,
-    "wof:geomhash": "4636d03484587b4c9023777d06a0b329",
+    "wof:geomhash": "9e8f326b065a6438fc5077d3add98e51",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454917507,
-    "wof:lastmodified": 1583786883,
+    "wof:lastmodified": 1609905059,
     "wof:name": "KT19 9RL",
     "wof:parent_id": 101914077,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.264293, 
-    51.355951, 
-    -0.264293, 
-    51.355951
+    -0.264235, 
+    51.35595, 
+    -0.264235, 
+    51.35595
   ],
-  "geometry": {"coordinates":[-0.264293,51.355951],"type":"Point"}
+  "geometry": {"coordinates":[-0.264235,51.35595],"type":"Point"}
 }

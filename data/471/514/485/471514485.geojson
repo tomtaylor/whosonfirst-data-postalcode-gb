@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.027021,53.625633,-3.027021,53.625633",
-    "geom:latitude": 53.625633,
-    "geom:longitude": -3.027021,
+    "geom:bbox": "-3.026933,53.625121,-3.026933,53.625121",
+    "geom:latitude": 53.625121,
+    "geom:longitude": -3.026933,
     "gp:parent_id": "35398",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698771, 
       101750595, 
       404227469, 
       1360698573, 
-      85633159
+      85633159, 
+      1360698771
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701653,
-    "wof:geomhash": "61e8c5b5e6c1b22955305f6fed9b6bb3",
+    "wof:geomhash": "6fb381218eb371c8124b94d8cc4842c9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 471514485,
-    "wof:lastmodified": 1583786780,
+    "wof:lastmodified": 1609894946,
     "wof:name": "PR8 2NN",
     "wof:parent_id": 404434509,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.027021, 
-    53.625633, 
-    -3.027021, 
-    53.625633
+    -3.026933, 
+    53.625121, 
+    -3.026933, 
+    53.625121
   ],
-  "geometry": {"coordinates":[-3.027021,53.625633],"type":"Point"}
+  "geometry": {"coordinates":[-3.026933,53.625121],"type":"Point"}
 }

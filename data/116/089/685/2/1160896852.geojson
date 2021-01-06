@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-02-01",
     "geom:area": 0,
-    "geom:bbox": "-1.846159,54.848208,-1.846159,54.848208",
-    "geom:latitude": 54.848208,
-    "geom:longitude": -1.846159,
+    "geom:bbox": "-1.846049,54.848451,-1.846049,54.848451",
+    "geom:latitude": 54.848451,
+    "geom:longitude": -1.846049,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698621, 
       85633159, 
       1360699055, 
       1360817221, 
-      101873363
+      101873363, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583794853,
-    "wof:geomhash": "94d0410381bb90f8e9e270501d7d008d",
+    "wof:geomhash": "58dea7176c3f0189fd18ab8732c9b701",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160896852,
-    "wof:lastmodified": 1595711313,
+    "wof:lastmodified": 1609871860,
     "wof:name": "DH8 5BP",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.846159, 
-    54.848208, 
-    -1.846159, 
-    54.848208
+    -1.846049, 
+    54.848451, 
+    -1.846049, 
+    54.848451
   ],
-  "geometry": {"coordinates":[-1.846159,54.848208],"type":"Point"}
+  "geometry": {"coordinates":[-1.846049,54.848451],"type":"Point"}
 }

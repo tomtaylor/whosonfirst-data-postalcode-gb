@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.746696,53.789186,-1.746696,53.789186",
-    "geom:latitude": 53.789186,
-    "geom:longitude": -1.746696,
+    "geom:bbox": "-1.746152,53.788816,-1.746152,53.788816",
+    "geom:latitude": 53.788816,
+    "geom:longitude": -1.746152,
     "gp:parent_id": "13527",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698609, 
       85633159, 
       1360698963, 
-      101750581
+      101750581, 
+      404227469, 
+      1360698609
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701328,
-    "wof:geomhash": "f6a525b3c9d3b07fb01d15121ad143a8",
+    "wof:geomhash": "af666c876f63f163632a181884526404",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 438135545,
-    "wof:lastmodified": 1595713201,
+    "wof:lastmodified": 1609875568,
     "wof:name": "BD4 7AN",
     "wof:parent_id": 101750581,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.746696, 
-    53.789186, 
-    -1.746696, 
-    53.789186
+    -1.746152, 
+    53.788816, 
+    -1.746152, 
+    53.788816
   ],
-  "geometry": {"coordinates":[-1.746696,53.789186],"type":"Point"}
+  "geometry": {"coordinates":[-1.746152,53.788816],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2008-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.472938,52.919430,-1.472938,52.919430",
-    "geom:latitude": 52.91943,
-    "geom:longitude": -1.472938,
+    "geom:bbox": "-1.472436,52.919095,-1.472436,52.919095",
+    "geom:latitude": 52.919095,
+    "geom:longitude": -1.472436,
     "gp:parent_id": "18114",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698539, 
       85633159, 
       1360699093, 
-      101750489
+      101750489, 
+      404227469, 
+      1360698539
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701305,
-    "wof:geomhash": "356b70405ff87e90907c099ae4a246c2",
+    "wof:geomhash": "5bd990b4c13eaf4cf9c0bfd6a1c659aa",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488288483,
-    "wof:lastmodified": 1583786492,
+    "wof:lastmodified": 1609884534,
     "wof:name": "DE1 2PP",
     "wof:parent_id": 101750489,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.472938, 
-    52.91943, 
-    -1.472938, 
-    52.91943
+    -1.472436, 
+    52.919095, 
+    -1.472436, 
+    52.919095
   ],
-  "geometry": {"coordinates":[-1.472938,52.91943],"type":"Point"}
+  "geometry": {"coordinates":[-1.472436,52.919095],"type":"Point"}
 }

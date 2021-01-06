@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.322447,50.895623,-1.322447,50.895623",
-    "geom:latitude": 50.895623,
-    "geom:longitude": -1.322447,
+    "geom:bbox": "-1.322045,50.895899,-1.322045,50.895899",
+    "geom:latitude": 50.895899,
+    "geom:longitude": -1.322045,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360755705, 
-      404227469, 
-      1360698557, 
       85633159, 
       1360698827, 
-      404447703
+      404447703, 
+      1360755705, 
+      404227469, 
+      1360698557
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583789564,
-    "wof:geomhash": "084b4844eea8d53379fab77f27412f53",
+    "wof:geomhash": "2f83466ff475a4d22013a626c785849f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712472251,
-    "wof:lastmodified": 1583789564,
+    "wof:lastmodified": 1609868981,
     "wof:name": "SO31 8NJ",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.322447, 
-    50.895623, 
-    -1.322447, 
-    50.895623
+    -1.322045, 
+    50.895899, 
+    -1.322045, 
+    50.895899
   ],
-  "geometry": {"coordinates":[-1.322447,50.895623],"type":"Point"}
+  "geometry": {"coordinates":[-1.322045,50.895899],"type":"Point"}
 }

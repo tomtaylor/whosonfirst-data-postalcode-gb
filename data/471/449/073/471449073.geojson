@@ -2,7 +2,7 @@
   "id": 471449073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "2020-10-01",
     "edtf:inception": "2019-05-01",
     "geom:area": 0,
     "geom:bbox": "-1.234184,50.849026,-1.234184,50.849026",
@@ -11,7 +11,7 @@
     "gp:parent_id": "37668",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000014",
     "os:district_code": "E07000087",
@@ -19,11 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698827, 
       101750353, 
       404227469, 
-      1360698557
+      1360698557, 
+      85633159, 
+      1360698827
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 471449073,
-    "wof:lastmodified": 1583786749,
+    "wof:lastmodified": 1609892509,
     "wof:name": "PO14 4AH",
     "wof:parent_id": 404437055,
     "wof:placetype": "postalcode",

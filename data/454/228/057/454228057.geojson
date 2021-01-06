@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "1.120036,51.098690,1.120036,51.098690",
-    "geom:latitude": 51.09869,
-    "geom:longitude": 1.120036,
+    "geom:bbox": "1.120054,51.098711,1.120054,51.098711",
+    "geom:latitude": 51.098711,
+    "geom:longitude": 1.120054,
     "gp:parent_id": "31575",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
       1360698565, 
       85633159, 
       1360698811, 
       404451265, 
-      1209544861
+      1209544861, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701393,
-    "wof:geomhash": "79cbe1cac15ba666f651f1ecee3abd6d",
+    "wof:geomhash": "674d3fa3940a3aa6fd03d0aef9e53df8",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454228057,
-    "wof:lastmodified": 1583786525,
+    "wof:lastmodified": 1609879175,
     "wof:name": "CT18 8BA",
     "wof:parent_id": 404451265,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.120036, 
-    51.09869, 
-    1.120036, 
-    51.09869
+    1.120054, 
+    51.098711, 
+    1.120054, 
+    51.098711
   ],
-  "geometry": {"coordinates":[1.120036,51.09869],"type":"Point"}
+  "geometry": {"coordinates":[1.120054,51.098711],"type":"Point"}
 }

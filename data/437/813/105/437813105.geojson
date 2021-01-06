@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-04-01",
     "geom:area": 0,
-    "geom:bbox": "1.088878,52.116976,1.088878,52.116976",
-    "geom:latitude": 52.116976,
-    "geom:longitude": 1.088878,
+    "geom:bbox": "1.088118,52.117383,1.088118,52.117383",
+    "geom:latitude": 52.117383,
+    "geom:longitude": 1.088118,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699041, 
       404452915, 
       101875483, 
       404227469, 
-      1360698595
+      1360698595, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701567,
-    "wof:geomhash": "b159efab927193f22fd4f1086ab6529a",
+    "wof:geomhash": "a7ac2c1bac34ce7987f373b5549e2ceb",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 437813105,
-    "wof:lastmodified": 1595715078,
+    "wof:lastmodified": 1609891274,
     "wof:name": "IP6 0NH",
     "wof:parent_id": "101873681",
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.088878, 
-    52.116976, 
-    1.088878, 
-    52.116976
+    1.088118, 
+    52.117383, 
+    1.088118, 
+    52.117383
   ],
-  "geometry": {"coordinates":[1.088878,52.116976],"type":"Point"}
+  "geometry": {"coordinates":[1.088118,52.117383],"type":"Point"}
 }

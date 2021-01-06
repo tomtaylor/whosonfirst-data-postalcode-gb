@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.099874,53.551880,-0.099874,53.551880",
-    "geom:latitude": 53.55188,
-    "geom:longitude": -0.099874,
+    "geom:bbox": "-0.099902,53.551925,-0.099902,53.551925",
+    "geom:latitude": 53.551925,
+    "geom:longitude": -0.099902,
     "gp:parent_id": "21896",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698837, 
       1360817097, 
       1209242129, 
       404227469, 
       1360698571, 
-      85633159, 
-      1360698837
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701567,
-    "wof:geomhash": "32649f7dd3782ccde582e79d6eba2844",
+    "wof:geomhash": "a26cc651847045364edf2665c6b18ad4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454440021,
-    "wof:lastmodified": 1583786700,
+    "wof:lastmodified": 1609889380,
     "wof:name": "DN33 1DF",
     "wof:parent_id": 101750533,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.099874, 
-    53.55188, 
-    -0.099874, 
-    53.55188
+    -0.099902, 
+    53.551925, 
+    -0.099902, 
+    53.551925
   ],
-  "geometry": {"coordinates":[-0.099874,53.55188],"type":"Point"}
+  "geometry": {"coordinates":[-0.099902,53.551925],"type":"Point"}
 }

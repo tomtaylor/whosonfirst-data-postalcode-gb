@@ -17,7 +17,11 @@
     "os:positional_quality_indicator": "1",
     "os:region_code": "E12000006",
     "src:geom": "os",
-    "wof:belongsto": [],
+    "wof:belongsto": [
+      85633159, 
+      1360698979, 
+      404227469
+    ],
     "wof:breaches": [],
     "wof:concordances": {
       "gp:id": "27082532"
@@ -26,10 +30,14 @@
     "wof:created": 1583701340,
     "wof:geomhash": "cc66dddf13b065b9f2615ba13c249a79",
     "wof:hierarchy": [
-      {}
+      {
+        "country_id": 85633159,
+        "county_id": 1360698979,
+        "macroregion_id": 404227469
+      }
     ],
     "wof:id": 454177207,
-    "wof:lastmodified": 1595712739,
+    "wof:lastmodified": 1609876445,
     "wof:name": "CO15 1QX",
     "wof:parent_id": 85684217,
     "wof:placetype": "postalcode",

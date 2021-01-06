@@ -6,9 +6,9 @@
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.021575,51.534434,-0.021575,51.534434",
-    "geom:latitude": 51.534434,
-    "geom:longitude": -0.021575,
+    "geom:bbox": "-0.021348,51.534340,-0.021348,51.534340",
+    "geom:latitude": 51.53434,
+    "geom:longitude": -0.021348,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      101750367, 
-      404227469, 
       85860203, 
       1360698645, 
-      1158857269
+      1158857269, 
+      85633159, 
+      101750367, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701618,
-    "wof:geomhash": "79c640e6a69194cb4185f3e177e153e4",
+    "wof:geomhash": "bfa5070b849b54155552f96e9315bb9d",
     "wof:hierarchy": [
       {
         "borough_id": 1158857269,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454522165,
-    "wof:lastmodified": 1583786746,
+    "wof:lastmodified": 1609893122,
     "wof:name": "E3 2TB",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.021575, 
-    51.534434, 
-    -0.021575, 
-    51.534434
+    -0.021348, 
+    51.53434, 
+    -0.021348, 
+    51.53434
   ],
-  "geometry": {"coordinates":[-0.021575,51.534434],"type":"Point"}
+  "geometry": {"coordinates":[-0.021348,51.53434],"type":"Point"}
 }

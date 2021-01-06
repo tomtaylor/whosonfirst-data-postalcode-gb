@@ -6,9 +6,9 @@
     "edtf:inception": "1998-06-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-0.117267,51.608935,-0.117267,51.608935",
-    "geom:latitude": 51.608935,
-    "geom:longitude": -0.117267,
+    "geom:bbox": "-0.117168,51.608982,-0.117168,51.608982",
+    "geom:latitude": 51.608982,
+    "geom:longitude": -0.117168,
     "gp:parent_id": "12695827",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -20,12 +20,12 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
+      85792235, 
+      1360698645, 
       1158857281, 
       85633159, 
       101750367, 
-      404227469, 
-      85792235, 
-      1360698645
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,7 +33,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701100,
-    "wof:geomhash": "0d176061287b0aa87ad4e72ea19b8578",
+    "wof:geomhash": "1c41bf75f42b58782eed49b697d7d739",
     "wof:hierarchy": [
       {
         "borough_id": 1158857281,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 471018409,
-    "wof:lastmodified": 1583786217,
+    "wof:lastmodified": 1609869006,
     "wof:name": "N22 8YL",
     "wof:parent_id": 101750367,
     "wof:placetype": "postalcode",
@@ -55,10 +55,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.117267, 
-    51.608935, 
-    -0.117267, 
-    51.608935
+    -0.117168, 
+    51.608982, 
+    -0.117168, 
+    51.608982
   ],
-  "geometry": {"coordinates":[-0.117267,51.608935],"type":"Point"}
+  "geometry": {"coordinates":[-0.117168,51.608982],"type":"Point"}
 }

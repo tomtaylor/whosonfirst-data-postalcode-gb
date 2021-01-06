@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.277940,51.244929,-1.277940,51.244929",
-    "geom:latitude": 51.244929,
-    "geom:longitude": -1.27794,
+    "geom:bbox": "-1.276869,51.244670,-1.276869,51.244670",
+    "geom:latitude": 51.24467,
+    "geom:longitude": -1.276869,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698557, 
       85633159, 
       1360698827, 
       404436953, 
-      1327461077
+      1327461077, 
+      404227469, 
+      1360698557
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701665,
-    "wof:geomhash": "ccb3288492f857c0bfd0794c6b36cf35",
+    "wof:geomhash": "b3b6702e69aa43a37ea55db171f656d4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471541643,
-    "wof:lastmodified": 1583786798,
+    "wof:lastmodified": 1609896192,
     "wof:name": "RG25 3DQ",
     "wof:parent_id": 404436953,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.27794, 
-    51.244929, 
-    -1.27794, 
-    51.244929
+    -1.276869, 
+    51.24467, 
+    -1.276869, 
+    51.24467
   ],
-  "geometry": {"coordinates":[-1.27794,51.244929],"type":"Point"}
+  "geometry": {"coordinates":[-1.276869,51.24467],"type":"Point"}
 }

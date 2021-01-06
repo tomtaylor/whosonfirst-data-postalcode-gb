@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.022570,52.404871,-2.022570,52.404871",
-    "geom:latitude": 52.404871,
-    "geom:longitude": -2.02257,
+    "geom:bbox": "-2.022614,52.404835,-2.022614,52.404835",
+    "geom:latitude": 52.404835,
+    "geom:longitude": -2.022614,
     "gp:parent_id": "33713",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      404437931, 
       1360753439, 
       404227469, 
       1360698605, 
       85633159, 
-      1360699077
+      1360699077, 
+      404437931
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701670,
-    "wof:geomhash": "fab43322356817babfa7ab6a4c094cb9",
+    "wof:geomhash": "daf6db725d31cb1cf95e810923904390",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 437996303,
-    "wof:lastmodified": 1583786840,
+    "wof:lastmodified": 1609899115,
     "wof:name": "B45 0NN",
     "wof:parent_id": 404437931,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.02257, 
-    52.404871, 
-    -2.02257, 
-    52.404871
+    -2.022614, 
+    52.404835, 
+    -2.022614, 
+    52.404835
   ],
-  "geometry": {"coordinates":[-2.02257,52.404871],"type":"Point"}
+  "geometry": {"coordinates":[-2.022614,52.404835],"type":"Point"}
 }

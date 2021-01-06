@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.527647,51.452300,-2.527647,51.452300",
-    "geom:latitude": 51.4523,
-    "geom:longitude": -2.527647,
+    "geom:bbox": "-2.527575,51.452272,-2.527575,51.452272",
+    "geom:latitude": 51.452272,
+    "geom:longitude": -2.527575,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,13 +18,13 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      85861379, 
-      1360698531, 
       85633159, 
       1360698747, 
       404431949, 
       1175612699, 
-      404227469
+      404227469, 
+      85861379, 
+      1360698531
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701257,
-    "wof:geomhash": "2e4c9b344852d6aab637d0552411e369",
+    "wof:geomhash": "66547612fae59a3da81f75321005d5c4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 454040573,
-    "wof:lastmodified": 1583786188,
+    "wof:lastmodified": 1609868728,
     "wof:name": "BS5 8RU",
     "wof:parent_id": 101750389,
     "wof:placetype": "postalcode",
@@ -55,10 +55,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.527647, 
-    51.4523, 
-    -2.527647, 
-    51.4523
+    -2.527575, 
+    51.452272, 
+    -2.527575, 
+    51.452272
   ],
-  "geometry": {"coordinates":[-2.527647,51.4523],"type":"Point"}
+  "geometry": {"coordinates":[-2.527575,51.452272],"type":"Point"}
 }

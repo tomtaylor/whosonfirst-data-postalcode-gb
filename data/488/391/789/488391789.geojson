@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.099101,55.879776,-3.099101,55.879776",
-    "geom:latitude": 55.879776,
-    "geom:longitude": -3.099101,
+    "geom:bbox": "-3.098828,55.880300,-3.098828,55.880300",
+    "geom:latitude": 55.8803,
+    "geom:longitude": -3.098828,
     "gp:parent_id": "12696201",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698791, 
+      404436513, 
       404227471, 
       1360698677, 
-      85633159, 
-      1360698791, 
-      404436513
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701401,
-    "wof:geomhash": "fffd5a8c2f0bf75e7b83c42edda11dcd",
+    "wof:geomhash": "3300b9702dbaae36ce861e2ffea4192c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488391789,
-    "wof:lastmodified": 1595733478,
+    "wof:lastmodified": 1609889702,
     "wof:name": "EH19 2DU",
     "wof:parent_id": 404436513,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.099101, 
-    55.879776, 
-    -3.099101, 
-    55.879776
+    -3.098828, 
+    55.8803, 
+    -3.098828, 
+    55.8803
   ],
-  "geometry": {"coordinates":[-3.099101,55.879776],"type":"Point"}
+  "geometry": {"coordinates":[-3.098828,55.8803],"type":"Point"}
 }

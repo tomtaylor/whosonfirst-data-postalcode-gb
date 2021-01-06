@@ -2,29 +2,29 @@
   "id": 471205171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2011-01-01",
-    "edtf:inception": "1980-01-01",
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2020-06-01",
     "geom:area": 0,
-    "geom:bbox": "1.373892,52.672449,1.373892,52.672449",
-    "geom:latitude": 52.672449,
-    "geom:longitude": 1.373892,
+    "geom:bbox": "1.365853,52.668063,1.365853,52.668063",
+    "geom:latitude": 52.668063,
+    "geom:longitude": 1.365853,
     "gp:parent_id": "32809",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000020",
     "os:district_code": "E07000144",
-    "os:positional_quality_indicator": "1",
+    "os:positional_quality_indicator": "5",
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698575, 
-      85633159, 
-      1360698955, 
       404445311, 
       1125772899, 
-      404227469
+      404227469, 
+      1360698575, 
+      85633159, 
+      1360698955
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701396,
-    "wof:geomhash": "4bcc377d1a6cb27d6a67a70e3466cdea",
+    "wof:geomhash": "7ef1eb9f135f56f4b436c04d76194ded",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471205171,
-    "wof:lastmodified": 1583786551,
+    "wof:lastmodified": 1609880045,
     "wof:name": "NR13 6LR",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.373892, 
-    52.672449, 
-    1.373892, 
-    52.672449
+    1.365853, 
+    52.668063, 
+    1.365853, 
+    52.668063
   ],
-  "geometry": {"coordinates":[1.373892,52.672449],"type":"Point"}
+  "geometry": {"coordinates":[1.365853,52.668063],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2001-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.486200,51.775987,-1.486200,51.775987",
-    "geom:latitude": 51.775987,
-    "geom:longitude": -1.4862,
+    "geom:bbox": "-1.484215,51.775915,-1.484215,51.775915",
+    "geom:latitude": 51.775915,
+    "geom:longitude": -1.484215,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404450543, 
       101852913, 
       404227469, 
       1360698585, 
       85633159, 
-      1360698839
+      1360698839, 
+      404450543
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701509,
-    "wof:geomhash": "828f6e18a2c6711c2150d7c0c4963afe",
+    "wof:geomhash": "b03b4d902f148b169e61c45be4fa0548",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 471331239,
-    "wof:lastmodified": 1583786657,
+    "wof:lastmodified": 1609886882,
     "wof:name": "OX28 4YQ",
     "wof:parent_id": 101852913,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.4862, 
-    51.775987, 
-    -1.4862, 
-    51.775987
+    -1.484215, 
+    51.775915, 
+    -1.484215, 
+    51.775915
   ],
-  "geometry": {"coordinates":[-1.4862,51.775987],"type":"Point"}
+  "geometry": {"coordinates":[-1.484215,51.775915],"type":"Point"}
 }

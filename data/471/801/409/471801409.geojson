@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1984-02-01",
     "geom:area": 0,
-    "geom:bbox": "-0.616538,51.513824,-0.616538,51.513824",
-    "geom:latitude": 51.513824,
-    "geom:longitude": -0.616538,
+    "geom:bbox": "-0.616526,51.513743,-0.616526,51.513743",
+    "geom:latitude": 51.513743,
+    "geom:longitude": -0.616526,
     "gp:parent_id": "35009",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      404227469, 
+      1360698529, 
       85633159, 
       1360699061, 
-      101750381, 
-      404227469, 
-      1360698529
+      101750381
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701741,
-    "wof:geomhash": "62976fa888cdd724418585866963c454",
+    "wof:geomhash": "14c8a41b0e5b96828f07d3db7112cc69",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 471801409,
-    "wof:lastmodified": 1583786912,
+    "wof:lastmodified": 1609903117,
     "wof:name": "SL1 3XJ",
     "wof:parent_id": 101750381,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.616538, 
-    51.513824, 
-    -0.616538, 
-    51.513824
+    -0.616526, 
+    51.513743, 
+    -0.616526, 
+    51.513743
   ],
-  "geometry": {"coordinates":[-0.616538,51.513824],"type":"Point"}
+  "geometry": {"coordinates":[-0.616526,51.513743],"type":"Point"}
 }

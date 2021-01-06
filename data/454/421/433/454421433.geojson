@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.656760,53.595426,-0.656760,53.595426",
-    "geom:latitude": 53.595426,
-    "geom:longitude": -0.65676,
+    "geom:bbox": "-0.656778,53.595474,-0.656778,53.595474",
+    "geom:latitude": 53.595474,
+    "geom:longitude": -0.656778,
     "gp:parent_id": "34260",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698901, 
+      101750557, 
       404227469, 
       1360698571, 
-      85633159, 
-      1360698901, 
-      101750557
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701558,
-    "wof:geomhash": "c2310d6cd890a771cb6a63c46f223e3d",
+    "wof:geomhash": "393c2dbaad23bd2aabff5c716e38d44f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454421433,
-    "wof:lastmodified": 1583786686,
+    "wof:lastmodified": 1609888769,
     "wof:name": "DN15 7LP",
     "wof:parent_id": 101750557,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.65676, 
-    53.595426, 
-    -0.65676, 
-    53.595426
+    -0.656778, 
+    53.595474, 
+    -0.656778, 
+    53.595474
   ],
-  "geometry": {"coordinates":[-0.65676,53.595426],"type":"Point"}
+  "geometry": {"coordinates":[-0.656778,53.595474],"type":"Point"}
 }

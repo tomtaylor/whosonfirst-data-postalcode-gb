@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.415127,52.474886,-1.415127,52.474886",
-    "geom:latitude": 52.474886,
-    "geom:longitude": -1.415127,
+    "geom:bbox": "-1.415012,52.474678,-1.415012,52.474678",
+    "geom:latitude": 52.474678,
+    "geom:longitude": -1.415012,
     "gp:parent_id": "14463",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698891, 
       1360817293, 
       1125911303, 
       404227469, 
-      1360698603
+      1360698603, 
+      85633159, 
+      1360698891
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701418,
-    "wof:geomhash": "9ee27b4a637f5cfe707fa5ec254e6a8d",
+    "wof:geomhash": "d05030e579fa920da82aef96fb2c97ac",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454252783,
-    "wof:lastmodified": 1583786548,
+    "wof:lastmodified": 1609880265,
     "wof:name": "CV12 9JL",
     "wof:parent_id": 404434601,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.415127, 
-    52.474886, 
-    -1.415127, 
-    52.474886
+    -1.415012, 
+    52.474678, 
+    -1.415012, 
+    52.474678
   ],
-  "geometry": {"coordinates":[-1.415127,52.474886],"type":"Point"}
+  "geometry": {"coordinates":[-1.415012,52.474678],"type":"Point"}
 }

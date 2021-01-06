@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.046879,52.587130,-2.046879,52.587130",
-    "geom:latitude": 52.58713,
-    "geom:longitude": -2.046879,
+    "geom:bbox": "-2.046460,52.587308,-2.046460,52.587308",
+    "geom:latitude": 52.587308,
+    "geom:longitude": -2.04646,
     "gp:parent_id": "40511",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698605, 
-      85633159, 
       1360698875, 
       1125853123, 
-      404227469
+      404227469, 
+      1360698605, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701117,
-    "wof:geomhash": "09e8134ec78e793ec65305c66bac3c67",
+    "wof:geomhash": "f5aee5b1e4d9e531f4ff8fbb4afd7bba",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488209403,
-    "wof:lastmodified": 1583786369,
+    "wof:lastmodified": 1609880389,
     "wof:name": "WV13 1NE",
     "wof:parent_id": 101914035,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.046879, 
-    52.58713, 
-    -2.046879, 
-    52.58713
+    -2.04646, 
+    52.587308, 
+    -2.04646, 
+    52.587308
   ],
-  "geometry": {"coordinates":[-2.046879,52.58713],"type":"Point"}
+  "geometry": {"coordinates":[-2.04646,52.587308],"type":"Point"}
 }

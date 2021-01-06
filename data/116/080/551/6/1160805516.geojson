@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.593378,53.480170,-0.593378,53.480170",
-    "geom:latitude": 53.48017,
-    "geom:longitude": -0.593378,
+    "geom:bbox": "-0.592743,53.480235,-0.592743,53.480235",
+    "geom:latitude": 53.480235,
+    "geom:longitude": -0.592743,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
-      404449925, 
-      101874149, 
-      404227469, 
       1360698571, 
       85633159, 
-      1360698901
+      1360698901, 
+      404449925, 
+      101874149, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583790766,
-    "wof:geomhash": "4a08f98e26f0d6d69c4d64cb1fed8886",
+    "wof:geomhash": "58b96e422764e73805192d4cd5129a43",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1160805516,
-    "wof:lastmodified": 1595710917,
+    "wof:lastmodified": 1609870157,
     "wof:name": "DN21 4BF",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.593378, 
-    53.48017, 
-    -0.593378, 
-    53.48017
+    -0.592743, 
+    53.480235, 
+    -0.592743, 
+    53.480235
   ],
-  "geometry": {"coordinates":[-0.593378,53.48017],"type":"Point"}
+  "geometry": {"coordinates":[-0.592743,53.480235],"type":"Point"}
 }

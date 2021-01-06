@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2001-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.277378,51.268372,-2.277378,51.268372",
-    "geom:latitude": 51.268372,
-    "geom:longitude": -2.277378,
+    "geom:bbox": "-2.277673,51.268006,-2.277673,51.268006",
+    "geom:latitude": 51.268006,
+    "geom:longitude": -2.277673,
     "gp:parent_id": "12193",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698589, 
-      85633159, 
       1360699059, 
       404448861, 
       1126060367, 
-      404227469
+      404227469, 
+      1360698589, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701155,
-    "wof:geomhash": "09e36759b8ecbb144757c790382c2c82",
+    "wof:geomhash": "3ce9cb3e1ed4b0e14876ba979b8cb12d",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 438051983,
-    "wof:lastmodified": 1583786285,
+    "wof:lastmodified": 1609870071,
     "wof:name": "BA11 6TS",
     "wof:parent_id": 404448861,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.277378, 
-    51.268372, 
-    -2.277378, 
-    51.268372
+    -2.277673, 
+    51.268006, 
+    -2.277673, 
+    51.268006
   ],
-  "geometry": {"coordinates":[-2.277378,51.268372],"type":"Point"}
+  "geometry": {"coordinates":[-2.277673,51.268006],"type":"Point"}
 }

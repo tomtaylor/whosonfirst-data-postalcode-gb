@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.137144,52.713500,-1.137144,52.713500",
-    "geom:latitude": 52.7135,
-    "geom:longitude": -1.137144,
+    "geom:bbox": "-1.137158,52.713545,-1.137158,52.713545",
+    "geom:latitude": 52.713545,
+    "geom:longitude": -1.137158,
     "gp:parent_id": "33602",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698569, 
       85633159, 
       1360698871, 
       404447469, 
       1125958111, 
-      404227469, 
-      1360698569
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701128,
-    "wof:geomhash": "7f36ec02813c8cb4791c1201619ac512",
+    "wof:geomhash": "dc2547a0942bb749fc7da7ce512a6838",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 455044969,
-    "wof:lastmodified": 1583786249,
+    "wof:lastmodified": 1609869822,
     "wof:name": "LE7 7PT",
     "wof:parent_id": 101875503,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.137144, 
-    52.7135, 
-    -1.137144, 
-    52.7135
+    -1.137158, 
+    52.713545, 
+    -1.137158, 
+    52.713545
   ],
-  "geometry": {"coordinates":[-1.137144,52.7135],"type":"Point"}
+  "geometry": {"coordinates":[-1.137158,52.713545],"type":"Point"}
 }

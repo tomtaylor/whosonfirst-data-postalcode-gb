@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1994-05-01",
     "geom:area": 0,
-    "geom:bbox": "-2.326702,53.549214,-2.326702,53.549214",
-    "geom:latitude": 53.549214,
-    "geom:longitude": -2.326702,
+    "geom:bbox": "-2.326262,53.549267,-2.326262,53.549267",
+    "geom:latitude": 53.549267,
+    "geom:longitude": -2.326262,
     "gp:parent_id": "32818",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698555, 
       85633159, 
       1360698847, 
       101750567, 
       404227469, 
-      85791629
+      85791629, 
+      1360698555
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701209,
-    "wof:geomhash": "4c8ac1db832da4160a4d78f5a7de323b",
+    "wof:geomhash": "957e154f0b6aa15ad7458a1603913fe3",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470885001,
-    "wof:lastmodified": 1583786344,
+    "wof:lastmodified": 1609871321,
     "wof:name": "M26 1BF",
     "wof:parent_id": 101913947,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.326702, 
-    53.549214, 
-    -2.326702, 
-    53.549214
+    -2.326262, 
+    53.549267, 
+    -2.326262, 
+    53.549267
   ],
-  "geometry": {"coordinates":[-2.326702,53.549214],"type":"Point"}
+  "geometry": {"coordinates":[-2.326262,53.549267],"type":"Point"}
 }

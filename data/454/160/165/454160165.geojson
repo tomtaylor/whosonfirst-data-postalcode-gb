@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.435580,51.853760,0.435580,51.853760",
-    "geom:latitude": 51.85376,
-    "geom:longitude": 0.43558,
+    "geom:bbox": "0.435453,51.853826,0.435453,51.853826",
+    "geom:latitude": 51.853826,
+    "geom:longitude": 0.435453,
     "gp:parent_id": "20041",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1125875865, 
-      404227469, 
       1360698551, 
       85633159, 
       1360698979, 
-      404437693
+      404437693, 
+      1125875865, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701324,
-    "wof:geomhash": "edeaada66f7f7ff536d204eb1c586378",
+    "wof:geomhash": "9f4994dddf733af959947e74b273d642",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454160165,
-    "wof:lastmodified": 1583786460,
+    "wof:lastmodified": 1609874918,
     "wof:name": "CM6 3ES",
     "wof:parent_id": 404437693,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.43558, 
-    51.85376, 
-    0.43558, 
-    51.85376
+    0.435453, 
+    51.853826, 
+    0.435453, 
+    51.853826
   ],
-  "geometry": {"coordinates":[0.43558,51.85376],"type":"Point"}
+  "geometry": {"coordinates":[0.435453,51.853826],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-04-01",
     "geom:area": 0,
-    "geom:bbox": "-2.204074,53.568288,-2.204074,53.568288",
-    "geom:latitude": 53.568288,
-    "geom:longitude": -2.204074,
+    "geom:bbox": "-2.204045,53.568558,-2.204045,53.568558",
+    "geom:latitude": 53.568558,
+    "geom:longitude": -2.204045,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
       1360699063, 
       101750565, 
       404227469, 
       85860957, 
-      1360698555
+      1360698555, 
+      85633159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1595735655,
-    "wof:geomhash": "1b6c7c297668f7b398e941a216dbbf91",
+    "wof:geomhash": "f91a8f72728ffbaebd7c072c091b2faf",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1713331469,
-    "wof:lastmodified": 1595753477,
+    "wof:lastmodified": 1609875490,
     "wof:name": "M24 6FD",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.204074, 
-    53.568288, 
-    -2.204074, 
-    53.568288
+    -2.204045, 
+    53.568558, 
+    -2.204045, 
+    53.568558
   ],
-  "geometry": {"coordinates":[-2.204074,53.568288],"type":"Point"}
+  "geometry": {"coordinates":[-2.204045,53.568558],"type":"Point"}
 }

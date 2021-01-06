@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.474850,53.814425,-1.474850,53.814425",
-    "geom:latitude": 53.814425,
-    "geom:longitude": -1.47485,
+    "geom:bbox": "-1.474895,53.814479,-1.474895,53.814479",
+    "geom:latitude": 53.814479,
+    "geom:longitude": -1.474895,
     "gp:parent_id": "26042",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698609, 
       85633159, 
       1360698749, 
       101750579, 
       404227469, 
-      85790217, 
-      1360698609
+      85790217
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701211,
-    "wof:geomhash": "c1eae126bcdc55dad794d6b25f762e55",
+    "wof:geomhash": "15b23c94a35ba41ffe91681da0bcc8db",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 455080749,
-    "wof:lastmodified": 1595718651,
+    "wof:lastmodified": 1609871596,
     "wof:name": "LS14 6TR",
     "wof:parent_id": 101750579,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.47485, 
-    53.814425, 
-    -1.47485, 
-    53.814425
+    -1.474895, 
+    53.814479, 
+    -1.474895, 
+    53.814479
   ],
-  "geometry": {"coordinates":[-1.47485,53.814425],"type":"Point"}
+  "geometry": {"coordinates":[-1.474895,53.814479],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1993-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.581356,53.810448,-1.581356,53.810448",
-    "geom:latitude": 53.810448,
-    "geom:longitude": -1.581356,
+    "geom:bbox": "-1.581294,53.810619,-1.581294,53.810619",
+    "geom:latitude": 53.810619,
+    "geom:longitude": -1.581294,
     "gp:parent_id": "26042",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
+      101750579, 
+      404227469, 
       85861565, 
       1360698609, 
       85633159, 
-      1360698749, 
-      101750579, 
-      404227469
+      1360698749
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701090,
-    "wof:geomhash": "3660006f79600c5e5f1fcd0be87f8abc",
+    "wof:geomhash": "d90371e1d1b3ae83b2025bdce3f540a7",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 470836285,
-    "wof:lastmodified": 1583786204,
+    "wof:lastmodified": 1609869190,
     "wof:name": "LS4 2NX",
     "wof:parent_id": 101750579,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.581356, 
-    53.810448, 
-    -1.581356, 
-    53.810448
+    -1.581294, 
+    53.810619, 
+    -1.581294, 
+    53.810619
   ],
-  "geometry": {"coordinates":[-1.581356,53.810448],"type":"Point"}
+  "geometry": {"coordinates":[-1.581294,53.810619],"type":"Point"}
 }

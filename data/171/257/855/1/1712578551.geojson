@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2017-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.142333,52.248125,-2.142333,52.248125",
-    "geom:latitude": 52.248125,
-    "geom:longitude": -2.142333,
+    "geom:bbox": "-2.142406,52.248098,-2.142406,52.248098",
+    "geom:latitude": 52.248098,
+    "geom:longitude": -2.142406,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
-      1226570133, 
-      404227469, 
       1360698613, 
       85633159, 
       1360699043, 
-      404452429
+      404452429, 
+      1226570133, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583794284,
-    "wof:geomhash": "be6e3302973ed99a462c0a683d4fd184",
+    "wof:geomhash": "fe9f5f55d37132ea9ca2aedcf414945f",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 1712578551,
-    "wof:lastmodified": 1583794284,
+    "wof:lastmodified": 1609871062,
     "wof:name": "WR9 7FL",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.142333, 
-    52.248125, 
-    -2.142333, 
-    52.248125
+    -2.142406, 
+    52.248098, 
+    -2.142406, 
+    52.248098
   ],
-  "geometry": {"coordinates":[-2.142333,52.248125],"type":"Point"}
+  "geometry": {"coordinates":[-2.142406,52.248098],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.530358,54.545006,-1.530358,54.545006",
-    "geom:latitude": 54.545006,
-    "geom:longitude": -1.530358,
+    "geom:bbox": "-1.530305,54.545026,-1.530305,54.545026",
+    "geom:latitude": 54.545026,
+    "geom:longitude": -1.530305,
     "gp:parent_id": "17940",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469, 
-      1360698621, 
       85633159, 
       1360698889, 
-      101750605
+      101750605, 
+      404227469, 
+      1360698621
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701531,
-    "wof:geomhash": "f124ec498d5f48a9c7745b2c016c39e4",
+    "wof:geomhash": "d829c0f4d6243683dd75c24eee15be6c",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 454383635,
-    "wof:lastmodified": 1583786662,
+    "wof:lastmodified": 1609886769,
     "wof:name": "DL1 2AR",
     "wof:parent_id": 101750605,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.530358, 
-    54.545006, 
-    -1.530358, 
-    54.545006
+    -1.530305, 
+    54.545026, 
+    -1.530305, 
+    54.545026
   ],
-  "geometry": {"coordinates":[-1.530358,54.545006],"type":"Point"}
+  "geometry": {"coordinates":[-1.530305,54.545026],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2019-05-01",
     "geom:area": 0,
-    "geom:bbox": "0.535567,51.406903,0.535567,51.406903",
-    "geom:latitude": 51.406903,
-    "geom:longitude": 0.535567,
+    "geom:bbox": "0.535255,51.406990,0.535255,51.406990",
+    "geom:latitude": 51.40699,
+    "geom:longitude": 0.535255,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699105, 
       1360817083, 
       101750327, 
       404227469, 
       1360698565, 
-      85633159
+      85633159, 
+      1360699105
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583798432,
-    "wof:geomhash": "5e9f359aaabd754bd5b5a2bdbc2de059",
+    "wof:geomhash": "d06b9a1d16351fbc91430dcefefb42f0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 39164040,
-    "wof:lastmodified": 1583798432,
+    "wof:lastmodified": 1609868532,
     "wof:name": "ME4 3AX",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.535567, 
-    51.406903, 
-    0.535567, 
-    51.406903
+    0.535255, 
+    51.40699, 
+    0.535255, 
+    51.40699
   ],
-  "geometry": {"coordinates":[0.535567,51.406903],"type":"Point"}
+  "geometry": {"coordinates":[0.535255,51.40699],"type":"Point"}
 }

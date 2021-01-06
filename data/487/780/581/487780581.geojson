@@ -5,8 +5,8 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.670520,52.993909,-2.670520,52.993909",
-    "geom:latitude": 52.993909,
+    "geom:bbox": "-2.670520,52.993923,-2.670520,52.993923",
+    "geom:latitude": 52.993923,
     "geom:longitude": -2.67052,
     "gp:parent_id": "12602157",
     "iso:country": "GB",
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698929, 
       404438287, 
       1360754031, 
       404227469, 
-      1360698537, 
-      85633159, 
-      1360698929
+      1360698537
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701164,
-    "wof:geomhash": "d8344ae567a7952e67c0d415fe96cbd6",
+    "wof:geomhash": "4b15a20e6cdf7c8485c0e48a5d2c9cf7",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 487780581,
-    "wof:lastmodified": 1583786266,
+    "wof:lastmodified": 1609879427,
     "wof:name": "SY13 4LD",
     "wof:parent_id": 404438287,
     "wof:placetype": "postalcode",
@@ -55,9 +55,9 @@
   },
   "bbox": [
     -2.67052, 
-    52.993909, 
+    52.993923, 
     -2.67052, 
-    52.993909
+    52.993923
   ],
-  "geometry": {"coordinates":[-2.67052,52.993909],"type":"Point"}
+  "geometry": {"coordinates":[-2.67052,52.993923],"type":"Point"}
 }

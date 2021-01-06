@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2006-04-01",
     "geom:area": 0,
-    "geom:bbox": "-4.446494,55.601017,-4.446494,55.601017",
-    "geom:latitude": 55.601017,
-    "geom:longitude": -4.446494,
+    "geom:bbox": "-4.446488,55.600980,-4.446488,55.600980",
+    "geom:latitude": 55.60098,
+    "geom:longitude": -4.446488,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,11 +18,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698697, 
       85633159, 
       1360698779, 
       404451413, 
-      404227471
+      404227471, 
+      1360698697
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -30,7 +30,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701544,
-    "wof:geomhash": "7b6734b9426f2902dc2a3d3c43891211",
+    "wof:geomhash": "cc6e237bc1da468b6186765de4de38ef",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -41,7 +41,7 @@
       }
     ],
     "wof:id": 504746675,
-    "wof:lastmodified": 1583786698,
+    "wof:lastmodified": 1609888763,
     "wof:name": "KA1 5HP",
     "wof:parent_id": 101872429,
     "wof:placetype": "postalcode",
@@ -51,10 +51,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.446494, 
-    55.601017, 
-    -4.446494, 
-    55.601017
+    -4.446488, 
+    55.60098, 
+    -4.446488, 
+    55.60098
   ],
-  "geometry": {"coordinates":[-4.446494,55.601017],"type":"Point"}
+  "geometry": {"coordinates":[-4.446488,55.60098],"type":"Point"}
 }

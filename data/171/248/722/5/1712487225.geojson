@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2020-01-01",
     "geom:area": 0,
-    "geom:bbox": "-4.127936,55.860310,-4.127936,55.860310",
-    "geom:latitude": 55.86031,
-    "geom:longitude": -4.127936,
+    "geom:bbox": "-4.127966,55.860570,-4.127966,55.860570",
+    "geom:latitude": 55.86057,
+    "geom:longitude": -4.127966,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,18 +18,18 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698797, 
-      404430153, 
       1175612707, 
       404227471, 
       85792567, 
       1360698707, 
-      85633159
+      85633159, 
+      1360698797, 
+      404430153
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583790245,
-    "wof:geomhash": "d9d696338be54e849eff05c9647f95ef",
+    "wof:geomhash": "b36ae57fe157957db6dd5967f2f7c3f9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 1712487225,
-    "wof:lastmodified": 1595710859,
+    "wof:lastmodified": 1609869185,
     "wof:name": "G33 4TS",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.127936, 
-    55.86031, 
-    -4.127936, 
-    55.86031
+    -4.127966, 
+    55.86057, 
+    -4.127966, 
+    55.86057
   ],
-  "geometry": {"coordinates":[-4.127936,55.86031],"type":"Point"}
+  "geometry": {"coordinates":[-4.127966,55.86057],"type":"Point"}
 }

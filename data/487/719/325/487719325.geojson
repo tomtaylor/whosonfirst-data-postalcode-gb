@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.188897,53.041090,-2.188897,53.041090",
-    "geom:latitude": 53.04109,
-    "geom:longitude": -2.188897,
+    "geom:bbox": "-2.188568,53.041082,-2.188568,53.041082",
+    "geom:latitude": 53.041082,
+    "geom:longitude": -2.188568,
     "gp:parent_id": "44044",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
+      1175612703, 
+      404227469, 
       1360698593, 
       85633159, 
-      1360698805, 
-      1175612703, 
-      404227469
+      1360698805
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701136,
-    "wof:geomhash": "1cc83f090692c4486ff8a7920427dccb",
+    "wof:geomhash": "2062b9ce9a252f125c9992e6f2446bbe",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 487719325,
-    "wof:lastmodified": 1583786233,
+    "wof:lastmodified": 1609875474,
     "wof:name": "ST6 2BU",
     "wof:parent_id": 101750495,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.188897, 
-    53.04109, 
-    -2.188897, 
-    53.04109
+    -2.188568, 
+    53.041082, 
+    -2.188568, 
+    53.041082
   ],
-  "geometry": {"coordinates":[-2.188897,53.04109],"type":"Point"}
+  "geometry": {"coordinates":[-2.188568,53.041082],"type":"Point"}
 }

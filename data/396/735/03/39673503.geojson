@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2017-07-01",
     "geom:area": 0,
-    "geom:bbox": "1.528179,52.310099,1.528179,52.310099",
-    "geom:latitude": 52.310099,
-    "geom:longitude": 1.528179,
+    "geom:bbox": "1.527778,52.310030,1.527778,52.310030",
+    "geom:latitude": 52.31003,
+    "geom:longitude": 1.527778,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,17 +18,17 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360699041, 
       404438779, 
       1125843799, 
       404227469, 
-      1360698595
+      1360698595, 
+      85633159, 
+      1360699041
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583804045,
-    "wof:geomhash": "c8e3ed22484e1e00036e8c056853f9df",
+    "wof:geomhash": "84edd7d80f33f452899264b318b64222",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -40,7 +40,7 @@
       }
     ],
     "wof:id": 39673503,
-    "wof:lastmodified": 1583804045,
+    "wof:lastmodified": 1609868558,
     "wof:name": "IP19 9JN",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -50,10 +50,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.528179, 
-    52.310099, 
-    1.528179, 
-    52.310099
+    1.527778, 
+    52.31003, 
+    1.527778, 
+    52.31003
   ],
-  "geometry": {"coordinates":[1.528179,52.310099],"type":"Point"}
+  "geometry": {"coordinates":[1.527778,52.31003],"type":"Point"}
 }

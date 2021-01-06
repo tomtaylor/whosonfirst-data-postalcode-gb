@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.379851,53.181520,-1.379851,53.181520",
-    "geom:latitude": 53.18152,
-    "geom:longitude": -1.379851,
+    "geom:bbox": "-1.379819,53.181539,-1.379819,53.181539",
+    "geom:latitude": 53.181539,
+    "geom:longitude": -1.379819,
     "gp:parent_id": "30588",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      85633159, 
-      1360698765, 
       404449635, 
       1125939309, 
       404227469, 
-      1360698539
+      1360698539, 
+      85633159, 
+      1360698765
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701690,
-    "wof:geomhash": "fdec2545a27c776989173129779b969d",
+    "wof:geomhash": "f28a0b51b1c09ffc91f6282ea33a780a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471650781,
-    "wof:lastmodified": 1583786871,
+    "wof:lastmodified": 1609900299,
     "wof:name": "S42 5NH",
     "wof:parent_id": 404449635,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.379851, 
-    53.18152, 
-    -1.379851, 
-    53.18152
+    -1.379819, 
+    53.181539, 
+    -1.379819, 
+    53.181539
   ],
-  "geometry": {"coordinates":[-1.379851,53.18152],"type":"Point"}
+  "geometry": {"coordinates":[-1.379819,53.181539],"type":"Point"}
 }

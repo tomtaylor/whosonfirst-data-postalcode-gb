@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.996347,55.872744,-2.996347,55.872744",
-    "geom:latitude": 55.872744,
-    "geom:longitude": -2.996347,
+    "geom:bbox": "-2.996441,55.872672,-2.996441,55.872672",
+    "geom:latitude": 55.872672,
+    "geom:longitude": -2.996441,
     "gp:parent_id": "12696201",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227471, 
       1360698677, 
       85633159, 
       1360698791, 
-      404436513
+      404436513, 
+      404227471
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701631,
-    "wof:geomhash": "7c5a9988c7502fa8626432dbb780183e",
+    "wof:geomhash": "a39fd7b06bb78ee3fcca55868869aee5",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 488635987,
-    "wof:lastmodified": 1583786829,
+    "wof:lastmodified": 1609899561,
     "wof:name": "EH37 5RH",
     "wof:parent_id": 404436513,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.996347, 
-    55.872744, 
-    -2.996347, 
-    55.872744
+    -2.996441, 
+    55.872672, 
+    -2.996441, 
+    55.872672
   ],
-  "geometry": {"coordinates":[-2.996347,55.872744],"type":"Point"}
+  "geometry": {"coordinates":[-2.996441,55.872672],"type":"Point"}
 }

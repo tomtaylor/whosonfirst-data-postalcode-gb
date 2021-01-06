@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.080605,51.415619,-1.080605,51.415619",
-    "geom:latitude": 51.415619,
-    "geom:longitude": -1.080605,
+    "geom:bbox": "-1.080707,51.415566,-1.080707,51.415566",
+    "geom:latitude": 51.415566,
+    "geom:longitude": -1.080707,
     "gp:parent_id": "36593",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404445399, 
       1126052387, 
       404227469, 
       1360698529, 
       85633159, 
-      1360698857
+      1360698857, 
+      404445399
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701671,
-    "wof:geomhash": "ed5d05ea8d8f6b0ce01ca9be12f05def",
+    "wof:geomhash": "22103b3767e166a2b5510799ee58692a",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471562455,
-    "wof:lastmodified": 1583786811,
+    "wof:lastmodified": 1609896856,
     "wof:name": "RG7 4DL",
     "wof:parent_id": 404445399,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.080605, 
-    51.415619, 
-    -1.080605, 
-    51.415619
+    -1.080707, 
+    51.415566, 
+    -1.080707, 
+    51.415566
   ],
-  "geometry": {"coordinates":[-1.080605,51.415619],"type":"Point"}
+  "geometry": {"coordinates":[-1.080707,51.415566],"type":"Point"}
 }

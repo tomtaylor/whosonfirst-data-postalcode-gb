@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.776822,53.152226,-2.776822,53.152226",
-    "geom:latitude": 53.152226,
-    "geom:longitude": -2.776822,
+    "geom:bbox": "-2.776880,53.152145,-2.776880,53.152145",
+    "geom:latitude": 53.152145,
+    "geom:longitude": -2.77688,
     "gp:parent_id": "22447",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
+      85633159, 
+      1360698923, 
       404447365, 
       1360755183, 
       404227469, 
-      1360698537, 
-      85633159, 
-      1360698923
+      1360698537
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701220,
-    "wof:geomhash": "c67bf41126fad849bfd782e3ba37e22a",
+    "wof:geomhash": "841def3570ee80a4766ff3d4c570fc75",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454103761,
-    "wof:lastmodified": 1595711754,
+    "wof:lastmodified": 1609871026,
     "wof:name": "CH3 7RS",
     "wof:parent_id": 404447365,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.776822, 
-    53.152226, 
-    -2.776822, 
-    53.152226
+    -2.77688, 
+    53.152145, 
+    -2.77688, 
+    53.152145
   ],
-  "geometry": {"coordinates":[-2.776822,53.152226],"type":"Point"}
+  "geometry": {"coordinates":[-2.77688,53.152145],"type":"Point"}
 }

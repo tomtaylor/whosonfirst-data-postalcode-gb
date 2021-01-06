@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.524475,51.385935,0.524475,51.385935",
-    "geom:latitude": 51.385935,
-    "geom:longitude": 0.524475,
+    "geom:bbox": "0.524345,51.385398,0.524345,51.385398",
+    "geom:latitude": 51.385398,
+    "geom:longitude": 0.524345,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -18,12 +18,12 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360699105, 
-      1360817083, 
-      101750327, 
       404227469, 
       1360698565, 
-      85633159
+      85633159, 
+      1360699105, 
+      1360817083, 
+      101750327
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701330,
-    "wof:geomhash": "827edf137c6b5df9a87df0a838d78599",
+    "wof:geomhash": "4e1f4591cf97369b7e1f94ea5c0e7db0",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 470950687,
-    "wof:lastmodified": 1583786462,
+    "wof:lastmodified": 1609876251,
     "wof:name": "ME4 4SL",
     "wof:parent_id": 101750327,
     "wof:placetype": "postalcode",
@@ -53,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.524475, 
-    51.385935, 
-    0.524475, 
-    51.385935
+    0.524345, 
+    51.385398, 
+    0.524345, 
+    51.385398
   ],
-  "geometry": {"coordinates":[0.524475,51.385935],"type":"Point"}
+  "geometry": {"coordinates":[0.524345,51.385398],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1995-07-01",
     "geom:area": 0,
-    "geom:bbox": "-6.870313,58.140322,-6.870313,58.140322",
-    "geom:latitude": 58.140322,
-    "geom:longitude": -6.870313,
+    "geom:bbox": "-6.868212,58.140753,-6.868212,58.140753",
+    "geom:latitude": 58.140753,
+    "geom:longitude": -6.868212,
     "gp:parent_id": "34145",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      404227471, 
-      1360698685, 
       85633159, 
       1360699007, 
-      404429199
+      404429199, 
+      404227471, 
+      1360698685
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701244,
-    "wof:geomhash": "85e6e27edfecc042c190705cb9691383",
+    "wof:geomhash": "7766c1701317d2688c69585566ade380",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 504432753,
-    "wof:lastmodified": 1595728201,
+    "wof:lastmodified": 1609870996,
     "wof:name": "HS2 9EL",
     "wof:parent_id": 404429199,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -6.870313, 
-    58.140322, 
-    -6.870313, 
-    58.140322
+    -6.868212, 
+    58.140753, 
+    -6.868212, 
+    58.140753
   ],
-  "geometry": {"coordinates":[-6.870313,58.140322],"type":"Point"}
+  "geometry": {"coordinates":[-6.868212,58.140753],"type":"Point"}
 }

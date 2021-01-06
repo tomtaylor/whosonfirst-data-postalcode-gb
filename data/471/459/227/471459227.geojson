@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.083748,50.813625,-1.083748,50.813625",
-    "geom:latitude": 50.813625,
-    "geom:longitude": -1.083748,
+    "geom:bbox": "-1.084046,50.813591,-1.084046,50.813591",
+    "geom:latitude": 50.813591,
+    "geom:longitude": -1.084046,
     "gp:parent_id": "32452",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,11 +19,11 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
+      101750307, 
+      404227469, 
       1360698557, 
       85633159, 
-      1360699069, 
-      101750307, 
-      404227469
+      1360699069
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,7 +31,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701622,
-    "wof:geomhash": "7956abe32d5dd60e76911281e103a4d5",
+    "wof:geomhash": "90aec890211203056f351cd0119de0d4",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 471459227,
-    "wof:lastmodified": 1595722599,
+    "wof:lastmodified": 1609892903,
     "wof:name": "PO2 8QL",
     "wof:parent_id": 101750307,
     "wof:placetype": "postalcode",
@@ -52,10 +52,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.083748, 
-    50.813625, 
-    -1.083748, 
-    50.813625
+    -1.084046, 
+    50.813591, 
+    -1.084046, 
+    50.813591
   ],
-  "geometry": {"coordinates":[-1.083748,50.813625],"type":"Point"}
+  "geometry": {"coordinates":[-1.084046,50.813591],"type":"Point"}
 }

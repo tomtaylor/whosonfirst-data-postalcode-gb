@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "2000-12-01",
     "geom:area": 0,
-    "geom:bbox": "-2.971304,53.402118,-2.971304,53.402118",
-    "geom:latitude": 53.402118,
-    "geom:longitude": -2.971304,
+    "geom:bbox": "-2.971317,53.402028,-2.971317,53.402028",
+    "geom:latitude": 53.402028,
+    "geom:longitude": -2.971317,
     "gp:parent_id": "26734",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
-      101750547, 
-      404227469, 
       85787241, 
       1360698573, 
       85633159, 
-      1360698971
+      1360698971, 
+      101750547, 
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701760,
-    "wof:geomhash": "33ab7ad86f6d1771063d4573a8efb923",
+    "wof:geomhash": "1adfed9d2e2ab2cb1362153eb78f1379",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 454933915,
-    "wof:lastmodified": 1583786895,
+    "wof:lastmodified": 1609905104,
     "wof:name": "L1 9JG",
     "wof:parent_id": 101750547,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.971304, 
-    53.402118, 
-    -2.971304, 
-    53.402118
+    -2.971317, 
+    53.402028, 
+    -2.971317, 
+    53.402028
   ],
-  "geometry": {"coordinates":[-2.971304,53.402118],"type":"Point"}
+  "geometry": {"coordinates":[-2.971317,53.402028],"type":"Point"}
 }

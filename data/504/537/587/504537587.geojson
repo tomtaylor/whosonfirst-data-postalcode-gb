@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1999-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.694599,51.667669,-2.694599,51.667669",
-    "geom:latitude": 51.667669,
-    "geom:longitude": -2.694599,
+    "geom:bbox": "-2.694477,51.667256,-2.694477,51.667256",
+    "geom:latitude": 51.667256,
+    "geom:longitude": -2.694477,
     "gp:parent_id": "35578",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698641, 
+      85633159, 
       1360699109, 
       404442761, 
       1125978135, 
-      404227475, 
-      1360698641, 
-      85633159
+      404227475
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701411,
-    "wof:geomhash": "65457a3e11727364452448405ac9d47c",
+    "wof:geomhash": "ea728c0c4028fce87f3d5f44badbf0ed",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 504537587,
-    "wof:lastmodified": 1583786544,
+    "wof:lastmodified": 1609878300,
     "wof:name": "NP16 6HE",
     "wof:parent_id": 404442761,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.694599, 
-    51.667669, 
-    -2.694599, 
-    51.667669
+    -2.694477, 
+    51.667256, 
+    -2.694477, 
+    51.667256
   ],
-  "geometry": {"coordinates":[-2.694599,51.667669],"type":"Point"}
+  "geometry": {"coordinates":[-2.694477,51.667256],"type":"Point"}
 }

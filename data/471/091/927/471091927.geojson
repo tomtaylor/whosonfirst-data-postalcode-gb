@@ -5,9 +5,9 @@
     "edtf:cessation": "uuuu",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.852338,55.314129,-1.852338,55.314129",
-    "geom:latitude": 55.314129,
-    "geom:longitude": -1.852338,
+    "geom:bbox": "-1.847933,55.308310,-1.847933,55.308310",
+    "geom:latitude": 55.30831,
+    "geom:longitude": -1.847933,
     "gp:parent_id": "27409",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -19,12 +19,12 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
+      1360698727, 
       85633159, 
       1360698769, 
       404448085, 
       1360756335, 
-      404227469, 
-      1360698727
+      404227469
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,7 +32,7 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701275,
-    "wof:geomhash": "5087a764153323ddc0c6f0326c689626",
+    "wof:geomhash": "b4e590beb34a1bc9ed4aee55abe80cb9",
     "wof:hierarchy": [
       {
         "country_id": 85633159,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 471091927,
-    "wof:lastmodified": 1583786420,
+    "wof:lastmodified": 1609872433,
     "wof:name": "NE65 7XR",
     "wof:parent_id": 404448085,
     "wof:placetype": "postalcode",
@@ -54,10 +54,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.852338, 
-    55.314129, 
-    -1.852338, 
-    55.314129
+    -1.847933, 
+    55.30831, 
+    -1.847933, 
+    55.30831
   ],
-  "geometry": {"coordinates":[-1.852338,55.314129],"type":"Point"}
+  "geometry": {"coordinates":[-1.847933,55.30831],"type":"Point"}
 }
